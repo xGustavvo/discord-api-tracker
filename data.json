@@ -1,0 +1,216 @@
+[
+  {
+    "id": "1351706802684952638",
+    "summary": "Server Tag",
+    "sku": {
+      "id": "1351706802684952639",
+      "type": 2,
+      "product_line": 13,
+      "dependent_sku_id": null,
+      "application_id": "1340102344645283891",
+      "manifest_labels": null,
+      "access_type": 1,
+      "name": "Server Tag",
+      "features": [],
+      "release_date": null,
+      "premium": false,
+      "slug": "server-tag",
+      "flags": 0,
+      "show_age_gate": false,
+      "powerup_metadata": {
+        "guild_features": {
+          "features": [
+            "GUILD_TAGS"
+          ],
+          "additional_emoji_slots": 0,
+          "additional_sticker_slots": 0,
+          "additional_sound_slots": 0
+        },
+        "boost_price": 3,
+        "purchase_limit": 1
+      }
+    },
+    "description": "Let your members represent your server everywhere on Discord.",
+    "published": true,
+    "benefits": [],
+    "powerup_metadata": {
+      "category_type": "perk",
+      "static_image_url": "https://cdn.discordapp.com/assets/content/478ce7fb9a64e4d6c4792c82d93f724c2aa0444ac2dfc3e2dfdf43dd11a39c79.png",
+      "animated_image_url": "https://cdn.discordapp.com/assets/content/f15f451050f67dd0fbb25bab5166d0ec9f1c9aa24a14a7f6652041de8c628163.png"
+    }
+  },
+  {
+    "id": "1341925474816884798",
+    "summary": "Level 3",
+    "sku": {
+      "id": "1341586379779604623",
+      "type": 2,
+      "product_line": 13,
+      "dependent_sku_id": "1341586379779604622",
+      "application_id": "1340102344645283891",
+      "manifest_labels": null,
+      "access_type": 1,
+      "name": "Level 3",
+      "features": [],
+      "release_date": null,
+      "premium": false,
+      "slug": "level-3",
+      "flags": 0,
+      "show_age_gate": false,
+      "powerup_metadata": {
+        "guild_features": {
+          "features": [
+            "MAX_FILE_SIZE_100_MB",
+            "AUDIO_BITRATE_384_KBPS",
+            "STAGE_CHANNEL_VIEWERS_300",
+            "ANIMATED_BANNER",
+            "VANITY_URL"
+          ],
+          "additional_emoji_slots": 100,
+          "additional_sticker_slots": 30,
+          "additional_sound_slots": 12
+        },
+        "boost_price": 7,
+        "purchase_limit": 1
+      }
+    },
+    "description": "Level 3",
+    "published": true,
+    "benefits": [],
+    "powerup_metadata": {
+      "category_type": "level",
+      "static_image_url": "https://cdn.discordapp.com/assets/content/74bebcffe052733570281d5a346ed2c59047b9af7a9638c9a63359533d464261.svg",
+      "animated_image_url": null
+    }
+  },
+  {
+    "id": "1341925474816884797",
+    "summary": "Level 2",
+    "sku": {
+      "id": "1341586379779604622",
+      "type": 2,
+      "product_line": 13,
+      "dependent_sku_id": "1341586379779604621",
+      "application_id": "1340102344645283891",
+      "manifest_labels": null,
+      "access_type": 1,
+      "name": "Level 2",
+      "features": [],
+      "release_date": null,
+      "premium": false,
+      "slug": "level-2",
+      "flags": 0,
+      "show_age_gate": false,
+      "powerup_metadata": {
+        "guild_features": {
+          "features": [
+            "BANNER",
+            "VIDEO_QUALITY_1080_60FPS",
+            "STAGE_CHANNEL_VIEWERS_150",
+            "AUDIO_BITRATE_256_KBPS",
+            "MAX_FILE_SIZE_50_MB",
+            "ROLE_ICONS"
+          ],
+          "additional_emoji_slots": 50,
+          "additional_sticker_slots": 15,
+          "additional_sound_slots": 12
+        },
+        "boost_price": 5,
+        "purchase_limit": 1
+      }
+    },
+    "description": "Level 2",
+    "published": true,
+    "benefits": [],
+    "powerup_metadata": {
+      "category_type": "level",
+      "static_image_url": "https://cdn.discordapp.com/assets/content/74bebcffe052733570281d5a346ed2c59047b9af7a9638c9a63359533d464261.svg",
+      "animated_image_url": null
+    }
+  },
+  {
+    "id": "1341925474816884796",
+    "summary": "Level 1",
+    "sku": {
+      "id": "1341586379779604621",
+      "type": 2,
+      "product_line": 13,
+      "dependent_sku_id": null,
+      "application_id": "1340102344645283891",
+      "manifest_labels": null,
+      "access_type": 1,
+      "name": "Level 1",
+      "features": [],
+      "release_date": null,
+      "premium": false,
+      "slug": "level-1",
+      "flags": 0,
+      "show_age_gate": false,
+      "powerup_metadata": {
+        "guild_features": {
+          "features": [
+            "AUDIO_BITRATE_128_KBPS",
+            "INVITE_SPLASH",
+            "STAGE_CHANNEL_VIEWERS_50",
+            "VIDEO_BITRATE_ENHANCED",
+            "VIDEO_QUALITY_720_60FPS",
+            "ANIMATED_ICON"
+          ],
+          "additional_emoji_slots": 50,
+          "additional_sticker_slots": 10,
+          "additional_sound_slots": 16
+        },
+        "boost_price": 2,
+        "purchase_limit": 1
+      }
+    },
+    "description": "Level 1",
+    "published": true,
+    "benefits": [],
+    "powerup_metadata": {
+      "category_type": "level",
+      "static_image_url": "https://cdn.discordapp.com/assets/content/74bebcffe052733570281d5a346ed2c59047b9af7a9638c9a63359533d464261.svg",
+      "animated_image_url": null
+    }
+  },
+  {
+    "id": "1354906206329897103",
+    "summary": "Enhanced Role Styles",
+    "sku": {
+      "id": "1354906318279807056",
+      "type": 2,
+      "product_line": 13,
+      "dependent_sku_id": null,
+      "application_id": "1340102344645283891",
+      "manifest_labels": null,
+      "access_type": 1,
+      "name": "Enhanced Role Styles",
+      "features": [],
+      "release_date": null,
+      "premium": false,
+      "slug": "enhanced-role-styles",
+      "flags": 0,
+      "show_age_gate": false,
+      "powerup_metadata": {
+        "guild_features": {
+          "features": [
+            "ENHANCED_ROLE_COLORS"
+          ],
+          "additional_emoji_slots": 0,
+          "additional_sticker_slots": 0,
+          "additional_sound_slots": 0
+        },
+        "boost_price": 3,
+        "purchase_limit": 1
+      }
+    },
+    "description": "Make certain roles stand out with animated, vibrant gradients.",
+    "published": true,
+    "benefits": [],
+    "powerup_metadata": {
+      "category_type": "perk",
+      "static_image_url": "https://cdn.discordapp.com/assets/content/93c84331a5f11ba05946bce6fb4f85594d98cb52c8452e9b6869291da41cf62c.png",
+      "animated_image_url": "https://cdn.discordapp.com/assets/content/07ad706367af930589109e947258105fd0b8e1b97d1fccc4cbf1ec9905ffb4f1.png"
+    }
+  }
+]
