@@ -60,11 +60,11 @@
       "powerup_metadata": {
         "guild_features": {
           "features": [
-            "MAX_FILE_SIZE_100_MB",
-            "AUDIO_BITRATE_384_KBPS",
-            "STAGE_CHANNEL_VIEWERS_300",
+            "VANITY_URL",
             "ANIMATED_BANNER",
-            "VANITY_URL"
+            "STAGE_CHANNEL_VIEWERS_300",
+            "AUDIO_BITRATE_384_KBPS",
+            "MAX_FILE_SIZE_100_MB"
           ],
           "additional_emoji_slots": 100,
           "additional_sticker_slots": 30,
@@ -104,12 +104,12 @@
       "powerup_metadata": {
         "guild_features": {
           "features": [
-            "BANNER",
-            "VIDEO_QUALITY_1080_60FPS",
-            "STAGE_CHANNEL_VIEWERS_150",
             "AUDIO_BITRATE_256_KBPS",
+            "BANNER",
             "MAX_FILE_SIZE_50_MB",
-            "ROLE_ICONS"
+            "ROLE_ICONS",
+            "STAGE_CHANNEL_VIEWERS_150",
+            "VIDEO_QUALITY_1080_60FPS"
           ],
           "additional_emoji_slots": 50,
           "additional_sticker_slots": 15,
@@ -149,11 +149,11 @@
       "powerup_metadata": {
         "guild_features": {
           "features": [
-            "AUDIO_BITRATE_128_KBPS",
-            "INVITE_SPLASH",
-            "STAGE_CHANNEL_VIEWERS_50",
-            "VIDEO_BITRATE_ENHANCED",
             "VIDEO_QUALITY_720_60FPS",
+            "AUDIO_BITRATE_128_KBPS",
+            "STAGE_CHANNEL_VIEWERS_50",
+            "INVITE_SPLASH",
+            "VIDEO_BITRATE_ENHANCED",
             "ANIMATED_ICON"
           ],
           "additional_emoji_slots": 50,
