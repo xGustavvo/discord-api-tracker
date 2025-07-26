@@ -1,0 +1,92 @@
+{
+  "ACTIVITIES_ALPHA": {
+    "description": ""
+  },
+  "ACTIVITIES_EMPLOYEE": {
+    "description": ""
+  },
+  "ACTIVITIES_INTERNAL_DEV": {
+    "description": ""
+  },
+  "ANIMATED_BANNER": {
+    "description": "Ability to upload an animated banner image that will display above the channel list."
+  },
+  "ANIMATED_ICON": {
+    "description": "Ability to upload an animated icon, similar to animated profile pictures for Nitro members. Displays on hover and invite links on desktop, and plays constantly on mobile."
+  },
+  "APPLICATION_COMMAND_PERMISSIONS_V2": {
+    "description": "Guild has opted-in to the new Application Command Permission logic before it was applied to all servers."
+  },
+  "AUTO_MODERATION": {
+    "description": "Guild has set up auto moderation rules"
+  },
+  "AUTOMOD_TRIGGER_KEYWORD_FILTER": {
+    "description": ""
+  },
+  "AUTOMOD_TRIGGER_ML_SPAM_FILTER": {
+    "description": "Given to guilds previously in the 2022-03_automod_trigger_ml_spam_filter experiment overrides"
+  },
+  "AUTOMOD_TRIGGER_SPAM_LINK_FILTER": {
+    "description": ""
+  },
+  "AUTOMOD_TRIGGER_USER_PROFILE": {
+    "description": "Server has enabled AutoMod for user profiles."
+  },
+  "BANNER": {
+    "description": "Ability to set a banner image that will display above the channel list."
+  },
+  "BFG": {
+    "description": "Internally documented as big funky guild"
+  },
+  "BOOSTING_TIERS_EXPERIMENT_MEDIUM_GUILD": {
+    "description": ""
+  },
+  "BOOSTING_TIERS_EXPERIMENT_SMALL_GUILD": {
+    "description": ""
+  },
+  "BOT_DEVELOPER_EARLY_ACCESS": {
+    "description": "Enables early access features for bot and library developers."
+  },
+  "BURST_REACTIONS": {
+    "description": "Enables burst reactions for the guild"
+  },
+  "COMMUNITY_CANARY": {
+    "description": ""
+  },
+  "COMMUNITY_EXP_LARGE_GATED": {
+    "description": ""
+  },
+  "COMMUNITY_EXP_LARGE_UNGATED": {
+    "description": ""
+  },
+  "COMMUNITY_EXP_MEDIUM": {
+    "description": ""
+  },
+  "CHANNEL_EMOJIS_GENERATED": {
+    "description": ""
+  },
+  "CHANNEL_HIGHLIGHTS": {
+    "description": ""
+  },
+  "CHANNEL_HIGHLIGHTS_DISABLED": {
+    "description": ""
+  },
+  "CLYDE_DISABLED": {
+    "description": "Given when a server administrator disables ClydeAI for the guild"
+  },
+  "CLYDE_ENABLED": {
+    "description": "Server has enabled Clyde AI"
+  },
+  "CLYDE_EXPERIMENT_ENABLED": {
+    "description": "Enables ClydeAI for the guild"
+  },
+  "COMMUNITY": {
+    "description": "Gain access to Server Discovery, Insights, Community Server News, and Announcement Channels."
+  },
+  "CREATOR_ACCEPTED_NEW_TERMS": {
+    "description": "The server owner accepted the new monetization terms."
+  },
+  "CREATOR_MONETIZABLE": {
+    "description": "Given to guilds that enabled role subscriptions through the manual approval system"
+  }
+}
