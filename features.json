@@ -88,5 +88,356 @@
   },
   "CREATOR_MONETIZABLE": {
     "description": "Given to guilds that enabled role subscriptions through the manual approval system"
+  },
+  "CREATOR_MONETIZABLE_DISABLED": {
+    "description": ""
+  },
+  "CREATOR_MONETIZABLE_PENDING_NEW_OWNER_ONBOARDING": {
+    "description": ""
+  },
+  "CREATOR_MONETIZABLE_PROVISIONAL": {
+    "description": ""
+  },
+  "CREATOR_MONETIZABLE_RESTRICTED": {
+    "description": ""
+  },
+  "CREATOR_MONETIZABLE_WHITEGLOVE": {
+    "description": ""
+  },
+  "CREATOR_MONETIZATION_APPLICATION_ALLOWLIST": {
+    "description": ""
+  },
+  "CREATOR_STORE_PAGE": {
+    "description": ""
+  },
+  "DEVELOPER_SUPPORT_SERVER": {
+    "description": "Given to guilds that are set as the support server in App Directory."
+  },
+  "DISCOVERABLE_DISABLED": {
+    "description": "Guild is permanently removed from Discovery by Discord."
+  },
+  "DISCOVERABLE": {
+    "description": "Visible in Server Discovery."
+  },
+  "ENABLED_DISCOVERABLE_BEFORE": {
+    "description": "Given to servers that have enabled Discovery at any point."
+  },
+  "ENABLED_MODERATION_EXPERIENCE_FOR_NON_COMMUNITY": {
+    "description": "Moves the member list from the guild settings to the member tab for non-community guilds."
+  },
+  "ENHANCED_ROLE_COLORS": {
+    "description": ""
+  },
+  "EXPOSED_TO_ACTIVITIES_WTP_EXPERIMENT": {
+    "description": "Given to guilds previously in the 2021-11_activities_baseline_engagement_bundle experiment overrides"
+  },
+  "GUESTS_ENABLED": {
+    "description": "Guild has used guest invites"
+  },
+  "GUILD_AUTOMOD_DEFAULT_LIST": {
+    "description": "Given to guilds in the 2022-03_guild_automod_default_list experiment overrides"
+  },
+  "GUILD_COMMUNICATION_DISABLED_GUILDS": {
+    "description": "Given to guilds previously in the 2021-11_guild_communication_disabled_guilds experiment overrides"
+  },
+  "GUILD_HOME_DEPRECATION_OVERRIDE": {
+    "description": ""
+  },
+  "GUILD_HOME_OVERRIDE": {
+    "description": "Gives the guild access to the Home feature, enables Treatment 2 of the 2022-01_home_tab_guild experiment overrides"
+  },
+  "GUILD_HOME_TEST": {
+    "description": "Gives the guild access to the Home feature, enables Treatment 1 of the 2022-01_home_tab_guild experiment"
+  },
+  "GUILD_MEMBER_VERIFICATION_EXPERIMENT": {
+    "description": "Given to guilds previously in the 2021-11_member_verification_manual_approval experiment"
+  },
+  "GUILD_ONBOARDING": {
+    "description": "Guild has enabled onboarding"
+  },
+  "GUILD_ONBOARDING_ADMIN_ONLY": {
+    "description": ""
+  },
+  "GUILD_ONBOARDING_EVER_ENABLED": {
+    "description": "Guild has ever enabled onboarding"
+  },
+  "GUILD_ONBOARDING_HAS_PROMPTS": {
+    "description": ""
+  },
+  "GUILD_PRODUCTS": {
+    "description": "Given to guilds previously in the 2023-04_server_products experiment overrides"
+  },
+  "GUILD_PRODUCTS_ALLOW_ARCHIVED_FILE": {
+    "description": ""
+  },
+  "GUILD_ROLE_SUBSCRIPTIONS": {
+    "description": "Given to guilds previously in the 2021-06_guild_role_subscriptions experiment overrides"
+  },
+  "GUILD_ROLE_SUBSCRIPTION_PURCHASE_FEEDBACK_LOOP": {
+    "description": "Given to guilds previously in the 2022-05_mobile_web_role_subscription_purchase_page experiment overrides"
+  },
+  "GUILD_ROLE_SUBSCRIPTION_TIER_TEMPLATE": {
+    "description": ""
+  },
+  "GUILD_ROLE_SUBSCRIPTION_TRIALS": {
+    "description": "Given to guilds previously in the 2022-01_guild_role_subscription_trials experiment overrides"
+  },
+  "GUILD_SERVER_GUIDE": {
+    "description": "Guild has enabled server guide"
+  },
+  "GUILD_TAGS": {
+    "description": ""
+  },
+  "GUILD_WEB_PAGE_VANITY_URL": {
+    "description": ""
+  },
+  "HAD_EARLY_ACTIVITIES_ACCESS": {
+    "description": "Server previously had access to voice channel activities and can bypass the boost level requirement"
+  },
+  "HAS_DIRECTORY_ENTRY": {
+    "description": "Guild is in a directory channel."
+  },
+  "HIDE_FROM_EXPERIMENT_UI": {
+    "description": ""
+  },
+  "HUB": {
+    "description": "Student Hubs contain a directory channel that let you find school-related, student-run servers for your school or university."
+  },
+  "INCREASED_THREAD_LIMIT": {
+    "description": "Allows the server to have 1,000+ active threads"
+  },
+  "INTERNAL_EMPLOYEE_ONLY": {
+    "description": "Restricts the guild so that only users with the staff flag can join."
+  },
+  "INVITE_SPLASH": {
+    "description": "Ability to set a background image that will display on all invite links."
+  },
+  "INVITES_DISABLED": {
+    "description": "Prevents new members from joining and shows an error when attemping to join the server."
+  },
+  "LEADERBOARD_ENABLED": {
+    "description": ""
+  },
+  "LINKED_TO_HUB": {
+    "description": ""
+  },
+  "MARKETPLACES_CONNECTION_ROLES": {
+    "description": ""
+  },
+  "MEMBER_PROFILES": {
+    "description": "Allows members to customize their avatar, banner and bio for that server."
+  },
+  "MEMBER_SAFETY_PAGE_ROLLOUT": {
+    "description": "Assigns the experiment of the Member Safety panel and lockdowns to the guild"
+  },
+  "MEMBER_VERIFICATION_GATE_ENABLED": {
+    "description": "Has member verification gate enabled, requiring new users to pass the verification gate before interacting with the server."
+  },
+  "MEMBER_VERIFICATION_MANUAL_APPROVAL": {
+    "description": ""
+  },
+  "MOBILE_WEB_ROLE_SUBSCRIPTION_PURCHASE_PAGE": {
+    "description": "Given to guilds previously in the 2022-05_mobile_web_role_subscription_purchase_page experiment overrides"
+  },
+  "MONETIZATION_ENABLED": {
+    "description": "Allows the server to set a team in dev portal to receive role subscription payouts"
+  },
+  "MORE_EMOJI": {
+    "description": "Adds 150 extra emoji slots to each category (normal and animated emoji). Not used in server boosting."
+  },
+  "MORE_SOUNDBOARD": {
+    "description": ""
+  },
+  "MORE_STICKERS": {
+    "description": "Adds 60 total sticker slots no matter how many it had before. Not used in server boosting."
+  },
+  "NEWS": {
+    "description": "Ability to create and use news announcement channels which can be followed, and shows the Announcements analytics tab in the guild settings."
+  },
+  "NEW_THREAD_PERMISSIONS": {
+    "description": "Guild has new thread permissions."
+  },
+  "NON_COMMUNITY_RAID_ALERTS": {
+    "description": "Non-community guild is opt-in to raid alerts"
+  },
+  "PARTNERED": {
+    "description": "Partner badge near the server name and in mutual server lists."
+  },
+  "PREMIUM_TIER_3_OVERRIDE": {
+    "description": "Forces the server to server boosting level 3"
+  },
+  "PREVIEW_ENABLED": {
+    "description": "Allows a user to view the server without passing membership gating."
+  },
+  "PRODUCTS_AVAILABLE_FOR_PURCHASE": {
+    "description": "Guild has server products available for purchase"
+  },
+  "RAID_ALERTS_DISABLED": {
+    "description": "Guild is opt-out from raid alerts"
+  },
+  "RAPIDASH_TEST": {
+    "description": ""
+  },
+  "RELAY_ENABLED": {
+    "description": "Shards connections to the guild to different nodes that relay information between each other."
+  },
+  "RESTRICT_SPAM_RISK_GUILDS": {
+    "description": ""
+  },
+  "ROLE_ICONS": {
+    "description": "Ability to set an image or emoji as a role icon."
+  },
+  "ROLE_SUBSCRIPTIONS_AVAILABLE_FOR_PURCHASE": {
+    "description": "Allows servers members to purchase role subscriptions."
+  },
+  "ROLE_SUBSCRIPTIONS_ENABLED": {
+    "description": "Ability to view and manage role subscriptions."
+  },
+  "ROLE_SUBSCRIPTIONS_ENABLED_FOR_PURCHASE": {
+    "description": ""
+  },
+  "SHARD": {
+    "description": ""
+  },
+  "SHARED_CANVAS_FRIENDS_AND_FAMILY_TEST": {
+    "description": "Given to guilds previously in the 2023-01_shared_canvas experiment overrides"
+  },
+  "SOUNDBOARD": {
+    "description": "Given to guilds previously in the 2021-12_soundboard experiment overrides"
+  },
+  "SUMMARIES_DISABLED_BY_USER": {
+    "description": ""
+  },
+  "SUMMARIES_ENABLED": {
+    "description": "Given to guilds in the 2023-02_p13n_summarization experiment overrides"
+  },
+  "SUMMARIES_ENABLED_BY_USER": {
+    "description": ""
+  },
+  "SUMMARIES_ENABLED_GA": {
+    "description": "Given to guilds in the 2023-02_p13n_summarization experiment overrides"
+  },
+  "SUMMARIES_LONG_LOOKBACK": {
+    "description": ""
+  },
+  "SUMMARIES_OPT_OUT_EXPERIENCE": {
+    "description": ""
+  },
+  "SUMMARIES_PAUSED": {
+    "description": ""
+  },
+  "STAFF_LEVEL_COLLABORATOR_REQUIRED": {
+    "description": ""
+  },
+  "STAFF_LEVEL_RESTRICTED_COLLABORATOR_REQUIRED": {
+    "description": ""
+  },
+  "TEXT_IN_STAGE_ENABLED": {
+    "description": ""
+  },
+  "TEXT_IN_VOICE_ENABLED": {
+    "description": "Show a chat button inside voice channels that opens a dedicated text channel in a sidebar similar to thread view."
+  },
+  "THREADS_ENABLED_TESTING": {
+    "description": "Used by bot developers to test their bots with threads in guilds with 5 or less members and a bot. Also gives the premium thread features."
+  },
+  "THREADS_ENABLED": {
+    "description": "Enabled threads early access."
+  },
+  "THREAD_DEFAULT_AUTO_ARCHIVE_DURATION": {
+    "description": "Unknown, presumably used for testing changes to the thread default auto archive duration."
+  },
+  "THREADS_ONLY_CHANNEL": {
+    "description": "Given to guilds previously in the 2021-07_threads_only_channel experiment overrides"
+  },
+  "TICKETED_EVENTS_ENABLED": {
+    "description": "Ability to view and manage ticketed events."
+  },
+  "TICKETING_ENABLED": {
+    "description": ""
+  },
+  "TIERLESS_BOOSTING": {
+    "description": "Ability to use the new boosting system, which includes Server Tags and `Enhanced Role Styles"
+  },
+  "TIERLESS_BOOSTING_CLIENT_TEST": {
+    "description": "Given to guilds previously in the 2025-02_skill_trees experiment overrides"
+  },
+  "TIERLESS_BOOSTING_SYSTEM_MESSAGE": {
+    "description": "Related to 2025-06_tierless_boosting_system_message"
+  },
+  "TIERLESS_BOOSTING_TEST": {
+    "description": "Given to guilds previously in the 2025-02_skill_trees experiment overrides"
+  },
+  "VANITY_URL": {
+    "description": "Ability to set a vanity URL (custom discord.gg invite link)."
+  },
+  "VERIFIED": {
+    "description": "Verification checkmark near the server name and in mutual server lists."
+  },
+  "VIP_REGIONS": {
+    "description": "Ability to use special voice regions with better stability: US East VIP, US West VIP, and Amsterdam VIP. Deprecated, replaced with 384kbps max bitrate"
+  },
+  "VOICE_CHANNEL_EFFECTS": {
+    "description": "Given to guilds previously in the 2022-06_voice_channel_effects experiment overrides"
+  },
+  "VOICE_IN_THREADS": {
+    "description": ""
+  },
+  "WELCOME_SCREEN_ENABLED": {
+    "description": "Has welcome screen enabled, a modal shown to new joiners that features different channels, and a short description of the guild."
+  },
+  "FORWARDING_DISABLED": {
+    "description": "Blocks from the API and UX side ability to forward messages from the selected server."
+  },
+  "CHANNEL_BANNER": {
+    "description": "Ability to set a channel banner that will display above the Channel Information sidebar."
+  },
+  "CLAN": {
+    "description": "The server is a clan server"
+  },
+  "CLAN_DISCOVERY_DISABLED": {
+    "description": ""
+  },
+  "CLAN_PILOT_VALORANT": {
+    "description": ""
+  },
+  "CLAN_SAFETY_REVIEW_DISABLED": {
+    "description": ""
+  },
+  "COMMERCE": {
+    "description": "Ability to create and use store channels."
+  },
+  "EXPOSED_TO_BOOSTING_TIERS_EXPERIMENT": {
+    "description": ""
+  },
+  "FEATURABLE": {
+    "description": "Previously used to control which servers were displayed under the 'Featured' category in Discovery"
+  },
+  "FORCE_RELAY": {
+    "description": "Shards connections to the guild to different nodes that relay information between each other."
+  },
+  "LURKABLE": {
+    "description": "N/A"
+  },
+  "MEMBER_LIST_DISABLED": {
+    "description": "Created for the Fortnite server blackout event on Oct 13, 2019, when viewing the member list it would show 'There's nothing to see here.'."
+  },
+  "PRIVATE_THREADS": {
+    "description": "Ability to create private threads. Is now a base feature."
+  },
+  "PUBLIC": {
+    "description": "Deprecated in favor of COMMUNITY"
+  },
+  "PUBLIC_DISABLED": {
+    "description": "Deprecated in favor of COMMUNITY"
+  },
+  "RAID_ALERTS_ENABLED": {
+    "description": "Deprecated in favor of RAID_ALERTS_DISABLED since Discord switched to an opt-out system."
+  },
+  "SEVEN_DAY_THREAD_ARCHIVE": {
+    "description": "Ability to use seven-day archive time for threads."
+  },
+  "THREE_DAY_THREAD_ARCHIVE": {
+    "description": "Ability to use three-day archive time for threads."
   }
 }
