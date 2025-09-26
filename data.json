@@ -48,5 +48,25 @@
       "slug": "enhanced-role-styles",
       "boost_price": 3
     }
+  },
+  {
+    "id": "1395150519886024774",
+    "summary": "Pet Badge Pack",
+    "sku": {
+      "id": "1395150519886024775",
+      "name": "Pet Badge Pack",
+      "slug": "pet-badge-pack",
+      "boost_price": 3
+    }
+  },
+  {
+    "id": "1395150923734581338",
+    "summary": "Flex Badge Pack",
+    "sku": {
+      "id": "1395150923734581339",
+      "name": "Flex Badge Pack",
+      "slug": "flex-badge-pack",
+      "boost_price": 5
+    }
   }
 ]
