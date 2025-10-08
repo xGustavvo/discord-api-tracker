@@ -95732,5 +95732,3392 @@
     "pdp_bg_url": "https://cdn.discordapp.com/assets/content/bbc1ace0045a20dd0b30ee4d4b76af0423b8ed0516988c5c7d43100b083bb90f",
     "mobile_banner_url": "https://cdn.discordapp.com/assets/content/022fe012d86f5571dcdc2f6625ea71c2993f186e4b0ff4bef4f195b6972b087f",
     "mobile_bg_url": "https://cdn.discordapp.com/assets/content/386383f5af95cddfd6c2015550b94b01497ce6da09594474fbb55aea8332fcc0"
+  },
+  {
+    "sku_id": "1418326116485038320",
+    "name": "Trick or Treat",
+    "summary": " ",
+    "store_listing_id": "1418326116476915844",
+    "unpublished_at": "2025-11-04T01:00:00+00:00",
+    "styles": {
+      "background_colors": [
+        1769589,
+        1966710
+      ],
+      "button_colors": [
+        5793266,
+        5793266
+      ],
+      "confetti_colors": [
+        16751104,
+        13172991,
+        655104
+      ]
+    },
+    "logo": "1418326116493688903",
+    "hero_ranking": [
+      "1420057111760474262",
+      "1420057111789830194",
+      "1418326115876864070",
+      "1418326116053287093",
+      "1418326115927326830",
+      "1418326116166533330",
+      "1418326115893907677",
+      "1418326116094967808",
+      "1418326115910680656",
+      "1418326116128788590",
+      "1420057111928242176",
+      "1420057111940960336",
+      "1420057111953412231",
+      "1420057111970185347",
+      "1420057111613673524",
+      "1420057111622193222",
+      "1420057111651422280",
+      "1420057111659941908",
+      "1420057111672393822",
+      "1420057111680913500",
+      "1420057111697821756",
+      "1420057111701885028",
+      "1420057111718531112",
+      "1420057111722856628",
+      "1420057111739502663",
+      "1420057111748022303"
+    ],
+    "mobile_bg": "1418326116552147015",
+    "pdp_bg": "1418326116535631974",
+    "mobile_banner": "1418326116544024647",
+    "featured_block": "1421128033598832693",
+    "hero_banner": "1425227818718986410",
+    "wide_banner": null,
+    "products": [
+      {
+        "sku_id": "1420057111760474262",
+        "name": "Rest in Pieces Bundle",
+        "summary": "A bundle of collectibles.",
+        "store_listing_id": "1420057111781576744",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1769589,
+            1966710
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            16751104,
+            13172991,
+            655104
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 1599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 11000,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 1299,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 11000,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1418326116120395937",
+            "sku_id": "1418326115910680656",
+            "asset": "a_6f0c33fb534c1a0a21c606b50683e9a9",
+            "label": "Blue glowing skulls pulse and float in a circular formation."
+          },
+          {
+            "type": 1,
+            "id": "1420057112020517005",
+            "sku_id": "1420057111613673524",
+            "title": "A Bit Batty (Trick)",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Blue glowing skulls hang from spiderwebs while purple bats swarm through the darkness.",
+            "animationType": 1,
+            "staticFrameSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-24/a_bit_batty_trick/static.png",
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-24/a_bit_batty_trick/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-24/a_bit_batty_trick/reduced_motion.png",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-24/a_bit_batty_trick/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-24/a_bit_batty_trick/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 3000,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+              }
+            ]
+          },
+          {
+            "type": 2,
+            "id": "1420057112121180280",
+            "sku_id": "1420057111697821756",
+            "asset": "nameplates/trick_or_treat/pile_of_bones_trick/",
+            "label": "A pile of blue glowing skulls awaits your demise.",
+            "palette": "berry"
+          }
+        ],
+        "type": 1000,
+        "premium_type": 0,
+        "category_sku_id": "1418326116485038320",
+        "bundled_products": [
+          {
+            "sku_id": "1418326115910680656",
+            "name": "Rest in Peace (Trick)",
+            "summary": "Give your avatar a new look.",
+            "type": 0,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 499,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "sku_id": "1420057111613673524",
+            "name": "A Bit Batty (Trick)",
+            "summary": "Show this effect when others view your profile.",
+            "type": 1,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 499,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "sku_id": "1420057111697821756",
+            "name": "Pile of Bones (Trick)",
+            "summary": "Make your name stand out in servers and chats.",
+            "type": 2,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 499,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ],
+        "google_sku_ids": {
+          "5": "1420057111760474262_1420125590497005680",
+          "7": "1420057111760474262_1420125598344282262"
+        }
+      },
+      {
+        "sku_id": "1420057111789830194",
+        "name": "Just Hangin' Bundle",
+        "summary": "A bundle of collectibles.",
+        "store_listing_id": "1420057111794028687",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1769589,
+            1966710
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            16751104,
+            13172991,
+            655104
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 1599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 11000,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 1299,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 11000,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1418326116107817050",
+            "sku_id": "1418326116094967808",
+            "asset": "a_f8fdf29cd07f09487165818605cab1dd",
+            "label": "A purple spider dangles and sways from a shimmering rainbow gradient spiderweb."
+          },
+          {
+            "type": 1,
+            "id": "1420057112070848632",
+            "sku_id": "1420057111659941908",
+            "title": "World Wide Web (Treat)",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "A purple spider swings on a rainbow thread across the profile with sparkles trailing behind.",
+            "animationType": 1,
+            "staticFrameSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/world_wide_web_treat/static.png",
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/world_wide_web_treat/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/world_wide_web_treat/reduced_motion.png",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/world_wide_web_treat/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/world_wide_web_treat/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 3000,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+              }
+            ]
+          },
+          {
+            "type": 2,
+            "id": "1420057112175837235",
+            "sku_id": "1420057111722856628",
+            "asset": "nameplates/trick_or_treat/ms_spider_treat/",
+            "label": "A purple spider hangs and sways from her rainbow spiderweb.",
+            "palette": "violet"
+          }
+        ],
+        "type": 1000,
+        "premium_type": 0,
+        "category_sku_id": "1418326116485038320",
+        "bundled_products": [
+          {
+            "sku_id": "1418326116094967808",
+            "name": "Just Hangin' (Treat)",
+            "summary": "Give your avatar a new look.",
+            "type": 0,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 499,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "sku_id": "1420057111659941908",
+            "name": "World Wide Web (Treat)",
+            "summary": "Show this effect when others view your profile.",
+            "type": 1,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 499,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "sku_id": "1420057111722856628",
+            "name": "Ms. Spider (Treat)",
+            "summary": "Make your name stand out in servers and chats.",
+            "type": 2,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 499,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ],
+        "google_sku_ids": {
+          "5": "1420057111789830194_1420125130679652352",
+          "7": "1420057111789830194_1420125138052976641"
+        }
+      },
+      {
+        "sku_id": "1420057111928242176",
+        "name": "Rest in Peace Bundle",
+        "summary": "A bundle of collectibles.",
+        "store_listing_id": "1420057111932440708",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1769589,
+            1966710
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            16751104,
+            13172991,
+            655104
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 1599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 11000,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 1299,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 11000,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1418326116145561680",
+            "sku_id": "1418326116128788590",
+            "asset": "a_46d01a1f046e4f58894f5b5361ab2e61",
+            "label": "Purple cartoon skulls float and bob in a circular formation."
+          },
+          {
+            "type": 1,
+            "id": "1420057112037429339",
+            "sku_id": "1420057111622193222",
+            "title": "A Bit Batty (Treat)",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Purple bats flutter around the profile with a rainbow spiderweb in the corner and flying bats in the clouds.",
+            "animationType": 1,
+            "staticFrameSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-24/a_bit_batty_treat/static.png",
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-24/a_bit_batty_treat/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-24/a_bit_batty_treat/reduced_motion.png",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-24/a_bit_batty_treat/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-24/a_bit_batty_treat/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 3000,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+              }
+            ]
+          },
+          {
+            "type": 2,
+            "id": "1420057112142286868",
+            "sku_id": "1420057111701885028",
+            "asset": "nameplates/trick_or_treat/pile_of_bones_treat/",
+            "label": "Cute purple cartoon skulls sit on a spider web.",
+            "palette": "cobalt"
+          }
+        ],
+        "type": 1000,
+        "premium_type": 0,
+        "category_sku_id": "1418326116485038320",
+        "bundled_products": [
+          {
+            "sku_id": "1418326116128788590",
+            "name": "Rest in Peace (Treat)",
+            "summary": "Give your avatar a new look.",
+            "type": 0,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 499,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "sku_id": "1420057111622193222",
+            "name": "A Bit Batty (Treat)",
+            "summary": "Show this effect when others view your profile.",
+            "type": 1,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 499,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "sku_id": "1420057111701885028",
+            "name": "Pile of Bones (Treat)",
+            "summary": "Make your name stand out in servers and chats.",
+            "type": 2,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 499,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ],
+        "google_sku_ids": {
+          "5": "1420057111928242176_1420124815951532134",
+          "7": "1420057111928242176_1420124826227703928"
+        }
+      },
+      {
+        "sku_id": "1420057111940960336",
+        "name": "Crawlin' the Web Bundle",
+        "summary": "A bundle of collectibles.",
+        "store_listing_id": "1420057111949213706",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1769589,
+            1966710
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            16751104,
+            13172991,
+            655104
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 1599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 11000,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 1299,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 11000,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1418326116086714519",
+            "sku_id": "1418326115893907677",
+            "asset": "a_f6fbc6e9dedd53a1b70e5573499ddd11",
+            "label": "A black spider with red markings dangles in front of a gray spiderweb."
+          },
+          {
+            "type": 1,
+            "id": "1420057112058269696",
+            "sku_id": "1420057111651422280",
+            "title": "World Wide Web (Trick)",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "A black spider with glowing red eyes dangles in front of a spiderweb with eerie fog behind.",
+            "animationType": 1,
+            "staticFrameSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-24/world_wide_web_trick/static.png",
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-24/world_wide_web_trick/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-24/world_wide_web_trick/reduced_motion.png",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-24/world_wide_web_trick/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 5000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-24/world_wide_web_trick/idle_1.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 5917,
+                "start": 5000,
+                "loopDelay": 2000,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 103,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-24/world_wide_web_trick/idle_2.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 7917,
+                "start": 5000,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 102,
+                "randomizedSources": []
+              }
+            ]
+          },
+          {
+            "type": 2,
+            "id": "1420057112158932992",
+            "sku_id": "1420057111718531112",
+            "asset": "nameplates/trick_or_treat/ms_spider_trick/",
+            "label": "A black spider hangs and sways from her gray spiderweb.",
+            "palette": "teal"
+          }
+        ],
+        "type": 1000,
+        "premium_type": 0,
+        "category_sku_id": "1418326116485038320",
+        "bundled_products": [
+          {
+            "sku_id": "1418326115893907677",
+            "name": "Just Hangin' (Trick)",
+            "summary": "Give your avatar a new look.",
+            "type": 0,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 499,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "sku_id": "1420057111651422280",
+            "name": "World Wide Web (Trick)",
+            "summary": "Show this effect when others view your profile.",
+            "type": 1,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 499,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "sku_id": "1420057111718531112",
+            "name": "Ms. Spider (Trick)",
+            "summary": "Make your name stand out in servers and chats.",
+            "type": 2,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 499,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ],
+        "google_sku_ids": {
+          "5": "1420057111940960336_1420128237371265115",
+          "7": "1420057111940960336_1420128246296739870"
+        }
+      },
+      {
+        "sku_id": "1420057111953412231",
+        "name": "Boo! Bundle",
+        "summary": "A bundle of collectibles.",
+        "store_listing_id": "1420057111961931909",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1769589,
+            1966710
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            16751104,
+            13172991,
+            655104
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 1599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 11000,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 1299,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 11000,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1418326116183048253",
+            "sku_id": "1418326116166533330",
+            "asset": "a_3835acaf56f5b8cdfb7be072580e618d",
+            "label": "A white ghost holds a flickering candle in an ornate purple frame."
+          },
+          {
+            "type": 1,
+            "id": "1420057112104407161",
+            "sku_id": "1420057111680913500",
+            "title": "You Rang? (Treat)",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "A friendly ghost floats up through an ornate purple frame with swirling mist effects.",
+            "animationType": 1,
+            "staticFrameSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-24/you_rang_treat/static.png",
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-24/you_rang_treat/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-24/you_rang_treat/reduced_motion.png",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-24/you_rang_treat/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-24/you_rang_treat/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 3000,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+              }
+            ]
+          },
+          {
+            "type": 2,
+            "id": "1420057112205070438",
+            "sku_id": "1420057111748022303",
+            "asset": "nameplates/trick_or_treat/im_watching_yooooou_treat/",
+            "label": "A cute white ghost lights up a flickering candle.",
+            "palette": "bubble_gum"
+          }
+        ],
+        "type": 1000,
+        "premium_type": 0,
+        "category_sku_id": "1418326116485038320",
+        "bundled_products": [
+          {
+            "sku_id": "1418326116166533330",
+            "name": "Boo! (Treat)",
+            "summary": "Give your avatar a new look.",
+            "type": 0,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 499,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "sku_id": "1420057111680913500",
+            "name": "You Rang? (Treat)",
+            "summary": "Show this effect when others view your profile.",
+            "type": 1,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 499,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "sku_id": "1420057111748022303",
+            "name": "I'm Watching YoOoOou.. (Treat)",
+            "summary": "Make your name stand out in servers and chats.",
+            "type": 2,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 499,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ],
+        "google_sku_ids": {
+          "5": "1420057111953412231_1420126333471559710",
+          "7": "1420057111953412231_1420126343399739552"
+        }
+      },
+      {
+        "sku_id": "1420057111970185347",
+        "name": "You Rang? Bundle",
+        "summary": "A bundle of collectibles.",
+        "store_listing_id": "1420057111978577920",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1769589,
+            1966710
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            16751104,
+            13172991,
+            655104
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 1599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 11000,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 1299,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 11000,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1418326116162076703",
+            "sku_id": "1418326115927326830",
+            "asset": "a_843b6925894c8fa530432ad197eb8dcd",
+            "label": "A purple face floats in a pulsing pink light within an ornate frame with swirling mist."
+          },
+          {
+            "type": 1,
+            "id": "1420057112087760896",
+            "sku_id": "1420057111672393822",
+            "title": "You Rang? (Trick)",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "A purple face flashes in a swirling pink mist within an ornate dark frame.",
+            "animationType": 1,
+            "staticFrameSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/you_rang_trick/static.png",
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/you_rang_trick/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/you_rang_trick/reduced_motion.png",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/you_rang_trick/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/you_rang_trick/idle_1.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 4000,
+                "loopDelay": 5000,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 102,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/you_rang_trick/idle_2.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 3000,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 102,
+                "randomizedSources": []
+              }
+            ]
+          },
+          {
+            "type": 2,
+            "id": "1420057112188424232",
+            "sku_id": "1420057111739502663",
+            "asset": "nameplates/trick_or_treat/im_watching_yooooou_trick/",
+            "label": "A purple face with pink swirling mist.",
+            "palette": "cobalt"
+          }
+        ],
+        "type": 1000,
+        "premium_type": 0,
+        "category_sku_id": "1418326116485038320",
+        "bundled_products": [
+          {
+            "sku_id": "1418326115927326830",
+            "name": "Boo! (Trick)",
+            "summary": "Give your avatar a new look.",
+            "type": 0,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 499,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "sku_id": "1420057111672393822",
+            "name": "You Rang? (Trick)",
+            "summary": "Show this effect when others view your profile.",
+            "type": 1,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 499,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "sku_id": "1420057111739502663",
+            "name": "I'm Watching YoOoOou.. (Trick)",
+            "summary": "Make your name stand out in servers and chats.",
+            "type": 2,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 499,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ],
+        "google_sku_ids": {
+          "5": "1420057111970185347_1420127710725935346",
+          "7": "1420057111970185347_1420127725628162179"
+        }
+      },
+      {
+        "sku_id": "1418326115876864070",
+        "name": "Mr. Jack O' Lantern (Trick)",
+        "summary": "Give your avatar a new look.",
+        "store_listing_id": "1418326116028125375",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1769589,
+            1966710
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            16751104,
+            13172991,
+            655104
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1418326116048830495",
+            "sku_id": "1418326115876864070",
+            "asset": "a_dec0db5e1395a9d7df152d6981443cd8",
+            "label": "An orange jack-o'-lantern frame displays a carved scary face with flickering jagged teeth."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1418326116485038320",
+        "google_sku_ids": {
+          "5": "1418326115876864070_1418364507092156567",
+          "7": "1418326115876864070_1418364517037117592"
+        }
+      },
+      {
+        "sku_id": "1418326116053287093",
+        "name": "Mr. Jack O' Lantern (Treat)",
+        "summary": "Give your avatar a new look.",
+        "store_listing_id": "1418326116065742919",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1769589,
+            1966710
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            16751104,
+            13172991,
+            655104
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1418326116069802125",
+            "sku_id": "1418326116053287093",
+            "asset": "a_8636994a8d0b1c5c8353ebce125c2cef",
+            "label": "An orange jack-o'-lantern frame displays a carved smiling face with twinkling sparkles."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1418326116485038320",
+        "google_sku_ids": {
+          "5": "1418326116053287093_1418362298065752265",
+          "7": "1418326116053287093_1418362306995163336"
+        }
+      },
+      {
+        "sku_id": "1418326115927326830",
+        "name": "Boo! (Trick)",
+        "summary": "Give your avatar a new look.",
+        "store_listing_id": "1418326116153954385",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1769589,
+            1966710
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            16751104,
+            13172991,
+            655104
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1418326116162076703",
+            "sku_id": "1418326115927326830",
+            "asset": "a_843b6925894c8fa530432ad197eb8dcd",
+            "label": "A purple face floats in a pulsing pink light within an ornate frame with swirling mist."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1418326116485038320",
+        "google_sku_ids": {
+          "5": "1418326115927326830_1418364478923477012",
+          "7": "1418326115927326830_1418364486787665990"
+        }
+      },
+      {
+        "sku_id": "1418326116166533330",
+        "name": "Boo! (Treat)",
+        "summary": "Give your avatar a new look.",
+        "store_listing_id": "1418326116174925956",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1769589,
+            1966710
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            16751104,
+            13172991,
+            655104
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1418326116183048253",
+            "sku_id": "1418326116166533330",
+            "asset": "a_3835acaf56f5b8cdfb7be072580e618d",
+            "label": "A white ghost holds a flickering candle in an ornate purple frame."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1418326116485038320",
+        "google_sku_ids": {
+          "5": "1418326116166533330_1418360792968986845",
+          "7": "1418326116166533330_1418360801315651718"
+        }
+      },
+      {
+        "sku_id": "1418326115893907677",
+        "name": "Just Hangin' (Trick)",
+        "summary": "Give your avatar a new look.",
+        "store_listing_id": "1418326116078452836",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1769589,
+            1966710
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            16751104,
+            13172991,
+            655104
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1418326116086714519",
+            "sku_id": "1418326115893907677",
+            "asset": "a_f6fbc6e9dedd53a1b70e5573499ddd11",
+            "label": "A black spider with red markings dangles in front of a gray spiderweb."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1418326116485038320",
+        "google_sku_ids": {
+          "5": "1418326115893907677_1418361164261494965",
+          "7": "1418326115893907677_1418361173123928135"
+        }
+      },
+      {
+        "sku_id": "1418326116094967808",
+        "name": "Just Hangin' (Treat)",
+        "summary": "Give your avatar a new look.",
+        "store_listing_id": "1418326116103360542",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1769589,
+            1966710
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            16751104,
+            13172991,
+            655104
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1418326116107817050",
+            "sku_id": "1418326116094967808",
+            "asset": "a_f8fdf29cd07f09487165818605cab1dd",
+            "label": "A purple spider dangles and sways from a shimmering rainbow gradient spiderweb."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1418326116485038320",
+        "google_sku_ids": {
+          "5": "1418326116094967808_1418363808782749727",
+          "7": "1418326116094967808_1418363816269582488"
+        }
+      },
+      {
+        "sku_id": "1418326115910680656",
+        "name": "Rest in Peace (Trick)",
+        "summary": "Give your avatar a new look.",
+        "store_listing_id": "1418326116115939398",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1769589,
+            1966710
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            16751104,
+            13172991,
+            655104
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1418326116120395937",
+            "sku_id": "1418326115910680656",
+            "asset": "a_6f0c33fb534c1a0a21c606b50683e9a9",
+            "label": "Blue glowing skulls pulse and float in a circular formation."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1418326116485038320",
+        "google_sku_ids": {
+          "5": "1418326115910680656_1418362003747246140",
+          "7": "1418326115910680656_1418362015814258699"
+        }
+      },
+      {
+        "sku_id": "1418326116128788590",
+        "name": "Rest in Peace (Treat)",
+        "summary": "Give your avatar a new look.",
+        "store_listing_id": "1418326116136910999",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1769589,
+            1966710
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            16751104,
+            13172991,
+            655104
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1418326116145561680",
+            "sku_id": "1418326116128788590",
+            "asset": "a_46d01a1f046e4f58894f5b5361ab2e61",
+            "label": "Purple cartoon skulls float and bob in a circular formation."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1418326116485038320",
+        "google_sku_ids": {
+          "5": "1418326116128788590_1418363183290388480",
+          "7": "1418326116128788590_1418363191230074881"
+        }
+      },
+      {
+        "sku_id": "1420057111613673524",
+        "name": "A Bit Batty (Trick)",
+        "summary": "Show this effect when others view your profile.",
+        "store_listing_id": "1420057112012263544",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1769589,
+            1966710
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            16751104,
+            13172991,
+            655104
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 1,
+            "id": "1420057112020517005",
+            "sku_id": "1420057111613673524",
+            "title": "A Bit Batty (Trick)",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Blue glowing skulls hang from spiderwebs while purple bats swarm through the darkness.",
+            "animationType": 1,
+            "staticFrameSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-24/a_bit_batty_trick/static.png",
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-24/a_bit_batty_trick/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-24/a_bit_batty_trick/reduced_motion.png",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-24/a_bit_batty_trick/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-24/a_bit_batty_trick/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 3000,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+              }
+            ]
+          }
+        ],
+        "type": 1,
+        "premium_type": 0,
+        "category_sku_id": "1418326116485038320",
+        "google_sku_ids": {
+          "5": "1420057111613673524_1420128156278456441",
+          "7": "1420057111613673524_1420128164323131455"
+        }
+      },
+      {
+        "sku_id": "1420057111622193222",
+        "name": "A Bit Batty (Treat)",
+        "summary": "Show this effect when others view your profile.",
+        "store_listing_id": "1420057112028909619",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1769589,
+            1966710
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            16751104,
+            13172991,
+            655104
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 1,
+            "id": "1420057112037429339",
+            "sku_id": "1420057111622193222",
+            "title": "A Bit Batty (Treat)",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Purple bats flutter around the profile with a rainbow spiderweb in the corner and flying bats in the clouds.",
+            "animationType": 1,
+            "staticFrameSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-24/a_bit_batty_treat/static.png",
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-24/a_bit_batty_treat/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-24/a_bit_batty_treat/reduced_motion.png",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-24/a_bit_batty_treat/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-24/a_bit_batty_treat/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 3000,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+              }
+            ]
+          }
+        ],
+        "type": 1,
+        "premium_type": 0,
+        "category_sku_id": "1418326116485038320",
+        "google_sku_ids": {
+          "5": "1420057111622193222_1420126592100864050",
+          "7": "1420057111622193222_1420126600200065106"
+        }
+      },
+      {
+        "sku_id": "1420057111651422280",
+        "name": "World Wide Web (Trick)",
+        "summary": "Show this effect when others view your profile.",
+        "store_listing_id": "1420057112045682930",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1769589,
+            1966710
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            16751104,
+            13172991,
+            655104
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 1,
+            "id": "1420057112058269696",
+            "sku_id": "1420057111651422280",
+            "title": "World Wide Web (Trick)",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "A black spider with glowing red eyes dangles in front of a spiderweb with eerie fog behind.",
+            "animationType": 1,
+            "staticFrameSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-24/world_wide_web_trick/static.png",
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-24/world_wide_web_trick/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-24/world_wide_web_trick/reduced_motion.png",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-24/world_wide_web_trick/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 5000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-24/world_wide_web_trick/idle_1.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 5917,
+                "start": 5000,
+                "loopDelay": 2000,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 103,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-24/world_wide_web_trick/idle_2.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 7917,
+                "start": 5000,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 102,
+                "randomizedSources": []
+              }
+            ]
+          }
+        ],
+        "type": 1,
+        "premium_type": 0,
+        "category_sku_id": "1418326116485038320",
+        "google_sku_ids": {
+          "5": "1420057111651422280_1420128208799404164",
+          "7": "1420057111651422280_1420128216852730017"
+        }
+      },
+      {
+        "sku_id": "1420057111659941908",
+        "name": "World Wide Web (Treat)",
+        "summary": "Show this effect when others view your profile.",
+        "store_listing_id": "1420057112062595154",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1769589,
+            1966710
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            16751104,
+            13172991,
+            655104
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 1,
+            "id": "1420057112070848632",
+            "sku_id": "1420057111659941908",
+            "title": "World Wide Web (Treat)",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "A purple spider swings on a rainbow thread across the profile with sparkles trailing behind.",
+            "animationType": 1,
+            "staticFrameSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/world_wide_web_treat/static.png",
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/world_wide_web_treat/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/world_wide_web_treat/reduced_motion.png",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/world_wide_web_treat/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/world_wide_web_treat/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 3000,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+              }
+            ]
+          }
+        ],
+        "type": 1,
+        "premium_type": 0,
+        "category_sku_id": "1418326116485038320",
+        "google_sku_ids": {
+          "5": "1420057111659941908_1420125920492126389",
+          "7": "1420057111659941908_1420125930029973654"
+        }
+      },
+      {
+        "sku_id": "1420057111672393822",
+        "name": "You Rang? (Trick)",
+        "summary": "Show this effect when others view your profile.",
+        "store_listing_id": "1420057112079241296",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1769589,
+            1966710
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            16751104,
+            13172991,
+            655104
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 1,
+            "id": "1420057112087760896",
+            "sku_id": "1420057111672393822",
+            "title": "You Rang? (Trick)",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "A purple face flashes in a swirling pink mist within an ornate dark frame.",
+            "animationType": 1,
+            "staticFrameSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/you_rang_trick/static.png",
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/you_rang_trick/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/you_rang_trick/reduced_motion.png",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/you_rang_trick/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/you_rang_trick/idle_1.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 4000,
+                "loopDelay": 5000,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 102,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/you_rang_trick/idle_2.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 3000,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 102,
+                "randomizedSources": []
+              }
+            ]
+          }
+        ],
+        "type": 1,
+        "premium_type": 0,
+        "category_sku_id": "1418326116485038320",
+        "google_sku_ids": {
+          "5": "1420057111672393822_1420126139002912859",
+          "7": "1420057111672393822_1420126147697709067"
+        }
+      },
+      {
+        "sku_id": "1420057111680913500",
+        "name": "You Rang? (Treat)",
+        "summary": "Show this effect when others view your profile.",
+        "store_listing_id": "1420057112096014397",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1769589,
+            1966710
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            16751104,
+            13172991,
+            655104
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 1,
+            "id": "1420057112104407161",
+            "sku_id": "1420057111680913500",
+            "title": "You Rang? (Treat)",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "A friendly ghost floats up through an ornate purple frame with swirling mist effects.",
+            "animationType": 1,
+            "staticFrameSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-24/you_rang_treat/static.png",
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-24/you_rang_treat/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-24/you_rang_treat/reduced_motion.png",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-24/you_rang_treat/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-24/you_rang_treat/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 3000,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+              }
+            ]
+          }
+        ],
+        "type": 1,
+        "premium_type": 0,
+        "category_sku_id": "1418326116485038320",
+        "google_sku_ids": {
+          "5": "1420057111680913500_1420126248633634849",
+          "7": "1420057111680913500_1420126256397287475"
+        }
+      },
+      {
+        "sku_id": "1420057111697821756",
+        "name": "Pile of Bones (Trick)",
+        "summary": "Make your name stand out in servers and chats.",
+        "store_listing_id": "1420057112112926863",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1769589,
+            1966710
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            16751104,
+            13172991,
+            655104
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 2,
+            "id": "1420057112121180280",
+            "sku_id": "1420057111697821756",
+            "asset": "nameplates/trick_or_treat/pile_of_bones_trick/",
+            "label": "A pile of blue glowing skulls awaits your demise.",
+            "palette": "berry"
+          }
+        ],
+        "type": 2,
+        "premium_type": 0,
+        "category_sku_id": "1418326116485038320",
+        "google_sku_ids": {
+          "5": "1420057111697821756_1420127030342713504",
+          "7": "1420057111697821756_1420127038832115912"
+        }
+      },
+      {
+        "sku_id": "1420057111701885028",
+        "name": "Pile of Bones (Treat)",
+        "summary": "Make your name stand out in servers and chats.",
+        "store_listing_id": "1420057112129573064",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1769589,
+            1966710
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            16751104,
+            13172991,
+            655104
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 2,
+            "id": "1420057112142286868",
+            "sku_id": "1420057111701885028",
+            "asset": "nameplates/trick_or_treat/pile_of_bones_treat/",
+            "label": "Cute purple cartoon skulls sit on a spider web.",
+            "palette": "cobalt"
+          }
+        ],
+        "type": 2,
+        "premium_type": 0,
+        "category_sku_id": "1418326116485038320",
+        "google_sku_ids": {
+          "5": "1420057111701885028_1420127836517437570",
+          "7": "1420057111701885028_1420127843874115716"
+        }
+      },
+      {
+        "sku_id": "1420057111718531112",
+        "name": "Ms. Spider (Trick)",
+        "summary": "Make your name stand out in servers and chats.",
+        "store_listing_id": "1420057112150671421",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1769589,
+            1966710
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            16751104,
+            13172991,
+            655104
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 2,
+            "id": "1420057112158932992",
+            "sku_id": "1420057111718531112",
+            "asset": "nameplates/trick_or_treat/ms_spider_trick/",
+            "label": "A black spider hangs and sways from her gray spiderweb.",
+            "palette": "teal"
+          }
+        ],
+        "type": 2,
+        "premium_type": 0,
+        "category_sku_id": "1418326116485038320",
+        "google_sku_ids": {
+          "5": "1420057111718531112_1420125594057838804",
+          "7": "1420057111718531112_1420125602341589012"
+        }
+      },
+      {
+        "sku_id": "1420057111722856628",
+        "name": "Ms. Spider (Treat)",
+        "summary": "Make your name stand out in servers and chats.",
+        "store_listing_id": "1420057112163258520",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1769589,
+            1966710
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            16751104,
+            13172991,
+            655104
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 2,
+            "id": "1420057112175837235",
+            "sku_id": "1420057111722856628",
+            "asset": "nameplates/trick_or_treat/ms_spider_treat/",
+            "label": "A purple spider hangs and sways from her rainbow spiderweb.",
+            "palette": "violet"
+          }
+        ],
+        "type": 2,
+        "premium_type": 0,
+        "category_sku_id": "1418326116485038320",
+        "google_sku_ids": {
+          "5": "1420057111722856628_1420124362727493703",
+          "7": "1420057111722856628_1420124370482892900"
+        }
+      },
+      {
+        "sku_id": "1420057111739502663",
+        "name": "I'm Watching YoOoOou.. (Trick)",
+        "summary": "Make your name stand out in servers and chats.",
+        "store_listing_id": "1420057112179904593",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1769589,
+            1966710
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            16751104,
+            13172991,
+            655104
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 2,
+            "id": "1420057112188424232",
+            "sku_id": "1420057111739502663",
+            "asset": "nameplates/trick_or_treat/im_watching_yooooou_trick/",
+            "label": "A purple face with pink swirling mist.",
+            "palette": "cobalt"
+          }
+        ],
+        "type": 2,
+        "premium_type": 0,
+        "category_sku_id": "1418326116485038320",
+        "google_sku_ids": {
+          "5": "1420057111739502663_1420128239413760143",
+          "7": "1420057111739502663_1420128248943349860"
+        }
+      },
+      {
+        "sku_id": "1420057111748022303",
+        "name": "I'm Watching YoOoOou.. (Treat)",
+        "summary": "Make your name stand out in servers and chats.",
+        "store_listing_id": "1420057112196677723",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1769589,
+            1966710
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            16751104,
+            13172991,
+            655104
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 2,
+            "id": "1420057112205070438",
+            "sku_id": "1420057111748022303",
+            "asset": "nameplates/trick_or_treat/im_watching_yooooou_treat/",
+            "label": "A cute white ghost lights up a flickering candle.",
+            "palette": "bubble_gum"
+          }
+        ],
+        "type": 2,
+        "premium_type": 0,
+        "category_sku_id": "1418326116485038320",
+        "google_sku_ids": {
+          "5": "1420057111748022303_1420127044854878360",
+          "7": "1420057111748022303_1420127052404756560"
+        }
+      }
+    ],
+    "catalog_banner_asset": {
+      "animated": null,
+      "static": "https://cdn.discordapp.com/assets/content/dcfa8a4e9b585308fa3083033b62a06eeda38bdb971a576056bf0df6e993c0c4.jpg"
+    },
+    "hero_banner_asset": {
+      "animated": "https://cdn.discordapp.com/assets/content/a0660f6a887ff266fc07497ec7c0459909c9766c26aad22707bde719f221fe11.riv",
+      "static": "https://cdn.discordapp.com/assets/content/6ccf4eff1000d886f916014e58237e8d0ecfd9795b6355bec1868b68469b0b31.jpg"
+    },
+    "hero_logo": "1418326116523053236",
+    "hero_banner_url": "https://cdn.discordapp.com/assets/content/6ccf4eff1000d886f916014e58237e8d0ecfd9795b6355bec1868b68469b0b31",
+    "hero_banner_animated_url": "https://cdn.discordapp.com/assets/content/a0660f6a887ff266fc07497ec7c0459909c9766c26aad22707bde719f221fe11",
+    "hero_logo_url": "https://cdn.discordapp.com/assets/content/a369c1a4ee8facc3f3b9726efaa5d4caee62543f3820d68d18317f8fc90cbc67",
+    "catalog_banner_url": "https://cdn.discordapp.com/assets/content/dcfa8a4e9b585308fa3083033b62a06eeda38bdb971a576056bf0df6e993c0c4",
+    "featured_block_url": "https://cdn.discordapp.com/assets/content/2241696dae626fdc79be87f8ed46c2d42fcd27b95901646710fedb874ce5a7cc",
+    "logo_url": "https://cdn.discordapp.com/assets/content/fd72be734648e462841ecfdd33b6b45f4595f1d0565849670cff1dd43d7c936a",
+    "pdp_bg_url": "https://cdn.discordapp.com/assets/content/a7e344e591937629b11832724a4d01ff6b52dec195574f88163d02ff4926b95c",
+    "mobile_banner_url": "https://cdn.discordapp.com/assets/content/f1e099614c9a44c65ed4022b6f0f2da81ae09d53d1ea42bb06befefaea39bb59",
+    "mobile_bg_url": "https://cdn.discordapp.com/assets/content/cf937d263a2ed6f36949387128741b2f1444627c6e33d2fa575530fdc09620ab"
   }
 ]
