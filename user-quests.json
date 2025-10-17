@@ -50,25 +50,15 @@
           "tasks": {
             "PLAY_ON_DESKTOP": {
               "event_name": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "external_ids": []
+              "target": 900
             },
             "PLAY_ON_XBOX": {
               "event_name": "PLAY_ON_XBOX",
-              "target": 900,
-              "external_ids": [
-                "267695549"
-              ]
+              "target": 900
             },
             "PLAY_ON_PLAYSTATION": {
               "event_name": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "external_ids": [
-                "CUSA07022_00",
-                "PPSA01922_00",
-                "PPSA01923_00",
-                "CUSA07669_00"
-              ]
+              "target": 900
             }
           }
         },
@@ -85,20 +75,11 @@
             },
             "PLAY_ON_XBOX": {
               "type": "PLAY_ON_XBOX",
-              "target": 900,
-              "external_ids": [
-                "267695549"
-              ]
+              "target": 900
             },
             "PLAY_ON_PLAYSTATION": {
               "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "external_ids": [
-                "CUSA07022_00",
-                "PPSA01922_00",
-                "PPSA01923_00",
-                "CUSA07669_00"
-              ]
+              "target": 900
             }
           },
           "join_operator": "or"
@@ -184,8 +165,7 @@
           "tasks": {
             "WATCH_VIDEO": {
               "event_name": "WATCH_VIDEO",
-              "target": 104,
-              "external_ids": []
+              "target": 104
             }
           }
         },
@@ -330,8 +310,7 @@
           "tasks": {
             "PLAY_ON_DESKTOP": {
               "event_name": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "external_ids": []
+              "target": 900
             }
           }
         },
@@ -426,26 +405,15 @@
           "tasks": {
             "PLAY_ON_DESKTOP": {
               "event_name": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "external_ids": []
+              "target": 900
             },
             "PLAY_ON_XBOX": {
               "event_name": "PLAY_ON_XBOX",
-              "target": 900,
-              "external_ids": [
-                "1482870140"
-              ]
+              "target": 900
             },
             "PLAY_ON_PLAYSTATION": {
               "event_name": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "external_ids": [
-                "CUSA00080_00",
-                "PPSA01980_00",
-                "PPSA01737_00",
-                "PPSA02323_00",
-                "CUSA00106_00"
-              ]
+              "target": 900
             }
           }
         },
@@ -462,21 +430,11 @@
             },
             "PLAY_ON_XBOX": {
               "type": "PLAY_ON_XBOX",
-              "target": 900,
-              "external_ids": [
-                "1482870140"
-              ]
+              "target": 900
             },
             "PLAY_ON_PLAYSTATION": {
               "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "external_ids": [
-                "CUSA00080_00",
-                "PPSA01980_00",
-                "PPSA01737_00",
-                "PPSA02323_00",
-                "CUSA00106_00"
-              ]
+              "target": 900
             }
           },
           "join_operator": "or"
@@ -562,8 +520,7 @@
           "tasks": {
             "WATCH_VIDEO": {
               "event_name": "WATCH_VIDEO",
-              "target": 111,
-              "external_ids": []
+              "target": 111
             }
           }
         },
@@ -823,8 +780,7 @@
           "tasks": {
             "PLAY_ON_DESKTOP": {
               "event_name": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "external_ids": []
+              "target": 900
             }
           }
         },
@@ -923,25 +879,15 @@
           "tasks": {
             "PLAY_ON_DESKTOP": {
               "event_name": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "external_ids": []
+              "target": 900
             },
             "PLAY_ON_XBOX": {
               "event_name": "PLAY_ON_XBOX",
-              "target": 900,
-              "external_ids": [
-                "1758492876",
-                "1794906646"
-              ]
+              "target": 900
             },
             "PLAY_ON_PLAYSTATION": {
               "event_name": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "external_ids": [
-                "PPSA21668_00",
-                "CUSA55048_00",
-                "PPSA21669_00"
-              ]
+              "target": 900
             }
           }
         },
@@ -958,20 +904,11 @@
             },
             "PLAY_ON_XBOX": {
               "type": "PLAY_ON_XBOX",
-              "target": 900,
-              "external_ids": [
-                "1758492876",
-                "1794906646"
-              ]
+              "target": 900
             },
             "PLAY_ON_PLAYSTATION": {
               "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "external_ids": [
-                "PPSA21668_00",
-                "CUSA55048_00",
-                "PPSA21669_00"
-              ]
+              "target": 900
             }
           },
           "join_operator": "or"
@@ -1057,24 +994,15 @@
           "tasks": {
             "PLAY_ON_DESKTOP": {
               "event_name": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "external_ids": []
+              "target": 900
             },
             "PLAY_ON_XBOX": {
               "event_name": "PLAY_ON_XBOX",
-              "target": 900,
-              "external_ids": [
-                "883004381",
-                "2106683993"
-              ]
+              "target": 900
             },
             "PLAY_ON_PLAYSTATION": {
               "event_name": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "external_ids": [
-                "CUSA37423_00",
-                "PPSA10793_00"
-              ]
+              "target": 900
             }
           }
         },
@@ -1091,19 +1019,11 @@
             },
             "PLAY_ON_XBOX": {
               "type": "PLAY_ON_XBOX",
-              "target": 900,
-              "external_ids": [
-                "883004381",
-                "2106683993"
-              ]
+              "target": 900
             },
             "PLAY_ON_PLAYSTATION": {
               "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "external_ids": [
-                "CUSA37423_00",
-                "PPSA10793_00"
-              ]
+              "target": 900
             }
           },
           "join_operator": "or"
@@ -1196,22 +1116,15 @@
           "tasks": {
             "PLAY_ON_DESKTOP": {
               "event_name": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "external_ids": []
+              "target": 900
             },
             "PLAY_ON_XBOX": {
               "event_name": "PLAY_ON_XBOX",
-              "target": 900,
-              "external_ids": [
-                "1840884885"
-              ]
+              "target": 900
             },
             "PLAY_ON_PLAYSTATION": {
               "event_name": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "external_ids": [
-                "PPSA19534_00"
-              ]
+              "target": 900
             }
           }
         },
@@ -1228,17 +1141,11 @@
             },
             "PLAY_ON_XBOX": {
               "type": "PLAY_ON_XBOX",
-              "target": 900,
-              "external_ids": [
-                "1840884885"
-              ]
+              "target": 900
             },
             "PLAY_ON_PLAYSTATION": {
               "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "external_ids": [
-                "PPSA19534_00"
-              ]
+              "target": 900
             }
           },
           "join_operator": "or"
@@ -1324,8 +1231,7 @@
           "tasks": {
             "PLAY_ON_DESKTOP": {
               "event_name": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "external_ids": []
+              "target": 900
             }
           }
         },
@@ -1431,23 +1337,15 @@
           "tasks": {
             "PLAY_ON_DESKTOP": {
               "event_name": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "external_ids": []
+              "target": 900
             },
             "PLAY_ON_XBOX": {
               "event_name": "PLAY_ON_XBOX",
-              "target": 900,
-              "external_ids": [
-                "2139646219"
-              ]
+              "target": 900
             },
             "PLAY_ON_PLAYSTATION": {
               "event_name": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "external_ids": [
-                "PPSA20676_00",
-                "PPSA20711_00"
-              ]
+              "target": 900
             }
           }
         },
@@ -1464,18 +1362,11 @@
             },
             "PLAY_ON_XBOX": {
               "type": "PLAY_ON_XBOX",
-              "target": 900,
-              "external_ids": [
-                "2139646219"
-              ]
+              "target": 900
             },
             "PLAY_ON_PLAYSTATION": {
               "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "external_ids": [
-                "PPSA20676_00",
-                "PPSA20711_00"
-              ]
+              "target": 900
             }
           },
           "join_operator": "or"
@@ -1561,27 +1452,15 @@
           "tasks": {
             "PLAY_ON_DESKTOP": {
               "event_name": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "external_ids": []
+              "target": 900
             },
             "PLAY_ON_XBOX": {
               "event_name": "PLAY_ON_XBOX",
-              "target": 900,
-              "external_ids": [
-                "2139967680",
-                "2075142437",
-                "2111887267"
-              ]
+              "target": 900
             },
             "PLAY_ON_PLAYSTATION": {
               "event_name": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "external_ids": [
-                "PPSA30943_00",
-                "CUSA35016_00",
-                "PPSA30664_00",
-                "PPSA08804_00"
-              ]
+              "target": 900
             }
           }
         },
@@ -1598,22 +1477,11 @@
             },
             "PLAY_ON_XBOX": {
               "type": "PLAY_ON_XBOX",
-              "target": 900,
-              "external_ids": [
-                "2139967680",
-                "2075142437",
-                "2111887267"
-              ]
+              "target": 900
             },
             "PLAY_ON_PLAYSTATION": {
               "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "external_ids": [
-                "PPSA30943_00",
-                "CUSA35016_00",
-                "PPSA30664_00",
-                "PPSA08804_00"
-              ]
+              "target": 900
             }
           },
           "join_operator": "or"
@@ -1698,13 +1566,11 @@
           "tasks": {
             "WATCH_VIDEO": {
               "event_name": "WATCH_VIDEO",
-              "target": 82,
-              "external_ids": []
+              "target": 82
             },
             "WATCH_VIDEO_ON_MOBILE": {
               "event_name": "WATCH_VIDEO_ON_MOBILE",
-              "target": 82,
-              "external_ids": []
+              "target": 82
             }
           }
         },
@@ -1872,26 +1738,15 @@
           "tasks": {
             "PLAY_ON_DESKTOP": {
               "event_name": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "external_ids": []
+              "target": 900
             },
             "PLAY_ON_XBOX": {
               "event_name": "PLAY_ON_XBOX",
-              "target": 900,
-              "external_ids": [
-                "1909324253",
-                "1852068331"
-              ]
+              "target": 900
             },
             "PLAY_ON_PLAYSTATION": {
               "event_name": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "external_ids": [
-                "PPSA27353_00",
-                "CUSA52342_00",
-                "PPSA27360_00",
-                "CUSA52334_00"
-              ]
+              "target": 900
             }
           }
         },
@@ -1908,21 +1763,11 @@
             },
             "PLAY_ON_XBOX": {
               "type": "PLAY_ON_XBOX",
-              "target": 900,
-              "external_ids": [
-                "1909324253",
-                "1852068331"
-              ]
+              "target": 900
             },
             "PLAY_ON_PLAYSTATION": {
               "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "external_ids": [
-                "PPSA27353_00",
-                "CUSA52342_00",
-                "PPSA27360_00",
-                "CUSA52334_00"
-              ]
+              "target": 900
             }
           },
           "join_operator": "or"
@@ -2008,8 +1853,7 @@
           "tasks": {
             "WATCH_VIDEO": {
               "event_name": "WATCH_VIDEO",
-              "target": 59,
-              "external_ids": []
+              "target": 59
             }
           }
         },
@@ -2150,8 +1994,7 @@
           "tasks": {
             "PLAY_ON_DESKTOP": {
               "event_name": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "external_ids": []
+              "target": 900
             }
           }
         },
@@ -2246,13 +2089,11 @@
           "tasks": {
             "WATCH_VIDEO": {
               "event_name": "WATCH_VIDEO",
-              "target": 75,
-              "external_ids": []
+              "target": 75
             },
             "WATCH_VIDEO_ON_MOBILE": {
               "event_name": "WATCH_VIDEO_ON_MOBILE",
-              "target": 75,
-              "external_ids": []
+              "target": 75
             }
           }
         },
@@ -2433,8 +2274,7 @@
           "tasks": {
             "WATCH_VIDEO": {
               "event_name": "WATCH_VIDEO",
-              "target": 75,
-              "external_ids": []
+              "target": 75
             }
           }
         },
@@ -2575,8 +2415,7 @@
           "tasks": {
             "PLAY_ON_DESKTOP": {
               "event_name": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "external_ids": []
+              "target": 900
             }
           }
         },
@@ -2675,8 +2514,7 @@
           "tasks": {
             "PLAY_ON_DESKTOP": {
               "event_name": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "external_ids": []
+              "target": 900
             }
           }
         },
@@ -2774,8 +2612,7 @@
           "tasks": {
             "WATCH_VIDEO": {
               "event_name": "WATCH_VIDEO",
-              "target": 29,
-              "external_ids": []
+              "target": 29
             }
           }
         },
@@ -2920,8 +2757,7 @@
           "tasks": {
             "WATCH_VIDEO": {
               "event_name": "WATCH_VIDEO",
-              "target": 85,
-              "external_ids": []
+              "target": 85
             }
           }
         },
@@ -3060,23 +2896,15 @@
           "tasks": {
             "PLAY_ON_DESKTOP": {
               "event_name": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "external_ids": []
+              "target": 900
             },
             "PLAY_ON_XBOX": {
               "event_name": "PLAY_ON_XBOX",
-              "target": 900,
-              "external_ids": [
-                "1774165009"
-              ]
+              "target": 900
             },
             "PLAY_ON_PLAYSTATION": {
               "event_name": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "external_ids": [
-                "PPSA28606_00",
-                "PPSA25554_00"
-              ]
+              "target": 900
             }
           }
         },
@@ -3093,18 +2921,11 @@
             },
             "PLAY_ON_XBOX": {
               "type": "PLAY_ON_XBOX",
-              "target": 900,
-              "external_ids": [
-                "1774165009"
-              ]
+              "target": 900
             },
             "PLAY_ON_PLAYSTATION": {
               "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "external_ids": [
-                "PPSA28606_00",
-                "PPSA25554_00"
-              ]
+              "target": 900
             }
           },
           "join_operator": "or"
@@ -3189,25 +3010,15 @@
           "tasks": {
             "PLAY_ON_DESKTOP": {
               "event_name": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "external_ids": []
+              "target": 900
             },
             "PLAY_ON_XBOX": {
               "event_name": "PLAY_ON_XBOX",
-              "target": 900,
-              "external_ids": [
-                "1854680102"
-              ]
+              "target": 900
             },
             "PLAY_ON_PLAYSTATION": {
               "event_name": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "external_ids": [
-                "PPSA28881_00",
-                "PPSA28884_00",
-                "PPSA28882_00",
-                "PPSA28883_00"
-              ]
+              "target": 900
             }
           }
         },
@@ -3224,20 +3035,11 @@
             },
             "PLAY_ON_XBOX": {
               "type": "PLAY_ON_XBOX",
-              "target": 900,
-              "external_ids": [
-                "1854680102"
-              ]
+              "target": 900
             },
             "PLAY_ON_PLAYSTATION": {
               "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "external_ids": [
-                "PPSA28881_00",
-                "PPSA28884_00",
-                "PPSA28882_00",
-                "PPSA28883_00"
-              ]
+              "target": 900
             }
           },
           "join_operator": "or"
@@ -3319,8 +3121,7 @@
           "tasks": {
             "PLAY_ON_DESKTOP": {
               "event_name": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "external_ids": []
+              "target": 900
             }
           }
         },
@@ -3426,22 +3227,15 @@
           "tasks": {
             "PLAY_ON_DESKTOP": {
               "event_name": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "external_ids": []
+              "target": 900
             },
             "PLAY_ON_XBOX": {
               "event_name": "PLAY_ON_XBOX",
-              "target": 900,
-              "external_ids": [
-                "1928228122"
-              ]
+              "target": 900
             },
             "PLAY_ON_PLAYSTATION": {
               "event_name": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "external_ids": [
-                "PPSA01494_00"
-              ]
+              "target": 900
             }
           }
         },
@@ -3458,17 +3252,11 @@
             },
             "PLAY_ON_XBOX": {
               "type": "PLAY_ON_XBOX",
-              "target": 900,
-              "external_ids": [
-                "1928228122"
-              ]
+              "target": 900
             },
             "PLAY_ON_PLAYSTATION": {
               "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "external_ids": [
-                "PPSA01494_00"
-              ]
+              "target": 900
             }
           },
           "join_operator": "or"
@@ -3553,8 +3341,7 @@
           "tasks": {
             "WATCH_VIDEO": {
               "event_name": "WATCH_VIDEO",
-              "target": 29,
-              "external_ids": []
+              "target": 29
             }
           }
         },
@@ -3699,27 +3486,15 @@
           "tasks": {
             "PLAY_ON_DESKTOP": {
               "event_name": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "external_ids": []
+              "target": 900
             },
             "PLAY_ON_XBOX": {
               "event_name": "PLAY_ON_XBOX",
-              "target": 900,
-              "external_ids": [
-                "1801842805"
-              ]
+              "target": 900
             },
             "PLAY_ON_PLAYSTATION": {
               "event_name": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "external_ids": [
-                "PPSA23921_00",
-                "PPSA23922_00",
-                "PPSA15518_00",
-                "PPSA16194_00",
-                "PPSA15517_00",
-                "PPSA23923_00"
-              ]
+              "target": 900
             }
           }
         },
@@ -3736,22 +3511,11 @@
             },
             "PLAY_ON_XBOX": {
               "type": "PLAY_ON_XBOX",
-              "target": 900,
-              "external_ids": [
-                "1801842805"
-              ]
+              "target": 900
             },
             "PLAY_ON_PLAYSTATION": {
               "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "external_ids": [
-                "PPSA23921_00",
-                "PPSA23922_00",
-                "PPSA15518_00",
-                "PPSA16194_00",
-                "PPSA15517_00",
-                "PPSA23923_00"
-              ]
+              "target": 900
             }
           },
           "join_operator": "or"
@@ -3836,8 +3600,7 @@
           "tasks": {
             "PLAY_ON_DESKTOP": {
               "event_name": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "external_ids": []
+              "target": 900
             }
           }
         },
@@ -3943,8 +3706,7 @@
           "tasks": {
             "PLAY_ON_DESKTOP": {
               "event_name": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "external_ids": []
+              "target": 900
             }
           }
         },
@@ -4043,8 +3805,7 @@
           "tasks": {
             "WATCH_VIDEO_ON_MOBILE": {
               "event_name": "WATCH_VIDEO_ON_MOBILE",
-              "target": 96,
-              "external_ids": []
+              "target": 96
             }
           }
         },
@@ -4189,8 +3950,7 @@
           "tasks": {
             "PLAY_ON_DESKTOP": {
               "event_name": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "external_ids": []
+              "target": 900
             }
           }
         },
@@ -4285,8 +4045,7 @@
           "tasks": {
             "WATCH_VIDEO": {
               "event_name": "WATCH_VIDEO",
-              "target": 29,
-              "external_ids": []
+              "target": 29
             }
           }
         },
@@ -4425,8 +4184,7 @@
           "tasks": {
             "WATCH_VIDEO": {
               "event_name": "WATCH_VIDEO",
-              "target": 29,
-              "external_ids": []
+              "target": 29
             }
           }
         },
@@ -4567,24 +4325,15 @@
           "tasks": {
             "PLAY_ON_DESKTOP": {
               "event_name": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "external_ids": []
+              "target": 900
             },
             "PLAY_ON_XBOX": {
               "event_name": "PLAY_ON_XBOX",
-              "target": 900,
-              "external_ids": [
-                "1794906646"
-              ]
+              "target": 900
             },
             "PLAY_ON_PLAYSTATION": {
               "event_name": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "external_ids": [
-                "PPSA21668_00",
-                "CUSA55048_00",
-                "PPSA21669_00"
-              ]
+              "target": 900
             }
           }
         },
@@ -4601,19 +4350,11 @@
             },
             "PLAY_ON_XBOX": {
               "type": "PLAY_ON_XBOX",
-              "target": 900,
-              "external_ids": [
-                "1794906646"
-              ]
+              "target": 900
             },
             "PLAY_ON_PLAYSTATION": {
               "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "external_ids": [
-                "PPSA21668_00",
-                "CUSA55048_00",
-                "PPSA21669_00"
-              ]
+              "target": 900
             }
           },
           "join_operator": "or"
@@ -4642,148 +4383,6 @@
           "platforms": [
             0
           ]
-        },
-        "share_policy": "shareable_everywhere"
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
-      "id": "1425291943302398073",
-      "config": {
-        "id": "1425291943302398073",
-        "config_version": 2,
-        "starts_at": "2025-10-14T17:00:19+00:00",
-        "expires_at": "2025-11-04T01:00:19+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://discord.com/shop",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "1425603474724491365.jpg",
-          "hero_video": "1425603509432352808.mp4",
-          "quest_bar_hero": "1425603322785824798.jpg",
-          "quest_bar_hero_video": "1425603372764893204.mp4",
-          "game_tile": "1425294157714559043.png",
-          "logotype": "1425294156519178250.png",
-          "game_tile_light": "1425294130531270777.png",
-          "game_tile_dark": "1425294130531270777.png",
-          "logotype_light": "1425293772782174231.png",
-          "logotype_dark": "1425293829841616917.png"
-        },
-        "colors": {
-          "primary": "#5865F2",
-          "secondary": "#19175C"
-        },
-        "messages": {
-          "quest_name": "Discord Halloween 2025",
-          "game_title": "Available in the Shop until 11/3",
-          "game_publisher": "Discord"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "WATCH_VIDEO": {
-              "event_name": "WATCH_VIDEO",
-              "target": 22,
-              "external_ids": []
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 22,
-              "assets": {
-                "video": {
-                  "url": "1425604040406077540_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "1425604258367279226.jpg",
-                  "caption": "1425604641902825482.vtt",
-                  "transcript": "1425604670277288056.txt"
-                },
-                "video_low_res": {
-                  "url": "1425604040406077540_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "1425604258367279226.jpg",
-                  "caption": "1425604641902825482.vtt",
-                  "transcript": "1425604670277288056.txt"
-                },
-                "video_hls": {
-                  "url": "1425604040406077540.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "1425604258367279226.jpg",
-                  "caption": "1425604641902825482.vtt",
-                  "transcript": "1425604670277288056.txt"
-                }
-              },
-              "messages": {
-                "video_title": "Discord Halloween 2025 Quest",
-                "video_end_cta_title": "Discord Halloween 2025 ",
-                "video_end_cta_subtitle": "Discord Halloween 2025 Shop Drop",
-                "video_end_cta_button_label": "Shop Now"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "orb_quantity": 200
-            }
-          ],
-          "rewards_expire_at": "2025-12-04T01:00:19+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "video_metadata": {
-          "messages": {
-            "video_title": "Discord Halloween 2025 Quest",
-            "video_end_cta_title": "Discord Halloween 2025 ",
-            "video_end_cta_subtitle": "Discord Halloween 2025 Shop Drop",
-            "video_end_cta_button_label": "Shop Now"
-          },
-          "assets": {
-            "video_player_video_hls": "1425604040406077540.m3u8",
-            "video_player_video": "1425604040406077540_1080.mp4",
-            "video_player_thumbnail": "1425604258367279226.jpg",
-            "video_player_video_low_res": "1425604040406077540_720.mp4",
-            "video_player_caption": "1425604641902825482.vtt",
-            "video_player_transcript": "1425604670277288056.txt",
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
         },
         "share_policy": "shareable_everywhere"
       },
@@ -4901,22 +4500,25 @@
       "id": "1425614323958677667"
     },
     {
+      "id": "1425272488287408250"
+    },
+    {
+      "id": "1425921949665591336"
+    },
+    {
+      "id": "1413610443729145966"
+    },
+    {
       "id": "1421280952591843438"
     },
     {
       "id": "1420556874629251124"
     },
     {
+      "id": "1425291943302398073"
+    },
+    {
       "id": "1423051598787121242"
-    },
-    {
-      "id": "1425921949665591336"
-    },
-    {
-      "id": "1425272488287408250"
-    },
-    {
-      "id": "1413610443729145966"
     }
   ],
   "quest_enrollment_blocked_until": null
