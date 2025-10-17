@@ -1,121 +1,6 @@
 {
   "quests": [
     {
-      "id": "1425609255569854464",
-      "config": {
-        "id": "1425609255569854464",
-        "config_version": 2,
-        "starts_at": "2025-10-14T17:00:13+00:00",
-        "expires_at": "2025-10-21T00:00:13+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://www.fortnite.com/",
-          "id": "1402418703554842694",
-          "name": "Fortnite"
-        },
-        "assets": {
-          "hero": "1425609862599147530.jpg",
-          "hero_video": null,
-          "quest_bar_hero": "1425609830286102660.jpg",
-          "quest_bar_hero_video": null,
-          "game_tile": "1425610175385047110.png",
-          "logotype": "1425610174156247140.png",
-          "game_tile_light": "1425609961702031421.png",
-          "game_tile_dark": "1425609961702031421.png",
-          "logotype_light": "1425609931645517834.png",
-          "logotype_dark": "1425609931645517834.png"
-        },
-        "colors": {
-          "primary": "#94381F",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Fortnitemares",
-          "game_title": "Fortnite",
-          "game_publisher": "Epic Games"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "event_name": "PLAY_ON_DESKTOP",
-              "target": 900
-            },
-            "PLAY_ON_XBOX": {
-              "event_name": "PLAY_ON_XBOX",
-              "target": 900
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "event_name": "PLAY_ON_PLAYSTATION",
-              "target": 900
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1402418703554842694"
-                }
-              ]
-            },
-            "PLAY_ON_XBOX": {
-              "type": "PLAY_ON_XBOX",
-              "target": 900
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 3,
-              "sku_id": "1425613673417801771",
-              "asset": "1425614017472499752.mp4",
-              "asset_video": null,
-              "messages": {
-                "name": "The Final Peel Avatar Decoration",
-                "name_with_article": "The Final Peel Avatar Decoration",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "expires_at": "2025-12-20T01:00:00+00:00",
-              "expires_at_premium": null,
-              "expiration_mode": 1
-            }
-          ],
-          "rewards_expire_at": "2025-11-20T00:00:13+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere"
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
       "id": "1420524848911876096",
       "config": {
         "id": "1420524848911876096",
@@ -261,101 +146,6 @@
       "preview": false
     },
     {
-      "id": "1416175237439160450",
-      "config": {
-        "id": "1416175237439160450",
-        "config_version": 2,
-        "starts_at": "2025-09-25T17:00:47+00:00",
-        "expires_at": "2025-10-01T23:00:47+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://bit.ly/32STPlayquest2",
-          "id": "1191652130323431514",
-          "name": "Snowbreak: Containment Zone"
-        },
-        "assets": {
-          "hero": "1420180737738674186.jpg",
-          "hero_video": null,
-          "quest_bar_hero": "1420180937102065786.jpg",
-          "quest_bar_hero_video": null,
-          "game_tile": "d4718a8d-4af4-4eb1-985c-a3c42e95265e.jpg",
-          "logotype": "d3e87b6e-9145-44ba-9828-3a7bb60eed03.png",
-          "game_tile_light": "1417602319532556408.jpg",
-          "game_tile_dark": "1417602320346382487.jpg",
-          "logotype_light": "1417602320992178397.png",
-          "logotype_dark": "1417602321885561004.png"
-        },
-        "colors": {
-          "primary": "#6C94B3",
-          "secondary": "#196590"
-        },
-        "messages": {
-          "quest_name": "Snowbreak Big Update",
-          "game_title": "Snowbreak: Containment Zone",
-          "game_publisher": "Amazing Seasun Games"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "event_name": "PLAY_ON_DESKTOP",
-              "target": 900
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1191652130323431514"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 orbs",
-                "name_with_article": "700 orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "orb_quantity": 700
-            }
-          ],
-          "rewards_expire_at": "2025-10-31T23:00:47+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere"
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
       "id": "1427758897501835264",
       "config": {
         "id": "1427758897501835264",
@@ -460,6 +250,105 @@
             }
           ],
           "rewards_expire_at": "2025-11-21T00:00:07+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere"
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
+      "id": "1412856057944084480",
+      "config": {
+        "id": "1412856057944084480",
+        "config_version": 2,
+        "starts_at": "2025-09-24T17:00:33+00:00",
+        "expires_at": "2025-10-01T00:00:33+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://store.steampowered.com/app/3201010/Starlight_ReVolver/",
+          "id": "1380591738238013440",
+          "name": "Starlight Re:Volver"
+        },
+        "assets": {
+          "hero": "e157cb58-962e-4614-a193-1af80a1f2e18.jpg",
+          "hero_video": "518a85cd-43ee-4e58-84bd-dca5602e77f7.mp4",
+          "quest_bar_hero": "ea655082-a378-4113-9afe-b555cfe7613a.jpg",
+          "quest_bar_hero_video": "74cbe524-e77f-4fe9-a8ce-4081c635e48c.mp4",
+          "game_tile": "dd363bbf-bbc2-4a11-aa9d-418a7acb7cb1.png",
+          "logotype": "a2dd0850-3689-410c-aa9f-012eacdc2ecd.png",
+          "game_tile_light": "1417602390198190101.png",
+          "game_tile_dark": "1417602390970073138.png",
+          "logotype_light": "1417602391603286168.png",
+          "logotype_dark": "1417602392517640383.png"
+        },
+        "colors": {
+          "primary": "#E95DD6",
+          "secondary": "#2B0FB4"
+        },
+        "messages": {
+          "quest_name": "Early Access",
+          "game_title": "Starlight Re:Volver",
+          "game_publisher": "Pahdo Labs"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "event_name": "PLAY_ON_DESKTOP",
+              "target": 900
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1380591738238013440"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 3,
+              "sku_id": "1413239353219612796",
+              "asset": "1420757131937841193.mp4",
+              "asset_video": null,
+              "messages": {
+                "name": "Dream Dive Stars Avatar Decoration",
+                "name_with_article": "a Dream Dive Stars Avatar Decoration",
+                "redemption_instructions_by_platform": {
+                  "0": "Default"
+                }
+              },
+              "expires_at": "2025-11-14T00:00:00+00:00",
+              "expires_at_premium": null,
+              "expiration_mode": 3
+            }
+          ],
+          "rewards_expire_at": "2025-10-31T00:00:33+00:00",
           "platforms": [
             0
           ]
@@ -604,224 +493,6 @@
             "quest_bar_preview_thumbnail": null,
             "quest_home_video": null
           }
-        },
-        "share_policy": "shareable_everywhere"
-      },
-      "user_status": {
-        "user_id": "1369835936246005872",
-        "quest_id": "1416148745472442369",
-        "enrolled_at": "2025-09-19T19:02:40.887336+00:00",
-        "completed_at": "2025-09-19T19:04:20.625676+00:00",
-        "claimed_at": "2025-09-19T19:04:27.490894+00:00",
-        "claimed_tier": null,
-        "last_stream_heartbeat_at": null,
-        "stream_progress_seconds": 0,
-        "dismissed_quest_content": 0,
-        "progress": {
-          "WATCH_VIDEO": {
-            "value": 111,
-            "event_name": "WATCH_VIDEO",
-            "updated_at": "2025-09-19T19:04:20.625678+00:00",
-            "completed_at": "2025-09-19T19:04:20.625676+00:00",
-            "heartbeat": null
-          }
-        }
-      },
-      "targeted_content": [],
-      "preview": false
-    },
-    {
-      "id": "1412491570820812933",
-      "config": {
-        "id": "1412491570820812933",
-        "config_version": 2,
-        "starts_at": "2025-10-01T17:00:13+00:00",
-        "expires_at": "2025-10-10T00:00:13+00:00",
-        "features": [
-          3,
-          8,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://www.blackphonemovie.com/tickets",
-          "id": "1412357874822287363",
-          "name": "Black Phone 2 Puzzle"
-        },
-        "assets": {
-          "hero": "1422287192784507082.jpg",
-          "hero_video": "1422287120952983665.mp4",
-          "quest_bar_hero": "1422287085552795790.jpg",
-          "quest_bar_hero_video": "1422287120952983665.mp4",
-          "game_tile": "1422287483567083570.png",
-          "logotype": "1422287482283757660.png",
-          "game_tile_light": "1422287441313796227.png",
-          "game_tile_dark": "1422287441313796227.png",
-          "logotype_light": "1422287390311190598.png",
-          "logotype_dark": "1422287390311190598.png"
-        },
-        "colors": {
-          "primary": "#97281B",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Black Phone 2 Puzzle",
-          "game_title": "Black Phone 2 Puzzle",
-          "game_publisher": "Universal Pictures"
-        },
-        "task_config": {
-          "type": 2,
-          "join_operator": "or",
-          "tasks": {
-            "progress": {
-              "event_name": "progress",
-              "title": "Black Phone 2 Puzzle",
-              "description": "Solve the puzzle of the Black Phone to win 700 Discord Orbs",
-              "target": 1
-            }
-          },
-          "enrollment_url": "https://www.discord.com",
-          "developer_application_id": "1412357874822287363"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "ACHIEVEMENT_IN_ACTIVITY": {
-              "type": "ACHIEVEMENT_IN_ACTIVITY",
-              "target": 1,
-              "event_name": "progress",
-              "messages": {
-                "task_title": "Black Phone 2 Puzzle",
-                "task_description": "Solve the puzzle of the Black Phone to win 700 Discord Orbs"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 orbs",
-                "name_with_article": "700 orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "orb_quantity": 700
-            }
-          ],
-          "rewards_expire_at": "2025-11-09T00:00:13+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere"
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
-      "id": "1412856057944084480",
-      "config": {
-        "id": "1412856057944084480",
-        "config_version": 2,
-        "starts_at": "2025-09-24T17:00:33+00:00",
-        "expires_at": "2025-10-01T00:00:33+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://store.steampowered.com/app/3201010/Starlight_ReVolver/",
-          "id": "1380591738238013440",
-          "name": "Starlight Re:Volver"
-        },
-        "assets": {
-          "hero": "e157cb58-962e-4614-a193-1af80a1f2e18.jpg",
-          "hero_video": "518a85cd-43ee-4e58-84bd-dca5602e77f7.mp4",
-          "quest_bar_hero": "ea655082-a378-4113-9afe-b555cfe7613a.jpg",
-          "quest_bar_hero_video": "74cbe524-e77f-4fe9-a8ce-4081c635e48c.mp4",
-          "game_tile": "dd363bbf-bbc2-4a11-aa9d-418a7acb7cb1.png",
-          "logotype": "a2dd0850-3689-410c-aa9f-012eacdc2ecd.png",
-          "game_tile_light": "1417602390198190101.png",
-          "game_tile_dark": "1417602390970073138.png",
-          "logotype_light": "1417602391603286168.png",
-          "logotype_dark": "1417602392517640383.png"
-        },
-        "colors": {
-          "primary": "#E95DD6",
-          "secondary": "#2B0FB4"
-        },
-        "messages": {
-          "quest_name": "Early Access",
-          "game_title": "Starlight Re:Volver",
-          "game_publisher": "Pahdo Labs"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "event_name": "PLAY_ON_DESKTOP",
-              "target": 900
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1380591738238013440"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 3,
-              "sku_id": "1413239353219612796",
-              "asset": "1420757131937841193.mp4",
-              "asset_video": null,
-              "messages": {
-                "name": "Dream Dive Stars Avatar Decoration",
-                "name_with_article": "a Dream Dive Stars Avatar Decoration",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "expires_at": "2025-11-14T00:00:00+00:00",
-              "expires_at_premium": null,
-              "expiration_mode": 3
-            }
-          ],
-          "rewards_expire_at": "2025-10-31T00:00:33+00:00",
-          "platforms": [
-            0
-          ]
         },
         "share_policy": "shareable_everywhere"
       },
@@ -1051,131 +722,6 @@
         },
         "share_policy": "shareable_everywhere"
       },
-      "user_status": {
-        "user_id": "1369835936246005872",
-        "quest_id": "1416172187542622218",
-        "enrolled_at": "2025-09-19T19:03:10.143161+00:00",
-        "completed_at": null,
-        "claimed_at": null,
-        "claimed_tier": null,
-        "last_stream_heartbeat_at": null,
-        "stream_progress_seconds": 0,
-        "dismissed_quest_content": 0,
-        "progress": {}
-      },
-      "targeted_content": [],
-      "preview": false
-    },
-    {
-      "id": "1425677992721514516",
-      "config": {
-        "id": "1425677992721514516",
-        "config_version": 2,
-        "starts_at": "2025-10-10T17:00:21+00:00",
-        "expires_at": "2025-10-24T00:00:21+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://ad.doubleclick.net/ddm/trackclk/N7657.3866164DISCORD.COM/B34205182.430643621;dc_trk_aid=623957494;dc_trk_cid=242580131;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
-          "id": "1425690433018925056",
-          "name": "Battlefield 6"
-        },
-        "assets": {
-          "hero": "1425686740584239207.jpg",
-          "hero_video": null,
-          "quest_bar_hero": "1425686688969261126.jpg",
-          "quest_bar_hero_video": null,
-          "game_tile": "1425686939159232683.jpg",
-          "logotype": "1425686933950042283.png",
-          "game_tile_light": "1425686815599493273.jpg",
-          "game_tile_dark": "1425686815599493273.jpg",
-          "logotype_light": "1425686787166306384.png",
-          "logotype_dark": "1425686787166306384.png"
-        },
-        "colors": {
-          "primary": "#FE3B00",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Battlefield 6 Launch",
-          "game_title": "Battlefield 6",
-          "game_publisher": "Electronic Arts"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "event_name": "PLAY_ON_DESKTOP",
-              "target": 900
-            },
-            "PLAY_ON_XBOX": {
-              "event_name": "PLAY_ON_XBOX",
-              "target": 900
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "event_name": "PLAY_ON_PLAYSTATION",
-              "target": 900
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1425690433018925056"
-                }
-              ]
-            },
-            "PLAY_ON_XBOX": {
-              "type": "PLAY_ON_XBOX",
-              "target": 900
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 1,
-              "sku_id": "1425677992721514517",
-              "asset": "1425963968643465266.jpg",
-              "asset_video": null,
-              "messages": {
-                "name": "30-min 2XP Token",
-                "name_with_article": "a 30-min 2XP Token",
-                "redemption_instructions_by_platform": {
-                  "0": "Log in to redeem your code at: https://www.ea.com/games/battlefield/battlefield-6/redeem\n\n1. Log in to your EA Account   \n2. Redeem your in-game codes  \n3. Link your platforms to your EA Account to play on any platform  "
-                }
-              },
-              "approximate_count": null,
-              "redemption_link": null
-            }
-          ],
-          "rewards_expire_at": "2025-11-23T00:00:21+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere"
-      },
       "user_status": null,
       "targeted_content": [],
       "preview": false
@@ -1272,18 +818,7 @@
         },
         "share_policy": "shareable_everywhere"
       },
-      "user_status": {
-        "user_id": "1369835936246005872",
-        "quest_id": "1420098259002724373",
-        "enrolled_at": null,
-        "completed_at": null,
-        "claimed_at": null,
-        "claimed_tier": null,
-        "last_stream_heartbeat_at": null,
-        "stream_progress_seconds": 0,
-        "dismissed_quest_content": 0,
-        "progress": {}
-      },
+      "user_status": null,
       "targeted_content": [],
       "preview": false
     },
@@ -1804,147 +1339,6 @@
       "preview": false
     },
     {
-      "id": "1423404422649745438",
-      "config": {
-        "id": "1423404422649745438",
-        "config_version": 2,
-        "starts_at": "2025-10-03T17:00:59+00:00",
-        "expires_at": "2025-10-10T00:00:59+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://www.ea.com/games/battlefield/battlefield-6/buy",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "1423412215331033148.jpg",
-          "hero_video": "1423412849132437624.mp4",
-          "quest_bar_hero": "1423412650918019122.jpg",
-          "quest_bar_hero_video": "1423412849132437624.mp4",
-          "game_tile": "1423412915712819281.jpg",
-          "logotype": "1423412914638946377.png",
-          "game_tile_light": "1423412269571903538.jpg",
-          "game_tile_dark": "1423412269571903538.jpg",
-          "logotype_light": "1423412368930504806.png",
-          "logotype_dark": "1423412393202942042.png"
-        },
-        "colors": {
-          "primary": "#FE3B00",
-          "secondary": "#454545"
-        },
-        "messages": {
-          "quest_name": "Battlefield 6 Trailer",
-          "game_title": "Battlefield 6",
-          "game_publisher": "Electronic Arts"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "WATCH_VIDEO": {
-              "event_name": "WATCH_VIDEO",
-              "target": 59
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 59,
-              "assets": {
-                "video": {
-                  "url": "1423408255056613569_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "1423411000186769439.jpg",
-                  "caption": "1423411713855721553.vtt",
-                  "transcript": "1423411775252201544.txt"
-                },
-                "video_low_res": {
-                  "url": "1423408255056613569_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "1423411000186769439.jpg",
-                  "caption": "1423411713855721553.vtt",
-                  "transcript": "1423411775252201544.txt"
-                },
-                "video_hls": {
-                  "url": "1423408255056613569.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "1423411000186769439.jpg",
-                  "caption": "1423411713855721553.vtt",
-                  "transcript": "1423411775252201544.txt"
-                }
-              },
-              "messages": {
-                "video_title": "Battlefield 6 Trailer",
-                "video_end_cta_title": "Battlefield 6 ",
-                "video_end_cta_subtitle": "Battlefield 6 arrives October 10",
-                "video_end_cta_button_label": "Pre-Order Now"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 orbs",
-                "name_with_article": "700 orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "orb_quantity": 700
-            }
-          ],
-          "rewards_expire_at": "2025-11-09T00:00:59+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "video_metadata": {
-          "messages": {
-            "video_title": "Battlefield 6 Trailer",
-            "video_end_cta_title": "Battlefield 6 ",
-            "video_end_cta_subtitle": "Battlefield 6 arrives October 10",
-            "video_end_cta_button_label": "Pre-Order Now"
-          },
-          "assets": {
-            "video_player_video_hls": "1423408175293399123.m3u8",
-            "video_player_video": "1423408175293399123_1080.mp4",
-            "video_player_thumbnail": "1423411532934418553.jpg",
-            "video_player_video_low_res": "1423408175293399123_720.mp4",
-            "video_player_caption": "1423411713855721553.vtt",
-            "video_player_transcript": "1423411775252201544.txt",
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
-        },
-        "share_policy": "shareable_everywhere"
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
       "id": "1425276915639652382",
       "config": {
         "id": "1425276915639652382",
@@ -2032,191 +1426,6 @@
           "platforms": [
             0
           ]
-        },
-        "share_policy": "shareable_everywhere"
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
-      "id": "1425263680571834399",
-      "config": {
-        "id": "1425263680571834399",
-        "config_version": 2,
-        "starts_at": "2025-10-10T17:00:01+00:00",
-        "expires_at": "2025-10-18T00:00:01+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://www.blackphonemovie.com/",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "1425265363943166003.jpg",
-          "hero_video": "1425265322444722318.mp4",
-          "quest_bar_hero": "1425264448859410432.jpg",
-          "quest_bar_hero_video": "1425265322444722318.mp4",
-          "game_tile": "1425267822761611436.png",
-          "logotype": "1425267821511704666.png",
-          "game_tile_light": "1425265680093155438.png",
-          "game_tile_dark": "1425265680093155438.png",
-          "logotype_light": "1425265649759813733.png",
-          "logotype_dark": "1425265649759813733.png"
-        },
-        "colors": {
-          "primary": "#97281B",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Black Phone 2",
-          "game_title": "In Theaters October 17",
-          "game_publisher": "Universal Pictures"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "WATCH_VIDEO": {
-              "event_name": "WATCH_VIDEO",
-              "target": 75
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "event_name": "WATCH_VIDEO_ON_MOBILE",
-              "target": 75
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 75,
-              "assets": {
-                "video": {
-                  "url": "1425268293199200256_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "1425268458937122886.jpg",
-                  "caption": "1425268872600096788.vtt",
-                  "transcript": "1425268905936420974.txt"
-                },
-                "video_low_res": {
-                  "url": "1425268293199200256_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "1425268458937122886.jpg",
-                  "caption": "1425268872600096788.vtt",
-                  "transcript": "1425268905936420974.txt"
-                },
-                "video_hls": {
-                  "url": "1425268293199200256.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "1425268458937122886.jpg",
-                  "caption": "1425268872600096788.vtt",
-                  "transcript": "1425268905936420974.txt"
-                }
-              },
-              "messages": {
-                "video_title": "Black Phone 2",
-                "video_end_cta_title": "Black Phone 2",
-                "video_end_cta_subtitle": "Black Phone 2 in Theaters October 17",
-                "video_end_cta_button_label": "Get Tickets"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 75,
-              "assets": {
-                "video": {
-                  "url": "1425500222741676132_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "1425268458937122886.jpg",
-                  "caption": "1425268872600096788.vtt",
-                  "transcript": "1425268905936420974.txt"
-                },
-                "video_low_res": {
-                  "url": "1425500222741676132_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "1425268458937122886.jpg",
-                  "caption": "1425268872600096788.vtt",
-                  "transcript": "1425268905936420974.txt"
-                },
-                "video_hls": {
-                  "url": "1425500222741676132.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "1425268458937122886.jpg",
-                  "caption": "1425268872600096788.vtt",
-                  "transcript": "1425268905936420974.txt"
-                }
-              },
-              "messages": {
-                "video_title": "Black Phone 2",
-                "video_end_cta_title": "Black Phone 2",
-                "video_end_cta_subtitle": "Black Phone 2 in Theaters October 17",
-                "video_end_cta_button_label": "Get Tickets"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 3,
-              "sku_id": "1425616465654190161",
-              "asset": "1425616632742674573.mp4",
-              "asset_video": null,
-              "messages": {
-                "name": "Black Phone 2 Avatar Decoration",
-                "name_with_article": "a Black Phone 2 Avatar Decoration",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "expires_at": "2025-12-17T01:00:00+00:00",
-              "expires_at_premium": null,
-              "expiration_mode": 3
-            }
-          ],
-          "rewards_expire_at": "2025-11-17T00:00:01+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "video_metadata": {
-          "messages": {
-            "video_title": "Black Phone 2",
-            "video_end_cta_title": "Black Phone 2",
-            "video_end_cta_subtitle": "Black Phone 2 in Theaters October 17",
-            "video_end_cta_button_label": "Get Tickets"
-          },
-          "assets": {
-            "video_player_video_hls": "1425268293199200256.m3u8",
-            "video_player_video": "1425268293199200256_1080.mp4",
-            "video_player_thumbnail": "1425268458937122886.jpg",
-            "video_player_video_low_res": "1425268293199200256_720.mp4",
-            "video_player_caption": "1425268872600096788.vtt",
-            "video_player_transcript": "1425268905936420974.txt",
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
         },
         "share_policy": "shareable_everywhere"
       },
@@ -2457,249 +1666,6 @@
           "platforms": [
             0
           ]
-        },
-        "share_policy": "shareable_everywhere"
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
-      "id": "1421275302923079721",
-      "config": {
-        "id": "1421275302923079721",
-        "config_version": 2,
-        "starts_at": "2025-10-16T16:00:38+00:00",
-        "expires_at": "2025-10-23T00:00:38+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://store.steampowered.com/app/2183900/Warhammer_40000_Space_Marine_2/?utm_source=Discord&utm_medium=Quest&utm_campaign=SM2_FreeDemo",
-          "id": "1281297844858257418",
-          "name": "Warhammer 40,000: Space Marine 2"
-        },
-        "assets": {
-          "hero": "1422689948821360700.jpg",
-          "hero_video": "1422690017020612708.mp4",
-          "quest_bar_hero": "1422689979569537034.jpg",
-          "quest_bar_hero_video": "1422690017020612708.mp4",
-          "game_tile": "1422690209920978984.png",
-          "logotype": "1422690208821805096.png",
-          "game_tile_light": "1422690149459824812.png",
-          "game_tile_dark": "1422690149459824812.png",
-          "logotype_light": "1422690105621090414.png",
-          "logotype_dark": "1422690105621090414.png"
-        },
-        "colors": {
-          "primary": "#C8960A",
-          "secondary": "#F5C538"
-        },
-        "messages": {
-          "quest_name": "Space Marine 2 Free Demo",
-          "game_title": "Warhammer 40,000: Space Marine 2",
-          "game_publisher": "Focus Entertainment Publishing"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "event_name": "PLAY_ON_DESKTOP",
-              "target": 900
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1281297844858257418"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 1,
-              "sku_id": "1421275302923079722",
-              "asset": "1422689393537191946.png",
-              "asset_video": null,
-              "messages": {
-                "name": "Porphyr Shield Skin",
-                "name_with_article": "a Porphyr Shield Skin",
-                "redemption_instructions_by_platform": {
-                  "0": "How To Use Redeem Codes:  \n1. Once you have a Redeem Code, head over to https://tinyurl.com/yzavuyet, sign up or create an account to redeem it!   \n2. To proceed, you will need to go to your account, redeem your reward and copy/paste your Redeem Code.  \n3. Once your code is successfully redeemed, the reward will be available in the full game once your link your PROS account in-game by scanning the QR Code.  \n\n**Please note, the Redeem Code is valid from Coordinated Universal Time (UTC): October 16, 2025, 9:00:00 AM to October 23, 2025, 8:59:59 AM.** "
-                }
-              },
-              "approximate_count": null,
-              "redemption_link": null
-            }
-          ],
-          "rewards_expire_at": "2025-11-22T00:00:38+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere"
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
-      "id": "1419728074467049642",
-      "config": {
-        "id": "1419728074467049642",
-        "config_version": 2,
-        "starts_at": "2025-09-25T17:00:30+00:00",
-        "expires_at": "2025-10-05T00:00:30+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://ad.doubleclick.net/ddm/trackclk/N1306638.3397510DISCORD/B33837002.425960870;dc_trk_aid=622541524;dc_trk_cid=241493122;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "1419732314677842123.jpg",
-          "hero_video": null,
-          "quest_bar_hero": "1419732110733738186.jpg",
-          "quest_bar_hero_video": null,
-          "game_tile": "1419740576298959022.png",
-          "logotype": "1419738687817781270.png",
-          "game_tile_light": "1419740552357871657.png",
-          "game_tile_dark": "1419740552357871657.png",
-          "logotype_light": "1419738669673353286.png",
-          "logotype_dark": "1419738669673353286.png"
-        },
-        "colors": {
-          "primary": "#C49626",
-          "secondary": "#141413"
-        },
-        "messages": {
-          "quest_name": "Ghost of Yōtei",
-          "game_title": "Ghost of Yōtei",
-          "game_publisher": "Sony Interactive Entertainment & Sucker Punch Productions"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "WATCH_VIDEO": {
-              "event_name": "WATCH_VIDEO",
-              "target": 29
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "1423367104513708164_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "1423367140391784621.jpg",
-                  "caption": "1419749366788264128.vtt",
-                  "transcript": "1419749522518708335.txt"
-                },
-                "video_low_res": {
-                  "url": "1423367104513708164_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "1423367140391784621.jpg",
-                  "caption": "1419749366788264128.vtt",
-                  "transcript": "1419749522518708335.txt"
-                },
-                "video_hls": {
-                  "url": "1423367104513708164.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "1423367140391784621.jpg",
-                  "caption": "1419749366788264128.vtt",
-                  "transcript": "1419749522518708335.txt"
-                }
-              },
-              "messages": {
-                "video_title": "Launch Trailer",
-                "video_end_cta_title": "Ghost of Yōtei",
-                "video_end_cta_subtitle": "Download Now",
-                "video_end_cta_button_label": "Get Game"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 3,
-              "sku_id": "1419735933929918536",
-              "asset": "1419736169477836961.mp4",
-              "asset_video": null,
-              "messages": {
-                "name": "Atsu's Mask Avatar Decoration",
-                "name_with_article": "an Atsu's Mask Avatar Decoration",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "expires_at": "2025-12-04T00:00:00+00:00",
-              "expires_at_premium": null,
-              "expiration_mode": 3
-            }
-          ],
-          "rewards_expire_at": "2025-11-03T23:00:30+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "video_metadata": {
-          "messages": {
-            "video_title": "Launch Trailer",
-            "video_end_cta_title": "Ghost of Yōtei",
-            "video_end_cta_subtitle": "Download Now",
-            "video_end_cta_button_label": "Get Game"
-          },
-          "assets": {
-            "video_player_video_hls": "1423367104513708164.m3u8",
-            "video_player_video": "1423367104513708164_1080.mp4",
-            "video_player_thumbnail": "1423367140391784621.jpg",
-            "video_player_video_low_res": "1423367104513708164_720.mp4",
-            "video_player_caption": "1419742919920718017.vtt",
-            "video_player_transcript": "1419742963587616778.txt",
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
         },
         "share_policy": "shareable_everywhere"
       },
@@ -3162,276 +2128,6 @@
         },
         "share_policy": "shareable_everywhere"
       },
-      "user_status": {
-        "user_id": "1369835936246005872",
-        "quest_id": "1412895538050760776",
-        "enrolled_at": "2025-09-19T19:02:39.398372+00:00",
-        "completed_at": null,
-        "claimed_at": null,
-        "claimed_tier": null,
-        "last_stream_heartbeat_at": null,
-        "stream_progress_seconds": 0,
-        "dismissed_quest_content": 0,
-        "progress": {}
-      },
-      "targeted_content": [],
-      "preview": false
-    },
-    {
-      "id": "1410010688482705610",
-      "config": {
-        "id": "1410010688482705610",
-        "config_version": 2,
-        "starts_at": "2025-09-12T17:00:04+00:00",
-        "expires_at": "2025-09-25T23:00:04+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://borderlands.2k.com/borderlands-4/buy/",
-          "id": "1415390815056035891",
-          "name": "Borderlands 4"
-        },
-        "assets": {
-          "hero": "bcd58b72-7cde-44b2-8664-6cef17703a0e.jpeg",
-          "hero_video": null,
-          "quest_bar_hero": "7c6e3d9a-c7b8-4ce6-ab19-4f5ffdd357fa.jpg",
-          "quest_bar_hero_video": null,
-          "game_tile": "48d577ee-3074-4871-adbe-155626e2ccdb.png",
-          "logotype": "4050fab7-ac14-46c1-a3d7-47b7e90be209.png",
-          "game_tile_light": "1417602427770638478.png",
-          "game_tile_dark": "1417602428496384272.png",
-          "logotype_light": "1417602429209411755.png",
-          "logotype_dark": "1417602429926768660.png"
-        },
-        "colors": {
-          "primary": "#F70212",
-          "secondary": "#454545"
-        },
-        "messages": {
-          "quest_name": "Borderlands 4 Looter",
-          "game_title": "Borderlands 4",
-          "game_publisher": "2K"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "event_name": "PLAY_ON_DESKTOP",
-              "target": 900
-            },
-            "PLAY_ON_XBOX": {
-              "event_name": "PLAY_ON_XBOX",
-              "target": 900
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "event_name": "PLAY_ON_PLAYSTATION",
-              "target": 900
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1415390815056035891"
-                }
-              ]
-            },
-            "PLAY_ON_XBOX": {
-              "type": "PLAY_ON_XBOX",
-              "target": 900
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 1,
-              "sku_id": "1410010688482705611",
-              "asset": "38da6206-bc8d-404e-af72-19658c9d3b0e.jpg",
-              "asset_video": null,
-              "messages": {
-                "name": "Borderlands 4 SHiFT code",
-                "name_with_article": "a Borderlands 4 SHiFT code",
-                "redemption_instructions_by_platform": {
-                  "0": "SHiFT codes can be redeemed for your SHiFT Account on the Gearbox SHiFT site, or via the in-game Social menu within Borderlands 4 at launch. If you don't have a SHiFT account, you can create one on the Gearbox SHiFT site! SHiFT accounts are free. Each code may be redeemed once (1) per SHiFT account."
-                }
-              },
-              "approximate_count": null,
-              "redemption_link": null
-            }
-          ],
-          "rewards_expire_at": "2025-10-25T23:00:04+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere"
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
-      "id": "1410010949670277323",
-      "config": {
-        "id": "1410010949670277323",
-        "config_version": 2,
-        "starts_at": "2025-09-12T17:00:07+00:00",
-        "expires_at": "2025-09-18T23:00:07+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://borderlands.2k.com/borderlands-4/buy/",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "287931af-6987-459a-a99f-67596101e5df.jpg",
-          "hero_video": "87976fab-87a4-4a12-857f-2664d5ae8c35.mp4",
-          "quest_bar_hero": "e00c27b4-32d1-46bc-b28d-30313c38b79b.jpg",
-          "quest_bar_hero_video": "0c0520b3-fbd6-494d-9013-80b0fc196b66.mp4",
-          "game_tile": "e2687ef1-5024-44f0-8b27-e4612f2dd9fe.png",
-          "logotype": "dd4766d9-570a-4202-9238-7fe81afe875a.png",
-          "game_tile_light": "1417602424218189985.png",
-          "game_tile_dark": "1417602424977490046.png",
-          "logotype_light": "1417602425551982683.png",
-          "logotype_dark": "1417602426244038729.png"
-        },
-        "colors": {
-          "primary": "#F70212",
-          "secondary": "#454545"
-        },
-        "messages": {
-          "quest_name": "Borderlands 4 Launch",
-          "game_title": "Borderlands 4",
-          "game_publisher": "2K"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "WATCH_VIDEO": {
-              "event_name": "WATCH_VIDEO",
-              "target": 29
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "1413658343242993716_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "1413658389241659505.jpg",
-                  "caption": "1413658455771975772.vtt",
-                  "transcript": "1413658476835508254.txt"
-                },
-                "video_low_res": {
-                  "url": "1413658343242993716_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "1413658389241659505.jpg",
-                  "caption": "1413658455771975772.vtt",
-                  "transcript": "1413658476835508254.txt"
-                },
-                "video_hls": {
-                  "url": "1413658343242993716.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "1413658389241659505.jpg",
-                  "caption": "1413658455771975772.vtt",
-                  "transcript": "1413658476835508254.txt"
-                }
-              },
-              "messages": {
-                "video_title": "Gameplay Launch Trailer",
-                "video_end_cta_title": "Borderlands 4 ",
-                "video_end_cta_subtitle": "Get Borderlands 4 Now!",
-                "video_end_cta_button_label": "Play Now"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 3,
-              "sku_id": "1413650166774366279",
-              "asset": "f80e2361-eaa2-4fa5-b2b1-91a07c322a90.mp4",
-              "asset_video": null,
-              "messages": {
-                "name": "Echo-4 Avatar Decoration ",
-                "name_with_article": "an Echo-4 Avatar Decoration ",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "expires_at": "2025-11-18T00:00:00+00:00",
-              "expires_at_premium": null,
-              "expiration_mode": 3
-            }
-          ],
-          "rewards_expire_at": "2025-10-18T23:00:07+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "video_metadata": {
-          "messages": {
-            "video_title": "Gameplay Launch Trailer",
-            "video_end_cta_title": "Borderlands 4 ",
-            "video_end_cta_subtitle": "Get Borderlands 4 Now!",
-            "video_end_cta_button_label": "Play Now"
-          },
-          "assets": {
-            "video_player_video_hls": "1413658343242993716.m3u8",
-            "video_player_video": "1413658343242993716_1080.mp4",
-            "video_player_thumbnail": "1413658389241659505.jpg",
-            "video_player_video_low_res": "1413658343242993716_720.mp4",
-            "video_player_caption": "1413658455771975772.vtt",
-            "video_player_transcript": "1413658476835508254.txt",
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
-        },
-        "share_policy": "shareable_everywhere"
-      },
       "user_status": null,
       "targeted_content": [],
       "preview": false
@@ -3547,112 +2243,6 @@
         "share_policy": "shareable_everywhere"
       },
       "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
-      "id": "1415444527229042769",
-      "config": {
-        "id": "1415444527229042769",
-        "config_version": 2,
-        "starts_at": "2025-09-16T17:00:12+00:00",
-        "expires_at": "2025-10-01T00:00:12+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": " https://track.iegcom.com/c/h8REHu?campaign_name=pclaunch&ad_group_name=global&ad_name=redgun&utm_source=DC&utm_medium=DC&utm_campaign=pclaunch&utm_content=global&utm_term=redgun",
-          "id": "1238113262969557002",
-          "name": "Arena Breakout: Infinite"
-        },
-        "assets": {
-          "hero": "1415445260783325184.jpg",
-          "hero_video": null,
-          "quest_bar_hero": "1415445287199314010.jpg",
-          "quest_bar_hero_video": null,
-          "game_tile": "1417885876788400201.png",
-          "logotype": "1417885875634831370.png",
-          "game_tile_light": "1417602340617326652.png",
-          "game_tile_dark": "1417602341259051171.png",
-          "logotype_light": "1417602341934465095.png",
-          "logotype_dark": "1417602342643306506.png"
-        },
-        "colors": {
-          "primary": "#E38B3F",
-          "secondary": "#FFA200"
-        },
-        "messages": {
-          "quest_name": "ABI Steam Launch",
-          "game_title": "Arena Breakout: Infinite (Free on Steam)",
-          "game_publisher": "MoreFun Studios"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "event_name": "PLAY_ON_DESKTOP",
-              "target": 900
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1238113262969557002"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 orbs",
-                "name_with_article": "700 orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "orb_quantity": 700
-            }
-          ],
-          "rewards_expire_at": "2025-10-31T00:00:12+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere"
-      },
-      "user_status": {
-        "user_id": "1369835936246005872",
-        "quest_id": "1415444527229042769",
-        "enrolled_at": "2025-09-19T19:02:37.972267+00:00",
-        "completed_at": null,
-        "claimed_at": null,
-        "claimed_tier": null,
-        "last_stream_heartbeat_at": null,
-        "stream_progress_seconds": 0,
-        "dismissed_quest_content": 0,
-        "progress": {}
-      },
       "targeted_content": [],
       "preview": false
     },
@@ -3893,101 +2483,6 @@
             "quest_bar_preview_thumbnail": null,
             "quest_home_video": null
           }
-        },
-        "share_policy": "shareable_everywhere"
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
-      "id": "1425698814315991141",
-      "config": {
-        "id": "1425698814315991141",
-        "config_version": 2,
-        "starts_at": "2025-10-13T17:00:05+00:00",
-        "expires_at": "2025-10-21T00:00:05+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://store.steampowered.com/app/2795540/The_Midnight_Walkers/",
-          "id": "1425698395774783611",
-          "name": "The Midnight Walkers"
-        },
-        "assets": {
-          "hero": "1425700873534967881.jpg",
-          "hero_video": "1425700924378321019.mp4",
-          "quest_bar_hero": "1425700592554344559.jpg",
-          "quest_bar_hero_video": "1425700979696861286.mp4",
-          "game_tile": "1425701127348949082.png",
-          "logotype": "1425701126375866418.png",
-          "game_tile_light": "1425701058528809021.png",
-          "game_tile_dark": "1425701058528809021.png",
-          "logotype_light": "1425701020419493981.png",
-          "logotype_dark": "1425701020419493981.png"
-        },
-        "colors": {
-          "primary": "#96241C",
-          "secondary": "#1D1A21"
-        },
-        "messages": {
-          "quest_name": "Zombie Extraction",
-          "game_title": "The Midnight Walkers",
-          "game_publisher": "Oneway Ticket Studio"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "event_name": "PLAY_ON_DESKTOP",
-              "target": 900
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1425698395774783611"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 orbs",
-                "name_with_article": "700 orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "orb_quantity": 700
-            }
-          ],
-          "rewards_expire_at": "2025-11-20T00:00:05+00:00",
-          "platforms": [
-            0
-          ]
         },
         "share_policy": "shareable_everywhere"
       },
@@ -4638,7 +3133,52 @@
   ],
   "excluded_quests": [
     {
+      "id": "1425609255569854464"
+    },
+    {
+      "id": "1416175237439160450"
+    },
+    {
+      "id": "1412491570820812933"
+    },
+    {
+      "id": "1410010688482705610"
+    },
+    {
+      "id": "1410010949670277323"
+    },
+    {
+      "id": "1415444527229042769"
+    },
+    {
+      "id": "1425677992721514516"
+    },
+    {
+      "id": "1423051598787121242"
+    },
+    {
+      "id": "1423404422649745438"
+    },
+    {
+      "id": "1425263680571834399"
+    },
+    {
       "id": "1425614323958677667"
+    },
+    {
+      "id": "1425698814315991141"
+    },
+    {
+      "id": "1425921949665591336"
+    },
+    {
+      "id": "1421275302923079721"
+    },
+    {
+      "id": "1419728074467049642"
+    },
+    {
+      "id": "1413610443729145966"
     },
     {
       "id": "1421280952591843438"
@@ -4647,16 +3187,7 @@
       "id": "1420556874629251124"
     },
     {
-      "id": "1423051598787121242"
-    },
-    {
-      "id": "1425921949665591336"
-    },
-    {
       "id": "1425272488287408250"
-    },
-    {
-      "id": "1413610443729145966"
     }
   ],
   "quest_enrollment_blocked_until": null
