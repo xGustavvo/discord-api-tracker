@@ -1,7 +1,8 @@
-Discord Api Tracker
+# Discord Api Tracker
 
-- Discord Shop
-- Discord Quests
-- Discord Server Boosts
+- Shop
+- Quests
+- Server Boosts
+- Game Servers 
 
 https://discord.gg/escoteiros
