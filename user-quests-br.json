@@ -2229,24 +2229,24 @@
               "target": 91,
               "assets": {
                 "video": {
-                  "url": "1428144583459471390_1080.mp4",
-                  "width": 2580,
+                  "url": "1429137343172051004_1080.mp4",
+                  "width": 1920,
                   "height": 1080,
                   "thumbnail": "1428145829784326184.jpg",
                   "caption": "1428147071608815859.vtt",
                   "transcript": "1428147042013810719.txt"
                 },
                 "video_low_res": {
-                  "url": "1428144583459471390_720.mp4",
-                  "width": 2580,
+                  "url": "1429137343172051004_720.mp4",
+                  "width": 1920,
                   "height": 1080,
                   "thumbnail": "1428145829784326184.jpg",
                   "caption": "1428147071608815859.vtt",
                   "transcript": "1428147042013810719.txt"
                 },
                 "video_hls": {
-                  "url": "1428144583459471390.m3u8",
-                  "width": 2580,
+                  "url": "1429137343172051004.m3u8",
+                  "width": 1920,
                   "height": 1080,
                   "thumbnail": "1428145829784326184.jpg",
                   "caption": "1428147071608815859.vtt",
@@ -2292,10 +2292,10 @@
             "video_end_cta_button_label": "Pré-compra aqui"
           },
           "assets": {
-            "video_player_video_hls": "1428144583459471390.m3u8",
-            "video_player_video": "1428144583459471390_1080.mp4",
+            "video_player_video_hls": "1429137343172051004.m3u8",
+            "video_player_video": "1429137343172051004_1080.mp4",
             "video_player_thumbnail": "1428145117092642951.png",
-            "video_player_video_low_res": "1428144583459471390_720.mp4",
+            "video_player_video_low_res": "1429137343172051004_720.mp4",
             "video_player_caption": "1428147071608815859.vtt",
             "video_player_transcript": "1428147042013810719.txt",
             "quest_bar_preview_video": null,
