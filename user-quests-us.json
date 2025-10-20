@@ -1925,6 +1925,191 @@
       "preview": false
     },
     {
+      "id": "1425263680571834399",
+      "config": {
+        "id": "1425263680571834399",
+        "config_version": 2,
+        "starts_at": "2025-10-10T17:00:01+00:00",
+        "expires_at": "2025-10-18T06:59:01+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://www.blackphonemovie.com/",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "1425265363943166003.jpg",
+          "hero_video": "1425265322444722318.mp4",
+          "quest_bar_hero": "1425264448859410432.jpg",
+          "quest_bar_hero_video": "1425265322444722318.mp4",
+          "game_tile": "1425267822761611436.png",
+          "logotype": "1425267821511704666.png",
+          "game_tile_light": "1425265680093155438.png",
+          "game_tile_dark": "1425265680093155438.png",
+          "logotype_light": "1425265649759813733.png",
+          "logotype_dark": "1425265649759813733.png"
+        },
+        "colors": {
+          "primary": "#97281B",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Black Phone 2",
+          "game_title": "In Theaters October 17",
+          "game_publisher": "Universal Pictures"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "WATCH_VIDEO": {
+              "event_name": "WATCH_VIDEO",
+              "target": 75
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "event_name": "WATCH_VIDEO_ON_MOBILE",
+              "target": 75
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 75,
+              "assets": {
+                "video": {
+                  "url": "1425268293199200256_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "1425268458937122886.jpg",
+                  "caption": "1425268872600096788.vtt",
+                  "transcript": "1425268905936420974.txt"
+                },
+                "video_low_res": {
+                  "url": "1425268293199200256_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "1425268458937122886.jpg",
+                  "caption": "1425268872600096788.vtt",
+                  "transcript": "1425268905936420974.txt"
+                },
+                "video_hls": {
+                  "url": "1425268293199200256.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "1425268458937122886.jpg",
+                  "caption": "1425268872600096788.vtt",
+                  "transcript": "1425268905936420974.txt"
+                }
+              },
+              "messages": {
+                "video_title": "Black Phone 2",
+                "video_end_cta_title": "Black Phone 2",
+                "video_end_cta_subtitle": "Black Phone 2 in Theaters October 17",
+                "video_end_cta_button_label": "Get Tickets"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 75,
+              "assets": {
+                "video": {
+                  "url": "1425500222741676132_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "1425268458937122886.jpg",
+                  "caption": "1425268872600096788.vtt",
+                  "transcript": "1425268905936420974.txt"
+                },
+                "video_low_res": {
+                  "url": "1425500222741676132_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "1425268458937122886.jpg",
+                  "caption": "1425268872600096788.vtt",
+                  "transcript": "1425268905936420974.txt"
+                },
+                "video_hls": {
+                  "url": "1425500222741676132.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "1425268458937122886.jpg",
+                  "caption": "1425268872600096788.vtt",
+                  "transcript": "1425268905936420974.txt"
+                }
+              },
+              "messages": {
+                "video_title": "Black Phone 2",
+                "video_end_cta_title": "Black Phone 2",
+                "video_end_cta_subtitle": "Black Phone 2 in Theaters October 17",
+                "video_end_cta_button_label": "Get Tickets"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 3,
+              "sku_id": "1425616465654190161",
+              "asset": "1425616632742674573.mp4",
+              "asset_video": null,
+              "messages": {
+                "name": "Black Phone 2 Avatar Decoration",
+                "name_with_article": "a Black Phone 2 Avatar Decoration",
+                "redemption_instructions_by_platform": {
+                  "0": "Default"
+                }
+              },
+              "expires_at": "2025-12-17T01:00:00+00:00",
+              "expires_at_premium": null,
+              "expiration_mode": 3
+            }
+          ],
+          "rewards_expire_at": "2025-11-17T06:59:01+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "video_metadata": {
+          "messages": {
+            "video_title": "Black Phone 2",
+            "video_end_cta_title": "Black Phone 2",
+            "video_end_cta_subtitle": "Black Phone 2 in Theaters October 17",
+            "video_end_cta_button_label": "Get Tickets"
+          },
+          "assets": {
+            "video_player_video_hls": "1425268293199200256.m3u8",
+            "video_player_video": "1425268293199200256_1080.mp4",
+            "video_player_thumbnail": "1425268458937122886.jpg",
+            "video_player_video_low_res": "1425268293199200256_720.mp4",
+            "video_player_caption": "1425268872600096788.vtt",
+            "video_player_transcript": "1425268905936420974.txt",
+            "quest_bar_preview_video": null,
+            "quest_bar_preview_thumbnail": null,
+            "quest_home_video": null
+          }
+        },
+        "share_policy": "shareable_everywhere"
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
       "id": "1419735216490021025",
       "config": {
         "id": "1419735216490021025",
@@ -2320,12 +2505,12 @@
       "preview": false
     },
     {
-      "id": "1425921949665591336",
+      "id": "1428135231529029673",
       "config": {
-        "id": "1425921949665591336",
+        "id": "1428135231529029673",
         "config_version": 2,
-        "starts_at": "2025-10-12T08:00:45+00:00",
-        "expires_at": "2025-10-20T00:00:45+00:00",
+        "starts_at": "2025-10-17T15:00:32+00:00",
+        "expires_at": "2025-10-21T23:00:32+00:00",
         "features": [
           3,
           9,
@@ -2338,30 +2523,30 @@
           23
         ],
         "application": {
-          "link": "https://app.powster.com/universalstudios/the-black-phone-2-intl/gb",
+          "link": "https://peacocktv.app.link/0UHnuqRWiXb",
           "id": "545364944258990091",
           "name": "Discord"
         },
         "assets": {
-          "hero": "1426253927107793069.jpg",
-          "hero_video": "1426198864926474280.mp4",
-          "quest_bar_hero": "1426198624244727992.jpg",
-          "quest_bar_hero_video": "1426198864926474280.mp4",
-          "game_tile": "1425923923278823567.png",
-          "logotype": "1425923922213212355.png",
-          "game_tile_light": "1425923038485942354.png",
-          "game_tile_dark": "1425923038485942354.png",
-          "logotype_light": "1425922746583486504.png",
-          "logotype_dark": "1425922746583486504.png"
+          "hero": "1428135863375888414.jpg",
+          "hero_video": "1428136232805994688.mp4",
+          "quest_bar_hero": "1428135863375888414.jpg",
+          "quest_bar_hero_video": "1428136232805994688.mp4",
+          "game_tile": "1428136854330408980.png",
+          "logotype": "1428146729865318494.png",
+          "game_tile_light": "1428136807639420958.png",
+          "game_tile_dark": "1428136807639420958.png",
+          "logotype_light": "1428146702350680064.png",
+          "logotype_dark": "1428145998554861568.png"
         },
         "colors": {
-          "primary": "#97281B",
+          "primary": "#000000",
           "secondary": "#000000"
         },
         "messages": {
-          "quest_name": "Black Phone 2",
-          "game_title": "In Cinemas October 17",
-          "game_publisher": "Universal Pictures"
+          "quest_name": "NBA on NBC & Peacock",
+          "game_title": "NBA Tip-Off Oct 21",
+          "game_publisher": "NBC"
         },
         "task_config": {
           "type": 1,
@@ -2369,7 +2554,7 @@
           "tasks": {
             "WATCH_VIDEO": {
               "event_name": "WATCH_VIDEO",
-              "target": 130
+              "target": 29
             }
           }
         },
@@ -2377,38 +2562,38 @@
           "tasks": {
             "WATCH_VIDEO": {
               "type": "WATCH_VIDEO",
-              "target": 130,
+              "target": 29,
               "assets": {
                 "video": {
-                  "url": "1426199049005957210_1080.mp4",
+                  "url": "1428137145843056804_1080.mp4",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "1426253992769490984.jpg",
-                  "caption": "1426199159953948883.vtt",
-                  "transcript": "1426199195919843388.txt"
+                  "thumbnail": "1428138083081257070.png",
+                  "caption": "1428758681662656613.vtt",
+                  "transcript": "1428758720753434785.txt"
                 },
                 "video_low_res": {
-                  "url": "1426199049005957210_720.mp4",
+                  "url": "1428137145843056804_720.mp4",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "1426253992769490984.jpg",
-                  "caption": "1426199159953948883.vtt",
-                  "transcript": "1426199195919843388.txt"
+                  "thumbnail": "1428138083081257070.png",
+                  "caption": "1428758681662656613.vtt",
+                  "transcript": "1428758720753434785.txt"
                 },
                 "video_hls": {
-                  "url": "1426199049005957210.m3u8",
+                  "url": "1428137145843056804.m3u8",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "1426253992769490984.jpg",
-                  "caption": "1426199159953948883.vtt",
-                  "transcript": "1426199195919843388.txt"
+                  "thumbnail": "1428138083081257070.png",
+                  "caption": "1428758681662656613.vtt",
+                  "transcript": "1428758720753434785.txt"
                 }
               },
               "messages": {
-                "video_title": "Black Phone 2",
-                "video_end_cta_title": "Black Phone 2",
-                "video_end_cta_subtitle": "Black Phone 2 in cinemas October 17",
-                "video_end_cta_button_label": "Get Tickets"
+                "video_title": "NBA Tip-Off Video",
+                "video_end_cta_title": "Learn more",
+                "video_end_cta_subtitle": "NBA Tip-Off Oct 21",
+                "video_end_cta_button_label": "Learn More"
               }
             }
           },
@@ -2421,8 +2606,8 @@
               "type": 4,
               "sku_id": "1287881739531976815",
               "messages": {
-                "name": "700 orbs",
-                "name_with_article": "700 orbs",
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
                 "redemption_instructions_by_platform": {
                   "0": "Default"
                 }
@@ -2430,25 +2615,25 @@
               "orb_quantity": 700
             }
           ],
-          "rewards_expire_at": "2025-11-19T00:00:45+00:00",
+          "rewards_expire_at": "2025-11-20T23:00:32+00:00",
           "platforms": [
             0
           ]
         },
         "video_metadata": {
           "messages": {
-            "video_title": "Black Phone 2",
-            "video_end_cta_title": "Black Phone 2",
-            "video_end_cta_subtitle": "Black Phone 2 in cinemas October 17",
-            "video_end_cta_button_label": "Get Tickets"
+            "video_title": "NBA Tip-Off Video",
+            "video_end_cta_title": "Learn more",
+            "video_end_cta_subtitle": "NBA Tip-Off Oct 21",
+            "video_end_cta_button_label": "Learn More"
           },
           "assets": {
-            "video_player_video_hls": "1426199049005957210.m3u8",
-            "video_player_video": "1426199049005957210_1080.mp4",
-            "video_player_thumbnail": "1426253992769490984.jpg",
-            "video_player_video_low_res": "1426199049005957210_720.mp4",
-            "video_player_caption": "1426199159953948883.vtt",
-            "video_player_transcript": "1426199195919843388.txt",
+            "video_player_video_hls": "1428137145843056804.m3u8",
+            "video_player_video": "1428137145843056804_1080.mp4",
+            "video_player_thumbnail": "1428138083081257070.png",
+            "video_player_video_low_res": "1428137145843056804_720.mp4",
+            "video_player_caption": "1428758681662656613.vtt",
+            "video_player_transcript": "1428758720753434785.txt",
             "quest_bar_preview_video": null,
             "quest_bar_preview_thumbnail": null,
             "quest_home_video": null
@@ -2456,18 +2641,152 @@
         },
         "share_policy": "shareable_everywhere"
       },
-      "user_status": {
-        "user_id": "1369835936246005872",
-        "quest_id": "1425921949665591336",
-        "enrolled_at": null,
-        "completed_at": null,
-        "claimed_at": null,
-        "claimed_tier": null,
-        "last_stream_heartbeat_at": null,
-        "stream_progress_seconds": 0,
-        "dismissed_quest_content": 0,
-        "progress": {}
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
+      "id": "1419728074467049642",
+      "config": {
+        "id": "1419728074467049642",
+        "config_version": 2,
+        "starts_at": "2025-09-25T17:00:30+00:00",
+        "expires_at": "2025-10-05T00:00:30+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://ad.doubleclick.net/ddm/trackclk/N1306638.3397510DISCORD/B33837002.425960870;dc_trk_aid=622541524;dc_trk_cid=241493122;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "1419732314677842123.jpg",
+          "hero_video": null,
+          "quest_bar_hero": "1419732110733738186.jpg",
+          "quest_bar_hero_video": null,
+          "game_tile": "1419740576298959022.png",
+          "logotype": "1419738687817781270.png",
+          "game_tile_light": "1419740552357871657.png",
+          "game_tile_dark": "1419740552357871657.png",
+          "logotype_light": "1419738669673353286.png",
+          "logotype_dark": "1419738669673353286.png"
+        },
+        "colors": {
+          "primary": "#C49626",
+          "secondary": "#141413"
+        },
+        "messages": {
+          "quest_name": "Ghost of Yōtei",
+          "game_title": "Ghost of Yōtei",
+          "game_publisher": "Sony Interactive Entertainment & Sucker Punch Productions"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "WATCH_VIDEO": {
+              "event_name": "WATCH_VIDEO",
+              "target": 29
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "1423367104513708164_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "1423367140391784621.jpg",
+                  "caption": "1419742919920718017.vtt",
+                  "transcript": "1419742963587616778.txt"
+                },
+                "video_low_res": {
+                  "url": "1423367104513708164_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "1423367140391784621.jpg",
+                  "caption": "1419742919920718017.vtt",
+                  "transcript": "1419742963587616778.txt"
+                },
+                "video_hls": {
+                  "url": "1423367104513708164.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "1423367140391784621.jpg",
+                  "caption": "1419742919920718017.vtt",
+                  "transcript": "1419742963587616778.txt"
+                }
+              },
+              "messages": {
+                "video_title": "Launch Trailer",
+                "video_end_cta_title": "Ghost of Yōtei",
+                "video_end_cta_subtitle": "Download Now",
+                "video_end_cta_button_label": "Get Game"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 3,
+              "sku_id": "1419735933929918536",
+              "asset": "1419736169477836961.mp4",
+              "asset_video": null,
+              "messages": {
+                "name": "Atsu's Mask Avatar Decoration",
+                "name_with_article": "an Atsu's Mask Avatar Decoration",
+                "redemption_instructions_by_platform": {
+                  "0": "Default"
+                }
+              },
+              "expires_at": "2025-12-04T00:00:00+00:00",
+              "expires_at_premium": null,
+              "expiration_mode": 3
+            }
+          ],
+          "rewards_expire_at": "2025-11-03T23:00:30+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "video_metadata": {
+          "messages": {
+            "video_title": "Launch Trailer",
+            "video_end_cta_title": "Ghost of Yōtei",
+            "video_end_cta_subtitle": "Download Now",
+            "video_end_cta_button_label": "Get Game"
+          },
+          "assets": {
+            "video_player_video_hls": "1423367104513708164.m3u8",
+            "video_player_video": "1423367104513708164_1080.mp4",
+            "video_player_thumbnail": "1423367140391784621.jpg",
+            "video_player_video_low_res": "1423367104513708164_720.mp4",
+            "video_player_caption": "1419742919920718017.vtt",
+            "video_player_transcript": "1419742963587616778.txt",
+            "quest_bar_preview_video": null,
+            "quest_bar_preview_thumbnail": null,
+            "quest_home_video": null
+          }
+        },
+        "share_policy": "shareable_everywhere"
       },
+      "user_status": null,
       "targeted_content": [],
       "preview": false
     },
@@ -3656,6 +3975,147 @@
       "preview": false
     },
     {
+      "id": "1427811805065121875",
+      "config": {
+        "id": "1427811805065121875",
+        "config_version": 2,
+        "starts_at": "2025-10-18T17:00:21+00:00",
+        "expires_at": "2025-10-28T00:00:21+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://ad.doubleclick.net/ddm/trackclk/N1306638.3397510DISCORD/B34236210.430652093;dc_trk_aid=623806100;dc_trk_cid=243250710;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D;ltd=;dc_tdv=1",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "1427813174933065818.jpg",
+          "hero_video": "1427813125486280754.mp4",
+          "quest_bar_hero": "1427813100756930792.jpg",
+          "quest_bar_hero_video": "1427813125486280754.mp4",
+          "game_tile": "1427813456022868140.png",
+          "logotype": "1428115371595927632.png",
+          "game_tile_light": "1427813317140942849.png",
+          "game_tile_dark": "1427813317140942849.png",
+          "logotype_light": "1428115344198860871.png",
+          "logotype_dark": "1428115316277383178.png"
+        },
+        "colors": {
+          "primary": "#006FCD",
+          "secondary": "#290C62"
+        },
+        "messages": {
+          "quest_name": "Battlefield 6 on PS5 Video",
+          "game_title": "It all goes down on PS5®",
+          "game_publisher": "PlayStation 5"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "WATCH_VIDEO": {
+              "event_name": "WATCH_VIDEO",
+              "target": 29
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "1427813536423346348_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "1427813627284553828.png",
+                  "caption": "1427813651871699035.vtt",
+                  "transcript": "1427813672746483752.txt"
+                },
+                "video_low_res": {
+                  "url": "1427813536423346348_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "1427813627284553828.png",
+                  "caption": "1427813651871699035.vtt",
+                  "transcript": "1427813672746483752.txt"
+                },
+                "video_hls": {
+                  "url": "1427813536423346348.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "1427813627284553828.png",
+                  "caption": "1427813651871699035.vtt",
+                  "transcript": "1427813672746483752.txt"
+                }
+              },
+              "messages": {
+                "video_title": "It all goes down on PS5®",
+                "video_end_cta_title": "Battlefield 6",
+                "video_end_cta_subtitle": "This is Battlefield 6. It all goes down on PS5®.",
+                "video_end_cta_button_label": "Buy Now"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 orbs",
+                "name_with_article": "700 orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "Default"
+                }
+              },
+              "orb_quantity": 700
+            }
+          ],
+          "rewards_expire_at": "2025-11-27T00:00:21+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "video_metadata": {
+          "messages": {
+            "video_title": "It all goes down on PS5®",
+            "video_end_cta_title": "Battlefield 6",
+            "video_end_cta_subtitle": "This is Battlefield 6. It all goes down on PS5®.",
+            "video_end_cta_button_label": "Buy Now"
+          },
+          "assets": {
+            "video_player_video_hls": "1427813536423346348.m3u8",
+            "video_player_video": "1427813536423346348_1080.mp4",
+            "video_player_thumbnail": "1427813627284553828.png",
+            "video_player_video_low_res": "1427813536423346348_720.mp4",
+            "video_player_caption": "1427813651871699035.vtt",
+            "video_player_transcript": "1427813672746483752.txt",
+            "quest_bar_preview_video": null,
+            "quest_bar_preview_thumbnail": null,
+            "quest_home_video": null
+          }
+        },
+        "share_policy": "shareable_everywhere"
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
       "id": "1422714633357103315",
       "config": {
         "id": "1422714633357103315",
@@ -3900,12 +4360,12 @@
       "preview": false
     },
     {
-      "id": "1423051598787121242",
+      "id": "1428092429030129755",
       "config": {
-        "id": "1423051598787121242",
+        "id": "1428092429030129755",
         "config_version": 2,
-        "starts_at": "2025-10-16T17:00:00+00:00",
-        "expires_at": "2025-10-23T00:00:00+00:00",
+        "starts_at": "2025-10-17T17:00:27+00:00",
+        "expires_at": "2025-10-25T06:59:27+00:00",
         "features": [
           3,
           9,
@@ -3918,168 +4378,30 @@
           23
         ],
         "application": {
-          "link": "https://wotblitz.onelink.me/2519112535/discord",
+          "link": "https://chainsawman.movie/?utm_source=discord&utm_medium=core",
           "id": "545364944258990091",
           "name": "Discord"
         },
         "assets": {
-          "hero": "1423052123876233216.jpg",
-          "hero_video": "1423052384677924965.mp4",
-          "quest_bar_hero": "1423052151764287648.jpg",
-          "quest_bar_hero_video": "1423052384677924965.mp4",
-          "game_tile": "1423052800589303930.png",
-          "logotype": "1425895975423053834.png",
-          "game_tile_light": "1423052707748380672.png",
-          "game_tile_dark": "1423052707748380672.png",
-          "logotype_light": "1425895865578422383.png",
-          "logotype_dark": "1425895865578422383.png"
+          "hero": "1428094672940826735.jpg",
+          "hero_video": "1428094616061870161.mp4",
+          "quest_bar_hero": "1428095623755993108.jpg",
+          "quest_bar_hero_video": "1428094616061870161.mp4",
+          "game_tile": "1428095643137736876.png",
+          "logotype": "1428095641946423346.png",
+          "game_tile_light": "1428095231093375016.png",
+          "game_tile_dark": "1428095231093375016.png",
+          "logotype_light": "1428095145055752302.png",
+          "logotype_dark": "1428095190937243768.png"
         },
         "colors": {
-          "primary": "#10213A",
-          "secondary": "#8A8476"
+          "primary": "#D0121E",
+          "secondary": "#D0121E"
         },
         "messages": {
-          "quest_name": "World of Tanks Blitz x TWD",
-          "game_title": "World of Tanks Blitz",
-          "game_publisher": "Wargaming"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "WATCH_VIDEO_ON_MOBILE": {
-              "event_name": "WATCH_VIDEO_ON_MOBILE",
-              "target": 47
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 47,
-              "assets": {
-                "video": {
-                  "url": "1423061196344659979_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "1423053538946322432.jpg"
-                },
-                "video_low_res": {
-                  "url": "1423061196344659979_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "1423053538946322432.jpg"
-                },
-                "video_hls": {
-                  "url": "1423061196344659979.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "1423053538946322432.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "World of Tanks Blitz x The Walking Dead",
-                "video_end_cta_title": "Play World of Tanks Blitz Now",
-                "video_end_cta_subtitle": "Available on iOS and Android",
-                "video_end_cta_button_label": "Play Now"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 1,
-              "sku_id": "1423051598787121243",
-              "asset": "1423055305645883535.png",
-              "asset_video": null,
-              "messages": {
-                "name": "T14 Tank & Spider Camo Bundle",
-                "name_with_article": "a T14 Tank & Spider Camo Bundle",
-                "redemption_instructions_by_platform": {
-                  "0": "1. Log in with your Wargaming ID on the official Wargaming website.  \n2. Go to Activate Wargaming Code.   \n3. Input the code and press REDEEM   \n4. Your code has been activated  \n"
-                }
-              },
-              "approximate_count": null,
-              "redemption_link": null
-            }
-          ],
-          "rewards_expire_at": "2025-11-22T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "video_metadata": {
-          "messages": {
-            "video_title": "World of Tanks Blitz x The Walking Dead",
-            "video_end_cta_title": "Play World of Tanks Blitz Now",
-            "video_end_cta_subtitle": "Available on iOS and Android",
-            "video_end_cta_button_label": "Play Now"
-          },
-          "assets": {
-            "video_player_video_hls": "1423061196344659979.m3u8",
-            "video_player_video": "1423061196344659979_1080.mp4",
-            "video_player_thumbnail": "1423053538946322432.jpg",
-            "video_player_video_low_res": "1423061196344659979_720.mp4",
-            "video_player_caption": null,
-            "video_player_transcript": null,
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
-        },
-        "share_policy": "shareable_everywhere"
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
-      "id": "1427802437347053668",
-      "config": {
-        "id": "1427802437347053668",
-        "config_version": 2,
-        "starts_at": "2025-10-18T17:00:08+00:00",
-        "expires_at": "2025-10-28T00:00:08+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://ad.doubleclick.net/ddm/trackclk/N1306638.3397510DISCORD/B34236210.430652093;dc_trk_aid=623806100;dc_trk_cid=243250710;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D;ltd=;dc_tdv=1",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "1428449258054488236.jpeg",
-          "hero_video": "1428448928898093159.mp4",
-          "quest_bar_hero": "1427804539968553062.jpg",
-          "quest_bar_hero_video": "1428448928898093159.mp4",
-          "game_tile": "1427804789445759126.png",
-          "logotype": "1428115467842752633.png",
-          "game_tile_light": "1427804761805029447.png",
-          "game_tile_dark": "1427804761805029447.png",
-          "logotype_light": "1428115429263409183.png",
-          "logotype_dark": "1428115453565468776.png"
-        },
-        "colors": {
-          "primary": "#006FCD",
-          "secondary": "#290C62"
-        },
-        "messages": {
-          "quest_name": "Battlefield 6 on PS5 Video",
-          "game_title": "It all goes down on PS5®",
-          "game_publisher": "PlayStation 5"
+          "quest_name": "Chainsaw Man – The Movie: Reze Arc",
+          "game_title": "Exclusively in Theatres",
+          "game_publisher": "Crunchyroll"
         },
         "task_config": {
           "type": 1,
@@ -4087,7 +4409,7 @@
           "tasks": {
             "WATCH_VIDEO": {
               "event_name": "WATCH_VIDEO",
-              "target": 29
+              "target": 61
             }
           }
         },
@@ -4095,38 +4417,32 @@
           "tasks": {
             "WATCH_VIDEO": {
               "type": "WATCH_VIDEO",
-              "target": 29,
+              "target": 61,
               "assets": {
                 "video": {
-                  "url": "1427805882317803661_1080.mp4",
+                  "url": "1428095887669989518_1080.mp4",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "1427805925892423831.jpg",
-                  "caption": "1427813980356739243.vtt",
-                  "transcript": "1427813960614285363.txt"
+                  "thumbnail": "1428095929537265745.jpg"
                 },
                 "video_low_res": {
-                  "url": "1427805882317803661_720.mp4",
+                  "url": "1428095887669989518_720.mp4",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "1427805925892423831.jpg",
-                  "caption": "1427813980356739243.vtt",
-                  "transcript": "1427813960614285363.txt"
+                  "thumbnail": "1428095929537265745.jpg"
                 },
                 "video_hls": {
-                  "url": "1427805882317803661.m3u8",
+                  "url": "1428095887669989518.m3u8",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "1427805925892423831.jpg",
-                  "caption": "1427813980356739243.vtt",
-                  "transcript": "1427813960614285363.txt"
+                  "thumbnail": "1428095929537265745.jpg"
                 }
               },
               "messages": {
-                "video_title": "It all goes down on PS5®",
-                "video_end_cta_title": "Battlefield 6",
-                "video_end_cta_subtitle": "This is Battlefield 6. It all goes down on PS5®.",
-                "video_end_cta_button_label": "Buy Now"
+                "video_title": "Chainsaw Man – The Movie: Reze Arc Trailer",
+                "video_end_cta_title": "Chainsaw Man Trailer",
+                "video_end_cta_subtitle": "Exclusively in Theatres Thursday",
+                "video_end_cta_button_label": "Get Tickets"
               }
             }
           },
@@ -4148,25 +4464,25 @@
               "orb_quantity": 700
             }
           ],
-          "rewards_expire_at": "2025-11-27T00:00:08+00:00",
+          "rewards_expire_at": "2025-11-24T06:59:27+00:00",
           "platforms": [
             0
           ]
         },
         "video_metadata": {
           "messages": {
-            "video_title": "It all goes down on PS5®",
-            "video_end_cta_title": "Battlefield 6",
-            "video_end_cta_subtitle": "This is Battlefield 6. It all goes down on PS5®.",
-            "video_end_cta_button_label": "Buy Now"
+            "video_title": "Chainsaw Man – The Movie: Reze Arc Trailer",
+            "video_end_cta_title": "Chainsaw Man Trailer",
+            "video_end_cta_subtitle": "Exclusively in Theatres Thursday",
+            "video_end_cta_button_label": "Get Tickets"
           },
           "assets": {
-            "video_player_video_hls": "1427805882317803661.m3u8",
-            "video_player_video": "1427805882317803661_1080.mp4",
-            "video_player_thumbnail": "1427805925892423831.jpg",
-            "video_player_video_low_res": "1427805882317803661_720.mp4",
-            "video_player_caption": "1427813980356739243.vtt",
-            "video_player_transcript": "1427813960614285363.txt",
+            "video_player_video_hls": "1428095887669989518.m3u8",
+            "video_player_video": "1428095887669989518_1080.mp4",
+            "video_player_thumbnail": "1428095929537265745.jpg",
+            "video_player_video_low_res": "1428095887669989518_720.mp4",
+            "video_player_caption": null,
+            "video_player_transcript": null,
             "quest_bar_preview_video": null,
             "quest_bar_preview_thumbnail": null,
             "quest_home_video": null
@@ -4413,12 +4729,12 @@
       "preview": false
     },
     {
-      "id": "1421280952591843438",
+      "id": "1422745038999261294",
       "config": {
-        "id": "1421280952591843438",
+        "id": "1422745038999261294",
         "config_version": 2,
-        "starts_at": "2025-09-28T14:30:05+00:00",
-        "expires_at": "2025-10-09T00:00:05+00:00",
+        "starts_at": "2025-10-03T17:00:50+00:00",
+        "expires_at": "2025-10-13T00:00:50+00:00",
         "features": [
           3,
           9,
@@ -4431,30 +4747,30 @@
           23
         ],
         "application": {
-          "link": "https://ad.doubleclick.net/ddm/trackclk/N1306638.3397510DISCORD/B33837002.425960870;dc_trk_aid=622541524;dc_trk_cid=241493122;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+          "link": "https://www.peacocktv.com/stream-movies/how-to-train-your-dragon-2025",
           "id": "545364944258990091",
           "name": "Discord"
         },
         "assets": {
-          "hero": "1421281995023061083.jpg",
-          "hero_video": "1421282062312276066.mp4",
-          "quest_bar_hero": "1421281860704534558.jpg",
-          "quest_bar_hero_video": "1421282062312276066.mp4",
-          "game_tile": "1421283256636018852.png",
-          "logotype": "1421283255604478024.png",
-          "game_tile_light": "1421282364188921856.png",
-          "game_tile_dark": "1421282364188921856.png",
-          "logotype_light": "1421282237856616518.png",
-          "logotype_dark": "1421282333780082889.png"
+          "hero": "1422745589963296838.jpg",
+          "hero_video": "1422745632908513331.mp4",
+          "quest_bar_hero": "1422745671512887398.jpg",
+          "quest_bar_hero_video": "1422745632908513331.mp4",
+          "game_tile": "1422745810994724935.png",
+          "logotype": "1422745810009067622.png",
+          "game_tile_light": "1422745771257761842.png",
+          "game_tile_dark": "1422745771257761842.png",
+          "logotype_light": "1422745730388590672.png",
+          "logotype_dark": "1422745730388590672.png"
         },
         "colors": {
-          "primary": "#C49626",
-          "secondary": "#141413"
+          "primary": "#79CAAC",
+          "secondary": "#000000"
         },
         "messages": {
-          "quest_name": "Ghost of Yōtei",
-          "game_title": "Ghost of Yōtei",
-          "game_publisher": "Sony Interactive Entertainment & Sucker Punch Productions"
+          "quest_name": "How To Train Your Dragon",
+          "game_title": "Streaming Only on Peacock October 10",
+          "game_publisher": "Peacock"
         },
         "task_config": {
           "type": 1,
@@ -4462,7 +4778,7 @@
           "tasks": {
             "WATCH_VIDEO": {
               "event_name": "WATCH_VIDEO",
-              "target": 14
+              "target": 29
             }
           }
         },
@@ -4470,38 +4786,38 @@
           "tasks": {
             "WATCH_VIDEO": {
               "type": "WATCH_VIDEO",
-              "target": 14,
+              "target": 29,
               "assets": {
                 "video": {
-                  "url": "1423365463320039516_1080.mp4",
+                  "url": "1422746098916655217_1080.mp4",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "1423365135765864528.jpeg",
-                  "caption": "1421282787436138568.vtt",
-                  "transcript": "1421282833703506062.txt"
+                  "thumbnail": "1422746138007699526.jpg",
+                  "caption": "1422748206831243344.vtt",
+                  "transcript": "1422748011250843719.txt"
                 },
                 "video_low_res": {
-                  "url": "1423365463320039516_720.mp4",
+                  "url": "1422746098916655217_720.mp4",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "1423365135765864528.jpeg",
-                  "caption": "1421282787436138568.vtt",
-                  "transcript": "1421282833703506062.txt"
+                  "thumbnail": "1422746138007699526.jpg",
+                  "caption": "1422748206831243344.vtt",
+                  "transcript": "1422748011250843719.txt"
                 },
                 "video_hls": {
-                  "url": "1423365463320039516.m3u8",
+                  "url": "1422746098916655217.m3u8",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "1423365135765864528.jpeg",
-                  "caption": "1421282787436138568.vtt",
-                  "transcript": "1421282833703506062.txt"
+                  "thumbnail": "1422746138007699526.jpg",
+                  "caption": "1422748206831243344.vtt",
+                  "transcript": "1422748011250843719.txt"
                 }
               },
               "messages": {
-                "video_title": "Launch Trailer",
-                "video_end_cta_title": "Ghost of Yōtei",
-                "video_end_cta_subtitle": "Download Now",
-                "video_end_cta_button_label": "Get Game"
+                "video_title": "How To Train Your Dragon",
+                "video_end_cta_title": "How To Train Your Dragon",
+                "video_end_cta_subtitle": "Streaming Only on Peacock October 10",
+                "video_end_cta_button_label": "Learn More"
               }
             }
           },
@@ -4511,41 +4827,37 @@
           "assignment_method": 1,
           "rewards": [
             {
-              "type": 3,
-              "sku_id": "1419735933929918536",
-              "asset": "1421283220518998158.mp4",
-              "asset_video": null,
+              "type": 4,
+              "sku_id": "1287881739531976815",
               "messages": {
-                "name": "Atsu's Mask Avatar Decoration",
-                "name_with_article": "an Atsu's Mask Avatar Decoration",
+                "name": "700 orbs",
+                "name_with_article": "700 orbs",
                 "redemption_instructions_by_platform": {
                   "0": "Default"
                 }
               },
-              "expires_at": "2025-12-04T01:00:00+00:00",
-              "expires_at_premium": null,
-              "expiration_mode": 3
+              "orb_quantity": 700
             }
           ],
-          "rewards_expire_at": "2025-11-08T00:00:05+00:00",
+          "rewards_expire_at": "2025-11-12T00:00:50+00:00",
           "platforms": [
             0
           ]
         },
         "video_metadata": {
           "messages": {
-            "video_title": "Launch Trailer",
-            "video_end_cta_title": "Ghost of Yōtei",
-            "video_end_cta_subtitle": "Download Now",
-            "video_end_cta_button_label": "Get Game"
+            "video_title": "How To Train Your Dragon",
+            "video_end_cta_title": "How To Train Your Dragon",
+            "video_end_cta_subtitle": "Streaming Only on Peacock October 10",
+            "video_end_cta_button_label": "Learn More"
           },
           "assets": {
-            "video_player_video_hls": "1423365463320039516.m3u8",
-            "video_player_video": "1423365463320039516_1080.mp4",
-            "video_player_thumbnail": "1423365135765864528.jpeg",
-            "video_player_video_low_res": "1423365463320039516_720.mp4",
-            "video_player_caption": "1421282787436138568.vtt",
-            "video_player_transcript": "1421282833703506062.txt",
+            "video_player_video_hls": "1422746098916655217.m3u8",
+            "video_player_video": "1422746098916655217_1080.mp4",
+            "video_player_thumbnail": "1422746138007699526.jpg",
+            "video_player_video_low_res": "1422746098916655217_720.mp4",
+            "video_player_caption": "1422748206831243344.vtt",
+            "video_player_transcript": "1422748011250843719.txt",
             "quest_bar_preview_video": null,
             "quest_bar_preview_thumbnail": null,
             "quest_home_video": null
@@ -4923,31 +5235,25 @@
       "id": "1425614323958677667"
     },
     {
-      "id": "1428135231529029673"
-    },
-    {
-      "id": "1419728074467049642"
-    },
-    {
-      "id": "1413610443729145966"
-    },
-    {
-      "id": "1422745038999261294"
-    },
-    {
-      "id": "1427811805065121875"
-    },
-    {
-      "id": "1420556874629251124"
+      "id": "1427802437347053668"
     },
     {
       "id": "1425272488287408250"
     },
     {
-      "id": "1428092429030129755"
+      "id": "1425921949665591336"
     },
     {
-      "id": "1425263680571834399"
+      "id": "1413610443729145966"
+    },
+    {
+      "id": "1421280952591843438"
+    },
+    {
+      "id": "1420556874629251124"
+    },
+    {
+      "id": "1423051598787121242"
     }
   ],
   "quest_enrollment_blocked_until": null
