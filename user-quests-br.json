@@ -2987,12 +2987,12 @@
       "preview": false
     },
     {
-      "id": "1422705108319338546",
+      "id": "1428862922020618290",
       "config": {
-        "id": "1422705108319338546",
+        "id": "1428862922020618290",
         "config_version": 2,
-        "starts_at": "2025-10-07T17:00:10+00:00",
-        "expires_at": "2025-10-14T00:00:10+00:00",
+        "starts_at": "2025-10-20T17:00:07+00:00",
+        "expires_at": "2025-10-27T00:00:07+00:00",
         "features": [
           3,
           9,
@@ -3005,67 +3005,118 @@
           23
         ],
         "application": {
-          "link": "https://www.kingofmeat.com/pre-order?utm_source=Discord",
-          "id": "1424836075427332106",
-          "name": "King of Meat"
+          "link": "https://www.hbomax.com/coming-soon/it-welcome-to-derry",
+          "id": "545364944258990091",
+          "name": "Discord"
         },
         "assets": {
-          "hero": "1422706899312447589.jpg",
-          "hero_video": "1422706819423277157.mp4",
-          "quest_bar_hero": "1422706868949618688.jpg",
-          "quest_bar_hero_video": "1422706819423277157.mp4",
-          "game_tile": "1422707022960529489.png",
-          "logotype": "1422707021831995413.png",
-          "game_tile_light": "1422706979507535872.png",
-          "game_tile_dark": "1422706979507535872.png",
-          "logotype_light": "1422706953242804296.png",
-          "logotype_dark": "1422706953242804296.png"
+          "hero": "1428863432681197702.jpg",
+          "hero_video": "1428863332739448853.mp4",
+          "quest_bar_hero": "1428863361860370503.jpg",
+          "quest_bar_hero_video": "1428863332739448853.mp4",
+          "game_tile": "1428863531922493570.png",
+          "logotype": "1428863530886627420.png",
+          "game_tile_light": "1428863486531993690.png",
+          "game_tile_dark": "1428863486531993690.png",
+          "logotype_light": "1428863462108561601.png",
+          "logotype_dark": "1428863462108561601.png"
         },
         "colors": {
-          "primary": "#B8860B",
-          "secondary": "#00113E"
+          "primary": "#AD0518",
+          "secondary": "#000000"
         },
         "messages": {
-          "quest_name": "Missão de lançamento do King of Meat",
-          "game_title": "King of Meat",
-          "game_publisher": "Amazon Games"
+          "quest_name": "It: Welcome to Derry",
+          "game_title": "October 26 at 9pm on HBO Max",
+          "game_publisher": "HBO Max"
         },
         "task_config": {
           "type": 1,
           "join_operator": "or",
           "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "event_name": "PLAY_ON_DESKTOP",
-              "target": 900
+            "WATCH_VIDEO": {
+              "event_name": "WATCH_VIDEO",
+              "target": 29
             },
-            "PLAY_ON_XBOX": {
-              "event_name": "PLAY_ON_XBOX",
-              "target": 900
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "event_name": "PLAY_ON_PLAYSTATION",
-              "target": 900
+            "WATCH_VIDEO_ON_MOBILE": {
+              "event_name": "WATCH_VIDEO_ON_MOBILE",
+              "target": 29
             }
           }
         },
         "task_config_v2": {
           "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1424836075427332106"
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "1429878356916047912_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "1428863976040693830.jpg",
+                  "caption": "1428866529587363890.vtt",
+                  "transcript": "1428866509673074718.txt"
+                },
+                "video_low_res": {
+                  "url": "1429878356916047912_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "1428863976040693830.jpg",
+                  "caption": "1428866529587363890.vtt",
+                  "transcript": "1428866509673074718.txt"
+                },
+                "video_hls": {
+                  "url": "1429878356916047912.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "1428863976040693830.jpg",
+                  "caption": "1428866529587363890.vtt",
+                  "transcript": "1428866509673074718.txt"
                 }
-              ]
+              },
+              "messages": {
+                "video_title": "It: Welcome to Derry Trailer",
+                "video_end_cta_title": "It: Welcome to Derry",
+                "video_end_cta_subtitle": "Premieres October 26 at 9pm on HBO Max",
+                "video_end_cta_button_label": "Mais detalhes"
+              }
             },
-            "PLAY_ON_XBOX": {
-              "type": "PLAY_ON_XBOX",
-              "target": 900
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "1428863781722783955_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "1428863976040693830.jpg",
+                  "caption": "1428866529587363890.vtt",
+                  "transcript": "1428866558242848909.txt"
+                },
+                "video_low_res": {
+                  "url": "1428863781722783955_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "1428863976040693830.jpg",
+                  "caption": "1428866529587363890.vtt",
+                  "transcript": "1428866558242848909.txt"
+                },
+                "video_hls": {
+                  "url": "1428863781722783955.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "1428863976040693830.jpg",
+                  "caption": "1428866529587363890.vtt",
+                  "transcript": "1428866558242848909.txt"
+                }
+              },
+              "messages": {
+                "video_title": "It: Welcome to Derry Trailer",
+                "video_end_cta_title": "It: Welcome to Derry",
+                "video_end_cta_subtitle": "Premieres October 26 at 9pm on HBO Max",
+                "video_end_cta_button_label": "Mais detalhes"
+              }
             }
           },
           "join_operator": "or"
@@ -3074,25 +3125,45 @@
           "assignment_method": 1,
           "rewards": [
             {
-              "type": 1,
-              "sku_id": "1422705108319338547",
-              "asset": "1422707666538467439.png",
+              "type": 3,
+              "sku_id": "1428865186185609337",
+              "asset": "1428865582022791368.mp4",
               "asset_video": null,
               "messages": {
-                "name": "Bombhead's Expblade & Boomboard",
-                "name_with_article": "Bombhead's Expblade & Boomboard",
+                "name": "It: Welcome to Derry Avatar Decoration",
+                "name_with_article": "an It: Welcome to Derry Avatar Decoration",
                 "redemption_instructions_by_platform": {
-                  "0": "Parabéns por ganhar uma recompensa no jogo pelo King of Meat! Para resgatá-la, siga estas etapas:\r\no\tAcesse o site de resgate de códigos do King of Meat.\r\no\tSelecione sua plataforma preferida e faça login na sua conta.\r\no\tDigite o código que você recebeu na missão do Discord e clique em “Resgatar recompensa”. Você deverá ver uma mensagem de confirmação.\r\no\tO item resgatado aparecerá no seu inventário assim que você atingir o Contender Rank 2 no jogo.\r\no\tRecompensa disponível: 7/10/2025 às 14:00 (horário de Brasília) – 13/10/2025 às 20:59 (horário de Brasília)"
+                  "0": "Default"
                 }
               },
-              "approximate_count": null,
-              "redemption_link": null
+              "expires_at": "2025-12-26T01:00:00+00:00",
+              "expires_at_premium": null,
+              "expiration_mode": 3
             }
           ],
-          "rewards_expire_at": "2025-11-13T00:00:10+00:00",
+          "rewards_expire_at": "2025-11-26T00:00:07+00:00",
           "platforms": [
             0
           ]
+        },
+        "video_metadata": {
+          "messages": {
+            "video_title": "It: Welcome to Derry Trailer",
+            "video_end_cta_title": "It: Welcome to Derry",
+            "video_end_cta_subtitle": "Premieres October 26 at 9pm on HBO Max",
+            "video_end_cta_button_label": "Mais detalhes"
+          },
+          "assets": {
+            "video_player_video_hls": "1429878356916047912.m3u8",
+            "video_player_video": "1429878356916047912_1080.mp4",
+            "video_player_thumbnail": "1428863976040693830.jpg",
+            "video_player_video_low_res": "1429878356916047912_720.mp4",
+            "video_player_caption": "1428866529587363890.vtt",
+            "video_player_transcript": "1428866509673074718.txt",
+            "quest_bar_preview_video": null,
+            "quest_bar_preview_thumbnail": null,
+            "quest_home_video": null
+          }
         },
         "share_policy": "shareable_everywhere"
       },
@@ -3201,6 +3272,120 @@
             }
           ],
           "rewards_expire_at": "2025-10-30T23:00:49+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere"
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
+      "id": "1422705108319338546",
+      "config": {
+        "id": "1422705108319338546",
+        "config_version": 2,
+        "starts_at": "2025-10-07T17:00:10+00:00",
+        "expires_at": "2025-10-14T00:00:10+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://www.kingofmeat.com/pre-order?utm_source=Discord",
+          "id": "1424836075427332106",
+          "name": "King of Meat"
+        },
+        "assets": {
+          "hero": "1422706899312447589.jpg",
+          "hero_video": "1422706819423277157.mp4",
+          "quest_bar_hero": "1422706868949618688.jpg",
+          "quest_bar_hero_video": "1422706819423277157.mp4",
+          "game_tile": "1422707022960529489.png",
+          "logotype": "1422707021831995413.png",
+          "game_tile_light": "1422706979507535872.png",
+          "game_tile_dark": "1422706979507535872.png",
+          "logotype_light": "1422706953242804296.png",
+          "logotype_dark": "1422706953242804296.png"
+        },
+        "colors": {
+          "primary": "#B8860B",
+          "secondary": "#00113E"
+        },
+        "messages": {
+          "quest_name": "Missão de lançamento do King of Meat",
+          "game_title": "King of Meat",
+          "game_publisher": "Amazon Games"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "event_name": "PLAY_ON_DESKTOP",
+              "target": 900
+            },
+            "PLAY_ON_XBOX": {
+              "event_name": "PLAY_ON_XBOX",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "event_name": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1424836075427332106"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 1,
+              "sku_id": "1422705108319338547",
+              "asset": "1422707666538467439.png",
+              "asset_video": null,
+              "messages": {
+                "name": "Bombhead's Expblade & Boomboard",
+                "name_with_article": "Bombhead's Expblade & Boomboard",
+                "redemption_instructions_by_platform": {
+                  "0": "Parabéns por ganhar uma recompensa no jogo pelo King of Meat! Para resgatá-la, siga estas etapas:\r\no\tAcesse o site de resgate de códigos do King of Meat.\r\no\tSelecione sua plataforma preferida e faça login na sua conta.\r\no\tDigite o código que você recebeu na missão do Discord e clique em “Resgatar recompensa”. Você deverá ver uma mensagem de confirmação.\r\no\tO item resgatado aparecerá no seu inventário assim que você atingir o Contender Rank 2 no jogo.\r\no\tRecompensa disponível: 7/10/2025 às 14:00 (horário de Brasília) – 13/10/2025 às 20:59 (horário de Brasília)"
+                }
+              },
+              "approximate_count": null,
+              "redemption_link": null
+            }
+          ],
+          "rewards_expire_at": "2025-11-13T00:00:10+00:00",
           "platforms": [
             0
           ]
