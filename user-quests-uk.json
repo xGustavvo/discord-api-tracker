@@ -471,12 +471,12 @@
       "preview": false
     },
     {
-      "id": "1416148745472442369",
+      "id": "1412856057944084480",
       "config": {
-        "id": "1416148745472442369",
+        "id": "1412856057944084480",
         "config_version": 2,
-        "starts_at": "2025-09-17T17:00:31+00:00",
-        "expires_at": "2025-09-23T23:00:31+00:00",
+        "starts_at": "2025-09-24T17:00:33+00:00",
+        "expires_at": "2025-10-01T00:00:33+00:00",
         "features": [
           3,
           9,
@@ -489,78 +489,51 @@
           23
         ],
         "application": {
-          "link": "https://store.steampowered.com/app/3333850",
-          "id": "545364944258990091",
-          "name": "Discord"
+          "link": "https://store.steampowered.com/app/3201010/Starlight_ReVolver/",
+          "id": "1380591738238013440",
+          "name": "Starlight Re:Volver"
         },
         "assets": {
-          "hero": "1416156220586201089.jpg",
-          "hero_video": "1416156263133478992.mp4",
-          "quest_bar_hero": "1416156196703961168.jpg",
-          "quest_bar_hero_video": "1416156263133478992.mp4",
-          "game_tile": "4ade9fac-4df9-4815-b595-7d8fe945d568.png",
-          "logotype": "faadc45b-c7a7-424b-b47b-c5de418b0038.png",
-          "game_tile_light": "1417602333478617179.png",
-          "game_tile_dark": "1417602334187327528.png",
-          "logotype_light": "1417602334824992889.png",
-          "logotype_dark": "1417602335454003330.png"
+          "hero": "e157cb58-962e-4614-a193-1af80a1f2e18.jpg",
+          "hero_video": "518a85cd-43ee-4e58-84bd-dca5602e77f7.mp4",
+          "quest_bar_hero": "ea655082-a378-4113-9afe-b555cfe7613a.jpg",
+          "quest_bar_hero_video": "74cbe524-e77f-4fe9-a8ce-4081c635e48c.mp4",
+          "game_tile": "dd363bbf-bbc2-4a11-aa9d-418a7acb7cb1.png",
+          "logotype": "a2dd0850-3689-410c-aa9f-012eacdc2ecd.png",
+          "game_tile_light": "1417602390198190101.png",
+          "game_tile_dark": "1417602390970073138.png",
+          "logotype_light": "1417602391603286168.png",
+          "logotype_dark": "1417602392517640383.png"
         },
         "colors": {
-          "primary": "#2C5C56",
-          "secondary": "#14282D"
+          "primary": "#E95DD6",
+          "secondary": "#2B0FB4"
         },
         "messages": {
-          "quest_name": "Arkheron Reveal",
-          "game_title": "Arkheron",
-          "game_publisher": "Bonfire Studios"
+          "quest_name": "Early Access",
+          "game_title": "Starlight Re:Volver",
+          "game_publisher": "Pahdo Labs"
         },
         "task_config": {
           "type": 1,
           "join_operator": "or",
           "tasks": {
-            "WATCH_VIDEO": {
-              "event_name": "WATCH_VIDEO",
-              "target": 111
+            "PLAY_ON_DESKTOP": {
+              "event_name": "PLAY_ON_DESKTOP",
+              "target": 900
             }
           }
         },
         "task_config_v2": {
           "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 111,
-              "assets": {
-                "video": {
-                  "url": "1416156877233852548_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "1416157057144324207.jpg",
-                  "caption": "1417889252997337319.vtt",
-                  "transcript": "1417889319636701416.txt"
-                },
-                "video_low_res": {
-                  "url": "1416156877233852548_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "1416157057144324207.jpg",
-                  "caption": "1417889252997337319.vtt",
-                  "transcript": "1417889319636701416.txt"
-                },
-                "video_hls": {
-                  "url": "1416156877233852548.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "1416157057144324207.jpg",
-                  "caption": "1417889252997337319.vtt",
-                  "transcript": "1417889319636701416.txt"
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1380591738238013440"
                 }
-              },
-              "messages": {
-                "video_title": "Arkheron - Official Reveal Trailer",
-                "video_end_cta_title": "Arkheron",
-                "video_end_cta_subtitle": "The Tower Awaits",
-                "video_end_cta_button_label": "Wishlist Now"
-              }
+              ]
             }
           },
           "join_operator": "or"
@@ -569,41 +542,26 @@
           "assignment_method": 1,
           "rewards": [
             {
-              "type": 4,
-              "sku_id": "1287881739531976815",
+              "type": 3,
+              "sku_id": "1413239353219612796",
+              "asset": "1420757131937841193.mp4",
+              "asset_video": null,
               "messages": {
-                "name": "700 orbs",
-                "name_with_article": "700 orbs",
+                "name": "Dream Dive Stars Avatar Decoration",
+                "name_with_article": "a Dream Dive Stars Avatar Decoration",
                 "redemption_instructions_by_platform": {
                   "0": "Default"
                 }
               },
-              "orb_quantity": 700
+              "expires_at": "2025-11-14T00:00:00+00:00",
+              "expires_at_premium": null,
+              "expiration_mode": 3
             }
           ],
-          "rewards_expire_at": "2025-10-23T23:00:31+00:00",
+          "rewards_expire_at": "2025-10-31T00:00:33+00:00",
           "platforms": [
             0
           ]
-        },
-        "video_metadata": {
-          "messages": {
-            "video_title": "Arkheron - Official Reveal Trailer",
-            "video_end_cta_title": "Arkheron",
-            "video_end_cta_subtitle": "The Tower Awaits",
-            "video_end_cta_button_label": "Wishlist Now"
-          },
-          "assets": {
-            "video_player_video_hls": "1416156877233852548.m3u8",
-            "video_player_video": "1416156877233852548_1080.mp4",
-            "video_player_thumbnail": "1416157057144324207.jpg",
-            "video_player_video_low_res": "1416156877233852548_720.mp4",
-            "video_player_caption": "1417889252997337319.vtt",
-            "video_player_transcript": "1417889319636701416.txt",
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
         },
         "share_policy": "shareable_everywhere"
       },
@@ -701,105 +659,6 @@
             }
           ],
           "rewards_expire_at": "2025-11-09T00:00:13+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere"
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
-      "id": "1412856057944084480",
-      "config": {
-        "id": "1412856057944084480",
-        "config_version": 2,
-        "starts_at": "2025-09-24T17:00:33+00:00",
-        "expires_at": "2025-10-01T00:00:33+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://store.steampowered.com/app/3201010/Starlight_ReVolver/",
-          "id": "1380591738238013440",
-          "name": "Starlight Re:Volver"
-        },
-        "assets": {
-          "hero": "e157cb58-962e-4614-a193-1af80a1f2e18.jpg",
-          "hero_video": "518a85cd-43ee-4e58-84bd-dca5602e77f7.mp4",
-          "quest_bar_hero": "ea655082-a378-4113-9afe-b555cfe7613a.jpg",
-          "quest_bar_hero_video": "74cbe524-e77f-4fe9-a8ce-4081c635e48c.mp4",
-          "game_tile": "dd363bbf-bbc2-4a11-aa9d-418a7acb7cb1.png",
-          "logotype": "a2dd0850-3689-410c-aa9f-012eacdc2ecd.png",
-          "game_tile_light": "1417602390198190101.png",
-          "game_tile_dark": "1417602390970073138.png",
-          "logotype_light": "1417602391603286168.png",
-          "logotype_dark": "1417602392517640383.png"
-        },
-        "colors": {
-          "primary": "#E95DD6",
-          "secondary": "#2B0FB4"
-        },
-        "messages": {
-          "quest_name": "Early Access",
-          "game_title": "Starlight Re:Volver",
-          "game_publisher": "Pahdo Labs"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "event_name": "PLAY_ON_DESKTOP",
-              "target": 900
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1380591738238013440"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 3,
-              "sku_id": "1413239353219612796",
-              "asset": "1420757131937841193.mp4",
-              "asset_video": null,
-              "messages": {
-                "name": "Dream Dive Stars Avatar Decoration",
-                "name_with_article": "a Dream Dive Stars Avatar Decoration",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "expires_at": "2025-11-14T00:00:00+00:00",
-              "expires_at_premium": null,
-              "expiration_mode": 3
-            }
-          ],
-          "rewards_expire_at": "2025-10-31T00:00:33+00:00",
           "platforms": [
             0
           ]
@@ -3397,151 +3256,6 @@
       "preview": false
     },
     {
-      "id": "1430252230430294076",
-      "config": {
-        "id": "1430252230430294076",
-        "config_version": 2,
-        "starts_at": "2025-10-23T17:00:44+00:00",
-        "expires_at": "2025-11-10T00:00:44+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://peacocktv.app.link/dkZ6i1LDaXb",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "1430256083804360914.jpg",
-          "hero_video": "1430256109700255906.mp4",
-          "quest_bar_hero": "1430256041844670605.jpg",
-          "quest_bar_hero_video": "1430255999998103572.mp4",
-          "game_tile": "1430256569336987659.png",
-          "logotype": "1430256568221565039.png",
-          "game_tile_light": "1430256191233065031.png",
-          "game_tile_dark": "1430256191233065031.png",
-          "logotype_light": "1430256153908084846.png",
-          "logotype_dark": "1430256153908084846.png"
-        },
-        "colors": {
-          "primary": "#D94A26",
-          "secondary": "#2B1A14"
-        },
-        "messages": {
-          "quest_name": "Jurassic World Rebirth",
-          "game_title": "Streaming Only on Peacock October 30",
-          "game_publisher": "Peacock"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "WATCH_VIDEO_ON_MOBILE": {
-              "event_name": "WATCH_VIDEO_ON_MOBILE",
-              "target": 29
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "1430253575858159806_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "1430254386143301712.jpg",
-                  "caption": "1430254410709209251.vtt",
-                  "transcript": "1430254441562378280.txt"
-                },
-                "video_low_res": {
-                  "url": "1430253575858159806_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "1430254386143301712.jpg",
-                  "caption": "1430254410709209251.vtt",
-                  "transcript": "1430254441562378280.txt"
-                },
-                "video_hls": {
-                  "url": "1430253575858159806.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "1430254386143301712.jpg",
-                  "caption": "1430254410709209251.vtt",
-                  "transcript": "1430254441562378280.txt"
-                }
-              },
-              "messages": {
-                "video_title": "Jurassic World Rebirth Video",
-                "video_end_cta_title": "Jurassic World Rebirth",
-                "video_end_cta_subtitle": "Streaming Only on Peacock October 30",
-                "video_end_cta_button_label": "Learn More"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 3,
-              "sku_id": "1430254328161108090",
-              "asset": "1430254906492850287.mp4",
-              "asset_video": null,
-              "messages": {
-                "name": "Dilophosaurus Avatar Decoration",
-                "name_with_article": "a Dilophosaurus Avatar Decoration",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "expires_at": "2026-01-09T00:00:00+00:00",
-              "expires_at_premium": null,
-              "expiration_mode": 3
-            }
-          ],
-          "rewards_expire_at": "2025-12-10T00:00:44+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "video_metadata": {
-          "messages": {
-            "video_title": "Jurassic World Rebirth Video",
-            "video_end_cta_title": "Jurassic World Rebirth",
-            "video_end_cta_subtitle": "Streaming Only on Peacock October 30",
-            "video_end_cta_button_label": "Learn More"
-          },
-          "assets": {
-            "video_player_video_hls": "1430253575858159806.m3u8",
-            "video_player_video": "1430253575858159806_1080.mp4",
-            "video_player_thumbnail": "1430254386143301712.jpg",
-            "video_player_video_low_res": "1430253575858159806_720.mp4",
-            "video_player_caption": "1430254410709209251.vtt",
-            "video_player_transcript": "1430254441562378280.txt",
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
-        },
-        "share_policy": "shareable_everywhere"
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
       "id": "1428139680477614150",
       "config": {
         "id": "1428139680477614150",
@@ -5692,19 +5406,22 @@
       "id": "1427802437347053668"
     },
     {
+      "id": "1425272488287408250"
+    },
+    {
+      "id": "1425921949665591336"
+    },
+    {
+      "id": "1421280952591843438"
+    },
+    {
       "id": "1420556874629251124"
     },
     {
       "id": "1423051598787121242"
     },
     {
-      "id": "1425921949665591336"
-    },
-    {
-      "id": "1425272488287408250"
-    },
-    {
-      "id": "1421280952591843438"
+      "id": "1430252230430294076"
     }
   ],
   "quest_enrollment_blocked_until": null
