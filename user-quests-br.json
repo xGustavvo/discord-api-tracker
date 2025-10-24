@@ -2048,6 +2048,117 @@
       "preview": false
     },
     {
+      "id": "1430279721777762495",
+      "config": {
+        "id": "1430279721777762495",
+        "config_version": 2,
+        "starts_at": "2025-10-24T17:00:58+00:00",
+        "expires_at": "2025-11-04T00:00:58+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://game.ea.com/redirect?campaignName=PVZR_UA_US_SOC_DISC_LAUNCH_ALL&caudience=ALL-BROAD&ccreative=DISCORD",
+          "id": "1431009382950506536",
+          "name": "Plants vs. Zombies™: Replanted"
+        },
+        "assets": {
+          "hero": "1430282896647917750.jpg",
+          "hero_video": null,
+          "quest_bar_hero": "1430283016080588931.jpg",
+          "quest_bar_hero_video": null,
+          "game_tile": "1430283974000771152.png",
+          "logotype": "1430283969072726026.png",
+          "game_tile_light": "1430283794614714545.png",
+          "game_tile_dark": "1430283794614714545.png",
+          "logotype_light": "1430283878375100487.png",
+          "logotype_dark": "1430283878375100487.png"
+        },
+        "colors": {
+          "primary": "#8B4F9F",
+          "secondary": "#7EC850"
+        },
+        "messages": {
+          "quest_name": "PvZ Replanted",
+          "game_title": "Plants vs. Zombies: Replanted",
+          "game_publisher": "Electronic Arts"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "event_name": "PLAY_ON_DESKTOP",
+              "target": 900
+            },
+            "PLAY_ON_XBOX": {
+              "event_name": "PLAY_ON_XBOX",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "event_name": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1431009382950506536"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 orbs",
+                "name_with_article": "700 orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "Default"
+                }
+              },
+              "orb_quantity": 700
+            }
+          ],
+          "rewards_expire_at": "2025-12-04T00:00:58+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere"
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
       "id": "1428139680477614150",
       "config": {
         "id": "1428139680477614150",
@@ -3334,6 +3445,9 @@
     },
     {
       "id": "1412491570820812933"
+    },
+    {
+      "id": "1430319105034027078"
     },
     {
       "id": "1410010688482705610"
