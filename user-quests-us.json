@@ -471,12 +471,12 @@
       "preview": false
     },
     {
-      "id": "1412856057944084480",
+      "id": "1432436088508780675",
       "config": {
-        "id": "1412856057944084480",
+        "id": "1432436088508780675",
         "config_version": 2,
-        "starts_at": "2025-09-24T17:00:33+00:00",
-        "expires_at": "2025-10-01T00:00:33+00:00",
+        "starts_at": "2025-10-30T17:00:36+00:00",
+        "expires_at": "2025-11-10T00:00:36+00:00",
         "features": [
           3,
           9,
@@ -489,30 +489,30 @@
           23
         ],
         "application": {
-          "link": "https://store.steampowered.com/app/3201010/Starlight_ReVolver/",
-          "id": "1380591738238013440",
-          "name": "Starlight Re:Volver"
+          "link": "https://store.steampowered.com/app/3241660/REPO/",
+          "id": "1344368447928401961",
+          "name": "R.E.P.O."
         },
         "assets": {
-          "hero": "e157cb58-962e-4614-a193-1af80a1f2e18.jpg",
-          "hero_video": "518a85cd-43ee-4e58-84bd-dca5602e77f7.mp4",
-          "quest_bar_hero": "ea655082-a378-4113-9afe-b555cfe7613a.jpg",
-          "quest_bar_hero_video": "74cbe524-e77f-4fe9-a8ce-4081c635e48c.mp4",
-          "game_tile": "dd363bbf-bbc2-4a11-aa9d-418a7acb7cb1.png",
-          "logotype": "a2dd0850-3689-410c-aa9f-012eacdc2ecd.png",
-          "game_tile_light": "1417602390198190101.png",
-          "game_tile_dark": "1417602390970073138.png",
-          "logotype_light": "1417602391603286168.png",
-          "logotype_dark": "1417602392517640383.png"
+          "hero": "1432437559199273071.jpg",
+          "hero_video": null,
+          "quest_bar_hero": "1432437739399151616.jpg",
+          "quest_bar_hero_video": null,
+          "game_tile": "1432437903144910868.png",
+          "logotype": "1432437902058455211.png",
+          "game_tile_light": "1432437788439220414.png",
+          "game_tile_dark": "1432437788439220414.png",
+          "logotype_light": "1432437837046747296.png",
+          "logotype_dark": "1432437868185391154.png"
         },
         "colors": {
-          "primary": "#E95DD6",
-          "secondary": "#2B0FB4"
+          "primary": "#744500",
+          "secondary": "#090705"
         },
         "messages": {
-          "quest_name": "Early Access",
-          "game_title": "Starlight Re:Volver",
-          "game_publisher": "Pahdo Labs"
+          "quest_name": " R.E.P.O. Monster",
+          "game_title": "R.E.P.O.",
+          "game_publisher": "Semiwork"
         },
         "task_config": {
           "type": 1,
@@ -531,7 +531,7 @@
               "target": 900,
               "applications": [
                 {
-                  "id": "1380591738238013440"
+                  "id": "1344368447928401961"
                 }
               ]
             }
@@ -543,22 +543,22 @@
           "rewards": [
             {
               "type": 3,
-              "sku_id": "1413239353219612796",
-              "asset": "1420757131937841193.mp4",
+              "sku_id": "1432438506130636801",
+              "asset": "1432438676373377074.mp4",
               "asset_video": null,
               "messages": {
-                "name": "Dream Dive Stars Avatar Decoration",
-                "name_with_article": "a Dream Dive Stars Avatar Decoration",
+                "name": "R.E.P.O. Monster Avatar Decoration ",
+                "name_with_article": "a R.E.P.O. Monster Avatar Decoration ",
                 "redemption_instructions_by_platform": {
                   "0": "Default"
                 }
               },
-              "expires_at": "2025-11-14T00:00:00+00:00",
+              "expires_at": "2026-01-09T00:00:00+00:00",
               "expires_at_premium": null,
               "expiration_mode": 3
             }
           ],
-          "rewards_expire_at": "2025-10-31T00:00:33+00:00",
+          "rewards_expire_at": "2025-12-10T00:00:36+00:00",
           "platforms": [
             0
           ]
@@ -659,6 +659,105 @@
             }
           ],
           "rewards_expire_at": "2025-11-09T00:00:13+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere"
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
+      "id": "1412856057944084480",
+      "config": {
+        "id": "1412856057944084480",
+        "config_version": 2,
+        "starts_at": "2025-09-24T17:00:33+00:00",
+        "expires_at": "2025-10-01T00:00:33+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://store.steampowered.com/app/3201010/Starlight_ReVolver/",
+          "id": "1380591738238013440",
+          "name": "Starlight Re:Volver"
+        },
+        "assets": {
+          "hero": "e157cb58-962e-4614-a193-1af80a1f2e18.jpg",
+          "hero_video": "518a85cd-43ee-4e58-84bd-dca5602e77f7.mp4",
+          "quest_bar_hero": "ea655082-a378-4113-9afe-b555cfe7613a.jpg",
+          "quest_bar_hero_video": "74cbe524-e77f-4fe9-a8ce-4081c635e48c.mp4",
+          "game_tile": "dd363bbf-bbc2-4a11-aa9d-418a7acb7cb1.png",
+          "logotype": "a2dd0850-3689-410c-aa9f-012eacdc2ecd.png",
+          "game_tile_light": "1417602390198190101.png",
+          "game_tile_dark": "1417602390970073138.png",
+          "logotype_light": "1417602391603286168.png",
+          "logotype_dark": "1417602392517640383.png"
+        },
+        "colors": {
+          "primary": "#E95DD6",
+          "secondary": "#2B0FB4"
+        },
+        "messages": {
+          "quest_name": "Early Access",
+          "game_title": "Starlight Re:Volver",
+          "game_publisher": "Pahdo Labs"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "event_name": "PLAY_ON_DESKTOP",
+              "target": 900
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1380591738238013440"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 3,
+              "sku_id": "1413239353219612796",
+              "asset": "1420757131937841193.mp4",
+              "asset_video": null,
+              "messages": {
+                "name": "Dream Dive Stars Avatar Decoration",
+                "name_with_article": "a Dream Dive Stars Avatar Decoration",
+                "redemption_instructions_by_platform": {
+                  "0": "Default"
+                }
+              },
+              "expires_at": "2025-11-14T00:00:00+00:00",
+              "expires_at_premium": null,
+              "expiration_mode": 3
+            }
+          ],
+          "rewards_expire_at": "2025-10-31T00:00:33+00:00",
           "platforms": [
             0
           ]
@@ -3487,6 +3586,120 @@
       "preview": false
     },
     {
+      "id": "1432410015721062480",
+      "config": {
+        "id": "1432410015721062480",
+        "config_version": 2,
+        "starts_at": "2025-10-30T17:00:00+00:00",
+        "expires_at": "2025-11-06T00:00:00+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://arcraiders.com/en/?utm_campaign=launch&utm_source=discord&utm_term=us&utm_content=broadgaming&utm_medium=custom",
+          "id": "1432419613165228174",
+          "name": "ARC Raiders"
+        },
+        "assets": {
+          "hero": "1432435244337725637.jpg",
+          "hero_video": null,
+          "quest_bar_hero": "1433471392216776734.jpg",
+          "quest_bar_hero_video": null,
+          "game_tile": "1432415635220070430.png",
+          "logotype": "1432415634175692811.png",
+          "game_tile_light": "1432415581017079859.png",
+          "game_tile_dark": "1432415581017079859.png",
+          "logotype_light": "1432415439446610050.png",
+          "logotype_dark": "1432415459382399098.png"
+        },
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "ARC Raiders",
+          "game_title": "ARC Raiders",
+          "game_publisher": "Embark Studios"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "event_name": "PLAY_ON_DESKTOP",
+              "target": 900
+            },
+            "PLAY_ON_XBOX": {
+              "event_name": "PLAY_ON_XBOX",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "event_name": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1432419613165228174"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 1,
+              "sku_id": "1432410015721062481",
+              "asset": "1432416048837300364.jpg",
+              "asset_video": null,
+              "messages": {
+                "name": "Hiker Backpack, Sky Ice",
+                "name_with_article": "a Hiker Backpack, Sky Ice",
+                "redemption_instructions_by_platform": {
+                  "0": "To redeem your ARC Raiders launch Quest gift code, visit Embark's code redemption website and log in to your account: https://id.embark.games/id/arc-raiders/giveaway  \nPaste your gift code to obtain your Hiker Backpack - Sky Ice. \n\n**Requires ARC Raiders; redeem by 6th November 2025.**"
+                }
+              },
+              "approximate_count": null,
+              "redemption_link": null
+            }
+          ],
+          "rewards_expire_at": "2025-12-06T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere"
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
       "id": "1415444527229042769",
       "config": {
         "id": "1415444527229042769",
@@ -4254,6 +4467,104 @@
       "preview": false
     },
     {
+      "id": "1433219183411462265",
+      "config": {
+        "id": "1433219183411462265",
+        "config_version": 2,
+        "starts_at": "2025-10-30T17:00:21+00:00",
+        "expires_at": "2025-11-06T00:00:21+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": " https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/2139460?af_media_source=discord&af_campaign_id=steamus20251030&af_campaign=steamus20251030&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F2139460%3Futm_source%3DNAOCT%26utm_campaign%3DDC%26utm_content%3Ddiscordquest",
+          "id": "1260340082150346932",
+          "name": "Once Human"
+        },
+        "assets": {
+          "hero": "1433489073086926918.jpg",
+          "hero_video": null,
+          "quest_bar_hero": "1433219756122443816.jpeg",
+          "quest_bar_hero_video": null,
+          "game_tile": "1433221188754083960.jpg",
+          "logotype": "1433221460868202617.png",
+          "game_tile_light": "1433221095284146287.jpg",
+          "game_tile_dark": "1433221095284146287.jpg",
+          "logotype_light": "1433221436750696591.png",
+          "logotype_dark": "1433221161386508450.png"
+        },
+        "colors": {
+          "primary": "#153945",
+          "secondary": "#11222C"
+        },
+        "messages": {
+          "quest_name": "Palworld Collab",
+          "game_title": "Once Human",
+          "game_publisher": "Starry Studio"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "event_name": "PLAY_ON_DESKTOP",
+              "target": 900
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1260340082150346932"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 1,
+              "sku_id": "1433219183411462266",
+              "asset": "1433220408626118726.png",
+              "asset_video": null,
+              "messages": {
+                "name": "Uncharted Territory",
+                "name_with_article": "an Uncharted Territory",
+                "redemption_instructions_by_platform": {
+                  "0": "Enter the game > Press F3 > Press X > Input the code"
+                }
+              },
+              "approximate_count": null,
+              "redemption_link": null
+            }
+          ],
+          "rewards_expire_at": "2025-12-06T00:00:21+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere"
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
       "id": "1425698814315991141",
       "config": {
         "id": "1425698814315991141",
@@ -4671,7 +4982,7 @@
         },
         "messages": {
           "quest_name": "Jurassic World Rebirth",
-          "game_title": "Streaming Only on Peacock October 30",
+          "game_title": "Streaming Now Only on Peacock",
           "game_publisher": "Peacock"
         },
         "task_config": {
@@ -4694,7 +5005,7 @@
                   "url": "1430261121046151340_1080.mp4",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "1430261228026073188.jpg",
+                  "thumbnail": "1433504818621710336.jpg",
                   "caption": "1430261251350728795.vtt",
                   "transcript": "1430261277472591972.txt"
                 },
@@ -4702,7 +5013,7 @@
                   "url": "1430261121046151340_720.mp4",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "1430261228026073188.jpg",
+                  "thumbnail": "1433504818621710336.jpg",
                   "caption": "1430261251350728795.vtt",
                   "transcript": "1430261277472591972.txt"
                 },
@@ -4710,7 +5021,7 @@
                   "url": "1430261121046151340.m3u8",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "1430261228026073188.jpg",
+                  "thumbnail": "1433504818621710336.jpg",
                   "caption": "1430261251350728795.vtt",
                   "transcript": "1430261277472591972.txt"
                 }
@@ -4718,7 +5029,7 @@
               "messages": {
                 "video_title": "Jurassic World Rebirth Video",
                 "video_end_cta_title": "Jurassic World Rebirth",
-                "video_end_cta_subtitle": "Streaming Only on Peacock October 30",
+                "video_end_cta_subtitle": "Streaming Now Only on Peacock",
                 "video_end_cta_button_label": "Learn More"
               }
             }
@@ -4750,13 +5061,13 @@
           "messages": {
             "video_title": "Jurassic World Rebirth Video",
             "video_end_cta_title": "Jurassic World Rebirth",
-            "video_end_cta_subtitle": "Streaming Only on Peacock October 30",
+            "video_end_cta_subtitle": "Streaming Now Only on Peacock",
             "video_end_cta_button_label": "Learn More"
           },
           "assets": {
             "video_player_video_hls": "1430261121046151340.m3u8",
             "video_player_video": "1430261121046151340_1080.mp4",
-            "video_player_thumbnail": "1430261228026073188.jpg",
+            "video_player_thumbnail": "1433504818621710336.jpg",
             "video_player_video_low_res": "1430261121046151340_720.mp4",
             "video_player_caption": "1430261251350728795.vtt",
             "video_player_transcript": "1430261277472591972.txt",
