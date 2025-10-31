@@ -101640,5 +101640,2066 @@
     "pdp_bg_url": "https://cdn.discordapp.com/assets/content/a7e344e591937629b11832724a4d01ff6b52dec195574f88163d02ff4926b95c",
     "mobile_banner_url": "https://cdn.discordapp.com/assets/content/f1e099614c9a44c65ed4022b6f0f2da81ae09d53d1ea42bb06befefaea39bb59",
     "mobile_bg_url": "https://cdn.discordapp.com/assets/content/cf937d263a2ed6f36949387128741b2f1444627c6e33d2fa575530fdc09620ab"
+  },
+  {
+    "sku_id": "1428438925105430660",
+    "name": "Jujutsu Kaisen",
+    "summary": " ",
+    "store_listing_id": "1428438925097177179",
+    "unpublished_at": null,
+    "styles": {
+      "background_colors": [
+        1311521,
+        2032409
+      ],
+      "button_colors": [
+        5793266,
+        5793266
+      ],
+      "confetti_colors": [
+        43772,
+        15774258,
+        16414587,
+        3000177,
+        9739511
+      ]
+    },
+    "logo": "1428438925147639948",
+    "hero_ranking": [
+      "1428438924539334718",
+      "1428438924564631663",
+      "1428438924589662298",
+      "1428438924619022436",
+      "1428438924648382626",
+      "1428438924669358120",
+      "1428438924698718268",
+      "1428438924728078436",
+      "1428438924757438666",
+      "1428438924790992946",
+      "1428438924820353184",
+      "1428438924853907596",
+      "1428438924883267715",
+      "1428438924912627853",
+      "1428438924937793627",
+      "1428438924962959421",
+      "1428438924988125224",
+      "1428438925021548544",
+      "1428438925046714408",
+      "1428438925067817093"
+    ],
+    "mobile_bg": "1428438925189447680",
+    "pdp_bg": "1428438925172805662",
+    "mobile_banner": "1428438925181063188",
+    "featured_block": "1428438925164281946",
+    "products": [
+      {
+        "sku_id": "1428438924539334718",
+        "name": "Yuji Itadori Bundle",
+        "summary": "A bundle of collectibles.",
+        "store_listing_id": "1428438924556107836",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1311521,
+            2032409
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 2099,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 1599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1428438924606443641",
+            "sku_id": "1428438924589662298",
+            "asset": "a_e27ca3c6b6846cdc0ea84f13ad6c4812",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/ffe1dc35e9e8c82f0946daf191031c1fa70d9450f57dfebaba7431cfdc21b618",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/1039d1a08a3197ff3e963507b944a6d2a8d892f587d679043381c50671e90a66"
+            },
+            "label": "Red dynamic cursed energy effects spark over Yuji's iconic red jacket."
+          },
+          {
+            "type": 1,
+            "id": "1428438924954697952",
+            "sku_id": "1428438924937793627",
+            "title": "Black Flash",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Yuji Itadori's fist with red cursed energy and flowing black slashes surrounding a profile view.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/529bc631aebdfe7defe3440564a0a14a4d9be4740b9bce23465fc581489e6276",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/a95f66ad45f9b331a3eab19660ec8aefe3dcdea864c1e986493d91f854bb7e80",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/assets/content/13b6f2195cd38100b3752dcf9190546b0ba7ec26e5c5582ad102acba047dfa8f",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 4083,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/8ec8c0abd32b07d106cfa2cea5ed78fab6e69350029b33b575b78cbe75fa72bc",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3250,
+                "start": 4783,
+                "loopDelay": 3250,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+              }
+            ]
+          },
+          {
+            "type": 2,
+            "id": "1428438925038583818",
+            "sku_id": "1428438925021548544",
+            "asset": "nameplates/plastic/yuji_itadori/",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/dcd20573ebb59ce5f9bf5647fb57c82fe55e9bda4db84750553d0b83a8f7a054",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/4699b34a2c741b2b1f98530372f22d3a054967c957e77a590f209cfd89814d5f",
+              "video_url": "https://cdn.discordapp.com/assets/content/5050c625036c997b5426c21ea78e585653a8f21e2c70ffd0bcfab485e530f2b3"
+            },
+            "label": "Crimson red and black flowing patterns of cursed energy dance across the red nameplate",
+            "palette": "crimson"
+          }
+        ],
+        "type": 1000,
+        "premium_type": 0,
+        "category_sku_id": "1428438925105430660",
+        "bundled_products": [
+          {
+            "sku_id": "1428438924589662298",
+            "name": "Yuji's Black Flash",
+            "summary": "Give your avatar a new look.",
+            "type": 0,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 799,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "sku_id": "1428438924937793627",
+            "name": "Black Flash",
+            "summary": "Show this effect when others view your profile.",
+            "type": 1,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 799,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "sku_id": "1428438925021548544",
+            "name": "Yuji Itadori",
+            "summary": "Make your name stand out in servers and chats.",
+            "type": 2,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 799,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ],
+        "google_sku_ids": {
+          "5": "1428438924539334718_1428545896391512215",
+          "7": "1428438924539334718_1428545902817312848"
+        }
+      },
+      {
+        "sku_id": "1428438924564631663",
+        "name": "Satoru Gojo Bundle",
+        "summary": "A bundle of collectibles.",
+        "store_listing_id": "1428438924577083492",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1311521,
+            2032409
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 2099,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 1599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1428438924644061225",
+            "sku_id": "1428438924619022436",
+            "asset": "a_f5cb657a0b9c7eba6b64f29e824ef55b",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/bafab4fd31dfbb3eee423b828061673b2ee4acace9870a9ef5c987bffb454635",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/0632c20eb707a51dc0a8733011ebe1027344b0c3fec793407751a8e09190cdcd"
+            },
+            "label": "Large glowing blue and white spherical cursed energy technique with Satoru's hand reaching outward."
+          },
+          {
+            "type": 1,
+            "id": "1428438924975673514",
+            "sku_id": "1428438924962959421",
+            "title": "Unlimited Void",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Satoru Gojo's glowing blue eyes and hand gesture with blue and black cursed energy sphere.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/7d9667d64f97129e07f45c9710b5f61902b14a035fb85089a3286b9c095a4466",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/41429f3cc0aa3304c08cdc58a2c9ece545c62ff42acba2ba1bc2728a23088c5e",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/assets/content/11dbba8e43117d6955a3c9b3691cf2c1d145f785b51ff1bf84e83ce13719f58d",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 4167,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/fb531b323f3fdb4df0eae1c99da9994b868fb5b8609b1bc7109d48e01f2a5c8d",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3167,
+                "start": 5167,
+                "loopDelay": 3250,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+              }
+            ]
+          },
+          {
+            "type": 2,
+            "id": "1428438925059559548",
+            "sku_id": "1428438925046714408",
+            "asset": "nameplates/plastic/satoru_gojo/",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/a325058b82ad601e77865e1deb92f7fa6d8049ba8d924442f93c4176d2635d7a",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/6af8c0fbe6800e9af27267618fc3ca59638d5ce38cb0603911880c35a3f1b83a",
+              "video_url": "https://cdn.discordapp.com/assets/content/97d86485f812ba7758f0fde9320a9c27d62a8b1692c3dfa87eb66d8fb8f4ef6d"
+            },
+            "label": "Satoru Gojo's glowing blue eye and hand gesture with white spherical cursed energy surrounding the blue nameplate",
+            "palette": "cobalt"
+          }
+        ],
+        "type": 1000,
+        "premium_type": 0,
+        "category_sku_id": "1428438925105430660",
+        "bundled_products": [
+          {
+            "sku_id": "1428438924619022436",
+            "name": "Satoru's Unlimited Void",
+            "summary": "Give your avatar a new look.",
+            "type": 0,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 799,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "sku_id": "1428438924962959421",
+            "name": "Unlimited Void",
+            "summary": "Show this effect when others view your profile.",
+            "type": 1,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 799,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "sku_id": "1428438925046714408",
+            "name": "Satoru Gojo",
+            "summary": "Make your name stand out in servers and chats.",
+            "type": 2,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 799,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ],
+        "google_sku_ids": {
+          "5": "1428438924564631663_1428549737891496006",
+          "7": "1428438924564631663_1428549744476819466"
+        }
+      },
+      {
+        "sku_id": "1428438924648382626",
+        "name": "Ryomen Sukuna Bundle",
+        "summary": "A bundle of collectibles.",
+        "store_listing_id": "1428438924656906503",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1311521,
+            2032409
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 2099,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 1599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1428438924690460712",
+            "sku_id": "1428438924669358120",
+            "asset": "a_d7cf411174a2bb037544c8517fbafa66",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/83b301a880b1bba75a8bfcc8a4f407aeaf833be2593ae7b30d9740e974278a9e",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/8d47bf1ffad36b610a71cb12b4c048c9d2b0e345cffb865edbf732fef70623cd"
+            },
+            "label": "Red and purple flowing cursed energy slash marks intersecting dramatically with Sukuna's hands held together in a prayer."
+          },
+          {
+            "type": 1,
+            "id": "1428438925009227806",
+            "sku_id": "1428438924988125224",
+            "title": "Malevolent Shrine",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Ryomen Sukuna's silhouette with bright orange and red fiery cursed energy flames erupting.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/dbc47244466b389bcd0d17e17bd2adbb2a603aeb74bd8a84cc01b362fff99fdc",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/dab267f67b1e1bede3ef1bb6914520e9eb6263781e03a9f52b6b47132e9cb9d3",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/assets/content/18d82e7e40d7f6aa542cd3842a3ed76c79cc3c8ee4f33a8ea8d7b32a3dbad5fb",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 4167,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/36b02d6430e56d2695911f17177dee3d7c5b5d14e45777d70dec0982c86ac92a",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 4250,
+                "start": 4967,
+                "loopDelay": 3250,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+              }
+            ]
+          },
+          {
+            "type": 2,
+            "id": "1428438925084725408",
+            "sku_id": "1428438925067817093",
+            "asset": "nameplates/plastic/ryomen_sukuna/",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/77c5aa174d8e9fda759d5ce383668cb21a9b419fb27f8ce55299c29a8013f427",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/231f1f9a2a59a42edb27e49be63b5e4904fc158840c011aac10ded7563e13469",
+              "video_url": "https://cdn.discordapp.com/assets/content/5a6a04d9ed8b5a31c80d91e6bb628d47417920cfb7567ff20764ec5eed6a3166"
+            },
+            "label": "Red and yellow cursed energy tendrils and flowing black slashes surrounding a red nameplate.",
+            "palette": "crimson"
+          }
+        ],
+        "type": 1000,
+        "premium_type": 0,
+        "category_sku_id": "1428438925105430660",
+        "bundled_products": [
+          {
+            "sku_id": "1428438924669358120",
+            "name": "Sukuna's Slashes",
+            "summary": "Give your avatar a new look.",
+            "type": 0,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 799,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "sku_id": "1428438924988125224",
+            "name": "Malevolent Shrine",
+            "summary": "Show this effect when others view your profile.",
+            "type": 1,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 799,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "sku_id": "1428438925067817093",
+            "name": "Ryomen Sukuna",
+            "summary": "Make your name stand out in servers and chats.",
+            "type": 2,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 799,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ],
+        "google_sku_ids": {
+          "5": "1428438924648382626_1428546312088850553",
+          "7": "1428438924648382626_1428546317902413844"
+        }
+      },
+      {
+        "sku_id": "1428438924589662298",
+        "name": "Yuji's Black Flash",
+        "summary": "Give your avatar a new look.",
+        "store_listing_id": "1428438924598186075",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1311521,
+            2032409
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 799,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1428438924606443641",
+            "sku_id": "1428438924589662298",
+            "asset": "a_e27ca3c6b6846cdc0ea84f13ad6c4812",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/ffe1dc35e9e8c82f0946daf191031c1fa70d9450f57dfebaba7431cfdc21b618",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/1039d1a08a3197ff3e963507b944a6d2a8d892f587d679043381c50671e90a66"
+            },
+            "label": "Red dynamic cursed energy effects spark over Yuji's iconic red jacket."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1428438925105430660",
+        "google_sku_ids": {
+          "5": "1428438924589662298_1428546481089941516",
+          "7": "1428438924589662298_1428546487587049572"
+        }
+      },
+      {
+        "sku_id": "1428438924619022436",
+        "name": "Satoru's Unlimited Void",
+        "summary": "Give your avatar a new look.",
+        "store_listing_id": "1428438924627546292",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1311521,
+            2032409
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 799,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1428438924644061225",
+            "sku_id": "1428438924619022436",
+            "asset": "a_f5cb657a0b9c7eba6b64f29e824ef55b",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/bafab4fd31dfbb3eee423b828061673b2ee4acace9870a9ef5c987bffb454635",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/0632c20eb707a51dc0a8733011ebe1027344b0c3fec793407751a8e09190cdcd"
+            },
+            "label": "Large glowing blue and white spherical cursed energy technique with Satoru's hand reaching outward."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1428438925105430660",
+        "google_sku_ids": {
+          "5": "1428438924619022436_1428545961596293190",
+          "7": "1428438924619022436_1428545967799533648"
+        }
+      },
+      {
+        "sku_id": "1428438924669358120",
+        "name": "Sukuna's Slashes",
+        "summary": "Give your avatar a new look.",
+        "store_listing_id": "1428438924681805854",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1311521,
+            2032409
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 799,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1428438924690460712",
+            "sku_id": "1428438924669358120",
+            "asset": "a_d7cf411174a2bb037544c8517fbafa66",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/83b301a880b1bba75a8bfcc8a4f407aeaf833be2593ae7b30d9740e974278a9e",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/8d47bf1ffad36b610a71cb12b4c048c9d2b0e345cffb865edbf732fef70623cd"
+            },
+            "label": "Red and purple flowing cursed energy slash marks intersecting dramatically with Sukuna's hands held together in a prayer."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1428438925105430660",
+        "google_sku_ids": {
+          "5": "1428438924669358120_1428549182763044956",
+          "7": "1428438924669358120_1428549188802576475"
+        }
+      },
+      {
+        "sku_id": "1428438924698718268",
+        "name": "Yuji Itadori",
+        "summary": "Give your avatar a new look.",
+        "store_listing_id": "1428438924707102832",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1311521,
+            2032409
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 799,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1428438924715626706",
+            "sku_id": "1428438924698718268",
+            "asset": "a_74740dc815fc82d02ac15ea9d45d9728",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/2f6a8f8e25a444a886ecf9dae0d8164a842aa00b0e50458e80254c4d92b3d847",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/569d6b109119473377d9bafaedb93f4ddc13d0d116f632f3d4855c4fbef98fa8"
+            },
+            "label": "Yuji Itadori with pink spiky hair wearing a dark uniform and red cursed energy slashes flowing around him."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1428438925105430660",
+        "google_sku_ids": {
+          "5": "1428438924698718268_1428549442604241027",
+          "7": "1428438924698718268_1428549448857944105"
+        }
+      },
+      {
+        "sku_id": "1428438924728078436",
+        "name": "Megumi Fushiguro",
+        "summary": "Give your avatar a new look.",
+        "store_listing_id": "1428438924736463009",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1311521,
+            2032409
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 799,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1428438924749180950",
+            "sku_id": "1428438924728078436",
+            "asset": "a_dd9e73105efdf9f368ae5a34b5162099",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/d2356120df85ab6d43d41e6272eeacff6b53387463111ffe21d8e9f103a7c2df",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/9ba9f241b5b1f2129ffb1ba6f99c44b520841b5388668571a41d768a22118f3d"
+            },
+            "label": "Megumi Fushiguro with dark spiky hair wearing a dark uniform and white spirit bunnies hovering above."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1428438925105430660",
+        "google_sku_ids": {
+          "5": "1428438924728078436_1428547667797086291",
+          "7": "1428438924728078436_1428547673757319190"
+        }
+      },
+      {
+        "sku_id": "1428438924757438666",
+        "name": "Nobara Kugisaki",
+        "summary": "Give your avatar a new look.",
+        "store_listing_id": "1428438924770017330",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1311521,
+            2032409
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 799,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1428438924778541226",
+            "sku_id": "1428438924757438666",
+            "asset": "a_db1eafb48828e7da17f9d4b60e88e7e0",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/7ea29d1df3ad1f839078cb0c557155a372b58038126041111a834249c06415c9",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/11601b3c67e1f9a9dc9572e1495639d5cd6f4b96e7fed644424ef3ce67482ab3"
+            },
+            "label": "Nobara Kugisaki with brown hair wearing a dark uniform and a green magical tool beside her."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1428438925105430660",
+        "google_sku_ids": {
+          "5": "1428438924757438666_1428548807494336642",
+          "7": "1428438924757438666_1428548816361230446"
+        }
+      },
+      {
+        "sku_id": "1428438924790992946",
+        "name": "Satoru Gojo",
+        "summary": "Give your avatar a new look.",
+        "store_listing_id": "1428438924803440690",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1311521,
+            2032409
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 799,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1428438924812095580",
+            "sku_id": "1428438924790992946",
+            "asset": "a_72cd1f8cc950bac7baee3e1bce230e6b",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/ecbed22180c91821869bf923ccd7c0844b6dcacd134f55a21808ea1e1cdfa036",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/0165aa4f744143c4a1d1465e62b1aeecffe07dbe68912d5f7ec3ba8d285099cf"
+            },
+            "label": "Satoru Gojo with white hair wearing a dark uniform surrounded by blue and white cursed energy sphere."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1428438925105430660",
+        "google_sku_ids": {
+          "5": "1428438924790992946_1428546416019640360",
+          "7": "1428438924790992946_1428546422357364827"
+        }
+      },
+      {
+        "sku_id": "1428438924820353184",
+        "name": "Kento Nanami",
+        "summary": "Give your avatar a new look.",
+        "store_listing_id": "1428438924832931881",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1311521,
+            2032409
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 799,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1428438924841455798",
+            "sku_id": "1428438924820353184",
+            "asset": "a_d819571a6314a76a9e59f0ad3a5a79fc",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/8f77668ac91be649da222bbc5199454a810330d56670a9439d40878684ee2233",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/1054b2d1ef9bdfa22c6f389af80f9dc8732a0c6ddca979ccc73c267b5405aa6d"
+            },
+            "label": "Kento Nanami with blonde hair and glowing green eyes with his knife and dark aura behind him."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1428438925105430660",
+        "google_sku_ids": {
+          "5": "1428438924820353184_1428549319971045557",
+          "7": "1428438924820353184_1428549326522814545"
+        }
+      },
+      {
+        "sku_id": "1428438924853907596",
+        "name": "Ryomen Sukuna",
+        "summary": "Give your avatar a new look.",
+        "store_listing_id": "1428438924862292134",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1311521,
+            2032409
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 799,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1428438924875010129",
+            "sku_id": "1428438924853907596",
+            "asset": "a_262d0bcf225c635d0b35afe7ef011685",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/f904e29b8835d2d9b4a034b81fd7037e103705684953c43beff5eabada4d4756",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/be063b87a3148876b3fb427ffdabff6298ed68c9318987e38ec5040288fcc6b2"
+            },
+            "label": "Ryomen Sukuna with pink spiky hair wearing a red outfit with a dark shadowy aura."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1428438925105430660",
+        "google_sku_ids": {
+          "5": "1428438924853907596_1428545818184515604",
+          "7": "1428438924853907596_1428545824161271910"
+        }
+      },
+      {
+        "sku_id": "1428438924883267715",
+        "name": "Mahito",
+        "summary": "Give your avatar a new look.",
+        "store_listing_id": "1428438924891652308",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1311521,
+            2032409
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 799,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1428438924904366282",
+            "sku_id": "1428438924883267715",
+            "asset": "a_c6c0ece899076299a0cd7c879276a31a",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/84668c5ccfce82aece49f65206414af70ef807870e49dd0e8e344d3891f32702",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/ce33d0a553f439e31c3a2e0c523a5780c287d5534f04499bcb7e96b87379ef46"
+            },
+            "label": "Mahito with white and purple hair wearing dark clothes surrounded by bright purple morphing curse form."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1428438925105430660",
+        "google_sku_ids": {
+          "5": "1428438924883267715_1428546143536549949",
+          "7": "1428438924883267715_1428546150243369113"
+        }
+      },
+      {
+        "sku_id": "1428438924912627853",
+        "name": "Suguru Geto",
+        "summary": "Give your avatar a new look.",
+        "store_listing_id": "1428438924921012294",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1311521,
+            2032409
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 799,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1428438924929536103",
+            "sku_id": "1428438924912627853",
+            "asset": "a_7960712f106f1b5594743f87d25c69a5",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/2742e429635f0f08763d0bebbb9fd96e169b70b4e883f8aced0471866040c99c",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/873ad1549291e09a1621dff9a85208958ab1334dde58aa3b93556f102c79a5cf"
+            },
+            "label": "Suguru Geto with dark long hair wearing a brown and gold outfit with a dark shadowy aura."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1428438925105430660",
+        "google_sku_ids": {
+          "5": "1428438924912627853_1428548857515741234",
+          "7": "1428438924912627853_1428548864889323671"
+        }
+      },
+      {
+        "sku_id": "1428438924937793627",
+        "name": "Black Flash",
+        "summary": "Show this effect when others view your profile.",
+        "store_listing_id": "1428438924946178138",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1311521,
+            2032409
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 799,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 1,
+            "id": "1428438924954697952",
+            "sku_id": "1428438924937793627",
+            "title": "Black Flash",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Yuji Itadori's fist with red cursed energy and flowing black slashes surrounding a profile view.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/529bc631aebdfe7defe3440564a0a14a4d9be4740b9bce23465fc581489e6276",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/a95f66ad45f9b331a3eab19660ec8aefe3dcdea864c1e986493d91f854bb7e80",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/assets/content/13b6f2195cd38100b3752dcf9190546b0ba7ec26e5c5582ad102acba047dfa8f",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 4083,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/8ec8c0abd32b07d106cfa2cea5ed78fab6e69350029b33b575b78cbe75fa72bc",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3250,
+                "start": 4783,
+                "loopDelay": 3250,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+              }
+            ]
+          }
+        ],
+        "type": 1,
+        "premium_type": 0,
+        "category_sku_id": "1428438925105430660",
+        "google_sku_ids": {
+          "5": "1428438924937793627_1428547793026420850",
+          "7": "1428438924937793627_1428547798831464599"
+        }
+      },
+      {
+        "sku_id": "1428438924962959421",
+        "name": "Unlimited Void",
+        "summary": "Show this effect when others view your profile.",
+        "store_listing_id": "1428438924971343912",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1311521,
+            2032409
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 799,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 1,
+            "id": "1428438924975673514",
+            "sku_id": "1428438924962959421",
+            "title": "Unlimited Void",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Satoru Gojo's glowing blue eyes and hand gesture with blue and black cursed energy sphere.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/7d9667d64f97129e07f45c9710b5f61902b14a035fb85089a3286b9c095a4466",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/41429f3cc0aa3304c08cdc58a2c9ece545c62ff42acba2ba1bc2728a23088c5e",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/assets/content/11dbba8e43117d6955a3c9b3691cf2c1d145f785b51ff1bf84e83ce13719f58d",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 4167,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/fb531b323f3fdb4df0eae1c99da9994b868fb5b8609b1bc7109d48e01f2a5c8d",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3167,
+                "start": 5167,
+                "loopDelay": 3250,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+              }
+            ]
+          }
+        ],
+        "type": 1,
+        "premium_type": 0,
+        "category_sku_id": "1428438925105430660",
+        "google_sku_ids": {
+          "5": "1428438924962959421_1428546558818783403",
+          "7": "1428438924962959421_1428546565533995098"
+        }
+      },
+      {
+        "sku_id": "1428438924988125224",
+        "name": "Malevolent Shrine",
+        "summary": "Show this effect when others view your profile.",
+        "store_listing_id": "1428438925000704030",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1311521,
+            2032409
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 799,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 1,
+            "id": "1428438925009227806",
+            "sku_id": "1428438924988125224",
+            "title": "Malevolent Shrine",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Ryomen Sukuna's silhouette with bright orange and red fiery cursed energy flames erupting.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/dbc47244466b389bcd0d17e17bd2adbb2a603aeb74bd8a84cc01b362fff99fdc",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/dab267f67b1e1bede3ef1bb6914520e9eb6263781e03a9f52b6b47132e9cb9d3",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/assets/content/18d82e7e40d7f6aa542cd3842a3ed76c79cc3c8ee4f33a8ea8d7b32a3dbad5fb",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 4167,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/36b02d6430e56d2695911f17177dee3d7c5b5d14e45777d70dec0982c86ac92a",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 4250,
+                "start": 4967,
+                "loopDelay": 3250,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+              }
+            ]
+          }
+        ],
+        "type": 1,
+        "premium_type": 0,
+        "category_sku_id": "1428438925105430660",
+        "google_sku_ids": {
+          "5": "1428438924988125224_1428549456139260006",
+          "7": "1428438924988125224_1428549462904799292"
+        }
+      },
+      {
+        "sku_id": "1428438925021548544",
+        "name": "Yuji Itadori",
+        "summary": "Make your name stand out in servers and chats.",
+        "store_listing_id": "1428438925025869876",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1311521,
+            2032409
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 799,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 2,
+            "id": "1428438925038583818",
+            "sku_id": "1428438925021548544",
+            "asset": "nameplates/plastic/yuji_itadori/",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/dcd20573ebb59ce5f9bf5647fb57c82fe55e9bda4db84750553d0b83a8f7a054",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/4699b34a2c741b2b1f98530372f22d3a054967c957e77a590f209cfd89814d5f",
+              "video_url": "https://cdn.discordapp.com/assets/content/5050c625036c997b5426c21ea78e585653a8f21e2c70ffd0bcfab485e530f2b3"
+            },
+            "label": "Crimson red and black flowing patterns of cursed energy dance across the red nameplate",
+            "palette": "crimson"
+          }
+        ],
+        "type": 2,
+        "premium_type": 0,
+        "category_sku_id": "1428438925105430660",
+        "google_sku_ids": {
+          "5": "1428438925021548544_1428548000946589796",
+          "7": "1428438925021548544_1428548006948376576"
+        }
+      },
+      {
+        "sku_id": "1428438925046714408",
+        "name": "Satoru Gojo",
+        "summary": "Make your name stand out in servers and chats.",
+        "store_listing_id": "1428438925055098970",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1311521,
+            2032409
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 799,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 2,
+            "id": "1428438925059559548",
+            "sku_id": "1428438925046714408",
+            "asset": "nameplates/plastic/satoru_gojo/",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/a325058b82ad601e77865e1deb92f7fa6d8049ba8d924442f93c4176d2635d7a",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/6af8c0fbe6800e9af27267618fc3ca59638d5ce38cb0603911880c35a3f1b83a",
+              "video_url": "https://cdn.discordapp.com/assets/content/97d86485f812ba7758f0fde9320a9c27d62a8b1692c3dfa87eb66d8fb8f4ef6d"
+            },
+            "label": "Satoru Gojo's glowing blue eye and hand gesture with white spherical cursed energy surrounding the blue nameplate",
+            "palette": "cobalt"
+          }
+        ],
+        "type": 2,
+        "premium_type": 0,
+        "category_sku_id": "1428438925105430660",
+        "google_sku_ids": {
+          "5": "1428438925046714408_1428546026574450798",
+          "7": "1428438925046714408_1428546032601399419"
+        }
+      },
+      {
+        "sku_id": "1428438925067817093",
+        "name": "Ryomen Sukuna",
+        "summary": "Make your name stand out in servers and chats.",
+        "store_listing_id": "1428438925080395806",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1311521,
+            2032409
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 799,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 2,
+            "id": "1428438925084725408",
+            "sku_id": "1428438925067817093",
+            "asset": "nameplates/plastic/ryomen_sukuna/",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/77c5aa174d8e9fda759d5ce383668cb21a9b419fb27f8ce55299c29a8013f427",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/231f1f9a2a59a42edb27e49be63b5e4904fc158840c011aac10ded7563e13469",
+              "video_url": "https://cdn.discordapp.com/assets/content/5a6a04d9ed8b5a31c80d91e6bb628d47417920cfb7567ff20764ec5eed6a3166"
+            },
+            "label": "Red and yellow cursed energy tendrils and flowing black slashes surrounding a red nameplate.",
+            "palette": "crimson"
+          }
+        ],
+        "type": 2,
+        "premium_type": 0,
+        "category_sku_id": "1428438925105430660",
+        "google_sku_ids": {
+          "5": "1428438925067817093_1428548897814482954",
+          "7": "1428438925067817093_1428548904546471946"
+        }
+      }
+    ],
+    "catalog_banner_asset": {
+      "animated": "https://cdn.discordapp.com/assets/content/02f110f09f412209a1f795cd6aadde826d9cd62e2a5096596ebc00fa8a0ca974",
+      "static": "https://cdn.discordapp.com/assets/content/1de42e276494c5dc780848a9cc822f0e2277698c8a949bb1ffbab9aa80d3634f"
+    },
+    "hero_banner_asset": {
+      "animated": "https://cdn.discordapp.com/assets/content/571cd7859cfb0b47c6097f46ab82886a89aefa38a26489a5489f7725695266a9",
+      "static": "https://cdn.discordapp.com/assets/content/91ed8578661e96a1f9a1581f847dfc6544b7e7baeaddcde53744f12845e0b78a"
+    },
+    "hero_banner_config": {
+      "responsive": true,
+      "background_style": "linear-gradient(to bottom, rgba(33, 3, 4, 1), rgba(0, 0, 0, 1))"
+    },
+    "hero_logo": "1428438925155897485",
+    "hero_banner_url": "https://cdn.discordapp.com/assets/content/91ed8578661e96a1f9a1581f847dfc6544b7e7baeaddcde53744f12845e0b78a",
+    "hero_banner_animated_url": "https://cdn.discordapp.com/assets/content/571cd7859cfb0b47c6097f46ab82886a89aefa38a26489a5489f7725695266a9",
+    "hero_logo_url": "https://cdn.discordapp.com/assets/content/8eeb054ee39d499aa7281cefc9e64dffecdd80127d29c57eacd1c228893756d0",
+    "catalog_banner_url": "https://cdn.discordapp.com/assets/content/1de42e276494c5dc780848a9cc822f0e2277698c8a949bb1ffbab9aa80d3634f",
+    "catalog_banner_animated_url": "https://cdn.discordapp.com/assets/content/02f110f09f412209a1f795cd6aadde826d9cd62e2a5096596ebc00fa8a0ca974",
+    "featured_block_url": "https://cdn.discordapp.com/assets/content/ca6bf36dd0cf68a35b375f9da5d4ebfb9031af955a073a3b95bbb3aea8fb5d7e",
+    "logo_url": "https://cdn.discordapp.com/assets/content/ab7b48c164de463db9f1769daaab71539a7a6e4182bd1e3508e5febc5aea0fa8",
+    "pdp_bg_url": "https://cdn.discordapp.com/assets/content/adf1ff4ef65786155e9abe3cb3f583516e0a819d0f8a0e0f5276040a103759ab",
+    "mobile_banner_url": "https://cdn.discordapp.com/assets/content/ef4024d12e9de82b923663e16c16dba6ce764ff1277c9d29fa51281ea2ce7de2",
+    "mobile_bg_url": "https://cdn.discordapp.com/assets/content/81e7d42c376a4a52fc2da798f29ba84f75cc4b3a55e34bdbc4b1aa722ef3b5b0",
+    "hero_banner_display_config": {
+      "desktop_max_height": null,
+      "mobile_max_height": null,
+      "responsive": true,
+      "background_style": "linear-gradient(to bottom, rgba(33, 3, 4, 1), rgba(0, 0, 0, 1))"
+    },
+    "hero_logo_display_config": {
+      "desktop_max_height": 140,
+      "mobile_max_height": null,
+      "responsive": null,
+      "background_style": null
+    }
   }
 ]
