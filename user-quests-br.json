@@ -2963,7 +2963,26 @@
         },
         "share_policy": "shareable_everywhere"
       },
-      "user_status": null,
+      "user_status": {
+        "user_id": "1428841673236021251",
+        "quest_id": "1428139680477614150",
+        "enrolled_at": "2025-10-17T21:05:10.409558+00:00",
+        "completed_at": null,
+        "claimed_at": null,
+        "claimed_tier": null,
+        "last_stream_heartbeat_at": null,
+        "stream_progress_seconds": 0,
+        "dismissed_quest_content": 0,
+        "progress": {
+          "WATCH_VIDEO": {
+            "value": 3,
+            "event_name": "WATCH_VIDEO",
+            "updated_at": "2025-10-17T21:05:16.152928+00:00",
+            "completed_at": null,
+            "heartbeat": null
+          }
+        }
+      },
       "targeted_content": [],
       "preview": false
     },
@@ -3317,7 +3336,18 @@
         },
         "share_policy": "shareable_everywhere"
       },
-      "user_status": null,
+      "user_status": {
+        "user_id": "1428841673236021251",
+        "quest_id": "1423010532574756945",
+        "enrolled_at": "2025-10-17T21:05:03.856743+00:00",
+        "completed_at": null,
+        "claimed_at": null,
+        "claimed_tier": null,
+        "last_stream_heartbeat_at": null,
+        "stream_progress_seconds": 0,
+        "dismissed_quest_content": 0,
+        "progress": {}
+      },
       "targeted_content": [],
       "preview": false
     },
@@ -4725,7 +4755,26 @@
         },
         "share_policy": "shareable_everywhere"
       },
-      "user_status": null,
+      "user_status": {
+        "user_id": "1428841673236021251",
+        "quest_id": "1425291943302398073",
+        "enrolled_at": "2025-10-17T21:05:17.261071+00:00",
+        "completed_at": "2025-10-17T21:05:42.200048+00:00",
+        "claimed_at": null,
+        "claimed_tier": null,
+        "last_stream_heartbeat_at": null,
+        "stream_progress_seconds": 0,
+        "dismissed_quest_content": 0,
+        "progress": {
+          "WATCH_VIDEO": {
+            "value": 22,
+            "event_name": "WATCH_VIDEO",
+            "updated_at": "2025-10-17T21:05:42.200051+00:00",
+            "completed_at": "2025-10-17T21:05:42.200048+00:00",
+            "heartbeat": null
+          }
+        }
+      },
       "targeted_content": [],
       "preview": false
     }

@@ -1,0 +1,2730 @@
+{
+  "quests": [
+    {
+      "id": "1420524848911876096",
+      "config": {
+        "id": "1420524848911876096",
+        "config_version": 2,
+        "starts_at": "2025-09-30T17:00:36+00:00",
+        "expires_at": "2025-10-07T00:00:36+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://www.kingofmeat.com/pre-order?utm_source=Discord",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "1420526004304351323.jpg",
+          "hero_video": "1420526039666528407.mp4",
+          "quest_bar_hero": "1420525709440454787.jpg",
+          "quest_bar_hero_video": "1420526039666528407.mp4",
+          "game_tile": "1420526173338734652.png",
+          "logotype": "1420526168511217847.png",
+          "game_tile_light": "1420526113985269872.png",
+          "game_tile_dark": "1420526113985269872.png",
+          "logotype_light": "1420526076890841178.png",
+          "logotype_dark": "1420526076890841178.png"
+        },
+        "colors": {
+          "primary": "#B8860B",
+          "secondary": "#00113E"
+        },
+        "messages": {
+          "quest_name": "King of Meat-Avatar-",
+          "game_title": "Bestellt \"King of Meat\" jetzt vor, um ab dem 2. Oktober frühzeitig Zugang zu erhalten.",
+          "game_publisher": "Amazon Games"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "WATCH_VIDEO": {
+              "event_name": "WATCH_VIDEO",
+              "target": 104
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 104,
+              "assets": {
+                "video": {
+                  "url": "1420532368300703855_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "1420532780390940754.jpg",
+                  "caption": "1422277558778466304.vtt",
+                  "transcript": "1422277617880530985.txt"
+                },
+                "video_low_res": {
+                  "url": "1420532368300703855_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "1420532780390940754.jpg",
+                  "caption": "1422277558778466304.vtt",
+                  "transcript": "1422277617880530985.txt"
+                },
+                "video_hls": {
+                  "url": "1420532368300703855.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "1420532780390940754.jpg",
+                  "caption": "1422277558778466304.vtt",
+                  "transcript": "1422277617880530985.txt"
+                }
+              },
+              "messages": {
+                "video_title": "Early Access Trailer",
+                "video_end_cta_title": "Early Access Trailer",
+                "video_end_cta_subtitle": "Altersfreigabe: ab 13 Jahren",
+                "video_end_cta_button_label": "Jetzt kaufen"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 3,
+              "sku_id": "1420527272602894387",
+              "asset": "1420535312400126175.mp4",
+              "asset_video": null,
+              "messages": {
+                "name": "KOM Avatar Decoration",
+                "name_with_article": "a KOM Avatar Decoration",
+                "redemption_instructions_by_platform": {
+                  "0": "Default"
+                }
+              },
+              "expires_at": "2025-12-06T00:00:00+00:00",
+              "expires_at_premium": null,
+              "expiration_mode": 3
+            }
+          ],
+          "rewards_expire_at": "2025-11-05T23:00:36+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "video_metadata": {
+          "messages": {
+            "video_title": "Early Access Trailer",
+            "video_end_cta_title": "Early Access Trailer",
+            "video_end_cta_subtitle": "Altersfreigabe: ab 13 Jahren",
+            "video_end_cta_button_label": "Jetzt kaufen"
+          },
+          "assets": {
+            "video_player_video_hls": "1420532256107266059.m3u8",
+            "video_player_video": "1420532256107266059_1080.mp4",
+            "video_player_thumbnail": "1420532730617266216.jpg",
+            "video_player_video_low_res": "1420532256107266059_720.mp4",
+            "video_player_caption": "1420534859604037774.vtt",
+            "video_player_transcript": "1420534888305528897.txt",
+            "quest_bar_preview_video": null,
+            "quest_bar_preview_thumbnail": null,
+            "quest_home_video": null
+          }
+        },
+        "share_policy": "shareable_everywhere"
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
+      "id": "1427758897501835264",
+      "config": {
+        "id": "1427758897501835264",
+        "config_version": 2,
+        "starts_at": "2025-10-15T17:00:07+00:00",
+        "expires_at": "2025-10-22T00:00:07+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://www.warframe.com/game/about",
+          "id": "1402418586244612216",
+          "name": "Warframe"
+        },
+        "assets": {
+          "hero": "1427761767655936130.jpg",
+          "hero_video": "1427761732113137848.mp4",
+          "quest_bar_hero": "1427761685912879324.jpg",
+          "quest_bar_hero_video": "1427761732113137848.mp4",
+          "game_tile": "1427761978222579762.png",
+          "logotype": "1427761977270341734.png",
+          "game_tile_light": "1427761953392300183.png",
+          "game_tile_dark": "1427761953392300183.png",
+          "logotype_light": "1427761870999126088.png",
+          "logotype_dark": "1427761870999126088.png"
+        },
+        "colors": {
+          "primary": "#136387",
+          "secondary": "#133644"
+        },
+        "messages": {
+          "quest_name": "Warframe",
+          "game_title": "Warframe",
+          "game_publisher": "Digital Extremes"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "event_name": "PLAY_ON_DESKTOP",
+              "target": 900
+            },
+            "PLAY_ON_XBOX": {
+              "event_name": "PLAY_ON_XBOX",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "event_name": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1402418586244612216"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 3,
+              "sku_id": "1427760915998314568",
+              "asset": "1427761184358268979.mp4",
+              "asset_video": null,
+              "messages": {
+                "name": "Warframe Clem Avatar Decoration ",
+                "name_with_article": "a Warframe Clem Avatar Decoration",
+                "redemption_instructions_by_platform": {
+                  "0": "Default"
+                }
+              },
+              "expires_at": "2025-12-22T01:00:00+00:00",
+              "expires_at_premium": null,
+              "expiration_mode": 3
+            }
+          ],
+          "rewards_expire_at": "2025-11-21T00:00:07+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere"
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
+      "id": "1432436088508780675",
+      "config": {
+        "id": "1432436088508780675",
+        "config_version": 2,
+        "starts_at": "2025-10-30T17:00:36+00:00",
+        "expires_at": "2025-11-10T00:00:36+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://store.steampowered.com/app/3241660/REPO/",
+          "id": "1344368447928401961",
+          "name": "R.E.P.O."
+        },
+        "assets": {
+          "hero": "1432437559199273071.jpg",
+          "hero_video": null,
+          "quest_bar_hero": "1432437739399151616.jpg",
+          "quest_bar_hero_video": null,
+          "game_tile": "1432437903144910868.png",
+          "logotype": "1432437902058455211.png",
+          "game_tile_light": "1432437788439220414.png",
+          "game_tile_dark": "1432437788439220414.png",
+          "logotype_light": "1432437837046747296.png",
+          "logotype_dark": "1432437868185391154.png"
+        },
+        "colors": {
+          "primary": "#744500",
+          "secondary": "#090705"
+        },
+        "messages": {
+          "quest_name": " R.E.P.O. Monster",
+          "game_title": "R.E.P.O.",
+          "game_publisher": "Semiwork"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "event_name": "PLAY_ON_DESKTOP",
+              "target": 900
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1344368447928401961"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 3,
+              "sku_id": "1432438506130636801",
+              "asset": "1432438676373377074.mp4",
+              "asset_video": null,
+              "messages": {
+                "name": "R.E.P.O. Monster Avatar Decoration ",
+                "name_with_article": "a R.E.P.O. Monster Avatar Decoration ",
+                "redemption_instructions_by_platform": {
+                  "0": "Default"
+                }
+              },
+              "expires_at": "2026-01-09T00:00:00+00:00",
+              "expires_at_premium": null,
+              "expiration_mode": 3
+            }
+          ],
+          "rewards_expire_at": "2025-12-10T00:00:36+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere"
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
+      "id": "1420098259002724373",
+      "config": {
+        "id": "1420098259002724373",
+        "config_version": 2,
+        "starts_at": "2025-10-02T17:00:29+00:00",
+        "expires_at": "2025-10-08T23:00:29+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23,
+          26
+        ],
+        "application": {
+          "link": "https://pplx.ai/discord-comet",
+          "id": "1415399944587706441",
+          "name": "the Comet AI browser"
+        },
+        "assets": {
+          "hero": "1420557893706715206.jpg",
+          "hero_video": "1423744787613356206.mp4",
+          "quest_bar_hero": "1420103416700731412.jpg",
+          "quest_bar_hero_video": "1423744787613356206.mp4",
+          "game_tile": "1420109033171456010.png",
+          "logotype": "1420109032030601336.png",
+          "game_tile_light": "1420106968575508560.png",
+          "game_tile_dark": "1420107018240393237.png",
+          "logotype_light": "1420106826418225243.png",
+          "logotype_dark": "1420106869325959280.png"
+        },
+        "colors": {
+          "primary": "#20808D",
+          "secondary": "#091717"
+        },
+        "messages": {
+          "quest_name": "Comet AI Browser Play",
+          "game_title": "the Comet AI Browser",
+          "game_publisher": "Perplexity"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "event_name": "PLAY_ON_DESKTOP",
+              "target": 900
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1415399944587706441"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "5,000 Orbs",
+                "name_with_article": "5,000 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "Default"
+                }
+              },
+              "orb_quantity": 5000
+            }
+          ],
+          "rewards_expire_at": "2025-11-07T00:00:29+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere"
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
+      "id": "1422728852744179862",
+      "config": {
+        "id": "1422728852744179862",
+        "config_version": 2,
+        "starts_at": "2025-10-06T17:00:31+00:00",
+        "expires_at": "2025-10-13T00:00:31+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=VALVetoInvite",
+          "id": "700136079562375258",
+          "name": "VALORANT"
+        },
+        "assets": {
+          "hero": "1422730700292886538.jpg",
+          "hero_video": "1423081096764981279.mp4",
+          "quest_bar_hero": "1422730588464353290.jpg",
+          "quest_bar_hero_video": "1423045267200147538.mp4",
+          "game_tile": "1422731455741693992.png",
+          "logotype": "1422731450997932052.png",
+          "game_tile_light": "1422730841360044042.png",
+          "game_tile_dark": "1422730841360044042.png",
+          "logotype_light": "1422730799001637054.png",
+          "logotype_dark": "1422730799001637054.png"
+        },
+        "colors": {
+          "primary": "#57805B",
+          "secondary": "#57805B"
+        },
+        "messages": {
+          "quest_name": "„VALORANT INVITE“",
+          "game_title": "VALORANT",
+          "game_publisher": "Riot Games"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "event_name": "PLAY_ON_DESKTOP",
+              "target": 900
+            },
+            "PLAY_ON_XBOX": {
+              "event_name": "PLAY_ON_XBOX",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "event_name": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "700136079562375258"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 3,
+              "sku_id": "1422723412052279357",
+              "asset": "1422731388674904084.mp4",
+              "asset_video": null,
+              "messages": {
+                "name": "„VALORANT INVITE“-QUEST",
+                "name_with_article": "„VALORANT INVITE“-QUEST",
+                "redemption_instructions_by_platform": {
+                  "0": "Default"
+                }
+              },
+              "expires_at": "2025-12-12T01:00:00+00:00",
+              "expires_at_premium": null,
+              "expiration_mode": 3
+            }
+          ],
+          "rewards_expire_at": "2025-11-12T00:00:31+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere"
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
+      "id": "1432424574561026070",
+      "config": {
+        "id": "1432424574561026070",
+        "config_version": 2,
+        "starts_at": "2025-11-01T17:00:51+00:00",
+        "expires_at": "2025-11-11T00:00:51+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://app.adjust.com/1thx73qj?campaign=LOL25&adgroup=S3_WORLDS&creative=Discord_Quest&utm_source=discord&utm_medium=social&utm_campaign=LOL25-S3Worlds&utm_content=Discord_Quest",
+          "id": "1402418696126992445",
+          "name": "League of Legends"
+        },
+        "assets": {
+          "hero": "1432426728185266176.jpeg",
+          "hero_video": null,
+          "quest_bar_hero": "1432426991310737448.jpeg",
+          "quest_bar_hero_video": null,
+          "game_tile": "1432427151231287426.png",
+          "logotype": "1432427150283112458.png",
+          "game_tile_light": "1432427133174812682.png",
+          "game_tile_dark": "1432427133174812682.png",
+          "logotype_light": "1432427050840621208.png",
+          "logotype_dark": "1432427107115466904.png"
+        },
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Walzer mit einem Dämon",
+          "game_title": "League of Legends",
+          "game_publisher": "Riot Games"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "event_name": "PLAY_ON_DESKTOP",
+              "target": 900
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1402418696126992445"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 3,
+              "sku_id": "1432427447093039205",
+              "asset": "1432427718519033896.mp4",
+              "asset_video": null,
+              "messages": {
+                "name": "Atakhans Aura der Bosheit",
+                "name_with_article": "Atakhans Aura der Bosheit",
+                "redemption_instructions_by_platform": {
+                  "0": "Default"
+                }
+              },
+              "expires_at": "2026-01-10T00:00:00+00:00",
+              "expires_at_premium": null,
+              "expiration_mode": 3
+            }
+          ],
+          "rewards_expire_at": "2025-12-11T00:00:51+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere"
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
+      "id": "1419750903006630042",
+      "config": {
+        "id": "1419750903006630042",
+        "config_version": 2,
+        "starts_at": "2025-09-26T17:50:12+00:00",
+        "expires_at": "2025-10-06T00:00:12+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://www.ea.com/games/ea-sports-fc/fc-26/buy",
+          "id": "1421154726023532544",
+          "name": "EA SPORTS FC 26"
+        },
+        "assets": {
+          "hero": "1419753440984301648.jpg",
+          "hero_video": null,
+          "quest_bar_hero": "1419753483602759841.jpg",
+          "quest_bar_hero_video": null,
+          "game_tile": "1419753742680457367.png",
+          "logotype": "1419753737928446035.png",
+          "game_tile_light": "1419753674179084379.png",
+          "game_tile_dark": "1419753674179084379.png",
+          "logotype_light": "1419753717745582210.png",
+          "logotype_dark": "1419753717745582210.png"
+        },
+        "colors": {
+          "primary": "#0D8C36",
+          "secondary": "#151616"
+        },
+        "messages": {
+          "quest_name": "EA SPORTS FC 26",
+          "game_title": "EA SPORTS FC 26",
+          "game_publisher": "EA SPORTS"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "event_name": "PLAY_ON_DESKTOP",
+              "target": 900
+            },
+            "PLAY_ON_XBOX": {
+              "event_name": "PLAY_ON_XBOX",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "event_name": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1421154726023532544"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 3,
+              "sku_id": "1420482600266502327",
+              "asset": "1420509011492733022.mp4",
+              "asset_video": null,
+              "messages": {
+                "name": "FC 26 Icon Avatar Decoration",
+                "name_with_article": "a FC 26 Icon Avatar Decoration",
+                "redemption_instructions_by_platform": {
+                  "0": "Default"
+                }
+              },
+              "expires_at": "2025-12-08T01:00:00+00:00",
+              "expires_at_premium": null,
+              "expiration_mode": 3
+            }
+          ],
+          "rewards_expire_at": "2025-11-05T00:00:12+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere"
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
+      "id": "1425276915639652382",
+      "config": {
+        "id": "1425276915639652382",
+        "config_version": 2,
+        "starts_at": "2025-10-09T19:30:37+00:00",
+        "expires_at": "2025-10-16T00:00:37+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://bpsr.onelink.me/Ijsy/m8kb1moj",
+          "id": "1425830254437601330",
+          "name": "Blue Protocol: Star Resonance"
+        },
+        "assets": {
+          "hero": "1425278856394178661.jpeg",
+          "hero_video": "1425278969875271790.mp4",
+          "quest_bar_hero": "1425278928339337306.jpg",
+          "quest_bar_hero_video": "1425278969875271790.mp4",
+          "game_tile": "1425279098996920340.png",
+          "logotype": "1425279097826840637.png",
+          "game_tile_light": "1425279077018898645.png",
+          "game_tile_dark": "1425279077018898645.png",
+          "logotype_light": "1425279048526860398.png",
+          "logotype_dark": "1425279048526860398.png"
+        },
+        "colors": {
+          "primary": "#304FB1",
+          "secondary": "#5E3585"
+        },
+        "messages": {
+          "quest_name": "PLAY THE LATEST ANIME MMORPG",
+          "game_title": "BLUE PROTOCOL STAR RESONANCE",
+          "game_publisher": "A PLUS JAPAN"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "event_name": "PLAY_ON_DESKTOP",
+              "target": 900
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1425830254437601330"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 orbs",
+                "name_with_article": "700 orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "Default"
+                }
+              },
+              "orb_quantity": 700
+            }
+          ],
+          "rewards_expire_at": "2025-11-15T00:00:37+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere"
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
+      "id": "1431027486506094623",
+      "config": {
+        "id": "1431027486506094623",
+        "config_version": 2,
+        "starts_at": "2025-10-24T17:00:19+00:00",
+        "expires_at": "2025-10-31T00:00:19+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://luna.amazon.com/?asin=3uqlui&ref_=dvmLaunchLaunch30vid_dig",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "1431037565020016810.jpg",
+          "hero_video": "1431038262113341642.mp4",
+          "quest_bar_hero": "1431037508191256667.jpg",
+          "quest_bar_hero_video": "1431038262113341642.mp4",
+          "game_tile": "1431038526744690729.png",
+          "logotype": "1431038525691789582.png",
+          "game_tile_light": "1431038495152935035.png",
+          "game_tile_dark": "1431038495152935035.png",
+          "logotype_light": "1431038383051903028.png",
+          "logotype_dark": "1431038442208231545.png"
+        },
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Amazon Luna",
+          "game_title": "The all-new Amazon Luna",
+          "game_publisher": "Amazon Luna"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "WATCH_VIDEO": {
+              "event_name": "WATCH_VIDEO",
+              "target": 29
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "1431036702994075709_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "1431036996201091202.jpg"
+                },
+                "video_low_res": {
+                  "url": "1431036702994075709_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "1431036996201091202.jpg"
+                },
+                "video_hls": {
+                  "url": "1431036702994075709.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "1431036996201091202.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "all-new Amazon Luna Video",
+                "video_end_cta_title": "Learn More",
+                "video_end_cta_subtitle": "No Setup. No Console. Play it with Prime.",
+                "video_end_cta_button_label": "Mehr erfahren"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "Default"
+                }
+              },
+              "orb_quantity": 700
+            }
+          ],
+          "rewards_expire_at": "2025-11-30T00:00:19+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "video_metadata": {
+          "messages": {
+            "video_title": "all-new Amazon Luna Video",
+            "video_end_cta_title": "Learn More",
+            "video_end_cta_subtitle": "No Setup. No Console. Play it with Prime.",
+            "video_end_cta_button_label": "Mehr erfahren"
+          },
+          "assets": {
+            "video_player_video_hls": "1431036702994075709.m3u8",
+            "video_player_video": "1431036702994075709_1080.mp4",
+            "video_player_thumbnail": "1431036996201091202.jpg",
+            "video_player_video_low_res": "1431036702994075709_720.mp4",
+            "video_player_caption": null,
+            "video_player_transcript": null,
+            "quest_bar_preview_video": null,
+            "quest_bar_preview_thumbnail": null,
+            "quest_home_video": null
+          }
+        },
+        "share_policy": "shareable_everywhere"
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
+      "id": "1428083229587669155",
+      "config": {
+        "id": "1428083229587669155",
+        "config_version": 2,
+        "starts_at": "2025-10-16T17:00:54+00:00",
+        "expires_at": "2025-10-27T00:00:54+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://ninja.kiwi/discord_quest25",
+          "id": "1402418571715543120",
+          "name": "Bloons TD 6"
+        },
+        "assets": {
+          "hero": "1428084144910631032.jpg",
+          "hero_video": null,
+          "quest_bar_hero": "1428084112597455058.jpg",
+          "quest_bar_hero_video": null,
+          "game_tile": "1428084348778975253.png",
+          "logotype": "1428131823686254643.png",
+          "game_tile_light": "1428084224807932006.png",
+          "game_tile_dark": "1428084224807932006.png",
+          "logotype_light": "1428131792161996843.png",
+          "logotype_dark": "1428131792161996843.png"
+        },
+        "colors": {
+          "primary": "#D90000",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Bloons TD 6 Dart Monkey",
+          "game_title": "Bloons TD 6",
+          "game_publisher": "Ninja Kiwi"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "event_name": "PLAY_ON_DESKTOP",
+              "target": 900
+            },
+            "PLAY_ON_XBOX": {
+              "event_name": "PLAY_ON_XBOX",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "event_name": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1402418571715543120"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 3,
+              "sku_id": "1428085489285599233",
+              "asset": "1428085593845399682.mp4",
+              "asset_video": null,
+              "messages": {
+                "name": "Dart Monkey Avatar Decoration",
+                "name_with_article": "a Dart Monkey Avatar Decoration",
+                "redemption_instructions_by_platform": {
+                  "0": "Default"
+                }
+              },
+              "expires_at": "2025-12-26T01:00:00+00:00",
+              "expires_at_premium": null,
+              "expiration_mode": 3
+            }
+          ],
+          "rewards_expire_at": "2025-11-26T00:00:54+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere"
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
+      "id": "1424900089528451244",
+      "config": {
+        "id": "1424900089528451244",
+        "config_version": 2,
+        "starts_at": "2025-10-07T17:00:14+00:00",
+        "expires_at": "2025-10-14T00:00:14+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://bpsr.onelink.me/Ijsy/rf8s8a2v",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "1424902442801172563.jpg",
+          "hero_video": "1424902410903490632.mp4",
+          "quest_bar_hero": "1424902376002682950.jpg",
+          "quest_bar_hero_video": "1424902410903490632.mp4",
+          "game_tile": "1424902690307313716.png",
+          "logotype": "1424902689275248835.png",
+          "game_tile_light": "1424902660146073740.png",
+          "game_tile_dark": "1424902660146073740.png",
+          "logotype_light": "1424902582530478081.png",
+          "logotype_dark": "1424902625085882490.png"
+        },
+        "colors": {
+          "primary": "#304FB1",
+          "secondary": "#5E3585"
+        },
+        "messages": {
+          "quest_name": "Blue Protocol: Star Resonance",
+          "game_title": "New MMO Launches on October 9th",
+          "game_publisher": "A Plus Japan"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "WATCH_VIDEO": {
+              "event_name": "WATCH_VIDEO",
+              "target": 85
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 85,
+              "assets": {
+                "video": {
+                  "url": "1424903662702039161_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "1424903819573203056.jpg"
+                },
+                "video_low_res": {
+                  "url": "1424903662702039161_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "1424903819573203056.jpg"
+                },
+                "video_hls": {
+                  "url": "1424903662702039161.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "1424903819573203056.jpg"
+                }
+              },
+              "messages": {
+                "video_title": " Blue Protocol: Star Resonance Trailer",
+                "video_end_cta_title": " Blue Protocol: Star Resonance",
+                "video_end_cta_subtitle": "Your story awaits in Blue Protocol: Star Resonance",
+                "video_end_cta_button_label": "Spiel holen"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 3,
+              "sku_id": "1424960507143524495",
+              "asset": "1424960568372101270.mp4",
+              "asset_video": null,
+              "messages": {
+                "name": "Airona Fireworks Avatar Decoration",
+                "name_with_article": "an Airona Fireworks Avatar Decoration",
+                "redemption_instructions_by_platform": {
+                  "0": "Default"
+                }
+              },
+              "expires_at": "2025-12-13T01:00:00+00:00",
+              "expires_at_premium": null,
+              "expiration_mode": 3
+            }
+          ],
+          "rewards_expire_at": "2025-11-13T00:00:14+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "video_metadata": {
+          "messages": {
+            "video_title": " Blue Protocol: Star Resonance Trailer",
+            "video_end_cta_title": " Blue Protocol: Star Resonance",
+            "video_end_cta_subtitle": "Your story awaits in Blue Protocol: Star Resonance",
+            "video_end_cta_button_label": "Spiel holen"
+          },
+          "assets": {
+            "video_player_video_hls": "1424903662702039161.m3u8",
+            "video_player_video": "1424903662702039161_1080.mp4",
+            "video_player_thumbnail": "1424903819573203056.jpg",
+            "video_player_video_low_res": "1424903662702039161_720.mp4",
+            "video_player_caption": null,
+            "video_player_transcript": null,
+            "quest_bar_preview_video": null,
+            "quest_bar_preview_thumbnail": null,
+            "quest_home_video": null
+          }
+        },
+        "share_policy": "shareable_everywhere"
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
+      "id": "1422705108319338546",
+      "config": {
+        "id": "1422705108319338546",
+        "config_version": 2,
+        "starts_at": "2025-10-07T17:00:10+00:00",
+        "expires_at": "2025-10-14T00:00:10+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://www.kingofmeat.com/pre-order?utm_source=Discord",
+          "id": "1424836075427332106",
+          "name": "King of Meat"
+        },
+        "assets": {
+          "hero": "1422706899312447589.jpg",
+          "hero_video": "1422706819423277157.mp4",
+          "quest_bar_hero": "1422706868949618688.jpg",
+          "quest_bar_hero_video": "1422706819423277157.mp4",
+          "game_tile": "1422707022960529489.png",
+          "logotype": "1422707021831995413.png",
+          "game_tile_light": "1422706979507535872.png",
+          "game_tile_dark": "1422706979507535872.png",
+          "logotype_light": "1422706953242804296.png",
+          "logotype_dark": "1422706953242804296.png"
+        },
+        "colors": {
+          "primary": "#B8860B",
+          "secondary": "#00113E"
+        },
+        "messages": {
+          "quest_name": "Spielquest von \"King of Meat\"",
+          "game_title": "King of Meat",
+          "game_publisher": "Amazon Games"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "event_name": "PLAY_ON_DESKTOP",
+              "target": 900
+            },
+            "PLAY_ON_XBOX": {
+              "event_name": "PLAY_ON_XBOX",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "event_name": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1424836075427332106"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 1,
+              "sku_id": "1422705108319338547",
+              "asset": "1422707666538467439.png",
+              "asset_video": null,
+              "messages": {
+                "name": "Bombheads Exploklinge & Bummschutz",
+                "name_with_article": "Bombheads Exploklinge & Bummschutz",
+                "redemption_instructions_by_platform": {
+                  "0": "Herzlichen Glückwunsch, du hast eine Belohnung im Spiel \"King of Meat\" gewonnen! Um sie einzufordern, befolge bitte diese Schritte:  \no\tGehe auf die \"King of Meat\"-Website, um deinen Code zu aktivieren.  \no\tWähle deine bevorzugte Plattform aus und log dich in dein Konto ein.  \no\tGib den Code ein, den du bei der Discord-Quest erhalten hast, und klicke auf \"Belohnung einlösen\". Du solltest dann eine Bestätigungsmeldung sehen.  \no\tDer eingelöste Gegenstand wird in deinem Inventar angezeigt, sobald du im Spiel den Rang \"Herausforderer 2\" erreicht hast.  \n\n**Belohnung verfügbar: 7.10.2025 um 19:00 Uhr – 13.10.2025 um 1:59 Uhr (mitteleuropäische Zeit)**"
+                }
+              },
+              "approximate_count": null,
+              "redemption_link": null
+            }
+          ],
+          "rewards_expire_at": "2025-11-13T00:00:10+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere"
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
+      "id": "1430279721777762495",
+      "config": {
+        "id": "1430279721777762495",
+        "config_version": 2,
+        "starts_at": "2025-10-24T17:00:58+00:00",
+        "expires_at": "2025-11-04T00:00:58+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://game.ea.com/redirect?campaignName=PVZR_UA_US_SOC_DISC_LAUNCH_ALL&caudience=ALL-BROAD&ccreative=DISCORD",
+          "id": "1431009382950506536",
+          "name": "Plants vs. Zombies™: Replanted"
+        },
+        "assets": {
+          "hero": "1430282896647917750.jpg",
+          "hero_video": null,
+          "quest_bar_hero": "1430283016080588931.jpg",
+          "quest_bar_hero_video": null,
+          "game_tile": "1430283974000771152.png",
+          "logotype": "1430283969072726026.png",
+          "game_tile_light": "1430283794614714545.png",
+          "game_tile_dark": "1430283794614714545.png",
+          "logotype_light": "1430283878375100487.png",
+          "logotype_dark": "1430283878375100487.png"
+        },
+        "colors": {
+          "primary": "#8B4F9F",
+          "secondary": "#7EC850"
+        },
+        "messages": {
+          "quest_name": "PvZ Replanted",
+          "game_title": "Plants vs. Zombies: Replanted",
+          "game_publisher": "Electronic Arts"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "event_name": "PLAY_ON_DESKTOP",
+              "target": 900
+            },
+            "PLAY_ON_XBOX": {
+              "event_name": "PLAY_ON_XBOX",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "event_name": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1431009382950506536"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 orbs",
+                "name_with_article": "700 orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "Default"
+                }
+              },
+              "orb_quantity": 700
+            }
+          ],
+          "rewards_expire_at": "2025-12-04T00:00:58+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere"
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
+      "id": "1428139680477614150",
+      "config": {
+        "id": "1428139680477614150",
+        "config_version": 2,
+        "starts_at": "2025-10-17T17:00:13+00:00",
+        "expires_at": "2025-10-24T00:00:13+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://arcraiders.com/en/?utm_campaign=pre-order&utm_source=discord&utm_term=us&utm_content=generalgaming&utm_medium=custom",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "1428468561222963361.jpg",
+          "hero_video": "1428147423267520592.mp4",
+          "quest_bar_hero": "1428468689782575174.jpg",
+          "quest_bar_hero_video": "1428147423267520592.mp4",
+          "game_tile": "1428148237658755163.png",
+          "logotype": "1428478713393319988.png",
+          "game_tile_light": "1428148120608440473.png",
+          "game_tile_dark": "1428148120608440473.png",
+          "logotype_light": "1428478675044794549.png",
+          "logotype_dark": "1428468751531118643.png"
+        },
+        "colors": {
+          "primary": "#ECAA09",
+          "secondary": "#050218"
+        },
+        "messages": {
+          "quest_name": "ARC Raiders",
+          "game_title": " JETZT VORBESTELLEN",
+          "game_publisher": "Embark Studios"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "WATCH_VIDEO": {
+              "event_name": "WATCH_VIDEO",
+              "target": 91
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 91,
+              "assets": {
+                "video": {
+                  "url": "1429137343172051004_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "1428145257664483439.png",
+                  "caption": "1428147071608815859.vtt",
+                  "transcript": "1428147042013810719.txt"
+                },
+                "video_low_res": {
+                  "url": "1429137343172051004_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "1428145257664483439.png",
+                  "caption": "1428147071608815859.vtt",
+                  "transcript": "1428147042013810719.txt"
+                },
+                "video_hls": {
+                  "url": "1429137343172051004.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "1428145257664483439.png",
+                  "caption": "1428147071608815859.vtt",
+                  "transcript": "1428147042013810719.txt"
+                }
+              },
+              "messages": {
+                "video_title": "Pre-Order Trailer",
+                "video_end_cta_title": "Arc Raiders",
+                "video_end_cta_subtitle": "Verfügbar für PS5, Xbox Series X|S und PC.",
+                "video_end_cta_button_label": "Jetzt vorbestellen"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 orbs",
+                "name_with_article": "700 orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "Default"
+                }
+              },
+              "orb_quantity": 700
+            }
+          ],
+          "rewards_expire_at": "2025-11-23T00:00:13+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "video_metadata": {
+          "messages": {
+            "video_title": "Pre-Order Trailer",
+            "video_end_cta_title": "Arc Raiders",
+            "video_end_cta_subtitle": "Verfügbar für PS5, Xbox Series X|S und PC.",
+            "video_end_cta_button_label": "Jetzt vorbestellen"
+          },
+          "assets": {
+            "video_player_video_hls": "1429137343172051004.m3u8",
+            "video_player_video": "1429137343172051004_1080.mp4",
+            "video_player_thumbnail": "1428145117092642951.png",
+            "video_player_video_low_res": "1429137343172051004_720.mp4",
+            "video_player_caption": "1428147071608815859.vtt",
+            "video_player_transcript": "1428147042013810719.txt",
+            "quest_bar_preview_video": null,
+            "quest_bar_preview_thumbnail": null,
+            "quest_home_video": null
+          }
+        },
+        "share_policy": "shareable_everywhere"
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
+      "id": "1432410015721062480",
+      "config": {
+        "id": "1432410015721062480",
+        "config_version": 2,
+        "starts_at": "2025-10-30T17:00:00+00:00",
+        "expires_at": "2025-11-03T18:30:00+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://arcraiders.com/en/?utm_campaign=launch&utm_source=discord&utm_term=us&utm_content=broadgaming&utm_medium=custom",
+          "id": "1432419613165228174",
+          "name": "ARC Raiders"
+        },
+        "assets": {
+          "hero": "1432435244337725637.jpg",
+          "hero_video": null,
+          "quest_bar_hero": "1433471392216776734.jpg",
+          "quest_bar_hero_video": null,
+          "game_tile": "1432415635220070430.png",
+          "logotype": "1432415634175692811.png",
+          "game_tile_light": "1432415581017079859.png",
+          "game_tile_dark": "1432415581017079859.png",
+          "logotype_light": "1432415439446610050.png",
+          "logotype_dark": "1432415459382399098.png"
+        },
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "ARC Raiders",
+          "game_title": "ARC Raiders",
+          "game_publisher": "Embark Studios"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "event_name": "PLAY_ON_DESKTOP",
+              "target": 900
+            },
+            "PLAY_ON_XBOX": {
+              "event_name": "PLAY_ON_XBOX",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "event_name": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1432419613165228174"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 1,
+              "sku_id": "1432410015721062481",
+              "asset": "1432416048837300364.jpg",
+              "asset_video": null,
+              "messages": {
+                "name": "Hiker Backpack, Sky Ice",
+                "name_with_article": "a Hiker Backpack, Sky Ice",
+                "redemption_instructions_by_platform": {
+                  "0": "To redeem your ARC Raiders launch Quest gift code, visit Embark's code redemption website and log in to your account: https://id.embark.games/id/arc-raiders/giveaway  \nPaste your gift code to obtain your Hiker Backpack - Sky Ice. \n\n**Requires ARC Raiders; redeem by 6th November 2025.**"
+                }
+              },
+              "approximate_count": null,
+              "redemption_link": null
+            }
+          ],
+          "rewards_expire_at": "2025-12-03T18:30:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere"
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
+      "id": "1423010532574756945",
+      "config": {
+        "id": "1423010532574756945",
+        "config_version": 2,
+        "starts_at": "2025-10-08T17:00:49+00:00",
+        "expires_at": "2025-10-18T00:00:49+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://play2xko.com/?utm_source=discord&utm_medium=paid&utm_campaign=2XKOEarlyAccess",
+          "id": "1417993715611467826",
+          "name": "2XKO"
+        },
+        "assets": {
+          "hero": "1423011710087991296.jpg",
+          "hero_video": null,
+          "quest_bar_hero": "1423066197204930560.jpeg",
+          "quest_bar_hero_video": null,
+          "game_tile": "1423011370680582144.png",
+          "logotype": "1423011369443266570.png",
+          "game_tile_light": "1423011085874761869.png",
+          "game_tile_dark": "1423011085874761869.png",
+          "logotype_light": "1423011050051076178.png",
+          "logotype_dark": "1423011050051076178.png"
+        },
+        "colors": {
+          "primary": "#CDF564",
+          "secondary": "#CDF564"
+        },
+        "messages": {
+          "quest_name": "2XKO-Vorabzugangsmission",
+          "game_title": "2XKO",
+          "game_publisher": "Riot Games"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "event_name": "PLAY_ON_DESKTOP",
+              "target": 900
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1417993715611467826"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 3,
+              "sku_id": "1423010468762484827",
+              "asset": "1423056855973756979.mp4",
+              "asset_video": null,
+              "messages": {
+                "name": "Avatardekoration „Automatenmonster“",
+                "name_with_article": "Avatardekoration „Automatenmonster“",
+                "redemption_instructions_by_platform": {
+                  "0": "Default"
+                }
+              },
+              "expires_at": "2025-12-17T00:00:00+00:00",
+              "expires_at_premium": null,
+              "expiration_mode": 3
+            }
+          ],
+          "rewards_expire_at": "2025-11-17T00:00:49+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere"
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
+      "id": "1422714633357103315",
+      "config": {
+        "id": "1422714633357103315",
+        "config_version": 2,
+        "starts_at": "2025-10-06T17:00:01+00:00",
+        "expires_at": "2025-11-03T01:00:01+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://ad.doubleclick.net/ddm/trackclk/N1726419.3866164DISCORD.COM/B34292729.431210376;dc_trk_aid=623771555;dc_trk_cid=242665100;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "1423073301860843640.jpg",
+          "hero_video": "1423073796746776606.mp4",
+          "quest_bar_hero": "1423073260173529118.jpg",
+          "quest_bar_hero_video": "1423073796746776606.mp4",
+          "game_tile": "1423074018289782925.png",
+          "logotype": "1423074013483241565.png",
+          "game_tile_light": "1423073433801064499.png",
+          "game_tile_dark": "1423073433801064499.png",
+          "logotype_light": "1423073378541240462.png",
+          "logotype_dark": "1423073378541240462.png"
+        },
+        "colors": {
+          "primary": "#4FAF62",
+          "secondary": "#0072BC"
+        },
+        "messages": {
+          "quest_name": "Monopoly at McD’s",
+          "game_title": "Monopoly at McD’s",
+          "game_publisher": "McDonald's"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "WATCH_VIDEO_ON_MOBILE": {
+              "event_name": "WATCH_VIDEO_ON_MOBILE",
+              "target": 96
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 96,
+              "assets": {
+                "video": {
+                  "url": "1423435899605225522_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "1423717844868141096.jpg",
+                  "caption": "1424783700259766302.vtt",
+                  "transcript": "1424783762394185879.txt"
+                },
+                "video_low_res": {
+                  "url": "1423435899605225522_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "1423717844868141096.jpg",
+                  "caption": "1424783700259766302.vtt",
+                  "transcript": "1424783762394185879.txt"
+                },
+                "video_hls": {
+                  "url": "1423435899605225522.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "1423717844868141096.jpg",
+                  "caption": "1424783700259766302.vtt",
+                  "transcript": "1424783762394185879.txt"
+                }
+              },
+              "messages": {
+                "video_title": "Monopoly at McD’s Trailer",
+                "video_end_cta_title": "Monopoly at McD’s ",
+                "video_end_cta_subtitle": "Monopoly at McD’s ",
+                "video_end_cta_button_label": "Mehr erfahren"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 3,
+              "sku_id": "1423746348905136170",
+              "asset": "1423746669983567882.mp4",
+              "asset_video": null,
+              "messages": {
+                "name": "Mr. M Avatar Decoration",
+                "name_with_article": "a Mr. M Avatar Decoration",
+                "redemption_instructions_by_platform": {
+                  "0": "Default"
+                }
+              },
+              "expires_at": "2026-01-02T01:00:00+00:00",
+              "expires_at_premium": null,
+              "expiration_mode": 3
+            }
+          ],
+          "rewards_expire_at": "2025-12-03T01:00:01+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "video_metadata": {
+          "messages": {
+            "video_title": "Monopoly at McD’s Trailer",
+            "video_end_cta_title": "Monopoly at McD’s ",
+            "video_end_cta_subtitle": "Monopoly at McD’s ",
+            "video_end_cta_button_label": "Mehr erfahren"
+          },
+          "assets": {
+            "video_player_video_hls": "1423435899605225522.m3u8",
+            "video_player_video": "1423435899605225522_1080.mp4",
+            "video_player_thumbnail": "1423717844868141096.jpg",
+            "video_player_video_low_res": "1423435899605225522_720.mp4",
+            "video_player_caption": "1424783700259766302.vtt",
+            "video_player_transcript": "1424783762394185879.txt",
+            "quest_bar_preview_video": null,
+            "quest_bar_preview_thumbnail": null,
+            "quest_home_video": null
+          }
+        },
+        "share_policy": "shareable_everywhere"
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
+      "id": "1422745038999261294",
+      "config": {
+        "id": "1422745038999261294",
+        "config_version": 2,
+        "starts_at": "2025-10-03T17:00:50+00:00",
+        "expires_at": "2025-10-13T00:00:50+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://www.peacocktv.com/stream-movies/how-to-train-your-dragon-2025",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "1422745589963296838.jpg",
+          "hero_video": "1422745632908513331.mp4",
+          "quest_bar_hero": "1422745671512887398.jpg",
+          "quest_bar_hero_video": "1422745632908513331.mp4",
+          "game_tile": "1422745810994724935.png",
+          "logotype": "1422745810009067622.png",
+          "game_tile_light": "1422745771257761842.png",
+          "game_tile_dark": "1422745771257761842.png",
+          "logotype_light": "1422745730388590672.png",
+          "logotype_dark": "1422745730388590672.png"
+        },
+        "colors": {
+          "primary": "#79CAAC",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "How To Train Your Dragon",
+          "game_title": "Streaming Only on Peacock October 10",
+          "game_publisher": "Peacock"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "WATCH_VIDEO": {
+              "event_name": "WATCH_VIDEO",
+              "target": 29
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "1422746098916655217_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "1422746138007699526.jpg",
+                  "caption": "1422748206831243344.vtt",
+                  "transcript": "1422748011250843719.txt"
+                },
+                "video_low_res": {
+                  "url": "1422746098916655217_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "1422746138007699526.jpg",
+                  "caption": "1422748206831243344.vtt",
+                  "transcript": "1422748011250843719.txt"
+                },
+                "video_hls": {
+                  "url": "1422746098916655217.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "1422746138007699526.jpg",
+                  "caption": "1422748206831243344.vtt",
+                  "transcript": "1422748011250843719.txt"
+                }
+              },
+              "messages": {
+                "video_title": "How To Train Your Dragon",
+                "video_end_cta_title": "How To Train Your Dragon",
+                "video_end_cta_subtitle": "Streaming Only on Peacock October 10",
+                "video_end_cta_button_label": "Mehr erfahren"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 orbs",
+                "name_with_article": "700 orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "Default"
+                }
+              },
+              "orb_quantity": 700
+            }
+          ],
+          "rewards_expire_at": "2025-11-12T00:00:50+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "video_metadata": {
+          "messages": {
+            "video_title": "How To Train Your Dragon",
+            "video_end_cta_title": "How To Train Your Dragon",
+            "video_end_cta_subtitle": "Streaming Only on Peacock October 10",
+            "video_end_cta_button_label": "Mehr erfahren"
+          },
+          "assets": {
+            "video_player_video_hls": "1422746098916655217.m3u8",
+            "video_player_video": "1422746098916655217_1080.mp4",
+            "video_player_thumbnail": "1422746138007699526.jpg",
+            "video_player_video_low_res": "1422746098916655217_720.mp4",
+            "video_player_caption": "1422748206831243344.vtt",
+            "video_player_transcript": "1422748011250843719.txt",
+            "quest_bar_preview_video": null,
+            "quest_bar_preview_thumbnail": null,
+            "quest_home_video": null
+          }
+        },
+        "share_policy": "shareable_everywhere"
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
+      "id": "1430258734113755247",
+      "config": {
+        "id": "1430258734113755247",
+        "config_version": 2,
+        "starts_at": "2025-10-23T17:00:35+00:00",
+        "expires_at": "2025-11-10T00:00:35+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://peacocktv.app.link/dkZ6i1LDaXb",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "1430260099775074374.jpg",
+          "hero_video": "1430260027184250970.mp4",
+          "quest_bar_hero": "1430259999073894461.jpg",
+          "quest_bar_hero_video": "1430260027184250970.mp4",
+          "game_tile": "1430260284190097569.png",
+          "logotype": "1430260283120816158.png",
+          "game_tile_light": "1430260126404706334.png",
+          "game_tile_dark": "1430260126404706334.png",
+          "logotype_light": "1430260162811400324.png",
+          "logotype_dark": "1430260162811400324.png"
+        },
+        "colors": {
+          "primary": "#D94A26",
+          "secondary": "#2B1A14"
+        },
+        "messages": {
+          "quest_name": "Jurassic World Rebirth",
+          "game_title": "Streaming Now Only on Peacock",
+          "game_publisher": "Peacock"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "WATCH_VIDEO": {
+              "event_name": "WATCH_VIDEO",
+              "target": 29
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "1430261121046151340_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "1433504818621710336.jpg",
+                  "caption": "1430261251350728795.vtt",
+                  "transcript": "1430261277472591972.txt"
+                },
+                "video_low_res": {
+                  "url": "1430261121046151340_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "1433504818621710336.jpg",
+                  "caption": "1430261251350728795.vtt",
+                  "transcript": "1430261277472591972.txt"
+                },
+                "video_hls": {
+                  "url": "1430261121046151340.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "1433504818621710336.jpg",
+                  "caption": "1430261251350728795.vtt",
+                  "transcript": "1430261277472591972.txt"
+                }
+              },
+              "messages": {
+                "video_title": "Jurassic World Rebirth Video",
+                "video_end_cta_title": "Jurassic World Rebirth",
+                "video_end_cta_subtitle": "Streaming Now Only on Peacock",
+                "video_end_cta_button_label": "Mehr erfahren"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 orbs",
+                "name_with_article": "700 orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "Default"
+                }
+              },
+              "orb_quantity": 700
+            }
+          ],
+          "rewards_expire_at": "2025-12-10T00:00:35+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "video_metadata": {
+          "messages": {
+            "video_title": "Jurassic World Rebirth Video",
+            "video_end_cta_title": "Jurassic World Rebirth",
+            "video_end_cta_subtitle": "Streaming Now Only on Peacock",
+            "video_end_cta_button_label": "Mehr erfahren"
+          },
+          "assets": {
+            "video_player_video_hls": "1430261121046151340.m3u8",
+            "video_player_video": "1430261121046151340_1080.mp4",
+            "video_player_thumbnail": "1433504818621710336.jpg",
+            "video_player_video_low_res": "1430261121046151340_720.mp4",
+            "video_player_caption": "1430261251350728795.vtt",
+            "video_player_transcript": "1430261277472591972.txt",
+            "quest_bar_preview_video": null,
+            "quest_bar_preview_thumbnail": null,
+            "quest_home_video": null
+          }
+        },
+        "share_policy": "shareable_everywhere"
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
+      "id": "1432770475590684784",
+      "config": {
+        "id": "1432770475590684784",
+        "config_version": 2,
+        "starts_at": "2025-11-02T15:40:20+00:00",
+        "expires_at": "2025-11-10T01:00:20+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://www.fortnite.com/",
+          "id": "1402418703554842694",
+          "name": "Fortnite"
+        },
+        "assets": {
+          "hero": "1432838937092690042.jpg",
+          "hero_video": null,
+          "quest_bar_hero": "1432838905996116088.jpg",
+          "quest_bar_hero_video": null,
+          "game_tile": "1432839185957519491.png",
+          "logotype": "1432839184904618135.png",
+          "game_tile_light": "1432838991995998359.png",
+          "game_tile_dark": "1432838991995998359.png",
+          "logotype_light": "1432839029392539729.png",
+          "logotype_dark": "1432839029392539729.png"
+        },
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Fortnite-Discord-Auftrag",
+          "game_title": "Fortnite",
+          "game_publisher": "Epic Games"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "event_name": "PLAY_ON_DESKTOP",
+              "target": 900
+            },
+            "PLAY_ON_XBOX": {
+              "event_name": "PLAY_ON_XBOX",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "event_name": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1402418703554842694"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 3,
+              "sku_id": "1432839801438208042",
+              "asset": "1432840126031073402.mp4",
+              "asset_video": null,
+              "messages": {
+                "name": "Avatar-Dekoration „Schali-Verschwinden“",
+                "name_with_article": "Avatar-Dekoration „Schali-Verschwinden“",
+                "redemption_instructions_by_platform": {
+                  "0": "Default"
+                }
+              },
+              "expires_at": "2026-01-09T00:00:00+00:00",
+              "expires_at_premium": null,
+              "expiration_mode": 1
+            }
+          ],
+          "rewards_expire_at": "2025-12-10T01:00:20+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere"
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
+      "id": "1425283638257254514",
+      "config": {
+        "id": "1425283638257254514",
+        "config_version": 2,
+        "starts_at": "2025-10-10T21:30:19+00:00",
+        "expires_at": "2025-10-18T04:30:19+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://www.marvelrivals.com/",
+          "id": "1314395942253756416",
+          "name": "Marvel Rivals"
+        },
+        "assets": {
+          "hero": "1428025248636211251.jpg",
+          "hero_video": "1426002130292183070.mp4",
+          "quest_bar_hero": "1426001701386846248.jpg",
+          "quest_bar_hero_video": "1426002047957991514.mp4",
+          "game_tile": "1425996461761626182.png",
+          "logotype": "1425995826077110424.png",
+          "game_tile_light": "1425996406421983322.png",
+          "game_tile_dark": "1425996406421983322.png",
+          "logotype_light": "1425286234028249130.png",
+          "logotype_dark": "1425995783991201803.png"
+        },
+        "colors": {
+          "primary": "#2D2F44",
+          "secondary": "#01227F"
+        },
+        "messages": {
+          "quest_name": "Marvel Rivals ",
+          "game_title": "Marvel Rivals",
+          "game_publisher": "NetEase Games"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "event_name": "PLAY_ON_DESKTOP",
+              "target": 900
+            },
+            "PLAY_ON_XBOX": {
+              "event_name": "PLAY_ON_XBOX",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "event_name": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1314395942253756416"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 3,
+              "sku_id": "1426003040720261121",
+              "asset": "1426002363268726864.mp4",
+              "asset_video": null,
+              "messages": {
+                "name": "Daredevil Avatar Decoration ",
+                "name_with_article": "a Daredevil Avatar Decoration ",
+                "redemption_instructions_by_platform": {
+                  "0": "Default"
+                }
+              },
+              "expires_at": "2025-12-17T01:00:00+00:00",
+              "expires_at_premium": null,
+              "expiration_mode": 3
+            }
+          ],
+          "rewards_expire_at": "2025-11-17T04:30:19+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere"
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
+      "id": "1425291943302398073",
+      "config": {
+        "id": "1425291943302398073",
+        "config_version": 2,
+        "starts_at": "2025-10-14T17:00:19+00:00",
+        "expires_at": "2025-11-04T01:00:19+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://discord.com/shop",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "1425603474724491365.jpg",
+          "hero_video": "1425603509432352808.mp4",
+          "quest_bar_hero": "1425603322785824798.jpg",
+          "quest_bar_hero_video": "1425603372764893204.mp4",
+          "game_tile": "1425294157714559043.png",
+          "logotype": "1425294156519178250.png",
+          "game_tile_light": "1425294130531270777.png",
+          "game_tile_dark": "1425294130531270777.png",
+          "logotype_light": "1425293772782174231.png",
+          "logotype_dark": "1425293829841616917.png"
+        },
+        "colors": {
+          "primary": "#5865F2",
+          "secondary": "#19175C"
+        },
+        "messages": {
+          "quest_name": "Discord Halloween 2025",
+          "game_title": "Available in the Shop until 11/3",
+          "game_publisher": "Discord"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "WATCH_VIDEO": {
+              "event_name": "WATCH_VIDEO",
+              "target": 22
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 22,
+              "assets": {
+                "video": {
+                  "url": "1425604040406077540_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "1425604258367279226.jpg",
+                  "caption": "1425604641902825482.vtt",
+                  "transcript": "1425604670277288056.txt"
+                },
+                "video_low_res": {
+                  "url": "1425604040406077540_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "1425604258367279226.jpg",
+                  "caption": "1425604641902825482.vtt",
+                  "transcript": "1425604670277288056.txt"
+                },
+                "video_hls": {
+                  "url": "1425604040406077540.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "1425604258367279226.jpg",
+                  "caption": "1425604641902825482.vtt",
+                  "transcript": "1425604670277288056.txt"
+                }
+              },
+              "messages": {
+                "video_title": "Discord Halloween 2025 Quest",
+                "video_end_cta_title": "Discord Halloween 2025 ",
+                "video_end_cta_subtitle": "Discord Halloween 2025 Shop Drop",
+                "video_end_cta_button_label": "Jetzt kaufen"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "Default"
+                }
+              },
+              "orb_quantity": 200
+            }
+          ],
+          "rewards_expire_at": "2025-12-04T01:00:19+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "video_metadata": {
+          "messages": {
+            "video_title": "Discord Halloween 2025 Quest",
+            "video_end_cta_title": "Discord Halloween 2025 ",
+            "video_end_cta_subtitle": "Discord Halloween 2025 Shop Drop",
+            "video_end_cta_button_label": "Jetzt kaufen"
+          },
+          "assets": {
+            "video_player_video_hls": "1425604040406077540.m3u8",
+            "video_player_video": "1425604040406077540_1080.mp4",
+            "video_player_thumbnail": "1425604258367279226.jpg",
+            "video_player_video_low_res": "1425604040406077540_720.mp4",
+            "video_player_caption": "1425604641902825482.vtt",
+            "video_player_transcript": "1425604670277288056.txt",
+            "quest_bar_preview_video": null,
+            "quest_bar_preview_thumbnail": null,
+            "quest_home_video": null
+          }
+        },
+        "share_policy": "shareable_everywhere"
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    }
+  ],
+  "excluded_quests": [
+    {
+      "id": "1425609255569854464"
+    },
+    {
+      "id": "1412491570820812933"
+    },
+    {
+      "id": "1430319105034027078"
+    },
+    {
+      "id": "1427820398283722833"
+    },
+    {
+      "id": "1427811805065121875"
+    },
+    {
+      "id": "1425677992721514516"
+    },
+    {
+      "id": "1423051598787121242"
+    },
+    {
+      "id": "1428092429030129755"
+    },
+    {
+      "id": "1423404422649745438"
+    },
+    {
+      "id": "1425263680571834399"
+    },
+    {
+      "id": "1428459919212019874"
+    },
+    {
+      "id": "1425614323958677667"
+    },
+    {
+      "id": "1427802437347053668"
+    },
+    {
+      "id": "1425698814315991141"
+    },
+    {
+      "id": "1425272488287408250"
+    },
+    {
+      "id": "1425921949665591336"
+    },
+    {
+      "id": "1428135231529029673"
+    },
+    {
+      "id": "1421275302923079721"
+    },
+    {
+      "id": "1432205768106705070"
+    },
+    {
+      "id": "1433542422268350574"
+    },
+    {
+      "id": "1421280952591843438"
+    },
+    {
+      "id": "1428862922020618290"
+    },
+    {
+      "id": "1420556874629251124"
+    },
+    {
+      "id": "1433219183411462265"
+    },
+    {
+      "id": "1427829905323724922"
+    },
+    {
+      "id": "1430252230430294076"
+    }
+  ],
+  "quest_enrollment_blocked_until": null
+}
