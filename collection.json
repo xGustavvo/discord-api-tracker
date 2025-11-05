@@ -48,7 +48,8 @@
             },
             "deactivation_cooldown_period_days": 0,
             "game_application_id": "1402418491272986635",
-            "provider": "shockbyte"
+            "provider": "shockbyte",
+            "disabled": false
           }
         }
       },
@@ -189,7 +190,8 @@
             },
             "deactivation_cooldown_period_days": 0,
             "game_application_id": "1199745463918788740",
-            "provider": "shockbyte"
+            "provider": "shockbyte",
+            "disabled": false
           }
         }
       },
@@ -332,7 +334,8 @@
             },
             "deactivation_cooldown_period_days": 7,
             "game_application_id": "1197827812623650866",
-            "provider": "shockbyte"
+            "provider": "shockbyte",
+            "disabled": false
           }
         }
       },
@@ -474,7 +477,8 @@
             },
             "deactivation_cooldown_period_days": 7,
             "game_application_id": "363409643973771264",
-            "provider": "shockbyte"
+            "provider": "shockbyte",
+            "disabled": false
           }
         }
       },
@@ -615,7 +619,8 @@
             },
             "deactivation_cooldown_period_days": 7,
             "game_application_id": "1402418594532298837",
-            "provider": "shockbyte"
+            "provider": "shockbyte",
+            "disabled": false
           }
         }
       },
