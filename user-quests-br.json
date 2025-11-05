@@ -2712,6 +2712,112 @@
       "preview": false
     },
     {
+      "id": "1432798014786764871",
+      "config": {
+        "id": "1432798014786764871",
+        "config_version": 2,
+        "starts_at": "2025-11-05T03:00:46+00:00",
+        "expires_at": "2025-11-11T00:00:46+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://hoyo.link/ULR8QuyPH",
+          "id": "1121201675240210523",
+          "name": "Honkai: Star Rail"
+        },
+        "assets": {
+          "hero": "quests/1432798014786764871/1432829179979890749.jpg",
+          "hero_video": "quests/1432798014786764871/1432829536533348452.mp4",
+          "quest_bar_hero": "quests/1432798014786764871/1432829179979890749.jpg",
+          "quest_bar_hero_video": "quests/1432798014786764871/1432829536533348452.mp4",
+          "game_tile": "1432830150839635979.png",
+          "logotype": "1432830144468222067.png",
+          "game_tile_light": "quests/1432798014786764871/1432830113980092577.png",
+          "game_tile_dark": "quests/1432798014786764871/1432830113980092577.png",
+          "logotype_light": "quests/1432798014786764871/1432829884216115310.png",
+          "logotype_dark": "quests/1432798014786764871/1432829949756178543.png"
+        },
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Honkai: Star Rail",
+          "game_title": "Honkai: Star Rail",
+          "game_publisher": "COGNOSPHERE PTE. LTD."
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "event_name": "PLAY_ON_DESKTOP",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "event_name": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1121201675240210523"
+                }
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 1,
+              "sku_id": "1432798014786764872",
+              "asset": "quests/1432798014786764871/1432834723838951595.png",
+              "asset_video": null,
+              "messages": {
+                "name": "Pacote de Missão da V3.7",
+                "name_with_article": "um Pacote de Missão da V3.7",
+                "redemption_instructions_by_platform": {
+                  "0": "Como resgatar:\nAcesse a página de resgate no site oficial de Honkai: Star Rail (https://hsr.hoyoverse.com/gift), entre com sua conta de jogo, insira o Código de Resgate conforme as instruções. Após o resgate bem-sucedido, o conteúdo do pacote será enviado através da correspondência no jogo.\n\nConteúdo do Código de Resgate: Jade Estelar ×30, Crédito ×20.000, Fragmento Dourado Perdido ×4, Éter Condensado ×5, Guia do Viajante ×3.\n\n* As recompensas são limitadas a 750.000 e estarão disponíveis exclusivamente para os primeiros 750.000 Desbravadores que concluírem a missão com sucesso. A distribuição das recompensas será baseada na ordem temporal da obtenção dos Códigos de Resgate após a conclusão da missão, sendo feitas por ordem de chegada.\n\n* Os Códigos de Resgate expiram em 03/12/2025 às 11:00:00 (UTC+8). Lembrem-se de resgatá-los a tempo, Desbravadores!"
+                }
+              },
+              "approximate_count": null,
+              "redemption_link": null
+            }
+          ],
+          "rewards_expire_at": "2025-12-11T00:00:46+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere"
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
       "id": "1428139680477614150",
       "config": {
         "id": "1428139680477614150",
