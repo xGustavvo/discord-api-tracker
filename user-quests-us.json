@@ -1,266 +1,6 @@
 {
   "quests": [
     {
-      "id": "1425609255569854464",
-      "config": {
-        "id": "1425609255569854464",
-        "config_version": 2,
-        "starts_at": "2025-10-14T17:00:13+00:00",
-        "expires_at": "2025-10-21T00:00:13+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://www.fortnite.com/",
-          "id": "1402418703554842694",
-          "name": "Fortnite"
-        },
-        "assets": {
-          "hero": "quests/1425609255569854464/1425609862599147530.jpg",
-          "hero_video": null,
-          "quest_bar_hero": "quests/1425609255569854464/1425609830286102660.jpg",
-          "quest_bar_hero_video": null,
-          "game_tile": "1425610175385047110.png",
-          "logotype": "1425610174156247140.png",
-          "game_tile_light": "quests/1425609255569854464/1425609961702031421.png",
-          "game_tile_dark": "quests/1425609255569854464/1425609961702031421.png",
-          "logotype_light": "quests/1425609255569854464/1425609931645517834.png",
-          "logotype_dark": "quests/1425609255569854464/1425609931645517834.png"
-        },
-        "colors": {
-          "primary": "#94381F",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Fortnitemares",
-          "game_title": "Fortnite",
-          "game_publisher": "Epic Games"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "event_name": "PLAY_ON_DESKTOP",
-              "target": 900
-            },
-            "PLAY_ON_XBOX": {
-              "event_name": "PLAY_ON_XBOX",
-              "target": 900
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "event_name": "PLAY_ON_PLAYSTATION",
-              "target": 900
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1402418703554842694"
-                }
-              ]
-            },
-            "PLAY_ON_XBOX": {
-              "type": "PLAY_ON_XBOX",
-              "target": 900
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 3,
-              "sku_id": "1425613673417801771",
-              "asset": "quests/1425609255569854464/1425614017472499752.mp4",
-              "asset_video": null,
-              "messages": {
-                "name": "The Final Peel Avatar Decoration",
-                "name_with_article": "The Final Peel Avatar Decoration",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "expires_at": "2025-12-20T01:00:00+00:00",
-              "expires_at_premium": null,
-              "expiration_mode": 1
-            }
-          ],
-          "rewards_expire_at": "2025-11-20T00:00:13+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere"
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
-      "id": "1420524848911876096",
-      "config": {
-        "id": "1420524848911876096",
-        "config_version": 2,
-        "starts_at": "2025-09-30T17:00:36+00:00",
-        "expires_at": "2025-10-07T00:00:36+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://www.kingofmeat.com/pre-order?utm_source=Discord",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1420524848911876096/1420526004304351323.jpg",
-          "hero_video": "quests/1420524848911876096/1420526039666528407.mp4",
-          "quest_bar_hero": "quests/1420524848911876096/1420525709440454787.jpg",
-          "quest_bar_hero_video": "quests/1420524848911876096/1420526039666528407.mp4",
-          "game_tile": "1420526173338734652.png",
-          "logotype": "1420526168511217847.png",
-          "game_tile_light": "quests/1420524848911876096/1420526113985269872.png",
-          "game_tile_dark": "quests/1420524848911876096/1420526113985269872.png",
-          "logotype_light": "quests/1420524848911876096/1420526076890841178.png",
-          "logotype_dark": "quests/1420524848911876096/1420526076890841178.png"
-        },
-        "colors": {
-          "primary": "#B8860B",
-          "secondary": "#00113E"
-        },
-        "messages": {
-          "quest_name": "King of Meat Avatar",
-          "game_title": "Pre Order King of Meat for Early Access beginning Oct 2",
-          "game_publisher": "Amazon Games"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "WATCH_VIDEO": {
-              "event_name": "WATCH_VIDEO",
-              "target": 104
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 104,
-              "assets": {
-                "video": {
-                  "url": "quests/1420524848911876096/1420532256107266059_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1420524848911876096/1420532730617266216.jpg",
-                  "caption": "quests/1420524848911876096/1420534859604037774.vtt",
-                  "transcript": "quests/1420524848911876096/1420534888305528897.txt"
-                },
-                "video_low_res": {
-                  "url": "quests/1420524848911876096/1420532256107266059_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1420524848911876096/1420532730617266216.jpg",
-                  "caption": "quests/1420524848911876096/1420534859604037774.vtt",
-                  "transcript": "quests/1420524848911876096/1420534888305528897.txt"
-                },
-                "video_hls": {
-                  "url": "quests/1420524848911876096/1420532256107266059.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1420524848911876096/1420532730617266216.jpg",
-                  "caption": "quests/1420524848911876096/1420534859604037774.vtt",
-                  "transcript": "quests/1420524848911876096/1420534888305528897.txt"
-                }
-              },
-              "messages": {
-                "video_title": "Early Access Trailer",
-                "video_end_cta_title": "Early Access Trailer",
-                "video_end_cta_subtitle": "ESRB Rating: T (Teen)",
-                "video_end_cta_button_label": "Buy Now"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 3,
-              "sku_id": "1420527272602894387",
-              "asset": "quests/1420524848911876096/1420535312400126175.mp4",
-              "asset_video": null,
-              "messages": {
-                "name": "KOM Avatar Decoration",
-                "name_with_article": "a KOM Avatar Decoration",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "expires_at": "2025-12-06T00:00:00+00:00",
-              "expires_at_premium": null,
-              "expiration_mode": 3
-            }
-          ],
-          "rewards_expire_at": "2025-11-05T23:00:36+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "video_metadata": {
-          "messages": {
-            "video_title": "Early Access Trailer",
-            "video_end_cta_title": "Early Access Trailer",
-            "video_end_cta_subtitle": "ESRB Rating: T (Teen)",
-            "video_end_cta_button_label": "Buy Now"
-          },
-          "assets": {
-            "video_player_video_hls": "quests/1420524848911876096/1420532256107266059.m3u8",
-            "video_player_video": "quests/1420524848911876096/1420532256107266059_1080.mp4",
-            "video_player_thumbnail": "quests/1420524848911876096/1420532730617266216.jpg",
-            "video_player_video_low_res": "quests/1420524848911876096/1420532256107266059_720.mp4",
-            "video_player_caption": "quests/1420524848911876096/1420534859604037774.vtt",
-            "video_player_transcript": "quests/1420524848911876096/1420534888305528897.txt",
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
-        },
-        "share_policy": "shareable_everywhere"
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
       "id": "1427758897501835264",
       "config": {
         "id": "1427758897501835264",
@@ -365,6 +105,121 @@
             }
           ],
           "rewards_expire_at": "2025-11-21T00:00:07+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere"
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
+      "id": "1425609255569854464",
+      "config": {
+        "id": "1425609255569854464",
+        "config_version": 2,
+        "starts_at": "2025-10-14T17:00:13+00:00",
+        "expires_at": "2025-10-21T00:00:13+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://www.fortnite.com/",
+          "id": "1402418703554842694",
+          "name": "Fortnite"
+        },
+        "assets": {
+          "hero": "quests/1425609255569854464/1425609862599147530.jpg",
+          "hero_video": null,
+          "quest_bar_hero": "quests/1425609255569854464/1425609830286102660.jpg",
+          "quest_bar_hero_video": null,
+          "game_tile": "1425610175385047110.png",
+          "logotype": "1425610174156247140.png",
+          "game_tile_light": "quests/1425609255569854464/1425609961702031421.png",
+          "game_tile_dark": "quests/1425609255569854464/1425609961702031421.png",
+          "logotype_light": "quests/1425609255569854464/1425609931645517834.png",
+          "logotype_dark": "quests/1425609255569854464/1425609931645517834.png"
+        },
+        "colors": {
+          "primary": "#94381F",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Fortnitemares",
+          "game_title": "Fortnite",
+          "game_publisher": "Epic Games"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "event_name": "PLAY_ON_DESKTOP",
+              "target": 900
+            },
+            "PLAY_ON_XBOX": {
+              "event_name": "PLAY_ON_XBOX",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "event_name": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1402418703554842694"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 3,
+              "sku_id": "1425613673417801771",
+              "asset": "quests/1425609255569854464/1425614017472499752.mp4",
+              "asset_video": null,
+              "messages": {
+                "name": "The Final Peel Avatar Decoration",
+                "name_with_article": "The Final Peel Avatar Decoration",
+                "redemption_instructions_by_platform": {
+                  "0": "Default"
+                }
+              },
+              "expires_at": "2025-12-20T01:00:00+00:00",
+              "expires_at_premium": null,
+              "expiration_mode": 1
+            }
+          ],
+          "rewards_expire_at": "2025-11-20T00:00:13+00:00",
           "platforms": [
             0
           ]
@@ -1151,6 +1006,191 @@
       "preview": false
     },
     {
+      "id": "1425263680571834399",
+      "config": {
+        "id": "1425263680571834399",
+        "config_version": 2,
+        "starts_at": "2025-10-10T17:00:01+00:00",
+        "expires_at": "2025-10-18T06:59:01+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://www.blackphonemovie.com/",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1425263680571834399/1425265363943166003.jpg",
+          "hero_video": "quests/1425263680571834399/1425265322444722318.mp4",
+          "quest_bar_hero": "quests/1425263680571834399/1425264448859410432.jpg",
+          "quest_bar_hero_video": "quests/1425263680571834399/1425265322444722318.mp4",
+          "game_tile": "1425267822761611436.png",
+          "logotype": "1425267821511704666.png",
+          "game_tile_light": "quests/1425263680571834399/1425265680093155438.png",
+          "game_tile_dark": "quests/1425263680571834399/1425265680093155438.png",
+          "logotype_light": "quests/1425263680571834399/1425265649759813733.png",
+          "logotype_dark": "quests/1425263680571834399/1425265649759813733.png"
+        },
+        "colors": {
+          "primary": "#97281B",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Black Phone 2",
+          "game_title": "In Theaters October 17",
+          "game_publisher": "Universal Pictures"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "WATCH_VIDEO": {
+              "event_name": "WATCH_VIDEO",
+              "target": 75
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "event_name": "WATCH_VIDEO_ON_MOBILE",
+              "target": 75
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 75,
+              "assets": {
+                "video": {
+                  "url": "quests/1425263680571834399/1425268293199200256_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1425263680571834399/1425268458937122886.jpg",
+                  "caption": "quests/1425263680571834399/1425268872600096788.vtt",
+                  "transcript": "quests/1425263680571834399/1425268905936420974.txt"
+                },
+                "video_low_res": {
+                  "url": "quests/1425263680571834399/1425268293199200256_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1425263680571834399/1425268458937122886.jpg",
+                  "caption": "quests/1425263680571834399/1425268872600096788.vtt",
+                  "transcript": "quests/1425263680571834399/1425268905936420974.txt"
+                },
+                "video_hls": {
+                  "url": "quests/1425263680571834399/1425268293199200256.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1425263680571834399/1425268458937122886.jpg",
+                  "caption": "quests/1425263680571834399/1425268872600096788.vtt",
+                  "transcript": "quests/1425263680571834399/1425268905936420974.txt"
+                }
+              },
+              "messages": {
+                "video_title": "Black Phone 2",
+                "video_end_cta_title": "Black Phone 2",
+                "video_end_cta_subtitle": "Black Phone 2 in Theaters October 17",
+                "video_end_cta_button_label": "Get Tickets"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 75,
+              "assets": {
+                "video": {
+                  "url": "quests/1425263680571834399/1425500222741676132_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1425263680571834399/1425268458937122886.jpg",
+                  "caption": "quests/1425263680571834399/1425268872600096788.vtt",
+                  "transcript": "quests/1425263680571834399/1425268905936420974.txt"
+                },
+                "video_low_res": {
+                  "url": "quests/1425263680571834399/1425500222741676132_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1425263680571834399/1425268458937122886.jpg",
+                  "caption": "quests/1425263680571834399/1425268872600096788.vtt",
+                  "transcript": "quests/1425263680571834399/1425268905936420974.txt"
+                },
+                "video_hls": {
+                  "url": "quests/1425263680571834399/1425500222741676132.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1425263680571834399/1425268458937122886.jpg",
+                  "caption": "quests/1425263680571834399/1425268872600096788.vtt",
+                  "transcript": "quests/1425263680571834399/1425268905936420974.txt"
+                }
+              },
+              "messages": {
+                "video_title": "Black Phone 2",
+                "video_end_cta_title": "Black Phone 2",
+                "video_end_cta_subtitle": "Black Phone 2 in Theaters October 17",
+                "video_end_cta_button_label": "Get Tickets"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 3,
+              "sku_id": "1425616465654190161",
+              "asset": "quests/1425263680571834399/1425616632742674573.mp4",
+              "asset_video": null,
+              "messages": {
+                "name": "Black Phone 2 Avatar Decoration",
+                "name_with_article": "a Black Phone 2 Avatar Decoration",
+                "redemption_instructions_by_platform": {
+                  "0": "Default"
+                }
+              },
+              "expires_at": "2025-12-17T01:00:00+00:00",
+              "expires_at_premium": null,
+              "expiration_mode": 3
+            }
+          ],
+          "rewards_expire_at": "2025-11-17T06:59:01+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "video_metadata": {
+          "messages": {
+            "video_title": "Black Phone 2",
+            "video_end_cta_title": "Black Phone 2",
+            "video_end_cta_subtitle": "Black Phone 2 in Theaters October 17",
+            "video_end_cta_button_label": "Get Tickets"
+          },
+          "assets": {
+            "video_player_video_hls": "quests/1425263680571834399/1425268293199200256.m3u8",
+            "video_player_video": "quests/1425263680571834399/1425268293199200256_1080.mp4",
+            "video_player_thumbnail": "quests/1425263680571834399/1425268458937122886.jpg",
+            "video_player_video_low_res": "quests/1425263680571834399/1425268293199200256_720.mp4",
+            "video_player_caption": "quests/1425263680571834399/1425268872600096788.vtt",
+            "video_player_transcript": "quests/1425263680571834399/1425268905936420974.txt",
+            "quest_bar_preview_video": null,
+            "quest_bar_preview_thumbnail": null,
+            "quest_home_video": null
+          }
+        },
+        "share_policy": "shareable_everywhere"
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
       "id": "1431027486506094623",
       "config": {
         "id": "1431027486506094623",
@@ -1373,191 +1413,6 @@
           "platforms": [
             0
           ]
-        },
-        "share_policy": "shareable_everywhere"
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
-      "id": "1425263680571834399",
-      "config": {
-        "id": "1425263680571834399",
-        "config_version": 2,
-        "starts_at": "2025-10-10T17:00:01+00:00",
-        "expires_at": "2025-10-18T06:59:01+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://www.blackphonemovie.com/",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1425263680571834399/1425265363943166003.jpg",
-          "hero_video": "quests/1425263680571834399/1425265322444722318.mp4",
-          "quest_bar_hero": "quests/1425263680571834399/1425264448859410432.jpg",
-          "quest_bar_hero_video": "quests/1425263680571834399/1425265322444722318.mp4",
-          "game_tile": "1425267822761611436.png",
-          "logotype": "1425267821511704666.png",
-          "game_tile_light": "quests/1425263680571834399/1425265680093155438.png",
-          "game_tile_dark": "quests/1425263680571834399/1425265680093155438.png",
-          "logotype_light": "quests/1425263680571834399/1425265649759813733.png",
-          "logotype_dark": "quests/1425263680571834399/1425265649759813733.png"
-        },
-        "colors": {
-          "primary": "#97281B",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Black Phone 2",
-          "game_title": "In Theaters October 17",
-          "game_publisher": "Universal Pictures"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "WATCH_VIDEO": {
-              "event_name": "WATCH_VIDEO",
-              "target": 75
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "event_name": "WATCH_VIDEO_ON_MOBILE",
-              "target": 75
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 75,
-              "assets": {
-                "video": {
-                  "url": "quests/1425263680571834399/1425268293199200256_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1425263680571834399/1425268458937122886.jpg",
-                  "caption": "quests/1425263680571834399/1425268872600096788.vtt",
-                  "transcript": "quests/1425263680571834399/1425268905936420974.txt"
-                },
-                "video_low_res": {
-                  "url": "quests/1425263680571834399/1425268293199200256_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1425263680571834399/1425268458937122886.jpg",
-                  "caption": "quests/1425263680571834399/1425268872600096788.vtt",
-                  "transcript": "quests/1425263680571834399/1425268905936420974.txt"
-                },
-                "video_hls": {
-                  "url": "quests/1425263680571834399/1425268293199200256.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1425263680571834399/1425268458937122886.jpg",
-                  "caption": "quests/1425263680571834399/1425268872600096788.vtt",
-                  "transcript": "quests/1425263680571834399/1425268905936420974.txt"
-                }
-              },
-              "messages": {
-                "video_title": "Black Phone 2",
-                "video_end_cta_title": "Black Phone 2",
-                "video_end_cta_subtitle": "Black Phone 2 in Theaters October 17",
-                "video_end_cta_button_label": "Get Tickets"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 75,
-              "assets": {
-                "video": {
-                  "url": "quests/1425263680571834399/1425500222741676132_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1425263680571834399/1425268458937122886.jpg",
-                  "caption": "quests/1425263680571834399/1425268872600096788.vtt",
-                  "transcript": "quests/1425263680571834399/1425268905936420974.txt"
-                },
-                "video_low_res": {
-                  "url": "quests/1425263680571834399/1425500222741676132_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1425263680571834399/1425268458937122886.jpg",
-                  "caption": "quests/1425263680571834399/1425268872600096788.vtt",
-                  "transcript": "quests/1425263680571834399/1425268905936420974.txt"
-                },
-                "video_hls": {
-                  "url": "quests/1425263680571834399/1425500222741676132.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1425263680571834399/1425268458937122886.jpg",
-                  "caption": "quests/1425263680571834399/1425268872600096788.vtt",
-                  "transcript": "quests/1425263680571834399/1425268905936420974.txt"
-                }
-              },
-              "messages": {
-                "video_title": "Black Phone 2",
-                "video_end_cta_title": "Black Phone 2",
-                "video_end_cta_subtitle": "Black Phone 2 in Theaters October 17",
-                "video_end_cta_button_label": "Get Tickets"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 3,
-              "sku_id": "1425616465654190161",
-              "asset": "quests/1425263680571834399/1425616632742674573.mp4",
-              "asset_video": null,
-              "messages": {
-                "name": "Black Phone 2 Avatar Decoration",
-                "name_with_article": "a Black Phone 2 Avatar Decoration",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "expires_at": "2025-12-17T01:00:00+00:00",
-              "expires_at_premium": null,
-              "expiration_mode": 3
-            }
-          ],
-          "rewards_expire_at": "2025-11-17T06:59:01+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "video_metadata": {
-          "messages": {
-            "video_title": "Black Phone 2",
-            "video_end_cta_title": "Black Phone 2",
-            "video_end_cta_subtitle": "Black Phone 2 in Theaters October 17",
-            "video_end_cta_button_label": "Get Tickets"
-          },
-          "assets": {
-            "video_player_video_hls": "quests/1425263680571834399/1425268293199200256.m3u8",
-            "video_player_video": "quests/1425263680571834399/1425268293199200256_1080.mp4",
-            "video_player_thumbnail": "quests/1425263680571834399/1425268458937122886.jpg",
-            "video_player_video_low_res": "quests/1425263680571834399/1425268293199200256_720.mp4",
-            "video_player_caption": "quests/1425263680571834399/1425268872600096788.vtt",
-            "video_player_transcript": "quests/1425263680571834399/1425268905936420974.txt",
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
         },
         "share_policy": "shareable_everywhere"
       },
@@ -1820,6 +1675,104 @@
       "preview": false
     },
     {
+      "id": "1421275302923079721",
+      "config": {
+        "id": "1421275302923079721",
+        "config_version": 2,
+        "starts_at": "2025-10-16T16:00:38+00:00",
+        "expires_at": "2025-10-23T00:00:38+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://store.steampowered.com/app/2183900/Warhammer_40000_Space_Marine_2/?utm_source=Discord&utm_medium=Quest&utm_campaign=SM2_FreeDemo",
+          "id": "1281297844858257418",
+          "name": "Warhammer 40,000: Space Marine 2"
+        },
+        "assets": {
+          "hero": "quests/1421275302923079721/1422689948821360700.jpg",
+          "hero_video": "quests/1421275302923079721/1422690017020612708.mp4",
+          "quest_bar_hero": "quests/1421275302923079721/1422689979569537034.jpg",
+          "quest_bar_hero_video": "quests/1421275302923079721/1422690017020612708.mp4",
+          "game_tile": "1422690209920978984.png",
+          "logotype": "1422690208821805096.png",
+          "game_tile_light": "quests/1421275302923079721/1422690149459824812.png",
+          "game_tile_dark": "quests/1421275302923079721/1422690149459824812.png",
+          "logotype_light": "quests/1421275302923079721/1422690105621090414.png",
+          "logotype_dark": "quests/1421275302923079721/1422690105621090414.png"
+        },
+        "colors": {
+          "primary": "#C8960A",
+          "secondary": "#F5C538"
+        },
+        "messages": {
+          "quest_name": "Space Marine 2 Free Demo",
+          "game_title": "Warhammer 40,000: Space Marine 2",
+          "game_publisher": "Focus Entertainment Publishing"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "event_name": "PLAY_ON_DESKTOP",
+              "target": 900
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1281297844858257418"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 1,
+              "sku_id": "1421275302923079722",
+              "asset": "quests/1421275302923079721/1422689393537191946.png",
+              "asset_video": null,
+              "messages": {
+                "name": "Porphyr Shield Skin",
+                "name_with_article": "a Porphyr Shield Skin",
+                "redemption_instructions_by_platform": {
+                  "0": "How To Use Redeem Codes:  \n1. Once you have a Redeem Code, head over to https://tinyurl.com/yzavuyet, sign up or create an account to redeem it!   \n2. To proceed, you will need to go to your account, redeem your reward and copy/paste your Redeem Code.  \n3. Once your code is successfully redeemed, the reward will be available in the full game once your link your PROS account in-game by scanning the QR Code.  \n\n**Please note, the Redeem Code is valid from Coordinated Universal Time (UTC): October 16, 2025, 9:00:00 AM to October 23, 2025, 8:59:59 AM.** "
+                }
+              },
+              "approximate_count": null,
+              "redemption_link": null
+            }
+          ],
+          "rewards_expire_at": "2025-11-22T00:00:38+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere"
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
       "id": "1428135231529029673",
       "config": {
         "id": "1428135231529029673",
@@ -1953,104 +1906,6 @@
             "quest_bar_preview_thumbnail": null,
             "quest_home_video": null
           }
-        },
-        "share_policy": "shareable_everywhere"
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
-      "id": "1421275302923079721",
-      "config": {
-        "id": "1421275302923079721",
-        "config_version": 2,
-        "starts_at": "2025-10-16T16:00:38+00:00",
-        "expires_at": "2025-10-23T00:00:38+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://store.steampowered.com/app/2183900/Warhammer_40000_Space_Marine_2/?utm_source=Discord&utm_medium=Quest&utm_campaign=SM2_FreeDemo",
-          "id": "1281297844858257418",
-          "name": "Warhammer 40,000: Space Marine 2"
-        },
-        "assets": {
-          "hero": "quests/1421275302923079721/1422689948821360700.jpg",
-          "hero_video": "quests/1421275302923079721/1422690017020612708.mp4",
-          "quest_bar_hero": "quests/1421275302923079721/1422689979569537034.jpg",
-          "quest_bar_hero_video": "quests/1421275302923079721/1422690017020612708.mp4",
-          "game_tile": "1422690209920978984.png",
-          "logotype": "1422690208821805096.png",
-          "game_tile_light": "quests/1421275302923079721/1422690149459824812.png",
-          "game_tile_dark": "quests/1421275302923079721/1422690149459824812.png",
-          "logotype_light": "quests/1421275302923079721/1422690105621090414.png",
-          "logotype_dark": "quests/1421275302923079721/1422690105621090414.png"
-        },
-        "colors": {
-          "primary": "#C8960A",
-          "secondary": "#F5C538"
-        },
-        "messages": {
-          "quest_name": "Space Marine 2 Free Demo",
-          "game_title": "Warhammer 40,000: Space Marine 2",
-          "game_publisher": "Focus Entertainment Publishing"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "event_name": "PLAY_ON_DESKTOP",
-              "target": 900
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1281297844858257418"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 1,
-              "sku_id": "1421275302923079722",
-              "asset": "quests/1421275302923079721/1422689393537191946.png",
-              "asset_video": null,
-              "messages": {
-                "name": "Porphyr Shield Skin",
-                "name_with_article": "a Porphyr Shield Skin",
-                "redemption_instructions_by_platform": {
-                  "0": "How To Use Redeem Codes:  \n1. Once you have a Redeem Code, head over to https://tinyurl.com/yzavuyet, sign up or create an account to redeem it!   \n2. To proceed, you will need to go to your account, redeem your reward and copy/paste your Redeem Code.  \n3. Once your code is successfully redeemed, the reward will be available in the full game once your link your PROS account in-game by scanning the QR Code.  \n\n**Please note, the Redeem Code is valid from Coordinated Universal Time (UTC): October 16, 2025, 9:00:00 AM to October 23, 2025, 8:59:59 AM.** "
-                }
-              },
-              "approximate_count": null,
-              "redemption_link": null
-            }
-          ],
-          "rewards_expire_at": "2025-11-22T00:00:38+00:00",
-          "platforms": [
-            0
-          ]
         },
         "share_policy": "shareable_everywhere"
       },
@@ -2313,6 +2168,120 @@
       "preview": false
     },
     {
+      "id": "1422705108319338546",
+      "config": {
+        "id": "1422705108319338546",
+        "config_version": 2,
+        "starts_at": "2025-10-07T17:00:10+00:00",
+        "expires_at": "2025-10-14T00:00:10+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://www.kingofmeat.com/pre-order?utm_source=Discord",
+          "id": "1424836075427332106",
+          "name": "King of Meat"
+        },
+        "assets": {
+          "hero": "quests/1422705108319338546/1422706899312447589.jpg",
+          "hero_video": "quests/1422705108319338546/1422706819423277157.mp4",
+          "quest_bar_hero": "quests/1422705108319338546/1422706868949618688.jpg",
+          "quest_bar_hero_video": "quests/1422705108319338546/1422706819423277157.mp4",
+          "game_tile": "1422707022960529489.png",
+          "logotype": "1422707021831995413.png",
+          "game_tile_light": "quests/1422705108319338546/1422706979507535872.png",
+          "game_tile_dark": "quests/1422705108319338546/1422706979507535872.png",
+          "logotype_light": "quests/1422705108319338546/1422706953242804296.png",
+          "logotype_dark": "quests/1422705108319338546/1422706953242804296.png"
+        },
+        "colors": {
+          "primary": "#B8860B",
+          "secondary": "#00113E"
+        },
+        "messages": {
+          "quest_name": "King of Meat Play",
+          "game_title": "King of Meat",
+          "game_publisher": "Amazon Games"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "event_name": "PLAY_ON_DESKTOP",
+              "target": 900
+            },
+            "PLAY_ON_XBOX": {
+              "event_name": "PLAY_ON_XBOX",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "event_name": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1424836075427332106"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 1,
+              "sku_id": "1422705108319338547",
+              "asset": "quests/1422705108319338546/1422707666538467439.png",
+              "asset_video": null,
+              "messages": {
+                "name": "Bombhead's Expblade & Boomboard",
+                "name_with_article": "a Bombhead's Expblade & Boomboard",
+                "redemption_instructions_by_platform": {
+                  "0": "Congratulations on earning an in-game reward for King of Meat! In order to claim it, follow these steps:\n\no        Visit the King of Meat Code Redemption Website.  \no        Select your preferred platform and log in to your account.  \no        Enter the code you received from the Discord Quest and hit \"Redeem Reward\".   You should see a confirmation message.  \no        The redeemed Item will appear in your inventory once you reach Contender Rank 2 in-game.  \n\n**Reward Available: 10/7/2025 @ 10 AM PDT – 10/13/2025 @ 4:59 PM PDT **"
+                }
+              },
+              "approximate_count": null,
+              "redemption_link": null
+            }
+          ],
+          "rewards_expire_at": "2025-11-13T00:00:10+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere"
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
       "id": "1428862922020618290",
       "config": {
         "id": "1428862922020618290",
@@ -2490,120 +2459,6 @@
             "quest_bar_preview_thumbnail": null,
             "quest_home_video": null
           }
-        },
-        "share_policy": "shareable_everywhere"
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
-      "id": "1422705108319338546",
-      "config": {
-        "id": "1422705108319338546",
-        "config_version": 2,
-        "starts_at": "2025-10-07T17:00:10+00:00",
-        "expires_at": "2025-10-14T00:00:10+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://www.kingofmeat.com/pre-order?utm_source=Discord",
-          "id": "1424836075427332106",
-          "name": "King of Meat"
-        },
-        "assets": {
-          "hero": "quests/1422705108319338546/1422706899312447589.jpg",
-          "hero_video": "quests/1422705108319338546/1422706819423277157.mp4",
-          "quest_bar_hero": "quests/1422705108319338546/1422706868949618688.jpg",
-          "quest_bar_hero_video": "quests/1422705108319338546/1422706819423277157.mp4",
-          "game_tile": "1422707022960529489.png",
-          "logotype": "1422707021831995413.png",
-          "game_tile_light": "quests/1422705108319338546/1422706979507535872.png",
-          "game_tile_dark": "quests/1422705108319338546/1422706979507535872.png",
-          "logotype_light": "quests/1422705108319338546/1422706953242804296.png",
-          "logotype_dark": "quests/1422705108319338546/1422706953242804296.png"
-        },
-        "colors": {
-          "primary": "#B8860B",
-          "secondary": "#00113E"
-        },
-        "messages": {
-          "quest_name": "King of Meat Play",
-          "game_title": "King of Meat",
-          "game_publisher": "Amazon Games"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "event_name": "PLAY_ON_DESKTOP",
-              "target": 900
-            },
-            "PLAY_ON_XBOX": {
-              "event_name": "PLAY_ON_XBOX",
-              "target": 900
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "event_name": "PLAY_ON_PLAYSTATION",
-              "target": 900
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1424836075427332106"
-                }
-              ]
-            },
-            "PLAY_ON_XBOX": {
-              "type": "PLAY_ON_XBOX",
-              "target": 900
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 1,
-              "sku_id": "1422705108319338547",
-              "asset": "quests/1422705108319338546/1422707666538467439.png",
-              "asset_video": null,
-              "messages": {
-                "name": "Bombhead's Expblade & Boomboard",
-                "name_with_article": "a Bombhead's Expblade & Boomboard",
-                "redemption_instructions_by_platform": {
-                  "0": "Congratulations on earning an in-game reward for King of Meat! In order to claim it, follow these steps:\n\no        Visit the King of Meat Code Redemption Website.  \no        Select your preferred platform and log in to your account.  \no        Enter the code you received from the Discord Quest and hit \"Redeem Reward\".   You should see a confirmation message.  \no        The redeemed Item will appear in your inventory once you reach Contender Rank 2 in-game.  \n\n**Reward Available: 10/7/2025 @ 10 AM PDT – 10/13/2025 @ 4:59 PM PDT **"
-                }
-              },
-              "approximate_count": null,
-              "redemption_link": null
-            }
-          ],
-          "rewards_expire_at": "2025-11-13T00:00:10+00:00",
-          "platforms": [
-            0
-          ]
         },
         "share_policy": "shareable_everywhere"
       },
@@ -4217,121 +4072,6 @@
       "preview": false
     },
     {
-      "id": "1432770475590684784",
-      "config": {
-        "id": "1432770475590684784",
-        "config_version": 2,
-        "starts_at": "2025-11-02T15:40:20+00:00",
-        "expires_at": "2025-11-10T01:00:20+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://www.fortnite.com/",
-          "id": "1402418703554842694",
-          "name": "Fortnite"
-        },
-        "assets": {
-          "hero": "quests/1432770475590684784/1432838937092690042.jpg",
-          "hero_video": null,
-          "quest_bar_hero": "quests/1432770475590684784/1432838905996116088.jpg",
-          "quest_bar_hero_video": null,
-          "game_tile": "1432839185957519491.png",
-          "logotype": "1432839184904618135.png",
-          "game_tile_light": "quests/1432770475590684784/1432838991995998359.png",
-          "game_tile_dark": "quests/1432770475590684784/1432838991995998359.png",
-          "logotype_light": "quests/1432770475590684784/1432839029392539729.png",
-          "logotype_dark": "quests/1432770475590684784/1432839029392539729.png"
-        },
-        "colors": {
-          "primary": "#FFFFFF",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Fortnite Discord",
-          "game_title": "Fortnite",
-          "game_publisher": "Epic Games"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "event_name": "PLAY_ON_DESKTOP",
-              "target": 900
-            },
-            "PLAY_ON_XBOX": {
-              "event_name": "PLAY_ON_XBOX",
-              "target": 900
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "event_name": "PLAY_ON_PLAYSTATION",
-              "target": 900
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1402418703554842694"
-                }
-              ]
-            },
-            "PLAY_ON_XBOX": {
-              "type": "PLAY_ON_XBOX",
-              "target": 900
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 3,
-              "sku_id": "1432839801438208042",
-              "asset": "quests/1432770475590684784/1432840126031073402.mp4",
-              "asset_video": null,
-              "messages": {
-                "name": "Peely Vanish Avatar Decoration",
-                "name_with_article": "a Peely Vanish Avatar Decoration",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "expires_at": "2026-01-09T00:00:00+00:00",
-              "expires_at_premium": null,
-              "expiration_mode": 1
-            }
-          ],
-          "rewards_expire_at": "2025-12-10T01:00:20+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere"
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
       "id": "1422745038999261294",
       "config": {
         "id": "1422745038999261294",
@@ -4465,6 +4205,121 @@
             "quest_bar_preview_thumbnail": null,
             "quest_home_video": null
           }
+        },
+        "share_policy": "shareable_everywhere"
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
+      "id": "1432770475590684784",
+      "config": {
+        "id": "1432770475590684784",
+        "config_version": 2,
+        "starts_at": "2025-11-02T15:40:20+00:00",
+        "expires_at": "2025-11-10T01:00:20+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://www.fortnite.com/",
+          "id": "1402418703554842694",
+          "name": "Fortnite"
+        },
+        "assets": {
+          "hero": "quests/1432770475590684784/1432838937092690042.jpg",
+          "hero_video": null,
+          "quest_bar_hero": "quests/1432770475590684784/1432838905996116088.jpg",
+          "quest_bar_hero_video": null,
+          "game_tile": "1432839185957519491.png",
+          "logotype": "1432839184904618135.png",
+          "game_tile_light": "quests/1432770475590684784/1432838991995998359.png",
+          "game_tile_dark": "quests/1432770475590684784/1432838991995998359.png",
+          "logotype_light": "quests/1432770475590684784/1432839029392539729.png",
+          "logotype_dark": "quests/1432770475590684784/1432839029392539729.png"
+        },
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Fortnite Discord",
+          "game_title": "Fortnite",
+          "game_publisher": "Epic Games"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "event_name": "PLAY_ON_DESKTOP",
+              "target": 900
+            },
+            "PLAY_ON_XBOX": {
+              "event_name": "PLAY_ON_XBOX",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "event_name": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1402418703554842694"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 3,
+              "sku_id": "1432839801438208042",
+              "asset": "quests/1432770475590684784/1432840126031073402.mp4",
+              "asset_video": null,
+              "messages": {
+                "name": "Peely Vanish Avatar Decoration",
+                "name_with_article": "a Peely Vanish Avatar Decoration",
+                "redemption_instructions_by_platform": {
+                  "0": "Default"
+                }
+              },
+              "expires_at": "2026-01-09T00:00:00+00:00",
+              "expires_at_premium": null,
+              "expiration_mode": 1
+            }
+          ],
+          "rewards_expire_at": "2025-12-10T01:00:20+00:00",
+          "platforms": [
+            0
+          ]
         },
         "share_policy": "shareable_everywhere"
       },
@@ -4887,10 +4742,10 @@
       "id": "1425921949665591336"
     },
     {
-      "id": "1433542422268350574"
+      "id": "1421280952591843438"
     },
     {
-      "id": "1421280952591843438"
+      "id": "1433542422268350574"
     },
     {
       "id": "1420556874629251124"
