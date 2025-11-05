@@ -1268,6 +1268,104 @@
       "preview": false
     },
     {
+      "id": "1420556874629251124",
+      "config": {
+        "id": "1420556874629251124",
+        "config_version": 2,
+        "starts_at": "2025-10-14T17:00:51+00:00",
+        "expires_at": "2025-10-21T00:00:51+00:00",
+        "features": [
+          3,
+          8,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23,
+          24,
+          25,
+          27
+        ],
+        "application": {
+          "link": "https://www.fortnite.com/",
+          "id": "1420804330419912840",
+          "name": "the limited time Fortnite Trial"
+        },
+        "assets": {
+          "hero": "quests/1420556874629251124/1425176193065418812.jpg",
+          "hero_video": null,
+          "quest_bar_hero": "quests/1420556874629251124/1425176124375175299.jpg",
+          "quest_bar_hero_video": null,
+          "game_tile": "1425176328268943481.png",
+          "logotype": "1425176327090208850.png",
+          "game_tile_light": "quests/1420556874629251124/1425176262770426006.png",
+          "game_tile_dark": "quests/1420556874629251124/1425176262770426006.png",
+          "logotype_light": "quests/1420556874629251124/1425176232156463165.png",
+          "logotype_dark": "quests/1420556874629251124/1425176232156463165.png"
+        },
+        "colors": {
+          "primary": "#94381F",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Fortnitemares",
+          "game_title": "Fortnite",
+          "game_publisher": "Epic Games"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "PLAY_ACTIVITY": {
+              "event_name": "PLAY_ACTIVITY",
+              "target": 900
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ACTIVITY": {
+              "type": "PLAY_ACTIVITY",
+              "target": 900
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 3,
+              "sku_id": "1425613673417801771",
+              "asset": "quests/1420556874629251124/1425614114516111400.mp4",
+              "asset_video": null,
+              "messages": {
+                "name": "The Final Peel Avatar Decoration",
+                "name_with_article": "The Final Peel Avatar Decoration",
+                "redemption_instructions_by_platform": {
+                  "0": "Default"
+                }
+              },
+              "expires_at": "2025-12-20T01:00:00+00:00",
+              "expires_at_premium": null,
+              "expiration_mode": 1
+            }
+          ],
+          "rewards_expire_at": "2025-11-20T00:00:51+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere"
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
       "id": "1430279721777762495",
       "config": {
         "id": "1430279721777762495",
@@ -2852,9 +2950,6 @@
     },
     {
       "id": "1428862922020618290"
-    },
-    {
-      "id": "1420556874629251124"
     },
     {
       "id": "1433219183411462265"
