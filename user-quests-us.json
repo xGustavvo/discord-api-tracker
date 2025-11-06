@@ -109,10 +109,7 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.warframe.com/game/about"
-        }
+        "share_policy": "shareable_everywhere"
       },
       "user_status": null,
       "targeted_content": [],
@@ -227,10 +224,7 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.fortnite.com/"
-        }
+        "share_policy": "shareable_everywhere"
       },
       "user_status": null,
       "targeted_content": [],
@@ -329,10 +323,7 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://store.steampowered.com/app/3241660/REPO/"
-        }
+        "share_policy": "shareable_everywhere"
       },
       "user_status": null,
       "targeted_content": [],
@@ -771,10 +762,7 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=VALVetoInvite"
-        }
+        "share_policy": "shareable_everywhere"
       },
       "user_status": null,
       "targeted_content": [],
@@ -1014,7 +1002,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.ea.com/games/battlefield/battlefield-6/buy",
+          "button_label": "Pre-Order Now",
+          "subtitle": "Battlefield 6 arrives October 10"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -1199,7 +1192,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.blackphonemovie.com/",
+          "button_label": "Get Tickets",
+          "subtitle": "Black Phone 2 in Theaters October 17"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -1334,7 +1332,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://luna.amazon.com/?asin=3uqlui&ref_=dvmLaunchLaunch30vid_dig",
+          "button_label": "Learn More",
+          "subtitle": "No Setup. No Console. Play it with Prime."
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -1429,7 +1432,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://bpsr.onelink.me/Ijsy/m8kb1moj"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -1786,7 +1792,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://store.steampowered.com/app/2183900/Warhammer_40000_Space_Marine_2/?utm_source=Discord&utm_medium=Quest&utm_campaign=SM2_FreeDemo"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -1927,12 +1936,7 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://peacocktv.app.link/0UHnuqRWiXb",
-          "button_label": "Learn More",
-          "subtitle": "NBA Tip-Off Oct 21"
-        }
+        "share_policy": "shareable_everywhere"
       },
       "user_status": null,
       "targeted_content": [],
@@ -3033,10 +3037,7 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://hoyo.link/ULR8QuyPH"
-        }
+        "share_policy": "shareable_everywhere"
       },
       "user_status": null,
       "targeted_content": [],
@@ -3177,7 +3178,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://arcraiders.com/en/?utm_campaign=pre-order&utm_source=discord&utm_term=us&utm_content=generalgaming&utm_medium=custom",
+          "button_label": "Pre-Order Now",
+          "subtitle": "Available on PS5, Xbox Series X|S, and PC."
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -3291,10 +3297,7 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://arcraiders.com/en/?utm_campaign=launch&utm_source=discord&utm_term=us&utm_content=broadgaming&utm_medium=custom"
-        }
+        "share_policy": "shareable_everywhere"
       },
       "user_status": null,
       "targeted_content": [],
@@ -3435,12 +3438,7 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://saber.games/painkiller/",
-          "button_label": "Learn More",
-          "subtitle": "Check Out Painkiller Today"
-        }
+        "share_policy": "shareable_everywhere"
       },
       "user_status": null,
       "targeted_content": [],
@@ -3828,12 +3826,7 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://ad.doubleclick.net/ddm/trackclk/N1726419.3866164DISCORD.COM/B34292729.431210376;dc_trk_aid=623771555;dc_trk_cid=242665100;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
-          "button_label": "Learn More",
-          "subtitle": "Monopoly at McD’s "
-        }
+        "share_policy": "shareable_everywhere"
       },
       "user_status": null,
       "targeted_content": [],
@@ -4339,7 +4332,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": " https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/2139460?af_media_source=discord&af_campaign_id=steamus20251030&af_campaign=steamus20251030&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F2139460%3Futm_source%3DNAOCT%26utm_campaign%3DDC%26utm_content%3Ddiscordquest"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -4480,7 +4476,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.runningmanmovie.com/",
+          "button_label": "Get Tickets",
+          "subtitle": " The Running Man Only in Theaters November 14"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -4716,7 +4717,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://store.steampowered.com/app/2795540/The_Midnight_Walkers/"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -4972,10 +4976,7 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.fortnite.com/"
-        }
+        "share_policy": "shareable_everywhere"
       },
       "user_status": null,
       "targeted_content": [],
@@ -5231,7 +5232,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://peacocktv.app.link/dkZ6i1LDaXb",
+          "button_label": "Learn More",
+          "subtitle": "Streaming Now Only on Peacock"
+        }
       },
       "user_status": null,
       "targeted_content": [],
