@@ -109,7 +109,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.warframe.com/game/about"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -304,7 +307,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://pplx.ai/discord-comet"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -419,7 +425,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=VALVetoInvite"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -613,10 +622,7 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://bpsr.onelink.me/Ijsy/m8kb1moj"
-        }
+        "share_policy": "shareable_everywhere"
       },
       "user_status": null,
       "targeted_content": [],
@@ -751,7 +757,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://luna.amazon.com/?asin=3uqlui&ref_=dvmLaunchLaunch30vid_dig",
+          "button_label": "Mehr erfahren",
+          "subtitle": "No Setup. No Console. Play it with Prime."
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -1045,7 +1056,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://luna.amazon.com/game/courtroom-chaos/B0FR8SP73R",
+          "button_label": "Jetzt spielen",
+          "subtitle": "Available exclusively on Amazon Luna"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -1184,7 +1200,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://bpsr.onelink.me/Ijsy/rf8s8a2v",
+          "button_label": "Spiel holen",
+          "subtitle": "Your story awaits in Blue Protocol: Star Resonance"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -1325,7 +1346,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.kingofmeat.com/sale?utm_source=Discord&utm_campaign=_KoMeat_Discord_USDE_Web_AWS_HighImpact_CPM_VIDQUEST1_Custom_20251105_NA_null",
+          "button_label": "Jetzt kaufen",
+          "subtitle": "75 % Rabatt und verfügbar auf Steam, PlayStation 5, and Xbox Series X|S"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -1648,10 +1674,7 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://game.ea.com/redirect?campaignName=PVZR_UA_US_SOC_DISC_LAUNCH_ALL&caudience=ALL-BROAD&ccreative=DISCORD"
-        }
+        "share_policy": "shareable_everywhere"
       },
       "user_status": null,
       "targeted_content": [],
@@ -2670,7 +2693,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.peacocktv.com/stream-movies/how-to-train-your-dragon-2025",
+          "button_label": "Mehr erfahren",
+          "subtitle": "Streaming Only on Peacock October 10"
+        }
       },
       "user_status": null,
       "targeted_content": [],

@@ -109,7 +109,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.warframe.com/game/about"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -224,7 +227,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.fortnite.com/"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -847,10 +853,7 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://app.adjust.com/1thx73qj?campaign=LOL25&adgroup=S3_WORLDS&creative=Discord_Quest&utm_source=discord&utm_medium=social&utm_campaign=LOL25-S3Worlds&utm_content=Discord_Quest"
-        }
+        "share_policy": "shareable_everywhere"
       },
       "user_status": null,
       "targeted_content": [],
@@ -991,12 +994,7 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.ea.com/games/battlefield/battlefield-6/buy",
-          "button_label": "Pré-compra aqui",
-          "subtitle": "Battlefield 6 arrives October 10"
-        }
+        "share_policy": "shareable_everywhere"
       },
       "user_status": null,
       "targeted_content": [],
@@ -1665,7 +1663,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://ninja.kiwi/discord_quest25"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -2888,7 +2889,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://game.ea.com/redirect?campaignName=PVZR_UA_US_SOC_DISC_LAUNCH_ALL&caudience=ALL-BROAD&ccreative=DISCORD"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -3508,7 +3512,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://play2xko.com/?utm_source=discord&utm_medium=paid&utm_campaign=2XKOEarlyAccess"
+        }
       },
       "user_status": {
         "user_id": "1428841673236021251",
@@ -3805,7 +3812,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://ad.doubleclick.net/ddm/trackclk/N1726419.3866164DISCORD.COM/B34292729.431210376;dc_trk_aid=623771555;dc_trk_cid=242665100;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+          "button_label": "Mais detalhes",
+          "subtitle": "Monopoly at McD’s "
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -3943,7 +3955,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://pokemon-go.onelink.me/nBRb/niwqoq43",
+          "button_label": "Baixe aqui",
+          "subtitle": "Pokémon Go Wild Area 2025"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -4078,7 +4095,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://chainsawman.movie/?utm_source=discord&utm_medium=core",
+          "button_label": "Adquira seu ingresso",
+          "subtitle": "Now Playing Exclusively in Theatres"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -4691,7 +4713,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://store.steampowered.com/app/2795540/The_Midnight_Walkers/"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -5203,7 +5228,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://peacocktv.app.link/dkZ6i1LDaXb",
+          "button_label": "Mais detalhes",
+          "subtitle": "Streaming Now Only on Peacock"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -5344,7 +5374,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://discord.com/shop",
+          "button_label": "Comprar",
+          "subtitle": "Discord Halloween 2025 Shop Drop"
+        }
       },
       "user_status": {
         "user_id": "1428841673236021251",

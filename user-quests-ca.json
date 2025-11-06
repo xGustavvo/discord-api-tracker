@@ -224,7 +224,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.fortnite.com/"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -991,7 +994,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.ea.com/games/battlefield/battlefield-6/buy",
+          "button_label": "Pre-Order Now",
+          "subtitle": "Battlefield 6 arrives October 10"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -1406,7 +1414,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://bpsr.onelink.me/Ijsy/m8kb1moj"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -1545,12 +1556,7 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://store.steampowered.com/app/3321460?utm_source=discord_liquid&utm_campaign=preorder&utm_medium=us&utm_content=preorder_video&utm_term=openworldactionadventurefans",
-          "button_label": "Pre-Order Now",
-          "subtitle": "Coming to PS5, Xbox Series X|S, Steam, and Mac."
-        }
+        "share_policy": "shareable_everywhere"
       },
       "user_status": null,
       "targeted_content": [],
@@ -1665,10 +1671,7 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://ninja.kiwi/discord_quest25"
-        }
+        "share_policy": "shareable_everywhere"
       },
       "user_status": null,
       "targeted_content": [],
@@ -2340,7 +2343,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": " https://ad.doubleclick.net/ddm/trackclk/N7657.3866164DISCORD.COM/B34205182.431038236;dc_trk_aid=623823591;dc_trk_cid=243136455;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=;dc_tdv=1"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -2997,10 +3003,7 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://hoyo.link/ULR8QuyPH"
-        }
+        "share_policy": "shareable_everywhere"
       },
       "user_status": null,
       "targeted_content": [],
@@ -3495,7 +3498,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://play2xko.com/?utm_source=discord&utm_medium=paid&utm_campaign=2XKOEarlyAccess"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -3636,7 +3642,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://ad.doubleclick.net/ddm/trackclk/N1306638.3397510DISCORD/B34236210.430652093;dc_trk_aid=623806100;dc_trk_cid=243250710;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D;ltd=;dc_tdv=1",
+          "button_label": "Buy Now",
+          "subtitle": "This is Battlefield 6. It all goes down on PS5®."
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -3781,7 +3792,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://ad.doubleclick.net/ddm/trackclk/N1726419.3866164DISCORD.COM/B34292729.431210376;dc_trk_aid=623771555;dc_trk_cid=242665100;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+          "button_label": "Learn More",
+          "subtitle": "Monopoly at McD’s "
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -4298,10 +4314,7 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": " https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/2139460?af_media_source=discord&af_campaign_id=steamus20251030&af_campaign=steamus20251030&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F2139460%3Futm_source%3DNAOCT%26utm_campaign%3DDC%26utm_content%3Ddiscordquest"
-        }
+        "share_policy": "shareable_everywhere"
       },
       "user_status": null,
       "targeted_content": [],
@@ -4442,7 +4455,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.runningmanmovie.com/",
+          "button_label": "Get Tickets",
+          "subtitle": " The Running Man Only in Theaters November 14"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -5052,7 +5070,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.marvelrivals.com/"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -5193,12 +5214,7 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://peacocktv.app.link/dkZ6i1LDaXb",
-          "button_label": "Learn More",
-          "subtitle": "Streaming Now Only on Peacock"
-        }
+        "share_policy": "shareable_everywhere"
       },
       "user_status": null,
       "targeted_content": [],

@@ -109,7 +109,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.warframe.com/game/about"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -224,7 +227,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.fortnite.com/"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -323,7 +329,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://store.steampowered.com/app/3241660/REPO/"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -423,10 +432,7 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.blackphonemovie.com/tickets"
-        }
+        "share_policy": "shareable_everywhere"
       },
       "user_status": null,
       "targeted_content": [],
@@ -636,7 +642,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://pplx.ai/discord-comet"
+        }
       },
       "user_status": {
         "user_id": "1369835936246005872",
@@ -762,7 +771,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=VALVetoInvite"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -1556,7 +1568,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://store.steampowered.com/app/3321460?utm_source=discord_liquid&utm_campaign=preorder&utm_medium=us&utm_content=preorder_video&utm_term=openworldactionadventurefans",
+          "button_label": "Pre-Order Now",
+          "subtitle": "Coming to PS5, Xbox Series X|S, Steam, and Mac."
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -1910,7 +1927,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://peacocktv.app.link/0UHnuqRWiXb",
+          "button_label": "Learn More",
+          "subtitle": "NBA Tip-Off Oct 21"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -2484,7 +2506,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.kingofmeat.com/sale?utm_source=Discord&utm_campaign=_KoMeat_Discord_USDE_Web_AWS_HighImpact_CPM_VIDQUEST1_Custom_20251105_NA_null",
+          "button_label": "Buy Now",
+          "subtitle": "75% off and available on Steam, PlayStation 5, and Xbox Series X|S"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -2598,7 +2625,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.kingofmeat.com/pre-order?utm_source=Discord"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -2894,7 +2924,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://game.ea.com/redirect?campaignName=PVZR_UA_US_SOC_DISC_LAUNCH_ALL&caudience=ALL-BROAD&ccreative=DISCORD"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -3000,7 +3033,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://hoyo.link/ULR8QuyPH"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -3255,7 +3291,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://arcraiders.com/en/?utm_campaign=launch&utm_source=discord&utm_term=us&utm_content=broadgaming&utm_medium=custom"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -3396,7 +3435,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://saber.games/painkiller/",
+          "button_label": "Learn More",
+          "subtitle": "Check Out Painkiller Today"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -3495,7 +3539,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://play2xko.com/?utm_source=discord&utm_medium=paid&utm_campaign=2XKOEarlyAccess"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -3781,7 +3828,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://ad.doubleclick.net/ddm/trackclk/N1726419.3866164DISCORD.COM/B34292729.431210376;dc_trk_aid=623771555;dc_trk_cid=242665100;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+          "button_label": "Learn More",
+          "subtitle": "Monopoly at McD’s "
+        }
       },
       "user_status": null,
       "targeted_content": [],
