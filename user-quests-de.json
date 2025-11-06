@@ -208,7 +208,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://store.steampowered.com/app/3241660/REPO/"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -748,12 +751,7 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://luna.amazon.com/?asin=3uqlui&ref_=dvmLaunchLaunch30vid_dig",
-          "button_label": "Mehr erfahren",
-          "subtitle": "No Setup. No Console. Play it with Prime."
-        }
+        "share_policy": "shareable_everywhere"
       },
       "user_status": null,
       "targeted_content": [],
@@ -868,10 +866,7 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://ninja.kiwi/discord_quest25"
-        }
+        "share_policy": "shareable_everywhere"
       },
       "user_status": null,
       "targeted_content": [],
@@ -1050,7 +1045,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://luna.amazon.com/game/courtroom-chaos/B0FR8SP73R",
+          "button_label": "Jetzt spielen",
+          "subtitle": "Available exclusively on Amazon Luna"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -1444,7 +1444,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.kingofmeat.com/pre-order?utm_source=Discord"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -1794,12 +1797,7 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://arcraiders.com/en/?utm_campaign=pre-order&utm_source=discord&utm_term=us&utm_content=generalgaming&utm_medium=custom",
-          "button_label": "Jetzt vorbestellen",
-          "subtitle": "Verfügbar für PS5, Xbox Series X|S und PC."
-        }
+        "share_policy": "shareable_everywhere"
       },
       "user_status": null,
       "targeted_content": [],
@@ -2022,7 +2020,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://arcraiders.com/en/?utm_campaign=launch&utm_source=discord&utm_term=us&utm_content=broadgaming&utm_medium=custom"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -2404,7 +2405,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://pokemon-go.onelink.me/nBRb/niwqoq43",
+          "button_label": "Herunterladen",
+          "subtitle": "Pokémon Go Wild Area 2025"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -2539,12 +2545,7 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://dinkum.krafton.com/",
-          "button_label": "Jetzt spielen",
-          "subtitle": "Available now on the Nintendo eShop!"
-        }
+        "share_policy": "shareable_everywhere"
       },
       "user_status": null,
       "targeted_content": [],
@@ -2685,12 +2686,7 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.peacocktv.com/stream-movies/how-to-train-your-dragon-2025",
-          "button_label": "Mehr erfahren",
-          "subtitle": "Streaming Only on Peacock October 10"
-        }
+        "share_policy": "shareable_everywhere"
       },
       "user_status": null,
       "targeted_content": [],
@@ -2831,12 +2827,7 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.firefox.com/de/?mozcb=y&utm_campaign=SET_DEFAULT_BROWSER",
-          "button_label": "Mehr erfahren",
-          "subtitle": "Übernimm die Kontrolle über dein Internet"
-        }
+        "share_policy": "shareable_everywhere"
       },
       "user_status": {
         "user_id": "1435260648899481631",
@@ -3364,7 +3355,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://discord.com/shop",
+          "button_label": "Jetzt kaufen",
+          "subtitle": "Discord Halloween 2025 Shop Drop"
+        }
       },
       "user_status": null,
       "targeted_content": [],

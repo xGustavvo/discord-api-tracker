@@ -423,7 +423,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.blackphonemovie.com/tickets"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -762,7 +765,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=VALVetoInvite"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -1192,12 +1198,7 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.blackphonemovie.com/",
-          "button_label": "Get Tickets",
-          "subtitle": "Black Phone 2 in Theaters October 17"
-        }
+        "share_policy": "shareable_everywhere"
       },
       "user_status": null,
       "targeted_content": [],
@@ -1332,12 +1333,7 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://luna.amazon.com/?asin=3uqlui&ref_=dvmLaunchLaunch30vid_dig",
-          "button_label": "Learn More",
-          "subtitle": "No Setup. No Console. Play it with Prime."
-        }
+        "share_policy": "shareable_everywhere"
       },
       "user_status": null,
       "targeted_content": [],
@@ -1432,10 +1428,7 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://bpsr.onelink.me/Ijsy/m8kb1moj"
-        }
+        "share_policy": "shareable_everywhere"
       },
       "user_status": null,
       "targeted_content": [],
@@ -1574,12 +1567,7 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://store.steampowered.com/app/3321460?utm_source=discord_liquid&utm_campaign=preorder&utm_medium=us&utm_content=preorder_video&utm_term=openworldactionadventurefans",
-          "button_label": "Pre-Order Now",
-          "subtitle": "Coming to PS5, Xbox Series X|S, Steam, and Mac."
-        }
+        "share_policy": "shareable_everywhere"
       },
       "user_status": null,
       "targeted_content": [],
@@ -1694,7 +1682,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://ninja.kiwi/discord_quest25"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -1792,10 +1783,7 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://store.steampowered.com/app/2183900/Warhammer_40000_Space_Marine_2/?utm_source=Discord&utm_medium=Quest&utm_campaign=SM2_FreeDemo"
-        }
+        "share_policy": "shareable_everywhere"
       },
       "user_status": null,
       "targeted_content": [],
@@ -2510,12 +2498,7 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.kingofmeat.com/sale?utm_source=Discord&utm_campaign=_KoMeat_Discord_USDE_Web_AWS_HighImpact_CPM_VIDQUEST1_Custom_20251105_NA_null",
-          "button_label": "Buy Now",
-          "subtitle": "75% off and available on Steam, PlayStation 5, and Xbox Series X|S"
-        }
+        "share_policy": "shareable_everywhere"
       },
       "user_status": null,
       "targeted_content": [],
@@ -2629,10 +2612,7 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.kingofmeat.com/pre-order?utm_source=Discord"
-        }
+        "share_policy": "shareable_everywhere"
       },
       "user_status": null,
       "targeted_content": [],
@@ -2928,10 +2908,7 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://game.ea.com/redirect?campaignName=PVZR_UA_US_SOC_DISC_LAUNCH_ALL&caudience=ALL-BROAD&ccreative=DISCORD"
-        }
+        "share_policy": "shareable_everywhere"
       },
       "user_status": null,
       "targeted_content": [],
@@ -3037,7 +3014,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://hoyo.link/ULR8QuyPH"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -3178,12 +3158,7 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://arcraiders.com/en/?utm_campaign=pre-order&utm_source=discord&utm_term=us&utm_content=generalgaming&utm_medium=custom",
-          "button_label": "Pre-Order Now",
-          "subtitle": "Available on PS5, Xbox Series X|S, and PC."
-        }
+        "share_policy": "shareable_everywhere"
       },
       "user_status": null,
       "targeted_content": [],
@@ -3438,7 +3413,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://saber.games/painkiller/",
+          "button_label": "Learn More",
+          "subtitle": "Check Out Painkiller Today"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -3537,10 +3517,7 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://play2xko.com/?utm_source=discord&utm_medium=paid&utm_campaign=2XKOEarlyAccess"
-        }
+        "share_policy": "shareable_everywhere"
       },
       "user_status": null,
       "targeted_content": [],
@@ -3826,7 +3803,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://ad.doubleclick.net/ddm/trackclk/N1726419.3866164DISCORD.COM/B34292729.431210376;dc_trk_aid=623771555;dc_trk_cid=242665100;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+          "button_label": "Learn More",
+          "subtitle": "Monopoly at McD’s "
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -4099,7 +4081,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://chainsawman.movie/?utm_source=discord&utm_medium=core",
+          "button_label": "Get Tickets",
+          "subtitle": "Now Playing Exclusively in Theatres"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -4476,12 +4463,7 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.runningmanmovie.com/",
-          "button_label": "Get Tickets",
-          "subtitle": " The Running Man Only in Theaters November 14"
-        }
+        "share_policy": "shareable_everywhere"
       },
       "user_status": null,
       "targeted_content": [],
@@ -5091,7 +5073,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.marvelrivals.com/"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -5232,12 +5217,7 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://peacocktv.app.link/dkZ6i1LDaXb",
-          "button_label": "Learn More",
-          "subtitle": "Streaming Now Only on Peacock"
-        }
+        "share_policy": "shareable_everywhere"
       },
       "user_status": null,
       "targeted_content": [],
