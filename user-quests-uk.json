@@ -329,7 +329,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://store.steampowered.com/app/3241660/REPO/"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -645,7 +648,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://pplx.ai/discord-comet"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -862,7 +868,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://app.adjust.com/1thx73qj?campaign=LOL25&adgroup=S3_WORLDS&creative=Discord_Quest&utm_source=discord&utm_medium=social&utm_campaign=LOL25-S3Worlds&utm_content=Discord_Quest"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -1003,7 +1012,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.ea.com/games/battlefield/battlefield-6/buy",
+          "button_label": "Pre-Order Now",
+          "subtitle": "Battlefield 6 arrives October 10"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -1188,7 +1202,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.blackphonemovie.com/",
+          "button_label": "Get Tickets",
+          "subtitle": "Black Phone 2 in Theaters October 17"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -1323,7 +1342,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://luna.amazon.com/?asin=3uqlui&ref_=dvmLaunchLaunch30vid_dig",
+          "button_label": "Learn More",
+          "subtitle": "No Setup. No Console. Play it with Prime."
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -1418,7 +1442,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://bpsr.onelink.me/Ijsy/m8kb1moj"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -1677,7 +1704,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://ninja.kiwi/discord_quest25"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -2103,7 +2133,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://luna.amazon.com/game/courtroom-chaos/B0FR8SP73R",
+          "button_label": "Play Now",
+          "subtitle": "Available exclusively on Amazon Luna"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -2362,7 +2397,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": " https://ad.doubleclick.net/ddm/trackclk/N7657.3866164DISCORD.COM/B34205182.431038236;dc_trk_aid=623823591;dc_trk_cid=243136455;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=;dc_tdv=1"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -2622,7 +2660,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.kingofmeat.com/pre-order?utm_source=Discord"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -2807,7 +2848,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.hbomax.com/coming-soon/it-welcome-to-derry",
+          "button_label": "Learn More",
+          "subtitle": "Premieres October 26 at 9pm on HBO Max"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -3171,7 +3217,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://arcraiders.com/en/?utm_campaign=pre-order&utm_source=discord&utm_term=us&utm_content=generalgaming&utm_medium=custom",
+          "button_label": "Pre-Order Now",
+          "subtitle": "Available on PS5, Xbox Series X|S, and PC."
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -3429,7 +3480,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://saber.games/painkiller/",
+          "button_label": "Learn More",
+          "subtitle": "Check Out Painkiller Today"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -3528,7 +3584,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://play2xko.com/?utm_source=discord&utm_medium=paid&utm_campaign=2XKOEarlyAccess"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -3669,7 +3728,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://ad.doubleclick.net/ddm/trackclk/N1306638.3397510DISCORD/B34236210.430652093;dc_trk_aid=623806100;dc_trk_cid=243250710;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D;ltd=;dc_tdv=1",
+          "button_label": "Buy Now",
+          "subtitle": "This is Battlefield 6. It all goes down on PS5®."
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -3814,7 +3878,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://ad.doubleclick.net/ddm/trackclk/N1726419.3866164DISCORD.COM/B34292729.431210376;dc_trk_aid=623771555;dc_trk_cid=242665100;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+          "button_label": "Learn More",
+          "subtitle": "Monopoly at McD’s "
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -3952,7 +4021,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://pokemon-go.onelink.me/nBRb/niwqoq43",
+          "button_label": "Download",
+          "subtitle": "Pokémon Go Wild Area 2025"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -4087,7 +4161,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://chainsawman.movie/?utm_source=discord&utm_medium=core",
+          "button_label": "Get Tickets",
+          "subtitle": "Now Playing Exclusively in Theatres"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -4721,7 +4800,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://store.steampowered.com/app/2795540/The_Midnight_Walkers/"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -4862,7 +4944,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.peacocktv.com/stream-movies/how-to-train-your-dragon-2025",
+          "button_label": "Learn More",
+          "subtitle": "Streaming Only on Peacock October 10"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -5095,7 +5182,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.marvelrivals.com/"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -5382,7 +5472,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://discord.com/shop",
+          "button_label": "Shop Now",
+          "subtitle": "Discord Halloween 2025 Shop Drop"
+        }
       },
       "user_status": null,
       "targeted_content": [],

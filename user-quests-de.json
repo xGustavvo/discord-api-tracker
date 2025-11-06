@@ -109,7 +109,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.warframe.com/game/about"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -307,7 +310,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://pplx.ai/discord-comet"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -1206,7 +1212,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://bpsr.onelink.me/Ijsy/rf8s8a2v",
+          "button_label": "Spiel holen",
+          "subtitle": "Your story awaits in Blue Protocol: Star Resonance"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -1347,7 +1358,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.kingofmeat.com/sale?utm_source=Discord&utm_campaign=_KoMeat_Discord_USDE_Web_AWS_HighImpact_CPM_VIDQUEST1_Custom_20251105_NA_null",
+          "button_label": "Jetzt kaufen",
+          "subtitle": "75 % Rabatt und verfügbar auf Steam, PlayStation 5, and Xbox Series X|S"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -1461,7 +1477,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.kingofmeat.com/pre-order?utm_source=Discord"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -1817,7 +1836,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://arcraiders.com/en/?utm_campaign=pre-order&utm_source=discord&utm_term=us&utm_content=generalgaming&utm_medium=custom",
+          "button_label": "Jetzt vorbestellen",
+          "subtitle": "Verfügbar für PS5, Xbox Series X|S und PC."
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -2040,7 +2064,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://arcraiders.com/en/?utm_campaign=launch&utm_source=discord&utm_term=us&utm_content=broadgaming&utm_medium=custom"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -2139,7 +2166,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://play2xko.com/?utm_source=discord&utm_medium=paid&utm_campaign=2XKOEarlyAccess"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -2859,7 +2889,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.firefox.com/de/?mozcb=y&utm_campaign=SET_DEFAULT_BROWSER",
+          "button_label": "Mehr erfahren",
+          "subtitle": "Übernimm die Kontrolle über dein Internet"
+        }
       },
       "user_status": {
         "user_id": "1435260648899481631",
@@ -2985,7 +3020,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.fortnite.com/"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -3126,7 +3164,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://peacocktv.app.link/dkZ6i1LDaXb",
+          "button_label": "Mehr erfahren",
+          "subtitle": "Streaming Now Only on Peacock"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -3385,7 +3428,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://discord.com/shop",
+          "button_label": "Jetzt kaufen",
+          "subtitle": "Discord Halloween 2025 Shop Drop"
+        }
       },
       "user_status": null,
       "targeted_content": [],

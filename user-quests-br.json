@@ -227,7 +227,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.fortnite.com/"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -326,7 +329,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://store.steampowered.com/app/3241660/REPO/"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -426,7 +432,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.blackphonemovie.com/tickets"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -540,7 +549,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://ad.doubleclick.net/ddm/trackclk/N7657.3866164DISCORD.COM/B34205182.430643621;dc_trk_aid=623957494;dc_trk_cid=242580131;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -636,7 +648,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://pplx.ai/discord-comet"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -997,7 +1012,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.ea.com/games/battlefield/battlefield-6/buy",
+          "button_label": "Pré-compra aqui",
+          "subtitle": "Battlefield 6 arrives October 10"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -1182,7 +1202,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.blackphonemovie.com/",
+          "button_label": "Adquira seu ingresso",
+          "subtitle": "Black Phone 2 in Theaters October 17"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -1317,7 +1342,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://luna.amazon.com/?asin=3uqlui&ref_=dvmLaunchLaunch30vid_dig",
+          "button_label": "Mais detalhes",
+          "subtitle": "No Setup. No Console. Play it with Prime."
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -1554,7 +1584,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://store.steampowered.com/app/3321460?utm_source=discord_liquid&utm_campaign=preorder&utm_medium=us&utm_content=preorder_video&utm_term=openworldactionadventurefans",
+          "button_label": "Pré-compra aqui",
+          "subtitle": "Coming to PS5, Xbox Series X|S, Steam, and Mac."
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -1914,7 +1949,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://peacocktv.app.link/0UHnuqRWiXb",
+          "button_label": "Mais detalhes",
+          "subtitle": "NBA Tip-Off Oct 21"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -2237,7 +2277,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://bpsr.onelink.me/Ijsy/rf8s8a2v",
+          "button_label": "Obter jogo",
+          "subtitle": "Your story awaits in Blue Protocol: Star Resonance"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -2615,7 +2660,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.kingofmeat.com/pre-order?utm_source=Discord"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -3451,7 +3499,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://saber.games/painkiller/",
+          "button_label": "Mais detalhes",
+          "subtitle": "Check Out Painkiller Today"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -3550,7 +3603,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://play2xko.com/?utm_source=discord&utm_medium=paid&utm_campaign=2XKOEarlyAccess"
+        }
       },
       "user_status": {
         "user_id": "1428841673236021251",
@@ -3852,7 +3908,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://ad.doubleclick.net/ddm/trackclk/N1726419.3866164DISCORD.COM/B34292729.431210376;dc_trk_aid=623771555;dc_trk_cid=242665100;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+          "button_label": "Mais detalhes",
+          "subtitle": "Monopoly at McD’s "
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -3990,7 +4051,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://pokemon-go.onelink.me/nBRb/niwqoq43",
+          "button_label": "Baixe aqui",
+          "subtitle": "Pokémon Go Wild Area 2025"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -4512,7 +4578,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.runningmanmovie.com/",
+          "button_label": "Adquira seu ingresso",
+          "subtitle": " The Running Man Only in Theaters November 14"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -5017,7 +5088,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.fortnite.com/"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -5132,7 +5206,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.marvelrivals.com/"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -5273,7 +5350,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://peacocktv.app.link/dkZ6i1LDaXb",
+          "button_label": "Mais detalhes",
+          "subtitle": "Streaming Now Only on Peacock"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -5414,7 +5496,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://discord.com/shop",
+          "button_label": "Comprar",
+          "subtitle": "Discord Halloween 2025 Shop Drop"
+        }
       },
       "user_status": {
         "user_id": "1428841673236021251",
