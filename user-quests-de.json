@@ -422,7 +422,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=VALVetoInvite"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -521,7 +524,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://app.adjust.com/1thx73qj?campaign=LOL25&adgroup=S3_WORLDS&creative=Discord_Quest&utm_source=discord&utm_medium=social&utm_campaign=LOL25-S3Worlds&utm_content=Discord_Quest"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -616,7 +622,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://bpsr.onelink.me/Ijsy/m8kb1moj"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -751,7 +760,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://luna.amazon.com/?asin=3uqlui&ref_=dvmLaunchLaunch30vid_dig",
+          "button_label": "Mehr erfahren",
+          "subtitle": "No Setup. No Console. Play it with Prime."
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -866,7 +880,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://ninja.kiwi/discord_quest25"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -1444,10 +1461,7 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.kingofmeat.com/pre-order?utm_source=Discord"
-        }
+        "share_policy": "shareable_everywhere"
       },
       "user_status": null,
       "targeted_content": [],
@@ -1545,7 +1559,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.fortnite.com/"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -1656,7 +1673,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://game.ea.com/redirect?campaignName=PVZR_UA_US_SOC_DISC_LAUNCH_ALL&caudience=ALL-BROAD&ccreative=DISCORD"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -2020,10 +2040,7 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://arcraiders.com/en/?utm_campaign=launch&utm_source=discord&utm_term=us&utm_content=broadgaming&utm_medium=custom"
-        }
+        "share_policy": "shareable_everywhere"
       },
       "user_status": null,
       "targeted_content": [],
@@ -2267,7 +2284,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://ad.doubleclick.net/ddm/trackclk/N1726419.3866164DISCORD.COM/B34292729.431210376;dc_trk_aid=623771555;dc_trk_cid=242665100;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+          "button_label": "Mehr erfahren",
+          "subtitle": "Monopoly at McD’s "
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -2545,7 +2567,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://dinkum.krafton.com/",
+          "button_label": "Jetzt spielen",
+          "subtitle": "Available now on the Nintendo eShop!"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -2686,7 +2713,12 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.peacocktv.com/stream-movies/how-to-train-your-dragon-2025",
+          "button_label": "Mehr erfahren",
+          "subtitle": "Streaming Only on Peacock October 10"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -3094,12 +3126,7 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://peacocktv.app.link/dkZ6i1LDaXb",
-          "button_label": "Mehr erfahren",
-          "subtitle": "Streaming Now Only on Peacock"
-        }
+        "share_policy": "shareable_everywhere"
       },
       "user_status": null,
       "targeted_content": [],
@@ -3214,7 +3241,10 @@
             0
           ]
         },
-        "share_policy": "shareable_everywhere"
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.marvelrivals.com/"
+        }
       },
       "user_status": null,
       "targeted_content": [],
@@ -3355,12 +3385,7 @@
             "quest_home_video": null
           }
         },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://discord.com/shop",
-          "button_label": "Jetzt kaufen",
-          "subtitle": "Discord Halloween 2025 Shop Drop"
-        }
+        "share_policy": "shareable_everywhere"
       },
       "user_status": null,
       "targeted_content": [],
