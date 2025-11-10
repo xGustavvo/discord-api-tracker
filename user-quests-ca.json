@@ -75,11 +75,21 @@
             },
             "PLAY_ON_XBOX": {
               "type": "PLAY_ON_XBOX",
-              "target": 900
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1402418586244612216"
+                }
+              ]
             },
             "PLAY_ON_PLAYSTATION": {
               "type": "PLAY_ON_PLAYSTATION",
-              "target": 900
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1402418586244612216"
+                }
+              ]
             }
           },
           "join_operator": "or"
@@ -193,11 +203,21 @@
             },
             "PLAY_ON_XBOX": {
               "type": "PLAY_ON_XBOX",
-              "target": 900
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1402418703554842694"
+                }
+              ]
             },
             "PLAY_ON_PLAYSTATION": {
               "type": "PLAY_ON_PLAYSTATION",
-              "target": 900
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1402418703554842694"
+                }
+              ]
             }
           },
           "join_operator": "or"
@@ -413,11 +433,21 @@
             },
             "PLAY_ON_XBOX": {
               "type": "PLAY_ON_XBOX",
-              "target": 900
+              "target": 900,
+              "applications": [
+                {
+                  "id": "700136079562375258"
+                }
+              ]
             },
             "PLAY_ON_PLAYSTATION": {
               "type": "PLAY_ON_PLAYSTATION",
-              "target": 900
+              "target": 900,
+              "applications": [
+                {
+                  "id": "700136079562375258"
+                }
+              ]
             }
           },
           "join_operator": "or"
@@ -871,11 +901,21 @@
             },
             "PLAY_ON_XBOX": {
               "type": "PLAY_ON_XBOX",
-              "target": 900
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1402418571715543120"
+                }
+              ]
             },
             "PLAY_ON_PLAYSTATION": {
               "type": "PLAY_ON_PLAYSTATION",
-              "target": 900
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1402418571715543120"
+                }
+              ]
             }
           },
           "join_operator": "or"
@@ -1650,11 +1690,21 @@
             },
             "PLAY_ON_XBOX": {
               "type": "PLAY_ON_XBOX",
-              "target": 900
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1424836075427332106"
+                }
+              ]
             },
             "PLAY_ON_PLAYSTATION": {
               "type": "PLAY_ON_PLAYSTATION",
-              "target": 900
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1424836075427332106"
+                }
+              ]
             }
           },
           "join_operator": "or"
@@ -1767,11 +1817,21 @@
             },
             "PLAY_ON_XBOX": {
               "type": "PLAY_ON_XBOX",
-              "target": 900
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1431009382950506536"
+                }
+              ]
             },
             "PLAY_ON_PLAYSTATION": {
               "type": "PLAY_ON_PLAYSTATION",
-              "target": 900
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1431009382950506536"
+                }
+              ]
             }
           },
           "join_operator": "or"
@@ -2023,7 +2083,12 @@
             },
             "PLAY_ON_PLAYSTATION": {
               "type": "PLAY_ON_PLAYSTATION",
-              "target": 900
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1121201675240210523"
+                }
+              ]
             }
           },
           "join_operator": "or"
@@ -2136,11 +2201,21 @@
             },
             "PLAY_ON_XBOX": {
               "type": "PLAY_ON_XBOX",
-              "target": 900
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1432419613165228174"
+                }
+              ]
             },
             "PLAY_ON_PLAYSTATION": {
               "type": "PLAY_ON_PLAYSTATION",
-              "target": 900
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1432419613165228174"
+                }
+              ]
             }
           },
           "join_operator": "or"
@@ -3230,11 +3305,21 @@
             },
             "PLAY_ON_XBOX": {
               "type": "PLAY_ON_XBOX",
-              "target": 900
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1402418703554842694"
+                }
+              ]
             },
             "PLAY_ON_PLAYSTATION": {
               "type": "PLAY_ON_PLAYSTATION",
-              "target": 900
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1402418703554842694"
+                }
+              ]
             }
           },
           "join_operator": "or"
@@ -3348,11 +3433,21 @@
             },
             "PLAY_ON_XBOX": {
               "type": "PLAY_ON_XBOX",
-              "target": 900
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1314395942253756416"
+                }
+              ]
             },
             "PLAY_ON_PLAYSTATION": {
               "type": "PLAY_ON_PLAYSTATION",
-              "target": 900
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1314395942253756416"
+                }
+              ]
             }
           },
           "join_operator": "or"
