@@ -339,123 +339,6 @@
       "preview": false
     },
     {
-      "id": "1425677992721514516",
-      "config": {
-        "id": "1425677992721514516",
-        "config_version": 2,
-        "starts_at": "2025-10-10T17:00:21+00:00",
-        "expires_at": "2025-10-24T00:00:21+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://ad.doubleclick.net/ddm/trackclk/N7657.3866164DISCORD.COM/B34205182.430643621;dc_trk_aid=623957494;dc_trk_cid=242580131;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
-          "id": "1425690433018925056",
-          "name": "Battlefield 6"
-        },
-        "assets": {
-          "hero": "quests/1425677992721514516/1425686740584239207.jpg",
-          "hero_video": null,
-          "quest_bar_hero": "quests/1425677992721514516/1425686688969261126.jpg",
-          "quest_bar_hero_video": null,
-          "game_tile": "1425686939159232683.jpg",
-          "logotype": "1425686933950042283.png",
-          "game_tile_light": "quests/1425677992721514516/1425686815599493273.jpg",
-          "game_tile_dark": "quests/1425677992721514516/1425686815599493273.jpg",
-          "logotype_light": "quests/1425677992721514516/1425686787166306384.png",
-          "logotype_dark": "quests/1425677992721514516/1425686787166306384.png"
-        },
-        "colors": {
-          "primary": "#FE3B00",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Battlefield 6 Launch",
-          "game_title": "Battlefield 6",
-          "game_publisher": "Electronic Arts"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "event_name": "PLAY_ON_DESKTOP",
-              "target": 900
-            },
-            "PLAY_ON_XBOX": {
-              "event_name": "PLAY_ON_XBOX",
-              "target": 900
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "event_name": "PLAY_ON_PLAYSTATION",
-              "target": 900
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1425690433018925056"
-                }
-              ]
-            },
-            "PLAY_ON_XBOX": {
-              "type": "PLAY_ON_XBOX",
-              "target": 900
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 1,
-              "sku_id": "1425677992721514517",
-              "asset": "quests/1425677992721514516/1425963968643465266.jpg",
-              "asset_video": null,
-              "messages": {
-                "name": "30-min 2XP Token",
-                "name_with_article": "a 30-min 2XP Token",
-                "redemption_instructions_by_platform": {
-                  "0": "Log in to redeem your code at: https://www.ea.com/games/battlefield/battlefield-6/redeem\n\n1. Log in to your EA Account   \n2. Redeem your in-game codes  \n3. Link your platforms to your EA Account to play on any platform  "
-                }
-              },
-              "approximate_count": null,
-              "redemption_link": null
-            }
-          ],
-          "rewards_expire_at": "2025-11-23T00:00:21+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://ad.doubleclick.net/ddm/trackclk/N7657.3866164DISCORD.COM/B34205182.430643621;dc_trk_aid=623957494;dc_trk_cid=242580131;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
       "id": "1422728852744179862",
       "config": {
         "id": "1422728852744179862",
@@ -669,104 +552,6 @@
         "share_policy": "shareable_everywhere",
         "cta_config": {
           "link": "https://app.adjust.com/1thx73qj?campaign=LOL25&adgroup=S3_WORLDS&creative=Discord_Quest&utm_source=discord&utm_medium=social&utm_campaign=LOL25-S3Worlds&utm_content=Discord_Quest"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
-      "id": "1435391191834165398",
-      "config": {
-        "id": "1435391191834165398",
-        "config_version": 2,
-        "starts_at": "2025-11-07T18:00:08+00:00",
-        "expires_at": "2025-11-15T00:00:08+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://track.iegcom.com/c/h8REHu?campaign_name=pclaunch&ad_group_name=global&ad_name=redgun&utm_source=DC&utm_medium=DC&utm_campaign=pclaunch&utm_content=global&utm_term=redgun",
-          "id": "1238113262969557002",
-          "name": "Arena Breakout: Infinite"
-        },
-        "assets": {
-          "hero": "quests/1435391191834165398/1435392546279915631.jpg",
-          "hero_video": null,
-          "quest_bar_hero": "quests/1435391191834165398/1435392507780272300.jpg",
-          "quest_bar_hero_video": null,
-          "game_tile": "1435392578584445139.png",
-          "logotype": "1435392577397461324.png",
-          "game_tile_light": "quests/1435391191834165398/1435392399370223656.png",
-          "game_tile_dark": "quests/1435391191834165398/1435392399370223656.png",
-          "logotype_light": "quests/1435391191834165398/1435392460535758918.png",
-          "logotype_dark": "quests/1435391191834165398/1435392460535758918.png"
-        },
-        "colors": {
-          "primary": "#E38B3F",
-          "secondary": "#FFA200"
-        },
-        "messages": {
-          "quest_name": "ABI Red Drops Fest",
-          "game_title": "Arena Breakout: Infinite",
-          "game_publisher": "MoreFun Studios"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "event_name": "PLAY_ON_DESKTOP",
-              "target": 900
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1238113262969557002"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 orbs",
-                "name_with_article": "700 orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "orb_quantity": 700
-            }
-          ],
-          "rewards_expire_at": "2025-12-15T00:00:08+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://track.iegcom.com/c/h8REHu?campaign_name=pclaunch&ad_group_name=global&ad_name=redgun&utm_source=DC&utm_medium=DC&utm_campaign=pclaunch&utm_content=global&utm_term=redgun"
         }
       },
       "user_status": null,
@@ -1012,340 +797,6 @@
       "preview": false
     },
     {
-      "id": "1425263680571834399",
-      "config": {
-        "id": "1425263680571834399",
-        "config_version": 2,
-        "starts_at": "2025-10-10T17:00:01+00:00",
-        "expires_at": "2025-10-18T06:59:01+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://www.blackphonemovie.com/",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1425263680571834399/1425265363943166003.jpg",
-          "hero_video": "quests/1425263680571834399/1425265322444722318.mp4",
-          "quest_bar_hero": "quests/1425263680571834399/1425264448859410432.jpg",
-          "quest_bar_hero_video": "quests/1425263680571834399/1425265322444722318.mp4",
-          "game_tile": "1425267822761611436.png",
-          "logotype": "1425267821511704666.png",
-          "game_tile_light": "quests/1425263680571834399/1425265680093155438.png",
-          "game_tile_dark": "quests/1425263680571834399/1425265680093155438.png",
-          "logotype_light": "quests/1425263680571834399/1425265649759813733.png",
-          "logotype_dark": "quests/1425263680571834399/1425265649759813733.png"
-        },
-        "colors": {
-          "primary": "#97281B",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Black Phone 2",
-          "game_title": "In Theaters October 17",
-          "game_publisher": "Universal Pictures"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "WATCH_VIDEO": {
-              "event_name": "WATCH_VIDEO",
-              "target": 75
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "event_name": "WATCH_VIDEO_ON_MOBILE",
-              "target": 75
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 75,
-              "assets": {
-                "video": {
-                  "url": "quests/1425263680571834399/1425268293199200256_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1425263680571834399/1425268458937122886.jpg",
-                  "caption": "quests/1425263680571834399/1425268872600096788.vtt",
-                  "transcript": "quests/1425263680571834399/1425268905936420974.txt"
-                },
-                "video_low_res": {
-                  "url": "quests/1425263680571834399/1425268293199200256_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1425263680571834399/1425268458937122886.jpg",
-                  "caption": "quests/1425263680571834399/1425268872600096788.vtt",
-                  "transcript": "quests/1425263680571834399/1425268905936420974.txt"
-                },
-                "video_hls": {
-                  "url": "quests/1425263680571834399/1425268293199200256.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1425263680571834399/1425268458937122886.jpg",
-                  "caption": "quests/1425263680571834399/1425268872600096788.vtt",
-                  "transcript": "quests/1425263680571834399/1425268905936420974.txt"
-                }
-              },
-              "messages": {
-                "video_title": "Black Phone 2",
-                "video_end_cta_title": "Black Phone 2",
-                "video_end_cta_subtitle": "Black Phone 2 in Theaters October 17",
-                "video_end_cta_button_label": "Get Tickets"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 75,
-              "assets": {
-                "video": {
-                  "url": "quests/1425263680571834399/1425500222741676132_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1425263680571834399/1425268458937122886.jpg",
-                  "caption": "quests/1425263680571834399/1425268872600096788.vtt",
-                  "transcript": "quests/1425263680571834399/1425268905936420974.txt"
-                },
-                "video_low_res": {
-                  "url": "quests/1425263680571834399/1425500222741676132_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1425263680571834399/1425268458937122886.jpg",
-                  "caption": "quests/1425263680571834399/1425268872600096788.vtt",
-                  "transcript": "quests/1425263680571834399/1425268905936420974.txt"
-                },
-                "video_hls": {
-                  "url": "quests/1425263680571834399/1425500222741676132.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1425263680571834399/1425268458937122886.jpg",
-                  "caption": "quests/1425263680571834399/1425268872600096788.vtt",
-                  "transcript": "quests/1425263680571834399/1425268905936420974.txt"
-                }
-              },
-              "messages": {
-                "video_title": "Black Phone 2",
-                "video_end_cta_title": "Black Phone 2",
-                "video_end_cta_subtitle": "Black Phone 2 in Theaters October 17",
-                "video_end_cta_button_label": "Get Tickets"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 3,
-              "sku_id": "1425616465654190161",
-              "asset": "quests/1425263680571834399/1425616632742674573.mp4",
-              "asset_video": null,
-              "messages": {
-                "name": "Black Phone 2 Avatar Decoration",
-                "name_with_article": "a Black Phone 2 Avatar Decoration",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "expires_at": "2025-12-17T01:00:00+00:00",
-              "expires_at_premium": null,
-              "expiration_mode": 3
-            }
-          ],
-          "rewards_expire_at": "2025-11-17T06:59:01+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "video_metadata": {
-          "messages": {
-            "video_title": "Black Phone 2",
-            "video_end_cta_title": "Black Phone 2",
-            "video_end_cta_subtitle": "Black Phone 2 in Theaters October 17",
-            "video_end_cta_button_label": "Get Tickets"
-          },
-          "assets": {
-            "video_player_video_hls": "quests/1425263680571834399/1425268293199200256.m3u8",
-            "video_player_video": "quests/1425263680571834399/1425268293199200256_1080.mp4",
-            "video_player_thumbnail": "quests/1425263680571834399/1425268458937122886.jpg",
-            "video_player_video_low_res": "quests/1425263680571834399/1425268293199200256_720.mp4",
-            "video_player_caption": "quests/1425263680571834399/1425268872600096788.vtt",
-            "video_player_transcript": "quests/1425263680571834399/1425268905936420974.txt",
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.blackphonemovie.com/",
-          "button_label": "Get Tickets",
-          "subtitle": "Black Phone 2 in Theaters October 17"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
-      "id": "1428459919212019874",
-      "config": {
-        "id": "1428459919212019874",
-        "config_version": 2,
-        "starts_at": "2025-10-17T17:00:44+00:00",
-        "expires_at": "2025-10-24T00:00:44+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://store.steampowered.com/app/3321460?utm_source=discord_liquid&utm_campaign=preorder&utm_medium=us&utm_content=preorder_video&utm_term=openworldactionadventurefans",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1428459919212019874/1428461055935250652.jpeg",
-          "hero_video": "quests/1428459919212019874/1428460949542535229.mp4",
-          "quest_bar_hero": "quests/1428459919212019874/1428461006442594407.jpg",
-          "quest_bar_hero_video": "quests/1428459919212019874/1428460949542535229.mp4",
-          "game_tile": "1428461606064619580.jpg",
-          "logotype": "1428550462059184188.png",
-          "game_tile_light": "quests/1428459919212019874/1428461253931827352.jpg",
-          "game_tile_dark": "quests/1428459919212019874/1428461253931827352.jpg",
-          "logotype_light": "quests/1428459919212019874/1428549483142316114.png",
-          "logotype_dark": "quests/1428459919212019874/1428550366483710024.png"
-        },
-        "colors": {
-          "primary": "#8B0000",
-          "secondary": "#2C4A6B"
-        },
-        "messages": {
-          "quest_name": "Crimson Desert",
-          "game_title": "Crimson Desert",
-          "game_publisher": "Pearl Abyss"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "WATCH_VIDEO": {
-              "event_name": "WATCH_VIDEO",
-              "target": 29
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1428459919212019874/1428461666139639818_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1428459919212019874/1428461745520902235.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1428459919212019874/1428461666139639818_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1428459919212019874/1428461745520902235.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1428459919212019874/1428461666139639818.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1428459919212019874/1428461745520902235.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "Crimson Desert Trailer",
-                "video_end_cta_title": "Crimson Desert",
-                "video_end_cta_subtitle": "Coming to PS5, Xbox Series X|S, Steam, and Mac.",
-                "video_end_cta_button_label": "Pre-Order Now"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 3,
-              "sku_id": "1428459896847732788",
-              "asset": "quests/1428459919212019874/1428460085230829598.mp4",
-              "asset_video": null,
-              "messages": {
-                "name": "Golden Star Boss Avatar Decoration",
-                "name_with_article": "a Golden Star Boss Avatar Decoration",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "expires_at": "2025-12-23T01:00:00+00:00",
-              "expires_at_premium": null,
-              "expiration_mode": 3
-            }
-          ],
-          "rewards_expire_at": "2025-11-23T00:00:44+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "video_metadata": {
-          "messages": {
-            "video_title": "Crimson Desert Trailer",
-            "video_end_cta_title": "Crimson Desert",
-            "video_end_cta_subtitle": "Coming to PS5, Xbox Series X|S, Steam, and Mac.",
-            "video_end_cta_button_label": "Pre-Order Now"
-          },
-          "assets": {
-            "video_player_video_hls": "quests/1428459919212019874/1428461666139639818.m3u8",
-            "video_player_video": "quests/1428459919212019874/1428461666139639818_1080.mp4",
-            "video_player_thumbnail": "quests/1428459919212019874/1428461745520902235.jpg",
-            "video_player_video_low_res": "quests/1428459919212019874/1428461666139639818_720.mp4",
-            "video_player_caption": null,
-            "video_player_transcript": null,
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://store.steampowered.com/app/3321460?utm_source=discord_liquid&utm_campaign=preorder&utm_medium=us&utm_content=preorder_video&utm_term=openworldactionadventurefans",
-          "button_label": "Pre-Order Now",
-          "subtitle": "Coming to PS5, Xbox Series X|S, Steam, and Mac."
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
       "id": "1428083229587669155",
       "config": {
         "id": "1428083229587669155",
@@ -1457,253 +908,6 @@
         "share_policy": "shareable_everywhere",
         "cta_config": {
           "link": "https://ninja.kiwi/discord_quest25"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
-      "id": "1421275302923079721",
-      "config": {
-        "id": "1421275302923079721",
-        "config_version": 2,
-        "starts_at": "2025-10-16T16:00:38+00:00",
-        "expires_at": "2025-10-23T00:00:38+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://store.steampowered.com/app/2183900/Warhammer_40000_Space_Marine_2/?utm_source=Discord&utm_medium=Quest&utm_campaign=SM2_FreeDemo",
-          "id": "1281297844858257418",
-          "name": "Warhammer 40,000: Space Marine 2"
-        },
-        "assets": {
-          "hero": "quests/1421275302923079721/1422689948821360700.jpg",
-          "hero_video": "quests/1421275302923079721/1422690017020612708.mp4",
-          "quest_bar_hero": "quests/1421275302923079721/1422689979569537034.jpg",
-          "quest_bar_hero_video": "quests/1421275302923079721/1422690017020612708.mp4",
-          "game_tile": "1422690209920978984.png",
-          "logotype": "1422690208821805096.png",
-          "game_tile_light": "quests/1421275302923079721/1422690149459824812.png",
-          "game_tile_dark": "quests/1421275302923079721/1422690149459824812.png",
-          "logotype_light": "quests/1421275302923079721/1422690105621090414.png",
-          "logotype_dark": "quests/1421275302923079721/1422690105621090414.png"
-        },
-        "colors": {
-          "primary": "#C8960A",
-          "secondary": "#F5C538"
-        },
-        "messages": {
-          "quest_name": "Space Marine 2 Free Demo",
-          "game_title": "Warhammer 40,000: Space Marine 2",
-          "game_publisher": "Focus Entertainment Publishing"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "event_name": "PLAY_ON_DESKTOP",
-              "target": 900
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1281297844858257418"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 1,
-              "sku_id": "1421275302923079722",
-              "asset": "quests/1421275302923079721/1422689393537191946.png",
-              "asset_video": null,
-              "messages": {
-                "name": "Porphyr Shield Skin",
-                "name_with_article": "a Porphyr Shield Skin",
-                "redemption_instructions_by_platform": {
-                  "0": "How To Use Redeem Codes:  \n1. Once you have a Redeem Code, head over to https://tinyurl.com/yzavuyet, sign up or create an account to redeem it!   \n2. To proceed, you will need to go to your account, redeem your reward and copy/paste your Redeem Code.  \n3. Once your code is successfully redeemed, the reward will be available in the full game once your link your PROS account in-game by scanning the QR Code.  \n\n**Please note, the Redeem Code is valid from Coordinated Universal Time (UTC): October 16, 2025, 9:00:00 AM to October 23, 2025, 8:59:59 AM.** "
-                }
-              },
-              "approximate_count": null,
-              "redemption_link": null
-            }
-          ],
-          "rewards_expire_at": "2025-11-22T00:00:38+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://store.steampowered.com/app/2183900/Warhammer_40000_Space_Marine_2/?utm_source=Discord&utm_medium=Quest&utm_campaign=SM2_FreeDemo"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
-      "id": "1428135231529029673",
-      "config": {
-        "id": "1428135231529029673",
-        "config_version": 2,
-        "starts_at": "2025-10-17T15:00:32+00:00",
-        "expires_at": "2025-10-21T23:00:32+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://peacocktv.app.link/0UHnuqRWiXb",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1428135231529029673/1428135863375888414.jpg",
-          "hero_video": "quests/1428135231529029673/1428136232805994688.mp4",
-          "quest_bar_hero": "quests/1428135231529029673/1428135863375888414.jpg",
-          "quest_bar_hero_video": "quests/1428135231529029673/1428136232805994688.mp4",
-          "game_tile": "1428136854330408980.png",
-          "logotype": "1428146729865318494.png",
-          "game_tile_light": "quests/1428135231529029673/1428136807639420958.png",
-          "game_tile_dark": "quests/1428135231529029673/1428136807639420958.png",
-          "logotype_light": "quests/1428135231529029673/1428146702350680064.png",
-          "logotype_dark": "quests/1428135231529029673/1428145998554861568.png"
-        },
-        "colors": {
-          "primary": "#000000",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "NBA on NBC & Peacock",
-          "game_title": "NBA Tip-Off Oct 21",
-          "game_publisher": "NBC"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "WATCH_VIDEO": {
-              "event_name": "WATCH_VIDEO",
-              "target": 29
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1428135231529029673/1428137145843056804_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1428135231529029673/1428138083081257070.png",
-                  "caption": "quests/1428135231529029673/1428758681662656613.vtt",
-                  "transcript": "quests/1428135231529029673/1428758720753434785.txt"
-                },
-                "video_low_res": {
-                  "url": "quests/1428135231529029673/1428137145843056804_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1428135231529029673/1428138083081257070.png",
-                  "caption": "quests/1428135231529029673/1428758681662656613.vtt",
-                  "transcript": "quests/1428135231529029673/1428758720753434785.txt"
-                },
-                "video_hls": {
-                  "url": "quests/1428135231529029673/1428137145843056804.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1428135231529029673/1428138083081257070.png",
-                  "caption": "quests/1428135231529029673/1428758681662656613.vtt",
-                  "transcript": "quests/1428135231529029673/1428758720753434785.txt"
-                }
-              },
-              "messages": {
-                "video_title": "NBA Tip-Off Video",
-                "video_end_cta_title": "Learn more",
-                "video_end_cta_subtitle": "NBA Tip-Off Oct 21",
-                "video_end_cta_button_label": "Learn More"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "orb_quantity": 700
-            }
-          ],
-          "rewards_expire_at": "2025-11-20T23:00:32+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "video_metadata": {
-          "messages": {
-            "video_title": "NBA Tip-Off Video",
-            "video_end_cta_title": "Learn more",
-            "video_end_cta_subtitle": "NBA Tip-Off Oct 21",
-            "video_end_cta_button_label": "Learn More"
-          },
-          "assets": {
-            "video_player_video_hls": "quests/1428135231529029673/1428137145843056804.m3u8",
-            "video_player_video": "quests/1428135231529029673/1428137145843056804_1080.mp4",
-            "video_player_thumbnail": "quests/1428135231529029673/1428138083081257070.png",
-            "video_player_video_low_res": "quests/1428135231529029673/1428137145843056804_720.mp4",
-            "video_player_caption": "quests/1428135231529029673/1428758681662656613.vtt",
-            "video_player_transcript": "quests/1428135231529029673/1428758720753434785.txt",
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://peacocktv.app.link/0UHnuqRWiXb",
-          "button_label": "Learn More",
-          "subtitle": "NBA Tip-Off Oct 21"
         }
       },
       "user_status": null,
@@ -2039,124 +1243,6 @@
       "preview": false
     },
     {
-      "id": "1432205768106705070",
-      "config": {
-        "id": "1432205768106705070",
-        "config_version": 2,
-        "starts_at": "2025-10-28T17:00:24+00:00",
-        "expires_at": "2025-11-10T00:00:24+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": " https://ad.doubleclick.net/ddm/trackclk/N7657.3866164DISCORD.COM/B34205182.431038236;dc_trk_aid=623823591;dc_trk_cid=243136455;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=;dc_tdv=1",
-          "id": "1425690433018925056",
-          "name": "Battlefield 6"
-        },
-        "assets": {
-          "hero": "quests/1432205768106705070/1432208895648202863.jpg",
-          "hero_video": null,
-          "quest_bar_hero": "quests/1432205768106705070/1432208937851289661.jpg",
-          "quest_bar_hero_video": null,
-          "game_tile": "1432209078805069895.jpg",
-          "logotype": "1432209077693317212.png",
-          "game_tile_light": "quests/1432205768106705070/1432208977269231728.jpg",
-          "game_tile_dark": "quests/1432205768106705070/1432208977269231728.jpg",
-          "logotype_light": "quests/1432205768106705070/1432209056738705448.png",
-          "logotype_dark": "quests/1432205768106705070/1432209031304446013.png"
-        },
-        "colors": {
-          "primary": "#FE3B00",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Battlefield REDSEC",
-          "game_title": "Battlefield 6",
-          "game_publisher": "Electronic Arts"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "event_name": "PLAY_ON_DESKTOP",
-              "target": 900
-            },
-            "PLAY_ON_XBOX": {
-              "event_name": "PLAY_ON_XBOX",
-              "target": 900
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "event_name": "PLAY_ON_PLAYSTATION",
-              "target": 900
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1425690433018925056"
-                }
-              ]
-            },
-            "PLAY_ON_XBOX": {
-              "type": "PLAY_ON_XBOX",
-              "target": 900
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 3,
-              "sku_id": "1432208254422749215",
-              "asset": "quests/1432205768106705070/1432208386031878154.mp4",
-              "asset_video": null,
-              "messages": {
-                "name": "Battlefield 6 Tank Avatar Decoration",
-                "name_with_article": "a Battlefield 6 Tank Avatar Decoration",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "expires_at": "2026-01-09T00:00:00+00:00",
-              "expires_at_premium": null,
-              "expiration_mode": 3
-            }
-          ],
-          "rewards_expire_at": "2025-12-10T00:00:24+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": " https://ad.doubleclick.net/ddm/trackclk/N7657.3866164DISCORD.COM/B34205182.431038236;dc_trk_aid=623823591;dc_trk_cid=243136455;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=;dc_tdv=1"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
       "id": "1435367355759726642",
       "config": {
         "id": "1435367355759726642",
@@ -2420,196 +1506,6 @@
       "preview": false
     },
     {
-      "id": "1428862922020618290",
-      "config": {
-        "id": "1428862922020618290",
-        "config_version": 2,
-        "starts_at": "2025-10-20T17:00:07+00:00",
-        "expires_at": "2025-10-27T00:00:07+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://www.hbomax.com/coming-soon/it-welcome-to-derry",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1428862922020618290/1428863432681197702.jpg",
-          "hero_video": "quests/1428862922020618290/1428863332739448853.mp4",
-          "quest_bar_hero": "quests/1428862922020618290/1428863361860370503.jpg",
-          "quest_bar_hero_video": "quests/1428862922020618290/1428863332739448853.mp4",
-          "game_tile": "1428863531922493570.png",
-          "logotype": "1428863530886627420.png",
-          "game_tile_light": "quests/1428862922020618290/1428863486531993690.png",
-          "game_tile_dark": "quests/1428862922020618290/1428863486531993690.png",
-          "logotype_light": "quests/1428862922020618290/1428863462108561601.png",
-          "logotype_dark": "quests/1428862922020618290/1428863462108561601.png"
-        },
-        "colors": {
-          "primary": "#AD0518",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "It: Welcome to Derry",
-          "game_title": "October 26 at 9pm on HBO Max",
-          "game_publisher": "HBO Max"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "WATCH_VIDEO": {
-              "event_name": "WATCH_VIDEO",
-              "target": 29
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "event_name": "WATCH_VIDEO_ON_MOBILE",
-              "target": 29
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1428862922020618290/1430232855786553465_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1428862922020618290/1428863976040693830.jpg",
-                  "caption": "quests/1428862922020618290/1428866529587363890.vtt",
-                  "transcript": "quests/1428862922020618290/1428866509673074718.txt"
-                },
-                "video_low_res": {
-                  "url": "quests/1428862922020618290/1430232855786553465_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1428862922020618290/1428863976040693830.jpg",
-                  "caption": "quests/1428862922020618290/1428866529587363890.vtt",
-                  "transcript": "quests/1428862922020618290/1428866509673074718.txt"
-                },
-                "video_hls": {
-                  "url": "quests/1428862922020618290/1430232855786553465.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1428862922020618290/1428863976040693830.jpg",
-                  "caption": "quests/1428862922020618290/1428866529587363890.vtt",
-                  "transcript": "quests/1428862922020618290/1428866509673074718.txt"
-                }
-              },
-              "messages": {
-                "video_title": "It: Welcome to Derry Trailer",
-                "video_end_cta_title": "It: Welcome to Derry",
-                "video_end_cta_subtitle": "Premieres October 26 at 9pm on HBO Max",
-                "video_end_cta_button_label": "Learn More"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1428862922020618290/1430232782394626078_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1428862922020618290/1428863976040693830.jpg",
-                  "caption": "quests/1428862922020618290/1428866529587363890.vtt",
-                  "transcript": "quests/1428862922020618290/1428866558242848909.txt"
-                },
-                "video_low_res": {
-                  "url": "quests/1428862922020618290/1430232782394626078_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1428862922020618290/1428863976040693830.jpg",
-                  "caption": "quests/1428862922020618290/1428866529587363890.vtt",
-                  "transcript": "quests/1428862922020618290/1428866558242848909.txt"
-                },
-                "video_hls": {
-                  "url": "quests/1428862922020618290/1430232782394626078.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1428862922020618290/1428863976040693830.jpg",
-                  "caption": "quests/1428862922020618290/1428866529587363890.vtt",
-                  "transcript": "quests/1428862922020618290/1428866558242848909.txt"
-                }
-              },
-              "messages": {
-                "video_title": "It: Welcome to Derry Trailer",
-                "video_end_cta_title": "It: Welcome to Derry",
-                "video_end_cta_subtitle": "Premieres October 26 at 9pm on HBO Max",
-                "video_end_cta_button_label": "Learn More"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 3,
-              "sku_id": "1428865186185609337",
-              "asset": "quests/1428862922020618290/1428865582022791368.mp4",
-              "asset_video": null,
-              "messages": {
-                "name": "It: Welcome to Derry Avatar Decoration",
-                "name_with_article": "an It: Welcome to Derry Avatar Decoration",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "expires_at": "2025-12-26T01:00:00+00:00",
-              "expires_at_premium": null,
-              "expiration_mode": 3
-            }
-          ],
-          "rewards_expire_at": "2025-11-26T00:00:07+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "video_metadata": {
-          "messages": {
-            "video_title": "It: Welcome to Derry Trailer",
-            "video_end_cta_title": "It: Welcome to Derry",
-            "video_end_cta_subtitle": "Premieres October 26 at 9pm on HBO Max",
-            "video_end_cta_button_label": "Learn More"
-          },
-          "assets": {
-            "video_player_video_hls": "quests/1428862922020618290/1430232855786553465.m3u8",
-            "video_player_video": "quests/1428862922020618290/1430232855786553465_1080.mp4",
-            "video_player_thumbnail": "quests/1428862922020618290/1428863976040693830.jpg",
-            "video_player_video_low_res": "quests/1428862922020618290/1430232855786553465_720.mp4",
-            "video_player_caption": "quests/1428862922020618290/1428866529587363890.vtt",
-            "video_player_transcript": "quests/1428862922020618290/1428866509673074718.txt",
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.hbomax.com/coming-soon/it-welcome-to-derry",
-          "button_label": "Learn More",
-          "subtitle": "Premieres October 26 at 9pm on HBO Max"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
       "id": "1430279721777762495",
       "config": {
         "id": "1430279721777762495",
@@ -2717,115 +1613,6 @@
         "share_policy": "shareable_everywhere",
         "cta_config": {
           "link": "https://game.ea.com/redirect?campaignName=PVZR_UA_US_SOC_DISC_LAUNCH_ALL&caudience=ALL-BROAD&ccreative=DISCORD"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
-      "id": "1432798014786764871",
-      "config": {
-        "id": "1432798014786764871",
-        "config_version": 2,
-        "starts_at": "2025-11-05T03:00:46+00:00",
-        "expires_at": "2025-11-11T00:00:46+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://hoyo.link/ULR8QuyPH",
-          "id": "1121201675240210523",
-          "name": "Honkai: Star Rail"
-        },
-        "assets": {
-          "hero": "quests/1432798014786764871/1432829179979890749.jpg",
-          "hero_video": "quests/1432798014786764871/1432829536533348452.mp4",
-          "quest_bar_hero": "quests/1432798014786764871/1432829179979890749.jpg",
-          "quest_bar_hero_video": "quests/1432798014786764871/1432829536533348452.mp4",
-          "game_tile": "1432830150839635979.png",
-          "logotype": "1432830144468222067.png",
-          "game_tile_light": "quests/1432798014786764871/1432830113980092577.png",
-          "game_tile_dark": "quests/1432798014786764871/1432830113980092577.png",
-          "logotype_light": "quests/1432798014786764871/1432829884216115310.png",
-          "logotype_dark": "quests/1432798014786764871/1432829949756178543.png"
-        },
-        "colors": {
-          "primary": "#FFFFFF",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Honkai: Star Rail",
-          "game_title": "Honkai: Star Rail",
-          "game_publisher": "COGNOSPHERE PTE. LTD."
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "event_name": "PLAY_ON_DESKTOP",
-              "target": 900
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "event_name": "PLAY_ON_PLAYSTATION",
-              "target": 900
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1121201675240210523"
-                }
-              ]
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 1,
-              "sku_id": "1432798014786764872",
-              "asset": "quests/1432798014786764871/1432834723838951595.png",
-              "asset_video": null,
-              "messages": {
-                "name": "V3.7 Quest Bundle",
-                "name_with_article": "a V3.7 Quest Bundle",
-                "redemption_instructions_by_platform": {
-                  "0": "How to redeem:\nVisit the code redemption page on the official website of Honkai: Star Rail (https://hsr.hoyoverse.com/gift). Log in to your game account and follow the instructions to input the code. Once redeemed, you will receive the Bundle through the in-game mail system.\n\nRedemption Code Content: Stellar Jade ×30*, Credit ×20,000, Lost Gold Fragment ×4, Condensed Aether ×5, Traveler's Guide ×3.\n\n* Rewards are limited to 750,000 and will be available exclusively to the first 750,000 Trailblazers who successfully complete the Quest. The distribution of rewards will be based on when the codes were redeemed after completing the task, and they will be distributed on a first-come, first-served basis.\n\n* The redemption code will expire on 2025/12/3 11:00:00 (UTC+8). We highly recommend redeeming it as soon as possible."
-                }
-              },
-              "approximate_count": null,
-              "redemption_link": null
-            }
-          ],
-          "rewards_expire_at": "2025-12-11T00:00:46+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://hoyo.link/ULR8QuyPH"
         }
       },
       "user_status": null,
@@ -2979,6 +1766,115 @@
       "preview": false
     },
     {
+      "id": "1432798014786764871",
+      "config": {
+        "id": "1432798014786764871",
+        "config_version": 2,
+        "starts_at": "2025-11-05T03:00:46+00:00",
+        "expires_at": "2025-11-11T00:00:46+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://hoyo.link/ULR8QuyPH",
+          "id": "1121201675240210523",
+          "name": "Honkai: Star Rail"
+        },
+        "assets": {
+          "hero": "quests/1432798014786764871/1432829179979890749.jpg",
+          "hero_video": "quests/1432798014786764871/1432829536533348452.mp4",
+          "quest_bar_hero": "quests/1432798014786764871/1432829179979890749.jpg",
+          "quest_bar_hero_video": "quests/1432798014786764871/1432829536533348452.mp4",
+          "game_tile": "1432830150839635979.png",
+          "logotype": "1432830144468222067.png",
+          "game_tile_light": "quests/1432798014786764871/1432830113980092577.png",
+          "game_tile_dark": "quests/1432798014786764871/1432830113980092577.png",
+          "logotype_light": "quests/1432798014786764871/1432829884216115310.png",
+          "logotype_dark": "quests/1432798014786764871/1432829949756178543.png"
+        },
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Honkai: Star Rail",
+          "game_title": "Honkai: Star Rail",
+          "game_publisher": "COGNOSPHERE PTE. LTD."
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "event_name": "PLAY_ON_DESKTOP",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "event_name": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1121201675240210523"
+                }
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 1,
+              "sku_id": "1432798014786764872",
+              "asset": "quests/1432798014786764871/1432834723838951595.png",
+              "asset_video": null,
+              "messages": {
+                "name": "V3.7 Quest Bundle",
+                "name_with_article": "a V3.7 Quest Bundle",
+                "redemption_instructions_by_platform": {
+                  "0": "How to redeem:\nVisit the code redemption page on the official website of Honkai: Star Rail (https://hsr.hoyoverse.com/gift). Log in to your game account and follow the instructions to input the code. Once redeemed, you will receive the Bundle through the in-game mail system.\n\nRedemption Code Content: Stellar Jade ×30*, Credit ×20,000, Lost Gold Fragment ×4, Condensed Aether ×5, Traveler's Guide ×3.\n\n* Rewards are limited to 750,000 and will be available exclusively to the first 750,000 Trailblazers who successfully complete the Quest. The distribution of rewards will be based on when the codes were redeemed after completing the task, and they will be distributed on a first-come, first-served basis.\n\n* The redemption code will expire on 2025/12/3 11:00:00 (UTC+8). We highly recommend redeeming it as soon as possible."
+                }
+              },
+              "approximate_count": null,
+              "redemption_link": null
+            }
+          ],
+          "rewards_expire_at": "2025-12-11T00:00:46+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://hoyo.link/ULR8QuyPH"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
       "id": "1432410015721062480",
       "config": {
         "id": "1432410015721062480",
@@ -3096,152 +1992,6 @@
       "preview": false
     },
     {
-      "id": "1427820398283722833",
-      "config": {
-        "id": "1427820398283722833",
-        "config_version": 2,
-        "starts_at": "2025-10-18T17:00:30+00:00",
-        "expires_at": "2025-10-27T00:00:30+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://saber.games/painkiller/",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1427820398283722833/1427821693535129740.jpg",
-          "hero_video": "quests/1427820398283722833/1427821644528881664.mp4",
-          "quest_bar_hero": "quests/1427820398283722833/1427821619145084938.jpg",
-          "quest_bar_hero_video": "quests/1427820398283722833/1427821644528881664.mp4",
-          "game_tile": "1427822378389475339.png",
-          "logotype": "1427822377248620554.png",
-          "game_tile_light": "quests/1427820398283722833/1427821863785988106.png",
-          "game_tile_dark": "quests/1427820398283722833/1427821863785988106.png",
-          "logotype_light": "quests/1427820398283722833/1427821805514657884.png",
-          "logotype_dark": "quests/1427820398283722833/1427821839757086861.png"
-        },
-        "colors": {
-          "primary": "#2596BE",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Painkiller",
-          "game_title": "Painkiller",
-          "game_publisher": "Saber Interactive"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "WATCH_VIDEO": {
-              "event_name": "WATCH_VIDEO",
-              "target": 99
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 99,
-              "assets": {
-                "video": {
-                  "url": "quests/1427820398283722833/1429140608944963666_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1427820398283722833/1427821236666499112.jpg",
-                  "caption": "quests/1427820398283722833/1427821264537518100.vtt",
-                  "transcript": "quests/1427820398283722833/1427821283286056980.txt"
-                },
-                "video_low_res": {
-                  "url": "quests/1427820398283722833/1429140608944963666_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1427820398283722833/1427821236666499112.jpg",
-                  "caption": "quests/1427820398283722833/1427821264537518100.vtt",
-                  "transcript": "quests/1427820398283722833/1427821283286056980.txt"
-                },
-                "video_hls": {
-                  "url": "quests/1427820398283722833/1429140608944963666.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1427820398283722833/1427821236666499112.jpg",
-                  "caption": "quests/1427820398283722833/1427821264537518100.vtt",
-                  "transcript": "quests/1427820398283722833/1427821283286056980.txt"
-                }
-              },
-              "messages": {
-                "video_title": "Painkiller Trailer",
-                "video_end_cta_title": "Painkiller",
-                "video_end_cta_subtitle": "Check Out Painkiller Today",
-                "video_end_cta_button_label": "Learn More"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 orbs",
-                "name_with_article": "700 orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "orb_quantity": 700
-            }
-          ],
-          "rewards_expire_at": "2025-11-26T00:00:30+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "video_metadata": {
-          "messages": {
-            "video_title": "Painkiller Trailer",
-            "video_end_cta_title": "Painkiller",
-            "video_end_cta_subtitle": "Check Out Painkiller Today",
-            "video_end_cta_button_label": "Learn More"
-          },
-          "assets": {
-            "video_player_video_hls": "quests/1427820398283722833/1429140608944963666.m3u8",
-            "video_player_video": "quests/1427820398283722833/1429140608944963666_1080.mp4",
-            "video_player_thumbnail": "quests/1427820398283722833/1427821236666499112.jpg",
-            "video_player_video_low_res": "quests/1427820398283722833/1429140608944963666_720.mp4",
-            "video_player_caption": "quests/1427820398283722833/1427821264537518100.vtt",
-            "video_player_transcript": "quests/1427820398283722833/1427821283286056980.txt",
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://saber.games/painkiller/",
-          "button_label": "Learn More",
-          "subtitle": "Check Out Painkiller Today"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
       "id": "1423010532574756945",
       "config": {
         "id": "1423010532574756945",
@@ -3337,296 +2087,6 @@
         "share_policy": "shareable_everywhere",
         "cta_config": {
           "link": "https://play2xko.com/?utm_source=discord&utm_medium=paid&utm_campaign=2XKOEarlyAccess"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
-      "id": "1427811805065121875",
-      "config": {
-        "id": "1427811805065121875",
-        "config_version": 2,
-        "starts_at": "2025-10-18T17:00:21+00:00",
-        "expires_at": "2025-10-28T00:00:21+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://ad.doubleclick.net/ddm/trackclk/N1306638.3397510DISCORD/B34236210.430652093;dc_trk_aid=623806100;dc_trk_cid=243250710;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D;ltd=;dc_tdv=1",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1427811805065121875/1427813174933065818.jpg",
-          "hero_video": "quests/1427811805065121875/1427813125486280754.mp4",
-          "quest_bar_hero": "quests/1427811805065121875/1427813100756930792.jpg",
-          "quest_bar_hero_video": "quests/1427811805065121875/1427813125486280754.mp4",
-          "game_tile": "1427813456022868140.png",
-          "logotype": "1428115371595927632.png",
-          "game_tile_light": "quests/1427811805065121875/1427813317140942849.png",
-          "game_tile_dark": "quests/1427811805065121875/1427813317140942849.png",
-          "logotype_light": "quests/1427811805065121875/1428115344198860871.png",
-          "logotype_dark": "quests/1427811805065121875/1428115316277383178.png"
-        },
-        "colors": {
-          "primary": "#006FCD",
-          "secondary": "#290C62"
-        },
-        "messages": {
-          "quest_name": "Battlefield 6 on PS5 Video",
-          "game_title": "It all goes down on PS5®",
-          "game_publisher": "PlayStation 5"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "WATCH_VIDEO": {
-              "event_name": "WATCH_VIDEO",
-              "target": 29
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1427811805065121875/1427813536423346348_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1427811805065121875/1427813627284553828.png",
-                  "caption": "quests/1427811805065121875/1427813651871699035.vtt",
-                  "transcript": "quests/1427811805065121875/1427813672746483752.txt"
-                },
-                "video_low_res": {
-                  "url": "quests/1427811805065121875/1427813536423346348_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1427811805065121875/1427813627284553828.png",
-                  "caption": "quests/1427811805065121875/1427813651871699035.vtt",
-                  "transcript": "quests/1427811805065121875/1427813672746483752.txt"
-                },
-                "video_hls": {
-                  "url": "quests/1427811805065121875/1427813536423346348.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1427811805065121875/1427813627284553828.png",
-                  "caption": "quests/1427811805065121875/1427813651871699035.vtt",
-                  "transcript": "quests/1427811805065121875/1427813672746483752.txt"
-                }
-              },
-              "messages": {
-                "video_title": "It all goes down on PS5®",
-                "video_end_cta_title": "Battlefield 6",
-                "video_end_cta_subtitle": "This is Battlefield 6. It all goes down on PS5®.",
-                "video_end_cta_button_label": "Buy Now"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 orbs",
-                "name_with_article": "700 orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "orb_quantity": 700
-            }
-          ],
-          "rewards_expire_at": "2025-11-27T00:00:21+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "video_metadata": {
-          "messages": {
-            "video_title": "It all goes down on PS5®",
-            "video_end_cta_title": "Battlefield 6",
-            "video_end_cta_subtitle": "This is Battlefield 6. It all goes down on PS5®.",
-            "video_end_cta_button_label": "Buy Now"
-          },
-          "assets": {
-            "video_player_video_hls": "quests/1427811805065121875/1427813536423346348.m3u8",
-            "video_player_video": "quests/1427811805065121875/1427813536423346348_1080.mp4",
-            "video_player_thumbnail": "quests/1427811805065121875/1427813627284553828.png",
-            "video_player_video_low_res": "quests/1427811805065121875/1427813536423346348_720.mp4",
-            "video_player_caption": "quests/1427811805065121875/1427813651871699035.vtt",
-            "video_player_transcript": "quests/1427811805065121875/1427813672746483752.txt",
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://ad.doubleclick.net/ddm/trackclk/N1306638.3397510DISCORD/B34236210.430652093;dc_trk_aid=623806100;dc_trk_cid=243250710;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D;ltd=;dc_tdv=1",
-          "button_label": "Buy Now",
-          "subtitle": "This is Battlefield 6. It all goes down on PS5®."
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
-      "id": "1435777559475257428",
-      "config": {
-        "id": "1435777559475257428",
-        "config_version": 2,
-        "starts_at": "2025-11-10T08:00:25+00:00",
-        "expires_at": "2025-12-23T00:00:25+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://ad.doubleclick.net/ddm/trackclk/N2464377.3866164DISCORD.COM/B34241706.432871054;dc_trk_aid=626075048;dc_trk_cid=244981569;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=;dc_tdv=1",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1435777559475257428/1435778180119134290.jpg",
-          "hero_video": "quests/1435777559475257428/1435778009947832391.mp4",
-          "quest_bar_hero": "quests/1435777559475257428/1435777966033342475.jpg",
-          "quest_bar_hero_video": "quests/1435777559475257428/1435778009947832391.mp4",
-          "game_tile": "1435785311295897790.png",
-          "logotype": "1435778404803940392.png",
-          "game_tile_light": "quests/1435777559475257428/1435785295873445938.png",
-          "game_tile_dark": "quests/1435777559475257428/1435785295873445938.png",
-          "logotype_light": "quests/1435777559475257428/1435778349581467719.png",
-          "logotype_dark": "quests/1435777559475257428/1435778317772128276.png"
-        },
-        "colors": {
-          "primary": "#FFFFFF",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Amazon",
-          "game_title": "Amazon",
-          "game_publisher": "Amazon"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "WATCH_VIDEO": {
-              "event_name": "WATCH_VIDEO",
-              "target": 29
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1435777559475257428/1435778618776227860_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1435777559475257428/1435779616026529864.jpg",
-                  "caption": "quests/1435777559475257428/1435779647072768010.vtt",
-                  "transcript": "quests/1435777559475257428/1435779675464143009.txt"
-                },
-                "video_low_res": {
-                  "url": "quests/1435777559475257428/1435778618776227860_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1435777559475257428/1435779616026529864.jpg",
-                  "caption": "quests/1435777559475257428/1435779647072768010.vtt",
-                  "transcript": "quests/1435777559475257428/1435779675464143009.txt"
-                },
-                "video_hls": {
-                  "url": "quests/1435777559475257428/1435778618776227860.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1435777559475257428/1435779616026529864.jpg",
-                  "caption": "quests/1435777559475257428/1435779647072768010.vtt",
-                  "transcript": "quests/1435777559475257428/1435779675464143009.txt"
-                }
-              },
-              "messages": {
-                "video_title": "Amazon Holiday Trailer",
-                "video_end_cta_subtitle": "I mean, it's a really nice bidet.",
-                "video_end_cta_button_label": "Shop Now"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 orbs",
-                "name_with_article": "700 orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "orb_quantity": 700
-            }
-          ],
-          "rewards_expire_at": "2026-01-22T00:00:25+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "video_metadata": {
-          "messages": {
-            "video_title": "Amazon Holiday Trailer",
-            "video_end_cta_subtitle": "I mean, it's a really nice bidet.",
-            "video_end_cta_button_label": "Shop Now"
-          },
-          "assets": {
-            "video_player_video_hls": "quests/1435777559475257428/1435778618776227860.m3u8",
-            "video_player_video": "quests/1435777559475257428/1435778618776227860_1080.mp4",
-            "video_player_thumbnail": "quests/1435777559475257428/1435779616026529864.jpg",
-            "video_player_video_low_res": "quests/1435777559475257428/1435778618776227860_720.mp4",
-            "video_player_caption": "quests/1435777559475257428/1435779647072768010.vtt",
-            "video_player_transcript": "quests/1435777559475257428/1435779675464143009.txt",
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://ad.doubleclick.net/ddm/trackclk/N2464377.3866164DISCORD.COM/B34241706.432871054;dc_trk_aid=626075048;dc_trk_cid=244981569;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=;dc_tdv=1",
-          "button_label": "Shop Now",
-          "subtitle": "I mean, it's a really nice bidet."
         }
       },
       "user_status": null,
@@ -3784,6 +2244,150 @@
       "preview": false
     },
     {
+      "id": "1435777559475257428",
+      "config": {
+        "id": "1435777559475257428",
+        "config_version": 2,
+        "starts_at": "2025-11-10T08:00:25+00:00",
+        "expires_at": "2025-12-23T00:00:25+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://ad.doubleclick.net/ddm/trackclk/N2464377.3866164DISCORD.COM/B34241706.432871054;dc_trk_aid=626075048;dc_trk_cid=244981569;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=;dc_tdv=1",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1435777559475257428/1435778180119134290.jpg",
+          "hero_video": "quests/1435777559475257428/1435778009947832391.mp4",
+          "quest_bar_hero": "quests/1435777559475257428/1435777966033342475.jpg",
+          "quest_bar_hero_video": "quests/1435777559475257428/1435778009947832391.mp4",
+          "game_tile": "1435785311295897790.png",
+          "logotype": "1435778404803940392.png",
+          "game_tile_light": "quests/1435777559475257428/1435785295873445938.png",
+          "game_tile_dark": "quests/1435777559475257428/1435785295873445938.png",
+          "logotype_light": "quests/1435777559475257428/1435778349581467719.png",
+          "logotype_dark": "quests/1435777559475257428/1435778317772128276.png"
+        },
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Amazon",
+          "game_title": "Amazon",
+          "game_publisher": "Amazon"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "WATCH_VIDEO": {
+              "event_name": "WATCH_VIDEO",
+              "target": 29
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1435777559475257428/1435778618776227860_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1435777559475257428/1435779616026529864.jpg",
+                  "caption": "quests/1435777559475257428/1435779647072768010.vtt",
+                  "transcript": "quests/1435777559475257428/1435779675464143009.txt"
+                },
+                "video_low_res": {
+                  "url": "quests/1435777559475257428/1435778618776227860_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1435777559475257428/1435779616026529864.jpg",
+                  "caption": "quests/1435777559475257428/1435779647072768010.vtt",
+                  "transcript": "quests/1435777559475257428/1435779675464143009.txt"
+                },
+                "video_hls": {
+                  "url": "quests/1435777559475257428/1435778618776227860.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1435777559475257428/1435779616026529864.jpg",
+                  "caption": "quests/1435777559475257428/1435779647072768010.vtt",
+                  "transcript": "quests/1435777559475257428/1435779675464143009.txt"
+                }
+              },
+              "messages": {
+                "video_title": "Amazon Holiday Trailer",
+                "video_end_cta_subtitle": "I mean, it's a really nice bidet.",
+                "video_end_cta_button_label": "Shop Now"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 orbs",
+                "name_with_article": "700 orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "Default"
+                }
+              },
+              "orb_quantity": 700
+            }
+          ],
+          "rewards_expire_at": "2026-01-22T00:00:25+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "video_metadata": {
+          "messages": {
+            "video_title": "Amazon Holiday Trailer",
+            "video_end_cta_subtitle": "I mean, it's a really nice bidet.",
+            "video_end_cta_button_label": "Shop Now"
+          },
+          "assets": {
+            "video_player_video_hls": "quests/1435777559475257428/1435778618776227860.m3u8",
+            "video_player_video": "quests/1435777559475257428/1435778618776227860_1080.mp4",
+            "video_player_thumbnail": "quests/1435777559475257428/1435779616026529864.jpg",
+            "video_player_video_low_res": "quests/1435777559475257428/1435778618776227860_720.mp4",
+            "video_player_caption": "quests/1435777559475257428/1435779647072768010.vtt",
+            "video_player_transcript": "quests/1435777559475257428/1435779675464143009.txt",
+            "quest_bar_preview_video": null,
+            "quest_bar_preview_thumbnail": null,
+            "quest_home_video": null
+          }
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://ad.doubleclick.net/ddm/trackclk/N2464377.3866164DISCORD.COM/B34241706.432871054;dc_trk_aid=626075048;dc_trk_cid=244981569;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=;dc_tdv=1",
+          "button_label": "Shop Now",
+          "subtitle": "I mean, it's a really nice bidet."
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
       "id": "1435324548827451605",
       "config": {
         "id": "1435324548827451605",
@@ -3927,12 +2531,12 @@
       "preview": false
     },
     {
-      "id": "1428092429030129755",
+      "id": "1425291943302398073",
       "config": {
-        "id": "1428092429030129755",
+        "id": "1425291943302398073",
         "config_version": 2,
-        "starts_at": "2025-10-17T17:00:27+00:00",
-        "expires_at": "2025-10-25T06:59:27+00:00",
+        "starts_at": "2025-10-14T17:00:19+00:00",
+        "expires_at": "2025-11-04T01:00:19+00:00",
         "features": [
           3,
           9,
@@ -3945,30 +2549,30 @@
           23
         ],
         "application": {
-          "link": "https://chainsawman.movie/?utm_source=discord&utm_medium=core",
+          "link": "https://discord.com/shop",
           "id": "545364944258990091",
           "name": "Discord"
         },
         "assets": {
-          "hero": "quests/1428092429030129755/1428094672940826735.jpg",
-          "hero_video": "quests/1428092429030129755/1428094616061870161.mp4",
-          "quest_bar_hero": "quests/1428092429030129755/1428095623755993108.jpg",
-          "quest_bar_hero_video": "quests/1428092429030129755/1428094616061870161.mp4",
-          "game_tile": "1428095643137736876.png",
-          "logotype": "1428095641946423346.png",
-          "game_tile_light": "quests/1428092429030129755/1428095231093375016.png",
-          "game_tile_dark": "quests/1428092429030129755/1428095231093375016.png",
-          "logotype_light": "quests/1428092429030129755/1428095145055752302.png",
-          "logotype_dark": "quests/1428092429030129755/1428095190937243768.png"
+          "hero": "quests/1425291943302398073/1425603474724491365.jpg",
+          "hero_video": "quests/1425291943302398073/1425603509432352808.mp4",
+          "quest_bar_hero": "quests/1425291943302398073/1425603322785824798.jpg",
+          "quest_bar_hero_video": "quests/1425291943302398073/1425603372764893204.mp4",
+          "game_tile": "1425294157714559043.png",
+          "logotype": "1425294156519178250.png",
+          "game_tile_light": "quests/1425291943302398073/1425294130531270777.png",
+          "game_tile_dark": "quests/1425291943302398073/1425294130531270777.png",
+          "logotype_light": "quests/1425291943302398073/1425293772782174231.png",
+          "logotype_dark": "quests/1425291943302398073/1425293829841616917.png"
         },
         "colors": {
-          "primary": "#D0121E",
-          "secondary": "#D0121E"
+          "primary": "#5865F2",
+          "secondary": "#19175C"
         },
         "messages": {
-          "quest_name": "Chainsaw Man – The Movie: Reze Arc",
-          "game_title": "Now Playing Exclusively In Theatres",
-          "game_publisher": "Crunchyroll"
+          "quest_name": "Discord Halloween 2025",
+          "game_title": "Available in the Shop until 11/3",
+          "game_publisher": "Discord"
         },
         "task_config": {
           "type": 1,
@@ -3976,7 +2580,7 @@
           "tasks": {
             "WATCH_VIDEO": {
               "event_name": "WATCH_VIDEO",
-              "target": 61
+              "target": 22
             }
           }
         },
@@ -3984,32 +2588,38 @@
           "tasks": {
             "WATCH_VIDEO": {
               "type": "WATCH_VIDEO",
-              "target": 61,
+              "target": 22,
               "assets": {
                 "video": {
-                  "url": "quests/1428092429030129755/1428095887669989518_1080.mp4",
+                  "url": "quests/1425291943302398073/1425604040406077540_1080.mp4",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1428092429030129755/1431332396585717861.jpg"
+                  "thumbnail": "quests/1425291943302398073/1425604258367279226.jpg",
+                  "caption": "quests/1425291943302398073/1425604641902825482.vtt",
+                  "transcript": "quests/1425291943302398073/1425604670277288056.txt"
                 },
                 "video_low_res": {
-                  "url": "quests/1428092429030129755/1428095887669989518_720.mp4",
+                  "url": "quests/1425291943302398073/1425604040406077540_720.mp4",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1428092429030129755/1431332396585717861.jpg"
+                  "thumbnail": "quests/1425291943302398073/1425604258367279226.jpg",
+                  "caption": "quests/1425291943302398073/1425604641902825482.vtt",
+                  "transcript": "quests/1425291943302398073/1425604670277288056.txt"
                 },
                 "video_hls": {
-                  "url": "quests/1428092429030129755/1428095887669989518.m3u8",
+                  "url": "quests/1425291943302398073/1425604040406077540.m3u8",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1428092429030129755/1431332396585717861.jpg"
+                  "thumbnail": "quests/1425291943302398073/1425604258367279226.jpg",
+                  "caption": "quests/1425291943302398073/1425604641902825482.vtt",
+                  "transcript": "quests/1425291943302398073/1425604670277288056.txt"
                 }
               },
               "messages": {
-                "video_title": "Chainsaw Man – The Movie: Reze Arc Trailer",
-                "video_end_cta_title": "Chainsaw Man Trailer",
-                "video_end_cta_subtitle": "Now Playing Exclusively in Theatres",
-                "video_end_cta_button_label": "Get Tickets"
+                "video_title": "Discord Halloween 2025 Quest",
+                "video_end_cta_title": "Discord Halloween 2025 ",
+                "video_end_cta_subtitle": "Discord Halloween 2025 Shop Drop",
+                "video_end_cta_button_label": "Shop Now"
               }
             }
           },
@@ -4022,34 +2632,34 @@
               "type": 4,
               "sku_id": "1287881739531976815",
               "messages": {
-                "name": "700 orbs",
-                "name_with_article": "700 orbs",
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
                 "redemption_instructions_by_platform": {
                   "0": "Default"
                 }
               },
-              "orb_quantity": 700
+              "orb_quantity": 200
             }
           ],
-          "rewards_expire_at": "2025-11-24T06:59:27+00:00",
+          "rewards_expire_at": "2025-12-04T01:00:19+00:00",
           "platforms": [
             0
           ]
         },
         "video_metadata": {
           "messages": {
-            "video_title": "Chainsaw Man – The Movie: Reze Arc Trailer",
-            "video_end_cta_title": "Chainsaw Man Trailer",
-            "video_end_cta_subtitle": "Now Playing Exclusively in Theatres",
-            "video_end_cta_button_label": "Get Tickets"
+            "video_title": "Discord Halloween 2025 Quest",
+            "video_end_cta_title": "Discord Halloween 2025 ",
+            "video_end_cta_subtitle": "Discord Halloween 2025 Shop Drop",
+            "video_end_cta_button_label": "Shop Now"
           },
           "assets": {
-            "video_player_video_hls": "quests/1428092429030129755/1428095887669989518.m3u8",
-            "video_player_video": "quests/1428092429030129755/1428095887669989518_1080.mp4",
-            "video_player_thumbnail": "quests/1428092429030129755/1431332396585717861.jpg",
-            "video_player_video_low_res": "quests/1428092429030129755/1428095887669989518_720.mp4",
-            "video_player_caption": null,
-            "video_player_transcript": null,
+            "video_player_video_hls": "quests/1425291943302398073/1425604040406077540.m3u8",
+            "video_player_video": "quests/1425291943302398073/1425604040406077540_1080.mp4",
+            "video_player_thumbnail": "quests/1425291943302398073/1425604258367279226.jpg",
+            "video_player_video_low_res": "quests/1425291943302398073/1425604040406077540_720.mp4",
+            "video_player_caption": "quests/1425291943302398073/1425604641902825482.vtt",
+            "video_player_transcript": "quests/1425291943302398073/1425604670277288056.txt",
             "quest_bar_preview_video": null,
             "quest_bar_preview_thumbnail": null,
             "quest_home_video": null
@@ -4057,646 +2667,9 @@
         },
         "share_policy": "shareable_everywhere",
         "cta_config": {
-          "link": "https://chainsawman.movie/?utm_source=discord&utm_medium=core",
-          "button_label": "Get Tickets",
-          "subtitle": "Now Playing Exclusively in Theatres"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
-      "id": "1435329773197987961",
-      "config": {
-        "id": "1435329773197987961",
-        "config_version": 2,
-        "starts_at": "2025-11-06T18:00:02+00:00",
-        "expires_at": "2025-11-13T00:00:02+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://dinkum.krafton.com/",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1434969640194539610/1435335451081969694.jpg",
-          "hero_video": "quests/1434969640194539610/1435332596279283832.mp4",
-          "quest_bar_hero": "quests/1434969640194539610/1435332551278334013.jpg",
-          "quest_bar_hero_video": "quests/1434969640194539610/1435332596279283832.mp4",
-          "game_tile": "1436046341246550046.png",
-          "logotype": "1436046340282122281.png",
-          "game_tile_light": "quests/1435329773197987961/1436046324507349197.png",
-          "game_tile_dark": "quests/1435329773197987961/1436046324507349197.png",
-          "logotype_light": "quests/1435329773197987961/1436046285361647697.png",
-          "logotype_dark": "quests/1435329773197987961/1436046285361647697.png"
-        },
-        "colors": {
-          "primary": "#FFFFFF",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Dinkum on Switch ",
-          "game_title": "Dinkum",
-          "game_publisher": "Krafton"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "WATCH_VIDEO": {
-              "event_name": "WATCH_VIDEO",
-              "target": 89
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 89,
-              "assets": {
-                "video": {
-                  "url": "quests/1434969640194539610/1434975725873664040_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1435329773197987961/1435745204631245003.png",
-                  "caption": "quests/1434969640194539610/1435333145523388576.vtt",
-                  "transcript": "quests/1434969640194539610/1435333169703419944.txt"
-                },
-                "video_low_res": {
-                  "url": "quests/1434969640194539610/1434975725873664040_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1435329773197987961/1435745204631245003.png",
-                  "caption": "quests/1434969640194539610/1435333145523388576.vtt",
-                  "transcript": "quests/1434969640194539610/1435333169703419944.txt"
-                },
-                "video_hls": {
-                  "url": "quests/1434969640194539610/1434975725873664040.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1435329773197987961/1435745204631245003.png",
-                  "caption": "quests/1434969640194539610/1435333145523388576.vtt",
-                  "transcript": "quests/1434969640194539610/1435333169703419944.txt"
-                }
-              },
-              "messages": {
-                "video_title": "Dinkum on Switch",
-                "video_end_cta_title": "Dinkum",
-                "video_end_cta_subtitle": "Available now on the Nintendo eShop!",
-                "video_end_cta_button_label": "Play Now"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 orbs",
-                "name_with_article": "700 orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "orb_quantity": 700
-            }
-          ],
-          "rewards_expire_at": "2025-12-13T00:00:02+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "video_metadata": {
-          "messages": {
-            "video_title": "Dinkum on Switch",
-            "video_end_cta_title": "Dinkum",
-            "video_end_cta_subtitle": "Available now on the Nintendo eShop!",
-            "video_end_cta_button_label": "Play Now"
-          },
-          "assets": {
-            "video_player_video_hls": "quests/1434969640194539610/1434975725873664040.m3u8",
-            "video_player_video": "quests/1434969640194539610/1434975725873664040_1080.mp4",
-            "video_player_thumbnail": "quests/1435329773197987961/1435745204631245003.png",
-            "video_player_video_low_res": "quests/1434969640194539610/1434975725873664040_720.mp4",
-            "video_player_caption": "quests/1434969640194539610/1435333145523388576.vtt",
-            "video_player_transcript": "quests/1434969640194539610/1435333169703419944.txt",
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://dinkum.krafton.com/",
-          "button_label": "Play Now",
-          "subtitle": "Available now on the Nintendo eShop!"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
-      "id": "1433219183411462265",
-      "config": {
-        "id": "1433219183411462265",
-        "config_version": 2,
-        "starts_at": "2025-10-30T17:00:21+00:00",
-        "expires_at": "2025-11-06T00:00:21+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": " https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/2139460?af_media_source=discord&af_campaign_id=steamus20251030&af_campaign=steamus20251030&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F2139460%3Futm_source%3DNAOCT%26utm_campaign%3DDC%26utm_content%3Ddiscordquest",
-          "id": "1260340082150346932",
-          "name": "Once Human"
-        },
-        "assets": {
-          "hero": "quests/1433219183411462265/1433489073086926918.jpg",
-          "hero_video": null,
-          "quest_bar_hero": "quests/1433219183411462265/1433219756122443816.jpeg",
-          "quest_bar_hero_video": null,
-          "game_tile": "1433221188754083960.jpg",
-          "logotype": "1433852526871973898.png",
-          "game_tile_light": "quests/1433219183411462265/1433221095284146287.jpg",
-          "game_tile_dark": "quests/1433219183411462265/1433221095284146287.jpg",
-          "logotype_light": "quests/1433219183411462265/1433221436750696591.png",
-          "logotype_dark": "quests/1433219183411462265/1433852506420543518.png"
-        },
-        "colors": {
-          "primary": "#153945",
-          "secondary": "#11222C"
-        },
-        "messages": {
-          "quest_name": "Palworld Collab",
-          "game_title": "Once Human",
-          "game_publisher": "Starry Studio"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "event_name": "PLAY_ON_DESKTOP",
-              "target": 900
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1260340082150346932"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 1,
-              "sku_id": "1433219183411462266",
-              "asset": "quests/1433219183411462265/1433220408626118726.png",
-              "asset_video": null,
-              "messages": {
-                "name": "Uncharted Territory",
-                "name_with_article": "an Uncharted Territory",
-                "redemption_instructions_by_platform": {
-                  "0": "Enter the game > Press F3 > Press X > Input the code"
-                }
-              },
-              "approximate_count": null,
-              "redemption_link": null
-            }
-          ],
-          "rewards_expire_at": "2025-12-06T00:00:21+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": " https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/2139460?af_media_source=discord&af_campaign_id=steamus20251030&af_campaign=steamus20251030&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F2139460%3Futm_source%3DNAOCT%26utm_campaign%3DDC%26utm_content%3Ddiscordquest"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
-      "id": "1435003145339273317",
-      "config": {
-        "id": "1435003145339273317",
-        "config_version": 2,
-        "starts_at": "2025-11-06T00:10:10+00:00",
-        "expires_at": "2025-11-16T00:00:10+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://www.runningmanmovie.com/",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1435003145339273317/1435006661000691792.jpg",
-          "hero_video": "quests/1435003145339273317/1435007074516996166.mp4",
-          "quest_bar_hero": "quests/1435003145339273317/1435007045484020026.jpg",
-          "quest_bar_hero_video": "quests/1435003145339273317/1435007074516996166.mp4",
-          "game_tile": "1435007291706310806.png",
-          "logotype": "1435007290532167953.png",
-          "game_tile_light": "quests/1435003145339273317/1435007244151427082.png",
-          "game_tile_dark": "quests/1435003145339273317/1435007244151427082.png",
-          "logotype_light": "quests/1435003145339273317/1435007167596986398.png",
-          "logotype_dark": "quests/1435003145339273317/1435007195522666617.png"
-        },
-        "colors": {
-          "primary": "#FFFFFF",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "The Running Man",
-          "game_title": "Only in Theaters November 14",
-          "game_publisher": "Paramount Pictures"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "WATCH_VIDEO": {
-              "event_name": "WATCH_VIDEO",
-              "target": 148
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 148,
-              "assets": {
-                "video": {
-                  "url": "quests/1435003145339273317/1435007485353263315_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1435003145339273317/1435007724961271808.jpg",
-                  "caption": "quests/1435003145339273317/1435783066026115092.vtt",
-                  "transcript": "quests/1435003145339273317/1435783110628479047.txt"
-                },
-                "video_low_res": {
-                  "url": "quests/1435003145339273317/1435007485353263315_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1435003145339273317/1435007724961271808.jpg",
-                  "caption": "quests/1435003145339273317/1435783066026115092.vtt",
-                  "transcript": "quests/1435003145339273317/1435783110628479047.txt"
-                },
-                "video_hls": {
-                  "url": "quests/1435003145339273317/1435007485353263315.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1435003145339273317/1435007724961271808.jpg",
-                  "caption": "quests/1435003145339273317/1435783066026115092.vtt",
-                  "transcript": "quests/1435003145339273317/1435783110628479047.txt"
-                }
-              },
-              "messages": {
-                "video_title": "The Running Man Trailer",
-                "video_end_cta_title": " The Running Man",
-                "video_end_cta_subtitle": " The Running Man Only in Theaters November 14",
-                "video_end_cta_button_label": "Get Tickets"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 orbs",
-                "name_with_article": "700 orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "orb_quantity": 700
-            }
-          ],
-          "rewards_expire_at": "2025-12-16T00:00:10+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "video_metadata": {
-          "messages": {
-            "video_title": "The Running Man Trailer",
-            "video_end_cta_title": " The Running Man",
-            "video_end_cta_subtitle": " The Running Man Only in Theaters November 14",
-            "video_end_cta_button_label": "Get Tickets"
-          },
-          "assets": {
-            "video_player_video_hls": "quests/1435003145339273317/1435007485353263315.m3u8",
-            "video_player_video": "quests/1435003145339273317/1435007485353263315_1080.mp4",
-            "video_player_thumbnail": "quests/1435003145339273317/1435007724961271808.jpg",
-            "video_player_video_low_res": "quests/1435003145339273317/1435007485353263315_720.mp4",
-            "video_player_caption": "quests/1435003145339273317/1435783066026115092.vtt",
-            "video_player_transcript": "quests/1435003145339273317/1435783110628479047.txt",
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.runningmanmovie.com/",
-          "button_label": "Get Tickets",
-          "subtitle": " The Running Man Only in Theaters November 14"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
-      "id": "1427829905323724922",
-      "config": {
-        "id": "1427829905323724922",
-        "config_version": 2,
-        "starts_at": "2025-10-20T17:00:17+00:00",
-        "expires_at": "2025-11-01T00:00:17+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://bugoniafilm.com/",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1427829905323724922/1428061707699228683.jpg",
-          "hero_video": "quests/1427829905323724922/1428061788053962903.mp4",
-          "quest_bar_hero": "quests/1427829905323724922/1427830635145461771.jpg",
-          "quest_bar_hero_video": "quests/1427829905323724922/1428061788053962903.mp4",
-          "game_tile": "1427831568386228257.png",
-          "logotype": "1428062071848960152.png",
-          "game_tile_light": "quests/1427829905323724922/1427831095772315720.png",
-          "game_tile_dark": "quests/1427829905323724922/1427831095772315720.png",
-          "logotype_light": "quests/1427829905323724922/1428061918525919392.png",
-          "logotype_dark": "quests/1427829905323724922/1428061983156207656.png"
-        },
-        "colors": {
-          "primary": "#6C231F",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Bugonia",
-          "game_title": "In Theaters Everywhere October 31",
-          "game_publisher": "Focus Features"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "WATCH_VIDEO": {
-              "event_name": "WATCH_VIDEO",
-              "target": 114
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 114,
-              "assets": {
-                "video": {
-                  "url": "quests/1427829905323724922/1428062182855151716_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1427829905323724922/1428062369241759837.png",
-                  "caption": "quests/1427829905323724922/1428062422501032248.vtt",
-                  "transcript": "quests/1427829905323724922/1428062469644882060.txt"
-                },
-                "video_low_res": {
-                  "url": "quests/1427829905323724922/1428062182855151716_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1427829905323724922/1428062369241759837.png",
-                  "caption": "quests/1427829905323724922/1428062422501032248.vtt",
-                  "transcript": "quests/1427829905323724922/1428062469644882060.txt"
-                },
-                "video_hls": {
-                  "url": "quests/1427829905323724922/1428062182855151716.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1427829905323724922/1428062369241759837.png",
-                  "caption": "quests/1427829905323724922/1428062422501032248.vtt",
-                  "transcript": "quests/1427829905323724922/1428062469644882060.txt"
-                }
-              },
-              "messages": {
-                "video_title": "Bugonia Trailer",
-                "video_end_cta_title": "Get Tickets",
-                "video_end_cta_subtitle": "Bugonia is in Theaters Everywhere October 31",
-                "video_end_cta_button_label": "Get Tickets"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "orb_quantity": 700
-            }
-          ],
-          "rewards_expire_at": "2025-12-01T00:00:17+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "video_metadata": {
-          "messages": {
-            "video_title": "Bugonia Trailer",
-            "video_end_cta_title": "Get Tickets",
-            "video_end_cta_subtitle": "Bugonia is in Theaters Everywhere October 31",
-            "video_end_cta_button_label": "Get Tickets"
-          },
-          "assets": {
-            "video_player_video_hls": "quests/1427829905323724922/1428062182855151716.m3u8",
-            "video_player_video": "quests/1427829905323724922/1428062182855151716_1080.mp4",
-            "video_player_thumbnail": "quests/1427829905323724922/1428062369241759837.png",
-            "video_player_video_low_res": "quests/1427829905323724922/1428062182855151716_720.mp4",
-            "video_player_caption": "quests/1427829905323724922/1428062422501032248.vtt",
-            "video_player_transcript": "quests/1427829905323724922/1428062469644882060.txt",
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://bugoniafilm.com/",
-          "button_label": "Get Tickets",
-          "subtitle": "Bugonia is in Theaters Everywhere October 31"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
-      "id": "1425698814315991141",
-      "config": {
-        "id": "1425698814315991141",
-        "config_version": 2,
-        "starts_at": "2025-10-13T17:00:05+00:00",
-        "expires_at": "2025-10-21T00:00:05+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://store.steampowered.com/app/2795540/The_Midnight_Walkers/",
-          "id": "1425698395774783611",
-          "name": "The Midnight Walkers"
-        },
-        "assets": {
-          "hero": "quests/1425698814315991141/1425700873534967881.jpg",
-          "hero_video": "quests/1425698814315991141/1425700924378321019.mp4",
-          "quest_bar_hero": "quests/1425698814315991141/1425700592554344559.jpg",
-          "quest_bar_hero_video": "quests/1425698814315991141/1425700979696861286.mp4",
-          "game_tile": "1425701127348949082.png",
-          "logotype": "1425701126375866418.png",
-          "game_tile_light": "quests/1425698814315991141/1425701058528809021.png",
-          "game_tile_dark": "quests/1425698814315991141/1425701058528809021.png",
-          "logotype_light": "quests/1425698814315991141/1425701020419493981.png",
-          "logotype_dark": "quests/1425698814315991141/1425701020419493981.png"
-        },
-        "colors": {
-          "primary": "#96241C",
-          "secondary": "#1D1A21"
-        },
-        "messages": {
-          "quest_name": "Zombie Extraction",
-          "game_title": "The Midnight Walkers",
-          "game_publisher": "Oneway Ticket Studio"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "event_name": "PLAY_ON_DESKTOP",
-              "target": 900
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1425698395774783611"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 orbs",
-                "name_with_article": "700 orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "orb_quantity": 700
-            }
-          ],
-          "rewards_expire_at": "2025-11-20T00:00:05+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://store.steampowered.com/app/2795540/The_Midnight_Walkers/"
+          "link": "https://discord.com/shop",
+          "button_label": "Shop Now",
+          "subtitle": "Discord Halloween 2025 Shop Drop"
         }
       },
       "user_status": null,
@@ -4850,124 +2823,6 @@
       "preview": false
     },
     {
-      "id": "1432770475590684784",
-      "config": {
-        "id": "1432770475590684784",
-        "config_version": 2,
-        "starts_at": "2025-11-02T15:40:20+00:00",
-        "expires_at": "2025-11-10T01:00:20+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://www.fortnite.com/",
-          "id": "1402418703554842694",
-          "name": "Fortnite"
-        },
-        "assets": {
-          "hero": "quests/1432770475590684784/1432838937092690042.jpg",
-          "hero_video": null,
-          "quest_bar_hero": "quests/1432770475590684784/1432838905996116088.jpg",
-          "quest_bar_hero_video": null,
-          "game_tile": "1432839185957519491.png",
-          "logotype": "1432839184904618135.png",
-          "game_tile_light": "quests/1432770475590684784/1432838991995998359.png",
-          "game_tile_dark": "quests/1432770475590684784/1432838991995998359.png",
-          "logotype_light": "quests/1432770475590684784/1432839029392539729.png",
-          "logotype_dark": "quests/1432770475590684784/1432839029392539729.png"
-        },
-        "colors": {
-          "primary": "#FFFFFF",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Fortnite Discord",
-          "game_title": "Fortnite",
-          "game_publisher": "Epic Games"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "event_name": "PLAY_ON_DESKTOP",
-              "target": 900
-            },
-            "PLAY_ON_XBOX": {
-              "event_name": "PLAY_ON_XBOX",
-              "target": 900
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "event_name": "PLAY_ON_PLAYSTATION",
-              "target": 900
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1402418703554842694"
-                }
-              ]
-            },
-            "PLAY_ON_XBOX": {
-              "type": "PLAY_ON_XBOX",
-              "target": 900
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 3,
-              "sku_id": "1432839801438208042",
-              "asset": "quests/1432770475590684784/1432840126031073402.mp4",
-              "asset_video": null,
-              "messages": {
-                "name": "Peely Vanish Avatar Decoration",
-                "name_with_article": "a Peely Vanish Avatar Decoration",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "expires_at": "2026-01-09T00:00:00+00:00",
-              "expires_at_premium": null,
-              "expiration_mode": 1
-            }
-          ],
-          "rewards_expire_at": "2025-12-10T01:00:20+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.fortnite.com/"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
       "id": "1430258734113755247",
       "config": {
         "id": "1430258734113755247",
@@ -5114,6 +2969,124 @@
       "preview": false
     },
     {
+      "id": "1432770475590684784",
+      "config": {
+        "id": "1432770475590684784",
+        "config_version": 2,
+        "starts_at": "2025-11-02T15:40:20+00:00",
+        "expires_at": "2025-11-10T01:00:20+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://www.fortnite.com/",
+          "id": "1402418703554842694",
+          "name": "Fortnite"
+        },
+        "assets": {
+          "hero": "quests/1432770475590684784/1432838937092690042.jpg",
+          "hero_video": null,
+          "quest_bar_hero": "quests/1432770475590684784/1432838905996116088.jpg",
+          "quest_bar_hero_video": null,
+          "game_tile": "1432839185957519491.png",
+          "logotype": "1432839184904618135.png",
+          "game_tile_light": "quests/1432770475590684784/1432838991995998359.png",
+          "game_tile_dark": "quests/1432770475590684784/1432838991995998359.png",
+          "logotype_light": "quests/1432770475590684784/1432839029392539729.png",
+          "logotype_dark": "quests/1432770475590684784/1432839029392539729.png"
+        },
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Fortnite Discord",
+          "game_title": "Fortnite",
+          "game_publisher": "Epic Games"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "event_name": "PLAY_ON_DESKTOP",
+              "target": 900
+            },
+            "PLAY_ON_XBOX": {
+              "event_name": "PLAY_ON_XBOX",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "event_name": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1402418703554842694"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 3,
+              "sku_id": "1432839801438208042",
+              "asset": "quests/1432770475590684784/1432840126031073402.mp4",
+              "asset_video": null,
+              "messages": {
+                "name": "Peely Vanish Avatar Decoration",
+                "name_with_article": "a Peely Vanish Avatar Decoration",
+                "redemption_instructions_by_platform": {
+                  "0": "Default"
+                }
+              },
+              "expires_at": "2026-01-09T00:00:00+00:00",
+              "expires_at_premium": null,
+              "expiration_mode": 1
+            }
+          ],
+          "rewards_expire_at": "2025-12-10T01:00:20+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.fortnite.com/"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
       "id": "1425283638257254514",
       "config": {
         "id": "1425283638257254514",
@@ -5232,12 +3205,12 @@
       "preview": false
     },
     {
-      "id": "1425291943302398073",
+      "id": "1435329773197987961",
       "config": {
-        "id": "1425291943302398073",
+        "id": "1435329773197987961",
         "config_version": 2,
-        "starts_at": "2025-10-14T17:00:19+00:00",
-        "expires_at": "2025-11-04T01:00:19+00:00",
+        "starts_at": "2025-11-06T18:00:02+00:00",
+        "expires_at": "2025-11-13T00:00:02+00:00",
         "features": [
           3,
           9,
@@ -5250,30 +3223,30 @@
           23
         ],
         "application": {
-          "link": "https://discord.com/shop",
+          "link": "https://dinkum.krafton.com/",
           "id": "545364944258990091",
           "name": "Discord"
         },
         "assets": {
-          "hero": "quests/1425291943302398073/1425603474724491365.jpg",
-          "hero_video": "quests/1425291943302398073/1425603509432352808.mp4",
-          "quest_bar_hero": "quests/1425291943302398073/1425603322785824798.jpg",
-          "quest_bar_hero_video": "quests/1425291943302398073/1425603372764893204.mp4",
-          "game_tile": "1425294157714559043.png",
-          "logotype": "1425294156519178250.png",
-          "game_tile_light": "quests/1425291943302398073/1425294130531270777.png",
-          "game_tile_dark": "quests/1425291943302398073/1425294130531270777.png",
-          "logotype_light": "quests/1425291943302398073/1425293772782174231.png",
-          "logotype_dark": "quests/1425291943302398073/1425293829841616917.png"
+          "hero": "quests/1434969640194539610/1435335451081969694.jpg",
+          "hero_video": "quests/1434969640194539610/1435332596279283832.mp4",
+          "quest_bar_hero": "quests/1434969640194539610/1435332551278334013.jpg",
+          "quest_bar_hero_video": "quests/1434969640194539610/1435332596279283832.mp4",
+          "game_tile": "1436046341246550046.png",
+          "logotype": "1436046340282122281.png",
+          "game_tile_light": "quests/1435329773197987961/1436046324507349197.png",
+          "game_tile_dark": "quests/1435329773197987961/1436046324507349197.png",
+          "logotype_light": "quests/1435329773197987961/1436046285361647697.png",
+          "logotype_dark": "quests/1435329773197987961/1436046285361647697.png"
         },
         "colors": {
-          "primary": "#5865F2",
-          "secondary": "#19175C"
+          "primary": "#FFFFFF",
+          "secondary": "#000000"
         },
         "messages": {
-          "quest_name": "Discord Halloween 2025",
-          "game_title": "Available in the Shop until 11/3",
-          "game_publisher": "Discord"
+          "quest_name": "Dinkum on Switch ",
+          "game_title": "Dinkum",
+          "game_publisher": "Krafton"
         },
         "task_config": {
           "type": 1,
@@ -5281,7 +3254,7 @@
           "tasks": {
             "WATCH_VIDEO": {
               "event_name": "WATCH_VIDEO",
-              "target": 22
+              "target": 89
             }
           }
         },
@@ -5289,38 +3262,38 @@
           "tasks": {
             "WATCH_VIDEO": {
               "type": "WATCH_VIDEO",
-              "target": 22,
+              "target": 89,
               "assets": {
                 "video": {
-                  "url": "quests/1425291943302398073/1425604040406077540_1080.mp4",
+                  "url": "quests/1434969640194539610/1434975725873664040_1080.mp4",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1425291943302398073/1425604258367279226.jpg",
-                  "caption": "quests/1425291943302398073/1425604641902825482.vtt",
-                  "transcript": "quests/1425291943302398073/1425604670277288056.txt"
+                  "thumbnail": "quests/1435329773197987961/1435745204631245003.png",
+                  "caption": "quests/1434969640194539610/1435333145523388576.vtt",
+                  "transcript": "quests/1434969640194539610/1435333169703419944.txt"
                 },
                 "video_low_res": {
-                  "url": "quests/1425291943302398073/1425604040406077540_720.mp4",
+                  "url": "quests/1434969640194539610/1434975725873664040_720.mp4",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1425291943302398073/1425604258367279226.jpg",
-                  "caption": "quests/1425291943302398073/1425604641902825482.vtt",
-                  "transcript": "quests/1425291943302398073/1425604670277288056.txt"
+                  "thumbnail": "quests/1435329773197987961/1435745204631245003.png",
+                  "caption": "quests/1434969640194539610/1435333145523388576.vtt",
+                  "transcript": "quests/1434969640194539610/1435333169703419944.txt"
                 },
                 "video_hls": {
-                  "url": "quests/1425291943302398073/1425604040406077540.m3u8",
+                  "url": "quests/1434969640194539610/1434975725873664040.m3u8",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1425291943302398073/1425604258367279226.jpg",
-                  "caption": "quests/1425291943302398073/1425604641902825482.vtt",
-                  "transcript": "quests/1425291943302398073/1425604670277288056.txt"
+                  "thumbnail": "quests/1435329773197987961/1435745204631245003.png",
+                  "caption": "quests/1434969640194539610/1435333145523388576.vtt",
+                  "transcript": "quests/1434969640194539610/1435333169703419944.txt"
                 }
               },
               "messages": {
-                "video_title": "Discord Halloween 2025 Quest",
-                "video_end_cta_title": "Discord Halloween 2025 ",
-                "video_end_cta_subtitle": "Discord Halloween 2025 Shop Drop",
-                "video_end_cta_button_label": "Shop Now"
+                "video_title": "Dinkum on Switch",
+                "video_end_cta_title": "Dinkum",
+                "video_end_cta_subtitle": "Available now on the Nintendo eShop!",
+                "video_end_cta_button_label": "Play Now"
               }
             }
           },
@@ -5333,34 +3306,34 @@
               "type": 4,
               "sku_id": "1287881739531976815",
               "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
+                "name": "700 orbs",
+                "name_with_article": "700 orbs",
                 "redemption_instructions_by_platform": {
                   "0": "Default"
                 }
               },
-              "orb_quantity": 200
+              "orb_quantity": 700
             }
           ],
-          "rewards_expire_at": "2025-12-04T01:00:19+00:00",
+          "rewards_expire_at": "2025-12-13T00:00:02+00:00",
           "platforms": [
             0
           ]
         },
         "video_metadata": {
           "messages": {
-            "video_title": "Discord Halloween 2025 Quest",
-            "video_end_cta_title": "Discord Halloween 2025 ",
-            "video_end_cta_subtitle": "Discord Halloween 2025 Shop Drop",
-            "video_end_cta_button_label": "Shop Now"
+            "video_title": "Dinkum on Switch",
+            "video_end_cta_title": "Dinkum",
+            "video_end_cta_subtitle": "Available now on the Nintendo eShop!",
+            "video_end_cta_button_label": "Play Now"
           },
           "assets": {
-            "video_player_video_hls": "quests/1425291943302398073/1425604040406077540.m3u8",
-            "video_player_video": "quests/1425291943302398073/1425604040406077540_1080.mp4",
-            "video_player_thumbnail": "quests/1425291943302398073/1425604258367279226.jpg",
-            "video_player_video_low_res": "quests/1425291943302398073/1425604040406077540_720.mp4",
-            "video_player_caption": "quests/1425291943302398073/1425604641902825482.vtt",
-            "video_player_transcript": "quests/1425291943302398073/1425604670277288056.txt",
+            "video_player_video_hls": "quests/1434969640194539610/1434975725873664040.m3u8",
+            "video_player_video": "quests/1434969640194539610/1434975725873664040_1080.mp4",
+            "video_player_thumbnail": "quests/1435329773197987961/1435745204631245003.png",
+            "video_player_video_low_res": "quests/1434969640194539610/1434975725873664040_720.mp4",
+            "video_player_caption": "quests/1434969640194539610/1435333145523388576.vtt",
+            "video_player_transcript": "quests/1434969640194539610/1435333169703419944.txt",
             "quest_bar_preview_video": null,
             "quest_bar_preview_thumbnail": null,
             "quest_home_video": null
@@ -5368,9 +3341,9 @@
         },
         "share_policy": "shareable_everywhere",
         "cta_config": {
-          "link": "https://discord.com/shop",
-          "button_label": "Shop Now",
-          "subtitle": "Discord Halloween 2025 Shop Drop"
+          "link": "https://dinkum.krafton.com/",
+          "button_label": "Play Now",
+          "subtitle": "Available now on the Nintendo eShop!"
         }
       },
       "user_status": null,
@@ -5380,31 +3353,76 @@
   ],
   "excluded_quests": [
     {
+      "id": "1430319105034027078"
+    },
+    {
+      "id": "1427820398283722833"
+    },
+    {
+      "id": "1427811805065121875"
+    },
+    {
+      "id": "1425677992721514516"
+    },
+    {
+      "id": "1435391191834165398"
+    },
+    {
+      "id": "1423051598787121242"
+    },
+    {
+      "id": "1428092429030129755"
+    },
+    {
+      "id": "1434969640194539610"
+    },
+    {
+      "id": "1425263680571834399"
+    },
+    {
+      "id": "1428459919212019874"
+    },
+    {
       "id": "1425614323958677667"
     },
     {
       "id": "1427802437347053668"
     },
     {
-      "id": "1434969640194539610"
+      "id": "1435003145339273317"
+    },
+    {
+      "id": "1425698814315991141"
     },
     {
       "id": "1425272488287408250"
     },
     {
-      "id": "1430319105034027078"
+      "id": "1425921949665591336"
     },
     {
-      "id": "1425921949665591336"
+      "id": "1421275302923079721"
+    },
+    {
+      "id": "1428135231529029673"
+    },
+    {
+      "id": "1432205768106705070"
     },
     {
       "id": "1433542422268350574"
     },
     {
+      "id": "1428862922020618290"
+    },
+    {
       "id": "1420556874629251124"
     },
     {
-      "id": "1423051598787121242"
+      "id": "1433219183411462265"
+    },
+    {
+      "id": "1427829905323724922"
     },
     {
       "id": "1430252230430294076"
