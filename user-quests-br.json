@@ -4269,7 +4269,7 @@
           23
         ],
         "application": {
-          "link": "https://dinkum.krafton.com/",
+          "link": " https://discord.gg/b2QhYBpBhv",
           "id": "545364944258990091",
           "name": "Discord"
         },
@@ -4332,8 +4332,8 @@
               "messages": {
                 "video_title": "Dinkum on Switch",
                 "video_end_cta_title": "Dinkum",
-                "video_end_cta_subtitle": "Available now on the Nintendo eShop!",
-                "video_end_cta_button_label": "Jogar agora"
+                "video_end_cta_subtitle": "Join the official Dinkum Discord!",
+                "video_end_cta_button_label": "Entrar no servidor"
               }
             }
           },
@@ -4364,8 +4364,8 @@
           "messages": {
             "video_title": "Dinkum on Switch",
             "video_end_cta_title": "Dinkum",
-            "video_end_cta_subtitle": "Available now on the Nintendo eShop!",
-            "video_end_cta_button_label": "Jogar agora"
+            "video_end_cta_subtitle": "Join the official Dinkum Discord!",
+            "video_end_cta_button_label": "Entrar no servidor"
           },
           "assets": {
             "video_player_video_hls": "quests/1434969640194539610/1434975725873664040.m3u8",
@@ -4381,9 +4381,9 @@
         },
         "share_policy": "shareable_everywhere",
         "cta_config": {
-          "link": "https://dinkum.krafton.com/",
-          "button_label": "Jogar agora",
-          "subtitle": "Available now on the Nintendo eShop!"
+          "link": " https://discord.gg/b2QhYBpBhv",
+          "button_label": "Entrar no servidor",
+          "subtitle": "Join the official Dinkum Discord!"
         }
       },
       "user_status": null,
