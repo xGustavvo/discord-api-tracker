@@ -103701,5 +103701,1450 @@
       "responsive": null,
       "background_style": null
     }
+  },
+  {
+    "sku_id": "1436367669111554119",
+    "name": "Call of Duty: Black Ops 7",
+    "summary": " ",
+    "store_listing_id": "1436367669103296682",
+    "unpublished_at": null,
+    "styles": {
+      "background_colors": [
+        1,
+        2756621
+      ],
+      "button_colors": [
+        5793266,
+        5793266
+      ],
+      "confetti_colors": [
+        43772,
+        15774258,
+        16414587,
+        3000177,
+        9739511
+      ]
+    },
+    "logo": "1436367669120204800",
+    "hero_ranking": [
+      "1436367668772077761",
+      "1436367668788592782",
+      "1436367668805501048",
+      "1436367668834861167",
+      "1436367668855832667",
+      "1436367668881133598",
+      "1436367668897775757",
+      "1436367668922941471",
+      "1436367668943913131",
+      "1436367668964884690",
+      "1436367668990050304",
+      "1436367669031993384",
+      "1436367669057159328",
+      "1436367669082325013"
+    ],
+    "mobile_bg": "1436367669157691402",
+    "pdp_bg": "1436367669141176450",
+    "mobile_banner": "1436367669149569176",
+    "featured_block": "1436367669132525758",
+    "products": [
+      {
+        "sku_id": "1436367668772077761",
+        "name": "Black Ops 7 Bundle",
+        "summary": "A bundle of collectibles.",
+        "store_listing_id": "1436367668780335235",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1,
+            2756621
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 2099,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 1599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1436367668893712395",
+            "sku_id": "1436367668881133598",
+            "asset": "a_6eb50e191f4dc26e8df7a6f1c0440567",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/0223f30ee781f86488b69e6782b1e290c2488a03b76a755411fc1614a491fcb4",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/5df26cbe533356f5b95e8e597491b095eedb4a025d1f84199a9b23b4acfb6ba2"
+            },
+            "label": "Split blue and orange digital distortion effect creating a fragmented outline around avatar."
+          },
+          {
+            "type": 1,
+            "id": "1436367669074067487",
+            "sku_id": "1436367669057159328",
+            "title": "Black Ops 7",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Animated border with red butterfly silhouette surrounded by blue electric interference and digital corruption patterns.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/71134496b2bd1a2e6c362503662b79d0eaa987f2ce0db20d6e6c4d03b44a5597",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/db50887c5ff32cdd924644c235798765e87c5059c4469377b95a5ed387b0d89c",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/assets/content/b2246fcbfca7512e43e67ccbc0a0f54a400fde4822222204eeef8d8ab506281b",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3875,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/f68d8ed5a7bbd2ac8eecf85e6ef19c6286a2d05831b94a1de5372fa26f3eb3f0",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3375,
+                "start": 3875,
+                "loopDelay": 3000,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+              }
+            ]
+          },
+          {
+            "type": 2,
+            "id": "1436367669023735858",
+            "sku_id": "1436367668990050304",
+            "asset": "nameplates/straw/2035/",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/372cbbe032fc74393e074c0c50f3a8f136e2e6e38b16a162800a7c6298c497f5",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/0fa19a75b46a062aff12e12ae6499595214d164aa1fd826a2184dee55d64616d",
+              "video_url": "https://cdn.discordapp.com/assets/content/cf0f27b19f0609f7c342e5852ec198b5d4232adae31b5dff1d89d556220186cb"
+            },
+            "label": "Blue and orange data stream nameplate with digital interference pattern.",
+            "palette": "cobalt"
+          }
+        ],
+        "type": 1000,
+        "premium_type": 0,
+        "category_sku_id": "1436367669111554119",
+        "bundled_products": [
+          {
+            "sku_id": "1436367668881133598",
+            "name": "Embrace the Madness",
+            "summary": "Give your avatar a new look.",
+            "type": 0,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 799,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "sku_id": "1436367669057159328",
+            "name": "Black Ops 7",
+            "summary": "Show this effect when others view your profile.",
+            "type": 1,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 799,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "sku_id": "1436367668990050304",
+            "name": "2035",
+            "summary": "Make your name stand out in servers and chats.",
+            "type": 2,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 799,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ],
+        "google_sku_ids": {
+          "5": "1436367668772077761_1437441858102886421",
+          "7": "1436367668772077761_1437441864889532598"
+        }
+      },
+      {
+        "sku_id": "1436367668788592782",
+        "name": "Hallucination Bundle",
+        "summary": "A bundle of collectibles.",
+        "store_listing_id": "1436367668797243503",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1,
+            2756621
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 2099,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 1599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1436367668914684005",
+            "sku_id": "1436367668897775757",
+            "asset": "a_57807030ab60f7ac0c4a1998aa091bbf",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/1b871fb3bc772cb369b72fddcd88f364d50135489b925c6f448b12222de3f18b",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/8be8414d7b242152f0dfc01af35cd0a27fc58b3710057d7c2ccb53f5e22aa16c"
+            },
+            "label": "Animated red butterfly circling around avatar with glowing particle trail effect."
+          },
+          {
+            "type": 1,
+            "id": "1436367669095039066",
+            "sku_id": "1436367669082325013",
+            "title": "Shattered Reality",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Dynamic frame featuring cascading blue and orange data streams with binary code elements flowing vertically.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/cea065bfb961187515e30ab2b5f2aaef7dae845107c47347a8cdb1cd1ed7c49d",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/f8c968dd9902dee88de4e28f28eca9e91a48b6b66046fda9eee868f44e30d6b3",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/assets/content/ae46911c496f966781380267f970a315db5458ea6c6553e7af771d431a3e4fa0",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 5000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/4049f02d5fe6eda17cf66dc047480e02c669b7022255203a996557086da2c44f",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 5000,
+                "start": 5000,
+                "loopDelay": 3000,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+              }
+            ]
+          },
+          {
+            "type": 2,
+            "id": "1436367669053095966",
+            "sku_id": "1436367669031993384",
+            "asset": "nameplates/straw/fluttering_static/",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/30a28c5debf07cdb0b707bcfc4efa5b9ccbf71fdab986314f5f01530a9cf4145",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/13326e494ee7fbc0a3d1ddbe959e19e0c585ab7c491df9cff7cdc00ca8958b2a",
+              "video_url": "https://cdn.discordapp.com/assets/content/9c4b9ccfb8629473202b9d9670de75d1f6f16edf7168f22f4c45f831322df10c"
+            },
+            "label": "Red digital corruption effect nameplate with butterfly motif.",
+            "palette": "crimson"
+          }
+        ],
+        "type": 1000,
+        "premium_type": 0,
+        "category_sku_id": "1436367669111554119",
+        "bundled_products": [
+          {
+            "sku_id": "1436367668897775757",
+            "name": "Hallucination",
+            "summary": "Give your avatar a new look.",
+            "type": 0,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 799,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "sku_id": "1436367669082325013",
+            "name": "Shattered Reality",
+            "summary": "Show this effect when others view your profile.",
+            "type": 1,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 799,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "sku_id": "1436367669031993384",
+            "name": "Fluttering Static",
+            "summary": "Make your name stand out in servers and chats.",
+            "type": 2,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 799,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ],
+        "google_sku_ids": {
+          "5": "1436367668788592782_1437443845670441061",
+          "7": "1436367668788592782_1437443851131555840"
+        }
+      },
+      {
+        "sku_id": "1436367668805501048",
+        "name": "Cymbal Monkey",
+        "summary": "Give your avatar a new look.",
+        "store_listing_id": "1436367668822147143",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1,
+            2756621
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 799,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1436367668830539856",
+            "sku_id": "1436367668805501048",
+            "asset": "a_b050935c268141f49e8d9c40e3fd1126",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/7636a7ea5ace02f80753371e4ee450d744cdf4e8e0ec526e12dc4be7b8b9396e",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/2d8b8832817f6242eb59292faf8ed778d3b82f849940db10751f132e706e41fa"
+            },
+            "label": "Mechanical toy monkey with cymbals and glowing eyes perched on avatar's head."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1436367669111554119",
+        "google_sku_ids": {
+          "5": "1436367668805501048_1437440824760602734",
+          "7": "1436367668805501048_1437440831400443904"
+        }
+      },
+      {
+        "sku_id": "1436367668834861167",
+        "name": "COD Squad Up",
+        "summary": "Give your avatar a new look.",
+        "store_listing_id": "1436367668843253892",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1,
+            2756621
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 799,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1436367668847575210",
+            "sku_id": "1436367668834861167",
+            "asset": "a_1e2a221bcd64321b8893b696df4e67f4",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/89d0311f693751d0c09b6b332d03d2f916b7edc3fc6d7e1d9cf4cb62f6ff405e",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/5401103bc1159e31f3ff958cbd0e9b2f0ca0a9961c242d40fe92aae6326090a5"
+            },
+            "label": "Tactical military helmet with communication headset and boom microphone."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1436367669111554119",
+        "google_sku_ids": {
+          "5": "1436367668834861167_1437441055871078461",
+          "7": "1436367668834861167_1437441065186758767"
+        }
+      },
+      {
+        "sku_id": "1436367668855832667",
+        "name": "Final Circle",
+        "summary": "Give your avatar a new look.",
+        "store_listing_id": "1436367668864090173",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1,
+            2756621
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 799,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1436367668872740864",
+            "sku_id": "1436367668855832667",
+            "asset": "a_81922bb4666163e74bfb033c8c6867b8",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/54514bd00ed27fe2b5a0ccb7e0b0672420d6b85e822879b80aac3614de847d4e",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/6a05abf2de5643daf12d837c5c2adb19865659bfff938f9e5497c35daf48f312"
+            },
+            "label": "Military-style gas mask with respirator filters and adjustable straps worn over avatar."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1436367669111554119",
+        "google_sku_ids": {
+          "5": "1436367668855832667_1437443886640533534",
+          "7": "1436367668855832667_1437443892432732231"
+        }
+      },
+      {
+        "sku_id": "1436367668881133598",
+        "name": "Embrace the Madness",
+        "summary": "Give your avatar a new look.",
+        "store_listing_id": "1436367668885061722",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1,
+            2756621
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 799,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1436367668893712395",
+            "sku_id": "1436367668881133598",
+            "asset": "a_6eb50e191f4dc26e8df7a6f1c0440567",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/0223f30ee781f86488b69e6782b1e290c2488a03b76a755411fc1614a491fcb4",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/5df26cbe533356f5b95e8e597491b095eedb4a025d1f84199a9b23b4acfb6ba2"
+            },
+            "label": "Split blue and orange digital distortion effect creating a fragmented outline around avatar."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1436367669111554119",
+        "google_sku_ids": {
+          "5": "1436367668881133598_1437442724822388797",
+          "7": "1436367668881133598_1437442732640436454"
+        }
+      },
+      {
+        "sku_id": "1436367668897775757",
+        "name": "Hallucination",
+        "summary": "Give your avatar a new look.",
+        "store_listing_id": "1436367668906033334",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1,
+            2756621
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 799,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1436367668914684005",
+            "sku_id": "1436367668897775757",
+            "asset": "a_57807030ab60f7ac0c4a1998aa091bbf",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/1b871fb3bc772cb369b72fddcd88f364d50135489b925c6f448b12222de3f18b",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/8be8414d7b242152f0dfc01af35cd0a27fc58b3710057d7c2ccb53f5e22aa16c"
+            },
+            "label": "Animated red butterfly circling around avatar with glowing particle trail effect."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1436367669111554119",
+        "google_sku_ids": {
+          "5": "1436367668897775757_1437442725158064148",
+          "7": "1436367668897775757_1437442731587932246"
+        }
+      },
+      {
+        "sku_id": "1436367668922941471",
+        "name": "Camo Master",
+        "summary": "Make your name stand out in servers and chats.",
+        "store_listing_id": "1436367668931198997",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1,
+            2756621
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 799,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 2,
+            "id": "1436367668935655576",
+            "sku_id": "1436367668922941471",
+            "asset": "nameplates/straw/camo_master/",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/ad5f4e649b5cbb456c68989ede497c539e908b531c919e584cf58299b478c41e",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/752040a487f9d5dd7b71ee2c3f716a285709df3f1e4d4a61e95ad6b97ac66a7c",
+              "video_url": "https://cdn.discordapp.com/assets/content/06343ef776b710cf13bcb5ed9fc2d6b177415e5df4aeef0659b17fa39b55d2fc"
+            },
+            "label": "Purple-toned nameplate with camouflage pattern background.",
+            "palette": "violet"
+          }
+        ],
+        "type": 2,
+        "premium_type": 0,
+        "category_sku_id": "1436367669111554119",
+        "google_sku_ids": {
+          "5": "1436367668922941471_1437442164845183056",
+          "7": "1436367668922941471_1437442170536595526"
+        }
+      },
+      {
+        "sku_id": "1436367668943913131",
+        "name": "Squad Wipe",
+        "summary": "Make your name stand out in servers and chats.",
+        "store_listing_id": "1436367668952170656",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1,
+            2756621
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 799,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 2,
+            "id": "1436367668960821278",
+            "sku_id": "1436367668943913131",
+            "asset": "nameplates/straw/squad_wipe/",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/e29267d943d2a303a54a7751a39e1995993222f5d668e9f3ef4fe0ca65c1e135",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/9f797852d1c3ac89a1a57059107ea841212fcfbfb5677adb4b2e627321f2f460",
+              "video_url": "https://cdn.discordapp.com/assets/content/4d2e225645e7456cb70f6cc2d428ecc0d551cb723aff474ce24a36972bd00114"
+            },
+            "label": "Teal-accented nameplate with covert operations theme.",
+            "palette": "teal"
+          }
+        ],
+        "type": 2,
+        "premium_type": 0,
+        "category_sku_id": "1436367669111554119",
+        "google_sku_ids": {
+          "5": "1436367668943913131_1437442806388883537",
+          "7": "1436367668943913131_1437442812122632265"
+        }
+      },
+      {
+        "sku_id": "1436367668964884690",
+        "name": "Bye Bye",
+        "summary": "Make your name stand out in servers and chats.",
+        "store_listing_id": "1436367668973142107",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1,
+            2756621
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 799,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 2,
+            "id": "1436367668981792808",
+            "sku_id": "1436367668964884690",
+            "asset": "nameplates/straw/bye_bye/",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/d54d5d9ecaedce2ab29cbce2085f2a21b8b9a775156461a4f2d278788a11ef4f",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/775a3ae76493f565077b64defc4f9f6870e08a014247e107e49ea051c5443f01",
+              "video_url": "https://cdn.discordapp.com/assets/content/0690b4eae2b81b9cea835beab78b2081d816364a59bbebde76329425b9904577"
+            },
+            "label": "Dark purple nameplate featuring creepy toy monkey imagery.",
+            "palette": "violet"
+          }
+        ],
+        "type": 2,
+        "premium_type": 0,
+        "category_sku_id": "1436367669111554119",
+        "google_sku_ids": {
+          "5": "1436367668964884690_1437443079396266086",
+          "7": "1436367668964884690_1437443084769034310"
+        }
+      },
+      {
+        "sku_id": "1436367668990050304",
+        "name": "2035",
+        "summary": "Make your name stand out in servers and chats.",
+        "store_listing_id": "1436367669015085167",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1,
+            2756621
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 799,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 2,
+            "id": "1436367669023735858",
+            "sku_id": "1436367668990050304",
+            "asset": "nameplates/straw/2035/",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/372cbbe032fc74393e074c0c50f3a8f136e2e6e38b16a162800a7c6298c497f5",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/0fa19a75b46a062aff12e12ae6499595214d164aa1fd826a2184dee55d64616d",
+              "video_url": "https://cdn.discordapp.com/assets/content/cf0f27b19f0609f7c342e5852ec198b5d4232adae31b5dff1d89d556220186cb"
+            },
+            "label": "Blue and orange data stream nameplate with digital interference pattern.",
+            "palette": "cobalt"
+          }
+        ],
+        "type": 2,
+        "premium_type": 0,
+        "category_sku_id": "1436367669111554119",
+        "google_sku_ids": {
+          "5": "1436367668990050304_1437441791988207716",
+          "7": "1436367668990050304_1437441798334185665"
+        }
+      },
+      {
+        "sku_id": "1436367669031993384",
+        "name": "Fluttering Static",
+        "summary": "Make your name stand out in servers and chats.",
+        "store_listing_id": "1436367669040386130",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1,
+            2756621
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 799,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 2,
+            "id": "1436367669053095966",
+            "sku_id": "1436367669031993384",
+            "asset": "nameplates/straw/fluttering_static/",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/30a28c5debf07cdb0b707bcfc4efa5b9ccbf71fdab986314f5f01530a9cf4145",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/13326e494ee7fbc0a3d1ddbe959e19e0c585ab7c491df9cff7cdc00ca8958b2a",
+              "video_url": "https://cdn.discordapp.com/assets/content/9c4b9ccfb8629473202b9d9670de75d1f6f16edf7168f22f4c45f831322df10c"
+            },
+            "label": "Red digital corruption effect nameplate with butterfly motif.",
+            "palette": "crimson"
+          }
+        ],
+        "type": 2,
+        "premium_type": 0,
+        "category_sku_id": "1436367669111554119",
+        "google_sku_ids": {
+          "5": "1436367669031993384_1437443423526195200",
+          "7": "1436367669031993384_1437443429104881846"
+        }
+      },
+      {
+        "sku_id": "1436367669057159328",
+        "name": "Black Ops 7",
+        "summary": "Show this effect when others view your profile.",
+        "store_listing_id": "1436367669069611008",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1,
+            2756621
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 799,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 1,
+            "id": "1436367669074067487",
+            "sku_id": "1436367669057159328",
+            "title": "Black Ops 7",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Animated border with red butterfly silhouette surrounded by blue electric interference and digital corruption patterns.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/71134496b2bd1a2e6c362503662b79d0eaa987f2ce0db20d6e6c4d03b44a5597",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/db50887c5ff32cdd924644c235798765e87c5059c4469377b95a5ed387b0d89c",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/assets/content/b2246fcbfca7512e43e67ccbc0a0f54a400fde4822222204eeef8d8ab506281b",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3875,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/f68d8ed5a7bbd2ac8eecf85e6ef19c6286a2d05831b94a1de5372fa26f3eb3f0",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3375,
+                "start": 3875,
+                "loopDelay": 3000,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+              }
+            ]
+          }
+        ],
+        "type": 1,
+        "premium_type": 0,
+        "category_sku_id": "1436367669111554119",
+        "google_sku_ids": {
+          "5": "1436367669057159328_1437444325155016794",
+          "7": "1436367669057159328_1437444331182100612"
+        }
+      },
+      {
+        "sku_id": "1436367669082325013",
+        "name": "Shattered Reality",
+        "summary": "Show this effect when others view your profile.",
+        "store_listing_id": "1436367669086388426",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            1,
+            2756621
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 799,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 1,
+            "id": "1436367669095039066",
+            "sku_id": "1436367669082325013",
+            "title": "Shattered Reality",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Dynamic frame featuring cascading blue and orange data streams with binary code elements flowing vertically.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/cea065bfb961187515e30ab2b5f2aaef7dae845107c47347a8cdb1cd1ed7c49d",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/f8c968dd9902dee88de4e28f28eca9e91a48b6b66046fda9eee868f44e30d6b3",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/assets/content/ae46911c496f966781380267f970a315db5458ea6c6553e7af771d431a3e4fa0",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 5000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/4049f02d5fe6eda17cf66dc047480e02c669b7022255203a996557086da2c44f",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 5000,
+                "start": 5000,
+                "loopDelay": 3000,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+              }
+            ]
+          }
+        ],
+        "type": 1,
+        "premium_type": 0,
+        "category_sku_id": "1436367669111554119",
+        "google_sku_ids": {
+          "5": "1436367669082325013_1437444120724508722",
+          "7": "1436367669082325013_1437444126676357201"
+        }
+      }
+    ],
+    "catalog_banner_asset": {
+      "animated": "https://cdn.discordapp.com/assets/content/88759a77371c656a10b3ec6e631af413377115cdf241a5cf5ab97155e8194948",
+      "static": "https://cdn.discordapp.com/assets/content/66f6b8a8522fd0987a879afa8d09d6987e148264ed6158b665cb26ec2bc6df1e"
+    },
+    "hero_banner_asset": {
+      "animated": "https://cdn.discordapp.com/assets/content/1cf8c2ae80947f41247c98fccf56072c7d4f4259d4050c1f0bcd2e24411a9509",
+      "static": "https://cdn.discordapp.com/assets/content/a5e0c5670339be4d8354b8c9ba92c7f90b6659f2afe4acc9a87a111f95f59380"
+    },
+    "hero_banner_config": {
+      "responsive": true,
+      "background_style": "linear-gradient(to bottom, rgba(0, 0, 1, 1), rgba(42, 16, 13, 1))"
+    },
+    "hero_logo": "1436367669128462336",
+    "hero_banner_url": "https://cdn.discordapp.com/assets/content/a5e0c5670339be4d8354b8c9ba92c7f90b6659f2afe4acc9a87a111f95f59380",
+    "hero_banner_animated_url": "https://cdn.discordapp.com/assets/content/1cf8c2ae80947f41247c98fccf56072c7d4f4259d4050c1f0bcd2e24411a9509",
+    "hero_logo_url": "https://cdn.discordapp.com/assets/content/f6c12eac86b81185281a0c0bcd759c8ef357f8bc664decf6845fc3f1c5c0a487",
+    "catalog_banner_url": "https://cdn.discordapp.com/assets/content/66f6b8a8522fd0987a879afa8d09d6987e148264ed6158b665cb26ec2bc6df1e",
+    "catalog_banner_animated_url": "https://cdn.discordapp.com/assets/content/88759a77371c656a10b3ec6e631af413377115cdf241a5cf5ab97155e8194948",
+    "featured_block_url": "https://cdn.discordapp.com/assets/content/3beea1bbce3fd90f0020cb001b22f89b64e1f059d149e7c958e088e8d5603f94",
+    "logo_url": "https://cdn.discordapp.com/assets/content/f6c12eac86b81185281a0c0bcd759c8ef357f8bc664decf6845fc3f1c5c0a487",
+    "pdp_bg_url": "https://cdn.discordapp.com/assets/content/aa10be5f1ee5cffe1c6f405c4786427d02bb029d910462514bbdc1f66c198235",
+    "mobile_hero_url": "https://cdn.discordapp.com/assets/content/7ed0022905f68f7e870d93824ce47f4e831a55b5157a60abdfde79e9db9540f1",
+    "mobile_banner_url": "https://cdn.discordapp.com/assets/content/59aad8fc9488d802c1ba999df7f9d91f0333d958179d040a0d955183fe65a493",
+    "mobile_bg_url": "https://cdn.discordapp.com/assets/content/4c3194aa86c0c15de9533cae169720d2c9548900737b39ffc612561d3ad82728",
+    "hero_banner_display_config": {
+      "desktop_max_height": null,
+      "mobile_max_height": null,
+      "responsive": true,
+      "background_style": "linear-gradient(to bottom, rgba(0, 0, 1, 1), rgba(42, 16, 13, 1))"
+    }
   }
 ]
