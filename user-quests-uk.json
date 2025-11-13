@@ -1114,6 +1114,134 @@
       "preview": false
     },
     {
+      "id": "1428083229587669155",
+      "config": {
+        "id": "1428083229587669155",
+        "config_version": 2,
+        "starts_at": "2025-10-16T17:00:54+00:00",
+        "expires_at": "2025-10-27T00:00:54+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://ninja.kiwi/discord_quest25",
+          "id": "1402418571715543120",
+          "name": "Bloons TD 6"
+        },
+        "assets": {
+          "hero": "quests/1428083229587669155/1428084144910631032.jpg",
+          "hero_video": null,
+          "quest_bar_hero": "quests/1428083229587669155/1428084112597455058.jpg",
+          "quest_bar_hero_video": null,
+          "game_tile": "1428084348778975253.png",
+          "logotype": "1428131823686254643.png",
+          "game_tile_light": "quests/1428083229587669155/1428084224807932006.png",
+          "game_tile_dark": "quests/1428083229587669155/1428084224807932006.png",
+          "logotype_light": "quests/1428083229587669155/1428131792161996843.png",
+          "logotype_dark": "quests/1428083229587669155/1428131792161996843.png"
+        },
+        "colors": {
+          "primary": "#D90000",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Bloons TD 6 Dart Monkey",
+          "game_title": "Bloons TD 6",
+          "game_publisher": "Ninja Kiwi"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "event_name": "PLAY_ON_DESKTOP",
+              "target": 900
+            },
+            "PLAY_ON_XBOX": {
+              "event_name": "PLAY_ON_XBOX",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "event_name": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1402418571715543120"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1402418571715543120"
+                }
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1402418571715543120"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 3,
+              "sku_id": "1428085489285599233",
+              "asset": "quests/1428083229587669155/1428085593845399682.mp4",
+              "asset_video": null,
+              "messages": {
+                "name": "Dart Monkey Avatar Decoration",
+                "name_with_article": "a Dart Monkey Avatar Decoration",
+                "redemption_instructions_by_platform": {
+                  "0": "Default"
+                }
+              },
+              "expires_at": "2025-12-26T01:00:00+00:00",
+              "expires_at_premium": null,
+              "expiration_mode": 3
+            }
+          ],
+          "rewards_expire_at": "2025-11-26T00:00:54+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://ninja.kiwi/discord_quest25"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
       "id": "1428459919212019874",
       "config": {
         "id": "1428459919212019874",
@@ -1251,134 +1379,6 @@
           "link": "https://store.steampowered.com/app/3321460?utm_source=discord_liquid&utm_campaign=preorder&utm_medium=us&utm_content=preorder_video&utm_term=openworldactionadventurefans",
           "button_label": "Pre-Order Now",
           "subtitle": "Coming to PS5, Xbox Series X|S, Steam, and Mac."
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
-      "id": "1428083229587669155",
-      "config": {
-        "id": "1428083229587669155",
-        "config_version": 2,
-        "starts_at": "2025-10-16T17:00:54+00:00",
-        "expires_at": "2025-10-27T00:00:54+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://ninja.kiwi/discord_quest25",
-          "id": "1402418571715543120",
-          "name": "Bloons TD 6"
-        },
-        "assets": {
-          "hero": "quests/1428083229587669155/1428084144910631032.jpg",
-          "hero_video": null,
-          "quest_bar_hero": "quests/1428083229587669155/1428084112597455058.jpg",
-          "quest_bar_hero_video": null,
-          "game_tile": "1428084348778975253.png",
-          "logotype": "1428131823686254643.png",
-          "game_tile_light": "quests/1428083229587669155/1428084224807932006.png",
-          "game_tile_dark": "quests/1428083229587669155/1428084224807932006.png",
-          "logotype_light": "quests/1428083229587669155/1428131792161996843.png",
-          "logotype_dark": "quests/1428083229587669155/1428131792161996843.png"
-        },
-        "colors": {
-          "primary": "#D90000",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Bloons TD 6 Dart Monkey",
-          "game_title": "Bloons TD 6",
-          "game_publisher": "Ninja Kiwi"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "event_name": "PLAY_ON_DESKTOP",
-              "target": 900
-            },
-            "PLAY_ON_XBOX": {
-              "event_name": "PLAY_ON_XBOX",
-              "target": 900
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "event_name": "PLAY_ON_PLAYSTATION",
-              "target": 900
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1402418571715543120"
-                }
-              ]
-            },
-            "PLAY_ON_XBOX": {
-              "type": "PLAY_ON_XBOX",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1402418571715543120"
-                }
-              ]
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1402418571715543120"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 3,
-              "sku_id": "1428085489285599233",
-              "asset": "quests/1428083229587669155/1428085593845399682.mp4",
-              "asset_video": null,
-              "messages": {
-                "name": "Dart Monkey Avatar Decoration",
-                "name_with_article": "a Dart Monkey Avatar Decoration",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "expires_at": "2025-12-26T01:00:00+00:00",
-              "expires_at_premium": null,
-              "expiration_mode": 3
-            }
-          ],
-          "rewards_expire_at": "2025-11-26T00:00:54+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://ninja.kiwi/discord_quest25"
         }
       },
       "user_status": null,
@@ -5136,6 +5136,9 @@
     }
   ],
   "excluded_quests": [
+    {
+      "id": "1438245337184735394"
+    },
     {
       "id": "1425614323958677667"
     },
