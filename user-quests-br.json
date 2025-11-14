@@ -2275,7 +2275,7 @@
           23
         ],
         "application": {
-          "link": "https://www.kingofmeat.com/sale?utm_source=Discord&utm_campaign=_KoMeat_Discord_USDE_Web_AWS_HighImpact_CPM_VIDQUEST1_Custom_20251105_NA_null",
+          "link": "https://store.steampowered.com/app/1926980/King_of_Meat/",
           "id": "545364944258990091",
           "name": "Discord"
         },
@@ -2344,8 +2344,8 @@
               "messages": {
                 "video_title": "King of Meat: 75% off limited-time sale",
                 "video_end_cta_title": "King of Meat",
-                "video_end_cta_subtitle": "75% off and available on Steam, PlayStation 5, and Xbox Series X|S",
-                "video_end_cta_button_label": "Comprar agora"
+                "video_end_cta_subtitle": "Steam Free Weekend - Play for free until Nov 17",
+                "video_end_cta_button_label": "Jogar agora"
               }
             }
           },
@@ -2376,8 +2376,8 @@
           "messages": {
             "video_title": "King of Meat: 75% off limited-time sale",
             "video_end_cta_title": "King of Meat",
-            "video_end_cta_subtitle": "75% off and available on Steam, PlayStation 5, and Xbox Series X|S",
-            "video_end_cta_button_label": "Comprar agora"
+            "video_end_cta_subtitle": "Steam Free Weekend - Play for free until Nov 17",
+            "video_end_cta_button_label": "Jogar agora"
           },
           "assets": {
             "video_player_video_hls": "quests/1435367355759726642/1435370621705125938.m3u8",
@@ -2393,9 +2393,9 @@
         },
         "share_policy": "shareable_everywhere",
         "cta_config": {
-          "link": "https://www.kingofmeat.com/sale?utm_source=Discord&utm_campaign=_KoMeat_Discord_USDE_Web_AWS_HighImpact_CPM_VIDQUEST1_Custom_20251105_NA_null",
-          "button_label": "Comprar agora",
-          "subtitle": "75% off and available on Steam, PlayStation 5, and Xbox Series X|S"
+          "link": "https://store.steampowered.com/app/1926980/King_of_Meat/",
+          "button_label": "Jogar agora",
+          "subtitle": "Steam Free Weekend - Play for free until Nov 17"
         }
       },
       "user_status": null,
