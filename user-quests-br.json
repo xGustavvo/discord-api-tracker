@@ -2534,7 +2534,7 @@
         "id": "1436481141711442101",
         "config_version": 2,
         "starts_at": "2025-11-14T22:00:12+00:00",
-        "expires_at": "2025-11-20T00:00:12+00:00",
+        "expires_at": "2025-11-23T00:00:12+00:00",
         "features": [
           3,
           9,
@@ -2625,7 +2625,7 @@
               "orb_quantity": 700
             }
           ],
-          "rewards_expire_at": "2025-12-20T00:00:12+00:00",
+          "rewards_expire_at": "2025-12-23T00:00:12+00:00",
           "platforms": [
             0
           ]
@@ -3951,6 +3951,10 @@
               "event_name": "PLAY_ON_DESKTOP",
               "target": 900
             },
+            "PLAY_ON_XBOX": {
+              "event_name": "PLAY_ON_XBOX",
+              "target": 900
+            },
             "PLAY_ON_PLAYSTATION": {
               "event_name": "PLAY_ON_PLAYSTATION",
               "target": 900
@@ -3961,6 +3965,15 @@
           "tasks": {
             "PLAY_ON_DESKTOP": {
               "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1423760184819581080"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
               "target": 900,
               "applications": [
                 {
@@ -5432,7 +5445,7 @@
                 "name": "Fully Fitted Ship + SKIN",
                 "name_with_article": "a Fully Fitted Ship + SKIN",
                 "redemption_instructions_by_platform": {
-                  "0": "How to claim your mining ship:\n\nVisit the code [activation page](https://secure.eveonline.com/code-activation).  \nRegister or log in to your EVE Online account.  \nEnter your Quest code.  \nLog into EVE Online and claim your ship from the redemption queue. You can access the queue by clicking the disc icon at the bottom left of your screen.  \nIf you're creating a new account, complete the signup process first—then return to the code activation page once your account is set up.  \n"
+                  "0": "How to claim your mining ship:\n\n1. Register or log in to your EVE Online account.  \n2. Visit the code [activation page](https://secure.eveonline.com/code-activation).  \n3. Enter your Quest code.  \n4. Log into EVE Online and claim your ship from the redemption queue. You can access the queue by clicking the disc icon at the bottom left of your screen.  \n \nIf you're creating a new account, complete the signup process first—then return to the code activation page once your account is set up.  \n"
                 }
               },
               "approximate_count": null,
