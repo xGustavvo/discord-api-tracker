@@ -459,6 +459,130 @@
       "preview": false
     },
     {
+      "id": "1439764528715010058",
+      "config": {
+        "id": "1439764528715010058",
+        "config_version": 2,
+        "starts_at": "2025-11-18T18:00:13+00:00",
+        "expires_at": "2025-11-26T00:00:13+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://www.playdeltaforce.com/wand/discordahsarah/index.html",
+          "id": "1314682894106497096",
+          "name": "Delta Force"
+        },
+        "assets": {
+          "hero": "quests/1439764528715010058/1440065240157917334.jpg",
+          "hero_video": "quests/1439764528715010058/1440065275159646248.mp4",
+          "quest_bar_hero": "quests/1439764528715010058/1440065171107221564.jpg",
+          "quest_bar_hero_video": "quests/1439764528715010058/1440065198680576100.mp4",
+          "game_tile": "1440065583038075011.png",
+          "logotype": "1440065582153072680.png",
+          "game_tile_light": "quests/1439764528715010058/1440065367841181726.png",
+          "game_tile_dark": "quests/1439764528715010058/1440065367841181726.png",
+          "logotype_light": "quests/1439764528715010058/1440065314175062231.png",
+          "logotype_dark": "quests/1439764528715010058/1440065314175062231.png"
+        },
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "New Season Ahsarah",
+          "game_title": "Delta Force",
+          "game_publisher": "Team Jade"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "event_name": "PLAY_ON_DESKTOP",
+              "target": 900
+            },
+            "PLAY_ON_XBOX": {
+              "event_name": "PLAY_ON_XBOX",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "event_name": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1314682894106497096"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1314682894106497096"
+                }
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1314682894106497096"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 orbs",
+                "name_with_article": "700 orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "Default"
+                }
+              },
+              "orb_quantity": 700
+            }
+          ],
+          "rewards_expire_at": "2025-12-26T00:00:13+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.playdeltaforce.com/wand/discordahsarah/index.html"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
       "id": "1425677992721514516",
       "config": {
         "id": "1425677992721514516",
@@ -2433,11 +2557,11 @@
           "quest_bar_hero": "quests/1436481141711442101/1437506322546294826.jpg",
           "quest_bar_hero_video": "quests/1436481141711442101/1438234166029324452.mp4",
           "game_tile": "1437508009306750986.png",
-          "logotype": "1437508008325152900.png",
+          "logotype": "1440412200660635803.png",
           "game_tile_light": "quests/1436481141711442101/1437507917950488706.png",
           "game_tile_dark": "quests/1436481141711442101/1437507917950488706.png",
-          "logotype_light": "quests/1436481141711442101/1437507706150846464.png",
-          "logotype_dark": "quests/1436481141711442101/1437507706150846464.png"
+          "logotype_light": "quests/1436481141711442101/1440412180095963389.png",
+          "logotype_dark": "quests/1436481141711442101/1440412180095963389.png"
         },
         "colors": {
           "primary": "#CEA36C",
@@ -3899,11 +4023,11 @@
           "quest_bar_hero": "quests/1438202046804136028/1438203998652862494.jpg",
           "quest_bar_hero_video": "quests/1438202046804136028/1438204079594541057.mp4",
           "game_tile": "1438583219338612776.png",
-          "logotype": "1438215799998386186.png",
+          "logotype": "1440412013779095624.png",
           "game_tile_light": "quests/1438202046804136028/1438583145808003123.png",
           "game_tile_dark": "quests/1438202046804136028/1438583145808003123.png",
-          "logotype_light": "quests/1438202046804136028/1438204162394427405.png",
-          "logotype_dark": "quests/1438202046804136028/1438215782344560764.png"
+          "logotype_light": "quests/1438202046804136028/1440411991385706693.png",
+          "logotype_dark": "quests/1438202046804136028/1440411967222321182.png"
         },
         "colors": {
           "primary": "#FFFFFF",
@@ -4769,6 +4893,150 @@
       "preview": false
     },
     {
+      "id": "1436408444071444584",
+      "config": {
+        "id": "1436408444071444584",
+        "config_version": 2,
+        "starts_at": "2025-11-18T18:35:20+00:00",
+        "expires_at": "2025-11-29T00:00:20+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://www.fivenightsatfreddys.movie/",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1436408444071444584/1436427733767946371.jpg",
+          "hero_video": "quests/1436408444071444584/1436428144109158450.mp4",
+          "quest_bar_hero": "quests/1436408444071444584/1436428217345900594.jpg",
+          "quest_bar_hero_video": "quests/1436408444071444584/1436428144109158450.mp4",
+          "game_tile": "1436428270038941847.jpg",
+          "logotype": "1438617587050348615.png",
+          "game_tile_light": "quests/1436408444071444584/1436427787014635550.jpg",
+          "game_tile_dark": "quests/1436408444071444584/1436427787014635550.jpg",
+          "logotype_light": "quests/1436408444071444584/1438617546822520932.png",
+          "logotype_dark": "quests/1436408444071444584/1438617546822520932.png"
+        },
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Five Nights at Freddy's 2",
+          "game_title": "Only In Theaters December 5",
+          "game_publisher": "Universal Pictures"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "WATCH_VIDEO": {
+              "event_name": "WATCH_VIDEO",
+              "target": 31
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 31,
+              "assets": {
+                "video": {
+                  "url": "quests/1436408444071444584/1440394331415511142_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1436408444071444584/1436428938007154809.jpg",
+                  "caption": "quests/1436408444071444584/1440394592548556850.vtt",
+                  "transcript": "quests/1436408444071444584/1440394622097690675.txt"
+                },
+                "video_low_res": {
+                  "url": "quests/1436408444071444584/1440394331415511142_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1436408444071444584/1436428938007154809.jpg",
+                  "caption": "quests/1436408444071444584/1440394592548556850.vtt",
+                  "transcript": "quests/1436408444071444584/1440394622097690675.txt"
+                },
+                "video_hls": {
+                  "url": "quests/1436408444071444584/1440394331415511142.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1436408444071444584/1436428938007154809.jpg",
+                  "caption": "quests/1436408444071444584/1440394592548556850.vtt",
+                  "transcript": "quests/1436408444071444584/1440394622097690675.txt"
+                }
+              },
+              "messages": {
+                "video_title": "Five Nights at Freddy's 2 Trailer",
+                "video_end_cta_subtitle": "Only In Theaters December 5",
+                "video_end_cta_button_label": "Get Tickets"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 orbs",
+                "name_with_article": "700 orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "Default"
+                }
+              },
+              "orb_quantity": 700
+            }
+          ],
+          "rewards_expire_at": "2025-12-29T00:00:20+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "video_metadata": {
+          "messages": {
+            "video_title": "Five Nights at Freddy's 2 Trailer",
+            "video_end_cta_subtitle": "Only In Theaters December 5",
+            "video_end_cta_button_label": "Get Tickets"
+          },
+          "assets": {
+            "video_player_video_hls": "quests/1436408444071444584/1440394331415511142.m3u8",
+            "video_player_video": "quests/1436408444071444584/1440394331415511142_1080.mp4",
+            "video_player_thumbnail": "quests/1436408444071444584/1436428938007154809.jpg",
+            "video_player_video_low_res": "quests/1436408444071444584/1440394331415511142_720.mp4",
+            "video_player_caption": "quests/1436408444071444584/1440394592548556850.vtt",
+            "video_player_transcript": "quests/1436408444071444584/1440394622097690675.txt",
+            "quest_bar_preview_video": null,
+            "quest_bar_preview_thumbnail": null,
+            "quest_home_video": null
+          }
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.fivenightsatfreddys.movie/",
+          "button_label": "Get Tickets",
+          "subtitle": "Only In Theaters December 5"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
       "id": "1430258734113755247",
       "config": {
         "id": "1430258734113755247",
@@ -5145,7 +5413,7 @@
                 "name": "Fully Fitted Ship + SKIN",
                 "name_with_article": "a Fully Fitted Ship + SKIN",
                 "redemption_instructions_by_platform": {
-                  "0": "How to claim your mining ship:\n\nVisit the code [activation page](https://login.eveonline.com/account/logon?ReturnUrl=%2Fv2%2Foauth%2Fauthorize%3Fresponse_type%3Dcode%26client_id%3Daccount_management%26redirect_uri%3Dhttps%3A%2F%2Fsecure.eveonline.com%2Flogin%2Fssocallback%26scope%3Dmammonservice.userDataRead.v1%2520mammonservice.userDataWrite.v1%2520cisservice.customerRead.v1%2520cisservice.customerWrite.v1%2520cisservice.entitlementsRead.v1%2520sso.credentialsWrite.v1%2520vgs.marketAccess.v1%2520mammonservice.webPurchase.v1%2520cisservice.userProfileBasic.v1%2520secure.account.v1%26state%3Df82c5679-d5ef-4a5f-a99a-a98edd466177).  \nRegister or log in to your EVE Online account.  \nEnter your Quest code.  \nLog into EVE Online and claim your ship from the redemption queue. You can access the queue by clicking the disc icon at the bottom left of your screen."
+                  "0": "How to claim your mining ship:\n\nVisit the code [activation page](https://secure.eveonline.com/code-activation).  \nRegister or log in to your EVE Online account.  \nEnter your Quest code.  \nLog into EVE Online and claim your ship from the redemption queue. You can access the queue by clicking the disc icon at the bottom left of your screen.  \nIf you're creating a new account, complete the signup process first—then return to the code activation page once your account is set up.  \n"
                 }
               },
               "approximate_count": null,
