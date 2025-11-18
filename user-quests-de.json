@@ -4273,6 +4273,135 @@
       "preview": false
     },
     {
+      "id": "1438642430571315290",
+      "config": {
+        "id": "1438642430571315290",
+        "config_version": 2,
+        "starts_at": "2025-11-18T18:00:24+00:00",
+        "expires_at": "2025-11-30T01:00:24+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://store.steampowered.com/app/2781620/Risk_of_Rain_2_Alloyed_Collective/",
+          "id": "1402418087793528862",
+          "name": "Risk of Rain 2"
+        },
+        "assets": {
+          "hero": "quests/1438642430571315290/1438684302563999846.jpg",
+          "hero_video": "quests/1438642430571315290/1438676678598590494.mp4",
+          "quest_bar_hero": "quests/1438642430571315290/1438685383452786739.jpg",
+          "quest_bar_hero_video": "quests/1438642430571315290/1438676678598590494.mp4",
+          "game_tile": "1438685671438028932.png",
+          "logotype": "1438685670523539576.png",
+          "game_tile_light": "quests/1438642430571315290/1438684056891031754.png",
+          "game_tile_dark": "quests/1438642430571315290/1438684056891031754.png",
+          "logotype_light": "quests/1438642430571315290/1438683089357242419.png",
+          "logotype_dark": "quests/1438642430571315290/1438683113696919652.png"
+        },
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Alloyed Collective Gupdoption",
+          "game_title": "Risk of Rain 2: Alloyed Collective",
+          "game_publisher": "2K Games"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "event_name": "PLAY_ON_DESKTOP",
+              "target": 900
+            },
+            "PLAY_ON_XBOX": {
+              "event_name": "PLAY_ON_XBOX",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "event_name": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1402418087793528862"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1402418087793528862"
+                }
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1402418087793528862"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 3,
+              "sku_id": "1438969096795324612",
+              "asset": "quests/1438642430571315290/1438970300397256814.mp4",
+              "asset_video": null,
+              "messages": {
+                "name": "Gup Avatar Decoration",
+                "name_with_article": "a Gup Avatar Decoration",
+                "redemption_instructions_by_platform": {
+                  "0": "Default"
+                }
+              },
+              "expires_at": "2026-01-30T00:00:00+00:00",
+              "expires_at_premium": null,
+              "expiration_mode": 3
+            }
+          ],
+          "rewards_expire_at": "2025-12-30T01:00:24+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://store.steampowered.com/app/2781620/Risk_of_Rain_2_Alloyed_Collective/",
+          "button_label": "Spiel starten"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
       "id": "1433219183411462265",
       "config": {
         "id": "1433219183411462265",
@@ -5042,6 +5171,150 @@
         "share_policy": "shareable_everywhere",
         "cta_config": {
           "link": "https://www.fortnite.com/"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
+      "id": "1438303745166409840",
+      "config": {
+        "id": "1438303745166409840",
+        "config_version": 2,
+        "starts_at": "2025-11-18T18:00:35+00:00",
+        "expires_at": "2025-11-25T00:00:35+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://www.eveonline.com/now/eve-online-catalyst?utm_source=discord&utm_medium=cpm&utm_campaign=cn:ww_lg:en_mg:1_pd:1_cd:video-quest_cs:general_ct:video_tg:homepage_br:eve",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1438303745166409840/1438307494987563028.jpg",
+          "hero_video": "quests/1438303745166409840/1438968716376277054.mp4",
+          "quest_bar_hero": "quests/1438303745166409840/1438969207390736454.jpg",
+          "quest_bar_hero_video": "quests/1438303745166409840/1438968716376277054.mp4",
+          "game_tile": "1438308323492495523.png",
+          "logotype": "1438308322389266512.png",
+          "game_tile_light": "quests/1438303745166409840/1438307765780217896.png",
+          "game_tile_dark": "quests/1438303745166409840/1438307854162460722.png",
+          "logotype_light": "quests/1438303745166409840/1438308075789488218.png",
+          "logotype_dark": "quests/1438303745166409840/1438308075789488218.png"
+        },
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "EVE Online Video",
+          "game_title": "EVE Online",
+          "game_publisher": "CCP Games"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "WATCH_VIDEO": {
+              "event_name": "WATCH_VIDEO",
+              "target": 89
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 89,
+              "assets": {
+                "video": {
+                  "url": "quests/1438303745166409840/1440028688346255411_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1438303745166409840/1438969207390736454.jpg",
+                  "caption": "quests/1438303745166409840/1440030630506135702.vtt"
+                },
+                "video_low_res": {
+                  "url": "quests/1438303745166409840/1440028688346255411_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1438303745166409840/1438969207390736454.jpg",
+                  "caption": "quests/1438303745166409840/1440030630506135702.vtt"
+                },
+                "video_hls": {
+                  "url": "quests/1438303745166409840/1440028688346255411.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1438303745166409840/1438969207390736454.jpg",
+                  "caption": "quests/1438303745166409840/1440030630506135702.vtt"
+                }
+              },
+              "messages": {
+                "video_title": "EVE Online Expansion Trailer",
+                "video_end_cta_subtitle": "Jump into a new mining expansion for EVE Online",
+                "video_end_cta_button_label": "Jetzt spielen"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 1,
+              "sku_id": "1438303745166409841",
+              "asset": "quests/1438303745166409840/1438578832511864903.jpg",
+              "asset_video": null,
+              "messages": {
+                "name": "Fully Fitted Ship + SKIN",
+                "name_with_article": "a Fully Fitted Ship + SKIN",
+                "redemption_instructions_by_platform": {
+                  "0": "How to claim your mining ship:\n\nVisit the code [activation page](https://login.eveonline.com/account/logon?ReturnUrl=%2Fv2%2Foauth%2Fauthorize%3Fresponse_type%3Dcode%26client_id%3Daccount_management%26redirect_uri%3Dhttps%3A%2F%2Fsecure.eveonline.com%2Flogin%2Fssocallback%26scope%3Dmammonservice.userDataRead.v1%2520mammonservice.userDataWrite.v1%2520cisservice.customerRead.v1%2520cisservice.customerWrite.v1%2520cisservice.entitlementsRead.v1%2520sso.credentialsWrite.v1%2520vgs.marketAccess.v1%2520mammonservice.webPurchase.v1%2520cisservice.userProfileBasic.v1%2520secure.account.v1%26state%3Df82c5679-d5ef-4a5f-a99a-a98edd466177).  \nRegister or log in to your EVE Online account.  \nEnter your Quest code.  \nLog into EVE Online and claim your ship from the redemption queue. You can access the queue by clicking the disc icon at the bottom left of your screen."
+                }
+              },
+              "approximate_count": null,
+              "redemption_link": null
+            }
+          ],
+          "rewards_expire_at": "2025-12-25T00:00:35+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "video_metadata": {
+          "messages": {
+            "video_title": "EVE Online Expansion Trailer",
+            "video_end_cta_subtitle": "Jump into a new mining expansion for EVE Online",
+            "video_end_cta_button_label": "Jetzt spielen"
+          },
+          "assets": {
+            "video_player_video_hls": "quests/1438303745166409840/1440028688346255411.m3u8",
+            "video_player_video": "quests/1438303745166409840/1440028688346255411_1080.mp4",
+            "video_player_thumbnail": "quests/1438303745166409840/1438969207390736454.jpg",
+            "video_player_video_low_res": "quests/1438303745166409840/1440028688346255411_720.mp4",
+            "video_player_caption": "quests/1438303745166409840/1440030630506135702.vtt",
+            "video_player_transcript": null,
+            "quest_bar_preview_video": null,
+            "quest_bar_preview_thumbnail": null,
+            "quest_home_video": null
+          }
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.eveonline.com/now/eve-online-catalyst?utm_source=discord&utm_medium=cpm&utm_campaign=cn:ww_lg:en_mg:1_pd:1_cd:video-quest_cs:general_ct:video_tg:homepage_br:eve",
+          "button_label": "Jetzt spielen",
+          "subtitle": "Jump into a new mining expansion for EVE Online"
         }
       },
       "user_status": null,
