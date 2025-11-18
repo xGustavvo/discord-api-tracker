@@ -3735,12 +3735,12 @@
       "preview": false
     },
     {
-      "id": "1428092429030129755",
+      "id": "1437537235133005914",
       "config": {
-        "id": "1428092429030129755",
+        "id": "1437537235133005914",
         "config_version": 2,
-        "starts_at": "2025-10-17T17:00:27+00:00",
-        "expires_at": "2025-10-25T06:59:27+00:00",
+        "starts_at": "2025-11-18T00:00:45+00:00",
+        "expires_at": "2025-11-21T00:00:45+00:00",
         "features": [
           3,
           9,
@@ -3753,72 +3753,64 @@
           23
         ],
         "application": {
-          "link": "https://chainsawman.movie/?utm_source=discord&utm_medium=core",
-          "id": "545364944258990091",
-          "name": "Discord"
+          "link": "https://www.callofduty.com/playnow/blackops7?utm_source=discord&utm_medium=paid&utm_campaign=brand",
+          "id": "1423760184819581080",
+          "name": "Call of Duty: Black Ops 7"
         },
         "assets": {
-          "hero": "quests/1428092429030129755/1428094672940826735.jpg",
-          "hero_video": "quests/1428092429030129755/1428094616061870161.mp4",
-          "quest_bar_hero": "quests/1428092429030129755/1428095623755993108.jpg",
-          "quest_bar_hero_video": "quests/1428092429030129755/1428094616061870161.mp4",
-          "game_tile": "1428095643137736876.png",
-          "logotype": "1428095641946423346.png",
-          "game_tile_light": "quests/1428092429030129755/1428095231093375016.png",
-          "game_tile_dark": "quests/1428092429030129755/1428095231093375016.png",
-          "logotype_light": "quests/1428092429030129755/1428095145055752302.png",
-          "logotype_dark": "quests/1428092429030129755/1428095190937243768.png"
+          "hero": "quests/1437537235133005914/1437538237513072710.jpg",
+          "hero_video": null,
+          "quest_bar_hero": "quests/1437537235133005914/1437538311957647451.jpg",
+          "quest_bar_hero_video": null,
+          "game_tile": "1437538495525687306.png",
+          "logotype": "1437538494540156979.png",
+          "game_tile_light": "quests/1437537235133005914/1437538353669996677.png",
+          "game_tile_dark": "quests/1437537235133005914/1437538353669996677.png",
+          "logotype_light": "quests/1437537235133005914/1437538424876830872.png",
+          "logotype_dark": "quests/1437537235133005914/1437538424876830872.png"
         },
         "colors": {
-          "primary": "#D0121E",
-          "secondary": "#D0121E"
+          "primary": "#FFFFFF",
+          "secondary": "#000000"
         },
         "messages": {
-          "quest_name": "Chainsaw Man – The Movie: Reze Arc",
-          "game_title": "Now Playing Exclusively In Theatres",
-          "game_publisher": "Crunchyroll"
+          "quest_name": "Call of Duty: Black Ops 7",
+          "game_title": "Call of Duty: Black Ops 7",
+          "game_publisher": "Activision"
         },
         "task_config": {
           "type": 1,
           "join_operator": "or",
           "tasks": {
-            "WATCH_VIDEO": {
-              "event_name": "WATCH_VIDEO",
-              "target": 61
+            "PLAY_ON_DESKTOP": {
+              "event_name": "PLAY_ON_DESKTOP",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "event_name": "PLAY_ON_PLAYSTATION",
+              "target": 900
             }
           }
         },
         "task_config_v2": {
           "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 61,
-              "assets": {
-                "video": {
-                  "url": "quests/1428092429030129755/1428095887669989518_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1428092429030129755/1431332396585717861.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1428092429030129755/1428095887669989518_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1428092429030129755/1431332396585717861.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1428092429030129755/1428095887669989518.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1428092429030129755/1431332396585717861.jpg"
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1423760184819581080"
                 }
-              },
-              "messages": {
-                "video_title": "Chainsaw Man – The Movie: Reze Arc Trailer",
-                "video_end_cta_title": "Chainsaw Man Trailer",
-                "video_end_cta_subtitle": "Now Playing Exclusively in Theatres",
-                "video_end_cta_button_label": "Tickets kaufen"
-              }
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1423760184819581080"
+                }
+              ]
             }
           },
           "join_operator": "or"
@@ -3827,47 +3819,29 @@
           "assignment_method": 1,
           "rewards": [
             {
-              "type": 4,
-              "sku_id": "1287881739531976815",
+              "type": 1,
+              "sku_id": "1437537235133005915",
+              "asset": "quests/1437537235133005914/1437538892860620841.png",
+              "asset_video": null,
               "messages": {
-                "name": "700 orbs",
-                "name_with_article": "700 orbs",
+                "name": "Exclusive Calling Card",
+                "name_with_article": "an Exclusive Calling Card",
                 "redemption_instructions_by_platform": {
-                  "0": "Default"
+                  "0": "Redeem your code for an exclusive Calling Card at callofduty.com/redeem.\n"
                 }
               },
-              "orb_quantity": 700
+              "approximate_count": null,
+              "redemption_link": null
             }
           ],
-          "rewards_expire_at": "2025-11-24T06:59:27+00:00",
+          "rewards_expire_at": "2025-12-21T00:00:45+00:00",
           "platforms": [
             0
           ]
         },
-        "video_metadata": {
-          "messages": {
-            "video_title": "Chainsaw Man – The Movie: Reze Arc Trailer",
-            "video_end_cta_title": "Chainsaw Man Trailer",
-            "video_end_cta_subtitle": "Now Playing Exclusively in Theatres",
-            "video_end_cta_button_label": "Tickets kaufen"
-          },
-          "assets": {
-            "video_player_video_hls": "quests/1428092429030129755/1428095887669989518.m3u8",
-            "video_player_video": "quests/1428092429030129755/1428095887669989518_1080.mp4",
-            "video_player_thumbnail": "quests/1428092429030129755/1431332396585717861.jpg",
-            "video_player_video_low_res": "quests/1428092429030129755/1428095887669989518_720.mp4",
-            "video_player_caption": null,
-            "video_player_transcript": null,
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
-        },
         "share_policy": "shareable_everywhere",
         "cta_config": {
-          "link": "https://chainsawman.movie/?utm_source=discord&utm_medium=core",
-          "button_label": "Tickets kaufen",
-          "subtitle": "Now Playing Exclusively in Theatres"
+          "link": "https://www.callofduty.com/playnow/blackops7?utm_source=discord&utm_medium=paid&utm_campaign=brand"
         }
       },
       "user_status": null,
@@ -4012,6 +3986,146 @@
           "link": "https://microsoft.com/edge/copilot-mode?form=MW01C5&OCID=MW01C5",
           "button_label": "Mehr erfahren",
           "subtitle": "Copilot Mode in Edge"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
+      "id": "1428092429030129755",
+      "config": {
+        "id": "1428092429030129755",
+        "config_version": 2,
+        "starts_at": "2025-10-17T17:00:27+00:00",
+        "expires_at": "2025-10-25T06:59:27+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://chainsawman.movie/?utm_source=discord&utm_medium=core",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1428092429030129755/1428094672940826735.jpg",
+          "hero_video": "quests/1428092429030129755/1428094616061870161.mp4",
+          "quest_bar_hero": "quests/1428092429030129755/1428095623755993108.jpg",
+          "quest_bar_hero_video": "quests/1428092429030129755/1428094616061870161.mp4",
+          "game_tile": "1428095643137736876.png",
+          "logotype": "1428095641946423346.png",
+          "game_tile_light": "quests/1428092429030129755/1428095231093375016.png",
+          "game_tile_dark": "quests/1428092429030129755/1428095231093375016.png",
+          "logotype_light": "quests/1428092429030129755/1428095145055752302.png",
+          "logotype_dark": "quests/1428092429030129755/1428095190937243768.png"
+        },
+        "colors": {
+          "primary": "#D0121E",
+          "secondary": "#D0121E"
+        },
+        "messages": {
+          "quest_name": "Chainsaw Man – The Movie: Reze Arc",
+          "game_title": "Now Playing Exclusively In Theatres",
+          "game_publisher": "Crunchyroll"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "WATCH_VIDEO": {
+              "event_name": "WATCH_VIDEO",
+              "target": 61
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 61,
+              "assets": {
+                "video": {
+                  "url": "quests/1428092429030129755/1428095887669989518_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1428092429030129755/1431332396585717861.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1428092429030129755/1428095887669989518_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1428092429030129755/1431332396585717861.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1428092429030129755/1428095887669989518.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1428092429030129755/1431332396585717861.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "Chainsaw Man – The Movie: Reze Arc Trailer",
+                "video_end_cta_title": "Chainsaw Man Trailer",
+                "video_end_cta_subtitle": "Now Playing Exclusively in Theatres",
+                "video_end_cta_button_label": "Tickets kaufen"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 orbs",
+                "name_with_article": "700 orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "Default"
+                }
+              },
+              "orb_quantity": 700
+            }
+          ],
+          "rewards_expire_at": "2025-11-24T06:59:27+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "video_metadata": {
+          "messages": {
+            "video_title": "Chainsaw Man – The Movie: Reze Arc Trailer",
+            "video_end_cta_title": "Chainsaw Man Trailer",
+            "video_end_cta_subtitle": "Now Playing Exclusively in Theatres",
+            "video_end_cta_button_label": "Tickets kaufen"
+          },
+          "assets": {
+            "video_player_video_hls": "quests/1428092429030129755/1428095887669989518.m3u8",
+            "video_player_video": "quests/1428092429030129755/1428095887669989518_1080.mp4",
+            "video_player_thumbnail": "quests/1428092429030129755/1431332396585717861.jpg",
+            "video_player_video_low_res": "quests/1428092429030129755/1428095887669989518_720.mp4",
+            "video_player_caption": null,
+            "video_player_transcript": null,
+            "quest_bar_preview_video": null,
+            "quest_bar_preview_thumbnail": null,
+            "quest_home_video": null
+          }
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://chainsawman.movie/?utm_source=discord&utm_medium=core",
+          "button_label": "Tickets kaufen",
+          "subtitle": "Now Playing Exclusively in Theatres"
         }
       },
       "user_status": null,
