@@ -1447,6 +1447,190 @@
       "preview": false
     },
     {
+      "id": "1435016951251603496",
+      "config": {
+        "id": "1435016951251603496",
+        "config_version": 2,
+        "starts_at": "2025-11-06T18:00:02+00:00",
+        "expires_at": "2025-11-14T00:00:02+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://luna.amazon.com/game/courtroom-chaos/B0FR8SP73R",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1435016951251603496/1435058497904705587.jpg",
+          "hero_video": "quests/1435016951251603496/1435058925794889788.mp4",
+          "quest_bar_hero": "quests/1435016951251603496/1435058248981024798.jpg",
+          "quest_bar_hero_video": "quests/1435016951251603496/1435058925794889788.mp4",
+          "game_tile": "1435058525310291978.png",
+          "logotype": "1435058524383346868.png",
+          "game_tile_light": "quests/1435016951251603496/1435058305197146293.png",
+          "game_tile_dark": "quests/1435016951251603496/1435058305197146293.png",
+          "logotype_light": "quests/1435016951251603496/1435057915206570144.png",
+          "logotype_dark": "quests/1435016951251603496/1435057915206570144.png"
+        },
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Courtroom Chaos",
+          "game_title": "Courtroom Chaos Starring Snoop Dogg – Play it on Amazon Luna",
+          "game_publisher": "Amazon Luna"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "WATCH_VIDEO": {
+              "event_name": "WATCH_VIDEO",
+              "target": 75
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "event_name": "WATCH_VIDEO_ON_MOBILE",
+              "target": 75
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 75,
+              "assets": {
+                "video": {
+                  "url": "quests/1435016951251603496/1435059087699083435_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1435016951251603496/1435059233912524880.jpg",
+                  "caption": "quests/1435016951251603496/1435059884847792139.vtt"
+                },
+                "video_low_res": {
+                  "url": "quests/1435016951251603496/1435059087699083435_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1435016951251603496/1435059233912524880.jpg",
+                  "caption": "quests/1435016951251603496/1435059884847792139.vtt"
+                },
+                "video_hls": {
+                  "url": "quests/1435016951251603496/1435059087699083435.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1435016951251603496/1435059233912524880.jpg",
+                  "caption": "quests/1435016951251603496/1435059884847792139.vtt"
+                }
+              },
+              "messages": {
+                "video_title": "Courtroom Chaos Starring Snoop Dogg – Play it on Amazon Luna",
+                "video_end_cta_title": "Play it on Amazon Luna",
+                "video_end_cta_subtitle": "Available exclusively on Amazon Luna",
+                "video_end_cta_button_label": "Play Now"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 75,
+              "assets": {
+                "video": {
+                  "url": "quests/1435016951251603496/1435059047567986750_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1435016951251603496/1435059233912524880.jpg",
+                  "caption": "quests/1435016951251603496/1435059812181475479.vtt"
+                },
+                "video_low_res": {
+                  "url": "quests/1435016951251603496/1435059047567986750_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1435016951251603496/1435059233912524880.jpg",
+                  "caption": "quests/1435016951251603496/1435059812181475479.vtt"
+                },
+                "video_hls": {
+                  "url": "quests/1435016951251603496/1435059047567986750.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1435016951251603496/1435059233912524880.jpg",
+                  "caption": "quests/1435016951251603496/1435059812181475479.vtt"
+                }
+              },
+              "messages": {
+                "video_title": "Courtroom Chaos Starring Snoop Dogg – Play it on Amazon Luna",
+                "video_end_cta_title": "Play it on Amazon Luna",
+                "video_end_cta_subtitle": "Available exclusively on Amazon Luna",
+                "video_end_cta_button_label": "Play Now"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 3,
+              "sku_id": "1435057564663676929",
+              "asset": "quests/1435016951251603496/1435057789063139468.mp4",
+              "asset_video": null,
+              "messages": {
+                "name": "Judge Snoop Dogg Avatar Decoration",
+                "name_with_article": "a Judge Snoop Dogg Avatar Decoration",
+                "redemption_instructions_by_platform": {
+                  "0": "Default"
+                }
+              },
+              "expires_at": "2026-01-13T00:00:00+00:00",
+              "expires_at_premium": null,
+              "expiration_mode": 3
+            }
+          ],
+          "rewards_expire_at": "2025-12-14T00:00:02+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "video_metadata": {
+          "messages": {
+            "video_title": "Courtroom Chaos Starring Snoop Dogg – Play it on Amazon Luna",
+            "video_end_cta_title": "Play it on Amazon Luna",
+            "video_end_cta_subtitle": "Available exclusively on Amazon Luna",
+            "video_end_cta_button_label": "Play Now"
+          },
+          "assets": {
+            "video_player_video_hls": "quests/1435016951251603496/1435059087699083435.m3u8",
+            "video_player_video": "quests/1435016951251603496/1435059087699083435_1080.mp4",
+            "video_player_thumbnail": "quests/1435016951251603496/1435059233912524880.jpg",
+            "video_player_video_low_res": "quests/1435016951251603496/1435059087699083435_720.mp4",
+            "video_player_caption": "quests/1435016951251603496/1435059884847792139.vtt",
+            "video_player_transcript": null,
+            "quest_bar_preview_video": null,
+            "quest_bar_preview_thumbnail": null,
+            "quest_home_video": null
+          }
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://luna.amazon.com/game/courtroom-chaos/B0FR8SP73R",
+          "button_label": "Play Now",
+          "subtitle": "Available exclusively on Amazon Luna"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
       "id": "1421275302923079721",
       "config": {
         "id": "1421275302923079721",
@@ -1881,190 +2065,6 @@
       "preview": false
     },
     {
-      "id": "1435016951251603496",
-      "config": {
-        "id": "1435016951251603496",
-        "config_version": 2,
-        "starts_at": "2025-11-06T18:00:02+00:00",
-        "expires_at": "2025-11-14T00:00:02+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://luna.amazon.com/game/courtroom-chaos/B0FR8SP73R",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1435016951251603496/1435058497904705587.jpg",
-          "hero_video": "quests/1435016951251603496/1435058925794889788.mp4",
-          "quest_bar_hero": "quests/1435016951251603496/1435058248981024798.jpg",
-          "quest_bar_hero_video": "quests/1435016951251603496/1435058925794889788.mp4",
-          "game_tile": "1435058525310291978.png",
-          "logotype": "1435058524383346868.png",
-          "game_tile_light": "quests/1435016951251603496/1435058305197146293.png",
-          "game_tile_dark": "quests/1435016951251603496/1435058305197146293.png",
-          "logotype_light": "quests/1435016951251603496/1435057915206570144.png",
-          "logotype_dark": "quests/1435016951251603496/1435057915206570144.png"
-        },
-        "colors": {
-          "primary": "#FFFFFF",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Courtroom Chaos",
-          "game_title": "Courtroom Chaos Starring Snoop Dogg – Play it on Amazon Luna",
-          "game_publisher": "Amazon Luna"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "WATCH_VIDEO": {
-              "event_name": "WATCH_VIDEO",
-              "target": 75
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "event_name": "WATCH_VIDEO_ON_MOBILE",
-              "target": 75
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 75,
-              "assets": {
-                "video": {
-                  "url": "quests/1435016951251603496/1435059087699083435_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1435016951251603496/1435059233912524880.jpg",
-                  "caption": "quests/1435016951251603496/1435059884847792139.vtt"
-                },
-                "video_low_res": {
-                  "url": "quests/1435016951251603496/1435059087699083435_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1435016951251603496/1435059233912524880.jpg",
-                  "caption": "quests/1435016951251603496/1435059884847792139.vtt"
-                },
-                "video_hls": {
-                  "url": "quests/1435016951251603496/1435059087699083435.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1435016951251603496/1435059233912524880.jpg",
-                  "caption": "quests/1435016951251603496/1435059884847792139.vtt"
-                }
-              },
-              "messages": {
-                "video_title": "Courtroom Chaos Starring Snoop Dogg – Play it on Amazon Luna",
-                "video_end_cta_title": "Play it on Amazon Luna",
-                "video_end_cta_subtitle": "Available exclusively on Amazon Luna",
-                "video_end_cta_button_label": "Play Now"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 75,
-              "assets": {
-                "video": {
-                  "url": "quests/1435016951251603496/1435059047567986750_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1435016951251603496/1435059233912524880.jpg",
-                  "caption": "quests/1435016951251603496/1435059812181475479.vtt"
-                },
-                "video_low_res": {
-                  "url": "quests/1435016951251603496/1435059047567986750_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1435016951251603496/1435059233912524880.jpg",
-                  "caption": "quests/1435016951251603496/1435059812181475479.vtt"
-                },
-                "video_hls": {
-                  "url": "quests/1435016951251603496/1435059047567986750.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1435016951251603496/1435059233912524880.jpg",
-                  "caption": "quests/1435016951251603496/1435059812181475479.vtt"
-                }
-              },
-              "messages": {
-                "video_title": "Courtroom Chaos Starring Snoop Dogg – Play it on Amazon Luna",
-                "video_end_cta_title": "Play it on Amazon Luna",
-                "video_end_cta_subtitle": "Available exclusively on Amazon Luna",
-                "video_end_cta_button_label": "Play Now"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 3,
-              "sku_id": "1435057564663676929",
-              "asset": "quests/1435016951251603496/1435057789063139468.mp4",
-              "asset_video": null,
-              "messages": {
-                "name": "Judge Snoop Dogg Avatar Decoration",
-                "name_with_article": "a Judge Snoop Dogg Avatar Decoration",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "expires_at": "2026-01-13T00:00:00+00:00",
-              "expires_at_premium": null,
-              "expiration_mode": 3
-            }
-          ],
-          "rewards_expire_at": "2025-12-14T00:00:02+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "video_metadata": {
-          "messages": {
-            "video_title": "Courtroom Chaos Starring Snoop Dogg – Play it on Amazon Luna",
-            "video_end_cta_title": "Play it on Amazon Luna",
-            "video_end_cta_subtitle": "Available exclusively on Amazon Luna",
-            "video_end_cta_button_label": "Play Now"
-          },
-          "assets": {
-            "video_player_video_hls": "quests/1435016951251603496/1435059087699083435.m3u8",
-            "video_player_video": "quests/1435016951251603496/1435059087699083435_1080.mp4",
-            "video_player_thumbnail": "quests/1435016951251603496/1435059233912524880.jpg",
-            "video_player_video_low_res": "quests/1435016951251603496/1435059087699083435_720.mp4",
-            "video_player_caption": "quests/1435016951251603496/1435059884847792139.vtt",
-            "video_player_transcript": null,
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://luna.amazon.com/game/courtroom-chaos/B0FR8SP73R",
-          "button_label": "Play Now",
-          "subtitle": "Available exclusively on Amazon Luna"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
       "id": "1432205768106705070",
       "config": {
         "id": "1432205768106705070",
@@ -2198,7 +2198,7 @@
         "id": "1435367355759726642",
         "config_version": 2,
         "starts_at": "2025-11-06T00:15:25+00:00",
-        "expires_at": "2025-11-19T00:00:25+00:00",
+        "expires_at": "2025-11-19T07:59:25+00:00",
         "features": [
           3,
           9,
@@ -2303,7 +2303,7 @@
               "orb_quantity": 700
             }
           ],
-          "rewards_expire_at": "2025-12-19T00:00:25+00:00",
+          "rewards_expire_at": "2025-12-19T07:59:25+00:00",
           "platforms": [
             0
           ]
@@ -5775,9 +5775,6 @@
     },
     {
       "id": "1410358070831480904"
-    },
-    {
-      "id": "1425921949665591336"
     },
     {
       "id": "1418350811687419914"
