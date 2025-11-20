@@ -129,134 +129,6 @@
       "preview": false
     },
     {
-      "id": "1425609255569854464",
-      "config": {
-        "id": "1425609255569854464",
-        "config_version": 2,
-        "starts_at": "2025-10-14T17:00:13+00:00",
-        "expires_at": "2025-10-21T00:00:13+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://www.fortnite.com/",
-          "id": "1402418703554842694",
-          "name": "Fortnite"
-        },
-        "assets": {
-          "hero": "quests/1425609255569854464/1425609862599147530.jpg",
-          "hero_video": null,
-          "quest_bar_hero": "quests/1425609255569854464/1425609830286102660.jpg",
-          "quest_bar_hero_video": null,
-          "game_tile": "1425610175385047110.png",
-          "logotype": "1425610174156247140.png",
-          "game_tile_light": "quests/1425609255569854464/1425609961702031421.png",
-          "game_tile_dark": "quests/1425609255569854464/1425609961702031421.png",
-          "logotype_light": "quests/1425609255569854464/1425609931645517834.png",
-          "logotype_dark": "quests/1425609255569854464/1425609931645517834.png"
-        },
-        "colors": {
-          "primary": "#94381F",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Fortnitemares",
-          "game_title": "Fortnite",
-          "game_publisher": "Epic Games"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "event_name": "PLAY_ON_DESKTOP",
-              "target": 900
-            },
-            "PLAY_ON_XBOX": {
-              "event_name": "PLAY_ON_XBOX",
-              "target": 900
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "event_name": "PLAY_ON_PLAYSTATION",
-              "target": 900
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1402418703554842694"
-                }
-              ]
-            },
-            "PLAY_ON_XBOX": {
-              "type": "PLAY_ON_XBOX",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1402418703554842694"
-                }
-              ]
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1402418703554842694"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 3,
-              "sku_id": "1425613673417801771",
-              "asset": "quests/1425609255569854464/1425614017472499752.mp4",
-              "asset_video": null,
-              "messages": {
-                "name": "The Final Peel Avatar Decoration",
-                "name_with_article": "The Final Peel Avatar Decoration",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "expires_at": "2025-12-20T01:00:00+00:00",
-              "expires_at_premium": null,
-              "expiration_mode": 1
-            }
-          ],
-          "rewards_expire_at": "2025-11-20T00:00:13+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.fortnite.com/"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
       "id": "1432436088508780675",
       "config": {
         "id": "1432436088508780675",
@@ -4066,7 +3938,7 @@
           "secondary": "#000000"
         },
         "messages": {
-          "quest_name": "Microsoft Edge Your AI Browser",
+          "quest_name": "Microsoft Edge - Your AI Browser",
           "game_title": "Microsoft Edge",
           "game_publisher": "Microsoft Edge"
         },
@@ -4820,104 +4692,6 @@
           "link": "https://www.runningmanmovie.com/",
           "button_label": "Adquira seu ingresso",
           "subtitle": " The Running Man Only in Theaters November 14"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
-      "id": "1425698814315991141",
-      "config": {
-        "id": "1425698814315991141",
-        "config_version": 2,
-        "starts_at": "2025-10-13T17:00:05+00:00",
-        "expires_at": "2025-10-21T00:00:05+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://store.steampowered.com/app/2795540/The_Midnight_Walkers/",
-          "id": "1425698395774783611",
-          "name": "The Midnight Walkers"
-        },
-        "assets": {
-          "hero": "quests/1425698814315991141/1425700873534967881.jpg",
-          "hero_video": "quests/1425698814315991141/1425700924378321019.mp4",
-          "quest_bar_hero": "quests/1425698814315991141/1425700592554344559.jpg",
-          "quest_bar_hero_video": "quests/1425698814315991141/1425700979696861286.mp4",
-          "game_tile": "1425701127348949082.png",
-          "logotype": "1425701126375866418.png",
-          "game_tile_light": "quests/1425698814315991141/1425701058528809021.png",
-          "game_tile_dark": "quests/1425698814315991141/1425701058528809021.png",
-          "logotype_light": "quests/1425698814315991141/1425701020419493981.png",
-          "logotype_dark": "quests/1425698814315991141/1425701020419493981.png"
-        },
-        "colors": {
-          "primary": "#96241C",
-          "secondary": "#1D1A21"
-        },
-        "messages": {
-          "quest_name": "Missão Midnight Walkers",
-          "game_title": "The Midnight Walkers",
-          "game_publisher": "Oneway Ticket Studio"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "event_name": "PLAY_ON_DESKTOP",
-              "target": 900
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1425698395774783611"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 orbs",
-                "name_with_article": "700 orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "orb_quantity": 700
-            }
-          ],
-          "rewards_expire_at": "2025-11-20T00:00:05+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://store.steampowered.com/app/2795540/The_Midnight_Walkers/"
         }
       },
       "user_status": null,
@@ -5803,9 +5577,6 @@
       "id": "1438245337184735394"
     },
     {
-      "id": "1425614323958677667"
-    },
-    {
       "id": "1427802437347053668"
     },
     {
@@ -5819,9 +5590,6 @@
     },
     {
       "id": "1433542422268350574"
-    },
-    {
-      "id": "1420556874629251124"
     },
     {
       "id": "1435329773197987961",
