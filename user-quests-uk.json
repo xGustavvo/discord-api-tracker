@@ -2957,7 +2957,7 @@
           "logotype_dark": "quests/1436408444071444584/1438617546822520932.png"
         },
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#4752C4",
           "secondary": "#000000"
         },
         "messages": {
@@ -3022,8 +3022,8 @@
               "type": 4,
               "sku_id": "1287881739531976815",
               "messages": {
-                "name": "700 orbs",
-                "name_with_article": "700 orbs",
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
                 "redemption_instructions_by_platform": {
                   "0": "Default"
                 }

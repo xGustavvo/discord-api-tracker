@@ -103,6 +103,158 @@
       "preview": false
     },
     {
+      "id": "1440059727005614090",
+      "config": {
+        "id": "1440059727005614090",
+        "config_version": 2,
+        "starts_at": "2025-11-20T18:45:13+00:00",
+        "expires_at": "2025-11-27T00:00:13+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://operagx.gg/yoursetupwantsgx_dsc",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1440059727005614090/1441127914824273950.jpg",
+          "hero_video": null,
+          "quest_bar_hero": "quests/1440083047205834872/1440088391244054629.jpg",
+          "quest_bar_hero_video": "quests/1440059727005614090/1441128924183658580.mp4",
+          "game_tile": "1441128003571552497.png",
+          "logotype": "1441128002615246999.png",
+          "game_tile_light": "quests/1440059727005614090/1441127988509933578.png",
+          "game_tile_dark": "quests/1440059727005614090/1441127988509933578.png",
+          "logotype_light": "quests/1440059727005614090/1441127963708887142.png",
+          "logotype_dark": "quests/1440059727005614090/1441127963708887142.png"
+        },
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Opera GX",
+          "game_title": "Opera GX",
+          "game_publisher": "Opera GX"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "WATCH_VIDEO": {
+              "event_name": "WATCH_VIDEO",
+              "target": 42
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 42,
+              "assets": {
+                "video": {
+                  "url": "quests/1440083047205834872/1440089355795300414_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1440059727005614090/1440102760883290245.png",
+                  "caption": "quests/1440083047205834872/1440089409532854272.vtt",
+                  "transcript": "quests/1440083047205834872/1440089433117556746.txt"
+                },
+                "video_low_res": {
+                  "url": "quests/1440083047205834872/1440089355795300414_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1440059727005614090/1440102760883290245.png",
+                  "caption": "quests/1440083047205834872/1440089409532854272.vtt",
+                  "transcript": "quests/1440083047205834872/1440089433117556746.txt"
+                },
+                "video_hls": {
+                  "url": "quests/1440083047205834872/1440089355795300414.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1440059727005614090/1440102760883290245.png",
+                  "caption": "quests/1440083047205834872/1440089409532854272.vtt",
+                  "transcript": "quests/1440083047205834872/1440089433117556746.txt"
+                }
+              },
+              "messages": {
+                "video_title": "Opera GX",
+                "video_end_cta_button_label": "En savoir plus"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 orbs",
+                "name_with_article": "700 orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "Default"
+                }
+              },
+              "orb_quantity": 700
+            }
+          ],
+          "rewards_expire_at": "2025-12-27T00:00:13+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "video_metadata": {
+          "messages": {
+            "video_title": "Opera GX",
+            "video_end_cta_button_label": "En savoir plus"
+          },
+          "assets": {
+            "video_player_video_hls": "quests/1440083047205834872/1440089355795300414.m3u8",
+            "video_player_video": "quests/1440083047205834872/1440089355795300414_1080.mp4",
+            "video_player_thumbnail": "quests/1440059727005614090/1440102760883290245.png",
+            "video_player_video_low_res": "quests/1440083047205834872/1440089355795300414_720.mp4",
+            "video_player_caption": "quests/1440083047205834872/1440089409532854272.vtt",
+            "video_player_transcript": "quests/1440083047205834872/1440089433117556746.txt",
+            "quest_bar_preview_video": null,
+            "quest_bar_preview_thumbnail": null,
+            "quest_home_video": null
+          }
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://operagx.gg/yoursetupwantsgx_dsc",
+          "button_label": "En savoir plus"
+        }
+      },
+      "user_status": {
+        "user_id": "1442595836407316501",
+        "quest_id": "1440059727005614090",
+        "enrolled_at": "2025-11-24T19:46:49.730873+00:00",
+        "completed_at": null,
+        "claimed_at": null,
+        "claimed_tier": null,
+        "last_stream_heartbeat_at": null,
+        "stream_progress_seconds": 0,
+        "dismissed_quest_content": 0,
+        "progress": {}
+      },
+      "targeted_content": [],
+      "preview": false
+    },
+    {
       "id": "1436125144404725770",
       "config": {
         "id": "1436125144404725770",
@@ -195,7 +347,7 @@
         "share_policy": "shareable_everywhere",
         "cta_config": {
           "link": "https://pplx.ai/discord-quest",
-          "button_label": "Installieren"
+          "button_label": "Installer"
         }
       },
       "user_status": null,
@@ -481,7 +633,7 @@
           "secondary": "#000000"
         },
         "messages": {
-          "quest_name": "Walzer mit einem Dämon",
+          "quest_name": "Danse avec le démon",
           "game_title": "League of Legends",
           "game_publisher": "Riot Games"
         },
@@ -518,8 +670,8 @@
               "asset": "quests/1432424574561026070/1432427718519033896.mp4",
               "asset_video": null,
               "messages": {
-                "name": "Atakhans Aura der Bosheit",
-                "name_with_article": "Atakhans Aura der Bosheit",
+                "name": "Aura de malicia de Atakhan",
+                "name_with_article": "Aura de malicia de Atakhan",
                 "redemption_instructions_by_platform": {
                   "0": "Default"
                 }
@@ -759,7 +911,7 @@
         "share_policy": "shareable_everywhere",
         "cta_config": {
           "link": "https://www.marvelrivals.com/",
-          "button_label": "Spiel holen"
+          "button_label": "Obtenir le jeu"
         }
       },
       "user_status": null,
@@ -849,7 +1001,7 @@
                 "video_title": "all-new Amazon Luna Video",
                 "video_end_cta_title": "Learn More",
                 "video_end_cta_subtitle": "No Setup. No Console. Play it with Prime.",
-                "video_end_cta_button_label": "Mehr erfahren"
+                "video_end_cta_button_label": "En savoir plus"
               }
             }
           },
@@ -881,7 +1033,7 @@
             "video_title": "all-new Amazon Luna Video",
             "video_end_cta_title": "Learn More",
             "video_end_cta_subtitle": "No Setup. No Console. Play it with Prime.",
-            "video_end_cta_button_label": "Mehr erfahren"
+            "video_end_cta_button_label": "En savoir plus"
           },
           "assets": {
             "video_player_video_hls": "quests/1431027486506094623/1431036702994075709.m3u8",
@@ -898,7 +1050,7 @@
         "share_policy": "shareable_everywhere",
         "cta_config": {
           "link": "https://luna.amazon.com/?asin=3uqlui&ref_=dvmLaunchLaunch30vid_dig",
-          "button_label": "Mehr erfahren",
+          "button_label": "En savoir plus",
           "subtitle": "No Setup. No Console. Play it with Prime."
         }
       },
@@ -1124,7 +1276,7 @@
                 "video_title": "Courtroom Chaos Starring Snoop Dogg – Play it on Amazon Luna",
                 "video_end_cta_title": "Play it on Amazon Luna",
                 "video_end_cta_subtitle": "Available exclusively on Amazon Luna",
-                "video_end_cta_button_label": "Jetzt spielen"
+                "video_end_cta_button_label": "Jouer"
               }
             },
             "WATCH_VIDEO_ON_MOBILE": {
@@ -1157,7 +1309,7 @@
                 "video_title": "Courtroom Chaos Starring Snoop Dogg – Play it on Amazon Luna",
                 "video_end_cta_title": "Play it on Amazon Luna",
                 "video_end_cta_subtitle": "Available exclusively on Amazon Luna",
-                "video_end_cta_button_label": "Jetzt spielen"
+                "video_end_cta_button_label": "Jouer"
               }
             }
           },
@@ -1193,7 +1345,7 @@
             "video_title": "Courtroom Chaos Starring Snoop Dogg – Play it on Amazon Luna",
             "video_end_cta_title": "Play it on Amazon Luna",
             "video_end_cta_subtitle": "Available exclusively on Amazon Luna",
-            "video_end_cta_button_label": "Jetzt spielen"
+            "video_end_cta_button_label": "Jouer"
           },
           "assets": {
             "video_player_video_hls": "quests/1435016951251603496/1435059087699083435.m3u8",
@@ -1210,11 +1362,166 @@
         "share_policy": "shareable_everywhere",
         "cta_config": {
           "link": "https://luna.amazon.com/game/courtroom-chaos/B0FR8SP73R",
-          "button_label": "Jetzt spielen",
+          "button_label": "Jouer",
           "subtitle": "Available exclusively on Amazon Luna"
         }
       },
       "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
+      "id": "1440818151955759144",
+      "config": {
+        "id": "1440818151955759144",
+        "config_version": 2,
+        "starts_at": "2025-11-24T18:00:56+00:00",
+        "expires_at": "2025-12-08T00:00:56+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://www.universalpics.com.br/micro/five-nights-2",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1440818151955759144/1440821234437722212.jpg",
+          "hero_video": "quests/1440818151955759144/1440821106222043206.mp4",
+          "quest_bar_hero": "quests/1440818151955759144/1440849165214159040.jpg",
+          "quest_bar_hero_video": "quests/1440818151955759144/1440821106222043206.mp4",
+          "game_tile": "1440821458036064256.png",
+          "logotype": "1440821456941613229.png",
+          "game_tile_light": "quests/1440818151955759144/1440821418618261614.png",
+          "game_tile_dark": "quests/1440818151955759144/1440821418618261614.png",
+          "logotype_light": "quests/1440818151955759144/1440821346337558578.png",
+          "logotype_dark": "quests/1440818151955759144/1440821346337558578.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Five Nights at Freddy's 2 ",
+          "game_title": "4 de dezembro nos cinemas. Garanta já seu ingresso.",
+          "game_publisher": "Universal Pictures"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "WATCH_VIDEO": {
+              "event_name": "WATCH_VIDEO",
+              "target": 92
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 92,
+              "assets": {
+                "video": {
+                  "url": "quests/1440818151955759144/1440821827411640442_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1440818151955759144/1440820996696178797.jpg",
+                  "caption": "quests/1440818151955759144/1441529265509105824.vtt",
+                  "transcript": "quests/1440818151955759144/1441529289915891752.txt"
+                },
+                "video_low_res": {
+                  "url": "quests/1440818151955759144/1440821827411640442_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1440818151955759144/1440820996696178797.jpg",
+                  "caption": "quests/1440818151955759144/1441529265509105824.vtt",
+                  "transcript": "quests/1440818151955759144/1441529289915891752.txt"
+                },
+                "video_hls": {
+                  "url": "quests/1440818151955759144/1440821827411640442.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1440818151955759144/1440820996696178797.jpg",
+                  "caption": "quests/1440818151955759144/1441529265509105824.vtt",
+                  "transcript": "quests/1440818151955759144/1441529289915891752.txt"
+                }
+              },
+              "messages": {
+                "video_title": "Five Nights at Freddy's 2 Trailer",
+                "video_end_cta_subtitle": "4 de dezembro nos cinemas. Garanta já seu ingresso",
+                "video_end_cta_button_label": "Obtenir des tickets"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "Default"
+                }
+              },
+              "orb_quantity": 700
+            }
+          ],
+          "rewards_expire_at": "2026-01-07T00:00:56+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "video_metadata": {
+          "messages": {
+            "video_title": "Five Nights at Freddy's 2 Trailer",
+            "video_end_cta_subtitle": "4 de dezembro nos cinemas. Garanta já seu ingresso",
+            "video_end_cta_button_label": "Obtenir des tickets"
+          },
+          "assets": {
+            "video_player_video_hls": "quests/1440818151955759144/1440821827411640442.m3u8",
+            "video_player_video": "quests/1440818151955759144/1440821827411640442_1080.mp4",
+            "video_player_thumbnail": "quests/1440818151955759144/1440820996696178797.jpg",
+            "video_player_video_low_res": "quests/1440818151955759144/1440821827411640442_720.mp4",
+            "video_player_caption": "quests/1440818151955759144/1441529265509105824.vtt",
+            "video_player_transcript": "quests/1440818151955759144/1441529289915891752.txt",
+            "quest_bar_preview_video": null,
+            "quest_bar_preview_thumbnail": null,
+            "quest_home_video": null
+          }
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.universalpics.com.br/micro/five-nights-2",
+          "button_label": "Obtenir des tickets",
+          "subtitle": "4 de dezembro nos cinemas. Garanta já seu ingresso"
+        }
+      },
+      "user_status": {
+        "user_id": "1442595836407316501",
+        "quest_id": "1440818151955759144",
+        "enrolled_at": "2025-11-24T19:46:49.773337+00:00",
+        "completed_at": null,
+        "claimed_at": null,
+        "claimed_tier": null,
+        "last_stream_heartbeat_at": null,
+        "stream_progress_seconds": 0,
+        "dismissed_quest_content": 0,
+        "progress": {}
+      },
       "targeted_content": [],
       "preview": false
     },
@@ -1258,7 +1565,7 @@
           "secondary": "#000000"
         },
         "messages": {
-          "quest_name": "„Anno 117“-",
+          "quest_name": "Anno 117",
           "game_title": "Anno 117: Pax Romana",
           "game_publisher": "Ubisoft"
         },
@@ -1283,34 +1590,34 @@
               "target": 158,
               "assets": {
                 "video": {
-                  "url": "quests/1435012985872715946/1436042084497752105_1080.mp4",
+                  "url": "quests/1435012985872715946/1436041744146759771_1080.mp4",
                   "width": 1280,
                   "height": 720,
-                  "thumbnail": "quests/1435012985872715946/1438626841341722768.jpg",
-                  "caption": "quests/1435012985872715946/1436100253525868605.vtt",
-                  "transcript": "quests/1435012985872715946/1436100318441115718.txt"
+                  "thumbnail": "quests/1435012985872715946/1438626893128667256.jpg",
+                  "caption": "quests/1435012985872715946/1436100152854315059.vtt",
+                  "transcript": "quests/1435012985872715946/1436100393401716897.txt"
                 },
                 "video_low_res": {
-                  "url": "quests/1435012985872715946/1436042084497752105_720.mp4",
+                  "url": "quests/1435012985872715946/1436041744146759771_720.mp4",
                   "width": 1280,
                   "height": 720,
-                  "thumbnail": "quests/1435012985872715946/1438626841341722768.jpg",
-                  "caption": "quests/1435012985872715946/1436100253525868605.vtt",
-                  "transcript": "quests/1435012985872715946/1436100318441115718.txt"
+                  "thumbnail": "quests/1435012985872715946/1438626893128667256.jpg",
+                  "caption": "quests/1435012985872715946/1436100152854315059.vtt",
+                  "transcript": "quests/1435012985872715946/1436100393401716897.txt"
                 },
                 "video_hls": {
-                  "url": "quests/1435012985872715946/1436042084497752105.m3u8",
+                  "url": "quests/1435012985872715946/1436041744146759771.m3u8",
                   "width": 1280,
                   "height": 720,
-                  "thumbnail": "quests/1435012985872715946/1438626841341722768.jpg",
-                  "caption": "quests/1435012985872715946/1436100253525868605.vtt",
-                  "transcript": "quests/1435012985872715946/1436100318441115718.txt"
+                  "thumbnail": "quests/1435012985872715946/1438626893128667256.jpg",
+                  "caption": "quests/1435012985872715946/1436100152854315059.vtt",
+                  "transcript": "quests/1435012985872715946/1436100393401716897.txt"
                 }
               },
               "messages": {
                 "video_title": "Anno 117: Pax Romana Launch Trailer",
                 "video_end_cta_subtitle": "Anno 117: Pax Romana – Available November 13",
-                "video_end_cta_button_label": "Spiel holen"
+                "video_end_cta_button_label": "Obtenir le jeu"
               }
             },
             "WATCH_VIDEO_ON_MOBILE": {
@@ -1318,34 +1625,34 @@
               "target": 158,
               "assets": {
                 "video": {
-                  "url": "quests/1435012985872715946/1436037621737590806_1080.mp4",
+                  "url": "quests/1435012985872715946/1436028111341748244_1080.mp4",
                   "width": 405,
                   "height": 720,
-                  "thumbnail": "quests/1435012985872715946/1438626841341722768.jpg",
-                  "caption": "quests/1435012985872715946/1436100253525868605.vtt",
-                  "transcript": "quests/1435012985872715946/1436100318441115718.txt"
+                  "thumbnail": "quests/1435012985872715946/1438626893128667256.jpg",
+                  "caption": "quests/1435012985872715946/1436100152854315059.vtt",
+                  "transcript": "quests/1435012985872715946/1436100393401716897.txt"
                 },
                 "video_low_res": {
-                  "url": "quests/1435012985872715946/1436037621737590806_720.mp4",
+                  "url": "quests/1435012985872715946/1436028111341748244_720.mp4",
                   "width": 405,
                   "height": 720,
-                  "thumbnail": "quests/1435012985872715946/1438626841341722768.jpg",
-                  "caption": "quests/1435012985872715946/1436100253525868605.vtt",
-                  "transcript": "quests/1435012985872715946/1436100318441115718.txt"
+                  "thumbnail": "quests/1435012985872715946/1438626893128667256.jpg",
+                  "caption": "quests/1435012985872715946/1436100152854315059.vtt",
+                  "transcript": "quests/1435012985872715946/1436100393401716897.txt"
                 },
                 "video_hls": {
-                  "url": "quests/1435012985872715946/1436037621737590806.m3u8",
+                  "url": "quests/1435012985872715946/1436028111341748244.m3u8",
                   "width": 405,
                   "height": 720,
-                  "thumbnail": "quests/1435012985872715946/1438626841341722768.jpg",
-                  "caption": "quests/1435012985872715946/1436100253525868605.vtt",
-                  "transcript": "quests/1435012985872715946/1436100318441115718.txt"
+                  "thumbnail": "quests/1435012985872715946/1438626893128667256.jpg",
+                  "caption": "quests/1435012985872715946/1436100152854315059.vtt",
+                  "transcript": "quests/1435012985872715946/1436100393401716897.txt"
                 }
               },
               "messages": {
                 "video_title": "Anno 117: Pax Romana Launch Trailer",
                 "video_end_cta_subtitle": "Anno 117: Pax Romana – Available November 13",
-                "video_end_cta_button_label": "Spiel holen"
+                "video_end_cta_button_label": "Obtenir le jeu"
               }
             }
           },
@@ -1360,8 +1667,8 @@
               "asset": "quests/1435012985872715946/1435785261735739402.mp4",
               "asset_video": null,
               "messages": {
-                "name": "Kolosseum-Avatar",
-                "name_with_article": "ein Kolosseum-Avatar",
+                "name": "Avatar du Colisée",
+                "name_with_article": "un Avatar du Colisée",
                 "redemption_instructions_by_platform": {
                   "0": "Default"
                 }
@@ -1380,7 +1687,7 @@
           "messages": {
             "video_title": "Anno 117: Pax Romana Launch Trailer",
             "video_end_cta_subtitle": "Anno 117: Pax Romana – Available November 13",
-            "video_end_cta_button_label": "Spiel holen"
+            "video_end_cta_button_label": "Obtenir le jeu"
           },
           "assets": {
             "video_player_video_hls": "quests/1435012985872715946/1436043508824805468.m3u8",
@@ -1397,7 +1704,7 @@
         "share_policy": "shareable_everywhere",
         "cta_config": {
           "link": "https://store.ubisoft.com/anno-117--pax-romana/6638e5dcaa201a2d55bcc772.html/?ucid=DDP-272723&addinfo=&bi=pme",
-          "button_label": "Spiel holen",
+          "button_label": "Obtenir le jeu",
           "subtitle": "Anno 117: Pax Romana – Available November 13"
         }
       },
@@ -1573,8 +1880,8 @@
           "secondary": "#000000"
         },
         "messages": {
-          "quest_name": "\"King of Meat\"-Sale",
-          "game_title": "75 % Rabatt - nur für kurze Zeit",
+          "quest_name": "King of Meat Sale",
+          "game_title": "75% off limited-time sale",
           "game_publisher": "Amazon Games"
         },
         "task_config": {
@@ -1594,35 +1901,35 @@
               "target": 29,
               "assets": {
                 "video": {
-                  "url": "quests/1435367355759726642/1435370700926881924_1080.mp4",
+                  "url": "quests/1435367355759726642/1435370621705125938_1080.mp4",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1435367355759726642/1435403018286796851.jpg",
+                  "thumbnail": "quests/1435367355759726642/1435402986171142274.jpg",
                   "caption": "quests/1435367355759726642/1435370985648951548.vtt",
                   "transcript": "quests/1435367355759726642/1435370961422778509.txt"
                 },
                 "video_low_res": {
-                  "url": "quests/1435367355759726642/1435370700926881924_720.mp4",
+                  "url": "quests/1435367355759726642/1435370621705125938_720.mp4",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1435367355759726642/1435403018286796851.jpg",
+                  "thumbnail": "quests/1435367355759726642/1435402986171142274.jpg",
                   "caption": "quests/1435367355759726642/1435370985648951548.vtt",
                   "transcript": "quests/1435367355759726642/1435370961422778509.txt"
                 },
                 "video_hls": {
-                  "url": "quests/1435367355759726642/1435370700926881924.m3u8",
+                  "url": "quests/1435367355759726642/1435370621705125938.m3u8",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1435367355759726642/1435403018286796851.jpg",
+                  "thumbnail": "quests/1435367355759726642/1435402986171142274.jpg",
                   "caption": "quests/1435367355759726642/1435370985648951548.vtt",
                   "transcript": "quests/1435367355759726642/1435370961422778509.txt"
                 }
               },
               "messages": {
-                "video_title": "King of Meat: 75 % Rabatt - nur für kurze Zeit",
+                "video_title": "King of Meat: 75% off limited-time sale",
                 "video_end_cta_title": "King of Meat",
                 "video_end_cta_subtitle": "Steam Free Weekend - Play for free until Nov 17",
-                "video_end_cta_button_label": "Jetzt spielen"
+                "video_end_cta_button_label": "Jouer"
               }
             }
           },
@@ -1651,10 +1958,10 @@
         },
         "video_metadata": {
           "messages": {
-            "video_title": "King of Meat: 75 % Rabatt - nur für kurze Zeit",
+            "video_title": "King of Meat: 75% off limited-time sale",
             "video_end_cta_title": "King of Meat",
             "video_end_cta_subtitle": "Steam Free Weekend - Play for free until Nov 17",
-            "video_end_cta_button_label": "Jetzt spielen"
+            "video_end_cta_button_label": "Jouer"
           },
           "assets": {
             "video_player_video_hls": "quests/1435367355759726642/1435370621705125938.m3u8",
@@ -1671,7 +1978,7 @@
         "share_policy": "shareable_everywhere",
         "cta_config": {
           "link": "https://store.steampowered.com/app/1926980/King_of_Meat/",
-          "button_label": "Jetzt spielen",
+          "button_label": "Jouer",
           "subtitle": "Steam Free Weekend - Play for free until Nov 17"
         }
       },
@@ -1772,7 +2079,7 @@
                 "video_title": "It: Welcome to Derry Trailer",
                 "video_end_cta_title": "It: Welcome to Derry",
                 "video_end_cta_subtitle": "Premieres October 26 at 9pm on HBO Max",
-                "video_end_cta_button_label": "Mehr erfahren"
+                "video_end_cta_button_label": "En savoir plus"
               }
             },
             "WATCH_VIDEO_ON_MOBILE": {
@@ -1808,7 +2115,7 @@
                 "video_title": "It: Welcome to Derry Trailer",
                 "video_end_cta_title": "It: Welcome to Derry",
                 "video_end_cta_subtitle": "Premieres October 26 at 9pm on HBO Max",
-                "video_end_cta_button_label": "Mehr erfahren"
+                "video_end_cta_button_label": "En savoir plus"
               }
             }
           },
@@ -1844,7 +2151,7 @@
             "video_title": "It: Welcome to Derry Trailer",
             "video_end_cta_title": "It: Welcome to Derry",
             "video_end_cta_subtitle": "Premieres October 26 at 9pm on HBO Max",
-            "video_end_cta_button_label": "Mehr erfahren"
+            "video_end_cta_button_label": "En savoir plus"
           },
           "assets": {
             "video_player_video_hls": "quests/1428862922020618290/1430232855786553465.m3u8",
@@ -1861,7 +2168,7 @@
         "share_policy": "shareable_everywhere",
         "cta_config": {
           "link": "https://www.hbomax.com/coming-soon/it-welcome-to-derry",
-          "button_label": "Mehr erfahren",
+          "button_label": "En savoir plus",
           "subtitle": "Premieres October 26 at 9pm on HBO Max"
         }
       },
@@ -1909,7 +2216,7 @@
           "secondary": "#054964"
         },
         "messages": {
-          "quest_name": "Start von Where Winds Meet",
+          "quest_name": "Lancement de Where Winds Meet",
           "game_title": "Where Winds Meet",
           "game_publisher": "NetEase"
         },
@@ -1974,7 +2281,7 @@
         "share_policy": "shareable_everywhere",
         "cta_config": {
           "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
-          "button_label": "Spiel holen"
+          "button_label": "Obtenir le jeu"
         }
       },
       "user_status": null,
@@ -2195,10 +2502,10 @@
               "asset": "quests/1432798014786764871/1432834723838951595.png",
               "asset_video": null,
               "messages": {
-                "name": "Missionspaket von V3.7",
-                "name_with_article": "ein Missionspaket von V3.7",
+                "name": "Pack de quêtes V3.7",
+                "name_with_article": "un Pack de quêtes V3.7",
                 "redemption_instructions_by_platform": {
-                  "0": "Einlösungsmethode:\nBesuche die Einlöseseite auf der offiziellen Webseite des Spiels (https://hsr.hoyoverse.com/gift) und melde dich mit deinem Spielkonto an. Folge den Anweisungen, um den Gutscheincode einzugeben. Die Belohnung wird dir anschließend per Postfach im Spiel zugeschickt.\n\nInhalte des Gutscheincodes: Stellare Jade ×30, Credit ×20.000, Verlorenes Goldfragment ×4, Verdichteter Äther ×5, Reiseführer ×3\n\n* Die Belohnungen sind begrenzt, und nur die ersten 750.000 Trailblazer, die die Quest abschließen, können Belohnungen erhalten. Die Verteilung erfolgt nach der Reihenfolge der Einlösung der Gutscheincodes nach Abschluss der Quest. Wer zuerst kommt, mahlt zuerst.\n\n* Der Gutscheincode verfällt am 03/12/2025, 11:00:00 Uhr (UTC+8). Vergiss nicht, sie rechtzeitig einzulösen!"
+                  "0": "Méthode d'échange :\nAllez sur le site officiel de Honkai : Star Rail à la section Code d'échange (https://hsr.hoyoverse.com/gift), connectez-vous à votre compte en jeu et suivez les instructions pour saisir le code. Une fois l'opération réussie, vous recevrez votre cadeau par courrier dans le jeu.\n\nContenu du code d'échange : Jade stellaire ×30, Crédits ×20 000, Fragment d'or perdu ×4, Éther condensé ×5, Guide du voyageur ×3.\n\n* Les récompenses sont en quantité limitée, seuls les 750 000 premiers Pionniers et Pionnières à compléter la quête pourront les obtenir. Les récompenses seront attribuées en fonction de l'heure à laquelle les Pionniers et Pionnières récupèrent leur code de pack après avoir terminé la mission, jusqu'à épuisement des stocks. Premiers arrivés, premiers servis.\n\n* Les codes d'échange expireront le 03/12/2025 à 11 h 00 min 00 (UTC+8). N'oubliez pas de les utiliser à temps !"
                 }
               },
               "approximate_count": null,
@@ -2435,7 +2742,7 @@
                 "video_title": "Painkiller Trailer",
                 "video_end_cta_title": "Painkiller",
                 "video_end_cta_subtitle": "Check Out Painkiller Today",
-                "video_end_cta_button_label": "Mehr erfahren"
+                "video_end_cta_button_label": "En savoir plus"
               }
             }
           },
@@ -2467,7 +2774,7 @@
             "video_title": "Painkiller Trailer",
             "video_end_cta_title": "Painkiller",
             "video_end_cta_subtitle": "Check Out Painkiller Today",
-            "video_end_cta_button_label": "Mehr erfahren"
+            "video_end_cta_button_label": "En savoir plus"
           },
           "assets": {
             "video_player_video_hls": "quests/1427820398283722833/1429140608944963666.m3u8",
@@ -2484,7 +2791,7 @@
         "share_policy": "shareable_everywhere",
         "cta_config": {
           "link": "https://saber.games/painkiller/",
-          "button_label": "Mehr erfahren",
+          "button_label": "En savoir plus",
           "subtitle": "Check Out Painkiller Today"
         }
       },
@@ -2581,7 +2888,7 @@
                 "video_title": "It all goes down on PS5®",
                 "video_end_cta_title": "Battlefield 6",
                 "video_end_cta_subtitle": "This is Battlefield 6. It all goes down on PS5®.",
-                "video_end_cta_button_label": "Jetzt kaufen"
+                "video_end_cta_button_label": "Acheter maintenant"
               }
             }
           },
@@ -2613,7 +2920,7 @@
             "video_title": "It all goes down on PS5®",
             "video_end_cta_title": "Battlefield 6",
             "video_end_cta_subtitle": "This is Battlefield 6. It all goes down on PS5®.",
-            "video_end_cta_button_label": "Jetzt kaufen"
+            "video_end_cta_button_label": "Acheter maintenant"
           },
           "assets": {
             "video_player_video_hls": "quests/1427811805065121875/1427813536423346348.m3u8",
@@ -2630,7 +2937,7 @@
         "share_policy": "shareable_everywhere",
         "cta_config": {
           "link": "https://ad.doubleclick.net/ddm/trackclk/N1306638.3397510DISCORD/B34236210.430652093;dc_trk_aid=623806100;dc_trk_cid=243250710;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D;ltd=;dc_tdv=1",
-          "button_label": "Jetzt kaufen",
+          "button_label": "Acheter maintenant",
           "subtitle": "This is Battlefield 6. It all goes down on PS5®."
         }
       },
@@ -2720,7 +3027,7 @@
               "messages": {
                 "video_title": "Amazon Holiday Trailer",
                 "video_end_cta_subtitle": "Eyes up here, piano man.",
-                "video_end_cta_button_label": "Jetzt kaufen"
+                "video_end_cta_button_label": "Aller à la Boutique"
               }
             }
           },
@@ -2751,7 +3058,7 @@
           "messages": {
             "video_title": "Amazon Holiday Trailer",
             "video_end_cta_subtitle": "Eyes up here, piano man.",
-            "video_end_cta_button_label": "Jetzt kaufen"
+            "video_end_cta_button_label": "Aller à la Boutique"
           },
           "assets": {
             "video_player_video_hls": "quests/1435777559475257428/1440782769415393331.m3u8",
@@ -2768,7 +3075,7 @@
         "share_policy": "shareable_everywhere",
         "cta_config": {
           "link": "https://ad.doubleclick.net/ddm/trackclk/N2464377.3866164DISCORD.COM/B34241706.432871054;dc_trk_aid=626075048;dc_trk_cid=244981569;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=;dc_tdv=1",
-          "button_label": "Jetzt kaufen",
+          "button_label": "Aller à la Boutique",
           "subtitle": "Eyes up here, piano man."
         }
       },
@@ -2865,7 +3172,7 @@
                 "video_title": "Monopoly at McD’s Trailer",
                 "video_end_cta_title": "Monopoly at McD’s ",
                 "video_end_cta_subtitle": "Monopoly at McD’s ",
-                "video_end_cta_button_label": "Mehr erfahren"
+                "video_end_cta_button_label": "En savoir plus"
               }
             }
           },
@@ -2901,7 +3208,7 @@
             "video_title": "Monopoly at McD’s Trailer",
             "video_end_cta_title": "Monopoly at McD’s ",
             "video_end_cta_subtitle": "Monopoly at McD’s ",
-            "video_end_cta_button_label": "Mehr erfahren"
+            "video_end_cta_button_label": "En savoir plus"
           },
           "assets": {
             "video_player_video_hls": "quests/1422714633357103315/1423435899605225522.m3u8",
@@ -2918,7 +3225,7 @@
         "share_policy": "shareable_everywhere",
         "cta_config": {
           "link": "https://ad.doubleclick.net/ddm/trackclk/N1726419.3866164DISCORD.COM/B34292729.431210376;dc_trk_aid=623771555;dc_trk_cid=242665100;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
-          "button_label": "Mehr erfahren",
+          "button_label": "En savoir plus",
           "subtitle": "Monopoly at McD’s "
         }
       },
@@ -3009,7 +3316,7 @@
                 "video_title": "Pokémon Go Wild Area 2025",
                 "video_end_cta_title": "Pokémon Go",
                 "video_end_cta_subtitle": "Pokémon Go Wild Area 2025",
-                "video_end_cta_button_label": "Herunterladen"
+                "video_end_cta_button_label": "Télécharger"
               }
             }
           },
@@ -3044,7 +3351,7 @@
             "video_title": "Pokémon Go Wild Area 2025",
             "video_end_cta_title": "Pokémon Go",
             "video_end_cta_subtitle": "Pokémon Go Wild Area 2025",
-            "video_end_cta_button_label": "Herunterladen"
+            "video_end_cta_button_label": "Télécharger"
           },
           "assets": {
             "video_player_video_hls": "quests/1435324548827451605/1435342526792994817.m3u8",
@@ -3061,7 +3368,7 @@
         "share_policy": "shareable_everywhere",
         "cta_config": {
           "link": "https://pokemon-go.onelink.me/nBRb/niwqoq43",
-          "button_label": "Herunterladen",
+          "button_label": "Télécharger",
           "subtitle": "Pokémon Go Wild Area 2025"
         }
       },
@@ -3279,7 +3586,7 @@
                 "video_title": "Dinkum on Switch",
                 "video_end_cta_title": "Dinkum",
                 "video_end_cta_subtitle": "Join the official Dinkum Discord!",
-                "video_end_cta_button_label": "Server beitreten"
+                "video_end_cta_button_label": "Rejoindre le serveur"
               }
             }
           },
@@ -3311,7 +3618,7 @@
             "video_title": "Dinkum on Switch",
             "video_end_cta_title": "Dinkum",
             "video_end_cta_subtitle": "Join the official Dinkum Discord!",
-            "video_end_cta_button_label": "Server beitreten"
+            "video_end_cta_button_label": "Rejoindre le serveur"
           },
           "assets": {
             "video_player_video_hls": "quests/1434969640194539610/1434975725873664040.m3u8",
@@ -3328,7 +3635,7 @@
         "share_policy": "shareable_everywhere",
         "cta_config": {
           "link": " https://discord.gg/b2QhYBpBhv",
-          "button_label": "Server beitreten",
+          "button_label": "Rejoindre le serveur",
           "subtitle": "Join the official Dinkum Discord!"
         }
       },
@@ -3424,7 +3731,7 @@
               "messages": {
                 "video_title": "Meet Copilot Mode in Edge: Your AI Browser",
                 "video_end_cta_subtitle": "Copilot Mode in Edge",
-                "video_end_cta_button_label": "Mehr erfahren"
+                "video_end_cta_button_label": "En savoir plus"
               }
             }
           },
@@ -3455,7 +3762,7 @@
           "messages": {
             "video_title": "Meet Copilot Mode in Edge: Your AI Browser",
             "video_end_cta_subtitle": "Copilot Mode in Edge",
-            "video_end_cta_button_label": "Mehr erfahren"
+            "video_end_cta_button_label": "En savoir plus"
           },
           "assets": {
             "video_player_video_hls": "quests/1438202046804136028/1438210245909287143.m3u8",
@@ -3472,7 +3779,7 @@
         "share_policy": "shareable_everywhere",
         "cta_config": {
           "link": "https://microsoft.com/edge/copilot-mode?form=MW01C5&OCID=MW01C5",
-          "button_label": "Mehr erfahren",
+          "button_label": "En savoir plus",
           "subtitle": "Copilot Mode in Edge"
         }
       },
@@ -3602,7 +3909,7 @@
         "share_policy": "shareable_everywhere",
         "cta_config": {
           "link": "https://store.steampowered.com/app/2781620/Risk_of_Rain_2_Alloyed_Collective/",
-          "button_label": "Spiel starten"
+          "button_label": "Jouer au jeu"
         }
       },
       "user_status": null,
@@ -3698,7 +4005,7 @@
                 "video_title": "Discord Halloween 2025 Quest",
                 "video_end_cta_title": "Discord Halloween 2025 ",
                 "video_end_cta_subtitle": "Discord Halloween 2025 Shop Drop",
-                "video_end_cta_button_label": "Jetzt kaufen"
+                "video_end_cta_button_label": "Aller à la Boutique"
               }
             }
           },
@@ -3730,7 +4037,7 @@
             "video_title": "Discord Halloween 2025 Quest",
             "video_end_cta_title": "Discord Halloween 2025 ",
             "video_end_cta_subtitle": "Discord Halloween 2025 Shop Drop",
-            "video_end_cta_button_label": "Jetzt kaufen"
+            "video_end_cta_button_label": "Aller à la Boutique"
           },
           "assets": {
             "video_player_video_hls": "quests/1425291943302398073/1425604040406077540.m3u8",
@@ -3747,7 +4054,7 @@
         "share_policy": "shareable_everywhere",
         "cta_config": {
           "link": "https://discord.com/shop",
-          "button_label": "Jetzt kaufen",
+          "button_label": "Aller à la Boutique",
           "subtitle": "Discord Halloween 2025 Shop Drop"
         }
       },
@@ -3844,7 +4151,7 @@
                 "video_title": "The Running Man Trailer",
                 "video_end_cta_title": " The Running Man",
                 "video_end_cta_subtitle": " The Running Man Only in Theaters November 14",
-                "video_end_cta_button_label": "Tickets kaufen"
+                "video_end_cta_button_label": "Obtenir des tickets"
               }
             }
           },
@@ -3876,7 +4183,7 @@
             "video_title": "The Running Man Trailer",
             "video_end_cta_title": " The Running Man",
             "video_end_cta_subtitle": " The Running Man Only in Theaters November 14",
-            "video_end_cta_button_label": "Tickets kaufen"
+            "video_end_cta_button_label": "Obtenir des tickets"
           },
           "assets": {
             "video_player_video_hls": "quests/1435003145339273317/1435007485353263315.m3u8",
@@ -3893,7 +4200,7 @@
         "share_policy": "shareable_everywhere",
         "cta_config": {
           "link": "https://www.runningmanmovie.com/",
-          "button_label": "Tickets kaufen",
+          "button_label": "Obtenir des tickets",
           "subtitle": " The Running Man Only in Theaters November 14"
         }
       },
@@ -3989,7 +4296,7 @@
               "messages": {
                 "video_title": "Five Nights at Freddy's 2 Trailer",
                 "video_end_cta_subtitle": "Only In Theaters December 5",
-                "video_end_cta_button_label": "Tickets kaufen"
+                "video_end_cta_button_label": "Obtenir des tickets"
               }
             }
           },
@@ -4020,7 +4327,7 @@
           "messages": {
             "video_title": "Five Nights at Freddy's 2 Trailer",
             "video_end_cta_subtitle": "Only In Theaters December 5",
-            "video_end_cta_button_label": "Tickets kaufen"
+            "video_end_cta_button_label": "Obtenir des tickets"
           },
           "assets": {
             "video_player_video_hls": "quests/1436408444071444584/1440394331415511142.m3u8",
@@ -4037,168 +4344,11 @@
         "share_policy": "shareable_everywhere",
         "cta_config": {
           "link": "https://www.fivenightsatfreddys.movie/",
-          "button_label": "Tickets kaufen",
+          "button_label": "Obtenir des tickets",
           "subtitle": "Only In Theaters December 5"
         }
       },
       "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
-      "id": "1433542422268350574",
-      "config": {
-        "id": "1433542422268350574",
-        "config_version": 2,
-        "starts_at": "2025-11-03T18:00:47+00:00",
-        "expires_at": "2025-11-17T00:00:47+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://www.firefox.com/de/?mozcb=y&utm_campaign=SET_DEFAULT_BROWSER",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1433542422268350574/1433545271618572491.jpg",
-          "hero_video": "quests/1433542422268350574/1433545222977093754.mp4",
-          "quest_bar_hero": "quests/1433542422268350574/1433545190953451652.jpg",
-          "quest_bar_hero_video": "quests/1433542422268350574/1433545222977093754.mp4",
-          "game_tile": "1433900502868955277.png",
-          "logotype": "1433545498144280748.png",
-          "game_tile_light": "quests/1433542422268350574/1433900477162197062.png",
-          "game_tile_dark": "quests/1433542422268350574/1433900477162197062.png",
-          "logotype_light": "quests/1433542422268350574/1433545344217780395.png",
-          "logotype_dark": "quests/1433542422268350574/1433545367596568686.png"
-        },
-        "colors": {
-          "primary": "#FF8A50",
-          "secondary": "#333336"
-        },
-        "messages": {
-          "quest_name": "Firefox",
-          "game_title": "Mozilla Firefox",
-          "game_publisher": "Firefox"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "WATCH_VIDEO": {
-              "event_name": "WATCH_VIDEO",
-              "target": 19
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 19,
-              "assets": {
-                "video": {
-                  "url": "quests/1433542422268350574/1433545838486880256_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1433542422268350574/1433545878345351279.png",
-                  "caption": "quests/1433542422268350574/1433576295459061801.vtt",
-                  "transcript": "quests/1433542422268350574/1433576271442477177.txt"
-                },
-                "video_low_res": {
-                  "url": "quests/1433542422268350574/1433545838486880256_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1433542422268350574/1433545878345351279.png",
-                  "caption": "quests/1433542422268350574/1433576295459061801.vtt",
-                  "transcript": "quests/1433542422268350574/1433576271442477177.txt"
-                },
-                "video_hls": {
-                  "url": "quests/1433542422268350574/1433545838486880256.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1433542422268350574/1433545878345351279.png",
-                  "caption": "quests/1433542422268350574/1433576295459061801.vtt",
-                  "transcript": "quests/1433542422268350574/1433576271442477177.txt"
-                }
-              },
-              "messages": {
-                "video_title": "Firefox Browser",
-                "video_end_cta_title": "Firefox",
-                "video_end_cta_subtitle": "Übernimm die Kontrolle über dein Internet",
-                "video_end_cta_button_label": "Mehr erfahren"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 orbs",
-                "name_with_article": "700 orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "orb_quantity": 700
-            }
-          ],
-          "rewards_expire_at": "2025-12-17T00:00:47+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "video_metadata": {
-          "messages": {
-            "video_title": "Firefox Browser",
-            "video_end_cta_title": "Firefox",
-            "video_end_cta_subtitle": "Übernimm die Kontrolle über dein Internet",
-            "video_end_cta_button_label": "Mehr erfahren"
-          },
-          "assets": {
-            "video_player_video_hls": "quests/1433542422268350574/1433545838486880256.m3u8",
-            "video_player_video": "quests/1433542422268350574/1433545838486880256_1080.mp4",
-            "video_player_thumbnail": "quests/1433542422268350574/1433545878345351279.png",
-            "video_player_video_low_res": "quests/1433542422268350574/1433545838486880256_720.mp4",
-            "video_player_caption": "quests/1433542422268350574/1433576295459061801.vtt",
-            "video_player_transcript": "quests/1433542422268350574/1433576271442477177.txt",
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.firefox.com/de/?mozcb=y&utm_campaign=SET_DEFAULT_BROWSER",
-          "button_label": "Mehr erfahren",
-          "subtitle": "Übernimm die Kontrolle über dein Internet"
-        }
-      },
-      "user_status": {
-        "user_id": "1435260648899481631",
-        "quest_id": "1433542422268350574",
-        "enrolled_at": "2025-11-04T13:51:51.572483+00:00",
-        "completed_at": null,
-        "claimed_at": null,
-        "claimed_tier": null,
-        "last_stream_heartbeat_at": null,
-        "stream_progress_seconds": 0,
-        "dismissed_quest_content": 0,
-        "progress": {}
-      },
       "targeted_content": [],
       "preview": false
     },
@@ -4291,7 +4441,7 @@
                 "video_title": "Jurassic World Rebirth Video",
                 "video_end_cta_title": "Jurassic World Rebirth",
                 "video_end_cta_subtitle": "Streaming Now Only on Peacock",
-                "video_end_cta_button_label": "Mehr erfahren"
+                "video_end_cta_button_label": "En savoir plus"
               }
             }
           },
@@ -4323,7 +4473,7 @@
             "video_title": "Jurassic World Rebirth Video",
             "video_end_cta_title": "Jurassic World Rebirth",
             "video_end_cta_subtitle": "Streaming Now Only on Peacock",
-            "video_end_cta_button_label": "Mehr erfahren"
+            "video_end_cta_button_label": "En savoir plus"
           },
           "assets": {
             "video_player_video_hls": "quests/1430258734113755247/1430261121046151340.m3u8",
@@ -4340,7 +4490,7 @@
         "share_policy": "shareable_everywhere",
         "cta_config": {
           "link": "https://peacocktv.app.link/dkZ6i1LDaXb",
-          "button_label": "Mehr erfahren",
+          "button_label": "En savoir plus",
           "subtitle": "Streaming Now Only on Peacock"
         }
       },
@@ -4388,7 +4538,7 @@
           "secondary": "#000000"
         },
         "messages": {
-          "quest_name": "Fortnite-Discord-Auftrag",
+          "quest_name": "Quête Discord Fortnite",
           "game_title": "Fortnite",
           "game_publisher": "Epic Games"
         },
@@ -4451,8 +4601,8 @@
               "asset": "quests/1432770475590684784/1432840126031073402.mp4",
               "asset_video": null,
               "messages": {
-                "name": "Avatar-Dekoration „Schali-Verschwinden“",
-                "name_with_article": "Avatar-Dekoration „Schali-Verschwinden“",
+                "name": "Décoration d'avatar Disparition Banane",
+                "name_with_article": "Décoration d'avatar Disparition Banane",
                 "redemption_instructions_by_platform": {
                   "0": "Default"
                 }
@@ -4561,7 +4711,7 @@
               "messages": {
                 "video_title": "EVE Online Expansion Trailer",
                 "video_end_cta_subtitle": "Jump into a new mining expansion for EVE Online",
-                "video_end_cta_button_label": "Jetzt spielen"
+                "video_end_cta_button_label": "Jouer"
               }
             }
           },
@@ -4595,7 +4745,7 @@
           "messages": {
             "video_title": "EVE Online Expansion Trailer",
             "video_end_cta_subtitle": "Jump into a new mining expansion for EVE Online",
-            "video_end_cta_button_label": "Jetzt spielen"
+            "video_end_cta_button_label": "Jouer"
           },
           "assets": {
             "video_player_video_hls": "quests/1438303745166409840/1440028688346255411.m3u8",
@@ -4612,149 +4762,8 @@
         "share_policy": "shareable_everywhere",
         "cta_config": {
           "link": "https://www.eveonline.com/now/eve-online-catalyst?utm_source=discord&utm_medium=cpm&utm_campaign=cn:ww_lg:en_mg:1_pd:1_cd:video-quest_cs:general_ct:video_tg:homepage_br:eve",
-          "button_label": "Jetzt spielen",
+          "button_label": "Jouer",
           "subtitle": "Jump into a new mining expansion for EVE Online"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
-      "id": "1440083047205834872",
-      "config": {
-        "id": "1440083047205834872",
-        "config_version": 2,
-        "starts_at": "2025-11-20T18:45:13+00:00",
-        "expires_at": "2025-11-27T00:00:13+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://operagx.gg/yoursetupwantsgx_dsc",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1440083047205834872/1440087878754500763.jpg",
-          "hero_video": null,
-          "quest_bar_hero": "quests/1440083047205834872/1440088391244054629.jpg",
-          "quest_bar_hero_video": "quests/1440059727005614090/1441129312810963015.mp4",
-          "game_tile": "1441128109976977563.png",
-          "logotype": "1441128109368934594.png",
-          "game_tile_light": "quests/1440059727005614090/1441128056298405908.png",
-          "game_tile_dark": "quests/1440059727005614090/1441128056298405908.png",
-          "logotype_light": "quests/1440059727005614090/1441128094588211200.png",
-          "logotype_dark": "quests/1440059727005614090/1441128094588211200.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Opera GX",
-          "game_title": "Opera GX",
-          "game_publisher": "Opera GX"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "WATCH_VIDEO": {
-              "event_name": "WATCH_VIDEO",
-              "target": 42
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 42,
-              "assets": {
-                "video": {
-                  "url": "quests/1440083047205834872/1440089355795300414_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1440083047205834872/1440089383133905056.png",
-                  "caption": "quests/1440083047205834872/1440089409532854272.vtt",
-                  "transcript": "quests/1440083047205834872/1440089433117556746.txt"
-                },
-                "video_low_res": {
-                  "url": "quests/1440083047205834872/1440089355795300414_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1440083047205834872/1440089383133905056.png",
-                  "caption": "quests/1440083047205834872/1440089409532854272.vtt",
-                  "transcript": "quests/1440083047205834872/1440089433117556746.txt"
-                },
-                "video_hls": {
-                  "url": "quests/1440083047205834872/1440089355795300414.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1440083047205834872/1440089383133905056.png",
-                  "caption": "quests/1440083047205834872/1440089409532854272.vtt",
-                  "transcript": "quests/1440083047205834872/1440089433117556746.txt"
-                }
-              },
-              "messages": {
-                "video_title": "Opera GX",
-                "video_end_cta_button_label": "Mehr erfahren"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 orbs",
-                "name_with_article": "700 orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "orb_quantity": 700
-            }
-          ],
-          "rewards_expire_at": "2025-12-27T00:00:13+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "video_metadata": {
-          "messages": {
-            "video_title": "Opera GX",
-            "video_end_cta_button_label": "Mehr erfahren"
-          },
-          "assets": {
-            "video_player_video_hls": "quests/1440083047205834872/1440089355795300414.m3u8",
-            "video_player_video": "quests/1440083047205834872/1440089355795300414_1080.mp4",
-            "video_player_thumbnail": "quests/1440083047205834872/1440089383133905056.png",
-            "video_player_video_low_res": "quests/1440083047205834872/1440089355795300414_720.mp4",
-            "video_player_caption": "quests/1440083047205834872/1440089409532854272.vtt",
-            "video_player_transcript": "quests/1440083047205834872/1440089433117556746.txt",
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://operagx.gg/yoursetupwantsgx_dsc",
-          "button_label": "Mehr erfahren"
         }
       },
       "user_status": null,
@@ -4951,7 +4960,7 @@
                 "video_title": "Bugonia Trailer",
                 "video_end_cta_title": "Get Tickets",
                 "video_end_cta_subtitle": "Bugonia is in Theaters Everywhere October 31",
-                "video_end_cta_button_label": "Tickets kaufen"
+                "video_end_cta_button_label": "Obtenir des tickets"
               }
             }
           },
@@ -4983,7 +4992,7 @@
             "video_title": "Bugonia Trailer",
             "video_end_cta_title": "Get Tickets",
             "video_end_cta_subtitle": "Bugonia is in Theaters Everywhere October 31",
-            "video_end_cta_button_label": "Tickets kaufen"
+            "video_end_cta_button_label": "Obtenir des tickets"
           },
           "assets": {
             "video_player_video_hls": "quests/1427829905323724922/1428062182855151716.m3u8",
@@ -5000,7 +5009,7 @@
         "share_policy": "shareable_everywhere",
         "cta_config": {
           "link": "https://bugoniafilm.com/",
-          "button_label": "Tickets kaufen",
+          "button_label": "Obtenir des tickets",
           "subtitle": "Bugonia is in Theaters Everywhere October 31"
         }
       },
@@ -5026,10 +5035,6 @@
       "id": "1418350811687419914"
     },
     {
-      "id": "1440059727005614090",
-      "replacement_id": "1440083047205834872"
-    },
-    {
       "id": "1440808748263411793"
     },
     {
@@ -5045,10 +5050,14 @@
       "id": "1427802437347053668"
     },
     {
-      "id": "1440818151955759144"
+      "id": "1440784653471453227"
     },
     {
-      "id": "1440784653471453227"
+      "id": "1433542422268350574"
+    },
+    {
+      "id": "1440083047205834872",
+      "replacement_id": "1440059727005614090"
     },
     {
       "id": "1435329773197987961",
