@@ -3197,12 +3197,12 @@
       "preview": false
     },
     {
-      "id": "1428092429030129755",
+      "id": "1434969640194539610",
       "config": {
-        "id": "1428092429030129755",
+        "id": "1434969640194539610",
         "config_version": 2,
-        "starts_at": "2025-10-17T17:00:27+00:00",
-        "expires_at": "2025-10-25T06:59:27+00:00",
+        "starts_at": "2025-11-06T18:00:02+00:00",
+        "expires_at": "2025-11-13T00:00:02+00:00",
         "features": [
           3,
           9,
@@ -3215,30 +3215,30 @@
           23
         ],
         "application": {
-          "link": "https://chainsawman.movie/?utm_source=discord&utm_medium=core",
+          "link": " https://discord.gg/b2QhYBpBhv",
           "id": "545364944258990091",
           "name": "Discord"
         },
         "assets": {
-          "hero": "quests/1428092429030129755/1428094672940826735.jpg",
-          "hero_video": "quests/1428092429030129755/1428094616061870161.mp4",
-          "quest_bar_hero": "quests/1428092429030129755/1428095623755993108.jpg",
-          "quest_bar_hero_video": "quests/1428092429030129755/1428094616061870161.mp4",
-          "game_tile": "1428095643137736876.png",
-          "logotype": "1428095641946423346.png",
-          "game_tile_light": "quests/1428092429030129755/1428095231093375016.png",
-          "game_tile_dark": "quests/1428092429030129755/1428095231093375016.png",
-          "logotype_light": "quests/1428092429030129755/1428095145055752302.png",
-          "logotype_dark": "quests/1428092429030129755/1428095190937243768.png"
+          "hero": "quests/1434969640194539610/1434974796969541682.jpg",
+          "hero_video": "quests/1434969640194539610/1434974872454303885.mp4",
+          "quest_bar_hero": "quests/1434969640194539610/1434975118089519104.jpg",
+          "quest_bar_hero_video": "quests/1434969640194539610/1434974872454303885.mp4",
+          "game_tile": "1434975383870242946.png",
+          "logotype": "1434975382833991822.png",
+          "game_tile_light": "quests/1434969640194539610/1434975230350196757.png",
+          "game_tile_dark": "quests/1434969640194539610/1434975230350196757.png",
+          "logotype_light": "quests/1434969640194539610/1434975192957980682.png",
+          "logotype_dark": "quests/1434969640194539610/1434975192957980682.png"
         },
         "colors": {
-          "primary": "#D0121E",
-          "secondary": "#D0121E"
+          "primary": "#FFFFFF",
+          "secondary": "#000000"
         },
         "messages": {
-          "quest_name": "Chainsaw Man – The Movie: Reze Arc",
-          "game_title": "Now Playing Exclusively In Theatres",
-          "game_publisher": "Crunchyroll"
+          "quest_name": "Dinkum on Switch ",
+          "game_title": "Dinkum",
+          "game_publisher": "Krafton"
         },
         "task_config": {
           "type": 1,
@@ -3246,7 +3246,7 @@
           "tasks": {
             "WATCH_VIDEO": {
               "event_name": "WATCH_VIDEO",
-              "target": 61
+              "target": 89
             }
           }
         },
@@ -3254,32 +3254,32 @@
           "tasks": {
             "WATCH_VIDEO": {
               "type": "WATCH_VIDEO",
-              "target": 61,
+              "target": 89,
               "assets": {
                 "video": {
-                  "url": "quests/1428092429030129755/1428095887669989518_1080.mp4",
+                  "url": "quests/1434969640194539610/1434975725873664040_1080.mp4",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1428092429030129755/1431332396585717861.jpg"
+                  "thumbnail": "quests/1435329773197987961/1435745070392414332.png"
                 },
                 "video_low_res": {
-                  "url": "quests/1428092429030129755/1428095887669989518_720.mp4",
+                  "url": "quests/1434969640194539610/1434975725873664040_720.mp4",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1428092429030129755/1431332396585717861.jpg"
+                  "thumbnail": "quests/1435329773197987961/1435745070392414332.png"
                 },
                 "video_hls": {
-                  "url": "quests/1428092429030129755/1428095887669989518.m3u8",
+                  "url": "quests/1434969640194539610/1434975725873664040.m3u8",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1428092429030129755/1431332396585717861.jpg"
+                  "thumbnail": "quests/1435329773197987961/1435745070392414332.png"
                 }
               },
               "messages": {
-                "video_title": "Chainsaw Man – The Movie: Reze Arc Trailer",
-                "video_end_cta_title": "Chainsaw Man Trailer",
-                "video_end_cta_subtitle": "Now Playing Exclusively in Theatres",
-                "video_end_cta_button_label": "Get Tickets"
+                "video_title": "Dinkum on Switch",
+                "video_end_cta_title": "Dinkum",
+                "video_end_cta_subtitle": "Join the official Dinkum Discord!",
+                "video_end_cta_button_label": "Join Server"
               }
             }
           },
@@ -3301,23 +3301,23 @@
               "orb_quantity": 700
             }
           ],
-          "rewards_expire_at": "2025-11-24T06:59:27+00:00",
+          "rewards_expire_at": "2025-12-13T00:00:02+00:00",
           "platforms": [
             0
           ]
         },
         "video_metadata": {
           "messages": {
-            "video_title": "Chainsaw Man – The Movie: Reze Arc Trailer",
-            "video_end_cta_title": "Chainsaw Man Trailer",
-            "video_end_cta_subtitle": "Now Playing Exclusively in Theatres",
-            "video_end_cta_button_label": "Get Tickets"
+            "video_title": "Dinkum on Switch",
+            "video_end_cta_title": "Dinkum",
+            "video_end_cta_subtitle": "Join the official Dinkum Discord!",
+            "video_end_cta_button_label": "Join Server"
           },
           "assets": {
-            "video_player_video_hls": "quests/1428092429030129755/1428095887669989518.m3u8",
-            "video_player_video": "quests/1428092429030129755/1428095887669989518_1080.mp4",
-            "video_player_thumbnail": "quests/1428092429030129755/1431332396585717861.jpg",
-            "video_player_video_low_res": "quests/1428092429030129755/1428095887669989518_720.mp4",
+            "video_player_video_hls": "quests/1434969640194539610/1434975725873664040.m3u8",
+            "video_player_video": "quests/1434969640194539610/1434975725873664040_1080.mp4",
+            "video_player_thumbnail": "quests/1435329773197987961/1435745070392414332.png",
+            "video_player_video_low_res": "quests/1434969640194539610/1434975725873664040_720.mp4",
             "video_player_caption": null,
             "video_player_transcript": null,
             "quest_bar_preview_video": null,
@@ -3327,9 +3327,9 @@
         },
         "share_policy": "shareable_everywhere",
         "cta_config": {
-          "link": "https://chainsawman.movie/?utm_source=discord&utm_medium=core",
-          "button_label": "Get Tickets",
-          "subtitle": "Now Playing Exclusively in Theatres"
+          "link": " https://discord.gg/b2QhYBpBhv",
+          "button_label": "Join Server",
+          "subtitle": "Join the official Dinkum Discord!"
         }
       },
       "user_status": null,
@@ -3474,146 +3474,6 @@
           "link": "https://microsoft.com/edge/copilot-mode?form=MW01C5&OCID=MW01C5",
           "button_label": "Learn More",
           "subtitle": "Copilot Mode in Edge"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
-      "id": "1434969640194539610",
-      "config": {
-        "id": "1434969640194539610",
-        "config_version": 2,
-        "starts_at": "2025-11-06T18:00:02+00:00",
-        "expires_at": "2025-11-13T00:00:02+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": " https://discord.gg/b2QhYBpBhv",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1434969640194539610/1434974796969541682.jpg",
-          "hero_video": "quests/1434969640194539610/1434974872454303885.mp4",
-          "quest_bar_hero": "quests/1434969640194539610/1434975118089519104.jpg",
-          "quest_bar_hero_video": "quests/1434969640194539610/1434974872454303885.mp4",
-          "game_tile": "1434975383870242946.png",
-          "logotype": "1434975382833991822.png",
-          "game_tile_light": "quests/1434969640194539610/1434975230350196757.png",
-          "game_tile_dark": "quests/1434969640194539610/1434975230350196757.png",
-          "logotype_light": "quests/1434969640194539610/1434975192957980682.png",
-          "logotype_dark": "quests/1434969640194539610/1434975192957980682.png"
-        },
-        "colors": {
-          "primary": "#FFFFFF",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Dinkum on Switch ",
-          "game_title": "Dinkum",
-          "game_publisher": "Krafton"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "WATCH_VIDEO": {
-              "event_name": "WATCH_VIDEO",
-              "target": 89
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 89,
-              "assets": {
-                "video": {
-                  "url": "quests/1434969640194539610/1434975725873664040_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1435329773197987961/1435745070392414332.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1434969640194539610/1434975725873664040_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1435329773197987961/1435745070392414332.png"
-                },
-                "video_hls": {
-                  "url": "quests/1434969640194539610/1434975725873664040.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1435329773197987961/1435745070392414332.png"
-                }
-              },
-              "messages": {
-                "video_title": "Dinkum on Switch",
-                "video_end_cta_title": "Dinkum",
-                "video_end_cta_subtitle": "Join the official Dinkum Discord!",
-                "video_end_cta_button_label": "Join Server"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 orbs",
-                "name_with_article": "700 orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "orb_quantity": 700
-            }
-          ],
-          "rewards_expire_at": "2025-12-13T00:00:02+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "video_metadata": {
-          "messages": {
-            "video_title": "Dinkum on Switch",
-            "video_end_cta_title": "Dinkum",
-            "video_end_cta_subtitle": "Join the official Dinkum Discord!",
-            "video_end_cta_button_label": "Join Server"
-          },
-          "assets": {
-            "video_player_video_hls": "quests/1434969640194539610/1434975725873664040.m3u8",
-            "video_player_video": "quests/1434969640194539610/1434975725873664040_1080.mp4",
-            "video_player_thumbnail": "quests/1435329773197987961/1435745070392414332.png",
-            "video_player_video_low_res": "quests/1434969640194539610/1434975725873664040_720.mp4",
-            "video_player_caption": null,
-            "video_player_transcript": null,
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": " https://discord.gg/b2QhYBpBhv",
-          "button_label": "Join Server",
-          "subtitle": "Join the official Dinkum Discord!"
         }
       },
       "user_status": null,
