@@ -95,7 +95,8 @@
         },
         "share_policy": "shareable_everywhere",
         "cta_config": {
-          "link": "https://store.steampowered.com/app/3241660/REPO/"
+          "link": "https://store.steampowered.com/app/3241660/REPO/",
+          "button_label": "Obtenir le jeu"
         }
       },
       "user_status": null,
@@ -471,7 +472,8 @@
         },
         "share_policy": "shareable_everywhere",
         "cta_config": {
-          "link": "https://www.playdeltaforce.com/wand/discordahsarah/index.html"
+          "link": "https://www.playdeltaforce.com/wand/discordahsarah/index.html",
+          "button_label": "Obtenir le jeu"
         }
       },
       "user_status": null,
@@ -586,7 +588,8 @@
         },
         "share_policy": "shareable_everywhere",
         "cta_config": {
-          "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs"
+          "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
+          "button_label": "Obtenir le jeu"
         }
       },
       "user_status": null,
@@ -688,7 +691,8 @@
         },
         "share_policy": "shareable_everywhere",
         "cta_config": {
-          "link": "https://app.adjust.com/1thx73qj?campaign=LOL25&adgroup=S3_WORLDS&creative=Discord_Quest&utm_source=discord&utm_medium=social&utm_campaign=LOL25-S3Worlds&utm_content=Discord_Quest"
+          "link": "https://app.adjust.com/1thx73qj?campaign=LOL25&adgroup=S3_WORLDS&creative=Discord_Quest&utm_source=discord&utm_medium=social&utm_campaign=LOL25-S3Worlds&utm_content=Discord_Quest",
+          "button_label": "Obtenir le jeu"
         }
       },
       "user_status": null,
@@ -2012,7 +2016,8 @@
         },
         "share_policy": "shareable_everywhere",
         "cta_config": {
-          "link": "https://game.ea.com/redirect?campaignName=PVZR_UA_US_SOC_DISC_LAUNCH_ALL&caudience=ALL-BROAD&ccreative=DISCORD"
+          "link": "https://game.ea.com/redirect?campaignName=PVZR_UA_US_SOC_DISC_LAUNCH_ALL&caudience=ALL-BROAD&ccreative=DISCORD",
+          "button_label": "Obtenir le jeu"
         }
       },
       "user_status": null,
@@ -2126,7 +2131,8 @@
         },
         "share_policy": "shareable_everywhere",
         "cta_config": {
-          "link": "https://hoyo.link/ULR8QuyPH"
+          "link": "https://hoyo.link/ULR8QuyPH",
+          "button_label": "Obtenir le jeu"
         }
       },
       "user_status": null,
@@ -2253,7 +2259,8 @@
         },
         "share_policy": "shareable_everywhere",
         "cta_config": {
-          "link": "https://arcraiders.com/en/?utm_campaign=launch&utm_source=discord&utm_term=us&utm_content=broadgaming&utm_medium=custom"
+          "link": "https://arcraiders.com/en/?utm_campaign=launch&utm_source=discord&utm_term=us&utm_content=broadgaming&utm_medium=custom",
+          "button_label": "Obtenir le jeu"
         }
       },
       "user_status": null,
@@ -2837,7 +2844,7 @@
         "id": "1438642430571315290",
         "config_version": 2,
         "starts_at": "2025-11-18T18:00:24+00:00",
-        "expires_at": "2025-11-30T01:00:24+00:00",
+        "expires_at": "2025-12-03T01:00:24+00:00",
         "features": [
           3,
           9,
@@ -2867,7 +2874,7 @@
           "logotype_dark": "quests/1438642430571315290/1438683113696919652.png"
         },
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#4752C4",
           "secondary": "#000000"
         },
         "messages": {
@@ -2945,7 +2952,7 @@
               "expiration_mode": 3
             }
           ],
-          "rewards_expire_at": "2025-12-30T01:00:24+00:00",
+          "rewards_expire_at": "2026-01-02T01:00:24+00:00",
           "platforms": [
             0
           ]
@@ -3225,7 +3232,8 @@
         },
         "share_policy": "shareable_everywhere",
         "cta_config": {
-          "link": "https://www.fortnite.com/"
+          "link": "https://www.fortnite.com/",
+          "button_label": "Obtenir le jeu"
         }
       },
       "user_status": null,
@@ -3643,7 +3651,8 @@
         },
         "share_policy": "shareable_everywhere",
         "cta_config": {
-          "link": "https://www.fortnite.com/"
+          "link": "https://www.fortnite.com/",
+          "button_label": "Obtenir le jeu"
         }
       },
       "user_status": null,
