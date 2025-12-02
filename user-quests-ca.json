@@ -943,105 +943,6 @@
       "preview": false
     },
     {
-      "id": "1435391191834165398",
-      "config": {
-        "id": "1435391191834165398",
-        "config_version": 2,
-        "starts_at": "2025-11-07T18:00:08+00:00",
-        "expires_at": "2025-11-15T00:00:08+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://track.iegcom.com/c/h8REHu?campaign_name=pclaunch&ad_group_name=global&ad_name=redgun&utm_source=DC&utm_medium=DC&utm_campaign=pclaunch&utm_content=global&utm_term=redgun",
-          "id": "1238113262969557002",
-          "name": "Arena Breakout: Infinite"
-        },
-        "assets": {
-          "hero": "quests/1435391191834165398/1435392546279915631.jpg",
-          "hero_video": null,
-          "quest_bar_hero": "quests/1435391191834165398/1435392507780272300.jpg",
-          "quest_bar_hero_video": null,
-          "game_tile": "1435392578584445139.png",
-          "logotype": "1435392577397461324.png",
-          "game_tile_light": "quests/1435391191834165398/1435392399370223656.png",
-          "game_tile_dark": "quests/1435391191834165398/1435392399370223656.png",
-          "logotype_light": "quests/1435391191834165398/1435392460535758918.png",
-          "logotype_dark": "quests/1435391191834165398/1435392460535758918.png"
-        },
-        "colors": {
-          "primary": "#E38B3F",
-          "secondary": "#FFA200"
-        },
-        "messages": {
-          "quest_name": "ABI Red Drops Fest",
-          "game_title": "Arena Breakout: Infinite",
-          "game_publisher": "MoreFun Studios"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "event_name": "PLAY_ON_DESKTOP",
-              "target": 900
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1238113262969557002"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 orbs",
-                "name_with_article": "700 orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "orb_quantity": 700
-            }
-          ],
-          "rewards_expire_at": "2025-12-15T00:00:08+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://track.iegcom.com/c/h8REHu?campaign_name=pclaunch&ad_group_name=global&ad_name=redgun&utm_source=DC&utm_medium=DC&utm_campaign=pclaunch&utm_content=global&utm_term=redgun",
-          "button_label": "Get Game"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
       "id": "1437518140476100638",
       "config": {
         "id": "1437518140476100638",
@@ -1531,135 +1432,6 @@
           "link": "https://store.ubisoft.com/anno-117--pax-romana/6638e5dcaa201a2d55bcc772.html/?ucid=DDP-272723&addinfo=&bi=pme",
           "button_label": "Get Game",
           "subtitle": "Anno 117: Pax Romana – Available November 13"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
-      "id": "1432205768106705070",
-      "config": {
-        "id": "1432205768106705070",
-        "config_version": 2,
-        "starts_at": "2025-10-28T17:00:24+00:00",
-        "expires_at": "2025-11-10T00:00:24+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": " https://ad.doubleclick.net/ddm/trackclk/N7657.3866164DISCORD.COM/B34205182.431038236;dc_trk_aid=623823591;dc_trk_cid=243136455;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=;dc_tdv=1",
-          "id": "1425690433018925056",
-          "name": "Battlefield 6"
-        },
-        "assets": {
-          "hero": "quests/1432205768106705070/1432208895648202863.jpg",
-          "hero_video": null,
-          "quest_bar_hero": "quests/1432205768106705070/1432208937851289661.jpg",
-          "quest_bar_hero_video": null,
-          "game_tile": "1432209078805069895.jpg",
-          "logotype": "1432209077693317212.png",
-          "game_tile_light": "quests/1432205768106705070/1432208977269231728.jpg",
-          "game_tile_dark": "quests/1432205768106705070/1432208977269231728.jpg",
-          "logotype_light": "quests/1432205768106705070/1432209056738705448.png",
-          "logotype_dark": "quests/1432205768106705070/1432209031304446013.png"
-        },
-        "colors": {
-          "primary": "#FE3B00",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Battlefield REDSEC",
-          "game_title": "Battlefield 6",
-          "game_publisher": "Electronic Arts"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "event_name": "PLAY_ON_DESKTOP",
-              "target": 900
-            },
-            "PLAY_ON_XBOX": {
-              "event_name": "PLAY_ON_XBOX",
-              "target": 900
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "event_name": "PLAY_ON_PLAYSTATION",
-              "target": 900
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1425690433018925056"
-                }
-              ]
-            },
-            "PLAY_ON_XBOX": {
-              "type": "PLAY_ON_XBOX",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1425690433018925056"
-                }
-              ]
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1425690433018925056"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 3,
-              "sku_id": "1432208254422749215",
-              "asset": "quests/1432205768106705070/1432208386031878154.mp4",
-              "asset_video": null,
-              "messages": {
-                "name": "Battlefield 6 Tank Avatar Decoration",
-                "name_with_article": "a Battlefield 6 Tank Avatar Decoration",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "expires_at": "2026-01-09T00:00:00+00:00",
-              "expires_at_premium": null,
-              "expiration_mode": 3
-            }
-          ],
-          "rewards_expire_at": "2025-12-10T00:00:24+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": " https://ad.doubleclick.net/ddm/trackclk/N7657.3866164DISCORD.COM/B34205182.431038236;dc_trk_aid=623823591;dc_trk_cid=243136455;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=;dc_tdv=1",
-          "button_label": "Get Game"
         }
       },
       "user_status": null,
@@ -3019,134 +2791,6 @@
       "preview": false
     },
     {
-      "id": "1437537235133005914",
-      "config": {
-        "id": "1437537235133005914",
-        "config_version": 2,
-        "starts_at": "2025-11-18T00:00:45+00:00",
-        "expires_at": "2025-11-25T00:00:45+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://www.callofduty.com/playnow/blackops7?utm_source=discord&utm_medium=paid&utm_campaign=brand",
-          "id": "1423760184819581080",
-          "name": "Call of Duty: Black Ops 7"
-        },
-        "assets": {
-          "hero": "quests/1437537235133005914/1437538237513072710.jpg",
-          "hero_video": null,
-          "quest_bar_hero": "quests/1437537235133005914/1437538311957647451.jpg",
-          "quest_bar_hero_video": null,
-          "game_tile": "1437538495525687306.png",
-          "logotype": "1437538494540156979.png",
-          "game_tile_light": "quests/1437537235133005914/1437538353669996677.png",
-          "game_tile_dark": "quests/1437537235133005914/1437538353669996677.png",
-          "logotype_light": "quests/1437537235133005914/1437538424876830872.png",
-          "logotype_dark": "quests/1437537235133005914/1437538424876830872.png"
-        },
-        "colors": {
-          "primary": "#FFFFFF",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Call of Duty: Black Ops 7",
-          "game_title": "Call of Duty: Black Ops 7",
-          "game_publisher": "Activision"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "event_name": "PLAY_ON_DESKTOP",
-              "target": 900
-            },
-            "PLAY_ON_XBOX": {
-              "event_name": "PLAY_ON_XBOX",
-              "target": 900
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "event_name": "PLAY_ON_PLAYSTATION",
-              "target": 900
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1423760184819581080"
-                }
-              ]
-            },
-            "PLAY_ON_XBOX": {
-              "type": "PLAY_ON_XBOX",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1423760184819581080"
-                }
-              ]
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1423760184819581080"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 1,
-              "sku_id": "1437537235133005915",
-              "asset": "quests/1437537235133005914/1437538892860620841.png",
-              "asset_video": null,
-              "messages": {
-                "name": "Exclusive Calling Card",
-                "name_with_article": "an Exclusive Calling Card",
-                "redemption_instructions_by_platform": {
-                  "0": "Redeem your code for an exclusive Calling Card at callofduty.com/redeem.\n"
-                }
-              },
-              "approximate_count": null,
-              "redemption_link": null
-            }
-          ],
-          "rewards_expire_at": "2025-12-25T00:00:45+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.callofduty.com/playnow/blackops7?utm_source=discord&utm_medium=paid&utm_campaign=brand",
-          "button_label": "Get Game"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
       "id": "1438642430571315290",
       "config": {
         "id": "1438642430571315290",
@@ -3420,108 +3064,6 @@
       "preview": false
     },
     {
-      "id": "1433219183411462265",
-      "config": {
-        "id": "1433219183411462265",
-        "config_version": 2,
-        "starts_at": "2025-10-30T17:00:21+00:00",
-        "expires_at": "2025-11-06T00:00:21+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": " https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/2139460?af_media_source=discord&af_campaign_id=steamus20251030&af_campaign=steamus20251030&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F2139460%3Futm_source%3DNAOCT%26utm_campaign%3DDC%26utm_content%3Ddiscordquest",
-          "id": "1260340082150346932",
-          "name": "Once Human"
-        },
-        "assets": {
-          "hero": "quests/1433219183411462265/1433489073086926918.jpg",
-          "hero_video": null,
-          "quest_bar_hero": "quests/1433219183411462265/1433219756122443816.jpeg",
-          "quest_bar_hero_video": null,
-          "game_tile": "1433221188754083960.jpg",
-          "logotype": "1433852526871973898.png",
-          "game_tile_light": "quests/1433219183411462265/1433221095284146287.jpg",
-          "game_tile_dark": "quests/1433219183411462265/1433221095284146287.jpg",
-          "logotype_light": "quests/1433219183411462265/1433221436750696591.png",
-          "logotype_dark": "quests/1433219183411462265/1433852506420543518.png"
-        },
-        "colors": {
-          "primary": "#153945",
-          "secondary": "#11222C"
-        },
-        "messages": {
-          "quest_name": "Palworld Collab",
-          "game_title": "Once Human",
-          "game_publisher": "Starry Studio"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "event_name": "PLAY_ON_DESKTOP",
-              "target": 900
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1260340082150346932"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 1,
-              "sku_id": "1433219183411462266",
-              "asset": "quests/1433219183411462265/1433220408626118726.png",
-              "asset_video": null,
-              "messages": {
-                "name": "Uncharted Territory",
-                "name_with_article": "an Uncharted Territory",
-                "redemption_instructions_by_platform": {
-                  "0": "Enter the game > Press F3 > Press X > Input the code"
-                }
-              },
-              "approximate_count": null,
-              "redemption_link": null
-            }
-          ],
-          "rewards_expire_at": "2025-12-06T00:00:21+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": " https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/2139460?af_media_source=discord&af_campaign_id=steamus20251030&af_campaign=steamus20251030&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F2139460%3Futm_source%3DNAOCT%26utm_campaign%3DDC%26utm_content%3Ddiscordquest",
-          "button_label": "Get Game"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
       "id": "1425291943302398073",
       "config": {
         "id": "1425291943302398073",
@@ -3661,152 +3203,6 @@
           "link": "https://discord.com/shop",
           "button_label": "Shop Now",
           "subtitle": "Discord Halloween 2025 Shop Drop"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
-      "id": "1435003145339273317",
-      "config": {
-        "id": "1435003145339273317",
-        "config_version": 2,
-        "starts_at": "2025-11-06T00:10:10+00:00",
-        "expires_at": "2025-11-16T00:00:10+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://www.runningmanmovie.com/",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1435003145339273317/1435006661000691792.jpg",
-          "hero_video": "quests/1435003145339273317/1435007074516996166.mp4",
-          "quest_bar_hero": "quests/1435003145339273317/1435007045484020026.jpg",
-          "quest_bar_hero_video": "quests/1435003145339273317/1435007074516996166.mp4",
-          "game_tile": "1435007291706310806.png",
-          "logotype": "1435007290532167953.png",
-          "game_tile_light": "quests/1435003145339273317/1435007244151427082.png",
-          "game_tile_dark": "quests/1435003145339273317/1435007244151427082.png",
-          "logotype_light": "quests/1435003145339273317/1435007167596986398.png",
-          "logotype_dark": "quests/1435003145339273317/1435007195522666617.png"
-        },
-        "colors": {
-          "primary": "#FFFFFF",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "The Running Man",
-          "game_title": "Only in Theaters November 14",
-          "game_publisher": "Paramount Pictures"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "WATCH_VIDEO": {
-              "event_name": "WATCH_VIDEO",
-              "target": 148
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 148,
-              "assets": {
-                "video": {
-                  "url": "quests/1435003145339273317/1435007485353263315_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1435003145339273317/1435007724961271808.jpg",
-                  "caption": "quests/1435003145339273317/1435783066026115092.vtt",
-                  "transcript": "quests/1435003145339273317/1435783110628479047.txt"
-                },
-                "video_low_res": {
-                  "url": "quests/1435003145339273317/1435007485353263315_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1435003145339273317/1435007724961271808.jpg",
-                  "caption": "quests/1435003145339273317/1435783066026115092.vtt",
-                  "transcript": "quests/1435003145339273317/1435783110628479047.txt"
-                },
-                "video_hls": {
-                  "url": "quests/1435003145339273317/1435007485353263315.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1435003145339273317/1435007724961271808.jpg",
-                  "caption": "quests/1435003145339273317/1435783066026115092.vtt",
-                  "transcript": "quests/1435003145339273317/1435783110628479047.txt"
-                }
-              },
-              "messages": {
-                "video_title": "The Running Man Trailer",
-                "video_end_cta_title": " The Running Man",
-                "video_end_cta_subtitle": " The Running Man Only in Theaters November 14",
-                "video_end_cta_button_label": "Get Tickets"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 orbs",
-                "name_with_article": "700 orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "orb_quantity": 700
-            }
-          ],
-          "rewards_expire_at": "2025-12-16T00:00:10+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "video_metadata": {
-          "messages": {
-            "video_title": "The Running Man Trailer",
-            "video_end_cta_title": " The Running Man",
-            "video_end_cta_subtitle": " The Running Man Only in Theaters November 14",
-            "video_end_cta_button_label": "Get Tickets"
-          },
-          "assets": {
-            "video_player_video_hls": "quests/1435003145339273317/1435007485353263315.m3u8",
-            "video_player_video": "quests/1435003145339273317/1435007485353263315_1080.mp4",
-            "video_player_thumbnail": "quests/1435003145339273317/1435007724961271808.jpg",
-            "video_player_video_low_res": "quests/1435003145339273317/1435007485353263315_720.mp4",
-            "video_player_caption": "quests/1435003145339273317/1435783066026115092.vtt",
-            "video_player_transcript": "quests/1435003145339273317/1435783110628479047.txt",
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.runningmanmovie.com/",
-          "button_label": "Get Tickets",
-          "subtitle": " The Running Man Only in Theaters November 14"
         }
       },
       "user_status": null,
@@ -4913,9 +4309,6 @@
       "id": "1410358070831480904"
     },
     {
-      "id": "1440783598776225994"
-    },
-    {
       "id": "1418350811687419914"
     },
     {
@@ -4923,11 +4316,16 @@
       "replacement_id": "1440083047205834872"
     },
     {
+      "id": "1440783598776225994"
+    },
+    {
       "id": "1440808748263411793"
     },
     {
-      "id": "1434969640194539610",
-      "replacement_id": "1435329773197987961"
+      "id": "1435391191834165398"
+    },
+    {
+      "id": "1437537235133005914"
     },
     {
       "id": "1441138638703300698"
@@ -4936,10 +4334,17 @@
       "id": "1441531686688129115"
     },
     {
+      "id": "1434969640194539610",
+      "replacement_id": "1435329773197987961"
+    },
+    {
       "id": "1440802449563582494"
     },
     {
       "id": "1438245337184735394"
+    },
+    {
+      "id": "1435003145339273317"
     },
     {
       "id": "1440778023438909671"
@@ -4951,10 +4356,16 @@
       "id": "1440784653471453227"
     },
     {
-      "id": "1433542422268350574"
+      "id": "1432205768106705070"
     },
     {
       "id": "1430252230430294076"
+    },
+    {
+      "id": "1433542422268350574"
+    },
+    {
+      "id": "1433219183411462265"
     },
     {
       "id": "1440110322147917884"
