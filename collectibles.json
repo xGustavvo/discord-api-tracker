@@ -107370,5 +107370,459 @@
       "responsive": null,
       "background_style": null
     }
+  },
+  {
+    "sku_id": "1440063059895779408",
+    "name": "10 Days of Discord",
+    "summary": " ",
+    "store_listing_id": "1440063059887652904",
+    "unpublished_at": "2025-12-11T17:00:00+00:00",
+    "styles": {
+      "background_colors": [
+        0,
+        0
+      ],
+      "button_colors": [
+        5793266,
+        5793266
+      ],
+      "confetti_colors": [
+        14744572,
+        12771299,
+        10335424,
+        6056819,
+        2437687
+      ]
+    },
+    "logo": "1440063059904303295",
+    "hero_ranking": [
+      "1440063059862487193",
+      "1440063059740852315",
+      "1440063059774406818",
+      "1440063059803766824",
+      "1440063059833126962"
+    ],
+    "mobile_bg": "1440063059941916692",
+    "pdp_bg": "1440063059925270569",
+    "mobile_banner": "1440063059933790248",
+    "featured_block": "1440063059916751018",
+    "products": [
+      {
+        "sku_id": "1440063059740852315",
+        "name": "Aurora Ice Fox",
+        "summary": "Give your avatar a new look.",
+        "store_listing_id": "1440063059753173042",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            0,
+            0
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            14744572,
+            12771299,
+            10335424,
+            6056819,
+            2437687
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 399,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 299,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1440063059770081310",
+            "sku_id": "1440063059740852315",
+            "asset": "a_4d60f7270b12d3939b108859982af4cd",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/87628dd0c3c5a31554a3a9df98c91b18636c9804c12b7a2fe02ff23f5e77710e",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/ee7e7dc97062229baefc0671bf656e4949eb9a3cf7eaacca06cadf1d8aa4ca2f"
+            },
+            "label": "A majestic fox gracefully wags its tail and wiggles its ears in blizzard snow."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1440063059895779408",
+        "google_sku_ids": {
+          "5": "1440063059740852315_1440190861869846609",
+          "7": "1440063059740852315_1440190867955519519"
+        }
+      },
+      {
+        "sku_id": "1440063059774406818",
+        "name": "Arctic Frost",
+        "summary": "Show this effect when others view your profile.",
+        "store_listing_id": "1440063059782533242",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            0,
+            0
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            14744572,
+            12771299,
+            10335424,
+            6056819,
+            2437687
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 399,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 299,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 1,
+            "id": "1440063059795251321",
+            "sku_id": "1440063059774406818",
+            "title": "Arctic Frost",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Snow and white frost slowly encapsulate the profile borders.",
+            "animationType": 1,
+            "staticFrameSrc": "https://cdn.discordapp.com/assets/content/636ace435db02ba8672f5c85dea787bc75529620a9048ea2a1ad839204656903",
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/f261f0c63a30b96063e5f68d132882569f179ba73a69efcb4ef7ff8ed83d8bb8",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/e5aa8e61d76bf86125c9cd3da670e311eaa2bc9b0814c267f2a53374ff27c956",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/assets/content/50870c17d8981dceee261528c48ea45c05f3792f4d92448cb454461c11217e17",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 5000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/22fa0508d8512cb73af62047a8ecc6eff15c2b33c26f475525c34a3e8e8e17dd",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 5000,
+                "start": 5000,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+              }
+            ]
+          }
+        ],
+        "type": 1,
+        "premium_type": 0,
+        "category_sku_id": "1440063059895779408",
+        "google_sku_ids": {
+          "5": "1440063059774406818_1440187910656757771",
+          "7": "1440063059774406818_1440187916302417961"
+        }
+      },
+      {
+        "sku_id": "1440063059803766824",
+        "name": "Arctic Winter Frost",
+        "summary": "Make your name stand out in servers and chats.",
+        "store_listing_id": "1440063059816353802",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            0,
+            0
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            14744572,
+            12771299,
+            10335424,
+            6056819,
+            2437687
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 399,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 299,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 2,
+            "id": "1440063059824607252",
+            "sku_id": "1440063059803766824",
+            "asset": "nameplates/10_days_of_discord/arctic_winter_frost/",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/070926d48292af56505a3511a9755d09ffd3c08de74d1befb0e47cfa4836942d",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/ec4b870d84e89c279065308c4f133c4912427472138d75e658d8e75e7ff99c6a",
+              "video_url": "https://cdn.discordapp.com/assets/content/ae4f35f87ba36a1af1e9669e33d3a74990364efc8173f84c2719626c6d7e06a9"
+            },
+            "label": "White winter frost slowly encapsulates the frame.",
+            "palette": "cobalt"
+          }
+        ],
+        "type": 2,
+        "premium_type": 0,
+        "category_sku_id": "1440063059895779408",
+        "google_sku_ids": {
+          "5": "1440063059803766824_1440189135728939069",
+          "7": "1440063059803766824_1440189140477018213"
+        }
+      },
+      {
+        "sku_id": "1440063059833126962",
+        "name": "Aurora Icicles",
+        "summary": "Give your avatar a new look.",
+        "store_listing_id": "1440063059841253527",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            0,
+            0
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            14744572,
+            12771299,
+            10335424,
+            6056819,
+            2437687
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 399,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 299,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1440063059853967510",
+            "sku_id": "1440063059833126962",
+            "asset": "a_4f8e2a19fe964b9e9693ffd13df23d83",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/c4a315fc7ae7642528832a7cefc84d3e49fb35e057aa12cda688ec03a5d589ba",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/420554d9d4bc61949ce1c88f6150710e0c3f11144303c38642984561c625f436"
+            },
+            "label": "Aurora icicles shimmer with a blue sheen and bitter cold."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1440063059895779408",
+        "google_sku_ids": {
+          "5": "1440063059833126962_1440188866433912934",
+          "7": "1440063059833126962_1440188872146292777"
+        }
+      },
+      {
+        "sku_id": "1440063059862487193",
+        "name": "Aurora Winter Fox",
+        "summary": "Make your name stand out in servers and chats.",
+        "store_listing_id": "1440063059870613676",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            0,
+            0
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            14744572,
+            12771299,
+            10335424,
+            6056819,
+            2437687
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 0,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 0,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 2,
+            "id": "1440063059879133284",
+            "sku_id": "1440063059862487193",
+            "asset": "nameplates/10_days_of_discord/aurora_winter_fox/",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/c43b67d55f5eaab7b6bbe80c3e4f1534eee3eb5c771e1d3be4faafb2dd1355d1",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/4e2364e546d7719213772777434878ef6f1c1a9cfbddf0967e62fb9ab41ded3f",
+              "video_url": "https://cdn.discordapp.com/assets/content/a336f03417aacee8027b85852672dee3f214eec768d674eaa509838b059e498e"
+            },
+            "label": "A graceful white fox howls against distant aurora lights in the background.",
+            "palette": "cobalt"
+          }
+        ],
+        "type": 2,
+        "premium_type": 0,
+        "category_sku_id": "1440063059895779408",
+        "google_sku_ids": {}
+      }
+    ],
+    "catalog_banner_asset": {
+      "animated": "https://cdn.discordapp.com/assets/content/ef8d54459ae4b7ea46a6ee48e03a6fcedb57467c41b808a4afff233c75023e58",
+      "static": "https://cdn.discordapp.com/assets/content/133b447ac406edff8ff7ca978d66f98ffb20c229ace840dae44bcfe6feef2494"
+    },
+    "hero_banner_asset": {
+      "animated": "https://cdn.discordapp.com/assets/content/79d6b078165bd99fb13126b264f3ddfd6aae394028c13c851815b394bc76c716",
+      "static": "https://cdn.discordapp.com/assets/content/48c95ff8d504b23a18848b054feb7e9c5f12aae553eb82eb63eaa649e55897b4"
+    },
+    "hero_logo": "1440063059912818718",
+    "hero_banner_url": "https://cdn.discordapp.com/assets/content/48c95ff8d504b23a18848b054feb7e9c5f12aae553eb82eb63eaa649e55897b4",
+    "hero_banner_animated_url": "https://cdn.discordapp.com/assets/content/79d6b078165bd99fb13126b264f3ddfd6aae394028c13c851815b394bc76c716",
+    "hero_logo_url": "https://cdn.discordapp.com/assets/content/03bce7a45c1025baf7253dd04a1955ddc46bb20aa68eb523a779159eb28b8d2e",
+    "catalog_banner_url": "https://cdn.discordapp.com/assets/content/133b447ac406edff8ff7ca978d66f98ffb20c229ace840dae44bcfe6feef2494",
+    "catalog_banner_animated_url": "https://cdn.discordapp.com/assets/content/ef8d54459ae4b7ea46a6ee48e03a6fcedb57467c41b808a4afff233c75023e58",
+    "featured_block_url": "https://cdn.discordapp.com/assets/content/fb3bd8d0791af14a5fbe63ed008a99bbb907ef2ff845fa3470713d7c5803c953",
+    "logo_url": "https://cdn.discordapp.com/assets/content/ede61c254bee45097efd19b336033f34b1b4e745b48ee349c572372d004fd95e",
+    "pdp_bg_url": "https://cdn.discordapp.com/assets/content/071bd9af77585b0473426a38932f0a90874facc05f1542c3debc962ca6673ae5",
+    "mobile_hero_url": "https://cdn.discordapp.com/assets/content/0f18c9d8bbc598d71e4a3dc006f70a57697e0f7eb4427931df83c1fb89869155",
+    "mobile_banner_url": "https://cdn.discordapp.com/assets/content/33757f5f7e49762cf4f76d639b8d542d52d391ce7451148ae65b2aa427e13851",
+    "mobile_bg_url": "https://cdn.discordapp.com/assets/content/7e7ef549d3de3db801ef406a994b1c1a7561aae1332239f8fcd4dd67108d1008",
+    "hero_banner_display_config": {
+      "desktop_max_height": null,
+      "mobile_max_height": null,
+      "responsive": null,
+      "background_style": "linear-gradient(to bottom, rgba(1, 17, 44, 1), rgba(1, 17, 44, 1))"
+    },
+    "hero_logo_display_config": {
+      "desktop_max_height": 125,
+      "mobile_max_height": null,
+      "responsive": null,
+      "background_style": null
+    }
   }
 ]
