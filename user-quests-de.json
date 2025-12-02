@@ -1813,6 +1813,134 @@
       "preview": false
     },
     {
+      "id": "1443003934422597682",
+      "config": {
+        "id": "1443003934422597682",
+        "config_version": 2,
+        "starts_at": "2025-12-02T18:00:27+00:00",
+        "expires_at": "2025-12-15T00:00:27+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://www.destinythegame.com/en/YearOfProphecy",
+          "id": "372438022647578634",
+          "name": "Destiny 2"
+        },
+        "assets": {
+          "hero": "quests/1443003934422597682/1443004538830454845.jpg",
+          "hero_video": null,
+          "quest_bar_hero": "quests/1443003934422597682/1443004506823463013.jpg",
+          "quest_bar_hero_video": null,
+          "game_tile": "1443004646179344477.png",
+          "logotype": "1443004645286084759.png",
+          "game_tile_light": "quests/1443003934422597682/1443004600490791026.png",
+          "game_tile_dark": "quests/1443003934422597682/1443004600490791026.png",
+          "logotype_light": "quests/1443003934422597682/1443004572384886987.png",
+          "logotype_dark": "quests/1443003934422597682/1443004572384886987.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Destiny 2: Renegades",
+          "game_title": "Destiny 2",
+          "game_publisher": "Bungie"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "event_name": "PLAY_ON_DESKTOP",
+              "target": 1800
+            },
+            "PLAY_ON_XBOX": {
+              "event_name": "PLAY_ON_XBOX",
+              "target": 1800
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "event_name": "PLAY_ON_PLAYSTATION",
+              "target": 1800
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 1800,
+              "applications": [
+                {
+                  "id": "372438022647578634"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 1800,
+              "applications": [
+                {
+                  "id": "372438022647578634"
+                }
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 1800,
+              "applications": [
+                {
+                  "id": "372438022647578634"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 1,
+              "sku_id": "1443003934422597683",
+              "asset": "quests/1443003934422597682/1443005268903333888.jpg",
+              "asset_video": null,
+              "messages": {
+                "name": "Inkdrawn Shader",
+                "name_with_article": "an Inkdrawn Shader",
+                "redemption_instructions_by_platform": {
+                  "0": "Users should log into Bungie.net with their preferred platform and access this page to input the code: https://www.bungie.net/7/en/codes/redeem\nOnce redeemed on their account, they can obtain it in-game via the Special Deliveries Kiosk in the Tower, or in Collections under the “Flair” section."
+                }
+              },
+              "approximate_count": null,
+              "redemption_link": null
+            }
+          ],
+          "rewards_expire_at": "2026-01-14T00:00:27+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.destinythegame.com/en/YearOfProphecy",
+          "button_label": "Spiel holen"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
       "id": "1436481141711442101",
       "config": {
         "id": "1436481141711442101",
@@ -2670,19 +2798,19 @@
               "target": 29,
               "assets": {
                 "video": {
-                  "url": "quests/1435777559475257428/1442961468407419043_1080.mp4",
+                  "url": "quests/1435777559475257428/1442961830266802296_1080.mp4",
                   "width": 1920,
                   "height": 1080,
                   "thumbnail": "quests/1435777559475257428/1435779616026529864.jpg"
                 },
                 "video_low_res": {
-                  "url": "quests/1435777559475257428/1442961468407419043_720.mp4",
+                  "url": "quests/1435777559475257428/1442961830266802296_720.mp4",
                   "width": 1920,
                   "height": 1080,
                   "thumbnail": "quests/1435777559475257428/1435779616026529864.jpg"
                 },
                 "video_hls": {
-                  "url": "quests/1435777559475257428/1442961468407419043.m3u8",
+                  "url": "quests/1435777559475257428/1442961830266802296.m3u8",
                   "width": 1920,
                   "height": 1080,
                   "thumbnail": "quests/1435777559475257428/1435779616026529864.jpg"
@@ -2721,14 +2849,14 @@
         "video_metadata": {
           "messages": {
             "video_title": "Amazon Holiday Trailer",
-            "video_end_cta_subtitle": "Alpha up with this little heater.",
+            "video_end_cta_subtitle": "Nothing beats the real thing, except this pillow.",
             "video_end_cta_button_label": "Jetzt kaufen"
           },
           "assets": {
-            "video_player_video_hls": "quests/1435777559475257428/1442961468407419043.m3u8",
-            "video_player_video": "quests/1435777559475257428/1442961468407419043_1080.mp4",
+            "video_player_video_hls": "quests/1435777559475257428/1442961830266802296.m3u8",
+            "video_player_video": "quests/1435777559475257428/1442961830266802296_1080.mp4",
             "video_player_thumbnail": "quests/1435777559475257428/1435779616026529864.jpg",
-            "video_player_video_low_res": "quests/1435777559475257428/1442961468407419043_720.mp4",
+            "video_player_video_low_res": "quests/1435777559475257428/1442961830266802296_720.mp4",
             "video_player_caption": null,
             "video_player_transcript": null,
             "quest_bar_preview_video": null,
@@ -2740,7 +2868,7 @@
         "cta_config": {
           "link": "https://ad.doubleclick.net/ddm/trackclk/N2464377.3866164DISCORD.COM/B34241706.432871054;dc_trk_aid=626075048;dc_trk_cid=244981569;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=;dc_tdv=1",
           "button_label": "Jetzt kaufen",
-          "subtitle": "Alpha up with this little heater."
+          "subtitle": "Nothing beats the real thing, except this pillow."
         }
       },
       "user_status": null,
