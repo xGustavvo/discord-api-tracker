@@ -1,6 +1,105 @@
 {
   "quests": [
     {
+      "id": "1443000962024210432",
+      "config": {
+        "id": "1443000962024210432",
+        "config_version": 2,
+        "starts_at": "2025-12-02T18:00:39+00:00",
+        "expires_at": "2025-12-09T00:00:39+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://store.steampowered.com/app/4046570/storm_lancers/?utm_source=discord&utm_medium=paidmedialqa&utm_campaign=storm-demo-us&utm_term=gaming&utm_content=customsteam-custom-0",
+          "id": "1443287416030105692",
+          "name": "Storm Lancers"
+        },
+        "assets": {
+          "hero": "quests/1443000962024210432/1443286959203287051.jpg",
+          "hero_video": null,
+          "quest_bar_hero": "quests/1443000962024210432/1443286932590297271.jpeg",
+          "quest_bar_hero_video": null,
+          "game_tile": "1443003412902838424.png",
+          "logotype": "1443003411934216262.png",
+          "game_tile_light": "quests/1443000962024210432/1443003332384919672.png",
+          "game_tile_dark": "quests/1443000962024210432/1443003332384919672.png",
+          "logotype_light": "quests/1443000962024210432/1443003246385041468.png",
+          "logotype_dark": "quests/1443000962024210432/1443003246385041468.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Storm Lancers Demo",
+          "game_title": "Storm Lancers’ Demo",
+          "game_publisher": "ProbablyMonsters"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "event_name": "PLAY_ON_DESKTOP",
+              "target": 900
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1443287416030105692"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "Default"
+                }
+              },
+              "orb_quantity": 700
+            }
+          ],
+          "rewards_expire_at": "2026-01-08T00:00:39+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://store.steampowered.com/app/4046570/storm_lancers/?utm_source=discord&utm_medium=paidmedialqa&utm_campaign=storm-demo-us&utm_term=gaming&utm_content=customsteam-custom-0",
+          "button_label": "Get Game"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
       "id": "1441207579350012034",
       "config": {
         "id": "1441207579350012034",
@@ -233,147 +332,6 @@
       "preview": false
     },
     {
-      "id": "1440059727005614090",
-      "config": {
-        "id": "1440059727005614090",
-        "config_version": 2,
-        "starts_at": "2025-11-20T18:45:13+00:00",
-        "expires_at": "2025-11-27T00:00:13+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://operagx.gg/yoursetupwantsgx_dsc",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1440059727005614090/1441127914824273950.jpg",
-          "hero_video": null,
-          "quest_bar_hero": "quests/1440083047205834872/1440088391244054629.jpg",
-          "quest_bar_hero_video": "quests/1440059727005614090/1441128924183658580.mp4",
-          "game_tile": "1441128003571552497.png",
-          "logotype": "1441128002615246999.png",
-          "game_tile_light": "quests/1440059727005614090/1441127988509933578.png",
-          "game_tile_dark": "quests/1440059727005614090/1441127988509933578.png",
-          "logotype_light": "quests/1440059727005614090/1441127963708887142.png",
-          "logotype_dark": "quests/1440059727005614090/1441127963708887142.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Opera GX",
-          "game_title": "Opera GX",
-          "game_publisher": "Opera GX"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "WATCH_VIDEO": {
-              "event_name": "WATCH_VIDEO",
-              "target": 42
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 42,
-              "assets": {
-                "video": {
-                  "url": "quests/1440083047205834872/1440089355795300414_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1440059727005614090/1440102760883290245.png",
-                  "caption": "quests/1440083047205834872/1440089409532854272.vtt",
-                  "transcript": "quests/1440083047205834872/1440089433117556746.txt"
-                },
-                "video_low_res": {
-                  "url": "quests/1440083047205834872/1440089355795300414_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1440059727005614090/1440102760883290245.png",
-                  "caption": "quests/1440083047205834872/1440089409532854272.vtt",
-                  "transcript": "quests/1440083047205834872/1440089433117556746.txt"
-                },
-                "video_hls": {
-                  "url": "quests/1440083047205834872/1440089355795300414.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1440059727005614090/1440102760883290245.png",
-                  "caption": "quests/1440083047205834872/1440089409532854272.vtt",
-                  "transcript": "quests/1440083047205834872/1440089433117556746.txt"
-                }
-              },
-              "messages": {
-                "video_title": "Opera GX",
-                "video_end_cta_button_label": "Learn More"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "orb_quantity": 700
-            }
-          ],
-          "rewards_expire_at": "2025-12-27T00:00:13+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "video_metadata": {
-          "messages": {
-            "video_title": "Opera GX",
-            "video_end_cta_button_label": "Learn More"
-          },
-          "assets": {
-            "video_player_video_hls": "quests/1440083047205834872/1440089355795300414.m3u8",
-            "video_player_video": "quests/1440083047205834872/1440089355795300414_1080.mp4",
-            "video_player_thumbnail": "quests/1440059727005614090/1440102760883290245.png",
-            "video_player_video_low_res": "quests/1440083047205834872/1440089355795300414_720.mp4",
-            "video_player_caption": "quests/1440083047205834872/1440089409532854272.vtt",
-            "video_player_transcript": "quests/1440083047205834872/1440089433117556746.txt",
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://operagx.gg/yoursetupwantsgx_dsc",
-          "button_label": "Learn More"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
       "id": "1436125144404725770",
       "config": {
         "id": "1436125144404725770",
@@ -592,6 +550,314 @@
         "cta_config": {
           "link": "https://www.playdeltaforce.com/wand/discordahsarah/index.html",
           "button_label": "Get Game"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
+      "id": "1440059727005614090",
+      "config": {
+        "id": "1440059727005614090",
+        "config_version": 2,
+        "starts_at": "2025-11-20T18:45:13+00:00",
+        "expires_at": "2025-11-27T00:00:13+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://operagx.gg/yoursetupwantsgx_dsc",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1440059727005614090/1441127914824273950.jpg",
+          "hero_video": null,
+          "quest_bar_hero": "quests/1440083047205834872/1440088391244054629.jpg",
+          "quest_bar_hero_video": "quests/1440059727005614090/1441128924183658580.mp4",
+          "game_tile": "1441128003571552497.png",
+          "logotype": "1441128002615246999.png",
+          "game_tile_light": "quests/1440059727005614090/1441127988509933578.png",
+          "game_tile_dark": "quests/1440059727005614090/1441127988509933578.png",
+          "logotype_light": "quests/1440059727005614090/1441127963708887142.png",
+          "logotype_dark": "quests/1440059727005614090/1441127963708887142.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Opera GX",
+          "game_title": "Opera GX",
+          "game_publisher": "Opera GX"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "WATCH_VIDEO": {
+              "event_name": "WATCH_VIDEO",
+              "target": 42
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 42,
+              "assets": {
+                "video": {
+                  "url": "quests/1440083047205834872/1440089355795300414_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1440059727005614090/1440102760883290245.png",
+                  "caption": "quests/1440083047205834872/1440089409532854272.vtt",
+                  "transcript": "quests/1440083047205834872/1440089433117556746.txt"
+                },
+                "video_low_res": {
+                  "url": "quests/1440083047205834872/1440089355795300414_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1440059727005614090/1440102760883290245.png",
+                  "caption": "quests/1440083047205834872/1440089409532854272.vtt",
+                  "transcript": "quests/1440083047205834872/1440089433117556746.txt"
+                },
+                "video_hls": {
+                  "url": "quests/1440083047205834872/1440089355795300414.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1440059727005614090/1440102760883290245.png",
+                  "caption": "quests/1440083047205834872/1440089409532854272.vtt",
+                  "transcript": "quests/1440083047205834872/1440089433117556746.txt"
+                }
+              },
+              "messages": {
+                "video_title": "Opera GX",
+                "video_end_cta_button_label": "Learn More"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "Default"
+                }
+              },
+              "orb_quantity": 700
+            }
+          ],
+          "rewards_expire_at": "2025-12-27T00:00:13+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "video_metadata": {
+          "messages": {
+            "video_title": "Opera GX",
+            "video_end_cta_button_label": "Learn More"
+          },
+          "assets": {
+            "video_player_video_hls": "quests/1440083047205834872/1440089355795300414.m3u8",
+            "video_player_video": "quests/1440083047205834872/1440089355795300414_1080.mp4",
+            "video_player_thumbnail": "quests/1440059727005614090/1440102760883290245.png",
+            "video_player_video_low_res": "quests/1440083047205834872/1440089355795300414_720.mp4",
+            "video_player_caption": "quests/1440083047205834872/1440089409532854272.vtt",
+            "video_player_transcript": "quests/1440083047205834872/1440089433117556746.txt",
+            "quest_bar_preview_video": null,
+            "quest_bar_preview_thumbnail": null,
+            "quest_home_video": null
+          }
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://operagx.gg/yoursetupwantsgx_dsc",
+          "button_label": "Learn More"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
+      "id": "1442944099404742667",
+      "config": {
+        "id": "1442944099404742667",
+        "config_version": 2,
+        "starts_at": "2025-12-02T18:00:41+00:00",
+        "expires_at": "2025-12-17T00:00:41+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://fallout.bethesda.net/en/article/7H7bDc4y2k9IAcK8wRlXsk/fallout-76-burning-springs-play-now?utm_source=10047385&utm_medium=433589465&utm_campaign=34509046&utm_creative=245468998",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1442944099404742667/1442952918134292644.jpg",
+          "hero_video": "quests/1442944099404742667/1445186266978320394.mp4",
+          "quest_bar_hero": "quests/1442944099404742667/1442951951892480042.jpg",
+          "quest_bar_hero_video": "quests/1442944099404742667/1445186266978320394.mp4",
+          "game_tile": "1442953153669496993.png",
+          "logotype": "1442953152591691866.png",
+          "game_tile_light": "quests/1442944099404742667/1442953098199961783.png",
+          "game_tile_dark": "quests/1442944099404742667/1442953098199961783.png",
+          "logotype_light": "quests/1442944099404742667/1442953029383884840.png",
+          "logotype_dark": "quests/1442944099404742667/1442953029383884840.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Fallout 76",
+          "game_title": "Fallout 76",
+          "game_publisher": "Bethesda Softworks"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "WATCH_VIDEO": {
+              "event_name": "WATCH_VIDEO",
+              "target": 29
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "event_name": "WATCH_VIDEO_ON_MOBILE",
+              "target": 29
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1442944099404742667/1442952234324201554_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1442944099404742667/1442953672974798888.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1442944099404742667/1442952234324201554_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1442944099404742667/1442953672974798888.png"
+                },
+                "video_hls": {
+                  "url": "quests/1442944099404742667/1442952234324201554.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1442944099404742667/1442953672974798888.png"
+                }
+              },
+              "messages": {
+                "video_title": "Fallout 76: Burning Springs trailer"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1442944099404742667/1443000808160493679_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1442944099404742667/1442951951892480042.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1442944099404742667/1443000808160493679_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1442944099404742667/1442951951892480042.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1442944099404742667/1443000808160493679.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1442944099404742667/1442951951892480042.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "Fallout 76: Burning Springs trailer"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "Default"
+                }
+              },
+              "orb_quantity": 700
+            }
+          ],
+          "rewards_expire_at": "2026-01-16T00:00:41+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "video_metadata": {
+          "messages": {
+            "video_title": "Fallout 76: Burning Springs trailer",
+            "video_end_cta_subtitle": "Play Burning Springs now",
+            "video_end_cta_button_label": "Play Game"
+          },
+          "assets": {
+            "video_player_video_hls": "quests/1442944099404742667/1442952234324201554.m3u8",
+            "video_player_video": "quests/1442944099404742667/1442952234324201554_1080.mp4",
+            "video_player_thumbnail": "quests/1442944099404742667/1442953672974798888.png",
+            "video_player_video_low_res": "quests/1442944099404742667/1442952234324201554_720.mp4",
+            "video_player_caption": null,
+            "video_player_transcript": null,
+            "quest_bar_preview_video": null,
+            "quest_bar_preview_thumbnail": null,
+            "quest_home_video": null
+          }
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://fallout.bethesda.net/en/article/7H7bDc4y2k9IAcK8wRlXsk/fallout-76-burning-springs-play-now?utm_source=10047385&utm_medium=433589465&utm_campaign=34509046&utm_creative=245468998",
+          "button_label": "Play Game",
+          "subtitle": "Play Burning Springs now"
         }
       },
       "user_status": null,
@@ -1933,6 +2199,173 @@
         "cta_config": {
           "link": "https://arcraiders.com/en/?utm_campaign=launch&utm_source=discord&utm_term=us&utm_content=broadgaming&utm_medium=custom",
           "button_label": "Get Game"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
+      "id": "1441487359450284112",
+      "config": {
+        "id": "1441487359450284112",
+        "config_version": 2,
+        "starts_at": "2025-12-02T17:15:08+00:00",
+        "expires_at": "2025-12-16T00:00:08+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://ad.doubleclick.net/ddm/trackclk/N2998.3866164DISCORD.COM/B32982093.434045650;dc_trk_aid=627213458;dc_trk_cid=245835885;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=;dc_tdv=1",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1441487359450284112/1443024847327334470.jpg",
+          "hero_video": "quests/1441487359450284112/1443024929409732629.mp4",
+          "quest_bar_hero": "quests/1441487359450284112/1441490583209250917.jpg",
+          "quest_bar_hero_video": "quests/1441487359450284112/1443024929409732629.mp4",
+          "game_tile": "1441490978107162735.png",
+          "logotype": "1441520476504461402.png",
+          "game_tile_light": "quests/1441487359450284112/1441489597786882310.png",
+          "game_tile_dark": "quests/1441487359450284112/1441489597786882310.png",
+          "logotype_light": "quests/1441487359450284112/1441520446523576320.png",
+          "logotype_dark": "quests/1441487359450284112/1441520446523576320.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Fios Home Internet",
+          "game_title": "Switch to Fios Home Internet",
+          "game_publisher": "Verizon Fios Home Internet"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "WATCH_VIDEO": {
+              "event_name": "WATCH_VIDEO",
+              "target": 29
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "event_name": "WATCH_VIDEO_ON_MOBILE",
+              "target": 29
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1441487359450284112/1441489442320941116_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1441487359450284112/1441490812293746729.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1441487359450284112/1441489442320941116_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1441487359450284112/1441490812293746729.png"
+                },
+                "video_hls": {
+                  "url": "quests/1441487359450284112/1441489442320941116.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1441487359450284112/1441490812293746729.png"
+                }
+              },
+              "messages": {
+                "video_title": "Fios Home Internet"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1441487359450284112/1441489323009773648_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1441487359450284112/1441490812293746729.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1441487359450284112/1441489323009773648_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1441487359450284112/1441490812293746729.png"
+                },
+                "video_hls": {
+                  "url": "quests/1441487359450284112/1441489323009773648.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1441487359450284112/1441490812293746729.png"
+                }
+              },
+              "messages": {
+                "video_title": "Fios Home Internet"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 orbs",
+                "name_with_article": "700 orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "Default"
+                }
+              },
+              "orb_quantity": 700
+            }
+          ],
+          "rewards_expire_at": "2026-01-15T00:00:08+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "video_metadata": {
+          "messages": {
+            "video_title": "Fios Home Internet",
+            "video_end_cta_subtitle": "Switch to Fios Home Internet",
+            "video_end_cta_button_label": "Learn More"
+          },
+          "assets": {
+            "video_player_video_hls": "quests/1441487359450284112/1441489442320941116.m3u8",
+            "video_player_video": "quests/1441487359450284112/1441489442320941116_1080.mp4",
+            "video_player_thumbnail": "quests/1441487359450284112/1441490812293746729.png",
+            "video_player_video_low_res": "quests/1441487359450284112/1441489442320941116_720.mp4",
+            "video_player_caption": null,
+            "video_player_transcript": null,
+            "quest_bar_preview_video": null,
+            "quest_bar_preview_thumbnail": null,
+            "quest_home_video": null
+          }
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://ad.doubleclick.net/ddm/trackclk/N2998.3866164DISCORD.COM/B32982093.434045650;dc_trk_aid=627213458;dc_trk_cid=245835885;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=;dc_tdv=1",
+          "button_label": "Learn More",
+          "subtitle": "Switch to Fios Home Internet"
         }
       },
       "user_status": null,
