@@ -2839,14 +2839,6 @@
             "PLAY_ON_DESKTOP": {
               "event_name": "PLAY_ON_DESKTOP",
               "target": 900
-            },
-            "PLAY_ON_XBOX": {
-              "event_name": "PLAY_ON_XBOX",
-              "target": 900
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "event_name": "PLAY_ON_PLAYSTATION",
-              "target": 900
             }
           }
         },
@@ -2854,24 +2846,6 @@
           "tasks": {
             "PLAY_ON_DESKTOP": {
               "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1402418717781921935"
-                }
-              ]
-            },
-            "PLAY_ON_XBOX": {
-              "type": "PLAY_ON_XBOX",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1402418717781921935"
-                }
-              ]
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
               "target": 900,
               "applications": [
                 {
