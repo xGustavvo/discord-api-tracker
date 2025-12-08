@@ -4514,7 +4514,7 @@
           "secondary": "#000000"
         },
         "messages": {
-          "quest_name": "Erangel: Subzero",
+          "quest_name": "Missão Erangel: Subzero",
           "game_title": "PUBG",
           "game_publisher": "Krafton"
         },
@@ -4551,8 +4551,8 @@
               "asset": "quests/1442626022259429496/1442627012119232553.png",
               "asset_video": null,
               "messages": {
-                "name": "PUBG Creed Vest",
-                "name_with_article": "a PUBG Creed Vest",
+                "name": "Colete PUBG Creed",
+                "name_with_article": "Colete PUBG Creed",
                 "redemption_instructions_by_platform": {
                   "0": "Redeem the code in-game by navigating to [Store>Items>Add Bonus/Gift Code] at the bottom left corner. \nVoucher code can be used once per account. \nValid Platforms: STEAM, EPIC, and KAKAO"
                 }
