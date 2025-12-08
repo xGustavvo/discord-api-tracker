@@ -823,6 +823,121 @@
       "preview": false
     },
     {
+      "id": "1445133129382891662",
+      "config": {
+        "id": "1445133129382891662",
+        "config_version": 2,
+        "starts_at": "2025-12-08T18:00:07+00:00",
+        "expires_at": "2025-12-17T00:00:07+00:00",
+        "features": [
+          3,
+          8,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23,
+          27
+        ],
+        "application": {
+          "link": "https://www.amazon.com/gp/video/detail/B0FLSZBRZJ/ref=atv_dp_season_select_s2",
+          "id": "1438480245844873387",
+          "name": "Fallout Pip-Boy"
+        },
+        "assets": {
+          "hero": "quests/1445133129382891662/1446306294255456447.jpg",
+          "hero_video": "quests/1445133129382891662/1447625440561725471.mp4",
+          "quest_bar_hero": "quests/1445133129382891662/1446306294255456447.jpg",
+          "quest_bar_hero_video": "quests/1445133129382891662/1447625440561725471.mp4",
+          "game_tile": "1446307284325240912.jpg",
+          "logotype": "1446307179002069094.png",
+          "game_tile_light": "quests/1445133129382891662/1446307266348191845.jpg",
+          "game_tile_dark": "quests/1445133129382891662/1446307266348191845.jpg",
+          "logotype_light": "quests/1445133129382891662/1446307023909294182.png",
+          "logotype_dark": "quests/1445133129382891662/1446307079672299621.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Fallout Season 2",
+          "game_title": "Fallout Pip-Boy Activity",
+          "game_publisher": "Amazon Prime Video"
+        },
+        "task_config": {
+          "type": 2,
+          "join_operator": "or",
+          "tasks": {
+            "progress": {
+              "event_name": "progress",
+              "title": "Open your Pip-Boy and watch the Fallout Season 2 video to claim the Vault Avatar Decoration!",
+              "description": "Open your Pip-Boy and watch the Fallout Season 2 video to claim the Vault Avatar Decoration!",
+              "target": 100
+            }
+          },
+          "enrollment_url": "https://www.discord.com",
+          "developer_application_id": "1438480245844873387"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "ACHIEVEMENT_IN_ACTIVITY": {
+              "type": "ACHIEVEMENT_IN_ACTIVITY",
+              "target": 100,
+              "applications": [
+                {
+                  "id": "1438480245844873387"
+                }
+              ],
+              "event_name": "progress",
+              "messages": {
+                "task_title": "Open your Pip-Boy and watch the Fallout Season 2 video to claim the Vault Avatar Decoration!",
+                "task_description": "Open your Pip-Boy and watch the Fallout Season 2 video to claim the Vault Avatar Decoration!"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 3,
+              "sku_id": "1446317166008864881",
+              "asset": "quests/1445133129382891662/1446317486055100457.mp4",
+              "asset_video": null,
+              "messages": {
+                "name": "Vault Avatar Decoration",
+                "name_with_article": "a Vault Avatar Decoration",
+                "redemption_instructions_by_platform": {
+                  "0": "Default"
+                }
+              },
+              "expires_at": "2026-02-16T00:00:00+00:00",
+              "expires_at_premium": null,
+              "expiration_mode": 3
+            }
+          ],
+          "rewards_expire_at": "2026-01-16T00:00:07+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.amazon.com/gp/video/detail/B0FLSZBRZJ/ref=atv_dp_season_select_s2",
+          "button_label": "Mais detalhes",
+          "subtitle": "Fallout Season 2 - Premiering December 17 on Prime"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
       "id": "1440059727005614090",
       "config": {
         "id": "1440059727005614090",
@@ -957,121 +1072,6 @@
         "cta_config": {
           "link": "https://operagx.gg/yoursetupwantsgx_dsc",
           "button_label": "Mais detalhes"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
-      "id": "1445133129382891662",
-      "config": {
-        "id": "1445133129382891662",
-        "config_version": 2,
-        "starts_at": "2025-12-08T18:00:07+00:00",
-        "expires_at": "2025-12-17T00:00:07+00:00",
-        "features": [
-          3,
-          8,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23,
-          27
-        ],
-        "application": {
-          "link": "https://www.amazon.com/gp/video/detail/B0FLSZBRZJ/ref=atv_dp_season_select_s2",
-          "id": "1438480245844873387",
-          "name": "Fallout Pip-Boy"
-        },
-        "assets": {
-          "hero": "quests/1445133129382891662/1446306294255456447.jpg",
-          "hero_video": "quests/1445133129382891662/1447625440561725471.mp4",
-          "quest_bar_hero": "quests/1445133129382891662/1446306294255456447.jpg",
-          "quest_bar_hero_video": "quests/1445133129382891662/1447625440561725471.mp4",
-          "game_tile": "1446307284325240912.jpg",
-          "logotype": "1446307179002069094.png",
-          "game_tile_light": "quests/1445133129382891662/1446307266348191845.jpg",
-          "game_tile_dark": "quests/1445133129382891662/1446307266348191845.jpg",
-          "logotype_light": "quests/1445133129382891662/1446307023909294182.png",
-          "logotype_dark": "quests/1445133129382891662/1446307079672299621.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Fallout Season 2",
-          "game_title": "Fallout Pip-Boy Activity",
-          "game_publisher": "Amazon Prime Video"
-        },
-        "task_config": {
-          "type": 2,
-          "join_operator": "or",
-          "tasks": {
-            "progress": {
-              "event_name": "progress",
-              "title": "Open your Pip-Boy and watch the Fallout Season 2 video to claim the Vault Avatar Decoration!",
-              "description": "Open your Pip-Boy and watch the Fallout Season 2 video to claim the Vault Avatar Decoration!",
-              "target": 100
-            }
-          },
-          "enrollment_url": "https://www.discord.com",
-          "developer_application_id": "1438480245844873387"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "ACHIEVEMENT_IN_ACTIVITY": {
-              "type": "ACHIEVEMENT_IN_ACTIVITY",
-              "target": 100,
-              "applications": [
-                {
-                  "id": "1438480245844873387"
-                }
-              ],
-              "event_name": "progress",
-              "messages": {
-                "task_title": "Open your Pip-Boy and watch the Fallout Season 2 video to claim the Vault Avatar Decoration!",
-                "task_description": "Open your Pip-Boy and watch the Fallout Season 2 video to claim the Vault Avatar Decoration!"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 3,
-              "sku_id": "1446317166008864881",
-              "asset": "quests/1445133129382891662/1446317486055100457.mp4",
-              "asset_video": null,
-              "messages": {
-                "name": "Vault Avatar Decoration",
-                "name_with_article": "a Vault Avatar Decoration",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "expires_at": "2026-02-16T00:00:00+00:00",
-              "expires_at_premium": null,
-              "expiration_mode": 3
-            }
-          ],
-          "rewards_expire_at": "2026-01-16T00:00:07+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.amazon.com/gp/video/detail/B0FLSZBRZJ/ref=atv_dp_season_select_s2",
-          "button_label": "Mais detalhes",
-          "subtitle": "Fallout Season 2 - Premiering December 17 on Prime"
         }
       },
       "user_status": null,
