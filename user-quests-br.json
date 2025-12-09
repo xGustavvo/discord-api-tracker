@@ -19,7 +19,7 @@
           23
         ],
         "application": {
-          "link": "https://store.steampowered.com/app/4046570/storm_lancers/?utm_source=discord&utm_medium=paidmedialqa&utm_campaign=storm-demo-us&utm_term=gaming&utm_content=customsteam-custom-0",
+          "link": "https://store.steampowered.com/app/4046570/storm_lancers/?utm_source=discord&utm_medium=paidmedialqa&utm_campaign=storm-pclaunch-us&utm_content=quest",
           "id": "1443287416030105692",
           "name": "Storm Lancers"
         },
@@ -41,7 +41,7 @@
         },
         "messages": {
           "quest_name": "Storm Lancers Demo",
-          "game_title": "Storm Lancers’ Demo",
+          "game_title": "Storm Lancers Demo",
           "game_publisher": "ProbablyMonsters"
         },
         "task_config": {
@@ -91,7 +91,7 @@
         },
         "share_policy": "shareable_everywhere",
         "cta_config": {
-          "link": "https://store.steampowered.com/app/4046570/storm_lancers/?utm_source=discord&utm_medium=paidmedialqa&utm_campaign=storm-demo-us&utm_term=gaming&utm_content=customsteam-custom-0",
+          "link": "https://store.steampowered.com/app/4046570/storm_lancers/?utm_source=discord&utm_medium=paidmedialqa&utm_campaign=storm-pclaunch-us&utm_content=quest",
           "button_label": "Obter jogo"
         }
       },
