@@ -1444,8 +1444,8 @@
           "tasks": {
             "progress": {
               "event_name": "progress",
-              "title": "Complete the Big Guy Challenges to win 700 Orbs!",
-              "description": "Complete the Big Guy Challenges to win 700 Orbs!",
+              "title": "Complete the Big Guy Challenges on Desktop to win 700 Orbs!",
+              "description": "Complete the Big Guy Challenges on Desktop to win 700 Orbs!",
               "target": 1
             }
           },
@@ -1464,8 +1464,8 @@
               ],
               "event_name": "progress",
               "messages": {
-                "task_title": "Complete the Big Guy Challenges to win 700 Orbs!",
-                "task_description": "Complete the Big Guy Challenges to win 700 Orbs!"
+                "task_title": "Complete the Big Guy Challenges on Desktop to win 700 Orbs!",
+                "task_description": "Complete the Big Guy Challenges on Desktop to win 700 Orbs!"
               }
             }
           },
@@ -2563,121 +2563,6 @@
         "dismissed_quest_content": 0,
         "progress": {}
       },
-      "targeted_content": [],
-      "preview": false
-    },
-    {
-      "id": "1432798014786764871",
-      "config": {
-        "id": "1432798014786764871",
-        "config_version": 2,
-        "starts_at": "2025-11-05T03:00:46+00:00",
-        "expires_at": "2025-11-12T00:00:46+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://hoyo.link/ULR8QuyPH",
-          "id": "1121201675240210523",
-          "name": "Honkai: Star Rail"
-        },
-        "assets": {
-          "hero": "quests/1432798014786764871/1432829179979890749.jpg",
-          "hero_video": "quests/1432798014786764871/1432829536533348452.mp4",
-          "quest_bar_hero": "quests/1432798014786764871/1432829179979890749.jpg",
-          "quest_bar_hero_video": "quests/1432798014786764871/1432829536533348452.mp4",
-          "game_tile": "1432830150839635979.png",
-          "logotype": "1432830144468222067.png",
-          "game_tile_light": "quests/1432798014786764871/1432830113980092577.png",
-          "game_tile_dark": "quests/1432798014786764871/1432830113980092577.png",
-          "logotype_light": "quests/1432798014786764871/1432829884216115310.png",
-          "logotype_dark": "quests/1432798014786764871/1432829949756178543.png"
-        },
-        "colors": {
-          "primary": "#FFFFFF",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Honkai: Star Rail",
-          "game_title": "Honkai: Star Rail",
-          "game_publisher": "COGNOSPHERE PTE. LTD."
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "event_name": "PLAY_ON_DESKTOP",
-              "target": 900
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "event_name": "PLAY_ON_PLAYSTATION",
-              "target": 900
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1121201675240210523"
-                }
-              ]
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1121201675240210523"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 1,
-              "sku_id": "1432798014786764872",
-              "asset": "quests/1432798014786764871/1432834723838951595.png",
-              "asset_video": null,
-              "messages": {
-                "name": "Pack de quêtes V3.7",
-                "name_with_article": "un Pack de quêtes V3.7",
-                "redemption_instructions_by_platform": {
-                  "0": "Méthode d'échange :\nAllez sur le site officiel de Honkai : Star Rail à la section Code d'échange (https://hsr.hoyoverse.com/gift), connectez-vous à votre compte en jeu et suivez les instructions pour saisir le code. Une fois l'opération réussie, vous recevrez votre cadeau par courrier dans le jeu.\n\nContenu du code d'échange : Jade stellaire ×30, Crédits ×20 000, Fragment d'or perdu ×4, Éther condensé ×5, Guide du voyageur ×3.\n\n* Les récompenses sont en quantité limitée, seuls les 750 000 premiers Pionniers et Pionnières à compléter la quête pourront les obtenir. Les récompenses seront attribuées en fonction de l'heure à laquelle les Pionniers et Pionnières récupèrent leur code de pack après avoir terminé la mission, jusqu'à épuisement des stocks. Premiers arrivés, premiers servis.\n\n* Les codes d'échange expireront le 03/12/2025 à 11 h 00 min 00 (UTC+8). N'oubliez pas de les utiliser à temps !"
-                }
-              },
-              "approximate_count": null,
-              "redemption_link": null
-            }
-          ],
-          "rewards_expire_at": "2025-12-12T00:00:46+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://hoyo.link/ULR8QuyPH",
-          "button_label": "Obtenir le jeu"
-        }
-      },
-      "user_status": null,
       "targeted_content": [],
       "preview": false
     },
