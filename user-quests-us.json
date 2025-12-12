@@ -4272,6 +4272,135 @@
       "preview": false
     },
     {
+      "id": "1445532356323836135",
+      "config": {
+        "id": "1445532356323836135",
+        "config_version": 2,
+        "starts_at": "2025-12-12T18:00:30+00:00",
+        "expires_at": "2025-12-20T00:00:30+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://pathofexile2.com/",
+          "id": "1328876348361412619",
+          "name": "Path of Exile 2"
+        },
+        "assets": {
+          "hero": "quests/1445532356323836135/1445545944941727746.jpg",
+          "hero_video": null,
+          "quest_bar_hero": "quests/1445532356323836135/1445545897583837477.jpg",
+          "quest_bar_hero_video": null,
+          "game_tile": "1445546363118031009.jpg",
+          "logotype": "1445546165348208710.png",
+          "game_tile_light": "quests/1445532356323836135/1445546241562775673.jpg",
+          "game_tile_dark": "quests/1445532356323836135/1445546314493464656.jpg",
+          "logotype_light": "quests/1445532356323836135/1445546108767043594.png",
+          "logotype_dark": "quests/1445532356323836135/1445546037061357708.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Path of Exile 2 Quest -2",
+          "game_title": "Path of Exile 2",
+          "game_publisher": "Grinding Gear Games"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "event_name": "PLAY_ON_DESKTOP",
+              "target": 900
+            },
+            "PLAY_ON_XBOX": {
+              "event_name": "PLAY_ON_XBOX",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "event_name": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1328876348361412619"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1328876348361412619"
+                }
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1328876348361412619"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 3,
+              "sku_id": "1445852154131775520",
+              "asset": "quests/1445532356323836135/1446257835737350327.mp4",
+              "asset_video": null,
+              "messages": {
+                "name": "Last of the Druids Avatar",
+                "name_with_article": "a Last of the Druids Avatar",
+                "redemption_instructions_by_platform": {
+                  "0": "Default"
+                }
+              },
+              "expires_at": "2026-02-19T00:00:00+00:00",
+              "expires_at_premium": null,
+              "expiration_mode": 3
+            }
+          ],
+          "rewards_expire_at": "2026-01-19T00:00:30+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://pathofexile2.com/",
+          "button_label": "Play Game"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
       "id": "1447665727824724068",
       "config": {
         "id": "1447665727824724068",
