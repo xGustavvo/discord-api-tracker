@@ -1748,6 +1748,165 @@
       "preview": false
     },
     {
+      "id": "1448806603427152024",
+      "config": {
+        "id": "1448806603427152024",
+        "config_version": 2,
+        "starts_at": "2025-12-12T21:00:11+00:00",
+        "expires_at": "2025-12-24T00:00:11+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.playtombraider.com/announce?utm_source=paid_media&utm_medium=Discord",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1448806603427152024/1449107716126539807.jpg",
+          "hero_video": "quests/1448806603427152024/1449108092892614729.mp4",
+          "quest_bar_hero": "quests/1448806603427152024/1449107860419252264.jpg",
+          "quest_bar_hero_video": "quests/1448806603427152024/1449108092892614729.mp4",
+          "game_tile": "1449108394395832381.png",
+          "logotype": "1449167140954308721.png",
+          "game_tile_light": "quests/1448806603427152024/1449108366290059314.png",
+          "game_tile_dark": "quests/1448806603427152024/1449108366290059314.png",
+          "logotype_light": "quests/1448806603427152024/1449167128258285619.png",
+          "logotype_dark": "quests/1448806603427152024/1449167128258285619.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Tomb Raider Announcement",
+          "game_title": "Tomb Raider: Legacy of Atlantis",
+          "game_publisher": "Amazon Game Studios"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "WATCH_VIDEO": {
+              "event_name": "WATCH_VIDEO",
+              "target": 98
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "event_name": "WATCH_VIDEO_ON_MOBILE",
+              "target": 98
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 98,
+              "assets": {
+                "video": {
+                  "url": "quests/1448806603427152024/1449109223425446041_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1448806603427152024/1449110959850258634.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1448806603427152024/1449109223425446041_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1448806603427152024/1449110959850258634.png"
+                },
+                "video_hls": {
+                  "url": "quests/1448806603427152024/1449109223425446041.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1448806603427152024/1449110959850258634.png"
+                }
+              },
+              "messages": {
+                "video_title": "Trailer de anúncio do Tomb Raider: Legacy of Atlantis"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 98,
+              "assets": {
+                "video": {
+                  "url": "quests/1448806603427152024/1449109376638910647_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1448806603427152024/1449110959850258634.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1448806603427152024/1449109376638910647_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1448806603427152024/1449110959850258634.png"
+                },
+                "video_hls": {
+                  "url": "quests/1448806603427152024/1449109376638910647.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1448806603427152024/1449110959850258634.png"
+                }
+              },
+              "messages": {
+                "video_title": "Trailer de anúncio do Tomb Raider: Legacy of Atlantis"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700
+            }
+          ],
+          "rewards_expire_at": "2026-01-23T00:00:11+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "video_metadata": {
+          "messages": {
+            "video_title": "Trailer de anúncio do Tomb Raider: Legacy of Atlantis",
+            "video_end_cta_subtitle": "Coloque já na sua Lista de desejos no Steam, PlayStation 5 e Xbox Series X|S",
+            "video_end_cta_button_label": "Adicione à lista de desejos"
+          },
+          "assets": {
+            "video_player_video_hls": "quests/1448806603427152024/1449109223425446041.m3u8",
+            "video_player_video": "quests/1448806603427152024/1449109223425446041_1080.mp4",
+            "video_player_thumbnail": "quests/1448806603427152024/1449110959850258634.png",
+            "video_player_video_low_res": "quests/1448806603427152024/1449109223425446041_720.mp4",
+            "video_player_caption": null,
+            "video_player_transcript": null,
+            "quest_bar_preview_video": null,
+            "quest_bar_preview_thumbnail": null,
+            "quest_home_video": null
+          }
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.playtombraider.com/announce?utm_source=paid_media&utm_medium=Discord",
+          "button_label": "Adicione à lista de desejos",
+          "subtitle": "Coloque já na sua Lista de desejos no Steam, PlayStation 5 e Xbox Series X|S"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
       "id": "1437518140476100638",
       "config": {
         "id": "1437518140476100638",
