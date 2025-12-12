@@ -3883,7 +3883,7 @@
           15
         ],
         "application": {
-          "link": "https://www.capcom-games.com/pragmata/en-us/",
+          "link": "https://store.steampowered.com/app/3357650/PRAGMATA/",
           "id": "1448369915462549616",
           "name": "PRAGMATA"
         },
@@ -3955,7 +3955,7 @@
         },
         "share_policy": "shareable_everywhere",
         "cta_config": {
-          "link": "https://www.capcom-games.com/pragmata/en-us/",
+          "link": "https://store.steampowered.com/app/3357650/PRAGMATA/",
           "button_label": "Jouer"
         }
       },
@@ -4491,6 +4491,9 @@
     },
     {
       "id": "1435391191834165398"
+    },
+    {
+      "id": "1447749956189294614"
     },
     {
       "id": "1437537235133005914"
