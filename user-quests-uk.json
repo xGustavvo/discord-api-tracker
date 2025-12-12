@@ -336,6 +336,137 @@
       "preview": false
     },
     {
+      "id": "1448436561082585220",
+      "config": {
+        "id": "1448436561082585220",
+        "config_version": 2,
+        "starts_at": "2025-12-12T18:00:28+00:00",
+        "expires_at": "2025-12-27T00:00:28+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://xbox.com/gamepass",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1448423146049896448/1448432733079732396.jpg",
+          "hero_video": "quests/1448423146049896448/1448433030728384764.mp4",
+          "quest_bar_hero": "quests/1448423146049896448/1448433170482598112.jpg",
+          "quest_bar_hero_video": "quests/1448423146049896448/1448433030728384764.mp4",
+          "game_tile": "1448433195606605856.png",
+          "logotype": "1448433194683596860.png",
+          "game_tile_light": "quests/1448423146049896448/1448432777052688535.png",
+          "game_tile_dark": "quests/1448423146049896448/1448432777052688535.png",
+          "logotype_light": "quests/1448423146049896448/1448432814142914652.png",
+          "logotype_dark": "quests/1448423146049896448/1448432814142914652.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Xbox Game Pass",
+          "game_title": "Xbox Game Pass",
+          "game_publisher": "Xbox Game Pass"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "WATCH_VIDEO": {
+              "event_name": "WATCH_VIDEO",
+              "target": 69
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 69,
+              "assets": {
+                "video": {
+                  "url": "quests/1448423146049896448/1448427220824625224_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1448423146049896448/1448427663092875275.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1448423146049896448/1448427220824625224_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1448423146049896448/1448427663092875275.png"
+                },
+                "video_hls": {
+                  "url": "quests/1448423146049896448/1448427220824625224.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1448423146049896448/1448427663092875275.png"
+                }
+              },
+              "messages": {
+                "video_title": "Xbox Game Pass Premium trailer"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 1,
+              "sku_id": "1448423146049896449",
+              "asset": "quests/1448423146049896448/1448433317199220910.jpg",
+              "asset_video": null,
+              "messages": {
+                "name": "Claim a 14-day Trial of Xbox Game Pass",
+                "name_with_article": "a 14-day Trial of Xbox Game Pass",
+                "redemption_instructions_by_platform": {
+                  "0": "**Redeem at microsoft.com/redeem by January 15,2026 11:59 PM PST.** \n\nValid for new Xbox Game Pass subscribers only. Valid payment method required. Unless you cancel, you will be charged the then-current regular membership rate when the promotional period ends. Limit: 1 per person/account. \n\n**Subject to the Microsoft Services Agreement, Game Pass terms and system requirements at: xbox.com/subscriptionterms. ** "
+                }
+              },
+              "approximate_count": null,
+              "redemption_link": null
+            }
+          ],
+          "rewards_expire_at": "2026-01-26T00:00:28+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "video_metadata": {
+          "messages": {
+            "video_title": "Xbox Game Pass Premium trailer",
+            "video_end_cta_subtitle": "Claim a 14-day Trial of Xbox Game Pass Premium",
+            "video_end_cta_button_label": "Learn More"
+          },
+          "assets": {
+            "video_player_video_hls": "quests/1448423146049896448/1448426626680619138.m3u8",
+            "video_player_video": "quests/1448423146049896448/1448426626680619138_1080.mp4",
+            "video_player_thumbnail": "quests/1448423146049896448/1448427663092875275.png",
+            "video_player_video_low_res": "quests/1448423146049896448/1448426626680619138_720.mp4",
+            "video_player_caption": null,
+            "video_player_transcript": null,
+            "quest_bar_preview_video": null,
+            "quest_bar_preview_thumbnail": null,
+            "quest_home_video": null
+          }
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://xbox.com/gamepass",
+          "button_label": "Learn More",
+          "subtitle": "Claim a 14-day Trial of Xbox Game Pass Premium"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
       "id": "1436125144404725770",
       "config": {
         "id": "1436125144404725770",
@@ -653,6 +784,14 @@
             "PLAY_ON_DESKTOP": {
               "event_name": "PLAY_ON_DESKTOP",
               "target": 900
+            },
+            "PLAY_ON_XBOX": {
+              "event_name": "PLAY_ON_XBOX",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "event_name": "PLAY_ON_PLAYSTATION",
+              "target": 900
             }
           }
         },
@@ -660,6 +799,24 @@
           "tasks": {
             "PLAY_ON_DESKTOP": {
               "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1400150104182095955"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1400150104182095955"
+                }
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
               "target": 900,
               "applications": [
                 {
@@ -4000,6 +4157,10 @@
   ],
   "excluded_quests": [
     {
+      "id": "1448423146049896448",
+      "replacement_id": "1448436561082585220"
+    },
+    {
       "id": "1440813676654362816"
     },
     {
@@ -4040,7 +4201,13 @@
       "id": "1438245337184735394"
     },
     {
+      "id": "1445883772816986212"
+    },
+    {
       "id": "1435003145339273317"
+    },
+    {
+      "id": "1447665727824724068"
     },
     {
       "id": "1440778023438909671"
@@ -4053,6 +4220,9 @@
     },
     {
       "id": "1433542422268350574"
+    },
+    {
+      "id": "1448102602704293999"
     },
     {
       "id": "1448459807458857011"
