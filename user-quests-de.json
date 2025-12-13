@@ -3622,290 +3622,6 @@
       "preview": false
     },
     {
-      "id": "1434969640194539610",
-      "config": {
-        "id": "1434969640194539610",
-        "config_version": 2,
-        "starts_at": "2025-11-06T18:00:02+00:00",
-        "expires_at": "2025-11-13T00:00:02+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": " https://discord.gg/b2QhYBpBhv",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1434969640194539610/1434974796969541682.jpg",
-          "hero_video": "quests/1434969640194539610/1434974872454303885.mp4",
-          "quest_bar_hero": "quests/1434969640194539610/1434975118089519104.jpg",
-          "quest_bar_hero_video": "quests/1434969640194539610/1434974872454303885.mp4",
-          "game_tile": "1434975383870242946.png",
-          "logotype": "1434975382833991822.png",
-          "game_tile_light": "quests/1434969640194539610/1434975230350196757.png",
-          "game_tile_dark": "quests/1434969640194539610/1434975230350196757.png",
-          "logotype_light": "quests/1434969640194539610/1434975192957980682.png",
-          "logotype_dark": "quests/1434969640194539610/1434975192957980682.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Dinkum on Switch ",
-          "game_title": "Dinkum",
-          "game_publisher": "Krafton"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "WATCH_VIDEO": {
-              "event_name": "WATCH_VIDEO",
-              "target": 89
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 89,
-              "assets": {
-                "video": {
-                  "url": "quests/1434969640194539610/1434975725873664040_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1435329773197987961/1435745070392414332.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1434969640194539610/1434975725873664040_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1435329773197987961/1435745070392414332.png"
-                },
-                "video_hls": {
-                  "url": "quests/1434969640194539610/1434975725873664040.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1435329773197987961/1435745070392414332.png"
-                }
-              },
-              "messages": {
-                "video_title": "Dinkum on Switch",
-                "video_end_cta_title": "Dinkum",
-                "video_end_cta_subtitle": "Join the official Dinkum Discord!",
-                "video_end_cta_button_label": "Server beitreten"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 orbs",
-                "name_with_article": "700 orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "orb_quantity": 700
-            }
-          ],
-          "rewards_expire_at": "2025-12-13T00:00:02+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "video_metadata": {
-          "messages": {
-            "video_title": "Dinkum on Switch",
-            "video_end_cta_title": "Dinkum",
-            "video_end_cta_subtitle": "Join the official Dinkum Discord!",
-            "video_end_cta_button_label": "Server beitreten"
-          },
-          "assets": {
-            "video_player_video_hls": "quests/1434969640194539610/1434975725873664040.m3u8",
-            "video_player_video": "quests/1434969640194539610/1434975725873664040_1080.mp4",
-            "video_player_thumbnail": "quests/1435329773197987961/1435745070392414332.png",
-            "video_player_video_low_res": "quests/1434969640194539610/1434975725873664040_720.mp4",
-            "video_player_caption": null,
-            "video_player_transcript": null,
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": " https://discord.gg/b2QhYBpBhv",
-          "button_label": "Server beitreten",
-          "subtitle": "Join the official Dinkum Discord!"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
-      "id": "1438202046804136028",
-      "config": {
-        "id": "1438202046804136028",
-        "config_version": 2,
-        "starts_at": "2025-11-17T18:00:28+00:00",
-        "expires_at": "2025-12-15T00:00:28+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://microsoft.com/edge/copilot-mode?form=MW01C5&OCID=MW01C5",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1438202046804136028/1438203974313574581.jpg",
-          "hero_video": "quests/1438202046804136028/1438204079594541057.mp4",
-          "quest_bar_hero": "quests/1438202046804136028/1438203998652862494.jpg",
-          "quest_bar_hero_video": "quests/1438202046804136028/1438204079594541057.mp4",
-          "game_tile": "1438583219338612776.png",
-          "logotype": "1440412013779095624.png",
-          "game_tile_light": "quests/1438202046804136028/1438583145808003123.png",
-          "game_tile_dark": "quests/1438202046804136028/1438583145808003123.png",
-          "logotype_light": "quests/1438202046804136028/1440411991385706693.png",
-          "logotype_dark": "quests/1438202046804136028/1440411967222321182.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Microsoft Edge - Your AI Browser",
-          "game_title": "Microsoft Edge",
-          "game_publisher": "Microsoft Edge"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "WATCH_VIDEO": {
-              "event_name": "WATCH_VIDEO",
-              "target": 29
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1438202046804136028/1438210245909287143_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1438202046804136028/1438980759389077534.jpg",
-                  "caption": "quests/1438202046804136028/1438215412520063007.vtt",
-                  "transcript": "quests/1438202046804136028/1438215434066333696.txt"
-                },
-                "video_low_res": {
-                  "url": "quests/1438202046804136028/1438210245909287143_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1438202046804136028/1438980759389077534.jpg",
-                  "caption": "quests/1438202046804136028/1438215412520063007.vtt",
-                  "transcript": "quests/1438202046804136028/1438215434066333696.txt"
-                },
-                "video_hls": {
-                  "url": "quests/1438202046804136028/1438210245909287143.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1438202046804136028/1438980759389077534.jpg",
-                  "caption": "quests/1438202046804136028/1438215412520063007.vtt",
-                  "transcript": "quests/1438202046804136028/1438215434066333696.txt"
-                }
-              },
-              "messages": {
-                "video_title": "Meet Copilot Mode in Edge: Your AI Browser",
-                "video_end_cta_subtitle": "Copilot Mode in Edge",
-                "video_end_cta_button_label": "Mehr erfahren"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "orb_quantity": 700
-            }
-          ],
-          "rewards_expire_at": "2026-01-14T00:00:28+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "video_metadata": {
-          "messages": {
-            "video_title": "Meet Copilot Mode in Edge: Your AI Browser",
-            "video_end_cta_subtitle": "Copilot Mode in Edge",
-            "video_end_cta_button_label": "Mehr erfahren"
-          },
-          "assets": {
-            "video_player_video_hls": "quests/1438202046804136028/1438210245909287143.m3u8",
-            "video_player_video": "quests/1438202046804136028/1438210245909287143_1080.mp4",
-            "video_player_thumbnail": "quests/1438202046804136028/1438980759389077534.jpg",
-            "video_player_video_low_res": "quests/1438202046804136028/1438210245909287143_720.mp4",
-            "video_player_caption": "quests/1438202046804136028/1438215412520063007.vtt",
-            "video_player_transcript": "quests/1438202046804136028/1438215434066333696.txt",
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://microsoft.com/edge/copilot-mode?form=MW01C5&OCID=MW01C5",
-          "button_label": "Mehr erfahren",
-          "subtitle": "Copilot Mode in Edge"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
       "id": "1438642430571315290",
       "config": {
         "id": "1438642430571315290",
@@ -4028,6 +3744,150 @@
         "cta_config": {
           "link": "https://store.steampowered.com/app/2781620/Risk_of_Rain_2_Alloyed_Collective/",
           "button_label": "Spiel starten"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
+      "id": "1438202046804136028",
+      "config": {
+        "id": "1438202046804136028",
+        "config_version": 2,
+        "starts_at": "2025-11-17T18:00:28+00:00",
+        "expires_at": "2025-12-18T00:00:28+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://microsoft.com/edge/copilot-mode?form=MW01C5&OCID=MW01C5",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1438202046804136028/1438203974313574581.jpg",
+          "hero_video": "quests/1438202046804136028/1438204079594541057.mp4",
+          "quest_bar_hero": "quests/1438202046804136028/1438203998652862494.jpg",
+          "quest_bar_hero_video": "quests/1438202046804136028/1438204079594541057.mp4",
+          "game_tile": "1438583219338612776.png",
+          "logotype": "1440412013779095624.png",
+          "game_tile_light": "quests/1438202046804136028/1438583145808003123.png",
+          "game_tile_dark": "quests/1438202046804136028/1438583145808003123.png",
+          "logotype_light": "quests/1438202046804136028/1440411991385706693.png",
+          "logotype_dark": "quests/1438202046804136028/1440411967222321182.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Microsoft Edge - Your AI Browser",
+          "game_title": "Microsoft Edge",
+          "game_publisher": "Microsoft Edge"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "WATCH_VIDEO": {
+              "event_name": "WATCH_VIDEO",
+              "target": 29
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1438202046804136028/1438210245909287143_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1438202046804136028/1438980759389077534.jpg",
+                  "caption": "quests/1438202046804136028/1438215412520063007.vtt",
+                  "transcript": "quests/1438202046804136028/1438215434066333696.txt"
+                },
+                "video_low_res": {
+                  "url": "quests/1438202046804136028/1438210245909287143_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1438202046804136028/1438980759389077534.jpg",
+                  "caption": "quests/1438202046804136028/1438215412520063007.vtt",
+                  "transcript": "quests/1438202046804136028/1438215434066333696.txt"
+                },
+                "video_hls": {
+                  "url": "quests/1438202046804136028/1438210245909287143.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1438202046804136028/1438980759389077534.jpg",
+                  "caption": "quests/1438202046804136028/1438215412520063007.vtt",
+                  "transcript": "quests/1438202046804136028/1438215434066333696.txt"
+                }
+              },
+              "messages": {
+                "video_title": "Meet Copilot Mode in Edge: Your AI Browser",
+                "video_end_cta_subtitle": "Copilot Mode in Edge",
+                "video_end_cta_button_label": "Mehr erfahren"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "Default"
+                }
+              },
+              "orb_quantity": 700
+            }
+          ],
+          "rewards_expire_at": "2026-01-17T00:00:28+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "video_metadata": {
+          "messages": {
+            "video_title": "Meet Copilot Mode in Edge: Your AI Browser",
+            "video_end_cta_subtitle": "Copilot Mode in Edge",
+            "video_end_cta_button_label": "Mehr erfahren"
+          },
+          "assets": {
+            "video_player_video_hls": "quests/1438202046804136028/1438210245909287143.m3u8",
+            "video_player_video": "quests/1438202046804136028/1438210245909287143_1080.mp4",
+            "video_player_thumbnail": "quests/1438202046804136028/1438980759389077534.jpg",
+            "video_player_video_low_res": "quests/1438202046804136028/1438210245909287143_720.mp4",
+            "video_player_caption": "quests/1438202046804136028/1438215412520063007.vtt",
+            "video_player_transcript": "quests/1438202046804136028/1438215434066333696.txt",
+            "quest_bar_preview_video": null,
+            "quest_bar_preview_thumbnail": null,
+            "quest_home_video": null
+          }
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://microsoft.com/edge/copilot-mode?form=MW01C5&OCID=MW01C5",
+          "button_label": "Mehr erfahren",
+          "subtitle": "Copilot Mode in Edge"
         }
       },
       "user_status": null,
@@ -5804,10 +5664,6 @@
     },
     {
       "id": "1440784653471453227"
-    },
-    {
-      "id": "1435329773197987961",
-      "replacement_id": "1434969640194539610"
     },
     {
       "id": "1440110322147917884"
