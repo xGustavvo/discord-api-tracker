@@ -3196,149 +3196,6 @@
       "preview": false
     },
     {
-      "id": "1435324548827451605",
-      "config": {
-        "id": "1435324548827451605",
-        "config_version": 2,
-        "starts_at": "2025-11-05T18:00:19+00:00",
-        "expires_at": "2025-11-16T00:00:19+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://pokemon-go.onelink.me/nBRb/niwqoq43",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1435324548827451605/1435341288676524256.jpg",
-          "hero_video": "quests/1435324548827451605/1435681028697227304.mp4",
-          "quest_bar_hero": "quests/1435324548827451605/1435341474106441881.jpg",
-          "quest_bar_hero_video": "quests/1435324548827451605/1435681028697227304.mp4",
-          "game_tile": "1435341895105511605.png",
-          "logotype": "1435341894048682056.png",
-          "game_tile_light": "quests/1435324548827451605/1435341128911294564.png",
-          "game_tile_dark": "quests/1435324548827451605/1435341128911294564.png",
-          "logotype_light": "quests/1435324548827451605/1435341163170103306.png",
-          "logotype_dark": "quests/1435324548827451605/1435341163170103306.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "GO Wild Area 2025",
-          "game_title": "Pokémon GO",
-          "game_publisher": "Niantic Labs"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "WATCH_VIDEO_ON_MOBILE": {
-              "event_name": "WATCH_VIDEO_ON_MOBILE",
-              "target": 29
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1435324548827451605/1435342526792994817_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1435324548827451605/1435342666941599825.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1435324548827451605/1435342526792994817_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1435324548827451605/1435342666941599825.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1435324548827451605/1435342526792994817.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1435324548827451605/1435342666941599825.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "Pokémon Go Wild Area 2025",
-                "video_end_cta_title": "Pokémon Go",
-                "video_end_cta_subtitle": "Pokémon Go Wild Area 2025",
-                "video_end_cta_button_label": "Herunterladen"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 1,
-              "sku_id": "1435324548827451606",
-              "asset": "quests/1435324548827451605/1435327164047167508.png",
-              "asset_video": null,
-              "messages": {
-                "name": "200 Max Particles!",
-                "name_with_article": "200 Max Particles!",
-                "redemption_instructions_by_platform": {
-                  "0": "To redeem an offer code on the web:  \n1. Visit this website: https://store.pokemongo.com/offer-redemption  \n2. Log in using the same credentials you use to access your Pokémon GO account.  \n3. Enter your offer code.  \n4. After successfully redeeming an offer code, a message will display the items added to your inventory.  \n\n**The redemption code will expire on November 16, 2025, at 08:00 AM UTC (12:00 AM PST). We highly recommend redeeming it as soon as possible.**\n"
-                }
-              },
-              "approximate_count": null,
-              "redemption_link": null
-            }
-          ],
-          "rewards_expire_at": "2025-12-16T00:00:19+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "video_metadata": {
-          "messages": {
-            "video_title": "Pokémon Go Wild Area 2025",
-            "video_end_cta_title": "Pokémon Go",
-            "video_end_cta_subtitle": "Pokémon Go Wild Area 2025",
-            "video_end_cta_button_label": "Herunterladen"
-          },
-          "assets": {
-            "video_player_video_hls": "quests/1435324548827451605/1435342526792994817.m3u8",
-            "video_player_video": "quests/1435324548827451605/1435342526792994817_1080.mp4",
-            "video_player_thumbnail": "quests/1435324548827451605/1435342666941599825.jpg",
-            "video_player_video_low_res": "quests/1435324548827451605/1435342526792994817_720.mp4",
-            "video_player_caption": null,
-            "video_player_transcript": null,
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://pokemon-go.onelink.me/nBRb/niwqoq43",
-          "button_label": "Herunterladen",
-          "subtitle": "Pokémon Go Wild Area 2025"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
       "id": "1437537235133005914",
       "config": {
         "id": "1437537235133005914",
@@ -4149,48 +4006,40 @@
       "preview": false
     },
     {
-      "id": "1435003145339273317",
+      "id": "1447665727824724068",
       "config": {
-        "id": "1435003145339273317",
+        "id": "1447665727824724068",
         "config_version": 2,
-        "starts_at": "2025-11-06T00:10:10+00:00",
-        "expires_at": "2025-11-16T00:00:10+00:00",
+        "starts_at": "2025-12-12T18:00:45+00:00",
+        "expires_at": "2025-12-24T07:59:45+00:00",
         "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
+          15
         ],
         "application": {
-          "link": "https://www.runningmanmovie.com/",
+          "link": "https://www.exodusgame.com/?utm_source=discord&utm_medium=paid&utm_campaign=paid_tgas&utm_content=tgavideo&utm_term=generalgaming#wishlist",
           "id": "545364944258990091",
           "name": "Discord"
         },
         "assets": {
-          "hero": "quests/1435003145339273317/1435006661000691792.jpg",
-          "hero_video": "quests/1435003145339273317/1435007074516996166.mp4",
-          "quest_bar_hero": "quests/1435003145339273317/1435007045484020026.jpg",
-          "quest_bar_hero_video": "quests/1435003145339273317/1435007074516996166.mp4",
-          "game_tile": "1435007291706310806.png",
-          "logotype": "1435007290532167953.png",
-          "game_tile_light": "quests/1435003145339273317/1435007244151427082.png",
-          "game_tile_dark": "quests/1435003145339273317/1435007244151427082.png",
-          "logotype_light": "quests/1435003145339273317/1435007167596986398.png",
-          "logotype_dark": "quests/1435003145339273317/1435007195522666617.png"
+          "hero": "quests/1447665727824724068/1447668037246259290.jpeg",
+          "hero_video": "quests/1447665727824724068/1447667965838495925.mp4",
+          "quest_bar_hero": "quests/1447665727824724068/1447667898226053222.jpg",
+          "quest_bar_hero_video": "quests/1447665727824724068/1447667965838495925.mp4",
+          "game_tile": "1447668234521411584.png",
+          "logotype": "1447683945599860787.png",
+          "game_tile_light": "quests/1447665727824724068/1447668189629644851.png",
+          "game_tile_dark": "quests/1447665727824724068/1447668189629644851.png",
+          "logotype_light": "quests/1447665727824724068/1447683833150570666.png",
+          "logotype_dark": "quests/1447665727824724068/1447683833150570666.png"
         },
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#4752C4",
           "secondary": "#000000"
         },
         "messages": {
-          "quest_name": "The Running Man",
-          "game_title": "Only in Theaters November 14",
-          "game_publisher": "Paramount Pictures"
+          "quest_name": "EXODUS™ Trailer",
+          "game_title": "EXODUS™",
+          "game_publisher": "Wizards of the Coast"
         },
         "task_config": {
           "type": 1,
@@ -4198,7 +4047,11 @@
           "tasks": {
             "WATCH_VIDEO": {
               "event_name": "WATCH_VIDEO",
-              "target": 148
+              "target": 29
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "event_name": "WATCH_VIDEO_ON_MOBILE",
+              "target": 29
             }
           }
         },
@@ -4206,38 +4059,56 @@
           "tasks": {
             "WATCH_VIDEO": {
               "type": "WATCH_VIDEO",
-              "target": 148,
+              "target": 29,
               "assets": {
                 "video": {
-                  "url": "quests/1435003145339273317/1435007485353263315_1080.mp4",
+                  "url": "quests/1447665727824724068/1447668508140896256_1080.mp4",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1435003145339273317/1435007724961271808.jpg",
-                  "caption": "quests/1435003145339273317/1435783066026115092.vtt",
-                  "transcript": "quests/1435003145339273317/1435783110628479047.txt"
+                  "thumbnail": "quests/1447665727824724068/1447670047580491806.png"
                 },
                 "video_low_res": {
-                  "url": "quests/1435003145339273317/1435007485353263315_720.mp4",
+                  "url": "quests/1447665727824724068/1447668508140896256_720.mp4",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1435003145339273317/1435007724961271808.jpg",
-                  "caption": "quests/1435003145339273317/1435783066026115092.vtt",
-                  "transcript": "quests/1435003145339273317/1435783110628479047.txt"
+                  "thumbnail": "quests/1447665727824724068/1447670047580491806.png"
                 },
                 "video_hls": {
-                  "url": "quests/1435003145339273317/1435007485353263315.m3u8",
+                  "url": "quests/1447665727824724068/1447668508140896256.m3u8",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1435003145339273317/1435007724961271808.jpg",
-                  "caption": "quests/1435003145339273317/1435783066026115092.vtt",
-                  "transcript": "quests/1435003145339273317/1435783110628479047.txt"
+                  "thumbnail": "quests/1447665727824724068/1447670047580491806.png"
                 }
               },
               "messages": {
-                "video_title": "The Running Man Trailer",
-                "video_end_cta_title": " The Running Man",
-                "video_end_cta_subtitle": " The Running Man Only in Theaters November 14",
-                "video_end_cta_button_label": "Tickets kaufen"
+                "video_title": "EXODUS | “Der Aufstieg von Jun Aslan” Trailer"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1447665727824724068/1447670382189346917_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1447665727824724068/1447670047580491806.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1447665727824724068/1447670382189346917_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1447665727824724068/1447670047580491806.png"
+                },
+                "video_hls": {
+                  "url": "quests/1447665727824724068/1447670382189346917.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1447665727824724068/1447670047580491806.png"
+                }
+              },
+              "messages": {
+                "video_title": "EXODUS | “Der Aufstieg von Jun Aslan” Trailer"
               }
             }
           },
@@ -4250,8 +4121,8 @@
               "type": 4,
               "sku_id": "1287881739531976815",
               "messages": {
-                "name": "700 orbs",
-                "name_with_article": "700 orbs",
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
                 "redemption_instructions_by_platform": {
                   "0": "Default"
                 }
@@ -4259,25 +4130,24 @@
               "orb_quantity": 700
             }
           ],
-          "rewards_expire_at": "2025-12-16T00:00:10+00:00",
+          "rewards_expire_at": "2026-01-23T07:59:45+00:00",
           "platforms": [
             0
           ]
         },
         "video_metadata": {
           "messages": {
-            "video_title": "The Running Man Trailer",
-            "video_end_cta_title": " The Running Man",
-            "video_end_cta_subtitle": " The Running Man Only in Theaters November 14",
-            "video_end_cta_button_label": "Tickets kaufen"
+            "video_title": "EXODUS | “Der Aufstieg von Jun Aslan” Trailer",
+            "video_end_cta_subtitle": "Dein EXODUS beginnt Anfang 2027.",
+            "video_end_cta_button_label": "Jetzt zur Wunschliste hinzufügen"
           },
           "assets": {
-            "video_player_video_hls": "quests/1435003145339273317/1435007485353263315.m3u8",
-            "video_player_video": "quests/1435003145339273317/1435007485353263315_1080.mp4",
-            "video_player_thumbnail": "quests/1435003145339273317/1435007724961271808.jpg",
-            "video_player_video_low_res": "quests/1435003145339273317/1435007485353263315_720.mp4",
-            "video_player_caption": "quests/1435003145339273317/1435783066026115092.vtt",
-            "video_player_transcript": "quests/1435003145339273317/1435783110628479047.txt",
+            "video_player_video_hls": "quests/1447665727824724068/1447668391228997702.m3u8",
+            "video_player_video": "quests/1447665727824724068/1447668391228997702_1080.mp4",
+            "video_player_thumbnail": "quests/1447665727824724068/1447669970858151976.png",
+            "video_player_video_low_res": "quests/1447665727824724068/1447668391228997702_720.mp4",
+            "video_player_caption": null,
+            "video_player_transcript": null,
             "quest_bar_preview_video": null,
             "quest_bar_preview_thumbnail": null,
             "quest_home_video": null
@@ -4285,9 +4155,9 @@
         },
         "share_policy": "shareable_everywhere",
         "cta_config": {
-          "link": "https://www.runningmanmovie.com/",
-          "button_label": "Tickets kaufen",
-          "subtitle": " The Running Man Only in Theaters November 14"
+          "link": "https://www.exodusgame.com/?utm_source=discord&utm_medium=paid&utm_campaign=paid_tgas&utm_content=tgavideo&utm_term=generalgaming#wishlist",
+          "button_label": "Jetzt zur Wunschliste hinzufügen",
+          "subtitle": "Dein EXODUS beginnt Anfang 2027."
         }
       },
       "user_status": null,
@@ -4546,165 +4416,6 @@
         "cta_config": {
           "link": "https://pathofexile2.com/",
           "button_label": "Spiel starten"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
-      "id": "1447665727824724068",
-      "config": {
-        "id": "1447665727824724068",
-        "config_version": 2,
-        "starts_at": "2025-12-12T18:00:45+00:00",
-        "expires_at": "2025-12-24T07:59:45+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://www.exodusgame.com/?utm_source=discord&utm_medium=paid&utm_campaign=paid_tgas&utm_content=tgavideo&utm_term=generalgaming#wishlist",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1447665727824724068/1447668037246259290.jpeg",
-          "hero_video": "quests/1447665727824724068/1447667965838495925.mp4",
-          "quest_bar_hero": "quests/1447665727824724068/1447667898226053222.jpg",
-          "quest_bar_hero_video": "quests/1447665727824724068/1447667965838495925.mp4",
-          "game_tile": "1447668234521411584.png",
-          "logotype": "1447683945599860787.png",
-          "game_tile_light": "quests/1447665727824724068/1447668189629644851.png",
-          "game_tile_dark": "quests/1447665727824724068/1447668189629644851.png",
-          "logotype_light": "quests/1447665727824724068/1447683833150570666.png",
-          "logotype_dark": "quests/1447665727824724068/1447683833150570666.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "EXODUS™ Trailer",
-          "game_title": "EXODUS™",
-          "game_publisher": "Wizards of the Coast"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "WATCH_VIDEO": {
-              "event_name": "WATCH_VIDEO",
-              "target": 29
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "event_name": "WATCH_VIDEO_ON_MOBILE",
-              "target": 29
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1447665727824724068/1447668508140896256_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1447665727824724068/1447670047580491806.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1447665727824724068/1447668508140896256_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1447665727824724068/1447670047580491806.png"
-                },
-                "video_hls": {
-                  "url": "quests/1447665727824724068/1447668508140896256.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1447665727824724068/1447670047580491806.png"
-                }
-              },
-              "messages": {
-                "video_title": "EXODUS | “Der Aufstieg von Jun Aslan” Trailer"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1447665727824724068/1447670382189346917_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1447665727824724068/1447670047580491806.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1447665727824724068/1447670382189346917_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1447665727824724068/1447670047580491806.png"
-                },
-                "video_hls": {
-                  "url": "quests/1447665727824724068/1447670382189346917.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1447665727824724068/1447670047580491806.png"
-                }
-              },
-              "messages": {
-                "video_title": "EXODUS | “Der Aufstieg von Jun Aslan” Trailer"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "orb_quantity": 700
-            }
-          ],
-          "rewards_expire_at": "2026-01-23T07:59:45+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "video_metadata": {
-          "messages": {
-            "video_title": "EXODUS | “Der Aufstieg von Jun Aslan” Trailer",
-            "video_end_cta_subtitle": "Dein EXODUS beginnt Anfang 2027.",
-            "video_end_cta_button_label": "Jetzt zur Wunschliste hinzufügen"
-          },
-          "assets": {
-            "video_player_video_hls": "quests/1447665727824724068/1447668391228997702.m3u8",
-            "video_player_video": "quests/1447665727824724068/1447668391228997702_1080.mp4",
-            "video_player_thumbnail": "quests/1447665727824724068/1447669970858151976.png",
-            "video_player_video_low_res": "quests/1447665727824724068/1447668391228997702_720.mp4",
-            "video_player_caption": null,
-            "video_player_transcript": null,
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.exodusgame.com/?utm_source=discord&utm_medium=paid&utm_campaign=paid_tgas&utm_content=tgavideo&utm_term=generalgaming#wishlist",
-          "button_label": "Jetzt zur Wunschliste hinzufügen",
-          "subtitle": "Dein EXODUS beginnt Anfang 2027."
         }
       },
       "user_status": null,
@@ -5642,10 +5353,19 @@
       "replacement_id": "1448436561082585220"
     },
     {
+      "id": "1440778023438909671"
+    },
+    {
+      "id": "1440818151955759144"
+    },
+    {
       "id": "1410358070831480904"
     },
     {
       "id": "1440783598776225994"
+    },
+    {
+      "id": "1440784653471453227"
     },
     {
       "id": "1418350811687419914"
@@ -5664,22 +5384,10 @@
       "id": "1441531686688129115"
     },
     {
-      "id": "1440802449563582494"
-    },
-    {
-      "id": "1438245337184735394"
-    },
-    {
-      "id": "1440778023438909671"
-    },
-    {
-      "id": "1440818151955759144"
-    },
-    {
-      "id": "1440784653471453227"
-    },
-    {
       "id": "1440110322147917884"
+    },
+    {
+      "id": "1440802449563582494"
     }
   ],
   "quest_enrollment_blocked_until": null
