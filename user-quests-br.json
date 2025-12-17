@@ -2053,6 +2053,121 @@
       "preview": false
     },
     {
+      "id": "1445134581761183774",
+      "config": {
+        "id": "1445134581761183774",
+        "config_version": 2,
+        "starts_at": "2025-12-17T18:00:53+00:00",
+        "expires_at": "2025-12-24T00:00:53+00:00",
+        "features": [
+          3,
+          8,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23,
+          27
+        ],
+        "application": {
+          "link": "https://www.amazon.com/gp/video/detail/B0FLSZBRZJ/ref=atv_dp_season_select_s2B0FLSZBRZJ&ref_=dvm_us_c_dig_HNDO_cm",
+          "id": "1438480245844873387",
+          "name": "Fallout Pip-Boy"
+        },
+        "assets": {
+          "hero": "quests/1445134581761183774/1450604716965888030.jpg",
+          "hero_video": "quests/1445134581761183774/1450605154448576512.mp4",
+          "quest_bar_hero": "quests/1445134581761183774/1450604932800708648.jpg",
+          "quest_bar_hero_video": "quests/1445134581761183774/1450605154448576512.mp4",
+          "game_tile": "1450605285575098499.png",
+          "logotype": "1450605284614738140.png",
+          "game_tile_light": "quests/1445134581761183774/1450605270525939794.png",
+          "game_tile_dark": "quests/1445134581761183774/1450605270525939794.png",
+          "logotype_light": "quests/1445134581761183774/1450605222576652472.png",
+          "logotype_dark": "quests/1445134581761183774/1450605247410999348.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Fallout Season 2",
+          "game_title": "Fallout Pip-Boy Activity",
+          "game_publisher": "Amazon Prime Video"
+        },
+        "task_config": {
+          "type": 2,
+          "join_operator": "or",
+          "tasks": {
+            "progress": {
+              "event_name": "progress",
+              "title": "Open your Pip-Boy and watch the Fallout Season Two video to claim the Dinky Avatar Decoration!",
+              "description": "Open your Pip-Boy and watch the Fallout Season Two video to claim the Dinky Avatar Decoration!",
+              "target": 100
+            }
+          },
+          "enrollment_url": "https://www.discord.com",
+          "developer_application_id": "1438480245844873387"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "ACHIEVEMENT_IN_ACTIVITY": {
+              "type": "ACHIEVEMENT_IN_ACTIVITY",
+              "target": 100,
+              "applications": [
+                {
+                  "id": "1438480245844873387"
+                }
+              ],
+              "event_name": "progress",
+              "messages": {
+                "task_title": "Open your Pip-Boy and watch the Fallout Season Two video to claim the Dinky Avatar Decoration!",
+                "task_description": "Open your Pip-Boy and watch the Fallout Season Two video to claim the Dinky Avatar Decoration!"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 3,
+              "sku_id": "1450609480227356755",
+              "asset": "quests/1445134581761183774/1450611339453136926.mp4",
+              "asset_video": null,
+              "messages": {
+                "name": "Dinky Avatar Decoration",
+                "name_with_article": "a Dinky Avatar Decoration",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "expires_at": "2026-02-22T00:00:00+00:00",
+              "expires_at_premium": null,
+              "expiration_mode": 3
+            }
+          ],
+          "rewards_expire_at": "2026-01-23T00:00:53+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.amazon.com/gp/video/detail/B0FLSZBRZJ/ref=atv_dp_season_select_s2B0FLSZBRZJ&ref_=dvm_us_c_dig_HNDO_cm",
+          "button_label": "Mais detalhes",
+          "subtitle": "Open your Pip-Boy and watch the Fallout Season Two video on Desktop to claim the Dinky Avatar Decoration!"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
       "id": "1437518140476100638",
       "config": {
         "id": "1437518140476100638",
@@ -4956,7 +5071,7 @@
         "id": "1447653364048330855",
         "config_version": 2,
         "starts_at": "2025-12-12T01:30:38+00:00",
-        "expires_at": "2025-12-18T00:00:38+00:00",
+        "expires_at": "2025-12-18T07:59:38+00:00",
         "features": [
           15
         ],
@@ -5026,7 +5141,7 @@
               "orb_quantity": 700
             }
           ],
-          "rewards_expire_at": "2026-01-17T00:00:38+00:00",
+          "rewards_expire_at": "2026-01-17T07:59:38+00:00",
           "platforms": [
             0
           ]
