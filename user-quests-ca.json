@@ -360,6 +360,126 @@
       "preview": false
     },
     {
+      "id": "1450241678618394624",
+      "config": {
+        "id": "1450241678618394624",
+        "config_version": 2,
+        "starts_at": "2025-12-18T18:00:40+00:00",
+        "expires_at": "2025-12-29T00:00:40+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://fallout.bethesda.net/en/games?utm_source=10047385&utm_medium=435627056&utm_campaign=34737572&utm_creative=246911328",
+          "id": "512501896896970762",
+          "name": "Fallout 76"
+        },
+        "assets": {
+          "hero": "quests/1450241678618394624/1450606596517396510.jpg",
+          "hero_video": null,
+          "quest_bar_hero": "quests/1450241678618394624/1450871383985750220.jpg",
+          "quest_bar_hero_video": null,
+          "game_tile": "1450242830671806526.png",
+          "logotype": "1450650696658718903.png",
+          "game_tile_light": "quests/1450241678618394624/1450242814469214320.png",
+          "game_tile_dark": "quests/1450241678618394624/1450242814469214320.png",
+          "logotype_light": "quests/1450241678618394624/1450650676693831680.png",
+          "logotype_dark": "quests/1450241678618394624/1450650676693831680.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Fallout",
+          "game_title": "Fallout 4 Anniversary Edition, Fallout 76",
+          "game_publisher": "Bethesda Softworks"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "event_name": "PLAY_ON_DESKTOP",
+              "target": 900
+            },
+            "PLAY_ON_XBOX": {
+              "event_name": "PLAY_ON_XBOX",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "event_name": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "512501896896970762"
+                },
+                {
+                  "id": "359509759642042378"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "512501896896970762"
+                }
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "512501896896970762"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700
+            }
+          ],
+          "rewards_expire_at": "2026-01-28T00:00:40+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://fallout.bethesda.net/en/games?utm_source=10047385&utm_medium=435627056&utm_campaign=34737572&utm_creative=246911328",
+          "button_label": "Learn More"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
       "id": "1447674068815057026",
       "config": {
         "id": "1447674068815057026",
