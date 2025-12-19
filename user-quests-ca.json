@@ -3269,6 +3269,231 @@
       "preview": false
     },
     {
+      "id": "1450554943139217508",
+      "config": {
+        "id": "1450554943139217508",
+        "config_version": 2,
+        "starts_at": "2025-12-19T18:00:28+00:00",
+        "expires_at": "2025-12-27T00:00:28+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.marvelrivals.com/",
+          "id": "1314395942253756416",
+          "name": "Marvel Rivals"
+        },
+        "assets": {
+          "hero": "quests/1450554943139217508/1451612513790591109.jpg",
+          "hero_video": null,
+          "quest_bar_hero": "quests/1450554943139217508/1451612461710053536.jpg",
+          "quest_bar_hero_video": null,
+          "game_tile": "1450556277079019701.png",
+          "logotype": "1450556275929649183.png",
+          "game_tile_light": "quests/1450554943139217508/1450556249673564341.png",
+          "game_tile_dark": "quests/1450554943139217508/1450556249673564341.png",
+          "logotype_light": "quests/1450554943139217508/1450556140743036928.png",
+          "logotype_dark": "quests/1450554943139217508/1450556199073480734.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Marvel Rivals S5.5",
+          "game_title": "Marvel Rivals",
+          "game_publisher": "NetEase Games"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "event_name": "PLAY_ON_DESKTOP",
+              "target": 900
+            },
+            "PLAY_ON_XBOX": {
+              "event_name": "PLAY_ON_XBOX",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "event_name": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1314395942253756416"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1314395942253756416"
+                }
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1314395942253756416"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 3,
+              "sku_id": "1450577109667025088",
+              "asset": "quests/1450554943139217508/1450591937538166936.mp4",
+              "asset_video": null,
+              "messages": {
+                "name": "Jeff Avatar Decoration",
+                "name_with_article": "a Jeff Avatar Decoration",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "expires_at": "2026-02-20T00:00:00+00:00",
+              "expires_at_premium": null,
+              "expiration_mode": 3
+            }
+          ],
+          "rewards_expire_at": "2026-01-26T00:00:28+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.marvelrivals.com/",
+          "button_label": "Get Game"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
+      "id": "1450572280764563556",
+      "config": {
+        "id": "1450572280764563556",
+        "config_version": 2,
+        "starts_at": "2025-12-19T18:30:22+00:00",
+        "expires_at": "2026-01-01T00:00:22+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
+          "id": "1437509662303059998",
+          "name": "Where Winds Meet"
+        },
+        "assets": {
+          "hero": "quests/1450572280764563556/1451316446893441185.jpg",
+          "hero_video": "quests/1450572280764563556/1451316636824109147.mp4",
+          "quest_bar_hero": "quests/1450572280764563556/1451316109532987503.jpg",
+          "quest_bar_hero_video": "quests/1450572280764563556/1451316359156731996.mp4",
+          "game_tile": "1451316907788472452.png",
+          "logotype": "1451316905615823029.png",
+          "game_tile_light": "quests/1450572280764563556/1451316678335004683.png",
+          "game_tile_dark": "quests/1450572280764563556/1451316678335004683.png",
+          "logotype_light": "quests/1450572280764563556/1451316710345801788.png",
+          "logotype_dark": "quests/1450572280764563556/1451316710345801788.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Where Winds Meet Adventure",
+          "game_title": "Where Winds Meet",
+          "game_publisher": "NETEASE"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "event_name": "PLAY_ON_DESKTOP",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "event_name": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1437509662303059998"
+                }
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1437509662303059998"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700
+            }
+          ],
+          "rewards_expire_at": "2026-01-31T00:00:22+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
+          "button_label": "Get Game"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
       "id": "1441429327043493990",
       "config": {
         "id": "1441429327043493990",
