@@ -4978,10 +4978,6 @@
             "WATCH_VIDEO": {
               "event_name": "WATCH_VIDEO",
               "target": 91
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "event_name": "WATCH_VIDEO_ON_MOBILE",
-              "target": 91
             }
           }
         },
@@ -4989,36 +4985,6 @@
           "tasks": {
             "WATCH_VIDEO": {
               "type": "WATCH_VIDEO",
-              "target": 91,
-              "assets": {
-                "video": {
-                  "url": "quests/1445883772816986212/1445890933592817745_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1445883772816986212/1445892509208412282.png",
-                  "caption": "quests/1445883772816986212/1445892567635066952.vtt"
-                },
-                "video_low_res": {
-                  "url": "quests/1445883772816986212/1445890933592817745_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1445883772816986212/1445892509208412282.png",
-                  "caption": "quests/1445883772816986212/1445892567635066952.vtt"
-                },
-                "video_hls": {
-                  "url": "quests/1445883772816986212/1445890933592817745.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1445883772816986212/1445892509208412282.png",
-                  "caption": "quests/1445883772816986212/1445892567635066952.vtt"
-                }
-              },
-              "messages": {
-                "video_title": "What is Warframe? trailer"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
               "target": 91,
               "assets": {
                 "video": {
