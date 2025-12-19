@@ -111919,5 +111919,1432 @@
     "mobile_hero_url": "https://cdn.discordapp.com/assets/content/a1cab78e16b092673129f3619df67bc2470b768c2370856d8e8685bf2c84cb39",
     "mobile_banner_url": "https://cdn.discordapp.com/assets/content/11ad5ebe469036ce7f57367f0f7c39988c7a149c04d03144e351dc823d9a9366",
     "mobile_bg_url": "https://cdn.discordapp.com/assets/content/f084cef5e69e34a13386ed2ea7e43edc4856fe8681c0552c0b3b5e75927e5e10"
+  },
+  {
+    "sku_id": "1447609133141463272",
+    "name": "Avatar",
+    "summary": " ",
+    "store_listing_id": "1447609133137137785",
+    "unpublished_at": null,
+    "styles": {
+      "background_colors": [
+        4012400,
+        3642554
+      ],
+      "button_colors": [
+        5793266,
+        5793266
+      ],
+      "confetti_colors": [
+        43772,
+        15774258,
+        16414587,
+        3000177,
+        9739511
+      ]
+    },
+    "logo": "1447609133153910804",
+    "hero_ranking": [
+      "1447609132822560808",
+      "1447609132839473323",
+      "1447609132860313671",
+      "1447609132889673738",
+      "1447609132763975690",
+      "1447609132935938240",
+      "1447609132965298278",
+      "1447609132986138698",
+      "1447609133011304529",
+      "1447609132793200733",
+      "1447609132801593527",
+      "1447609133061640345",
+      "1447609133086806160",
+      "1447609133111971963"
+    ],
+    "mobile_bg": "1447609133200183316",
+    "pdp_bg": "1447609133179076701",
+    "mobile_banner": "1447609133187469352",
+    "featured_block": "1447609133170823251",
+    "products": [
+      {
+        "sku_id": "1447609132822560808",
+        "name": "Woodsprites Bundle",
+        "summary": "A bundle of collectibles.",
+        "store_listing_id": "1447609132830953634",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            4012400,
+            3642554
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 2399,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 1799,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1447609132977885344",
+            "sku_id": "1447609132965298278",
+            "asset": "a_a53c1f92a2a6eeb44a1a5903706d95d5",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/d46b31997b24472f1f075ef2ecc19436e41d5a29fa98faa11098473ed3f89db1",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/b82382d5e858d5e21e03074f66f397deb31b4ea77901695ea544ced1124f47c3"
+            },
+            "label": "Glowing blue-white jellyfish-like creatures floating gracefully with translucent, bioluminescent bodies."
+          },
+          {
+            "type": 1,
+            "id": "1447609133078413484",
+            "sku_id": "1447609133061640345",
+            "title": "Woodsprites",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Glowing blue-white jellyfish-like creatures floating gracefully with translucent, bioluminescent bodies.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/5e913e4a176e06cdf795b0148398d921b8c20b21a788fc55be9bb9b80c906b97",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/5781c545ad9c714c3565ecacf5bdfa54f386948a595fd9f20e047bfbd0448557",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/assets/content/2458bac6624a754f714f9d309a3e2d25c4a0d37845c0ea788d0ddcde89e71d2a",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 5000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/5944de53bd70e33944b2cee332e4f058a44ce61afe9a513cb311f58b99ef2692",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 5000,
+                "start": 7000,
+                "loopDelay": 2500,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+              }
+            ]
+          },
+          {
+            "type": 2,
+            "id": "1447609133028216842",
+            "sku_id": "1447609133011304529",
+            "asset": "nameplates/gargamel/woodsprite/",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/615d98113610c1453393ee7dce16a3d94bc0d2c3faf9e0a0c87d51a302f0c89f",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/5f94ffaf9e729af66c41c87077ba09d257e828f85287cc2955a075878de6fedb",
+              "video_url": "https://cdn.discordapp.com/assets/content/f8b53feb90a2869ea1c07b1f92ea6d9a7b470deb275a65111f3a58b234ee9d71"
+            },
+            "label": "Purple-to-blue gradient with ethereal white glowing creatures in upper right corner.",
+            "palette": "violet"
+          }
+        ],
+        "type": 1000,
+        "premium_type": 0,
+        "category_sku_id": "1447609133141463272",
+        "bundled_products": [
+          {
+            "sku_id": "1447609132965298278",
+            "name": "Woodsprites",
+            "summary": "Give your avatar a new look.",
+            "type": 0,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 899,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 699,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "sku_id": "1447609133061640345",
+            "name": "Woodsprites",
+            "summary": "Show this effect when others view your profile.",
+            "type": 1,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 899,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 699,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "sku_id": "1447609133011304529",
+            "name": "Woodsprite",
+            "summary": "Make your name stand out in servers and chats.",
+            "type": 2,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 899,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 699,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ],
+        "google_sku_ids": {
+          "5": "1447609132822560808_1448428686037614674",
+          "7": "1447609132822560808_1448428694774218942"
+        }
+      },
+      {
+        "sku_id": "1447609132839473323",
+        "name": "Hallelujah Mountains Bundle",
+        "summary": "A bundle of collectibles.",
+        "store_listing_id": "1447609132851920896",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            4012400,
+            3642554
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 1699,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 1299,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1447609133007376404",
+            "sku_id": "1447609132986138698",
+            "asset": "a_fe187e3369c4f3c37774b06df6a6b684",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/326d0e150dd61c37d07b940529c1ede60dbeac0eaf29c94fee3cba141ad322a9",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/1ab1c664cc188b5a012fe1654a35e109021def798bb082efe500de8953876812"
+            },
+            "label": "Floating moss-covered rocks with waterfalls and lush green vegetation drift in misty blue atmosphere."
+          },
+          {
+            "type": 1,
+            "id": "1447609133103710258",
+            "sku_id": "1447609133086806160",
+            "title": "Hallelujah Mountains",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Floating moss-covered rocks with waterfalls and lush green vegetation drift in misty blue atmosphere.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/e7c6e6cce4d76ceee0f109a0a421a467b34bc7fdc57016977177cb2e5b76bbb2",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/3667df7bf6e80d6ce1f782b7110a90094e20c4eb4e241b9953d33e4a8de237eb",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/assets/content/df221a1db482fc906ba77cc6f8b0cbba949f60cb1a14c064a38326152d811afc",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3750,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/e1b8a19f2eb61f8e5331a05d8960f11805df76ec363bdc752c1a0c4764d48f63",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 5000,
+                "start": 4500,
+                "loopDelay": 4000,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+              }
+            ]
+          }
+        ],
+        "type": 1000,
+        "premium_type": 0,
+        "category_sku_id": "1447609133141463272",
+        "bundled_products": [
+          {
+            "sku_id": "1447609132986138698",
+            "name": "Hallelujah Mountains",
+            "summary": "Give your avatar a new look.",
+            "type": 0,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 899,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 699,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "sku_id": "1447609133086806160",
+            "name": "Hallelujah Mountains",
+            "summary": "Show this effect when others view your profile.",
+            "type": 1,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 899,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 699,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ],
+        "google_sku_ids": {
+          "5": "1447609132839473323_1448427352504664215",
+          "7": "1447609132839473323_1448427358494261330"
+        }
+      },
+      {
+        "sku_id": "1447609132860313671",
+        "name": "Playful Ilu",
+        "summary": "Give your avatar a new look.",
+        "store_listing_id": "1447609132868833432",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            4012400,
+            3642554
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 899,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 699,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1447609132877086872",
+            "sku_id": "1447609132860313671",
+            "asset": "a_c2ec946198832c80b4c79f9be601d600",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/20aa9be9526f2ca87b7fddb21cb8c813d534f02d7e9a6ff43ca790bd72bd9892",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/d096ee9de4cdae85cd34d8d2e5c339fd6f0ff9d9e217d6b7d16736934a66ebc2"
+            },
+            "label": "Sleek blue and purple aquatic creatures with flowing fins circling in dynamic swimming motion."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1447609133141463272",
+        "google_sku_ids": {
+          "5": "1447609132860313671_1448426106351915028",
+          "7": "1447609132860313671_1448426114471956502"
+        }
+      },
+      {
+        "sku_id": "1447609132889673738",
+        "name": "Nightwraith",
+        "summary": "Give your avatar a new look.",
+        "store_listing_id": "1447609132898193489",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            4012400,
+            3642554
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 899,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 699,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1447609132906447020",
+            "sku_id": "1447609132889673738",
+            "asset": "a_9eaaf9cd10824e3856b65e85b490c056",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/9740ac1f3152f10ac69b9e3ef57d52ed8dd1987fe7b2a39279d5573f771c99eb",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/4a46be416c5aff2be5f1a208952a168915b26e65aac420ae546c8c4ed2bb314f"
+            },
+            "label": "Warm orange-to-pink glowing halo crowns the avatar as a winged beast flies across, with rocky formation wrapping around the bottom."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1447609133141463272",
+        "google_sku_ids": {
+          "5": "1447609132889673738_1448427174154731713",
+          "7": "1447609132889673738_1448427185466642534"
+        }
+      },
+      {
+        "sku_id": "1447609132763975690",
+        "name": "Pandoran Seas",
+        "summary": "Give your avatar a new look.",
+        "store_listing_id": "1447609132919033866",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            4012400,
+            3642554
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 899,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 699,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1447609132927553586",
+            "sku_id": "1447609132763975690",
+            "asset": "a_d2bf761ee4331af2b64ff9294ecf229f",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/fbd655cb9782bce330ca877a407a9ebc548cee24851fbfb7e848a0e1b4404157",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/246a0a3c3b35c56ae19c70ba98dfacae04018a64e26013b070b632b17efefeda"
+            },
+            "label": "Vibrant underwater scene with electric blue coral, glowing yellow creatures, and luminous sea life."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1447609133141463272",
+        "google_sku_ids": {
+          "5": "1447609132763975690_1448427238646087872",
+          "7": "1447609132763975690_1448427243155230902"
+        }
+      },
+      {
+        "sku_id": "1447609132935938240",
+        "name": "The Wind Traders",
+        "summary": "Give your avatar a new look.",
+        "store_listing_id": "1447609132944199820",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            4012400,
+            3642554
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 899,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 699,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1447609132952719591",
+            "sku_id": "1447609132935938240",
+            "asset": "a_718ff5ab6804a14ccca4cf2f95de0e4e",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/f4b0f0782ac790c4dfeba18d312281d34ed3b285a2aff066ffb96f5ea11c4947",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/046a07f2a43b60f43de3d78e7bacfda7f83d9face2df6db5c0120fe61038474f"
+            },
+            "label": "Flotillas float in the sky at twilight, drifting upward against a sunset sky."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1447609133141463272",
+        "google_sku_ids": {
+          "5": "1447609132935938240_1448427722023112734",
+          "7": "1447609132935938240_1448427727219724378"
+        }
+      },
+      {
+        "sku_id": "1447609132965298278",
+        "name": "Woodsprites",
+        "summary": "Give your avatar a new look.",
+        "store_listing_id": "1447609132973559848",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            4012400,
+            3642554
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 899,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 699,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1447609132977885344",
+            "sku_id": "1447609132965298278",
+            "asset": "a_a53c1f92a2a6eeb44a1a5903706d95d5",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/d46b31997b24472f1f075ef2ecc19436e41d5a29fa98faa11098473ed3f89db1",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/b82382d5e858d5e21e03074f66f397deb31b4ea77901695ea544ced1124f47c3"
+            },
+            "label": "Glowing blue-white jellyfish-like creatures floating gracefully with translucent, bioluminescent bodies."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1447609133141463272",
+        "google_sku_ids": {
+          "5": "1447609132965298278_1448425790663557201",
+          "7": "1447609132965298278_1448425795809972335"
+        }
+      },
+      {
+        "sku_id": "1447609132986138698",
+        "name": "Hallelujah Mountains",
+        "summary": "Give your avatar a new look.",
+        "store_listing_id": "1447609132994531499",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            4012400,
+            3642554
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 899,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 699,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1447609133007376404",
+            "sku_id": "1447609132986138698",
+            "asset": "a_fe187e3369c4f3c37774b06df6a6b684",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/326d0e150dd61c37d07b940529c1ede60dbeac0eaf29c94fee3cba141ad322a9",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/1ab1c664cc188b5a012fe1654a35e109021def798bb082efe500de8953876812"
+            },
+            "label": "Floating moss-covered rocks with waterfalls and lush green vegetation drift in misty blue atmosphere."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1447609133141463272",
+        "google_sku_ids": {
+          "5": "1447609132986138698_1448428495385526282",
+          "7": "1447609132986138698_1448428505049071777"
+        }
+      },
+      {
+        "sku_id": "1447609133011304529",
+        "name": "Woodsprite",
+        "summary": "Make your name stand out in servers and chats.",
+        "store_listing_id": "1447609133019955361",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            4012400,
+            3642554
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 899,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 699,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 2,
+            "id": "1447609133028216842",
+            "sku_id": "1447609133011304529",
+            "asset": "nameplates/gargamel/woodsprite/",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/615d98113610c1453393ee7dce16a3d94bc0d2c3faf9e0a0c87d51a302f0c89f",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/5f94ffaf9e729af66c41c87077ba09d257e828f85287cc2955a075878de6fedb",
+              "video_url": "https://cdn.discordapp.com/assets/content/f8b53feb90a2869ea1c07b1f92ea6d9a7b470deb275a65111f3a58b234ee9d71"
+            },
+            "label": "Purple-to-blue gradient with ethereal white glowing creatures in upper right corner.",
+            "palette": "violet"
+          }
+        ],
+        "type": 2,
+        "premium_type": 0,
+        "category_sku_id": "1447609133141463272",
+        "google_sku_ids": {
+          "5": "1447609133011304529_1448426184588398717",
+          "7": "1447609133011304529_1448426191521316905"
+        }
+      },
+      {
+        "sku_id": "1447609132793200733",
+        "name": "Pandoran Seas (Squid)",
+        "summary": "Make your name stand out in servers and chats.",
+        "store_listing_id": "1447609133036601385",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            4012400,
+            3642554
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 899,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 699,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 2,
+            "id": "1447609133040668814",
+            "sku_id": "1447609132793200733",
+            "asset": "nameplates/gargamel/pandoran_seas_squid/",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/ffd2e806367a907aabd2e1e4d0e82b01c21d9a6897745c3f42d3d20cc9b78d51",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/94cfa031a2e232419f07fe0d436db4728991ab5cd56c6da1d620de14537a0dbd",
+              "video_url": "https://cdn.discordapp.com/assets/content/f866b116654315e0a22e1dfb251f17d78e7e68b9520c09e0192bee4c233f5196"
+            },
+            "label": "Bright blue aquatic environment with swimming creature surrounded by glowing underwater coral on right.",
+            "palette": "sky"
+          }
+        ],
+        "type": 2,
+        "premium_type": 0,
+        "category_sku_id": "1447609133141463272",
+        "google_sku_ids": {
+          "5": "1447609132793200733_1448426775045734481",
+          "7": "1447609132793200733_1448426780254801960"
+        }
+      },
+      {
+        "sku_id": "1447609132801593527",
+        "name": "Pandoran Seas (Ilu)",
+        "summary": "Make your name stand out in servers and chats.",
+        "store_listing_id": "1447609133049188432",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            4012400,
+            3642554
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 899,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 699,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 2,
+            "id": "1447609133057441792",
+            "sku_id": "1447609132801593527",
+            "asset": "nameplates/gargamel/pandoran_seas_ilu/",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/054a08d3ac739dd6d40e2ee3efc250a06dc0bdc9f04bd25954278134a678316e",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/c22ee11a2fdc124de799dfef6b6342aa97d39d9b885b9f0e921032e02c8ccc65",
+              "video_url": "https://cdn.discordapp.com/assets/content/7a24e8911b65c4a4b9c591a3d5605018b11ed159473f66021ea604bdb1ef17a8"
+            },
+            "label": "Turquoise underwater scene with glowing yellow creatures swimming among bioluminescent coral on right.",
+            "palette": "sky"
+          }
+        ],
+        "type": 2,
+        "premium_type": 0,
+        "category_sku_id": "1447609133141463272",
+        "google_sku_ids": {
+          "5": "1447609132801593527_1448428193009631242",
+          "7": "1447609132801593527_1448428197782884657"
+        }
+      },
+      {
+        "sku_id": "1447609133061640345",
+        "name": "Woodsprites",
+        "summary": "Show this effect when others view your profile.",
+        "store_listing_id": "1447609133074354176",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            4012400,
+            3642554
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 899,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 699,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 1,
+            "id": "1447609133078413484",
+            "sku_id": "1447609133061640345",
+            "title": "Woodsprites",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Glowing blue-white jellyfish-like creatures floating gracefully with translucent, bioluminescent bodies.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/5e913e4a176e06cdf795b0148398d921b8c20b21a788fc55be9bb9b80c906b97",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/5781c545ad9c714c3565ecacf5bdfa54f386948a595fd9f20e047bfbd0448557",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/assets/content/2458bac6624a754f714f9d309a3e2d25c4a0d37845c0ea788d0ddcde89e71d2a",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 5000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/5944de53bd70e33944b2cee332e4f058a44ce61afe9a513cb311f58b99ef2692",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 5000,
+                "start": 7000,
+                "loopDelay": 2500,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+              }
+            ]
+          }
+        ],
+        "type": 1,
+        "premium_type": 0,
+        "category_sku_id": "1447609133141463272",
+        "google_sku_ids": {
+          "5": "1447609133061640345_1448425791665995909",
+          "7": "1447609133061640345_1448425798322229534"
+        }
+      },
+      {
+        "sku_id": "1447609133086806160",
+        "name": "Hallelujah Mountains",
+        "summary": "Show this effect when others view your profile.",
+        "store_listing_id": "1447609133095325748",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            4012400,
+            3642554
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 899,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 699,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 1,
+            "id": "1447609133103710258",
+            "sku_id": "1447609133086806160",
+            "title": "Hallelujah Mountains",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Floating moss-covered rocks with waterfalls and lush green vegetation drift in misty blue atmosphere.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/e7c6e6cce4d76ceee0f109a0a421a467b34bc7fdc57016977177cb2e5b76bbb2",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/3667df7bf6e80d6ce1f782b7110a90094e20c4eb4e241b9953d33e4a8de237eb",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/assets/content/df221a1db482fc906ba77cc6f8b0cbba949f60cb1a14c064a38326152d811afc",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3750,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/e1b8a19f2eb61f8e5331a05d8960f11805df76ec363bdc752c1a0c4764d48f63",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 5000,
+                "start": 4500,
+                "loopDelay": 4000,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+              }
+            ]
+          }
+        ],
+        "type": 1,
+        "premium_type": 0,
+        "category_sku_id": "1447609133141463272",
+        "google_sku_ids": {
+          "5": "1447609133086806160_1448425539793850460",
+          "7": "1447609133086806160_1448425544428425379"
+        }
+      },
+      {
+        "sku_id": "1447609133111971963",
+        "name": "Nightwraith",
+        "summary": "Show this effect when others view your profile.",
+        "store_listing_id": "1447609133120491600",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            4012400,
+            3642554
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 899,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 699,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 1,
+            "id": "1447609133128876184",
+            "sku_id": "1447609133111971963",
+            "title": "Nightwraith",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Warm orange-to-pink radiant glow surrounds the profile as a winged beast flies above rocky formations.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/0aef52b311a460f6541e8a373ba08680a925ae1da3470fcf26986814716a6acb",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/cf7d853d33525b22029cd2cedc111e15991dfb5082827334a77105e28ca74a9c",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/assets/content/4ade9caa615b3342f557a13f786eef3c4a5eb9f9c236a2b3ed92fbea080d902a",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 5000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/91f1cb0eacbaa5337bfa811e0c43998fc820c95e963164a992a71b0837552677",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 5000,
+                "start": 7000,
+                "loopDelay": 3500,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+              }
+            ]
+          }
+        ],
+        "type": 1,
+        "premium_type": 0,
+        "category_sku_id": "1447609133141463272",
+        "google_sku_ids": {
+          "5": "1447609133111971963_1448425753145381035",
+          "7": "1447609133111971963_1448425758736515225"
+        }
+      }
+    ],
+    "catalog_banner_asset": {
+      "animated": "https://cdn.discordapp.com/assets/content/8a4cc9c907ea099c2824c2445e24bb301dac92427b08ddc4950e5bd9ee84eaaa",
+      "static": "https://cdn.discordapp.com/assets/content/7e111173bfd7a03a00cd5cedd944f6a8489f924723982f918dcb49d8f6d1df99"
+    },
+    "hero_banner_asset": {
+      "animated": "https://cdn.discordapp.com/assets/content/5029a9a78bdc28cef510f1bfdac9addb8b88664ecd81902baccba38d3e1104b0",
+      "static": "https://cdn.discordapp.com/assets/content/91ad10ae4c2bcc9cc8ea1e5370056b1625ccc3fb7393216381e9ebf55dcf2836"
+    },
+    "hero_banner_config": {
+      "responsive": true,
+      "background_style": "linear-gradient(to bottom, rgba(61, 57, 112, 1), rgba(55, 148, 186, 1))"
+    },
+    "hero_logo": "1447609133162303539",
+    "hero_banner_url": "https://cdn.discordapp.com/assets/content/91ad10ae4c2bcc9cc8ea1e5370056b1625ccc3fb7393216381e9ebf55dcf2836",
+    "hero_banner_animated_url": "https://cdn.discordapp.com/assets/content/5029a9a78bdc28cef510f1bfdac9addb8b88664ecd81902baccba38d3e1104b0",
+    "hero_logo_url": "https://cdn.discordapp.com/assets/content/4de4d81735b5c9db1dcac8ccb3b852792bc8d42f93eac8a271337a8c31ada80f",
+    "catalog_banner_url": "https://cdn.discordapp.com/assets/content/7e111173bfd7a03a00cd5cedd944f6a8489f924723982f918dcb49d8f6d1df99",
+    "catalog_banner_animated_url": "https://cdn.discordapp.com/assets/content/8a4cc9c907ea099c2824c2445e24bb301dac92427b08ddc4950e5bd9ee84eaaa",
+    "featured_block_url": "https://cdn.discordapp.com/assets/content/d9a46bd94f8880c18e2b36c5142649545d4927d1e2cf8a53fe700e83499efbe5",
+    "logo_url": "https://cdn.discordapp.com/assets/content/cbbbad3783d86075e44c6459b2d4c8539b44a4edbcebdce8c0e4be2588687ca8",
+    "pdp_bg_url": "https://cdn.discordapp.com/assets/content/197ab34351c0c052920b286255f43b6cb12989f05be1cdb8b8f3d1e2368636bc",
+    "mobile_hero_url": "https://cdn.discordapp.com/assets/content/a1250840d4b5b323bba76a7480d2bdeb82b1a6a7c4fa2ba514f3baae7ee65634",
+    "mobile_banner_url": "https://cdn.discordapp.com/assets/content/ec175dcc882bc6d5fdcfd91dfe7eae0f23b16a9fcac7cebc6a756df47b34e25d",
+    "mobile_bg_url": "https://cdn.discordapp.com/assets/content/5b61ec345561fafb99e5c0475df27dbfad5b873db2da7a00ab951a7f2eade10f",
+    "hero_banner_display_config": {
+      "desktop_max_height": null,
+      "mobile_max_height": null,
+      "responsive": true,
+      "background_style": "linear-gradient(to bottom, rgba(61, 57, 112, 1), rgba(55, 148, 186, 1))"
+    }
   }
 ]
