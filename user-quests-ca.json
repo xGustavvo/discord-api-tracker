@@ -1,137 +1,6 @@
 {
   "quests": [
     {
-      "id": "1448423146049896448",
-      "config": {
-        "id": "1448423146049896448",
-        "config_version": 2,
-        "starts_at": "2025-12-12T18:00:28+00:00",
-        "expires_at": "2025-12-27T00:00:28+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://xbox.com/gamepass",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1448423146049896448/1448432733079732396.jpg",
-          "hero_video": "quests/1448423146049896448/1448433030728384764.mp4",
-          "quest_bar_hero": "quests/1448423146049896448/1448433170482598112.jpg",
-          "quest_bar_hero_video": "quests/1448423146049896448/1448433030728384764.mp4",
-          "game_tile": "1448433195606605856.png",
-          "logotype": "1448433194683596860.png",
-          "game_tile_light": "quests/1448423146049896448/1448432777052688535.png",
-          "game_tile_dark": "quests/1448423146049896448/1448432777052688535.png",
-          "logotype_light": "quests/1448423146049896448/1448432814142914652.png",
-          "logotype_dark": "quests/1448423146049896448/1448432814142914652.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Xbox Game Pass",
-          "game_title": "Xbox Game Pass",
-          "game_publisher": "Xbox Game Pass"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "WATCH_VIDEO": {
-              "event_name": "WATCH_VIDEO",
-              "target": 69
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 69,
-              "assets": {
-                "video": {
-                  "url": "quests/1448423146049896448/1448426626680619138_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1448423146049896448/1448427663092875275.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1448423146049896448/1448426626680619138_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1448423146049896448/1448427663092875275.png"
-                },
-                "video_hls": {
-                  "url": "quests/1448423146049896448/1448426626680619138.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1448423146049896448/1448427663092875275.png"
-                }
-              },
-              "messages": {
-                "video_title": "Xbox Game Pass Premium trailer"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 1,
-              "sku_id": "1448423146049896449",
-              "asset": "quests/1448423146049896448/1448433317199220910.jpg",
-              "asset_video": null,
-              "messages": {
-                "name": "Claim a 14-day Trial of Xbox Game Pass",
-                "name_with_article": "a 14-day Trial of Xbox Game Pass",
-                "redemption_instructions_by_platform": {
-                  "0": "**Redeem at microsoft.com/redeem by January 15,2026 11:59 PM PST.** \n\nValid for new Xbox Game Pass subscribers only. Valid payment method required. Unless you cancel, you will be charged the then-current regular membership rate when the promotional period ends. Limit: 1 per person/account. \n\n**Subject to the Microsoft Services Agreement, Game Pass terms and system requirements at: xbox.com/subscriptionterms. ** "
-                }
-              },
-              "approximate_count": null,
-              "redemption_link": null
-            }
-          ],
-          "rewards_expire_at": "2026-01-26T00:00:28+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "video_metadata": {
-          "messages": {
-            "video_title": "Xbox Game Pass Premium trailer",
-            "video_end_cta_subtitle": "Claim a 14-day Trial of Xbox Game Pass Premium",
-            "video_end_cta_button_label": "Learn More"
-          },
-          "assets": {
-            "video_player_video_hls": "quests/1448423146049896448/1448426626680619138.m3u8",
-            "video_player_video": "quests/1448423146049896448/1448426626680619138_1080.mp4",
-            "video_player_thumbnail": "quests/1448423146049896448/1448427663092875275.png",
-            "video_player_video_low_res": "quests/1448423146049896448/1448426626680619138_720.mp4",
-            "video_player_caption": null,
-            "video_player_transcript": null,
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://xbox.com/gamepass",
-          "button_label": "Learn More",
-          "subtitle": "Claim a 14-day Trial of Xbox Game Pass Premium"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
       "id": "1443000962024210432",
       "config": {
         "id": "1443000962024210432",
@@ -224,6 +93,126 @@
         "cta_config": {
           "link": "https://store.steampowered.com/app/4046570/storm_lancers/?utm_source=discord&utm_medium=paidmedialqa&utm_campaign=storm-pclaunch-us&utm_content=quest",
           "button_label": "Get Game"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
+      "id": "1450241678618394624",
+      "config": {
+        "id": "1450241678618394624",
+        "config_version": 2,
+        "starts_at": "2025-12-18T18:00:40+00:00",
+        "expires_at": "2025-12-29T00:00:40+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://fallout.bethesda.net/en/games?utm_source=10047385&utm_medium=435627056&utm_campaign=34737572&utm_creative=246911328",
+          "id": "512501896896970762",
+          "name": "Fallout 76"
+        },
+        "assets": {
+          "hero": "quests/1450241678618394624/1450606596517396510.jpg",
+          "hero_video": null,
+          "quest_bar_hero": "quests/1450241678618394624/1450871383985750220.jpg",
+          "quest_bar_hero_video": null,
+          "game_tile": "1450242830671806526.png",
+          "logotype": "1450650696658718903.png",
+          "game_tile_light": "quests/1450241678618394624/1450242814469214320.png",
+          "game_tile_dark": "quests/1450241678618394624/1450242814469214320.png",
+          "logotype_light": "quests/1450241678618394624/1450650676693831680.png",
+          "logotype_dark": "quests/1450241678618394624/1450650676693831680.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Fallout",
+          "game_title": "Fallout 4 Anniversary Edition, Fallout 76",
+          "game_publisher": "Bethesda Softworks"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "event_name": "PLAY_ON_DESKTOP",
+              "target": 900
+            },
+            "PLAY_ON_XBOX": {
+              "event_name": "PLAY_ON_XBOX",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "event_name": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "512501896896970762"
+                },
+                {
+                  "id": "359509759642042378"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "512501896896970762"
+                }
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "512501896896970762"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700
+            }
+          ],
+          "rewards_expire_at": "2026-01-28T00:00:40+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://fallout.bethesda.net/en/games?utm_source=10047385&utm_medium=435627056&utm_campaign=34737572&utm_creative=246911328",
+          "button_label": "Learn More"
         }
       },
       "user_status": null,
@@ -360,90 +349,79 @@
       "preview": false
     },
     {
-      "id": "1450241678618394624",
+      "id": "1448423146049896448",
       "config": {
-        "id": "1450241678618394624",
+        "id": "1448423146049896448",
         "config_version": 2,
-        "starts_at": "2025-12-18T18:00:40+00:00",
-        "expires_at": "2025-12-29T00:00:40+00:00",
+        "starts_at": "2025-12-12T18:00:28+00:00",
+        "expires_at": "2025-12-20T17:00:28+00:00",
         "features": [
           15
         ],
         "application": {
-          "link": "https://fallout.bethesda.net/en/games?utm_source=10047385&utm_medium=435627056&utm_campaign=34737572&utm_creative=246911328",
-          "id": "512501896896970762",
-          "name": "Fallout 76"
+          "link": "https://xbox.com/gamepass",
+          "id": "545364944258990091",
+          "name": "Discord"
         },
         "assets": {
-          "hero": "quests/1450241678618394624/1450606596517396510.jpg",
-          "hero_video": null,
-          "quest_bar_hero": "quests/1450241678618394624/1450871383985750220.jpg",
-          "quest_bar_hero_video": null,
-          "game_tile": "1450242830671806526.png",
-          "logotype": "1450650696658718903.png",
-          "game_tile_light": "quests/1450241678618394624/1450242814469214320.png",
-          "game_tile_dark": "quests/1450241678618394624/1450242814469214320.png",
-          "logotype_light": "quests/1450241678618394624/1450650676693831680.png",
-          "logotype_dark": "quests/1450241678618394624/1450650676693831680.png"
+          "hero": "quests/1448423146049896448/1448432733079732396.jpg",
+          "hero_video": "quests/1448423146049896448/1448433030728384764.mp4",
+          "quest_bar_hero": "quests/1448423146049896448/1448433170482598112.jpg",
+          "quest_bar_hero_video": "quests/1448423146049896448/1448433030728384764.mp4",
+          "game_tile": "1448433195606605856.png",
+          "logotype": "1448433194683596860.png",
+          "game_tile_light": "quests/1448423146049896448/1448432777052688535.png",
+          "game_tile_dark": "quests/1448423146049896448/1448432777052688535.png",
+          "logotype_light": "quests/1448423146049896448/1448432814142914652.png",
+          "logotype_dark": "quests/1448423146049896448/1448432814142914652.png"
         },
         "colors": {
           "primary": "#4752C4",
           "secondary": "#000000"
         },
         "messages": {
-          "quest_name": "Fallout",
-          "game_title": "Fallout 4 Anniversary Edition, Fallout 76",
-          "game_publisher": "Bethesda Softworks"
+          "quest_name": "Xbox Game Pass",
+          "game_title": "Xbox Game Pass",
+          "game_publisher": "Xbox Game Pass"
         },
         "task_config": {
           "type": 1,
           "join_operator": "or",
           "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "event_name": "PLAY_ON_DESKTOP",
-              "target": 900
-            },
-            "PLAY_ON_XBOX": {
-              "event_name": "PLAY_ON_XBOX",
-              "target": 900
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "event_name": "PLAY_ON_PLAYSTATION",
-              "target": 900
+            "WATCH_VIDEO": {
+              "event_name": "WATCH_VIDEO",
+              "target": 69
             }
           }
         },
         "task_config_v2": {
           "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "512501896896970762"
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 69,
+              "assets": {
+                "video": {
+                  "url": "quests/1448423146049896448/1448426626680619138_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1448423146049896448/1448427663092875275.png"
                 },
-                {
-                  "id": "359509759642042378"
+                "video_low_res": {
+                  "url": "quests/1448423146049896448/1448426626680619138_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1448423146049896448/1448427663092875275.png"
+                },
+                "video_hls": {
+                  "url": "quests/1448423146049896448/1448426626680619138.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1448423146049896448/1448427663092875275.png"
                 }
-              ]
-            },
-            "PLAY_ON_XBOX": {
-              "type": "PLAY_ON_XBOX",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "512501896896970762"
-                }
-              ]
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "512501896896970762"
-                }
-              ]
+              },
+              "messages": {
+                "video_title": "Xbox Game Pass Premium trailer"
+              }
             }
           },
           "join_operator": "or"
@@ -452,27 +430,49 @@
           "assignment_method": 1,
           "rewards": [
             {
-              "type": 4,
-              "sku_id": "1287881739531976815",
+              "type": 1,
+              "sku_id": "1448423146049896449",
+              "asset": "quests/1448423146049896448/1448433317199220910.jpg",
+              "asset_video": null,
               "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
+                "name": "Claim a 14-day Trial of Xbox Game Pass",
+                "name_with_article": "a 14-day Trial of Xbox Game Pass",
                 "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
+                  "0": "**Redeem at microsoft.com/redeem by January 15,2026 11:59 PM PST.** \n\nValid for new Xbox Game Pass subscribers only. Valid payment method required. Unless you cancel, you will be charged the then-current regular membership rate when the promotional period ends. Limit: 1 per person/account. \n\n**Subject to the Microsoft Services Agreement, Game Pass terms and system requirements at: xbox.com/subscriptionterms. ** "
                 }
               },
-              "orb_quantity": 700
+              "approximate_count": null,
+              "redemption_link": null
             }
           ],
-          "rewards_expire_at": "2026-01-28T00:00:40+00:00",
+          "rewards_expire_at": "2026-01-19T17:00:28+00:00",
           "platforms": [
             0
           ]
         },
+        "video_metadata": {
+          "messages": {
+            "video_title": "Xbox Game Pass Premium trailer",
+            "video_end_cta_subtitle": "Claim a 14-day Trial of Xbox Game Pass Premium",
+            "video_end_cta_button_label": "Learn More"
+          },
+          "assets": {
+            "video_player_video_hls": "quests/1448423146049896448/1448426626680619138.m3u8",
+            "video_player_video": "quests/1448423146049896448/1448426626680619138_1080.mp4",
+            "video_player_thumbnail": "quests/1448423146049896448/1448427663092875275.png",
+            "video_player_video_low_res": "quests/1448423146049896448/1448426626680619138_720.mp4",
+            "video_player_caption": null,
+            "video_player_transcript": null,
+            "quest_bar_preview_video": null,
+            "quest_bar_preview_thumbnail": null,
+            "quest_home_video": null
+          }
+        },
         "share_policy": "shareable_everywhere",
         "cta_config": {
-          "link": "https://fallout.bethesda.net/en/games?utm_source=10047385&utm_medium=435627056&utm_campaign=34737572&utm_creative=246911328",
-          "button_label": "Learn More"
+          "link": "https://xbox.com/gamepass",
+          "button_label": "Learn More",
+          "subtitle": "Claim a 14-day Trial of Xbox Game Pass Premium"
         }
       },
       "user_status": null,
