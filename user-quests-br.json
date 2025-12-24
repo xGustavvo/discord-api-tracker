@@ -100,90 +100,110 @@
       "preview": false
     },
     {
-      "id": "1450241678618394624",
+      "id": "1450987508581273601",
       "config": {
-        "id": "1450241678618394624",
+        "id": "1450987508581273601",
         "config_version": 2,
-        "starts_at": "2025-12-18T18:00:40+00:00",
-        "expires_at": "2025-12-29T00:00:40+00:00",
+        "starts_at": "2025-12-24T18:00:20+00:00",
+        "expires_at": "2026-01-01T00:00:20+00:00",
         "features": [
           15
         ],
         "application": {
-          "link": "https://fallout.bethesda.net/en/games?utm_source=10047385&utm_medium=435627056&utm_campaign=34737572&utm_creative=246911328",
-          "id": "512501896896970762",
-          "name": "Fallout 76"
+          "link": "https://www.netflix.com/title/81915745",
+          "id": "545364944258990091",
+          "name": "Discord"
         },
         "assets": {
-          "hero": "quests/1450241678618394624/1450606596517396510.jpg",
-          "hero_video": null,
-          "quest_bar_hero": "quests/1450241678618394624/1450871383985750220.jpg",
-          "quest_bar_hero_video": null,
-          "game_tile": "1450242830671806526.png",
-          "logotype": "1450650696658718903.png",
-          "game_tile_light": "quests/1450241678618394624/1450242814469214320.png",
-          "game_tile_dark": "quests/1450241678618394624/1450242814469214320.png",
-          "logotype_light": "quests/1450241678618394624/1450650676693831680.png",
-          "logotype_dark": "quests/1450241678618394624/1450650676693831680.png"
+          "hero": "quests/1450987508581273601/1450988099231420653.jpg",
+          "hero_video": "quests/1450987508581273601/1450988821784301639.mp4",
+          "quest_bar_hero": "quests/1450987508581273601/1450989256364392488.jpg",
+          "quest_bar_hero_video": "quests/1450987508581273601/1450988821784301639.mp4",
+          "game_tile": "1450989444378136649.png",
+          "logotype": "1451018023451492594.png",
+          "game_tile_light": "quests/1450987508581273601/1450989406058971296.png",
+          "game_tile_dark": "quests/1450987508581273601/1450989406058971296.png",
+          "logotype_light": "quests/1450987508581273601/1451017996599562261.png",
+          "logotype_dark": "quests/1450987508581273601/1451017996599562261.png"
         },
         "colors": {
           "primary": "#4752C4",
           "secondary": "#000000"
         },
         "messages": {
-          "quest_name": "Fallout",
-          "game_title": "Fallout 4 Anniversary Edition, Fallout 76",
-          "game_publisher": "Bethesda Softworks"
+          "quest_name": "Damon. Affleck. The Rip",
+          "game_title": "Matt Damon. Ben Affleck. Jan 16 only on Netflix.",
+          "game_publisher": "Netflix"
         },
         "task_config": {
           "type": 1,
           "join_operator": "or",
           "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "event_name": "PLAY_ON_DESKTOP",
-              "target": 900
+            "WATCH_VIDEO": {
+              "event_name": "WATCH_VIDEO",
+              "target": 29
             },
-            "PLAY_ON_XBOX": {
-              "event_name": "PLAY_ON_XBOX",
-              "target": 900
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "event_name": "PLAY_ON_PLAYSTATION",
-              "target": 900
+            "WATCH_VIDEO_ON_MOBILE": {
+              "event_name": "WATCH_VIDEO_ON_MOBILE",
+              "target": 29
             }
           }
         },
         "task_config_v2": {
           "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "512501896896970762"
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1450987508581273601/1450989611324018830_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1450987508581273601/1450990022042980504.jpg"
                 },
-                {
-                  "id": "359509759642042378"
+                "video_low_res": {
+                  "url": "quests/1450987508581273601/1450989611324018830_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1450987508581273601/1450990022042980504.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1450987508581273601/1450989611324018830.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1450987508581273601/1450990022042980504.jpg"
                 }
-              ]
+              },
+              "messages": {
+                "video_title": "The Rip Trailer"
+              }
             },
-            "PLAY_ON_XBOX": {
-              "type": "PLAY_ON_XBOX",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "512501896896970762"
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1450987508581273601/1451320605839331348_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1450987508581273601/1450990022042980504.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1450987508581273601/1451320605839331348_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1450987508581273601/1450990022042980504.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1450987508581273601/1451320605839331348.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1450987508581273601/1450990022042980504.jpg"
                 }
-              ]
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "512501896896970762"
-                }
-              ]
+              },
+              "messages": {
+                "video_title": "The Rip Trailer"
+              }
             }
           },
           "join_operator": "or"
@@ -204,15 +224,34 @@
               "orb_quantity": 700
             }
           ],
-          "rewards_expire_at": "2026-01-28T00:00:40+00:00",
+          "rewards_expire_at": "2026-01-31T00:00:20+00:00",
           "platforms": [
             0
           ]
         },
+        "video_metadata": {
+          "messages": {
+            "video_title": "The Rip Trailer",
+            "video_end_cta_subtitle": "Matt Damon. Ben Affleck. Jan 16 only on Netflix.",
+            "video_end_cta_button_label": "Mais detalhes"
+          },
+          "assets": {
+            "video_player_video_hls": "quests/1450987508581273601/1450989611324018830.m3u8",
+            "video_player_video": "quests/1450987508581273601/1450989611324018830_1080.mp4",
+            "video_player_thumbnail": "quests/1450987508581273601/1450990022042980504.jpg",
+            "video_player_video_low_res": "quests/1450987508581273601/1450989611324018830_720.mp4",
+            "video_player_caption": null,
+            "video_player_transcript": null,
+            "quest_bar_preview_video": null,
+            "quest_bar_preview_thumbnail": null,
+            "quest_home_video": null
+          }
+        },
         "share_policy": "shareable_everywhere",
         "cta_config": {
-          "link": "https://fallout.bethesda.net/en/games?utm_source=10047385&utm_medium=435627056&utm_campaign=34737572&utm_creative=246911328",
-          "button_label": "Mais detalhes"
+          "link": "https://www.netflix.com/title/81915745",
+          "button_label": "Mais detalhes",
+          "subtitle": "Matt Damon. Ben Affleck. Jan 16 only on Netflix."
         }
       },
       "user_status": null,
@@ -349,40 +388,40 @@
       "preview": false
     },
     {
-      "id": "1447674068815057026",
+      "id": "1450241678618394624",
       "config": {
-        "id": "1447674068815057026",
+        "id": "1450241678618394624",
         "config_version": 2,
-        "starts_at": "2025-12-10T00:30:54+00:00",
-        "expires_at": "2025-12-19T18:00:54+00:00",
+        "starts_at": "2025-12-18T18:00:40+00:00",
+        "expires_at": "2025-12-29T00:00:40+00:00",
         "features": [
           15
         ],
         "application": {
-          "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
-          "id": "1437509662303059998",
-          "name": "Where Winds Meet"
+          "link": "https://fallout.bethesda.net/en/games?utm_source=10047385&utm_medium=435627056&utm_campaign=34737572&utm_creative=246911328",
+          "id": "512501896896970762",
+          "name": "Fallout 76"
         },
         "assets": {
-          "hero": "quests/1447674068815057026/1447681220514156676.jpg",
-          "hero_video": "quests/1447674068815057026/1447689201519952094.mp4",
-          "quest_bar_hero": "quests/1447674068815057026/1447681354761502851.jpg",
-          "quest_bar_hero_video": "quests/1447674068815057026/1447689525030551564.mp4",
-          "game_tile": "1447681382422941726.png",
-          "logotype": "1447688978365944003.png",
-          "game_tile_light": "quests/1447674068815057026/1447681011210256404.png",
-          "game_tile_dark": "quests/1447674068815057026/1447681011210256404.png",
-          "logotype_light": "quests/1447674068815057026/1447688735297769483.png",
-          "logotype_dark": "quests/1447674068815057026/1447688735297769483.png"
+          "hero": "quests/1450241678618394624/1450606596517396510.jpg",
+          "hero_video": null,
+          "quest_bar_hero": "quests/1450241678618394624/1450871383985750220.jpg",
+          "quest_bar_hero_video": null,
+          "game_tile": "1450242830671806526.png",
+          "logotype": "1450650696658718903.png",
+          "game_tile_light": "quests/1450241678618394624/1450242814469214320.png",
+          "game_tile_dark": "quests/1450241678618394624/1450242814469214320.png",
+          "logotype_light": "quests/1450241678618394624/1450650676693831680.png",
+          "logotype_dark": "quests/1450241678618394624/1450650676693831680.png"
         },
         "colors": {
           "primary": "#4752C4",
           "secondary": "#000000"
         },
         "messages": {
-          "quest_name": "Where Winds Meet Launch Bundle",
-          "game_title": "Where Winds Meet",
-          "game_publisher": "NETEASE"
+          "quest_name": "Fallout",
+          "game_title": "Fallout 4 Anniversary Edition, Fallout 76",
+          "game_publisher": "Bethesda Softworks"
         },
         "task_config": {
           "type": 1,
@@ -390,6 +429,10 @@
           "tasks": {
             "PLAY_ON_DESKTOP": {
               "event_name": "PLAY_ON_DESKTOP",
+              "target": 900
+            },
+            "PLAY_ON_XBOX": {
+              "event_name": "PLAY_ON_XBOX",
               "target": 900
             },
             "PLAY_ON_PLAYSTATION": {
@@ -405,7 +448,19 @@
               "target": 900,
               "applications": [
                 {
-                  "id": "1437509662303059998"
+                  "id": "512501896896970762"
+                },
+                {
+                  "id": "359509759642042378"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "512501896896970762"
                 }
               ]
             },
@@ -414,7 +469,7 @@
               "target": 900,
               "applications": [
                 {
-                  "id": "1437509662303059998"
+                  "id": "512501896896970762"
                 }
               ]
             }
@@ -425,30 +480,27 @@
           "assignment_method": 1,
           "rewards": [
             {
-              "type": 1,
-              "sku_id": "1447674068815057027",
-              "asset": "quests/1447674068815057026/1447681506838315172.png",
-              "asset_video": null,
+              "type": 4,
+              "sku_id": "1287881739531976815",
               "messages": {
-                "name": "Launch Bundle",
-                "name_with_article": "a Launch Bundle",
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
                 "redemption_instructions_by_platform": {
-                  "0": "To redeem your code: \n\nStep 1: Click on \"Settings\" on the main game interface  \nStep 2: select \"Others\"  \nStep 3: click on \"Redeem Code\"  \nStep 4: enter the redeem code  "
+                  "0": "PLACEHOLDER"
                 }
               },
-              "approximate_count": null,
-              "redemption_link": null
+              "orb_quantity": 700
             }
           ],
-          "rewards_expire_at": "2026-01-18T18:00:54+00:00",
+          "rewards_expire_at": "2026-01-28T00:00:40+00:00",
           "platforms": [
             0
           ]
         },
         "share_policy": "shareable_everywhere",
         "cta_config": {
-          "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
-          "button_label": "Obter jogo"
+          "link": "https://fallout.bethesda.net/en/games?utm_source=10047385&utm_medium=435627056&utm_campaign=34737572&utm_creative=246911328",
+          "button_label": "Mais detalhes"
         }
       },
       "user_status": null,
@@ -580,6 +632,113 @@
           "link": "https://xbox.com/gamepass",
           "button_label": "Mais detalhes",
           "subtitle": "Claim a 14-day Trial of Xbox Game Pass Premium"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
+      "id": "1447674068815057026",
+      "config": {
+        "id": "1447674068815057026",
+        "config_version": 2,
+        "starts_at": "2025-12-10T00:30:54+00:00",
+        "expires_at": "2025-12-19T18:00:54+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
+          "id": "1437509662303059998",
+          "name": "Where Winds Meet"
+        },
+        "assets": {
+          "hero": "quests/1447674068815057026/1447681220514156676.jpg",
+          "hero_video": "quests/1447674068815057026/1447689201519952094.mp4",
+          "quest_bar_hero": "quests/1447674068815057026/1447681354761502851.jpg",
+          "quest_bar_hero_video": "quests/1447674068815057026/1447689525030551564.mp4",
+          "game_tile": "1447681382422941726.png",
+          "logotype": "1447688978365944003.png",
+          "game_tile_light": "quests/1447674068815057026/1447681011210256404.png",
+          "game_tile_dark": "quests/1447674068815057026/1447681011210256404.png",
+          "logotype_light": "quests/1447674068815057026/1447688735297769483.png",
+          "logotype_dark": "quests/1447674068815057026/1447688735297769483.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Where Winds Meet Launch Bundle",
+          "game_title": "Where Winds Meet",
+          "game_publisher": "NETEASE"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "event_name": "PLAY_ON_DESKTOP",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "event_name": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1437509662303059998"
+                }
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1437509662303059998"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 1,
+              "sku_id": "1447674068815057027",
+              "asset": "quests/1447674068815057026/1447681506838315172.png",
+              "asset_video": null,
+              "messages": {
+                "name": "Launch Bundle",
+                "name_with_article": "a Launch Bundle",
+                "redemption_instructions_by_platform": {
+                  "0": "To redeem your code: \n\nStep 1: Click on \"Settings\" on the main game interface  \nStep 2: select \"Others\"  \nStep 3: click on \"Redeem Code\"  \nStep 4: enter the redeem code  "
+                }
+              },
+              "approximate_count": null,
+              "redemption_link": null
+            }
+          ],
+          "rewards_expire_at": "2026-01-18T18:00:54+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
+          "button_label": "Obter jogo"
         }
       },
       "user_status": null,
@@ -6027,6 +6186,117 @@
         "cta_config": {
           "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
           "button_label": "Obter jogo"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
+      "id": "1445135030124019954",
+      "config": {
+        "id": "1445135030124019954",
+        "config_version": 2,
+        "starts_at": "2025-12-24T18:00:40+00:00",
+        "expires_at": "2026-01-01T00:00:40+00:00",
+        "features": [
+          3,
+          8,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23,
+          27
+        ],
+        "application": {
+          "link": "https://www.amazon.com/gp/video/detail/b0flszbrzj/ref=atv_dp_season_select_s2b0flszbrzj&ref_=dvm_us_c_dig_hndo_cm",
+          "id": "1438480245844873387",
+          "name": "Fallout Pip-Boy"
+        },
+        "assets": {
+          "hero": "quests/1445135030124019954/1452764900375007322.jpg",
+          "hero_video": "quests/1445135030124019954/1452765089919930479.mp4",
+          "quest_bar_hero": "quests/1445135030124019954/1452765333419986985.jpg",
+          "quest_bar_hero_video": "quests/1445135030124019954/1452765089919930479.mp4",
+          "game_tile": "1452765498902188103.png",
+          "logotype": "1452765497861865533.png",
+          "game_tile_light": "quests/1445135030124019954/1452765459190648953.png",
+          "game_tile_dark": "quests/1445135030124019954/1452765459190648953.png",
+          "logotype_light": "quests/1445135030124019954/1452765410133938380.png",
+          "logotype_dark": "quests/1445135030124019954/1452765382577492059.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "New Vegas",
+          "game_title": "Fallout Pip-Boy Activity",
+          "game_publisher": "Amazon Prime Video"
+        },
+        "task_config": {
+          "type": 2,
+          "join_operator": "or",
+          "tasks": {
+            "progress": {
+              "event_name": "progress",
+              "title": "Get a sneak peek of New Vegas from Fallout Season Two to claim 700 Orbs on Desktop!",
+              "description": "Get a sneak peek of New Vegas from Fallout Season Two to claim 700 Orbs on Desktop!",
+              "target": 100
+            }
+          },
+          "enrollment_url": "https://www.discord.com",
+          "developer_application_id": "1438480245844873387"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "ACHIEVEMENT_IN_ACTIVITY": {
+              "type": "ACHIEVEMENT_IN_ACTIVITY",
+              "target": 100,
+              "applications": [
+                {
+                  "id": "1438480245844873387"
+                }
+              ],
+              "event_name": "progress",
+              "messages": {
+                "task_title": "Get a sneak peek of New Vegas from Fallout Season Two to claim 700 Orbs on Desktop!",
+                "task_description": "Get a sneak peek of New Vegas from Fallout Season Two to claim 700 Orbs on Desktop!"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "Default"
+                }
+              },
+              "orb_quantity": 700
+            }
+          ],
+          "rewards_expire_at": "2026-01-31T00:00:40+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.amazon.com/gp/video/detail/b0flszbrzj/ref=atv_dp_season_select_s2b0flszbrzj&ref_=dvm_us_c_dig_hndo_cm",
+          "button_label": "Assista já",
+          "subtitle": "Watch Fallout Season Two now on Prime."
         }
       },
       "user_status": null,
