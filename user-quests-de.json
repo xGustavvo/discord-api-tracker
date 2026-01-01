@@ -1,6 +1,110 @@
 {
   "quests": [
     {
+      "id": "1451696588467601408",
+      "config": {
+        "id": "1451696588467601408",
+        "config_version": 2,
+        "starts_at": "2026-01-01T18:00:57+00:00",
+        "expires_at": "2026-01-12T00:00:57+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
+          "id": "1437509662303059998",
+          "name": "Where Winds Meet"
+        },
+        "assets": {
+          "hero": "quests/1451696588467601408/1451697384387117056.jpg",
+          "hero_video": "quests/1451696588467601408/1451697465538646026.mp4",
+          "quest_bar_hero": "quests/1451696588467601408/1451697267877740544.jpg",
+          "quest_bar_hero_video": "quests/1451696588467601408/1451697321090748550.mp4",
+          "game_tile": "1451697895706460332.png",
+          "logotype": "1451697887548411994.png",
+          "game_tile_light": "quests/1451696588467601408/1451697852383232190.png",
+          "game_tile_dark": "quests/1451696588467601408/1451697852383232190.png",
+          "logotype_light": "quests/1451696588467601408/1451697530743161045.png",
+          "logotype_dark": "quests/1451696588467601408/1451697530743161045.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Where Winds Meet New Year",
+          "game_title": "Where Winds Meet",
+          "game_publisher": "NETEASE"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "event_name": "PLAY_ON_DESKTOP",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "event_name": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1437509662303059998"
+                }
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1437509662303059998"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700
+            }
+          ],
+          "rewards_expire_at": "2026-02-11T00:00:57+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
+          "button_label": "Spiel holen"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
       "id": "1443000962024210432",
       "config": {
         "id": "1443000962024210432",
@@ -92,6 +196,135 @@
         "share_policy": "shareable_everywhere",
         "cta_config": {
           "link": "https://store.steampowered.com/app/4046570/storm_lancers/?utm_source=discord&utm_medium=paidmedialqa&utm_campaign=storm-pclaunch-us&utm_content=quest",
+          "button_label": "Spiel holen"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
+      "id": "1441207579350012034",
+      "config": {
+        "id": "1441207579350012034",
+        "config_version": 2,
+        "starts_at": "2025-11-30T01:15:23+00:00",
+        "expires_at": "2025-12-08T00:00:23+00:00",
+        "features": [
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
+        ],
+        "application": {
+          "link": "https://www.fortnite.com/",
+          "id": "1402418703554842694",
+          "name": "Fortnite"
+        },
+        "assets": {
+          "hero": "quests/1441207579350012034/1442594400008929421.jpg",
+          "hero_video": null,
+          "quest_bar_hero": "quests/1441207579350012034/1442594310829903892.jpg",
+          "quest_bar_hero_video": null,
+          "game_tile": "1442594445047496805.png",
+          "logotype": "1442594444112036130.png",
+          "game_tile_light": "quests/1441207579350012034/1442594186842083450.png",
+          "game_tile_dark": "quests/1441207579350012034/1442594186842083450.png",
+          "logotype_light": "quests/1441207579350012034/1442594156324065486.png",
+          "logotype_dark": "quests/1441207579350012034/1442594156324065486.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Fortnite Kapitel Sieben",
+          "game_title": "Fortnite",
+          "game_publisher": "Epic Games"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "event_name": "PLAY_ON_DESKTOP",
+              "target": 900
+            },
+            "PLAY_ON_XBOX": {
+              "event_name": "PLAY_ON_XBOX",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "event_name": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1402418703554842694"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1402418703554842694"
+                }
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1402418703554842694"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 3,
+              "sku_id": "1442991135604740138",
+              "asset": "quests/1441207579350012034/1443005736127828080.mp4",
+              "asset_video": null,
+              "messages": {
+                "name": "Avatar-Dekoration „Sturm-Surfen“",
+                "name_with_article": "Avatar-Dekoration „Sturm-Surfen“",
+                "redemption_instructions_by_platform": {
+                  "0": "Default"
+                }
+              },
+              "expires_at": "2026-02-06T00:00:00+00:00",
+              "expires_at_premium": null,
+              "expiration_mode": 1
+            }
+          ],
+          "rewards_expire_at": "2026-01-07T00:00:23+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.fortnite.com/",
           "button_label": "Spiel holen"
         }
       },
@@ -259,255 +492,6 @@
       "preview": false
     },
     {
-      "id": "1441207579350012034",
-      "config": {
-        "id": "1441207579350012034",
-        "config_version": 2,
-        "starts_at": "2025-11-30T01:15:23+00:00",
-        "expires_at": "2025-12-08T00:00:23+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://www.fortnite.com/",
-          "id": "1402418703554842694",
-          "name": "Fortnite"
-        },
-        "assets": {
-          "hero": "quests/1441207579350012034/1442594400008929421.jpg",
-          "hero_video": null,
-          "quest_bar_hero": "quests/1441207579350012034/1442594310829903892.jpg",
-          "quest_bar_hero_video": null,
-          "game_tile": "1442594445047496805.png",
-          "logotype": "1442594444112036130.png",
-          "game_tile_light": "quests/1441207579350012034/1442594186842083450.png",
-          "game_tile_dark": "quests/1441207579350012034/1442594186842083450.png",
-          "logotype_light": "quests/1441207579350012034/1442594156324065486.png",
-          "logotype_dark": "quests/1441207579350012034/1442594156324065486.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Fortnite Kapitel Sieben",
-          "game_title": "Fortnite",
-          "game_publisher": "Epic Games"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "event_name": "PLAY_ON_DESKTOP",
-              "target": 900
-            },
-            "PLAY_ON_XBOX": {
-              "event_name": "PLAY_ON_XBOX",
-              "target": 900
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "event_name": "PLAY_ON_PLAYSTATION",
-              "target": 900
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1402418703554842694"
-                }
-              ]
-            },
-            "PLAY_ON_XBOX": {
-              "type": "PLAY_ON_XBOX",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1402418703554842694"
-                }
-              ]
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1402418703554842694"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 3,
-              "sku_id": "1442991135604740138",
-              "asset": "quests/1441207579350012034/1443005736127828080.mp4",
-              "asset_video": null,
-              "messages": {
-                "name": "Avatar-Dekoration „Sturm-Surfen“",
-                "name_with_article": "Avatar-Dekoration „Sturm-Surfen“",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "expires_at": "2026-02-06T00:00:00+00:00",
-              "expires_at_premium": null,
-              "expiration_mode": 1
-            }
-          ],
-          "rewards_expire_at": "2026-01-07T00:00:23+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.fortnite.com/",
-          "button_label": "Spiel holen"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
-      "id": "1450241678618394624",
-      "config": {
-        "id": "1450241678618394624",
-        "config_version": 2,
-        "starts_at": "2025-12-18T18:00:40+00:00",
-        "expires_at": "2025-12-29T00:00:40+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://fallout.bethesda.net/en/games?utm_source=10047385&utm_medium=435627056&utm_campaign=34737572&utm_creative=246911328",
-          "id": "512501896896970762",
-          "name": "Fallout 76"
-        },
-        "assets": {
-          "hero": "quests/1450241678618394624/1450606596517396510.jpg",
-          "hero_video": null,
-          "quest_bar_hero": "quests/1450241678618394624/1450871383985750220.jpg",
-          "quest_bar_hero_video": null,
-          "game_tile": "1450242830671806526.png",
-          "logotype": "1450650696658718903.png",
-          "game_tile_light": "quests/1450241678618394624/1450242814469214320.png",
-          "game_tile_dark": "quests/1450241678618394624/1450242814469214320.png",
-          "logotype_light": "quests/1450241678618394624/1450650676693831680.png",
-          "logotype_dark": "quests/1450241678618394624/1450650676693831680.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Fallout",
-          "game_title": "Fallout 4 Anniversary Edition, Fallout 76",
-          "game_publisher": "Bethesda Softworks"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "event_name": "PLAY_ON_DESKTOP",
-              "target": 900
-            },
-            "PLAY_ON_XBOX": {
-              "event_name": "PLAY_ON_XBOX",
-              "target": 900
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "event_name": "PLAY_ON_PLAYSTATION",
-              "target": 900
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "512501896896970762"
-                },
-                {
-                  "id": "359509759642042378"
-                }
-              ]
-            },
-            "PLAY_ON_XBOX": {
-              "type": "PLAY_ON_XBOX",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "512501896896970762"
-                }
-              ]
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "512501896896970762"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700
-            }
-          ],
-          "rewards_expire_at": "2026-01-28T00:00:40+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://fallout.bethesda.net/en/games?utm_source=10047385&utm_medium=435627056&utm_campaign=34737572&utm_creative=246911328",
-          "button_label": "Mehr erfahren"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
       "id": "1448436561082585220",
       "config": {
         "id": "1448436561082585220",
@@ -639,40 +623,40 @@
       "preview": false
     },
     {
-      "id": "1447674068815057026",
+      "id": "1450241678618394624",
       "config": {
-        "id": "1447674068815057026",
+        "id": "1450241678618394624",
         "config_version": 2,
-        "starts_at": "2025-12-10T00:30:54+00:00",
-        "expires_at": "2025-12-19T18:00:54+00:00",
+        "starts_at": "2025-12-18T18:00:40+00:00",
+        "expires_at": "2025-12-29T00:00:40+00:00",
         "features": [
           15
         ],
         "application": {
-          "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
-          "id": "1437509662303059998",
-          "name": "Where Winds Meet"
+          "link": "https://fallout.bethesda.net/en/games?utm_source=10047385&utm_medium=435627056&utm_campaign=34737572&utm_creative=246911328",
+          "id": "512501896896970762",
+          "name": "Fallout 76"
         },
         "assets": {
-          "hero": "quests/1447674068815057026/1447681220514156676.jpg",
-          "hero_video": "quests/1447674068815057026/1447689201519952094.mp4",
-          "quest_bar_hero": "quests/1447674068815057026/1447681354761502851.jpg",
-          "quest_bar_hero_video": "quests/1447674068815057026/1447689525030551564.mp4",
-          "game_tile": "1447681382422941726.png",
-          "logotype": "1447688978365944003.png",
-          "game_tile_light": "quests/1447674068815057026/1447681011210256404.png",
-          "game_tile_dark": "quests/1447674068815057026/1447681011210256404.png",
-          "logotype_light": "quests/1447674068815057026/1447688735297769483.png",
-          "logotype_dark": "quests/1447674068815057026/1447688735297769483.png"
+          "hero": "quests/1450241678618394624/1450606596517396510.jpg",
+          "hero_video": null,
+          "quest_bar_hero": "quests/1450241678618394624/1450871383985750220.jpg",
+          "quest_bar_hero_video": null,
+          "game_tile": "1450242830671806526.png",
+          "logotype": "1450650696658718903.png",
+          "game_tile_light": "quests/1450241678618394624/1450242814469214320.png",
+          "game_tile_dark": "quests/1450241678618394624/1450242814469214320.png",
+          "logotype_light": "quests/1450241678618394624/1450650676693831680.png",
+          "logotype_dark": "quests/1450241678618394624/1450650676693831680.png"
         },
         "colors": {
           "primary": "#4752C4",
           "secondary": "#000000"
         },
         "messages": {
-          "quest_name": "Where Winds Meet Launch Bundle",
-          "game_title": "Where Winds Meet",
-          "game_publisher": "NETEASE"
+          "quest_name": "Fallout",
+          "game_title": "Fallout 4 Anniversary Edition, Fallout 76",
+          "game_publisher": "Bethesda Softworks"
         },
         "task_config": {
           "type": 1,
@@ -680,6 +664,10 @@
           "tasks": {
             "PLAY_ON_DESKTOP": {
               "event_name": "PLAY_ON_DESKTOP",
+              "target": 900
+            },
+            "PLAY_ON_XBOX": {
+              "event_name": "PLAY_ON_XBOX",
               "target": 900
             },
             "PLAY_ON_PLAYSTATION": {
@@ -695,7 +683,19 @@
               "target": 900,
               "applications": [
                 {
-                  "id": "1437509662303059998"
+                  "id": "512501896896970762"
+                },
+                {
+                  "id": "359509759642042378"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "512501896896970762"
                 }
               ]
             },
@@ -704,7 +704,7 @@
               "target": 900,
               "applications": [
                 {
-                  "id": "1437509662303059998"
+                  "id": "512501896896970762"
                 }
               ]
             }
@@ -715,30 +715,27 @@
           "assignment_method": 1,
           "rewards": [
             {
-              "type": 1,
-              "sku_id": "1447674068815057027",
-              "asset": "quests/1447674068815057026/1447681506838315172.png",
-              "asset_video": null,
+              "type": 4,
+              "sku_id": "1287881739531976815",
               "messages": {
-                "name": "Launch Bundle",
-                "name_with_article": "a Launch Bundle",
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
                 "redemption_instructions_by_platform": {
-                  "0": "To redeem your code: \n\nStep 1: Click on \"Settings\" on the main game interface  \nStep 2: select \"Others\"  \nStep 3: click on \"Redeem Code\"  \nStep 4: enter the redeem code  "
+                  "0": "PLACEHOLDER"
                 }
               },
-              "approximate_count": null,
-              "redemption_link": null
+              "orb_quantity": 700
             }
           ],
-          "rewards_expire_at": "2026-01-18T18:00:54+00:00",
+          "rewards_expire_at": "2026-01-28T00:00:40+00:00",
           "platforms": [
             0
           ]
         },
         "share_policy": "shareable_everywhere",
         "cta_config": {
-          "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
-          "button_label": "Spiel holen"
+          "link": "https://fallout.bethesda.net/en/games?utm_source=10047385&utm_medium=435627056&utm_campaign=34737572&utm_creative=246911328",
+          "button_label": "Mehr erfahren"
         }
       },
       "user_status": null,
@@ -1015,6 +1012,113 @@
         "cta_config": {
           "link": "https://arcraiders.com/?utm_campaign=post-launch&utm_source=x&utm_term=us&utm_content=none&utm_medium=video",
           "button_label": "Jetzt spielen"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
+      "id": "1447674068815057026",
+      "config": {
+        "id": "1447674068815057026",
+        "config_version": 2,
+        "starts_at": "2025-12-10T00:30:54+00:00",
+        "expires_at": "2025-12-19T18:00:54+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
+          "id": "1437509662303059998",
+          "name": "Where Winds Meet"
+        },
+        "assets": {
+          "hero": "quests/1447674068815057026/1447681220514156676.jpg",
+          "hero_video": "quests/1447674068815057026/1447689201519952094.mp4",
+          "quest_bar_hero": "quests/1447674068815057026/1447681354761502851.jpg",
+          "quest_bar_hero_video": "quests/1447674068815057026/1447689525030551564.mp4",
+          "game_tile": "1447681382422941726.png",
+          "logotype": "1447688978365944003.png",
+          "game_tile_light": "quests/1447674068815057026/1447681011210256404.png",
+          "game_tile_dark": "quests/1447674068815057026/1447681011210256404.png",
+          "logotype_light": "quests/1447674068815057026/1447688735297769483.png",
+          "logotype_dark": "quests/1447674068815057026/1447688735297769483.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Where Winds Meet Launch Bundle",
+          "game_title": "Where Winds Meet",
+          "game_publisher": "NETEASE"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "event_name": "PLAY_ON_DESKTOP",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "event_name": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1437509662303059998"
+                }
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1437509662303059998"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 1,
+              "sku_id": "1447674068815057027",
+              "asset": "quests/1447674068815057026/1447681506838315172.png",
+              "asset_video": null,
+              "messages": {
+                "name": "Launch Bundle",
+                "name_with_article": "a Launch Bundle",
+                "redemption_instructions_by_platform": {
+                  "0": "To redeem your code: \n\nStep 1: Click on \"Settings\" on the main game interface  \nStep 2: select \"Others\"  \nStep 3: click on \"Redeem Code\"  \nStep 4: enter the redeem code  "
+                }
+              },
+              "approximate_count": null,
+              "redemption_link": null
+            }
+          ],
+          "rewards_expire_at": "2026-01-18T18:00:54+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
+          "button_label": "Spiel holen"
         }
       },
       "user_status": null,
