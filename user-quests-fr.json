@@ -333,165 +333,6 @@
       "preview": false
     },
     {
-      "id": "1450987508581273601",
-      "config": {
-        "id": "1450987508581273601",
-        "config_version": 2,
-        "starts_at": "2025-12-24T18:00:20+00:00",
-        "expires_at": "2026-01-01T00:00:20+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://www.netflix.com/title/81915745",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1450987508581273601/1450988099231420653.jpg",
-          "hero_video": "quests/1450987508581273601/1450988821784301639.mp4",
-          "quest_bar_hero": "quests/1450987508581273601/1450989256364392488.jpg",
-          "quest_bar_hero_video": "quests/1450987508581273601/1450988821784301639.mp4",
-          "game_tile": "1450989444378136649.png",
-          "logotype": "1451018023451492594.png",
-          "game_tile_light": "quests/1450987508581273601/1450989406058971296.png",
-          "game_tile_dark": "quests/1450987508581273601/1450989406058971296.png",
-          "logotype_light": "quests/1450987508581273601/1451017996599562261.png",
-          "logotype_dark": "quests/1450987508581273601/1451017996599562261.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Damon. Affleck. The Rip",
-          "game_title": "Matt Damon. Ben Affleck. Jan 16 only on Netflix.",
-          "game_publisher": "Netflix"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "WATCH_VIDEO": {
-              "event_name": "WATCH_VIDEO",
-              "target": 29
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "event_name": "WATCH_VIDEO_ON_MOBILE",
-              "target": 29
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1450987508581273601/1450989611324018830_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1450987508581273601/1450990022042980504.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1450987508581273601/1450989611324018830_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1450987508581273601/1450990022042980504.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1450987508581273601/1450989611324018830.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1450987508581273601/1450990022042980504.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "The Rip Trailer"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1450987508581273601/1451320605839331348_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1450987508581273601/1450990022042980504.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1450987508581273601/1451320605839331348_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1450987508581273601/1450990022042980504.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1450987508581273601/1451320605839331348.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1450987508581273601/1450990022042980504.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "The Rip Trailer"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700
-            }
-          ],
-          "rewards_expire_at": "2026-01-31T00:00:20+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "video_metadata": {
-          "messages": {
-            "video_title": "The Rip Trailer",
-            "video_end_cta_subtitle": "Matt Damon. Ben Affleck. Jan 16 only on Netflix.",
-            "video_end_cta_button_label": "En savoir plus"
-          },
-          "assets": {
-            "video_player_video_hls": "quests/1450987508581273601/1450989611324018830.m3u8",
-            "video_player_video": "quests/1450987508581273601/1450989611324018830_1080.mp4",
-            "video_player_thumbnail": "quests/1450987508581273601/1450990022042980504.jpg",
-            "video_player_video_low_res": "quests/1450987508581273601/1450989611324018830_720.mp4",
-            "video_player_caption": null,
-            "video_player_transcript": null,
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.netflix.com/title/81915745",
-          "button_label": "En savoir plus",
-          "subtitle": "Matt Damon. Ben Affleck. Jan 16 only on Netflix."
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
       "id": "1450241678618394624",
       "config": {
         "id": "1450241678618394624",
@@ -712,165 +553,6 @@
         "cta_config": {
           "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
           "button_label": "Obtenir le jeu"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
-      "id": "1450981455332245638",
-      "config": {
-        "id": "1450981455332245638",
-        "config_version": 2,
-        "starts_at": "2025-12-27T18:00:16+00:00",
-        "expires_at": "2026-01-05T01:00:16+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://www.peacocktv.com/stream-tv/the-copenhagen-test",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1450981455332245638/1450984287712186480.jpg",
-          "hero_video": "quests/1450981455332245638/1450984197660344453.mp4",
-          "quest_bar_hero": "quests/1450981455332245638/1450984789065601045.jpg",
-          "quest_bar_hero_video": "quests/1450981455332245638/1450984197660344453.mp4",
-          "game_tile": "1450984406511648829.png",
-          "logotype": "1450986527374184610.png",
-          "game_tile_light": "quests/1450981455332245638/1450984333539283146.png",
-          "game_tile_dark": "quests/1450981455332245638/1450984333539283146.png",
-          "logotype_light": "quests/1450981455332245638/1450986509703577650.png",
-          "logotype_dark": "quests/1450981455332245638/1450984382457319465.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "The Copenhagen Test",
-          "game_title": "The Copenhagen Test Streaming Only on Peacock",
-          "game_publisher": "Peacock"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "WATCH_VIDEO": {
-              "event_name": "WATCH_VIDEO",
-              "target": 40
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "event_name": "WATCH_VIDEO_ON_MOBILE",
-              "target": 40
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 40,
-              "assets": {
-                "video": {
-                  "url": "quests/1450981455332245638/1450985429959708742_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1450981455332245638/1450985698973843518.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1450981455332245638/1450985429959708742_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1450981455332245638/1450985698973843518.png"
-                },
-                "video_hls": {
-                  "url": "quests/1450981455332245638/1450985429959708742.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1450981455332245638/1450985698973843518.png"
-                }
-              },
-              "messages": {
-                "video_title": "The Copenhagen Test Trailer"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 40,
-              "assets": {
-                "video": {
-                  "url": "quests/1450981455332245638/1450985640396062752_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1450981455332245638/1450985698973843518.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1450981455332245638/1450985640396062752_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1450981455332245638/1450985698973843518.png"
-                },
-                "video_hls": {
-                  "url": "quests/1450981455332245638/1450985640396062752.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1450981455332245638/1450985698973843518.png"
-                }
-              },
-              "messages": {
-                "video_title": "The Copenhagen Test Trailer"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700
-            }
-          ],
-          "rewards_expire_at": "2026-02-04T01:00:16+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "video_metadata": {
-          "messages": {
-            "video_title": "The Copenhagen Test Trailer",
-            "video_end_cta_subtitle": "The Copenhagen Test Streaming Only on Peacock",
-            "video_end_cta_button_label": "Streamer"
-          },
-          "assets": {
-            "video_player_video_hls": "quests/1450981455332245638/1450985429959708742.m3u8",
-            "video_player_video": "quests/1450981455332245638/1450985429959708742_1080.mp4",
-            "video_player_thumbnail": "quests/1450981455332245638/1450985698973843518.png",
-            "video_player_video_low_res": "quests/1450981455332245638/1450985429959708742_720.mp4",
-            "video_player_caption": null,
-            "video_player_transcript": null,
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.peacocktv.com/stream-tv/the-copenhagen-test",
-          "button_label": "Streamer",
-          "subtitle": "The Copenhagen Test Streaming Only on Peacock"
         }
       },
       "user_status": null,
@@ -1460,121 +1142,6 @@
       "preview": false
     },
     {
-      "id": "1445133129382891662",
-      "config": {
-        "id": "1445133129382891662",
-        "config_version": 2,
-        "starts_at": "2025-12-08T18:00:07+00:00",
-        "expires_at": "2025-12-17T00:00:07+00:00",
-        "features": [
-          3,
-          8,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23,
-          27
-        ],
-        "application": {
-          "link": "https://www.amazon.com/gp/video/detail/B0FLSZBRZJ/ref=atv_dp_season_select_s2",
-          "id": "1438480245844873387",
-          "name": "Fallout Pip-Boy"
-        },
-        "assets": {
-          "hero": "quests/1445133129382891662/1446306294255456447.jpg",
-          "hero_video": "quests/1445133129382891662/1447625440561725471.mp4",
-          "quest_bar_hero": "quests/1445133129382891662/1446306294255456447.jpg",
-          "quest_bar_hero_video": "quests/1445133129382891662/1447625440561725471.mp4",
-          "game_tile": "1446307284325240912.jpg",
-          "logotype": "1446307179002069094.png",
-          "game_tile_light": "quests/1445133129382891662/1446307266348191845.jpg",
-          "game_tile_dark": "quests/1445133129382891662/1446307266348191845.jpg",
-          "logotype_light": "quests/1445133129382891662/1446307023909294182.png",
-          "logotype_dark": "quests/1445133129382891662/1446307079672299621.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Fallout Season Two",
-          "game_title": "Fallout Pip-Boy Activity",
-          "game_publisher": "Amazon Prime Video"
-        },
-        "task_config": {
-          "type": 2,
-          "join_operator": "or",
-          "tasks": {
-            "progress": {
-              "event_name": "progress",
-              "title": "Open your Pip-Boy and watch the Fallout Season Two video on Desktop to claim the Vault Avatar Decoration!",
-              "description": "Open your Pip-Boy and watch the Fallout Season Two video on Desktop to claim the Vault Avatar Decoration!",
-              "target": 100
-            }
-          },
-          "enrollment_url": "https://www.discord.com",
-          "developer_application_id": "1438480245844873387"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "ACHIEVEMENT_IN_ACTIVITY": {
-              "type": "ACHIEVEMENT_IN_ACTIVITY",
-              "target": 100,
-              "applications": [
-                {
-                  "id": "1438480245844873387"
-                }
-              ],
-              "event_name": "progress",
-              "messages": {
-                "task_title": "Open your Pip-Boy and watch the Fallout Season Two video on Desktop to claim the Vault Avatar Decoration!",
-                "task_description": "Open your Pip-Boy and watch the Fallout Season Two video on Desktop to claim the Vault Avatar Decoration!"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 3,
-              "sku_id": "1446317166008864881",
-              "asset": "quests/1445133129382891662/1446317486055100457.mp4",
-              "asset_video": null,
-              "messages": {
-                "name": "Vault Avatar Decoration",
-                "name_with_article": "a Vault Avatar Decoration",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "expires_at": "2026-02-16T00:00:00+00:00",
-              "expires_at_premium": null,
-              "expiration_mode": 3
-            }
-          ],
-          "rewards_expire_at": "2026-01-16T00:00:07+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.amazon.com/gp/video/detail/B0FLSZBRZJ/ref=atv_dp_season_select_s2",
-          "button_label": "En savoir plus",
-          "subtitle": "Fallout Season Two - Premiering December 17 on Prime"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
       "id": "1450290494172172303",
       "config": {
         "id": "1450290494172172303",
@@ -1684,126 +1251,6 @@
         "share_policy": "shareable_everywhere",
         "cta_config": {
           "link": "https://www.playdeltaforce.com/wand/discordahsarah/index.html",
-          "button_label": "Obtenir le jeu"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
-      "id": "1447749956189294614",
-      "config": {
-        "id": "1447749956189294614",
-        "config_version": 2,
-        "starts_at": "2025-12-12T20:25:27+00:00",
-        "expires_at": "2025-12-22T04:00:27+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://huntshowdown.com",
-          "id": "1402417933225033759",
-          "name": "Hunt: Showdown"
-        },
-        "assets": {
-          "hero": "quests/1447749956189294614/1447751465086226634.jpg",
-          "hero_video": null,
-          "quest_bar_hero": "quests/1447749956189294614/1447751488171409509.jpg",
-          "quest_bar_hero_video": "quests/1447749956189294614/1447751777679052851.mp4",
-          "game_tile": "1447751598737592412.png",
-          "logotype": "1448009253339004948.png",
-          "game_tile_light": "quests/1447749956189294614/1447751526008361171.png",
-          "game_tile_dark": "quests/1447749956189294614/1447751526008361171.png",
-          "logotype_light": "quests/1447749956189294614/1448009237677736006.png",
-          "logotype_dark": "quests/1447749956189294614/1448009237677736006.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Hunt: Showdown 1896",
-          "game_title": "Hunt: Showdown 1896",
-          "game_publisher": "Crytek"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "event_name": "PLAY_ON_DESKTOP",
-              "target": 900
-            },
-            "PLAY_ON_XBOX": {
-              "event_name": "PLAY_ON_XBOX",
-              "target": 900
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "event_name": "PLAY_ON_PLAYSTATION",
-              "target": 900
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1402417933225033759"
-                }
-              ]
-            },
-            "PLAY_ON_XBOX": {
-              "type": "PLAY_ON_XBOX",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1402417933225033759"
-                }
-              ]
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1402417933225033759"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 1,
-              "sku_id": "1447749956189294615",
-              "asset": "quests/1447749956189294614/1447764100615634954.png",
-              "asset_video": null,
-              "messages": {
-                "name": "Fate’s Friend: Shorty Silencer",
-                "name_with_article": "Fate’s Friend: Shorty Silencer",
-                "redemption_instructions_by_platform": {
-                  "0": "To redeem your code, head to your Settings in-game, select \"More\"> \"Redeem Code\"> Input the 16-digit code and click \"Redeem Code.\"\n"
-                }
-              },
-              "approximate_count": null,
-              "redemption_link": null
-            }
-          ],
-          "rewards_expire_at": "2026-01-21T04:00:27+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://huntshowdown.com",
           "button_label": "Obtenir le jeu"
         }
       },
@@ -2099,134 +1546,6 @@
       "preview": false
     },
     {
-      "id": "1448394266714968219",
-      "config": {
-        "id": "1448394266714968219",
-        "config_version": 2,
-        "starts_at": "2025-12-14T15:00:43+00:00",
-        "expires_at": "2025-12-21T00:00:43+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://bit.ly/StealtheBrainrotRESPAWN",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1448394266714968219/1448395308059983872.jpg",
-          "hero_video": "quests/1448394266714968219/1448737098193436692.mp4",
-          "quest_bar_hero": "quests/1448394266714968219/1448395308059983872.jpg",
-          "quest_bar_hero_video": "quests/1448394266714968219/1448737098193436692.mp4",
-          "game_tile": "1448396266328297544.png",
-          "logotype": "1449084987981955102.png",
-          "game_tile_light": "quests/1448394266714968219/1448395596351410176.png",
-          "game_tile_dark": "quests/1448394266714968219/1448395528768589844.png",
-          "logotype_light": "quests/1448394266714968219/1449084772595925183.png",
-          "logotype_dark": "quests/1448394266714968219/1449084822793486457.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "7 Days of Rot",
-          "game_title": "RESPAWN by Razer",
-          "game_publisher": "RESPAWN by Razer 7 Days of Rot"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "WATCH_VIDEO_ON_MOBILE": {
-              "event_name": "WATCH_VIDEO_ON_MOBILE",
-              "target": 29
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1448394266714968219/1448400551686570086_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1448394266714968219/1448397117021229116.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1448394266714968219/1448400551686570086_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1448394266714968219/1448397117021229116.png"
-                },
-                "video_hls": {
-                  "url": "quests/1448394266714968219/1448400551686570086.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1448394266714968219/1448397117021229116.png"
-                }
-              },
-              "messages": {
-                "video_title": "7 Days of Rot"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700
-            }
-          ],
-          "rewards_expire_at": "2026-01-20T00:00:43+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "video_metadata": {
-          "messages": {
-            "video_title": "7 Days of Rot",
-            "video_end_cta_subtitle": "RESPAWN by Razer 7 Days of Rot",
-            "video_end_cta_button_label": "Rejoindre le serveur"
-          },
-          "assets": {
-            "video_player_video_hls": "quests/1448394266714968219/1448400551686570086.m3u8",
-            "video_player_video": "quests/1448394266714968219/1448400551686570086_1080.mp4",
-            "video_player_thumbnail": "quests/1448394266714968219/1448397117021229116.png",
-            "video_player_video_low_res": "quests/1448394266714968219/1448400551686570086_720.mp4",
-            "video_player_caption": null,
-            "video_player_transcript": null,
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
-        },
-        "share_policy": "not_shareable",
-        "cta_config": {
-          "link": "https://bit.ly/StealtheBrainrotRESPAWN",
-          "button_label": "Rejoindre le serveur",
-          "subtitle": "RESPAWN by Razer 7 Days of Rot"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
       "id": "1445135504210395167",
       "config": {
         "id": "1445135504210395167",
@@ -2331,121 +1650,6 @@
           "link": "https://www.fandango.com/the-spongebob-movie-search-for-squarepants-2025-241341/movie-overview",
           "button_label": "Obtenir des tickets",
           "subtitle": "In Theaters December 19"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
-      "id": "1445134581761183774",
-      "config": {
-        "id": "1445134581761183774",
-        "config_version": 2,
-        "starts_at": "2025-12-17T18:00:53+00:00",
-        "expires_at": "2025-12-24T00:00:53+00:00",
-        "features": [
-          3,
-          8,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23,
-          27
-        ],
-        "application": {
-          "link": "https://www.amazon.com/gp/video/detail/B0FLSZBRZJ/ref=atv_dp_season_select_s2B0FLSZBRZJ&ref_=dvm_us_c_dig_HNDO_cm",
-          "id": "1438480245844873387",
-          "name": "Fallout Pip-Boy"
-        },
-        "assets": {
-          "hero": "quests/1445134581761183774/1450604716965888030.jpg",
-          "hero_video": "quests/1445134581761183774/1450605154448576512.mp4",
-          "quest_bar_hero": "quests/1445134581761183774/1450604932800708648.jpg",
-          "quest_bar_hero_video": "quests/1445134581761183774/1450605154448576512.mp4",
-          "game_tile": "1450605285575098499.png",
-          "logotype": "1450605284614738140.png",
-          "game_tile_light": "quests/1445134581761183774/1450605270525939794.png",
-          "game_tile_dark": "quests/1445134581761183774/1450605270525939794.png",
-          "logotype_light": "quests/1445134581761183774/1450605222576652472.png",
-          "logotype_dark": "quests/1445134581761183774/1450605247410999348.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Welcome Back to the Wasteland",
-          "game_title": "Fallout Pip-Boy Activity",
-          "game_publisher": "Amazon Prime Video"
-        },
-        "task_config": {
-          "type": 2,
-          "join_operator": "or",
-          "tasks": {
-            "progress": {
-              "event_name": "progress",
-              "title": "Watch exclusive Fallout Season Two behind-the-scenes clip on Desktop to claim the Dinky Avatar Decoration!",
-              "description": "Watch exclusive Fallout Season Two behind-the-scenes clip on Desktop to claim the Dinky Avatar Decoration!",
-              "target": 100
-            }
-          },
-          "enrollment_url": "https://www.discord.com",
-          "developer_application_id": "1438480245844873387"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "ACHIEVEMENT_IN_ACTIVITY": {
-              "type": "ACHIEVEMENT_IN_ACTIVITY",
-              "target": 100,
-              "applications": [
-                {
-                  "id": "1438480245844873387"
-                }
-              ],
-              "event_name": "progress",
-              "messages": {
-                "task_title": "Watch exclusive Fallout Season Two behind-the-scenes clip on Desktop to claim the Dinky Avatar Decoration!",
-                "task_description": "Watch exclusive Fallout Season Two behind-the-scenes clip on Desktop to claim the Dinky Avatar Decoration!"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 3,
-              "sku_id": "1450609480227356755",
-              "asset": "quests/1445134581761183774/1450611339453136926.mp4",
-              "asset_video": null,
-              "messages": {
-                "name": "Dinky Avatar Decoration",
-                "name_with_article": "a Dinky Avatar Decoration",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "expires_at": "2026-02-22T00:00:00+00:00",
-              "expires_at_premium": null,
-              "expiration_mode": 3
-            }
-          ],
-          "rewards_expire_at": "2026-01-23T00:00:53+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.amazon.com/gp/video/detail/B0FLSZBRZJ/ref=atv_dp_season_select_s2B0FLSZBRZJ&ref_=dvm_us_c_dig_HNDO_cm",
-          "button_label": "Regarder",
-          "subtitle": "Watch Fallout Season Two now on Prime."
         }
       },
       "user_status": null,
@@ -2736,293 +1940,6 @@
       "preview": false
     },
     {
-      "id": "1448459807458857011",
-      "config": {
-        "id": "1448459807458857011",
-        "config_version": 2,
-        "starts_at": "2025-12-10T18:30:09+00:00",
-        "expires_at": "2025-12-18T00:00:09+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://www.rockstargames.com/newswire/article/ak392a52o59o13/gta-online-a-safehouse-in-the-hills-now-available?utm_source=Discord&utm_medium=p_social&utm_campaign=479:tu-release-20251210&utm_content=us-eng",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1448459807458857011/1448460590715637810.jpg",
-          "hero_video": "quests/1448459807458857011/1448461181844066325.mp4",
-          "quest_bar_hero": "quests/1448459807458857011/1448460549326246043.jpg",
-          "quest_bar_hero_video": "quests/1448459807458857011/1448461181844066325.mp4",
-          "game_tile": "1448461237376520266.png",
-          "logotype": "1448461236277608629.png",
-          "game_tile_light": "quests/1448459807458857011/1448460662853468280.png",
-          "game_tile_dark": "quests/1448459807458857011/1448460662853468280.png",
-          "logotype_light": "quests/1448459807458857011/1448460685469286561.png",
-          "logotype_dark": "quests/1448459807458857011/1448460863785930813.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "GTA Online",
-          "game_title": "GTA Online",
-          "game_publisher": "Rockstar Games"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "WATCH_VIDEO": {
-              "event_name": "WATCH_VIDEO",
-              "target": 59
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 59,
-              "assets": {
-                "video": {
-                  "url": "quests/1448459807458857011/1448461642953130119_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1448459807458857011/1448461708048728245.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1448459807458857011/1448461642953130119_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1448459807458857011/1448461708048728245.png"
-                },
-                "video_hls": {
-                  "url": "quests/1448459807458857011/1448461642953130119.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1448459807458857011/1448461708048728245.png"
-                }
-              },
-              "messages": {
-                "video_title": "A Safehouse in the Hills"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700
-            }
-          ],
-          "rewards_expire_at": "2026-01-17T00:00:09+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "video_metadata": {
-          "messages": {
-            "video_title": "A Safehouse in the Hills",
-            "video_end_cta_subtitle": "GTA Online",
-            "video_end_cta_button_label": "Jouer"
-          },
-          "assets": {
-            "video_player_video_hls": "quests/1448459807458857011/1448461642953130119.m3u8",
-            "video_player_video": "quests/1448459807458857011/1448461642953130119_1080.mp4",
-            "video_player_thumbnail": "quests/1448459807458857011/1448461708048728245.png",
-            "video_player_video_low_res": "quests/1448459807458857011/1448461642953130119_720.mp4",
-            "video_player_caption": null,
-            "video_player_transcript": null,
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.rockstargames.com/newswire/article/ak392a52o59o13/gta-online-a-safehouse-in-the-hills-now-available?utm_source=Discord&utm_medium=p_social&utm_campaign=479:tu-release-20251210&utm_content=us-eng",
-          "button_label": "Jouer",
-          "subtitle": "GTA Online"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
-      "id": "1450185202675617844",
-      "config": {
-        "id": "1450185202675617844",
-        "config_version": 2,
-        "starts_at": "2025-12-16T23:30:15+00:00",
-        "expires_at": "2025-12-22T00:00:15+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://www.disclosuredaymovie.com/",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1450185202675617844/1450599076071739513.jpg",
-          "hero_video": "quests/1450185202675617844/1450598941635641405.mp4",
-          "quest_bar_hero": "quests/1450185202675617844/1450598913672478935.jpg",
-          "quest_bar_hero_video": "quests/1450185202675617844/1450598941635641405.mp4",
-          "game_tile": "1450599272142737408.png",
-          "logotype": "1450619396547416105.png",
-          "game_tile_light": "quests/1450185202675617844/1450599246301499545.png",
-          "game_tile_dark": "quests/1450185202675617844/1450599246301499545.png",
-          "logotype_light": "quests/1450185202675617844/1450619311470149682.png",
-          "logotype_dark": "quests/1450185202675617844/1450619373361299587.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Disclosure Day",
-          "game_title": "Disclosure Day In Theaters 06.12.26",
-          "game_publisher": "Universal Pictures"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "WATCH_VIDEO": {
-              "event_name": "WATCH_VIDEO",
-              "target": 125
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "event_name": "WATCH_VIDEO_ON_MOBILE",
-              "target": 124
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 125,
-              "assets": {
-                "video": {
-                  "url": "quests/1450185202675617844/1450595341186498721_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1450185202675617844/1450595615313629347.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1450185202675617844/1450595341186498721_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1450185202675617844/1450595615313629347.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1450185202675617844/1450595341186498721.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1450185202675617844/1450595615313629347.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "Disclosure Day Trailer"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 124,
-              "assets": {
-                "video": {
-                  "url": "quests/1450185202675617844/1450595385599856700_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1450185202675617844/1450595615313629347.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1450185202675617844/1450595385599856700_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1450185202675617844/1450595615313629347.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1450185202675617844/1450595385599856700.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1450185202675617844/1450595615313629347.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "Disclosure Day Trailer"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700
-            }
-          ],
-          "rewards_expire_at": "2026-01-21T00:00:15+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "video_metadata": {
-          "messages": {
-            "video_title": "Disclosure Day Trailer",
-            "video_end_cta_subtitle": "Disclosure Day In Theaters 06.12.26",
-            "video_end_cta_button_label": "En savoir plus"
-          },
-          "assets": {
-            "video_player_video_hls": "quests/1450185202675617844/1450595341186498721.m3u8",
-            "video_player_video": "quests/1450185202675617844/1450595341186498721_1080.mp4",
-            "video_player_thumbnail": "quests/1450185202675617844/1450595615313629347.jpg",
-            "video_player_video_low_res": "quests/1450185202675617844/1450595341186498721_720.mp4",
-            "video_player_caption": null,
-            "video_player_transcript": null,
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.disclosuredaymovie.com/",
-          "button_label": "En savoir plus",
-          "subtitle": "Disclosure Day In Theaters 06.12.26"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
       "id": "1450612818406539447",
       "config": {
         "id": "1450612818406539447",
@@ -3142,134 +2059,6 @@
         "cta_config": {
           "link": "https://totalbattle.onelink.me/ltvh/hfr103l0",
           "button_label": "Jouer"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
-      "id": "1450233741828948154",
-      "config": {
-        "id": "1450233741828948154",
-        "config_version": 2,
-        "starts_at": "2025-12-18T18:00:08+00:00",
-        "expires_at": "2025-12-25T00:00:08+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://voidinteractive.net/ready-or-not-console/?utm_source=discord&utm_medium=paidmedialqa&utm_campaign=ron-holidaysale-us&utm_term=shooterfans&utm_content=holidaytrailer-1920x1080-full",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1450233741828948154/1450235193964232786.jpg",
-          "hero_video": "quests/1450233741828948154/1450235130080661738.mp4",
-          "quest_bar_hero": "quests/1450233741828948154/1450235012157800670.jpg",
-          "quest_bar_hero_video": "quests/1450233741828948154/1450235130080661738.mp4",
-          "game_tile": "1450235362978041917.png",
-          "logotype": "1450305390612054098.png",
-          "game_tile_light": "quests/1450233741828948154/1450235326348918984.png",
-          "game_tile_dark": "quests/1450233741828948154/1450235326348918984.png",
-          "logotype_light": "quests/1450233741828948154/1450305355656462336.png",
-          "logotype_dark": "quests/1450233741828948154/1450305355656462336.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Ready or Not",
-          "game_title": "Ready or Not",
-          "game_publisher": "VOID Interactive"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "WATCH_VIDEO": {
-              "event_name": "WATCH_VIDEO",
-              "target": 29
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1450233741828948154/1450235874695577763_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1450233741828948154/1450237212884209838.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1450233741828948154/1450235874695577763_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1450233741828948154/1450237212884209838.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1450233741828948154/1450235874695577763.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1450233741828948154/1450237212884209838.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "Bande Annonce Ready of Not"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700
-            }
-          ],
-          "rewards_expire_at": "2026-01-24T00:00:08+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "video_metadata": {
-          "messages": {
-            "video_title": "Bande Annonce Ready of Not",
-            "video_end_cta_subtitle": "En solde sur Steam, PS5 et Xbox Series X|S.",
-            "video_end_cta_button_label": "Acheter maintenant"
-          },
-          "assets": {
-            "video_player_video_hls": "quests/1450233741828948154/1450235514639880353.m3u8",
-            "video_player_video": "quests/1450233741828948154/1450235514639880353_1080.mp4",
-            "video_player_thumbnail": "quests/1450233741828948154/1450236482529923143.jpg",
-            "video_player_video_low_res": "quests/1450233741828948154/1450235514639880353_720.mp4",
-            "video_player_caption": null,
-            "video_player_transcript": null,
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://voidinteractive.net/ready-or-not-console/?utm_source=discord&utm_medium=paidmedialqa&utm_campaign=ron-holidaysale-us&utm_term=shooterfans&utm_content=holidaytrailer-1920x1080-full",
-          "button_label": "Acheter maintenant",
-          "subtitle": "En solde sur Steam, PS5 et Xbox Series X|S."
         }
       },
       "user_status": null,
@@ -3424,228 +2213,6 @@
         "dismissed_quest_content": 0,
         "progress": {}
       },
-      "targeted_content": [],
-      "preview": false
-    },
-    {
-      "id": "1450572529465950399",
-      "config": {
-        "id": "1450572529465950399",
-        "config_version": 2,
-        "starts_at": "2025-12-26T18:40:21+00:00",
-        "expires_at": "2025-12-31T07:59:21+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://www.netflix.com/tudum/articles/end-of-year-recap-spoilers-2025?utm_source=Social&utm_medium=Paid&utm_campaign=eoy&utm_term=spoilers&utm_content=end-of-year-recap-spoilers-2025",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1450572529465950399/1454180288832733234.jpg",
-          "hero_video": "quests/1450572529465950399/1454180364561158195.mp4",
-          "quest_bar_hero": "quests/1450572529465950399/1454180334919745546.jpg",
-          "quest_bar_hero_video": "quests/1450572529465950399/1454180364561158195.mp4",
-          "game_tile": "1454181105665183947.png",
-          "logotype": "1454181104629055781.png",
-          "game_tile_light": "quests/1450572529465950399/1454180457510993993.png",
-          "game_tile_dark": "quests/1450572529465950399/1454180457510993993.png",
-          "logotype_light": "quests/1450572529465950399/1454180426171158799.png",
-          "logotype_dark": "quests/1450572529465950399/1454180426171158799.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Netflix Spoils 2025",
-          "game_title": " Netflix Spoils 2025",
-          "game_publisher": "Netflix"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "WATCH_VIDEO_ON_MOBILE": {
-              "event_name": "WATCH_VIDEO_ON_MOBILE",
-              "target": 99
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 99,
-              "assets": {
-                "video": {
-                  "url": "quests/1450572529465950399/1454179491831353437_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1450572529465950399/1454179536655880313.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1450572529465950399/1454179491831353437_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1450572529465950399/1454179536655880313.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1450572529465950399/1454179491831353437.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1450572529465950399/1454179536655880313.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "Netflix Spoils 2025"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700
-            }
-          ],
-          "rewards_expire_at": "2026-01-30T07:59:21+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "video_metadata": {
-          "messages": {
-            "video_title": "Netflix Spoils 2025",
-            "video_end_cta_subtitle": "Netflix Spoils 2025",
-            "video_end_cta_button_label": "En savoir plus"
-          },
-          "assets": {
-            "video_player_video_hls": "quests/1450572529465950399/1454179491831353437.m3u8",
-            "video_player_video": "quests/1450572529465950399/1454179491831353437_1080.mp4",
-            "video_player_thumbnail": "quests/1450572529465950399/1454179536655880313.jpg",
-            "video_player_video_low_res": "quests/1450572529465950399/1454179491831353437_720.mp4",
-            "video_player_caption": null,
-            "video_player_transcript": null,
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.netflix.com/tudum/articles/end-of-year-recap-spoilers-2025?utm_source=Social&utm_medium=Paid&utm_campaign=eoy&utm_term=spoilers&utm_content=end-of-year-recap-spoilers-2025",
-          "button_label": "En savoir plus",
-          "subtitle": "Netflix Spoils 2025"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
-      "id": "1448427219461341377",
-      "config": {
-        "id": "1448427219461341377",
-        "config_version": 2,
-        "starts_at": "2025-12-17T02:00:39+00:00",
-        "expires_at": "2025-12-23T00:00:39+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://bluearchive-abr.na.nexon.com/9s1mmqq",
-          "id": "1390512760860704889",
-          "name": "Blue Archive"
-        },
-        "assets": {
-          "hero": "quests/1448427219461341377/1449150671017214053.jpg",
-          "hero_video": null,
-          "quest_bar_hero": "quests/1448427219461341377/1449150599890473041.jpg",
-          "quest_bar_hero_video": null,
-          "game_tile": "1448434049424035994.png",
-          "logotype": "1448434048509939884.png",
-          "game_tile_light": "quests/1448427219461341377/1448433944386207936.png",
-          "game_tile_dark": "quests/1448427219461341377/1448433865348743300.png",
-          "logotype_light": "quests/1448427219461341377/1448433719873634304.png",
-          "logotype_dark": "quests/1448427219461341377/1448433646628372590.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Blue Archive",
-          "game_title": "Blue Archive",
-          "game_publisher": "NEXON KOREA"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "event_name": "PLAY_ON_DESKTOP",
-              "target": 900
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1390512760860704889"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 1,
-              "sku_id": "1448427219461341378",
-              "asset": "quests/1448427219461341377/1448431117316133075.png",
-              "asset_video": null,
-              "messages": {
-                "name": "300 Pyroxene and more",
-                "name_with_article": "300 Pyroxene and more",
-                "redemption_instructions_by_platform": {
-                  "0": "Congratulations on getting an in-game reward for Blue Archive Quest. In order to claim the item in-game follow these steps:  \nStep 1: Enter Game > Top-right Icon > [Menu Tab] > [Account] > [Customer Support] > check \"Member Code\" > Copy  \nGo to [https://mcoupon.nexon.com/bluearchive]  \nStep 2: Select Server > Input copied Member Code > Enter Coupon Code > Click Confirm"
-                }
-              },
-              "approximate_count": null,
-              "redemption_link": null
-            }
-          ],
-          "rewards_expire_at": "2026-01-22T00:00:39+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://bluearchive-abr.na.nexon.com/9s1mmqq",
-          "button_label": "Jouer"
-        }
-      },
-      "user_status": null,
       "targeted_content": [],
       "preview": false
     },
@@ -4534,165 +3101,6 @@
       "preview": false
     },
     {
-      "id": "1447665727824724068",
-      "config": {
-        "id": "1447665727824724068",
-        "config_version": 2,
-        "starts_at": "2025-12-12T18:00:45+00:00",
-        "expires_at": "2025-12-24T07:59:45+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://www.exodusgame.com/?utm_source=discord&utm_medium=paid&utm_campaign=paid_tgas&utm_content=tgavideo&utm_term=generalgaming#wishlist",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1447665727824724068/1447668037246259290.jpeg",
-          "hero_video": "quests/1447665727824724068/1447667965838495925.mp4",
-          "quest_bar_hero": "quests/1447665727824724068/1447667898226053222.jpg",
-          "quest_bar_hero_video": "quests/1447665727824724068/1447667965838495925.mp4",
-          "game_tile": "1447668234521411584.png",
-          "logotype": "1447683945599860787.png",
-          "game_tile_light": "quests/1447665727824724068/1447668189629644851.png",
-          "game_tile_dark": "quests/1447665727824724068/1447668189629644851.png",
-          "logotype_light": "quests/1447665727824724068/1447683833150570666.png",
-          "logotype_dark": "quests/1447665727824724068/1447683833150570666.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Bande-annonce d'EXODUS™",
-          "game_title": "EXODUS™",
-          "game_publisher": "Wizards of the Coast"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "WATCH_VIDEO": {
-              "event_name": "WATCH_VIDEO",
-              "target": 29
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "event_name": "WATCH_VIDEO_ON_MOBILE",
-              "target": 29
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1447665727824724068/1447668657907044464_1080.mp4",
-                  "width": 3840,
-                  "height": 2160,
-                  "thumbnail": "quests/1447665727824724068/1447670127347892325.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1447665727824724068/1447668657907044464_720.mp4",
-                  "width": 3840,
-                  "height": 2160,
-                  "thumbnail": "quests/1447665727824724068/1447670127347892325.png"
-                },
-                "video_hls": {
-                  "url": "quests/1447665727824724068/1447668657907044464.m3u8",
-                  "width": 3840,
-                  "height": 2160,
-                  "thumbnail": "quests/1447665727824724068/1447670127347892325.png"
-                }
-              },
-              "messages": {
-                "video_title": "EXODUS | Bande-annonce « L'Ascension de Jun Aslan »"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1447665727824724068/1447670527824232501_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1447665727824724068/1447670127347892325.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1447665727824724068/1447670527824232501_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1447665727824724068/1447670127347892325.png"
-                },
-                "video_hls": {
-                  "url": "quests/1447665727824724068/1447670527824232501.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1447665727824724068/1447670127347892325.png"
-                }
-              },
-              "messages": {
-                "video_title": "EXODUS | Bande-annonce « L'Ascension de Jun Aslan »"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "orb_quantity": 700
-            }
-          ],
-          "rewards_expire_at": "2026-01-23T07:59:45+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "video_metadata": {
-          "messages": {
-            "video_title": "EXODUS | Bande-annonce « L'Ascension de Jun Aslan »",
-            "video_end_cta_subtitle": "Votre EXODUS commence début 2027",
-            "video_end_cta_button_label": "Ajouter à ta liste de souhaits"
-          },
-          "assets": {
-            "video_player_video_hls": "quests/1447665727824724068/1447668391228997702.m3u8",
-            "video_player_video": "quests/1447665727824724068/1447668391228997702_1080.mp4",
-            "video_player_thumbnail": "quests/1447665727824724068/1447669970858151976.png",
-            "video_player_video_low_res": "quests/1447665727824724068/1447668391228997702_720.mp4",
-            "video_player_caption": null,
-            "video_player_transcript": null,
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.exodusgame.com/?utm_source=discord&utm_medium=paid&utm_campaign=paid_tgas&utm_content=tgavideo&utm_term=generalgaming#wishlist",
-          "button_label": "Ajouter à ta liste de souhaits",
-          "subtitle": "Votre EXODUS commence début 2027"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
       "id": "1450554943139217508",
       "config": {
         "id": "1450554943139217508",
@@ -4973,48 +3381,40 @@
       "preview": false
     },
     {
-      "id": "1445532356323836135",
+      "id": "1450572280764563556",
       "config": {
-        "id": "1445532356323836135",
+        "id": "1450572280764563556",
         "config_version": 2,
-        "starts_at": "2025-12-12T18:00:30+00:00",
-        "expires_at": "2025-12-20T00:00:30+00:00",
+        "starts_at": "2025-12-19T18:30:22+00:00",
+        "expires_at": "2026-01-01T07:59:22+00:00",
         "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
+          15
         ],
         "application": {
-          "link": "https://pathofexile2.com/",
-          "id": "1328876348361412619",
-          "name": "Path of Exile 2"
+          "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
+          "id": "1437509662303059998",
+          "name": "Where Winds Meet"
         },
         "assets": {
-          "hero": "quests/1445532356323836135/1445545944941727746.jpg",
-          "hero_video": null,
-          "quest_bar_hero": "quests/1445532356323836135/1445545897583837477.jpg",
-          "quest_bar_hero_video": null,
-          "game_tile": "1445546363118031009.jpg",
-          "logotype": "1445546165348208710.png",
-          "game_tile_light": "quests/1445532356323836135/1445546241562775673.jpg",
-          "game_tile_dark": "quests/1445532356323836135/1445546314493464656.jpg",
-          "logotype_light": "quests/1445532356323836135/1445546108767043594.png",
-          "logotype_dark": "quests/1445532356323836135/1445546037061357708.png"
+          "hero": "quests/1450572280764563556/1451316446893441185.jpg",
+          "hero_video": "quests/1450572280764563556/1451316636824109147.mp4",
+          "quest_bar_hero": "quests/1450572280764563556/1451316109532987503.jpg",
+          "quest_bar_hero_video": "quests/1450572280764563556/1451316359156731996.mp4",
+          "game_tile": "1451316907788472452.png",
+          "logotype": "1451316905615823029.png",
+          "game_tile_light": "quests/1450572280764563556/1451316678335004683.png",
+          "game_tile_dark": "quests/1450572280764563556/1451316678335004683.png",
+          "logotype_light": "quests/1450572280764563556/1451316710345801788.png",
+          "logotype_dark": "quests/1450572280764563556/1451316710345801788.png"
         },
         "colors": {
           "primary": "#4752C4",
           "secondary": "#000000"
         },
         "messages": {
-          "quest_name": "Path of Exile 2",
-          "game_title": "Path of Exile 2",
-          "game_publisher": "Grinding Gear Games"
+          "quest_name": "Where Winds Meet Adventure",
+          "game_title": "Where Winds Meet",
+          "game_publisher": "NETEASE"
         },
         "task_config": {
           "type": 1,
@@ -5022,10 +3422,6 @@
           "tasks": {
             "PLAY_ON_DESKTOP": {
               "event_name": "PLAY_ON_DESKTOP",
-              "target": 900
-            },
-            "PLAY_ON_XBOX": {
-              "event_name": "PLAY_ON_XBOX",
               "target": 900
             },
             "PLAY_ON_PLAYSTATION": {
@@ -5041,16 +3437,7 @@
               "target": 900,
               "applications": [
                 {
-                  "id": "1328876348361412619"
-                }
-              ]
-            },
-            "PLAY_ON_XBOX": {
-              "type": "PLAY_ON_XBOX",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1328876348361412619"
+                  "id": "1437509662303059998"
                 }
               ]
             },
@@ -5059,7 +3446,7 @@
               "target": 900,
               "applications": [
                 {
-                  "id": "1328876348361412619"
+                  "id": "1437509662303059998"
                 }
               ]
             }
@@ -5070,31 +3457,27 @@
           "assignment_method": 1,
           "rewards": [
             {
-              "type": 3,
-              "sku_id": "1445852154131775520",
-              "asset": "quests/1445532356323836135/1446257835737350327.mp4",
-              "asset_video": null,
+              "type": 4,
+              "sku_id": "1287881739531976815",
               "messages": {
-                "name": "Last of the Druids Avatar",
-                "name_with_article": "a Last of the Druids Avatar",
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
                 "redemption_instructions_by_platform": {
-                  "0": "Default"
+                  "0": "PLACEHOLDER"
                 }
               },
-              "expires_at": "2026-02-19T00:00:00+00:00",
-              "expires_at_premium": null,
-              "expiration_mode": 3
+              "orb_quantity": 700
             }
           ],
-          "rewards_expire_at": "2026-01-19T00:00:30+00:00",
+          "rewards_expire_at": "2026-01-31T07:59:22+00:00",
           "platforms": [
             0
           ]
         },
         "share_policy": "shareable_everywhere",
         "cta_config": {
-          "link": "https://pathofexile2.com/",
-          "button_label": "Jouer au jeu"
+          "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
+          "button_label": "Obtenir le jeu"
         }
       },
       "user_status": null,
@@ -5186,145 +3569,6 @@
         "cta_config": {
           "link": "https://store.steampowered.com/app/3357650/PRAGMATA/",
           "button_label": "Jouer"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
-      "id": "1445883772816986212",
-      "config": {
-        "id": "1445883772816986212",
-        "config_version": 2,
-        "starts_at": "2025-12-12T18:00:54+00:00",
-        "expires_at": "2025-12-23T00:00:54+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://www.warframe.com/the-old-peace?utm_medium=paid-social&utm_source=discord&utm_campaign=DiscordVideoQuest",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1445883772816986212/1445887780130521180.jpg",
-          "hero_video": "quests/1445883772816986212/1445887696060027042.mp4",
-          "quest_bar_hero": "quests/1445883772816986212/1445887617781596190.jpg",
-          "quest_bar_hero_video": "quests/1445883772816986212/1445887696060027042.mp4",
-          "game_tile": "1445887988230918204.png",
-          "logotype": "1445887987232538879.png",
-          "game_tile_light": "quests/1445883772816986212/1445887950247301272.png",
-          "game_tile_dark": "quests/1445883772816986212/1445887950247301272.png",
-          "logotype_light": "quests/1445883772816986212/1445887894412857495.png",
-          "logotype_dark": "quests/1445883772816986212/1445887894412857495.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Warframe Old Peace",
-          "game_title": "Warframe",
-          "game_publisher": "Digital Extremes"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "WATCH_VIDEO": {
-              "event_name": "WATCH_VIDEO",
-              "target": 91
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 91,
-              "assets": {
-                "video": {
-                  "url": "quests/1445883772816986212/1445890933592817745_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1445883772816986212/1445892509208412282.png",
-                  "caption": "quests/1445883772816986212/1445892567635066952.vtt"
-                },
-                "video_low_res": {
-                  "url": "quests/1445883772816986212/1445890933592817745_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1445883772816986212/1445892509208412282.png",
-                  "caption": "quests/1445883772816986212/1445892567635066952.vtt"
-                },
-                "video_hls": {
-                  "url": "quests/1445883772816986212/1445890933592817745.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1445883772816986212/1445892509208412282.png",
-                  "caption": "quests/1445883772816986212/1445892567635066952.vtt"
-                }
-              },
-              "messages": {
-                "video_title": "What is Warframe? trailer"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "orb_quantity": 700
-            }
-          ],
-          "rewards_expire_at": "2026-01-22T00:00:54+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "video_metadata": {
-          "messages": {
-            "video_title": "What is Warframe? trailer",
-            "video_end_cta_subtitle": "Wake up, Tenno.",
-            "video_end_cta_button_label": "Jouer"
-          },
-          "assets": {
-            "video_player_video_hls": "quests/1445883772816986212/1445890933592817745.m3u8",
-            "video_player_video": "quests/1445883772816986212/1445890933592817745_1080.mp4",
-            "video_player_thumbnail": "quests/1445883772816986212/1445892509208412282.png",
-            "video_player_video_low_res": "quests/1445883772816986212/1445890933592817745_720.mp4",
-            "video_player_caption": "quests/1445883772816986212/1445892567635066952.vtt",
-            "video_player_transcript": null,
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.warframe.com/the-old-peace?utm_medium=paid-social&utm_source=discord&utm_campaign=DiscordVideoQuest",
-          "button_label": "Jouer",
-          "subtitle": "Wake up, Tenno."
         }
       },
       "user_status": null,
@@ -5463,242 +3707,6 @@
       "preview": false
     },
     {
-      "id": "1450572280764563556",
-      "config": {
-        "id": "1450572280764563556",
-        "config_version": 2,
-        "starts_at": "2025-12-19T18:30:22+00:00",
-        "expires_at": "2026-01-01T07:59:22+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
-          "id": "1437509662303059998",
-          "name": "Where Winds Meet"
-        },
-        "assets": {
-          "hero": "quests/1450572280764563556/1451316446893441185.jpg",
-          "hero_video": "quests/1450572280764563556/1451316636824109147.mp4",
-          "quest_bar_hero": "quests/1450572280764563556/1451316109532987503.jpg",
-          "quest_bar_hero_video": "quests/1450572280764563556/1451316359156731996.mp4",
-          "game_tile": "1451316907788472452.png",
-          "logotype": "1451316905615823029.png",
-          "game_tile_light": "quests/1450572280764563556/1451316678335004683.png",
-          "game_tile_dark": "quests/1450572280764563556/1451316678335004683.png",
-          "logotype_light": "quests/1450572280764563556/1451316710345801788.png",
-          "logotype_dark": "quests/1450572280764563556/1451316710345801788.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Where Winds Meet Adventure",
-          "game_title": "Where Winds Meet",
-          "game_publisher": "NETEASE"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "event_name": "PLAY_ON_DESKTOP",
-              "target": 900
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "event_name": "PLAY_ON_PLAYSTATION",
-              "target": 900
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1437509662303059998"
-                }
-              ]
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1437509662303059998"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700
-            }
-          ],
-          "rewards_expire_at": "2026-01-31T07:59:22+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
-          "button_label": "Obtenir le jeu"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
-      "id": "1448102602704293999",
-      "config": {
-        "id": "1448102602704293999",
-        "config_version": 2,
-        "starts_at": "2025-12-12T18:00:44+00:00",
-        "expires_at": "2025-12-20T00:00:44+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://store.steampowered.com/app/4115450/Phantom_Blade_Zero?utm_source=discord&utm_campaign=tga2025&utm_medium=pmedia&utm_content=quest&utm_term=global",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1448102602704293999/1448106417465721096.jpg",
-          "hero_video": "quests/1448102602704293999/1448106100946767943.mp4",
-          "quest_bar_hero": "quests/1448102602704293999/1448106578610753657.jpg",
-          "quest_bar_hero_video": "quests/1448102602704293999/1448106100946767943.mp4",
-          "game_tile": "1448111747062960138.png",
-          "logotype": "1448107118858211429.PNG",
-          "game_tile_light": "quests/1448102602704293999/1448111727203061912.png",
-          "game_tile_dark": "quests/1448102602704293999/1448111727203061912.png",
-          "logotype_light": "quests/1448102602704293999/1448107096221417664.PNG",
-          "logotype_dark": "quests/1448102602704293999/1448107096221417664.PNG"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Phantom Blade Zero Video",
-          "game_title": "Phantom Blade Zero",
-          "game_publisher": "S-GAME"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "WATCH_VIDEO": {
-              "event_name": "WATCH_VIDEO",
-              "target": 240
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 240,
-              "assets": {
-                "video": {
-                  "url": "quests/1448102602704293999/1448899606359314583_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1448102602704293999/1448112146234867813.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1448102602704293999/1448899606359314583_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1448102602704293999/1448112146234867813.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1448102602704293999/1448899606359314583.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1448102602704293999/1448112146234867813.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "Phantom Blade Zero - Official Release Date Trailer"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 3,
-              "sku_id": "1448114830778171637",
-              "asset": "quests/1448102602704293999/1448115115810619452.mp4",
-              "asset_video": null,
-              "messages": {
-                "name": "Lethal Strike Avatar Decoration",
-                "name_with_article": "a Lethal Strike Avatar Decoration",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "expires_at": "2026-02-19T00:00:00+00:00",
-              "expires_at_premium": null,
-              "expiration_mode": 3
-            }
-          ],
-          "rewards_expire_at": "2026-01-19T00:00:44+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "video_metadata": {
-          "messages": {
-            "video_title": "Phantom Blade Zero - Official Release Date Trailer",
-            "video_end_cta_subtitle": "Watch the Phantom Blade Zero Official Release Date Trailer and claim a free Kungfu Punk-style avatar decoration.",
-            "video_end_cta_button_label": "Ajouter à ta liste de souhaits"
-          },
-          "assets": {
-            "video_player_video_hls": "quests/1448102602704293999/1448899606359314583.m3u8",
-            "video_player_video": "quests/1448102602704293999/1448899606359314583_1080.mp4",
-            "video_player_thumbnail": "quests/1448102602704293999/1448112146234867813.jpg",
-            "video_player_video_low_res": "quests/1448102602704293999/1448899606359314583_720.mp4",
-            "video_player_caption": null,
-            "video_player_transcript": null,
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://store.steampowered.com/app/4115450/Phantom_Blade_Zero?utm_source=discord&utm_campaign=tga2025&utm_medium=pmedia&utm_content=quest&utm_term=global",
-          "button_label": "Ajouter à ta liste de souhaits",
-          "subtitle": "Watch the Phantom Blade Zero Official Release Date Trailer and claim a free Kungfu Punk-style avatar decoration."
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
       "id": "1442992626965024880",
       "config": {
         "id": "1442992626965024880",
@@ -5811,117 +3819,6 @@
       "preview": false
     },
     {
-      "id": "1445135030124019954",
-      "config": {
-        "id": "1445135030124019954",
-        "config_version": 2,
-        "starts_at": "2025-12-24T18:00:40+00:00",
-        "expires_at": "2026-01-01T00:00:40+00:00",
-        "features": [
-          3,
-          8,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23,
-          27
-        ],
-        "application": {
-          "link": "https://www.amazon.com/gp/video/detail/b0flszbrzj/ref=atv_dp_season_select_s2b0flszbrzj&ref_=dvm_us_c_dig_hndo_cm",
-          "id": "1438480245844873387",
-          "name": "Fallout Pip-Boy"
-        },
-        "assets": {
-          "hero": "quests/1445135030124019954/1452764900375007322.jpg",
-          "hero_video": "quests/1445135030124019954/1452765089919930479.mp4",
-          "quest_bar_hero": "quests/1445135030124019954/1452765333419986985.jpg",
-          "quest_bar_hero_video": "quests/1445135030124019954/1452765089919930479.mp4",
-          "game_tile": "1452765498902188103.png",
-          "logotype": "1452765497861865533.png",
-          "game_tile_light": "quests/1445135030124019954/1452765459190648953.png",
-          "game_tile_dark": "quests/1445135030124019954/1452765459190648953.png",
-          "logotype_light": "quests/1445135030124019954/1452765410133938380.png",
-          "logotype_dark": "quests/1445135030124019954/1452765382577492059.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "New Vegas",
-          "game_title": "Fallout Pip-Boy Activity",
-          "game_publisher": "Amazon Prime Video"
-        },
-        "task_config": {
-          "type": 2,
-          "join_operator": "or",
-          "tasks": {
-            "progress": {
-              "event_name": "progress",
-              "title": "Get a sneak peek of New Vegas from Fallout Season Two to claim 700 Orbs on Desktop!",
-              "description": "Get a sneak peek of New Vegas from Fallout Season Two to claim 700 Orbs on Desktop!",
-              "target": 100
-            }
-          },
-          "enrollment_url": "https://www.discord.com",
-          "developer_application_id": "1438480245844873387"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "ACHIEVEMENT_IN_ACTIVITY": {
-              "type": "ACHIEVEMENT_IN_ACTIVITY",
-              "target": 100,
-              "applications": [
-                {
-                  "id": "1438480245844873387"
-                }
-              ],
-              "event_name": "progress",
-              "messages": {
-                "task_title": "Get a sneak peek of New Vegas from Fallout Season Two to claim 700 Orbs on Desktop!",
-                "task_description": "Get a sneak peek of New Vegas from Fallout Season Two to claim 700 Orbs on Desktop!"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "orb_quantity": 700
-            }
-          ],
-          "rewards_expire_at": "2026-01-31T00:00:40+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.amazon.com/gp/video/detail/b0flszbrzj/ref=atv_dp_season_select_s2b0flszbrzj&ref_=dvm_us_c_dig_hndo_cm",
-          "button_label": "Regarder",
-          "subtitle": "Watch Fallout Season Two now on Prime."
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
       "id": "1442626022259429496",
       "config": {
         "id": "1442626022259429496",
@@ -6026,7 +3923,64 @@
   ],
   "excluded_quests": [
     {
+      "id": "1450987508581273601"
+    },
+    {
+      "id": "1450981455332245638"
+    },
+    {
+      "id": "1418350811687419914"
+    },
+    {
+      "id": "1445133129382891662"
+    },
+    {
+      "id": "1447749956189294614"
+    },
+    {
+      "id": "1448394266714968219"
+    },
+    {
+      "id": "1440802449563582494"
+    },
+    {
+      "id": "1445134581761183774"
+    },
+    {
+      "id": "1450916943724023969"
+    },
+    {
+      "id": "1450624032323014819"
+    },
+    {
+      "id": "1440784653471453227"
+    },
+    {
+      "id": "1448459807458857011"
+    },
+    {
+      "id": "1450185202675617844"
+    },
+    {
+      "id": "1450624721040445621"
+    },
+    {
+      "id": "1450233741828948154"
+    },
+    {
+      "id": "1450228254492459068"
+    },
+    {
+      "id": "1450914567172653117"
+    },
+    {
+      "id": "1450572529465950399"
+    },
+    {
       "id": "1440813676654362816"
+    },
+    {
+      "id": "1448427219461341377"
     },
     {
       "id": "1410358070831480904"
@@ -6035,41 +3989,31 @@
       "id": "1440783598776225994"
     },
     {
-      "id": "1418350811687419914"
-    },
-    {
       "id": "1440808748263411793"
     },
     {
       "id": "1441138638703300698"
     },
     {
-      "id": "1440802449563582494"
+      "id": "1447665727824724068"
     },
     {
-      "id": "1450916943724023969",
-      "replacement_id": "1450233741828948154"
+      "id": "1445883772816986212"
     },
     {
-      "id": "1450624032323014819",
-      "replacement_id": "1450185202675617844"
+      "id": "1445532356323836135"
     },
     {
       "id": "1440778023438909671"
     },
     {
-      "id": "1440784653471453227"
+      "id": "1448102602704293999"
     },
     {
-      "id": "1450228254492459068"
+      "id": "1445135030124019954"
     },
     {
-      "id": "1450624721040445621",
-      "replacement_id": "1450185202675617844"
-    },
-    {
-      "id": "1450914567172653117",
-      "replacement_id": "1450233741828948154"
+      "id": "1449154662895849715"
     }
   ],
   "quest_enrollment_blocked_until": null
