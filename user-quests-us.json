@@ -1851,6 +1851,127 @@
       "preview": false
     },
     {
+      "id": "1451341117596504206",
+      "config": {
+        "id": "1451341117596504206",
+        "config_version": 2,
+        "starts_at": "2026-01-06T18:00:27+00:00",
+        "expires_at": "2026-01-14T00:00:27+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=VAL2026Act1",
+          "id": "700136079562375258",
+          "name": "VALORANT"
+        },
+        "assets": {
+          "hero": "quests/1451341117596504206/1451345254992056380.jpg",
+          "hero_video": "quests/1451341117596504206/1451345150843551846.mp4",
+          "quest_bar_hero": "quests/1451341117596504206/1451345087316627658.jpg",
+          "quest_bar_hero_video": "quests/1451341117596504206/1451345150843551846.mp4",
+          "game_tile": "1451345497527947315.png",
+          "logotype": "1451345496315662497.png",
+          "game_tile_light": "quests/1451341117596504206/1451345468385923246.png",
+          "game_tile_dark": "quests/1451341117596504206/1451345468385923246.png",
+          "logotype_light": "quests/1451341117596504206/1451345341814407341.png",
+          "logotype_dark": "quests/1451341117596504206/1451345414262489159.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Alpha vs Omega",
+          "game_title": "VALORANT",
+          "game_publisher": "Riot Games"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "event_name": "PLAY_ON_DESKTOP",
+              "target": 900
+            },
+            "PLAY_ON_XBOX": {
+              "event_name": "PLAY_ON_XBOX",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "event_name": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "700136079562375258"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "700136079562375258"
+                }
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "700136079562375258"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 3,
+              "sku_id": "1451346843458994237",
+              "asset": "quests/1451341117596504206/1451347155704086714.mp4",
+              "asset_video": null,
+              "messages": {
+                "name": "Viper Mask Avatar Decoration",
+                "name_with_article": "a Viper Mask Avatar Decoration",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "expires_at": "2026-03-13T23:00:00+00:00",
+              "expires_at_premium": null,
+              "expiration_mode": 3
+            }
+          ],
+          "rewards_expire_at": "2026-02-13T00:00:27+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=VAL2026Act1",
+          "button_label": "Play Now"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false
+    },
+    {
       "id": "1447749956189294614",
       "config": {
         "id": "1447749956189294614",
