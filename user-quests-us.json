@@ -590,40 +590,40 @@
       "preview": false
     },
     {
-      "id": "1452768522093723778",
+      "id": "1453141810833788928",
       "config": {
-        "id": "1452768522093723778",
+        "id": "1453141810833788928",
         "config_version": 2,
-        "starts_at": "2026-01-07T23:00:26+00:00",
-        "expires_at": "2026-01-10T00:00:26+00:00",
+        "starts_at": "2026-01-06T18:00:45+00:00",
+        "expires_at": "2026-01-10T00:00:45+00:00",
         "features": [
           15
         ],
         "application": {
-          "link": "https://www.espn.com/watch/catalog/0f8e3d42-fa27-3f60-9e8d-276e4892f50e/ncaa-football#bucketId=29779&sourceCollection=Browse_By_League",
+          "link": "https://discord.gg/razer",
           "id": "545364944258990091",
           "name": "Discord"
         },
         "assets": {
-          "hero": "quests/1452768522093723778/1457787755114528984.jpg",
-          "hero_video": "quests/1452768522093723778/1458210882218623006.mp4",
-          "quest_bar_hero": "quests/1452768522093723778/1457787755114528984.jpg",
-          "quest_bar_hero_video": "quests/1452768522093723778/1458210882218623006.mp4",
-          "game_tile": "1457788253020229874.png",
-          "logotype": "1457788251917254880.png",
-          "game_tile_light": "quests/1452768522093723778/1457788019208880178.png",
-          "game_tile_dark": "quests/1452768522093723778/1457788019208880178.png",
-          "logotype_light": "quests/1452768522093723778/1457788064951828581.png",
-          "logotype_dark": "quests/1452768522093723778/1457788064951828581.png"
+          "hero": "quests/1453141810833788928/1453144880019931258.jpg",
+          "hero_video": "quests/1453141810833788928/1457811562751463599.mp4",
+          "quest_bar_hero": "quests/1453141810833788928/1453144880019931258.jpg",
+          "quest_bar_hero_video": "quests/1453141810833788928/1457811562751463599.mp4",
+          "game_tile": "1453145613003915415.png",
+          "logotype": "1453145533068611615.png",
+          "game_tile_light": "quests/1453141810833788928/1453145588421099540.png",
+          "game_tile_dark": "quests/1453141810833788928/1453145588421099540.png",
+          "logotype_light": "quests/1453141810833788928/1453145453649465364.png",
+          "logotype_dark": "quests/1453141810833788928/1453145500441378846.png"
         },
         "colors": {
           "primary": "#4752C4",
           "secondary": "#000000"
         },
         "messages": {
-          "quest_name": "College Football Playoff",
-          "game_title": "ESPN",
-          "game_publisher": "ESPN"
+          "quest_name": "Razer",
+          "game_title": "Razer",
+          "game_publisher": "Razer"
         },
         "task_config": {
           "type": 1,
@@ -631,11 +631,11 @@
           "tasks": {
             "WATCH_VIDEO": {
               "event_name": "WATCH_VIDEO",
-              "target": 14
+              "target": 71
             },
             "WATCH_VIDEO_ON_MOBILE": {
               "event_name": "WATCH_VIDEO_ON_MOBILE",
-              "target": 14
+              "target": 71
             }
           }
         },
@@ -643,56 +643,56 @@
           "tasks": {
             "WATCH_VIDEO": {
               "type": "WATCH_VIDEO",
-              "target": 14,
+              "target": 71,
               "assets": {
                 "video": {
-                  "url": "quests/1452768522093723778/1458143008569557012_1080.mp4",
+                  "url": "quests/1453141810833788928/1457802257394438196_1080.mp4",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1452768522093723778/1457787616115163260.jpg"
+                  "thumbnail": "quests/1453141810833788928/1457804335491711300.png"
                 },
                 "video_low_res": {
-                  "url": "quests/1452768522093723778/1458143008569557012_720.mp4",
+                  "url": "quests/1453141810833788928/1457802257394438196_720.mp4",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1452768522093723778/1457787616115163260.jpg"
+                  "thumbnail": "quests/1453141810833788928/1457804335491711300.png"
                 },
                 "video_hls": {
-                  "url": "quests/1452768522093723778/1458143008569557012.m3u8",
+                  "url": "quests/1453141810833788928/1457802257394438196.m3u8",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1452768522093723778/1457787616115163260.jpg"
+                  "thumbnail": "quests/1453141810833788928/1457804335491711300.png"
                 }
               },
               "messages": {
-                "video_title": "College Football Playoff Video"
+                "video_title": "Razer Trailer"
               }
             },
             "WATCH_VIDEO_ON_MOBILE": {
               "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 14,
+              "target": 71,
               "assets": {
                 "video": {
-                  "url": "quests/1452768522093723778/1458143008569557012_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1452768522093723778/1457787616115163260.jpg"
+                  "url": "quests/1453141810833788928/1457802306945945620_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1453141810833788928/1457804278356775005.png"
                 },
                 "video_low_res": {
-                  "url": "quests/1452768522093723778/1458143008569557012_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1452768522093723778/1457787616115163260.jpg"
+                  "url": "quests/1453141810833788928/1457802306945945620_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1453141810833788928/1457804278356775005.png"
                 },
                 "video_hls": {
-                  "url": "quests/1452768522093723778/1458143008569557012.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1452768522093723778/1457787616115163260.jpg"
+                  "url": "quests/1453141810833788928/1457802306945945620.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1453141810833788928/1457804278356775005.png"
                 }
               },
               "messages": {
-                "video_title": "College Football Playoff Video"
+                "video_title": "Razer Trailer"
               }
             }
           },
@@ -714,22 +714,22 @@
               "orb_quantity": 700
             }
           ],
-          "rewards_expire_at": "2026-02-09T00:00:26+00:00",
+          "rewards_expire_at": "2026-02-09T00:00:45+00:00",
           "platforms": [
             0
           ]
         },
         "video_metadata": {
           "messages": {
-            "video_title": "College Football Playoff Video",
-            "video_end_cta_subtitle": "College Football Playoff Semifinals",
-            "video_end_cta_button_label": "Learn More"
+            "video_title": "Razer Trailer",
+            "video_end_cta_subtitle": "Stay up to date on the latest Razer news",
+            "video_end_cta_button_label": "Join Server"
           },
           "assets": {
-            "video_player_video_hls": "quests/1452768522093723778/1458143008569557012.m3u8",
-            "video_player_video": "quests/1452768522093723778/1458143008569557012_1080.mp4",
-            "video_player_thumbnail": "quests/1452768522093723778/1457787616115163260.jpg",
-            "video_player_video_low_res": "quests/1452768522093723778/1458143008569557012_720.mp4",
+            "video_player_video_hls": "quests/1453141810833788928/1457802257394438196.m3u8",
+            "video_player_video": "quests/1453141810833788928/1457802257394438196_1080.mp4",
+            "video_player_thumbnail": "quests/1453141810833788928/1457804335491711300.png",
+            "video_player_video_low_res": "quests/1453141810833788928/1457802257394438196_720.mp4",
             "video_player_caption": null,
             "video_player_transcript": null,
             "quest_bar_preview_video": null,
@@ -739,9 +739,9 @@
         },
         "share_policy": "shareable_everywhere",
         "cta_config": {
-          "link": "https://www.espn.com/watch/catalog/0f8e3d42-fa27-3f60-9e8d-276e4892f50e/ncaa-football#bucketId=29779&sourceCollection=Browse_By_League",
-          "button_label": "Learn More",
-          "subtitle": "College Football Playoff Semifinals"
+          "link": "https://discord.gg/razer",
+          "button_label": "Join Server",
+          "subtitle": "Stay up to date on the latest Razer news"
         }
       },
       "user_status": null,
@@ -1025,40 +1025,40 @@
       "preview": false
     },
     {
-      "id": "1453141810833788928",
+      "id": "1452768522093723778",
       "config": {
-        "id": "1453141810833788928",
+        "id": "1452768522093723778",
         "config_version": 2,
-        "starts_at": "2026-01-06T18:00:45+00:00",
-        "expires_at": "2026-01-10T00:00:45+00:00",
+        "starts_at": "2026-01-07T23:00:26+00:00",
+        "expires_at": "2026-01-10T01:00:26+00:00",
         "features": [
           15
         ],
         "application": {
-          "link": "https://discord.gg/razer",
+          "link": "https://www.espn.com/watch/catalog/0f8e3d42-fa27-3f60-9e8d-276e4892f50e/ncaa-football#bucketId=29779&sourceCollection=Browse_By_League",
           "id": "545364944258990091",
           "name": "Discord"
         },
         "assets": {
-          "hero": "quests/1453141810833788928/1453144880019931258.jpg",
-          "hero_video": "quests/1453141810833788928/1457811562751463599.mp4",
-          "quest_bar_hero": "quests/1453141810833788928/1453144880019931258.jpg",
-          "quest_bar_hero_video": "quests/1453141810833788928/1457811562751463599.mp4",
-          "game_tile": "1453145613003915415.png",
-          "logotype": "1453145533068611615.png",
-          "game_tile_light": "quests/1453141810833788928/1453145588421099540.png",
-          "game_tile_dark": "quests/1453141810833788928/1453145588421099540.png",
-          "logotype_light": "quests/1453141810833788928/1453145453649465364.png",
-          "logotype_dark": "quests/1453141810833788928/1453145500441378846.png"
+          "hero": "quests/1452768522093723778/1457787755114528984.jpg",
+          "hero_video": "quests/1452768522093723778/1458924527818903644.mp4",
+          "quest_bar_hero": "quests/1452768522093723778/1457787755114528984.jpg",
+          "quest_bar_hero_video": "quests/1452768522093723778/1458924527818903644.mp4",
+          "game_tile": "1457788253020229874.png",
+          "logotype": "1457788251917254880.png",
+          "game_tile_light": "quests/1452768522093723778/1457788019208880178.png",
+          "game_tile_dark": "quests/1452768522093723778/1457788019208880178.png",
+          "logotype_light": "quests/1452768522093723778/1457788064951828581.png",
+          "logotype_dark": "quests/1452768522093723778/1457788064951828581.png"
         },
         "colors": {
           "primary": "#4752C4",
           "secondary": "#000000"
         },
         "messages": {
-          "quest_name": "Razer",
-          "game_title": "Razer",
-          "game_publisher": "Razer"
+          "quest_name": "College Football Playoff",
+          "game_title": "ESPN",
+          "game_publisher": "ESPN"
         },
         "task_config": {
           "type": 1,
@@ -1066,11 +1066,11 @@
           "tasks": {
             "WATCH_VIDEO": {
               "event_name": "WATCH_VIDEO",
-              "target": 71
+              "target": 14
             },
             "WATCH_VIDEO_ON_MOBILE": {
               "event_name": "WATCH_VIDEO_ON_MOBILE",
-              "target": 71
+              "target": 14
             }
           }
         },
@@ -1078,56 +1078,56 @@
           "tasks": {
             "WATCH_VIDEO": {
               "type": "WATCH_VIDEO",
-              "target": 71,
+              "target": 14,
               "assets": {
                 "video": {
-                  "url": "quests/1453141810833788928/1457802257394438196_1080.mp4",
+                  "url": "quests/1452768522093723778/1458924058388336858_1080.mp4",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1453141810833788928/1457804335491711300.png"
+                  "thumbnail": "quests/1452768522093723778/1457787641981304842.jpg"
                 },
                 "video_low_res": {
-                  "url": "quests/1453141810833788928/1457802257394438196_720.mp4",
+                  "url": "quests/1452768522093723778/1458924058388336858_720.mp4",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1453141810833788928/1457804335491711300.png"
+                  "thumbnail": "quests/1452768522093723778/1457787641981304842.jpg"
                 },
                 "video_hls": {
-                  "url": "quests/1453141810833788928/1457802257394438196.m3u8",
+                  "url": "quests/1452768522093723778/1458924058388336858.m3u8",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1453141810833788928/1457804335491711300.png"
+                  "thumbnail": "quests/1452768522093723778/1457787641981304842.jpg"
                 }
               },
               "messages": {
-                "video_title": "Razer Trailer"
+                "video_title": "College Football Playoff Video"
               }
             },
             "WATCH_VIDEO_ON_MOBILE": {
               "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 71,
+              "target": 14,
               "assets": {
                 "video": {
-                  "url": "quests/1453141810833788928/1457802306945945620_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1453141810833788928/1457804278356775005.png"
+                  "url": "quests/1452768522093723778/1458924058388336858_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1452768522093723778/1457787641981304842.jpg"
                 },
                 "video_low_res": {
-                  "url": "quests/1453141810833788928/1457802306945945620_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1453141810833788928/1457804278356775005.png"
+                  "url": "quests/1452768522093723778/1458924058388336858_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1452768522093723778/1457787641981304842.jpg"
                 },
                 "video_hls": {
-                  "url": "quests/1453141810833788928/1457802306945945620.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1453141810833788928/1457804278356775005.png"
+                  "url": "quests/1452768522093723778/1458924058388336858.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1452768522093723778/1457787641981304842.jpg"
                 }
               },
               "messages": {
-                "video_title": "Razer Trailer"
+                "video_title": "College Football Playoff Video"
               }
             }
           },
@@ -1149,22 +1149,22 @@
               "orb_quantity": 700
             }
           ],
-          "rewards_expire_at": "2026-02-09T00:00:45+00:00",
+          "rewards_expire_at": "2026-02-09T01:00:26+00:00",
           "platforms": [
             0
           ]
         },
         "video_metadata": {
           "messages": {
-            "video_title": "Razer Trailer",
-            "video_end_cta_subtitle": "Stay up to date on the latest Razer news",
-            "video_end_cta_button_label": "Join Server"
+            "video_title": "College Football Playoff Video",
+            "video_end_cta_subtitle": "College Football Playoff Semifinals",
+            "video_end_cta_button_label": "Learn More"
           },
           "assets": {
-            "video_player_video_hls": "quests/1453141810833788928/1457802257394438196.m3u8",
-            "video_player_video": "quests/1453141810833788928/1457802257394438196_1080.mp4",
-            "video_player_thumbnail": "quests/1453141810833788928/1457804335491711300.png",
-            "video_player_video_low_res": "quests/1453141810833788928/1457802257394438196_720.mp4",
+            "video_player_video_hls": "quests/1452768522093723778/1458924058388336858.m3u8",
+            "video_player_video": "quests/1452768522093723778/1458924058388336858_1080.mp4",
+            "video_player_thumbnail": "quests/1452768522093723778/1457787641981304842.jpg",
+            "video_player_video_low_res": "quests/1452768522093723778/1458924058388336858_720.mp4",
             "video_player_caption": null,
             "video_player_transcript": null,
             "quest_bar_preview_video": null,
@@ -1174,9 +1174,9 @@
         },
         "share_policy": "shareable_everywhere",
         "cta_config": {
-          "link": "https://discord.gg/razer",
-          "button_label": "Join Server",
-          "subtitle": "Stay up to date on the latest Razer news"
+          "link": "https://www.espn.com/watch/catalog/0f8e3d42-fa27-3f60-9e8d-276e4892f50e/ncaa-football#bucketId=29779&sourceCollection=Browse_By_League",
+          "button_label": "Learn More",
+          "subtitle": "College Football Playoff Semifinals"
         }
       },
       "user_status": null,
@@ -6014,7 +6014,7 @@
           "tasks": {
             "PLAY_ON_DESKTOP": {
               "event_name": "PLAY_ON_DESKTOP",
-              "target": 1800
+              "target": 900
             }
           }
         },
@@ -6022,7 +6022,7 @@
           "tasks": {
             "PLAY_ON_DESKTOP": {
               "type": "PLAY_ON_DESKTOP",
-              "target": 1800,
+              "target": 900,
               "applications": [
                 {
                   "id": "1238113262969557002"
