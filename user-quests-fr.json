@@ -6,7 +6,7 @@
         "id": "1451696588467601408",
         "config_version": 2,
         "starts_at": "2026-01-01T18:00:57+00:00",
-        "expires_at": "2026-01-12T00:00:57+00:00",
+        "expires_at": "2026-01-12T07:59:57+00:00",
         "features": [
           15
         ],
@@ -89,7 +89,7 @@
               "orb_quantity": 700
             }
           ],
-          "rewards_expire_at": "2026-02-11T00:00:57+00:00",
+          "rewards_expire_at": "2026-02-11T07:59:57+00:00",
           "platforms": [
             0
           ]
@@ -2216,157 +2216,6 @@
       "preview": false
     },
     {
-      "id": "1440110322147917884",
-      "config": {
-        "id": "1440110322147917884",
-        "config_version": 2,
-        "starts_at": "2025-11-25T09:30:16+00:00",
-        "expires_at": "2025-12-10T00:00:16+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://ad.doubleclick.net/ddm/trackclk/N1306638.3397510DISCORD/B34551717.432655292;dc_trk_aid=625825573;dc_trk_cid=243957496;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1440110322147917884/1441486305929465997.jpg",
-          "hero_video": "quests/1440110322147917884/1440427131346751560.mp4",
-          "quest_bar_hero": "quests/1440110322147917884/1440399230161387621.jpg",
-          "quest_bar_hero_video": "quests/1440110322147917884/1440397802466185237.mp4",
-          "game_tile": "1440399353503158417.jpg",
-          "logotype": "1440396978705141910.png",
-          "game_tile_light": "quests/1440110322147917884/1440393190178947203.jpg",
-          "game_tile_dark": "quests/1440110322147917884/1440393190178947203.jpg",
-          "logotype_light": "quests/1440110322147917884/1440396689981706311.png",
-          "logotype_dark": "quests/1440110322147917884/1440396665327587502.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Découvrez-en plus sur PS5",
-          "game_title": "Découvrez-en plus sur PS5",
-          "game_publisher": "PlayStation 5"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "WATCH_VIDEO": {
-              "event_name": "WATCH_VIDEO",
-              "target": 29
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1440110322147917884/1440482909923311656_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1440110322147917884/1440484517763747941.jpg",
-                  "caption": "quests/1440110322147917884/1440486325659631748.vtt"
-                },
-                "video_low_res": {
-                  "url": "quests/1440110322147917884/1440482909923311656_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1440110322147917884/1440484517763747941.jpg",
-                  "caption": "quests/1440110322147917884/1440486325659631748.vtt"
-                },
-                "video_hls": {
-                  "url": "quests/1440110322147917884/1440482909923311656.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1440110322147917884/1440484517763747941.jpg",
-                  "caption": "quests/1440110322147917884/1440486325659631748.vtt"
-                }
-              },
-              "messages": {
-                "video_title": "It Happens on PS5",
-                "video_end_cta_button_label": "Aller à la Boutique"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 orbs",
-                "name_with_article": "700 orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "orb_quantity": 700
-            }
-          ],
-          "rewards_expire_at": "2026-01-09T00:00:16+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "video_metadata": {
-          "messages": {
-            "video_title": "It Happens on PS5",
-            "video_end_cta_subtitle": "Découvrez-en plus sur PS5",
-            "video_end_cta_button_label": "Acheter maintenant"
-          },
-          "assets": {
-            "video_player_video_hls": "quests/1440110322147917884/1440482909923311656.m3u8",
-            "video_player_video": "quests/1440110322147917884/1440482909923311656_1080.mp4",
-            "video_player_thumbnail": "quests/1440110322147917884/1440484517763747941.jpg",
-            "video_player_video_low_res": "quests/1440110322147917884/1440482909923311656_720.mp4",
-            "video_player_caption": "quests/1440110322147917884/1440486325659631748.vtt",
-            "video_player_transcript": null,
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://ad.doubleclick.net/ddm/trackclk/N1306638.3397510DISCORD/B34551717.432655292;dc_trk_aid=625825573;dc_trk_cid=243957496;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
-          "button_label": "Acheter maintenant",
-          "subtitle": "Découvrez-en plus sur PS5"
-        }
-      },
-      "user_status": {
-        "user_id": "1442595836407316501",
-        "quest_id": "1440110322147917884",
-        "enrolled_at": "2025-11-25T23:51:41.409290+00:00",
-        "completed_at": null,
-        "claimed_at": null,
-        "claimed_tier": null,
-        "last_stream_heartbeat_at": null,
-        "stream_progress_seconds": 0,
-        "dismissed_quest_content": 0,
-        "progress": {}
-      },
-      "targeted_content": [],
-      "preview": false
-    },
-    {
       "id": "1447985686354464973",
       "config": {
         "id": "1447985686354464973",
@@ -4016,118 +3865,6 @@
       "preview": false
     },
     {
-      "id": "1442992626965024880",
-      "config": {
-        "id": "1442992626965024880",
-        "config_version": 2,
-        "starts_at": "2025-11-29T18:00:31+00:00",
-        "expires_at": "2025-12-10T00:00:31+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
-          "id": "1437509662303059998",
-          "name": "Where Winds Meet"
-        },
-        "assets": {
-          "hero": "quests/1442992626965024880/1443806535229902959.jpg",
-          "hero_video": "quests/1442992626965024880/1443806476886999174.mp4",
-          "quest_bar_hero": "quests/1442992626965024880/1443806577856483378.jpg",
-          "quest_bar_hero_video": "quests/1442992626965024880/1443806366304305182.mp4",
-          "game_tile": "1442993638991859944.png",
-          "logotype": "1442993636282208276.png",
-          "game_tile_light": "quests/1442992626965024880/1442993615822524457.png",
-          "game_tile_dark": "quests/1442992626965024880/1442993615822524457.png",
-          "logotype_light": "quests/1442992626965024880/1442993445315674132.png",
-          "logotype_dark": "quests/1442992626965024880/1442993445315674132.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Where Winds Meet",
-          "game_title": "Where Winds Meet",
-          "game_publisher": "NETEASE"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "event_name": "PLAY_ON_DESKTOP",
-              "target": 900
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "event_name": "PLAY_ON_PLAYSTATION",
-              "target": 900
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1437509662303059998"
-                }
-              ]
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1437509662303059998"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "orb_quantity": 700
-            }
-          ],
-          "rewards_expire_at": "2026-01-09T00:00:31+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
-          "button_label": "Obtenir le jeu"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false
-    },
-    {
       "id": "1442626022259429496",
       "config": {
         "id": "1442626022259429496",
@@ -4274,12 +4011,6 @@
       "id": "1445532356323836135"
     },
     {
-      "id": "1440778023438909671"
-    },
-    {
-      "id": "1450228254492459068"
-    },
-    {
       "id": "1448102602704293999"
     },
     {
@@ -4305,6 +4036,9 @@
     },
     {
       "id": "1457884772897390715"
+    },
+    {
+      "id": "1450228254492459068"
     },
     {
       "id": "1450914567172653117"
