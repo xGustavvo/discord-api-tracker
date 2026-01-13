@@ -13,11 +13,11 @@
       "1457868296132104359",
       "1457869147475152979",
       "1460421258079375543",
-      "1425222174372925480",
-      "1425221369649561682"
+      "1425221369649561682",
+      "1425222174372925480"
     ],
     "created_at": "2025-10-07T20:16:38.050293+00:00",
-    "updated_at": "2026-01-13T16:26:54.899978+00:00"
+    "updated_at": "2026-01-13T19:18:51.926749+00:00"
   },
   "products": [
     {
@@ -157,6 +157,152 @@
               },
               {
                 "title": "3",
+                "description": "vCPUs"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "1458532555463589978",
+      "application_id": "1340102344645283891",
+      "sku_ids": [
+        "1458532555463589979",
+        "1460419709630677042",
+        "1460419709630677043"
+      ],
+      "name": "Hytale",
+      "options": [
+        {
+          "name": "Memory",
+          "option_values": [
+            "5",
+            "8",
+            "12"
+          ]
+        }
+      ],
+      "created_at": "2026-01-07T18:47:39.455084+00:00",
+      "updated_at": "2026-01-13T20:16:57.031349+00:00",
+      "tenant_metadata": {
+        "guild_monetization": {
+          "game_server": {
+            "instructions": {
+              "pc": [
+                "Open Hytale.",
+                "Click on **Servers**.",
+                "Click on **Add Server**.",
+                "Paste your server IP address, enter a server name and click **Add Server**.",
+                "Double click your server in the list to join."
+              ]
+            },
+            "deactivation_cooldown_period_days": 7,
+            "game_application_id": "1458530944955973852",
+            "provider": "shockbyte",
+            "disabled": false,
+            "early_access": true
+          }
+        }
+      },
+      "skus": [
+        {
+          "id": "1458532555463589979",
+          "type": 2,
+          "application_id": "1340102344645283891",
+          "name": "Starter Plan",
+          "premium": false,
+          "selected_options": [
+            {
+              "option_name": "Memory",
+              "option_value": "5"
+            }
+          ],
+          "product_id": "1458532555463589978",
+          "position": 0,
+          "tenant_metadata": {
+            "boost_price": 5,
+            "purchase_limit": 1,
+            "category_type": "game_server",
+            "plan_features": [
+              {
+                "title": "4+",
+                "description": "Players"
+              },
+              {
+                "title": "5GB",
+                "description": "RAM"
+              },
+              {
+                "title": "2",
+                "description": "vCPUs"
+              }
+            ]
+          }
+        },
+        {
+          "id": "1460419709630677042",
+          "type": 2,
+          "application_id": "1340102344645283891",
+          "name": "Pro Plan",
+          "premium": false,
+          "selected_options": [
+            {
+              "option_name": "Memory",
+              "option_value": "8"
+            }
+          ],
+          "product_id": "1458532555463589978",
+          "position": 1,
+          "tenant_metadata": {
+            "boost_price": 8,
+            "purchase_limit": 1,
+            "category_type": "game_server",
+            "plan_features": [
+              {
+                "title": "8+",
+                "description": "Players"
+              },
+              {
+                "title": "8GB",
+                "description": "RAM"
+              },
+              {
+                "title": "2",
+                "description": "vCPUs"
+              }
+            ]
+          }
+        },
+        {
+          "id": "1460419709630677043",
+          "type": 2,
+          "application_id": "1340102344645283891",
+          "name": "Ultimate Plan",
+          "premium": false,
+          "selected_options": [
+            {
+              "option_name": "Memory",
+              "option_value": "12"
+            }
+          ],
+          "product_id": "1458532555463589978",
+          "position": 2,
+          "tenant_metadata": {
+            "boost_price": 12,
+            "purchase_limit": 1,
+            "category_type": "game_server",
+            "plan_features": [
+              {
+                "title": "12+",
+                "description": "Players"
+              },
+              {
+                "title": "12GB",
+                "description": "RAM"
+              },
+              {
+                "title": "2",
                 "description": "vCPUs"
               }
             ]
@@ -453,38 +599,39 @@
       ]
     },
     {
-      "id": "1425222174372925480",
+      "id": "1457859082815013066",
       "application_id": "1340102344645283891",
       "sku_ids": [
-        "1425222174372925481",
-        "1425222174372925482",
-        "1425222174372925483"
+        "1457859082815013067",
+        "1460415970941075507",
+        "1460415970941075508"
       ],
-      "name": "Enshrouded",
+      "name": "Terraria",
       "options": [
         {
           "name": "Memory",
           "option_values": [
+            "3",
             "4",
-            "5",
-            "6"
+            "5"
           ]
         }
       ],
-      "created_at": "2025-10-07T20:44:05.739251+00:00",
-      "updated_at": "2026-01-12T23:56:10.480584+00:00",
+      "created_at": "2026-01-05T22:11:31.069295+00:00",
+      "updated_at": "2026-01-13T20:13:01.930880+00:00",
       "tenant_metadata": {
         "guild_monetization": {
           "game_server": {
             "instructions": {
               "pc": [
-                "Start Enshrouded. Click Play, then click Join to open the server list.",
-                "Click Find server(IPv4 address), then enter the IP and query port.",
-                "Select your server and then click Join. If applicable, enter a password."
+                "Launch Terraria, click on the **Multiplayer** option, then select the **Join via IP** option.",
+                "From the character selection screen, either select a character you have previously made or make a new character.",
+                "Then, enter your Server's IP address (this is the part before the colon - :) and your Server's Port (this is the part after the colon - :).",
+                "Click **Accept** (or the Enter Key) to connect to your server."
               ]
             },
             "deactivation_cooldown_period_days": 7,
-            "game_application_id": "1199745463918788740",
+            "game_application_id": "1402418344912752671",
             "provider": "shockbyte",
             "disabled": false,
             "early_access": false
@@ -493,7 +640,7 @@
       },
       "skus": [
         {
-          "id": "1425222174372925481",
+          "id": "1457859082815013067",
           "type": 2,
           "application_id": "1340102344645283891",
           "name": "Starter Plan",
@@ -501,13 +648,13 @@
           "selected_options": [
             {
               "option_name": "Memory",
-              "option_value": "4"
+              "option_value": "3"
             }
           ],
-          "product_id": "1425222174372925480",
+          "product_id": "1457859082815013066",
           "position": 0,
           "tenant_metadata": {
-            "boost_price": 5,
+            "boost_price": 3,
             "purchase_limit": 1,
             "category_type": "game_server",
             "plan_features": [
@@ -516,18 +663,18 @@
                 "description": "Players"
               },
               {
-                "title": "4GB",
+                "title": "3GB",
                 "description": "RAM"
               },
               {
-                "title": "4",
+                "title": "2",
                 "description": "vCPUs"
               }
             ]
           }
         },
         {
-          "id": "1425222174372925482",
+          "id": "1460415970941075507",
           "type": 2,
           "application_id": "1340102344645283891",
           "name": "Pro Plan",
@@ -535,33 +682,33 @@
           "selected_options": [
             {
               "option_name": "Memory",
-              "option_value": "5"
+              "option_value": "4"
             }
           ],
-          "product_id": "1425222174372925480",
+          "product_id": "1457859082815013066",
           "position": 1,
           "tenant_metadata": {
-            "boost_price": 8,
+            "boost_price": 4,
             "purchase_limit": 1,
             "category_type": "game_server",
             "plan_features": [
               {
-                "title": "8+",
+                "title": "12+",
                 "description": "Players"
               },
               {
-                "title": "5GB",
+                "title": "4GB",
                 "description": "RAM"
               },
               {
-                "title": "5",
+                "title": "2",
                 "description": "vCPUs"
               }
             ]
           }
         },
         {
-          "id": "1425222174372925483",
+          "id": "1460415970941075508",
           "type": 2,
           "application_id": "1340102344645283891",
           "name": "Ultimate Plan",
@@ -569,13 +716,199 @@
           "selected_options": [
             {
               "option_name": "Memory",
-              "option_value": "6"
+              "option_value": "5"
             }
           ],
-          "product_id": "1425222174372925480",
+          "product_id": "1457859082815013066",
           "position": 2,
           "tenant_metadata": {
-            "boost_price": 10,
+            "boost_price": 5,
+            "purchase_limit": 1,
+            "category_type": "game_server",
+            "plan_features": [
+              {
+                "title": "15+",
+                "description": "Players"
+              },
+              {
+                "title": "5GB",
+                "description": "RAM"
+              },
+              {
+                "title": "2",
+                "description": "vCPUs"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "1457868296132104359",
+      "application_id": "1340102344645283891",
+      "sku_ids": [
+        "1457868296132104360"
+      ],
+      "name": "Valheim",
+      "options": [
+        {
+          "name": "Memory",
+          "option_values": [
+            "4"
+          ]
+        }
+      ],
+      "created_at": "2026-01-05T22:48:07.689984+00:00",
+      "updated_at": "2026-01-13T18:58:49.826398+00:00",
+      "tenant_metadata": {
+        "guild_monetization": {
+          "game_server": {
+            "instructions": {
+              "pc": [
+                "Launch Valheim and click **Start Game** in the main menu.",
+                "Select the character you want to join your server on. If you haven't made one yet, you'll need to do this before continuing.",
+                "After selecting or creating your character, click **Start**.",
+                "Change to the Join Game tab, and then click the **Add Server** button.",
+                "Paste your server IP into the box that pops up, and click the **Connect** button.",
+                "After a brief moment, you will be prompted for your Server Password. You will need to get this password from your Discord Server Admin. Paste your server password into the box, then press **Enter**."
+              ]
+            },
+            "deactivation_cooldown_period_days": 7,
+            "game_application_id": "1124358970618953818",
+            "provider": "shockbyte",
+            "disabled": false,
+            "early_access": false
+          }
+        }
+      },
+      "skus": [
+        {
+          "id": "1457868296132104360",
+          "type": 2,
+          "application_id": "1340102344645283891",
+          "name": "Pro Plan",
+          "premium": false,
+          "selected_options": [
+            {
+              "option_name": "Memory",
+              "option_value": "4"
+            }
+          ],
+          "product_id": "1457868296132104359",
+          "position": 0,
+          "tenant_metadata": {
+            "boost_price": 5,
+            "purchase_limit": 1,
+            "category_type": "game_server",
+            "plan_features": [
+              {
+                "title": "10+",
+                "description": "Players"
+              },
+              {
+                "title": "4GB",
+                "description": "RAM"
+              },
+              {
+                "title": "2",
+                "description": "vCPUs"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "1457869147475152979",
+      "application_id": "1340102344645283891",
+      "sku_ids": [
+        "1457869147475152980",
+        "1460418489951977542",
+        "1460418489951977543"
+      ],
+      "name": "Counter Strike 2",
+      "options": [
+        {
+          "name": "Memory",
+          "option_values": [
+            "2",
+            "3",
+            "4"
+          ]
+        }
+      ],
+      "created_at": "2026-01-05T22:51:30.665664+00:00",
+      "updated_at": "2026-01-13T20:17:13.951099+00:00",
+      "tenant_metadata": {
+        "guild_monetization": {
+          "game_server": {
+            "instructions": {
+              "pc": [
+                "In the Steam client, navigate to View > Game Servers.",
+                "Click **Favorites**, then click the + button.",
+                "Enter your server's IP & port then click **OK**.",
+                "Select your server, then click **Connect**."
+              ]
+            },
+            "deactivation_cooldown_period_days": 7,
+            "game_application_id": "1158877933042143272",
+            "provider": "shockbyte",
+            "disabled": false,
+            "early_access": false
+          }
+        }
+      },
+      "skus": [
+        {
+          "id": "1457869147475152980",
+          "type": 2,
+          "application_id": "1340102344645283891",
+          "name": "Starter Plan",
+          "premium": false,
+          "selected_options": [
+            {
+              "option_name": "Memory",
+              "option_value": "2"
+            }
+          ],
+          "product_id": "1457869147475152979",
+          "position": 0,
+          "tenant_metadata": {
+            "boost_price": 3,
+            "purchase_limit": 1,
+            "category_type": "game_server",
+            "plan_features": [
+              {
+                "title": "10+",
+                "description": "Players"
+              },
+              {
+                "title": "2GB",
+                "description": "RAM"
+              },
+              {
+                "title": "2",
+                "description": "vCPUs"
+              }
+            ]
+          }
+        },
+        {
+          "id": "1460418489951977542",
+          "type": 2,
+          "application_id": "1340102344645283891",
+          "name": "Pro Plan",
+          "premium": false,
+          "selected_options": [
+            {
+              "option_name": "Memory",
+              "option_value": "3"
+            }
+          ],
+          "product_id": "1457869147475152979",
+          "position": 1,
+          "tenant_metadata": {
+            "boost_price": 4,
             "purchase_limit": 1,
             "category_type": "game_server",
             "plan_features": [
@@ -584,11 +917,190 @@
                 "description": "Players"
               },
               {
-                "title": "6GB",
+                "title": "3GB",
                 "description": "RAM"
               },
               {
-                "title": "6",
+                "title": "2",
+                "description": "vCPUs"
+              }
+            ]
+          }
+        },
+        {
+          "id": "1460418489951977543",
+          "type": 2,
+          "application_id": "1340102344645283891",
+          "name": "Ultimate Plan",
+          "premium": false,
+          "selected_options": [
+            {
+              "option_name": "Memory",
+              "option_value": "4"
+            }
+          ],
+          "product_id": "1457869147475152979",
+          "position": 2,
+          "tenant_metadata": {
+            "boost_price": 6,
+            "purchase_limit": 1,
+            "category_type": "game_server",
+            "plan_features": [
+              {
+                "title": "32+",
+                "description": "Players"
+              },
+              {
+                "title": "4GB",
+                "description": "RAM"
+              },
+              {
+                "title": "2",
+                "description": "vCPUs"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "1460421258079375543",
+      "application_id": "1340102344645283891",
+      "sku_ids": [
+        "1460421258079375544",
+        "1460421258079375545",
+        "1460421258079375546"
+      ],
+      "name": "Stardew Valley",
+      "options": [
+        {
+          "name": "Memory",
+          "option_values": [
+            "1",
+            "2",
+            "3"
+          ]
+        }
+      ],
+      "created_at": "2026-01-12T23:52:41.259571+00:00",
+      "updated_at": "2026-01-13T20:16:37.981956+00:00",
+      "tenant_metadata": {
+        "guild_monetization": {
+          "game_server": {
+            "instructions": {
+              "pc": [
+                "Open Stardew Valley.",
+                "Click the **CO-OP** button.",
+                "Click **Join LAN Game**.",
+                "Enter your Server IP and Port then click **OK**."
+              ]
+            },
+            "deactivation_cooldown_period_days": 7,
+            "game_application_id": "359509387670192128",
+            "provider": "shockbyte",
+            "disabled": false,
+            "early_access": false
+          }
+        }
+      },
+      "skus": [
+        {
+          "id": "1460421258079375544",
+          "type": 2,
+          "application_id": "1340102344645283891",
+          "name": "Starter Plan",
+          "premium": false,
+          "selected_options": [
+            {
+              "option_name": "Memory",
+              "option_value": "1"
+            }
+          ],
+          "product_id": "1460421258079375543",
+          "position": 0,
+          "tenant_metadata": {
+            "boost_price": 3,
+            "purchase_limit": 1,
+            "category_type": "game_server",
+            "plan_features": [
+              {
+                "title": "6+",
+                "description": "Players"
+              },
+              {
+                "title": "1GB",
+                "description": "RAM"
+              },
+              {
+                "title": "2",
+                "description": "vCPUs"
+              }
+            ]
+          }
+        },
+        {
+          "id": "1460421258079375545",
+          "type": 2,
+          "application_id": "1340102344645283891",
+          "name": "Pro Plan",
+          "premium": false,
+          "selected_options": [
+            {
+              "option_name": "Memory",
+              "option_value": "2"
+            }
+          ],
+          "product_id": "1460421258079375543",
+          "position": 1,
+          "tenant_metadata": {
+            "boost_price": 4,
+            "purchase_limit": 1,
+            "category_type": "game_server",
+            "plan_features": [
+              {
+                "title": "14+",
+                "description": "Players"
+              },
+              {
+                "title": "2GB",
+                "description": "RAM"
+              },
+              {
+                "title": "2",
+                "description": "vCPUs"
+              }
+            ]
+          }
+        },
+        {
+          "id": "1460421258079375546",
+          "type": 2,
+          "application_id": "1340102344645283891",
+          "name": "Ultimate Plan",
+          "premium": false,
+          "selected_options": [
+            {
+              "option_name": "Memory",
+              "option_value": "3"
+            }
+          ],
+          "product_id": "1460421258079375543",
+          "position": 2,
+          "tenant_metadata": {
+            "boost_price": 7,
+            "purchase_limit": 1,
+            "category_type": "game_server",
+            "plan_features": [
+              {
+                "title": "28+",
+                "description": "Players"
+              },
+              {
+                "title": "3GB",
+                "description": "RAM"
+              },
+              {
+                "title": "2",
                 "description": "vCPUs"
               }
             ]
@@ -733,6 +1245,150 @@
               },
               {
                 "title": "2",
+                "description": "vCPUs"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "1425222174372925480",
+      "application_id": "1340102344645283891",
+      "sku_ids": [
+        "1425222174372925481",
+        "1425222174372925482",
+        "1425222174372925483"
+      ],
+      "name": "Enshrouded",
+      "options": [
+        {
+          "name": "Memory",
+          "option_values": [
+            "4",
+            "5",
+            "6"
+          ]
+        }
+      ],
+      "created_at": "2025-10-07T20:44:05.739251+00:00",
+      "updated_at": "2026-01-12T23:56:10.480584+00:00",
+      "tenant_metadata": {
+        "guild_monetization": {
+          "game_server": {
+            "instructions": {
+              "pc": [
+                "Start Enshrouded. Click Play, then click Join to open the server list.",
+                "Click Find server(IPv4 address), then enter the IP and query port.",
+                "Select your server and then click Join. If applicable, enter a password."
+              ]
+            },
+            "deactivation_cooldown_period_days": 7,
+            "game_application_id": "1199745463918788740",
+            "provider": "shockbyte",
+            "disabled": false,
+            "early_access": false
+          }
+        }
+      },
+      "skus": [
+        {
+          "id": "1425222174372925481",
+          "type": 2,
+          "application_id": "1340102344645283891",
+          "name": "Starter Plan",
+          "premium": false,
+          "selected_options": [
+            {
+              "option_name": "Memory",
+              "option_value": "4"
+            }
+          ],
+          "product_id": "1425222174372925480",
+          "position": 0,
+          "tenant_metadata": {
+            "boost_price": 5,
+            "purchase_limit": 1,
+            "category_type": "game_server",
+            "plan_features": [
+              {
+                "title": "4+",
+                "description": "Players"
+              },
+              {
+                "title": "4GB",
+                "description": "RAM"
+              },
+              {
+                "title": "4",
+                "description": "vCPUs"
+              }
+            ]
+          }
+        },
+        {
+          "id": "1425222174372925482",
+          "type": 2,
+          "application_id": "1340102344645283891",
+          "name": "Pro Plan",
+          "premium": false,
+          "selected_options": [
+            {
+              "option_name": "Memory",
+              "option_value": "5"
+            }
+          ],
+          "product_id": "1425222174372925480",
+          "position": 1,
+          "tenant_metadata": {
+            "boost_price": 8,
+            "purchase_limit": 1,
+            "category_type": "game_server",
+            "plan_features": [
+              {
+                "title": "8+",
+                "description": "Players"
+              },
+              {
+                "title": "5GB",
+                "description": "RAM"
+              },
+              {
+                "title": "5",
+                "description": "vCPUs"
+              }
+            ]
+          }
+        },
+        {
+          "id": "1425222174372925483",
+          "type": 2,
+          "application_id": "1340102344645283891",
+          "name": "Ultimate Plan",
+          "premium": false,
+          "selected_options": [
+            {
+              "option_name": "Memory",
+              "option_value": "6"
+            }
+          ],
+          "product_id": "1425222174372925480",
+          "position": 2,
+          "tenant_metadata": {
+            "boost_price": 10,
+            "purchase_limit": 1,
+            "category_type": "game_server",
+            "plan_features": [
+              {
+                "title": "16+",
+                "description": "Players"
+              },
+              {
+                "title": "6GB",
+                "description": "RAM"
+              },
+              {
+                "title": "6",
                 "description": "vCPUs"
               }
             ]
