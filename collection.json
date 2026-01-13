@@ -11,13 +11,13 @@
       "1425221369649561682",
       "1425226345826484255",
       "1457859082815013066",
-      "1457867297011138825",
       "1457868296132104359",
       "1457869147475152979",
-      "1458532555463589978"
+      "1458532555463589978",
+      "1460421258079375543"
     ],
     "created_at": "2025-10-07T20:16:38.050293+00:00",
-    "updated_at": "2026-01-07T18:49:25.094924+00:00"
+    "updated_at": "2026-01-12T23:54:53.872124+00:00"
   },
   "products": [
     {
@@ -40,7 +40,7 @@
         }
       ],
       "created_at": "2025-10-07T20:29:40.125792+00:00",
-      "updated_at": "2026-01-05T22:59:32.937371+00:00",
+      "updated_at": "2026-01-12T23:56:10.408752+00:00",
       "tenant_metadata": {
         "guild_monetization": {
           "game_server": {
@@ -54,7 +54,8 @@
             "deactivation_cooldown_period_days": 7,
             "game_application_id": "1402418491272986635",
             "provider": "shockbyte",
-            "disabled": false
+            "disabled": false,
+            "early_access": false
           }
         }
       },
@@ -183,7 +184,7 @@
         }
       ],
       "created_at": "2025-10-07T20:44:05.739251+00:00",
-      "updated_at": "2026-01-05T22:59:32.997998+00:00",
+      "updated_at": "2026-01-12T23:56:10.480584+00:00",
       "tenant_metadata": {
         "guild_monetization": {
           "game_server": {
@@ -197,7 +198,8 @@
             "deactivation_cooldown_period_days": 7,
             "game_application_id": "1199745463918788740",
             "provider": "shockbyte",
-            "disabled": false
+            "disabled": false,
+            "early_access": false
           }
         }
       },
@@ -326,7 +328,7 @@
         }
       ],
       "created_at": "2025-10-07T20:57:45.857312+00:00",
-      "updated_at": "2026-01-05T22:59:31.989626+00:00",
+      "updated_at": "2026-01-12T23:56:09.373097+00:00",
       "tenant_metadata": {
         "guild_monetization": {
           "game_server": {
@@ -341,7 +343,8 @@
             "deactivation_cooldown_period_days": 7,
             "game_application_id": "1197827812623650866",
             "provider": "shockbyte",
-            "disabled": false
+            "disabled": false,
+            "early_access": false
           }
         }
       },
@@ -470,7 +473,7 @@
         }
       ],
       "created_at": "2025-10-07T20:40:53.878966+00:00",
-      "updated_at": "2026-01-05T22:59:31.278601+00:00",
+      "updated_at": "2026-01-12T23:56:08.580632+00:00",
       "tenant_metadata": {
         "guild_monetization": {
           "game_server": {
@@ -484,7 +487,8 @@
             "deactivation_cooldown_period_days": 7,
             "game_application_id": "363409643973771264",
             "provider": "shockbyte",
-            "disabled": false
+            "disabled": false,
+            "early_access": false
           }
         }
       },
@@ -613,7 +617,7 @@
         }
       ],
       "created_at": "2025-10-07T21:00:40.289222+00:00",
-      "updated_at": "2026-01-05T22:59:32.467795+00:00",
+      "updated_at": "2026-01-12T23:56:09.895267+00:00",
       "tenant_metadata": {
         "guild_monetization": {
           "game_server": {
@@ -626,7 +630,8 @@
             "deactivation_cooldown_period_days": 7,
             "game_application_id": "1402418594532298837",
             "provider": "shockbyte",
-            "disabled": false
+            "disabled": false,
+            "early_access": false
           }
         }
       },
