@@ -4513,61 +4513,90 @@
       "traffic_metadata_sealed": "EAE="
     },
     {
-      "id": "1447653364048330855",
+      "id": "1445883772816986212",
       "config": {
-        "id": "1447653364048330855",
+        "id": "1445883772816986212",
         "config_version": 2,
-        "starts_at": "2025-12-12T01:30:38+00:00",
-        "expires_at": "2025-12-18T07:59:38+00:00",
+        "starts_at": "2025-12-12T18:00:54+00:00",
+        "expires_at": "2025-12-23T00:00:54+00:00",
         "features": [
-          15
+          3,
+          9,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          23
         ],
         "application": {
-          "link": "https://store.steampowered.com/app/3357650/PRAGMATA/",
-          "id": "1448369915462549616",
-          "name": "PRAGMATA"
+          "link": "https://www.warframe.com/the-old-peace?utm_medium=paid-social&utm_source=discord&utm_campaign=DiscordVideoQuest",
+          "id": "545364944258990091",
+          "name": "Discord"
         },
         "assets": {
-          "hero": "quests/1447653364048330855/1447655197349511278.jpg",
-          "hero_video": "quests/1447653364048330855/1447655018197946458.mp4",
-          "quest_bar_hero": "quests/1447653364048330855/1447654926745468978.jpg",
-          "quest_bar_hero_video": "quests/1447653364048330855/1447655018197946458.mp4",
-          "game_tile": "1447655431270039805.png",
-          "logotype": "1447655430330253494.png",
-          "game_tile_light": "quests/1447653364048330855/1447655298872381440.png",
-          "game_tile_dark": "quests/1447653364048330855/1447655298872381440.png",
-          "logotype_light": "quests/1447653364048330855/1447655372893454488.png",
-          "logotype_dark": "quests/1447653364048330855/1447655372893454488.png"
+          "hero": "quests/1445883772816986212/1445887780130521180.jpg",
+          "hero_video": "quests/1445883772816986212/1445887696060027042.mp4",
+          "quest_bar_hero": "quests/1445883772816986212/1445887617781596190.jpg",
+          "quest_bar_hero_video": "quests/1445883772816986212/1445887696060027042.mp4",
+          "game_tile": "1445887988230918204.png",
+          "logotype": "1445887987232538879.png",
+          "game_tile_light": "quests/1445883772816986212/1445887950247301272.png",
+          "game_tile_dark": "quests/1445883772816986212/1445887950247301272.png",
+          "logotype_light": "quests/1445883772816986212/1445887894412857495.png",
+          "logotype_dark": "quests/1445883772816986212/1445887894412857495.png"
         },
         "colors": {
           "primary": "#4752C4",
           "secondary": "#000000"
         },
         "messages": {
-          "quest_name": "PRAGMATA Demo",
-          "game_title": "PRAGMATA",
-          "game_publisher": "Capcom"
+          "quest_name": "Warframe Old Peace",
+          "game_title": "Warframe",
+          "game_publisher": "Digital Extremes"
         },
         "task_config": {
           "type": 1,
           "join_operator": "or",
           "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "event_name": "PLAY_ON_DESKTOP",
-              "target": 900
+            "WATCH_VIDEO": {
+              "event_name": "WATCH_VIDEO",
+              "target": 91
             }
           }
         },
         "task_config_v2": {
           "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1448369915462549616"
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 91,
+              "assets": {
+                "video": {
+                  "url": "quests/1445883772816986212/1445890933592817745_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1445883772816986212/1445892509208412282.png",
+                  "caption": "quests/1445883772816986212/1445892567635066952.vtt"
+                },
+                "video_low_res": {
+                  "url": "quests/1445883772816986212/1445890933592817745_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1445883772816986212/1445892509208412282.png",
+                  "caption": "quests/1445883772816986212/1445892567635066952.vtt"
+                },
+                "video_hls": {
+                  "url": "quests/1445883772816986212/1445890933592817745.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1445883772816986212/1445892509208412282.png",
+                  "caption": "quests/1445883772816986212/1445892567635066952.vtt"
                 }
-              ]
+              },
+              "messages": {
+                "video_title": "What is Warframe? trailer"
+              }
             }
           },
           "join_operator": "or"
@@ -4588,15 +4617,34 @@
               "orb_quantity": 700
             }
           ],
-          "rewards_expire_at": "2026-01-17T07:59:38+00:00",
+          "rewards_expire_at": "2026-01-22T00:00:54+00:00",
           "platforms": [
             0
           ]
         },
+        "video_metadata": {
+          "messages": {
+            "video_title": "What is Warframe? trailer",
+            "video_end_cta_subtitle": "Wake up, Tenno.",
+            "video_end_cta_button_label": "Jogar agora"
+          },
+          "assets": {
+            "video_player_video_hls": "quests/1445883772816986212/1445890933592817745.m3u8",
+            "video_player_video": "quests/1445883772816986212/1445890933592817745_1080.mp4",
+            "video_player_thumbnail": "quests/1445883772816986212/1445892509208412282.png",
+            "video_player_video_low_res": "quests/1445883772816986212/1445890933592817745_720.mp4",
+            "video_player_caption": "quests/1445883772816986212/1445892567635066952.vtt",
+            "video_player_transcript": null,
+            "quest_bar_preview_video": null,
+            "quest_bar_preview_thumbnail": null,
+            "quest_home_video": null
+          }
+        },
         "share_policy": "shareable_everywhere",
         "cta_config": {
-          "link": "https://store.steampowered.com/app/3357650/PRAGMATA/",
-          "button_label": "Jogar agora"
+          "link": "https://www.warframe.com/the-old-peace?utm_medium=paid-social&utm_source=discord&utm_campaign=DiscordVideoQuest",
+          "button_label": "Jogar agora",
+          "subtitle": "Wake up, Tenno."
         }
       },
       "user_status": null,
@@ -4758,147 +4806,6 @@
           "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=VALWWFBQuest",
           "button_label": "Jogar agora",
           "subtitle": "Entre na luta pela sua realidade"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false,
-      "traffic_metadata_raw": "EAE=",
-      "traffic_metadata_sealed": "EAE="
-    },
-    {
-      "id": "1445883772816986212",
-      "config": {
-        "id": "1445883772816986212",
-        "config_version": 2,
-        "starts_at": "2025-12-12T18:00:54+00:00",
-        "expires_at": "2025-12-23T00:00:54+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://www.warframe.com/the-old-peace?utm_medium=paid-social&utm_source=discord&utm_campaign=DiscordVideoQuest",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1445883772816986212/1445887780130521180.jpg",
-          "hero_video": "quests/1445883772816986212/1445887696060027042.mp4",
-          "quest_bar_hero": "quests/1445883772816986212/1445887617781596190.jpg",
-          "quest_bar_hero_video": "quests/1445883772816986212/1445887696060027042.mp4",
-          "game_tile": "1445887988230918204.png",
-          "logotype": "1445887987232538879.png",
-          "game_tile_light": "quests/1445883772816986212/1445887950247301272.png",
-          "game_tile_dark": "quests/1445883772816986212/1445887950247301272.png",
-          "logotype_light": "quests/1445883772816986212/1445887894412857495.png",
-          "logotype_dark": "quests/1445883772816986212/1445887894412857495.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Warframe Old Peace",
-          "game_title": "Warframe",
-          "game_publisher": "Digital Extremes"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "WATCH_VIDEO": {
-              "event_name": "WATCH_VIDEO",
-              "target": 91
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 91,
-              "assets": {
-                "video": {
-                  "url": "quests/1445883772816986212/1445890933592817745_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1445883772816986212/1445892509208412282.png",
-                  "caption": "quests/1445883772816986212/1445892567635066952.vtt"
-                },
-                "video_low_res": {
-                  "url": "quests/1445883772816986212/1445890933592817745_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1445883772816986212/1445892509208412282.png",
-                  "caption": "quests/1445883772816986212/1445892567635066952.vtt"
-                },
-                "video_hls": {
-                  "url": "quests/1445883772816986212/1445890933592817745.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1445883772816986212/1445892509208412282.png",
-                  "caption": "quests/1445883772816986212/1445892567635066952.vtt"
-                }
-              },
-              "messages": {
-                "video_title": "What is Warframe? trailer"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "orb_quantity": 700
-            }
-          ],
-          "rewards_expire_at": "2026-01-22T00:00:54+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "video_metadata": {
-          "messages": {
-            "video_title": "What is Warframe? trailer",
-            "video_end_cta_subtitle": "Wake up, Tenno.",
-            "video_end_cta_button_label": "Jogar agora"
-          },
-          "assets": {
-            "video_player_video_hls": "quests/1445883772816986212/1445890933592817745.m3u8",
-            "video_player_video": "quests/1445883772816986212/1445890933592817745_1080.mp4",
-            "video_player_thumbnail": "quests/1445883772816986212/1445892509208412282.png",
-            "video_player_video_low_res": "quests/1445883772816986212/1445890933592817745_720.mp4",
-            "video_player_caption": "quests/1445883772816986212/1445892567635066952.vtt",
-            "video_player_transcript": null,
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.warframe.com/the-old-peace?utm_medium=paid-social&utm_source=discord&utm_campaign=DiscordVideoQuest",
-          "button_label": "Jogar agora",
-          "subtitle": "Wake up, Tenno."
         }
       },
       "user_status": null,
