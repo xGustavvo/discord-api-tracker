@@ -4273,137 +4273,6 @@
       "traffic_metadata_sealed": "EAE="
     },
     {
-      "id": "1445532356323836135",
-      "config": {
-        "id": "1445532356323836135",
-        "config_version": 2,
-        "starts_at": "2025-12-12T18:00:30+00:00",
-        "expires_at": "2025-12-20T00:00:30+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://pathofexile2.com/",
-          "id": "1328876348361412619",
-          "name": "Path of Exile 2"
-        },
-        "assets": {
-          "hero": "quests/1445532356323836135/1445545944941727746.jpg",
-          "hero_video": null,
-          "quest_bar_hero": "quests/1445532356323836135/1445545897583837477.jpg",
-          "quest_bar_hero_video": null,
-          "game_tile": "1445546363118031009.jpg",
-          "logotype": "1445546165348208710.png",
-          "game_tile_light": "quests/1445532356323836135/1445546241562775673.jpg",
-          "game_tile_dark": "quests/1445532356323836135/1445546314493464656.jpg",
-          "logotype_light": "quests/1445532356323836135/1445546108767043594.png",
-          "logotype_dark": "quests/1445532356323836135/1445546037061357708.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Path of Exile 2",
-          "game_title": "Path of Exile 2",
-          "game_publisher": "Grinding Gear Games"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "event_name": "PLAY_ON_DESKTOP",
-              "target": 900
-            },
-            "PLAY_ON_XBOX": {
-              "event_name": "PLAY_ON_XBOX",
-              "target": 900
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "event_name": "PLAY_ON_PLAYSTATION",
-              "target": 900
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1328876348361412619"
-                }
-              ]
-            },
-            "PLAY_ON_XBOX": {
-              "type": "PLAY_ON_XBOX",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1328876348361412619"
-                }
-              ]
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1328876348361412619"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 3,
-              "sku_id": "1445852154131775520",
-              "asset": "quests/1445532356323836135/1446257835737350327.mp4",
-              "asset_video": null,
-              "messages": {
-                "name": "Last of the Druids Avatar",
-                "name_with_article": "a Last of the Druids Avatar",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "expires_at": "2026-02-19T00:00:00+00:00",
-              "expires_at_premium": null,
-              "expiration_mode": 3
-            }
-          ],
-          "rewards_expire_at": "2026-01-19T00:00:30+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://pathofexile2.com/",
-          "button_label": "Jogar"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false,
-      "traffic_metadata_raw": "EAE=",
-      "traffic_metadata_sealed": "EAE="
-    },
-    {
       "id": "1445883772816986212",
       "config": {
         "id": "1445883772816986212",
@@ -4536,6 +4405,139 @@
           "link": "https://www.warframe.com/the-old-peace?utm_medium=paid-social&utm_source=discord&utm_campaign=DiscordVideoQuest",
           "button_label": "Jogar agora",
           "subtitle": "Wake up, Tenno."
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false,
+      "traffic_metadata_raw": "EAE=",
+      "traffic_metadata_sealed": "EAE="
+    },
+    {
+      "id": "1450298745643339879",
+      "config": {
+        "id": "1450298745643339879",
+        "config_version": 2,
+        "starts_at": "2025-12-17T15:00:26+00:00",
+        "expires_at": "2025-12-23T21:00:26+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://gonnaneedmilk.com/gaming/",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1450298745643339879/1450634606356336650.jpg",
+          "hero_video": "quests/1450298745643339879/1450634433429372929.mp4",
+          "quest_bar_hero": "quests/1450298745643339879/1450646119410565222.jpg",
+          "quest_bar_hero_video": "quests/1450298745643339879/1450634433429372929.mp4",
+          "game_tile": "1450634362730319872.png",
+          "logotype": "1450634306719584422.png",
+          "game_tile_light": "quests/1450298745643339879/1450634347739742279.png",
+          "game_tile_dark": "quests/1450298745643339879/1450634347739742279.png",
+          "logotype_light": "quests/1450298745643339879/1450634216873267275.png",
+          "logotype_dark": "quests/1450298745643339879/1450634247692877988.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Milk Powered",
+          "game_title": "Milk: OG Gamer Fuel Trailer",
+          "game_publisher": "GonnaNeedMilk"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "WATCH_VIDEO": {
+              "event_name": "WATCH_VIDEO",
+              "target": 29
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1450298745643339879/1450634889908060190_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1450298745643339879/1450637003497672755.png",
+                  "transcript": "quests/1450298745643339879/1450639421886959798.txt"
+                },
+                "video_low_res": {
+                  "url": "quests/1450298745643339879/1450634889908060190_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1450298745643339879/1450637003497672755.png",
+                  "transcript": "quests/1450298745643339879/1450639421886959798.txt"
+                },
+                "video_hls": {
+                  "url": "quests/1450298745643339879/1450634889908060190.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1450298745643339879/1450637003497672755.png",
+                  "transcript": "quests/1450298745643339879/1450639421886959798.txt"
+                }
+              },
+              "messages": {
+                "video_title": "Milk: OG Gamer Fuel Trailer"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700
+            }
+          ],
+          "rewards_expire_at": "2026-01-22T21:00:26+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "video_metadata": {
+          "messages": {
+            "video_title": "Milk: OG Gamer Fuel Trailer",
+            "video_end_cta_subtitle": "The stuff in milk can help you focus.",
+            "video_end_cta_button_label": "Mais detalhes"
+          },
+          "assets": {
+            "video_player_video_hls": "quests/1450298745643339879/1450634889908060190.m3u8",
+            "video_player_video": "quests/1450298745643339879/1450634889908060190_1080.mp4",
+            "video_player_thumbnail": "quests/1450298745643339879/1450637003497672755.png",
+            "video_player_video_low_res": "quests/1450298745643339879/1450634889908060190_720.mp4",
+            "video_player_caption": null,
+            "video_player_transcript": "quests/1450298745643339879/1450639421886959798.txt",
+            "quest_bar_preview_video": null,
+            "quest_bar_preview_thumbnail": null,
+            "quest_home_video": null
+          }
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://gonnaneedmilk.com/gaming/",
+          "button_label": "Mais detalhes",
+          "subtitle": "The stuff in milk can help you focus."
         }
       },
       "user_status": null,
@@ -4697,139 +4699,6 @@
           "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=VALWWFBQuest",
           "button_label": "Jogar agora",
           "subtitle": "Entre na luta pela sua realidade"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false,
-      "traffic_metadata_raw": "EAE=",
-      "traffic_metadata_sealed": "EAE="
-    },
-    {
-      "id": "1450298745643339879",
-      "config": {
-        "id": "1450298745643339879",
-        "config_version": 2,
-        "starts_at": "2025-12-17T15:00:26+00:00",
-        "expires_at": "2025-12-23T21:00:26+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://gonnaneedmilk.com/gaming/",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1450298745643339879/1450634606356336650.jpg",
-          "hero_video": "quests/1450298745643339879/1450634433429372929.mp4",
-          "quest_bar_hero": "quests/1450298745643339879/1450646119410565222.jpg",
-          "quest_bar_hero_video": "quests/1450298745643339879/1450634433429372929.mp4",
-          "game_tile": "1450634362730319872.png",
-          "logotype": "1450634306719584422.png",
-          "game_tile_light": "quests/1450298745643339879/1450634347739742279.png",
-          "game_tile_dark": "quests/1450298745643339879/1450634347739742279.png",
-          "logotype_light": "quests/1450298745643339879/1450634216873267275.png",
-          "logotype_dark": "quests/1450298745643339879/1450634247692877988.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Milk Powered",
-          "game_title": "Milk: OG Gamer Fuel Trailer",
-          "game_publisher": "GonnaNeedMilk"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "WATCH_VIDEO": {
-              "event_name": "WATCH_VIDEO",
-              "target": 29
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1450298745643339879/1450634889908060190_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1450298745643339879/1450637003497672755.png",
-                  "transcript": "quests/1450298745643339879/1450639421886959798.txt"
-                },
-                "video_low_res": {
-                  "url": "quests/1450298745643339879/1450634889908060190_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1450298745643339879/1450637003497672755.png",
-                  "transcript": "quests/1450298745643339879/1450639421886959798.txt"
-                },
-                "video_hls": {
-                  "url": "quests/1450298745643339879/1450634889908060190.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1450298745643339879/1450637003497672755.png",
-                  "transcript": "quests/1450298745643339879/1450639421886959798.txt"
-                }
-              },
-              "messages": {
-                "video_title": "Milk: OG Gamer Fuel Trailer"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700
-            }
-          ],
-          "rewards_expire_at": "2026-01-22T21:00:26+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "video_metadata": {
-          "messages": {
-            "video_title": "Milk: OG Gamer Fuel Trailer",
-            "video_end_cta_subtitle": "The stuff in milk can help you focus.",
-            "video_end_cta_button_label": "Mais detalhes"
-          },
-          "assets": {
-            "video_player_video_hls": "quests/1450298745643339879/1450634889908060190.m3u8",
-            "video_player_video": "quests/1450298745643339879/1450634889908060190_1080.mp4",
-            "video_player_thumbnail": "quests/1450298745643339879/1450637003497672755.png",
-            "video_player_video_low_res": "quests/1450298745643339879/1450634889908060190_720.mp4",
-            "video_player_caption": null,
-            "video_player_transcript": "quests/1450298745643339879/1450639421886959798.txt",
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://gonnaneedmilk.com/gaming/",
-          "button_label": "Mais detalhes",
-          "subtitle": "The stuff in milk can help you focus."
         }
       },
       "user_status": null,
@@ -5196,140 +5065,6 @@
         "cta_config": {
           "link": "https://lps.plarium.com/en/desktop/raid/dro/bp?plid=1778285&pxl=discord_web",
           "button_label": "Obter jogo"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false,
-      "traffic_metadata_raw": "EAE=",
-      "traffic_metadata_sealed": "EAE="
-    },
-    {
-      "id": "1448102602704293999",
-      "config": {
-        "id": "1448102602704293999",
-        "config_version": 2,
-        "starts_at": "2025-12-12T18:00:44+00:00",
-        "expires_at": "2025-12-20T00:00:44+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://store.steampowered.com/app/4115450/Phantom_Blade_Zero?utm_source=discord&utm_campaign=tga2025&utm_medium=pmedia&utm_content=quest&utm_term=global",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1448102602704293999/1448106417465721096.jpg",
-          "hero_video": "quests/1448102602704293999/1448106100946767943.mp4",
-          "quest_bar_hero": "quests/1448102602704293999/1448106578610753657.jpg",
-          "quest_bar_hero_video": "quests/1448102602704293999/1448106100946767943.mp4",
-          "game_tile": "1448111747062960138.png",
-          "logotype": "1448107118858211429.PNG",
-          "game_tile_light": "quests/1448102602704293999/1448111727203061912.png",
-          "game_tile_dark": "quests/1448102602704293999/1448111727203061912.png",
-          "logotype_light": "quests/1448102602704293999/1448107096221417664.PNG",
-          "logotype_dark": "quests/1448102602704293999/1448107096221417664.PNG"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Phantom Blade Zero Video",
-          "game_title": "Phantom Blade Zero",
-          "game_publisher": "S-GAME"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "WATCH_VIDEO": {
-              "event_name": "WATCH_VIDEO",
-              "target": 240
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 240,
-              "assets": {
-                "video": {
-                  "url": "quests/1448102602704293999/1448899606359314583_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1448102602704293999/1448112146234867813.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1448102602704293999/1448899606359314583_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1448102602704293999/1448112146234867813.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1448102602704293999/1448899606359314583.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1448102602704293999/1448112146234867813.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "Phantom Blade Zero - Official Release Date Trailer"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 3,
-              "sku_id": "1448114830778171637",
-              "asset": "quests/1448102602704293999/1448115115810619452.mp4",
-              "asset_video": null,
-              "messages": {
-                "name": "Lethal Strike Avatar Decoration",
-                "name_with_article": "a Lethal Strike Avatar Decoration",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "expires_at": "2026-02-19T00:00:00+00:00",
-              "expires_at_premium": null,
-              "expiration_mode": 3
-            }
-          ],
-          "rewards_expire_at": "2026-01-19T00:00:44+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "video_metadata": {
-          "messages": {
-            "video_title": "Phantom Blade Zero - Official Release Date Trailer",
-            "video_end_cta_subtitle": "Watch the Phantom Blade Zero Official Release Date Trailer and claim a free Kungfu Punk-style avatar decoration.",
-            "video_end_cta_button_label": "Adicione à lista de desejos"
-          },
-          "assets": {
-            "video_player_video_hls": "quests/1448102602704293999/1448899606359314583.m3u8",
-            "video_player_video": "quests/1448102602704293999/1448899606359314583_1080.mp4",
-            "video_player_thumbnail": "quests/1448102602704293999/1448112146234867813.jpg",
-            "video_player_video_low_res": "quests/1448102602704293999/1448899606359314583_720.mp4",
-            "video_player_caption": null,
-            "video_player_transcript": null,
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://store.steampowered.com/app/4115450/Phantom_Blade_Zero?utm_source=discord&utm_campaign=tga2025&utm_medium=pmedia&utm_content=quest&utm_term=global",
-          "button_label": "Adicione à lista de desejos",
-          "subtitle": "Watch the Phantom Blade Zero Official Release Date Trailer and claim a free Kungfu Punk-style avatar decoration."
         }
       },
       "user_status": null,
