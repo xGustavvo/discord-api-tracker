@@ -122803,5 +122803,2515 @@
       "responsive": null,
       "background_style": null
     }
+  },
+  {
+    "sku_id": "1461062060401229968",
+    "name": "Tarot",
+    "summary": " ",
+    "store_listing_id": "1461062060392710314",
+    "unpublished_at": null,
+    "styles": {
+      "background_colors": [
+        10840423,
+        4338512
+      ],
+      "button_colors": [
+        5793266,
+        5793266
+      ],
+      "confetti_colors": [
+        43772,
+        15774258,
+        16414587,
+        3000177,
+        9739511
+      ]
+    },
+    "logo": "1461062060409491506",
+    "hero_ranking": [
+      "1461062060019421275",
+      "1461062060040261705",
+      "1461062060094914735",
+      "1461062060120080384",
+      "1461062060052971604",
+      "1461062060065558656",
+      "1461062060082462731",
+      "1461062060141051946",
+      "1461062060161892589",
+      "1461062060182995116",
+      "1461062060208160778",
+      "1461062060229132369",
+      "1461062060254298326",
+      "1461062060279464048",
+      "1461062060300435722",
+      "1461062060325601280",
+      "1461062060346572953",
+      "1461062060371738694"
+    ],
+    "mobile_bg": "1461062060447367179",
+    "pdp_bg": "1461062060430463147",
+    "mobile_banner": "1461062060438847629",
+    "featured_block": "1461062060426395649",
+    "products": [
+      {
+        "sku_id": "1461062060019421275",
+        "name": "The Magician Bundle",
+        "summary": "{joinedItems}",
+        "store_listing_id": "1461062060032000050",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            10840423,
+            4338512
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 1599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 11000,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 1299,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 11000,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 1,
+            "id": "1461062060384325886",
+            "sku_id": "1461062060371738694",
+            "title": "The Magician",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Ornate red border with cat paw holding wand summoning sword, chalice, and pentacles with golden sparkles.",
+            "animationType": 1,
+            "staticFrameSrc": "https://cdn.discordapp.com/assets/content/16b57e1df78520aa6020f039d2859ea9e8bda0d4e4a7b2c9acb3906d8434d608",
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/ce95e55e85fc46672f673d6339c043a3f33e3f16f0e2fdbc648b22f15e90829c",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/dc31a81a74819717fd5b35d2fd1f9a9f546bd5253ba936ebcf5a3e1e87d79801",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/assets/content/c49c32f4157e7f5b623dbb10c1142cd23459a64764b279b1ec31d2e272cbcf31",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/f29bcd8db92bd289404b00bcb7a18ff0125abb273222cdf822d295ab2aa858b3",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 3000,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/b3fd161d66a519bd3e263b35b0908ea23e1417636539c5505c24e16ade738bf9",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 3000,
+                "loopDelay": 3000,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 102,
+                "randomizedSources": []
+              }
+            ]
+          },
+          {
+            "type": 2,
+            "id": "1461062060317216818",
+            "sku_id": "1461062060300435722",
+            "asset": "nameplates/tarot/manifesting_magic/",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/7543245a475af2e803b15949539167c8dd4425186873b1824b4c067666073e1c",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/984fb3ef3ba5d1e6820c78169003f056d6317e054d904e642d87b8931527081d",
+              "video_url": "https://cdn.discordapp.com/assets/content/6c6a0e62983c01668a1a543b2129bb14aadcbae88d94c747072b14c16ef5dddf"
+            },
+            "label": "Cat paw with wand summons chalice, sword and pentacle.",
+            "palette": "crimson"
+          },
+          {
+            "type": 0,
+            "id": "1461062060220747910",
+            "sku_id": "1461062060208160778",
+            "asset": "a_4cd2d8f48ca9762e036181bf14a52ac3",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/8daeb02637ff396e67dbe2be8965dc104722d386da460fc14ffef8fbab0ea349",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/46dcb1cf9b0388c00d89cfd064c31e3a99bba20ccca089d529de5235e3bc29a9"
+            },
+            "label": "Cat paw waving wand with golden sword, chalice, and pentacle as magic flows."
+          }
+        ],
+        "type": 1000,
+        "premium_type": 0,
+        "category_sku_id": "1461062060401229968",
+        "bundled_products": [
+          {
+            "sku_id": "1461062060371738694",
+            "name": "The Magician",
+            "summary": "Show this effect when others view your profile.",
+            "type": 1,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 499,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "sku_id": "1461062060300435722",
+            "name": "Manifesting Magic",
+            "summary": "Make your name stand out in servers and chats.",
+            "type": 2,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 499,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "sku_id": "1461062060208160778",
+            "name": "The Magician",
+            "summary": "Give your avatar a new look.",
+            "type": 0,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 499,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ],
+        "google_sku_ids": {
+          "5": "1461062060019421275_1461125966494437699",
+          "7": "1461062060019421275_1461125972030914717"
+        }
+      },
+      {
+        "sku_id": "1461062060040261705",
+        "name": "Ominous Reading Bundle",
+        "summary": "{joinedItems}",
+        "store_listing_id": "1461062060044587204",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            10840423,
+            4338512
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 1599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 11000,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 1299,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 11000,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1461062060199776317",
+            "sku_id": "1461062060182995116",
+            "asset": "a_c1fba076919b76b5170df846d285117d",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/ca314746bdf7150dddefce3c1c835ccbcb3c0fcc42516dd0f048369235321a07",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/78a30bff9e29cdb1edb7e7cf81d397379e3092e3bcf99f0b9b7ab35177f6b54e"
+            },
+            "label": "Purple hood with cat skull appearing within it."
+          },
+          {
+            "type": 2,
+            "id": "1461062060296245268",
+            "sku_id": "1461062060279464048",
+            "asset": "nameplates/tarot/towers_strike/",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/62676bb38238fd7ebf77d199410ddf3b3e7cf6a3ae5480f183f593b4fe3f4fb8",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/4a76638b42242031b41a72aec4065b2347856ec35387a29f20722f9fefe8777b",
+              "video_url": "https://cdn.discordapp.com/assets/content/5a1d1fc38995437b7b2fd680f1cca9a25bac0a3e4228f2c198d525dab732f347"
+            },
+            "label": "Rain and lightning with blue electric energy crackling.",
+            "palette": "cobalt"
+          },
+          {
+            "type": 1,
+            "id": "1461062060363354203",
+            "sku_id": "1461062060346572953",
+            "title": "The Tower",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Burning tower appears in flash of lightning with cat dangling, surrounded by smoke and ornate blue border.",
+            "animationType": 1,
+            "staticFrameSrc": "https://cdn.discordapp.com/assets/content/9fb7b14f49b1302661a8ea995ba823926554b0adf78468b68a9ef033feab31a7",
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/8d30d160ed583e2a468e63254faca67d0c1af1484544a54817859669d6f8328b",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/cb86698404bbcf43d3d7d846630e8515944badd23ba9ec5f6b399d6b6a432de9",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/assets/content/bce6ed531a28f59156be9655edaf3a4d5c05e31f4a0dc319fbdff961ba64f382",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/8fd1284c60fe42346b8dafe98aa566ca4fdc83b8f9c6e46ab284529d7b3fe4d8",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 3000,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/74a2e92bebc9907fa441312d96cdbc5930b3e598425bc0d972217d05450e1f6b",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 3000,
+                "loopDelay": 3000,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 102,
+                "randomizedSources": []
+              }
+            ]
+          }
+        ],
+        "type": 1000,
+        "premium_type": 0,
+        "category_sku_id": "1461062060401229968",
+        "bundled_products": [
+          {
+            "sku_id": "1461062060182995116",
+            "name": "Death",
+            "summary": "Give your avatar a new look.",
+            "type": 0,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 499,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "sku_id": "1461062060279464048",
+            "name": "Tower's Strike",
+            "summary": "Make your name stand out in servers and chats.",
+            "type": 2,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 499,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "sku_id": "1461062060346572953",
+            "name": "The Tower",
+            "summary": "Show this effect when others view your profile.",
+            "type": 1,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 499,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ],
+        "google_sku_ids": {
+          "5": "1461062060040261705_1461128639910248458",
+          "7": "1461062060040261705_1461128644356215108"
+        }
+      },
+      {
+        "sku_id": "1461062060052971604",
+        "name": "Alchemical Light Bundle",
+        "summary": "{joinedItems}",
+        "store_listing_id": "1461062060061233184",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            10840423,
+            4338512
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 1099,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 7600,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 899,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 7600,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1461062060132667506",
+            "sku_id": "1461062060120080384",
+            "asset": "a_b537dd607dcd467f778f3ab352e26856",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/fc1ea1f598a750b305aa7dc42f517f6f27a70aa30770587d8f073fe2a93ed7a3",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/d7b763442b5217dc0e4ea2534005e263498a4faf67b9ab9083ad720ed581f17b"
+            },
+            "label": "Golden sun with radiant shimmering rays."
+          },
+          {
+            "type": 1,
+            "id": "1461062060384325886",
+            "sku_id": "1461062060371738694",
+            "title": "The Magician",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Ornate red border with cat paw holding wand summoning sword, chalice, and pentacles with golden sparkles.",
+            "animationType": 1,
+            "staticFrameSrc": "https://cdn.discordapp.com/assets/content/16b57e1df78520aa6020f039d2859ea9e8bda0d4e4a7b2c9acb3906d8434d608",
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/ce95e55e85fc46672f673d6339c043a3f33e3f16f0e2fdbc648b22f15e90829c",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/dc31a81a74819717fd5b35d2fd1f9a9f546bd5253ba936ebcf5a3e1e87d79801",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/assets/content/c49c32f4157e7f5b623dbb10c1142cd23459a64764b279b1ec31d2e272cbcf31",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/f29bcd8db92bd289404b00bcb7a18ff0125abb273222cdf822d295ab2aa858b3",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 3000,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/b3fd161d66a519bd3e263b35b0908ea23e1417636539c5505c24e16ade738bf9",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 3000,
+                "loopDelay": 3000,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 102,
+                "randomizedSources": []
+              }
+            ]
+          }
+        ],
+        "type": 1000,
+        "premium_type": 0,
+        "category_sku_id": "1461062060401229968",
+        "bundled_products": [
+          {
+            "sku_id": "1461062060120080384",
+            "name": "The Sun",
+            "summary": "Give your avatar a new look.",
+            "type": 0,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 499,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "sku_id": "1461062060371738694",
+            "name": "The Magician",
+            "summary": "Show this effect when others view your profile.",
+            "type": 1,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 499,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ],
+        "google_sku_ids": {
+          "5": "1461062060052971604_1461127610527387731",
+          "7": "1461062060052971604_1461127614705172709"
+        }
+      },
+      {
+        "sku_id": "1461062060065558656",
+        "name": "Catastrophic Bundle",
+        "summary": "{joinedItems}",
+        "store_listing_id": "1461062060073943174",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            10840423,
+            4338512
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 1099,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 7600,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 899,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 7600,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1461062060153639198",
+            "sku_id": "1461062060141051946",
+            "asset": "a_201b4c787a40613499928f068f0917f6",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/a3fc5bccc370099637c962f59095ba435f0a5c7b49d57f5281a102342987caa7",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/d4f7773190dbbd844cadc48a1c306a534d7f6dbafb67eb6bf73f27aa87a3fcb2"
+            },
+            "label": "Demon horns, ears, wings, and flames surround avatar while three demonic eyes appear."
+          },
+          {
+            "type": 1,
+            "id": "1461062060363354203",
+            "sku_id": "1461062060346572953",
+            "title": "The Tower",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Burning tower appears in flash of lightning with cat dangling, surrounded by smoke and ornate blue border.",
+            "animationType": 1,
+            "staticFrameSrc": "https://cdn.discordapp.com/assets/content/9fb7b14f49b1302661a8ea995ba823926554b0adf78468b68a9ef033feab31a7",
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/8d30d160ed583e2a468e63254faca67d0c1af1484544a54817859669d6f8328b",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/cb86698404bbcf43d3d7d846630e8515944badd23ba9ec5f6b399d6b6a432de9",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/assets/content/bce6ed531a28f59156be9655edaf3a4d5c05e31f4a0dc319fbdff961ba64f382",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/8fd1284c60fe42346b8dafe98aa566ca4fdc83b8f9c6e46ab284529d7b3fe4d8",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 3000,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/74a2e92bebc9907fa441312d96cdbc5930b3e598425bc0d972217d05450e1f6b",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 3000,
+                "loopDelay": 3000,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 102,
+                "randomizedSources": []
+              }
+            ]
+          }
+        ],
+        "type": 1000,
+        "premium_type": 0,
+        "category_sku_id": "1461062060401229968",
+        "bundled_products": [
+          {
+            "sku_id": "1461062060141051946",
+            "name": "The Devil",
+            "summary": "Give your avatar a new look.",
+            "type": 0,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 499,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "sku_id": "1461062060346572953",
+            "name": "The Tower",
+            "summary": "Show this effect when others view your profile.",
+            "type": 1,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 499,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ],
+        "google_sku_ids": {
+          "5": "1461062060065558656_1461125356286120157",
+          "7": "1461062060065558656_1461125361411821730"
+        }
+      },
+      {
+        "sku_id": "1461062060082462731",
+        "name": "Inevitable Journey Bundle",
+        "summary": "{joinedItems}",
+        "store_listing_id": "1461062060086530244",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            10840423,
+            4338512
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 1099,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 7600,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 899,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 7600,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1461062060199776317",
+            "sku_id": "1461062060182995116",
+            "asset": "a_c1fba076919b76b5170df846d285117d",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/ca314746bdf7150dddefce3c1c835ccbcb3c0fcc42516dd0f048369235321a07",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/78a30bff9e29cdb1edb7e7cf81d397379e3092e3bcf99f0b9b7ab35177f6b54e"
+            },
+            "label": "Purple hood with cat skull appearing within it."
+          },
+          {
+            "type": 1,
+            "id": "1461062060338188463",
+            "sku_id": "1461062060325601280",
+            "title": "The Hermit",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Purple ornate border with cat holding glowing lantern with green eye surrounded by smoke and stars.",
+            "animationType": 1,
+            "staticFrameSrc": "https://cdn.discordapp.com/assets/content/c25eac04e5b02e51011d058b0798e9654f3bdcac92c3de5835d5a6cba4ca4800",
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/d81b45ef37fdc8bb2a493d8727c3e967a316b619abc7e0c2891376dac3f78169",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/8881f4a9ec30fabdad2aa02160ce418eedf02036c09422e4fc352763ed7b2d9d",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/assets/content/9a8a5f93135ded3253dfe4aa3c4cfde1c1cd1c3e99316f7906953a7ab15467bb",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/46c327cf5e3bcbbd7681c26f8004c5bff5a1a30edfd942a5d7debaa15abe5379",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 3000,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/996d802dbd8f3c7a6815ce69f4176c5fad4c1830af1ab2c50c288c9beee05d8f",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 3000,
+                "loopDelay": 3000,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 102,
+                "randomizedSources": []
+              }
+            ]
+          }
+        ],
+        "type": 1000,
+        "premium_type": 0,
+        "category_sku_id": "1461062060401229968",
+        "bundled_products": [
+          {
+            "sku_id": "1461062060182995116",
+            "name": "Death",
+            "summary": "Give your avatar a new look.",
+            "type": 0,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 499,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "sku_id": "1461062060325601280",
+            "name": "The Hermit",
+            "summary": "Show this effect when others view your profile.",
+            "type": 1,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 499,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ],
+        "google_sku_ids": {
+          "5": "1461062060082462731_1461126046282940588",
+          "7": "1461062060082462731_1461126051060121630"
+        }
+      },
+      {
+        "sku_id": "1461062060094914735",
+        "name": "The Fool",
+        "summary": "Give your avatar a new look.",
+        "store_listing_id": "1461062060103434333",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            10840423,
+            4338512
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1461062060111695924",
+            "sku_id": "1461062060094914735",
+            "asset": "a_aa54739e05fcfa78e9f2649e6bbffa38",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/f263d2d6ffe8443ac451d48436d435cf8bae4bf756f56053f09eec3a2c434e09",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/096cf7e82497efee9262b6af48ee64b313c17b09735cae3bf4fead7b8f6a191a"
+            },
+            "label": "Purple and green jester hat with bells bouncing with sparkles."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1461062060401229968",
+        "google_sku_ids": {
+          "5": "1461062060094914735_1461126855644942398",
+          "7": "1461062060094914735_1461126862037192960"
+        }
+      },
+      {
+        "sku_id": "1461062060120080384",
+        "name": "The Sun",
+        "summary": "Give your avatar a new look.",
+        "store_listing_id": "1461062060124405934",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            10840423,
+            4338512
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1461062060132667506",
+            "sku_id": "1461062060120080384",
+            "asset": "a_b537dd607dcd467f778f3ab352e26856",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/fc1ea1f598a750b305aa7dc42f517f6f27a70aa30770587d8f073fe2a93ed7a3",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/d7b763442b5217dc0e4ea2534005e263498a4faf67b9ab9083ad720ed581f17b"
+            },
+            "label": "Golden sun with radiant shimmering rays."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1461062060401229968",
+        "google_sku_ids": {
+          "5": "1461062060120080384_1461126626493333657",
+          "7": "1461062060120080384_1461126631409193096"
+        }
+      },
+      {
+        "sku_id": "1461062060141051946",
+        "name": "The Devil",
+        "summary": "Give your avatar a new look.",
+        "store_listing_id": "1461062060149313587",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            10840423,
+            4338512
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1461062060153639198",
+            "sku_id": "1461062060141051946",
+            "asset": "a_201b4c787a40613499928f068f0917f6",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/a3fc5bccc370099637c962f59095ba435f0a5c7b49d57f5281a102342987caa7",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/d4f7773190dbbd844cadc48a1c306a534d7f6dbafb67eb6bf73f27aa87a3fcb2"
+            },
+            "label": "Demon horns, ears, wings, and flames surround avatar while three demonic eyes appear."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1461062060401229968",
+        "google_sku_ids": {
+          "5": "1461062060141051946_1461128576710475787",
+          "7": "1461062060141051946_1461128581890441397"
+        }
+      },
+      {
+        "sku_id": "1461062060161892589",
+        "name": "Temperance",
+        "summary": "Give your avatar a new look.",
+        "store_listing_id": "1461062060170543206",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            10840423,
+            4338512
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1461062060174610636",
+            "sku_id": "1461062060161892589",
+            "asset": "a_ac34c6cf7a245568910302e34eec7fe2",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/5f41f642be853d7cf59a0f0be105b09adb2047952f009202c0c2c6e8573bc112",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/95faa77ca7dfe07850916d1de03bf9968fb19abce055d554916b4b0f527e9327"
+            },
+            "label": "Blue water flowing between golden cups with eye in rays of light."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1461062060401229968",
+        "google_sku_ids": {
+          "5": "1461062060161892589_1461125429334118615",
+          "7": "1461062060161892589_1461125434279334098"
+        }
+      },
+      {
+        "sku_id": "1461062060182995116",
+        "name": "Death",
+        "summary": "Give your avatar a new look.",
+        "store_listing_id": "1461062060191514736",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            10840423,
+            4338512
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1461062060199776317",
+            "sku_id": "1461062060182995116",
+            "asset": "a_c1fba076919b76b5170df846d285117d",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/ca314746bdf7150dddefce3c1c835ccbcb3c0fcc42516dd0f048369235321a07",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/78a30bff9e29cdb1edb7e7cf81d397379e3092e3bcf99f0b9b7ab35177f6b54e"
+            },
+            "label": "Purple hood with cat skull appearing within it."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1461062060401229968",
+        "google_sku_ids": {
+          "5": "1461062060182995116_1461126792063750176",
+          "7": "1461062060182995116_1461126798699135234"
+        }
+      },
+      {
+        "sku_id": "1461062060208160778",
+        "name": "The Magician",
+        "summary": "Give your avatar a new look.",
+        "store_listing_id": "1461062060212486379",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            10840423,
+            4338512
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1461062060220747910",
+            "sku_id": "1461062060208160778",
+            "asset": "a_4cd2d8f48ca9762e036181bf14a52ac3",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/8daeb02637ff396e67dbe2be8965dc104722d386da460fc14ffef8fbab0ea349",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/46dcb1cf9b0388c00d89cfd064c31e3a99bba20ccca089d529de5235e3bc29a9"
+            },
+            "label": "Cat paw waving wand with golden sword, chalice, and pentacle as magic flows."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1461062060401229968",
+        "google_sku_ids": {
+          "5": "1461062060208160778_1461128671505944801",
+          "7": "1461062060208160778_1461128676157423647"
+        }
+      },
+      {
+        "sku_id": "1461062060229132369",
+        "name": "Sunlit Radiance",
+        "summary": "Make your name stand out in servers and chats.",
+        "store_listing_id": "1461062060233457920",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            10840423,
+            4338512
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 2,
+            "id": "1461062060246044682",
+            "sku_id": "1461062060229132369",
+            "asset": "nameplates/tarot/sunlit_radiance/",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/13a3f68c9499ce0731720910fa6ecd5dc19ba20b511b1e3735a591fd002f529d",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/6588a011a79288333374db3baab271d532af45d69f9b1a4f3908a449a7775ce9",
+              "video_url": "https://cdn.discordapp.com/assets/content/52c382acb005f9a7b05917308d3a410c177a5dedb8ed502d808532643cb51a0c"
+            },
+            "label": "Orange sun spinning with golden shimmering rays.",
+            "palette": "crimson"
+          }
+        ],
+        "type": 2,
+        "premium_type": 0,
+        "category_sku_id": "1461062060401229968",
+        "google_sku_ids": {
+          "5": "1461062060229132369_1461127703745794229",
+          "7": "1461062060229132369_1461127708317847786"
+        }
+      },
+      {
+        "sku_id": "1461062060254298326",
+        "name": "Hermit's Lantern",
+        "summary": "Make your name stand out in servers and chats.",
+        "store_listing_id": "1461062060262817957",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            10840423,
+            4338512
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 2,
+            "id": "1461062060271079514",
+            "sku_id": "1461062060254298326",
+            "asset": "nameplates/tarot/hermits_lantern/",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/a044aefd1f340b026c5317298d1e4bfea232c48a236a4725268802b4d1445c0b",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/17c2ef4ddfb29839fef5ec0c73bb98b49041b772fb037e0e4fb943b05ed6e473",
+              "video_url": "https://cdn.discordapp.com/assets/content/1480585ab922bea89b8728ced39ac54406041c89fba87e1a88639b6d8ef18b5b"
+            },
+            "label": "Cat paw carrying lit lantern enters from right with swirling clouds.",
+            "palette": "clover"
+          }
+        ],
+        "type": 2,
+        "premium_type": 0,
+        "category_sku_id": "1461062060401229968",
+        "google_sku_ids": {
+          "5": "1461062060254298326_1461128296568983582",
+          "7": "1461062060254298326_1461128301677510981"
+        }
+      },
+      {
+        "sku_id": "1461062060279464048",
+        "name": "Tower's Strike",
+        "summary": "Make your name stand out in servers and chats.",
+        "store_listing_id": "1461062060287983616",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            10840423,
+            4338512
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 2,
+            "id": "1461062060296245268",
+            "sku_id": "1461062060279464048",
+            "asset": "nameplates/tarot/towers_strike/",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/62676bb38238fd7ebf77d199410ddf3b3e7cf6a3ae5480f183f593b4fe3f4fb8",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/4a76638b42242031b41a72aec4065b2347856ec35387a29f20722f9fefe8777b",
+              "video_url": "https://cdn.discordapp.com/assets/content/5a1d1fc38995437b7b2fd680f1cca9a25bac0a3e4228f2c198d525dab732f347"
+            },
+            "label": "Rain and lightning with blue electric energy crackling.",
+            "palette": "cobalt"
+          }
+        ],
+        "type": 2,
+        "premium_type": 0,
+        "category_sku_id": "1461062060401229968",
+        "google_sku_ids": {
+          "5": "1461062060279464048_1461126044466548920",
+          "7": "1461062060279464048_1461126049063633003"
+        }
+      },
+      {
+        "sku_id": "1461062060300435722",
+        "name": "Manifesting Magic",
+        "summary": "Make your name stand out in servers and chats.",
+        "store_listing_id": "1461062060308955239",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            10840423,
+            4338512
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 2,
+            "id": "1461062060317216818",
+            "sku_id": "1461062060300435722",
+            "asset": "nameplates/tarot/manifesting_magic/",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/7543245a475af2e803b15949539167c8dd4425186873b1824b4c067666073e1c",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/984fb3ef3ba5d1e6820c78169003f056d6317e054d904e642d87b8931527081d",
+              "video_url": "https://cdn.discordapp.com/assets/content/6c6a0e62983c01668a1a543b2129bb14aadcbae88d94c747072b14c16ef5dddf"
+            },
+            "label": "Cat paw with wand summons chalice, sword and pentacle.",
+            "palette": "crimson"
+          }
+        ],
+        "type": 2,
+        "premium_type": 0,
+        "category_sku_id": "1461062060401229968",
+        "google_sku_ids": {
+          "5": "1461062060300435722_1461126654708678809",
+          "7": "1461062060300435722_1461126659003650058"
+        }
+      },
+      {
+        "sku_id": "1461062060325601280",
+        "name": "The Hermit",
+        "summary": "Show this effect when others view your profile.",
+        "store_listing_id": "1461062060329926895",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            10840423,
+            4338512
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 1,
+            "id": "1461062060338188463",
+            "sku_id": "1461062060325601280",
+            "title": "The Hermit",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Purple ornate border with cat holding glowing lantern with green eye surrounded by smoke and stars.",
+            "animationType": 1,
+            "staticFrameSrc": "https://cdn.discordapp.com/assets/content/c25eac04e5b02e51011d058b0798e9654f3bdcac92c3de5835d5a6cba4ca4800",
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/d81b45ef37fdc8bb2a493d8727c3e967a316b619abc7e0c2891376dac3f78169",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/8881f4a9ec30fabdad2aa02160ce418eedf02036c09422e4fc352763ed7b2d9d",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/assets/content/9a8a5f93135ded3253dfe4aa3c4cfde1c1cd1c3e99316f7906953a7ab15467bb",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/46c327cf5e3bcbbd7681c26f8004c5bff5a1a30edfd942a5d7debaa15abe5379",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 3000,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/996d802dbd8f3c7a6815ce69f4176c5fad4c1830af1ab2c50c288c9beee05d8f",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 3000,
+                "loopDelay": 3000,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 102,
+                "randomizedSources": []
+              }
+            ]
+          }
+        ],
+        "type": 1,
+        "premium_type": 0,
+        "category_sku_id": "1461062060401229968",
+        "google_sku_ids": {
+          "5": "1461062060325601280_1461125413118935172",
+          "7": "1461062060325601280_1461125417778942174"
+        }
+      },
+      {
+        "sku_id": "1461062060346572953",
+        "name": "The Tower",
+        "summary": "Show this effect when others view your profile.",
+        "store_listing_id": "1461062060355092601",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            10840423,
+            4338512
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 1,
+            "id": "1461062060363354203",
+            "sku_id": "1461062060346572953",
+            "title": "The Tower",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Burning tower appears in flash of lightning with cat dangling, surrounded by smoke and ornate blue border.",
+            "animationType": 1,
+            "staticFrameSrc": "https://cdn.discordapp.com/assets/content/9fb7b14f49b1302661a8ea995ba823926554b0adf78468b68a9ef033feab31a7",
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/8d30d160ed583e2a468e63254faca67d0c1af1484544a54817859669d6f8328b",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/cb86698404bbcf43d3d7d846630e8515944badd23ba9ec5f6b399d6b6a432de9",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/assets/content/bce6ed531a28f59156be9655edaf3a4d5c05e31f4a0dc319fbdff961ba64f382",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/8fd1284c60fe42346b8dafe98aa566ca4fdc83b8f9c6e46ab284529d7b3fe4d8",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 3000,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/74a2e92bebc9907fa441312d96cdbc5930b3e598425bc0d972217d05450e1f6b",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 3000,
+                "loopDelay": 3000,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 102,
+                "randomizedSources": []
+              }
+            ]
+          }
+        ],
+        "type": 1,
+        "premium_type": 0,
+        "category_sku_id": "1461062060401229968",
+        "google_sku_ids": {
+          "5": "1461062060346572953_1461124688607707217",
+          "7": "1461062060346572953_1461124693275971605"
+        }
+      },
+      {
+        "sku_id": "1461062060371738694",
+        "name": "The Magician",
+        "summary": "Show this effect when others view your profile.",
+        "store_listing_id": "1461062060380258364",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            10840423,
+            4338512
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 1,
+            "id": "1461062060384325886",
+            "sku_id": "1461062060371738694",
+            "title": "The Magician",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Ornate red border with cat paw holding wand summoning sword, chalice, and pentacles with golden sparkles.",
+            "animationType": 1,
+            "staticFrameSrc": "https://cdn.discordapp.com/assets/content/16b57e1df78520aa6020f039d2859ea9e8bda0d4e4a7b2c9acb3906d8434d608",
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/ce95e55e85fc46672f673d6339c043a3f33e3f16f0e2fdbc648b22f15e90829c",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/dc31a81a74819717fd5b35d2fd1f9a9f546bd5253ba936ebcf5a3e1e87d79801",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/assets/content/c49c32f4157e7f5b623dbb10c1142cd23459a64764b279b1ec31d2e272cbcf31",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/f29bcd8db92bd289404b00bcb7a18ff0125abb273222cdf822d295ab2aa858b3",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 3000,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/b3fd161d66a519bd3e263b35b0908ea23e1417636539c5505c24e16ade738bf9",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 3000,
+                "loopDelay": 3000,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 102,
+                "randomizedSources": []
+              }
+            ]
+          }
+        ],
+        "type": 1,
+        "premium_type": 0,
+        "category_sku_id": "1461062060401229968",
+        "google_sku_ids": {
+          "5": "1461062060371738694_1461125709186469899",
+          "7": "1461062060371738694_1461125713762582601"
+        }
+      }
+    ],
+    "catalog_banner_asset": {
+      "animated": null,
+      "static": "https://cdn.discordapp.com/assets/content/2748a4fb296589568e9e75b2ee8b6449fc96c373e66faa53f6df77e04dea3766"
+    },
+    "hero_banner_asset": {
+      "animated": "https://cdn.discordapp.com/assets/content/491eea6b52068c247a5d60295a04583fd99d194e2985399fb8df082409b5bc4c.riv",
+      "static": "https://cdn.discordapp.com/assets/content/88b3439fafcafb851e59386b76e1469be32717eebab318d89d51ebb0055c46b9"
+    },
+    "hero_logo": "1461062060417875989",
+    "hero_banner_url": "https://cdn.discordapp.com/assets/content/88b3439fafcafb851e59386b76e1469be32717eebab318d89d51ebb0055c46b9",
+    "hero_rive_url": "https://cdn.discordapp.com/assets/content/491eea6b52068c247a5d60295a04583fd99d194e2985399fb8df082409b5bc4c",
+    "hero_logo_url": "https://cdn.discordapp.com/assets/content/50456e2380f129d756025b09f160001df64f63096a5dc17373a3aae662999014",
+    "catalog_banner_url": "https://cdn.discordapp.com/assets/content/2748a4fb296589568e9e75b2ee8b6449fc96c373e66faa53f6df77e04dea3766",
+    "catalog_banner_rive_url": "https://cdn.discordapp.com/assets/content/9edd8d50887b46fbf54c5f2f802a2431b953ac67fca53ad8d61a60174ed75430",
+    "featured_block_url": "https://cdn.discordapp.com/assets/content/fdd4cd37bd05159784cd1e05003d94b09c8137ee43819615d5ee9d039cb418cc",
+    "logo_url": "https://cdn.discordapp.com/assets/content/c2e76071f1ad3aa7b38f125c67d048a0b48f16a0455320436f25d58af6adcb15",
+    "pdp_bg_url": "https://cdn.discordapp.com/assets/content/8097fd3ed8fa1911836d39d89907c8ce66059cadfbf50f604583f17af7b9df4c",
+    "mobile_hero_url": "https://cdn.discordapp.com/assets/content/7883d9a881a213d8be606da49aa26ef38481723f702d4aac9c9e40db2832ae90",
+    "mobile_banner_url": "https://cdn.discordapp.com/assets/content/69b6e1ac251e69397da8b2a3dbdf50f51b8c0f0b5bc611817ccca6fff108853e",
+    "mobile_bg_url": "https://cdn.discordapp.com/assets/content/a8a7679edd10eeaaa83cf7553364e98682c42c3eed78c1d4dd1ff45dc41bb63e"
   }
 ]
