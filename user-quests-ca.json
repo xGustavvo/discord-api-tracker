@@ -1281,6 +1281,116 @@
       "traffic_metadata_sealed": "EAE="
     },
     {
+      "id": "1463326315695575060",
+      "config": {
+        "id": "1463326315695575060",
+        "config_version": 2,
+        "starts_at": "2026-01-22T18:00:20+00:00",
+        "expires_at": "2026-02-01T00:16:20+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
+          "id": "1437509662303059998",
+          "name": "Where Winds Meet"
+        },
+        "assets": {
+          "hero": "quests/1463326315695575060/1463351735920885834.jpg",
+          "hero_video": "quests/1463326315695575060/1463351795706499144.mp4",
+          "quest_bar_hero": "quests/1463326315695575060/1463351603141677067.jpg",
+          "quest_bar_hero_video": "quests/1463326315695575060/1463351667113332828.mp4",
+          "game_tile": "1463352077450346650.png",
+          "logotype": "1463352076271878216.png",
+          "game_tile_light": "quests/1463326315695575060/1463351921065853019.png",
+          "game_tile_dark": "quests/1463326315695575060/1463351921065853019.png",
+          "logotype_light": "quests/1463326315695575060/1463351867462651904.png",
+          "logotype_dark": "quests/1463326315695575060/1463351867462651904.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Where Winds Meet Goose Thug",
+          "game_title": "Where Winds Meet",
+          "game_publisher": "NETEASE"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "event_name": "PLAY_ON_DESKTOP",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "event_name": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1437509662303059998"
+                }
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1437509662303059998"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 3,
+              "sku_id": "1463335193636245652",
+              "asset": "quests/1463326315695575060/1463335542191165613.mp4",
+              "asset_video": null,
+              "messages": {
+                "name": "Goose Thug",
+                "name_with_article": "a Goose Thug",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "expires_at": "2026-04-02T07:00:00+00:00",
+              "expires_at_premium": null,
+              "expiration_mode": 3
+            }
+          ],
+          "rewards_expire_at": "2026-03-03T00:16:20+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
+          "button_label": "Play Now"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false,
+      "traffic_metadata_raw": "EAE=",
+      "traffic_metadata_sealed": "EAE="
+    },
+    {
       "id": "1458528776060276757",
       "config": {
         "id": "1458528776060276757",
@@ -3165,7 +3275,8 @@
       "id": "1418350811687419914"
     },
     {
-      "id": "1463352869154717839"
+      "id": "1463352869154717839",
+      "replacement_id": "1463326315695575060"
     },
     {
       "id": "1458595355766558813"
@@ -3192,6 +3303,9 @@
       "id": "1460336171178791083"
     },
     {
+      "id": "1457884772897390715"
+    },
+    {
       "id": "1460339320714952945"
     },
     {
@@ -3207,7 +3321,8 @@
       "id": "1450233741828948154"
     },
     {
-      "id": "1457884772897390715"
+      "id": "1463353755616673915",
+      "replacement_id": "1463326315695575060"
     },
     {
       "id": "1450914567172653117"
