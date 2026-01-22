@@ -2578,10 +2578,6 @@
             "PLAY_ON_DESKTOP": {
               "event_name": "PLAY_ON_DESKTOP",
               "target": 900
-            },
-            "PLAY_ON_XBOX": {
-              "event_name": "PLAY_ON_XBOX",
-              "target": 900
             }
           }
         },
@@ -2589,15 +2585,6 @@
           "tasks": {
             "PLAY_ON_DESKTOP": {
               "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1260340082150346932"
-                }
-              ]
-            },
-            "PLAY_ON_XBOX": {
-              "type": "PLAY_ON_XBOX",
               "target": 900,
               "applications": [
                 {
