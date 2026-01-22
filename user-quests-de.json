@@ -2845,102 +2845,6 @@
       "traffic_metadata_sealed": "EAE="
     },
     {
-      "id": "1448427219461341377",
-      "config": {
-        "id": "1448427219461341377",
-        "config_version": 2,
-        "starts_at": "2025-12-17T02:00:39+00:00",
-        "expires_at": "2025-12-23T00:00:39+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://bluearchive-abr.na.nexon.com/9s1mmqq",
-          "id": "1390512760860704889",
-          "name": "Blue Archive"
-        },
-        "assets": {
-          "hero": "quests/1448427219461341377/1449150671017214053.jpg",
-          "hero_video": null,
-          "quest_bar_hero": "quests/1448427219461341377/1449150599890473041.jpg",
-          "quest_bar_hero_video": null,
-          "game_tile": "1448434049424035994.png",
-          "logotype": "1448434048509939884.png",
-          "game_tile_light": "quests/1448427219461341377/1448433944386207936.png",
-          "game_tile_dark": "quests/1448427219461341377/1448433865348743300.png",
-          "logotype_light": "quests/1448427219461341377/1448433719873634304.png",
-          "logotype_dark": "quests/1448427219461341377/1448433646628372590.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Blue Archive",
-          "game_title": "Blue Archive",
-          "game_publisher": "NEXON KOREA"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "event_name": "PLAY_ON_DESKTOP",
-              "target": 900
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1390512760860704889"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 1,
-              "sku_id": "1448427219461341378",
-              "asset": "quests/1448427219461341377/1448431117316133075.png",
-              "asset_video": null,
-              "messages": {
-                "name": "300 Pyroxene and more",
-                "name_with_article": "300 Pyroxene and more",
-                "redemption_instructions_by_platform": {
-                  "0": "Congratulations on getting an in-game reward for Blue Archive Quest. In order to claim the item in-game follow these steps:  \nStep 1: Enter Game > Top-right Icon > [Menu Tab] > [Account] > [Customer Support] > check \"Member Code\" > Copy  \nGo to [https://mcoupon.nexon.com/bluearchive]  \nStep 2: Select Server > Input copied Member Code > Enter Coupon Code > Click Confirm"
-                }
-              },
-              "approximate_count": null,
-              "redemption_link": null
-            }
-          ],
-          "rewards_expire_at": "2026-01-22T00:00:39+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://bluearchive-abr.na.nexon.com/9s1mmqq",
-          "button_label": "Jetzt spielen"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false,
-      "traffic_metadata_raw": "EAE=",
-      "traffic_metadata_sealed": "EAE="
-    },
-    {
       "id": "1458584786997350472",
       "config": {
         "id": "1458584786997350472",
@@ -3025,146 +2929,6 @@
         "cta_config": {
           "link": "https://tap.io/k9CLUAE",
           "button_label": "Jetzt spielen"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false,
-      "traffic_metadata_raw": "EAE=",
-      "traffic_metadata_sealed": "EAE="
-    },
-    {
-      "id": "1435777559475257428",
-      "config": {
-        "id": "1435777559475257428",
-        "config_version": 2,
-        "starts_at": "2025-11-10T08:00:25+00:00",
-        "expires_at": "2025-12-23T00:00:25+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://ad.doubleclick.net/ddm/trackclk/N2464377.3866164DISCORD.COM/B34241706.432871051;dc_trk_aid=628435042;dc_trk_cid=245892923;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=;dc_tdv=1",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1435777559475257428/1435778180119134290.jpg",
-          "hero_video": "quests/1435777559475257428/1435778009947832391.mp4",
-          "quest_bar_hero": "quests/1435777559475257428/1435777966033342475.jpg",
-          "quest_bar_hero_video": "quests/1435777559475257428/1435778009947832391.mp4",
-          "game_tile": "1435785311295897790.png",
-          "logotype": "1435778404803940392.png",
-          "game_tile_light": "quests/1435777559475257428/1435785295873445938.png",
-          "game_tile_dark": "quests/1435777559475257428/1435785295873445938.png",
-          "logotype_light": "quests/1435777559475257428/1435778349581467719.png",
-          "logotype_dark": "quests/1435777559475257428/1435778317772128276.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Amazon",
-          "game_title": "Amazon",
-          "game_publisher": "Amazon"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "WATCH_VIDEO": {
-              "event_name": "WATCH_VIDEO",
-              "target": 29
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1435777559475257428/1449428655754448986_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1435777559475257428/1435779616026529864.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1435777559475257428/1449428655754448986_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1435777559475257428/1435779616026529864.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1435777559475257428/1449428655754448986.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1435777559475257428/1435779616026529864.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "Amazon Holiday Trailer",
-                "video_end_cta_subtitle": "Eyes up here, piano man.",
-                "video_end_cta_button_label": "Jetzt kaufen"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "orb_quantity": 700
-            }
-          ],
-          "rewards_expire_at": "2026-01-22T00:00:25+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "video_metadata": {
-          "messages": {
-            "video_title": "Amazon Holiday Trailer",
-            "video_end_cta_subtitle": "Sign us up for these margaritas.",
-            "video_end_cta_button_label": "Jetzt kaufen"
-          },
-          "assets": {
-            "video_player_video_hls": "quests/1435777559475257428/1449428655754448986.m3u8",
-            "video_player_video": "quests/1435777559475257428/1449428655754448986_1080.mp4",
-            "video_player_thumbnail": "quests/1435777559475257428/1435779616026529864.jpg",
-            "video_player_video_low_res": "quests/1435777559475257428/1449428655754448986_720.mp4",
-            "video_player_caption": null,
-            "video_player_transcript": null,
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://ad.doubleclick.net/ddm/trackclk/N2464377.3866164DISCORD.COM/B34241706.432871051;dc_trk_aid=628435042;dc_trk_cid=245892923;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=;dc_tdv=1",
-          "button_label": "Jetzt kaufen",
-          "subtitle": "Sign us up for these margaritas."
         }
       },
       "user_status": null,
@@ -3450,7 +3214,7 @@
         "id": "1459263468677894241",
         "config_version": 2,
         "starts_at": "2026-01-12T15:30:02+00:00",
-        "expires_at": "2026-01-22T17:00:02+00:00",
+        "expires_at": "2026-01-22T17:59:02+00:00",
         "features": [
           15
         ],
@@ -3533,7 +3297,7 @@
               "orb_quantity": 700
             }
           ],
-          "rewards_expire_at": "2026-02-21T17:00:02+00:00",
+          "rewards_expire_at": "2026-02-21T17:59:02+00:00",
           "platforms": [
             0
           ]
@@ -3996,147 +3760,6 @@
       "traffic_metadata_sealed": "EAE="
     },
     {
-      "id": "1445883772816986212",
-      "config": {
-        "id": "1445883772816986212",
-        "config_version": 2,
-        "starts_at": "2025-12-12T18:00:54+00:00",
-        "expires_at": "2025-12-23T00:00:54+00:00",
-        "features": [
-          3,
-          9,
-          13,
-          14,
-          15,
-          16,
-          18,
-          19,
-          23
-        ],
-        "application": {
-          "link": "https://www.warframe.com/the-old-peace?utm_medium=paid-social&utm_source=discord&utm_campaign=DiscordVideoQuest",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1445883772816986212/1445887780130521180.jpg",
-          "hero_video": "quests/1445883772816986212/1445887696060027042.mp4",
-          "quest_bar_hero": "quests/1445883772816986212/1445887617781596190.jpg",
-          "quest_bar_hero_video": "quests/1445883772816986212/1445887696060027042.mp4",
-          "game_tile": "1445887988230918204.png",
-          "logotype": "1445887987232538879.png",
-          "game_tile_light": "quests/1445883772816986212/1445887950247301272.png",
-          "game_tile_dark": "quests/1445883772816986212/1445887950247301272.png",
-          "logotype_light": "quests/1445883772816986212/1445887894412857495.png",
-          "logotype_dark": "quests/1445883772816986212/1445887894412857495.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Warframe Old Peace",
-          "game_title": "Warframe",
-          "game_publisher": "Digital Extremes"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "WATCH_VIDEO": {
-              "event_name": "WATCH_VIDEO",
-              "target": 91
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 91,
-              "assets": {
-                "video": {
-                  "url": "quests/1445883772816986212/1445890933592817745_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1445883772816986212/1445892509208412282.png",
-                  "caption": "quests/1445883772816986212/1445892567635066952.vtt"
-                },
-                "video_low_res": {
-                  "url": "quests/1445883772816986212/1445890933592817745_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1445883772816986212/1445892509208412282.png",
-                  "caption": "quests/1445883772816986212/1445892567635066952.vtt"
-                },
-                "video_hls": {
-                  "url": "quests/1445883772816986212/1445890933592817745.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1445883772816986212/1445892509208412282.png",
-                  "caption": "quests/1445883772816986212/1445892567635066952.vtt"
-                }
-              },
-              "messages": {
-                "video_title": "What is Warframe? trailer"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "Default"
-                }
-              },
-              "orb_quantity": 700
-            }
-          ],
-          "rewards_expire_at": "2026-01-22T00:00:54+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "video_metadata": {
-          "messages": {
-            "video_title": "What is Warframe? trailer",
-            "video_end_cta_subtitle": "Wake up, Tenno.",
-            "video_end_cta_button_label": "Jetzt spielen"
-          },
-          "assets": {
-            "video_player_video_hls": "quests/1445883772816986212/1445890933592817745.m3u8",
-            "video_player_video": "quests/1445883772816986212/1445890933592817745_1080.mp4",
-            "video_player_thumbnail": "quests/1445883772816986212/1445892509208412282.png",
-            "video_player_video_low_res": "quests/1445883772816986212/1445890933592817745_720.mp4",
-            "video_player_caption": "quests/1445883772816986212/1445892567635066952.vtt",
-            "video_player_transcript": null,
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.warframe.com/the-old-peace?utm_medium=paid-social&utm_source=discord&utm_campaign=DiscordVideoQuest",
-          "button_label": "Jetzt spielen",
-          "subtitle": "Wake up, Tenno."
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false,
-      "traffic_metadata_raw": "EAE=",
-      "traffic_metadata_sealed": "EAE="
-    },
-    {
       "id": "1450298745643339879",
       "config": {
         "id": "1450298745643339879",
@@ -4261,6 +3884,112 @@
           "link": "https://gonnaneedmilk.com/gaming/",
           "button_label": "Mehr erfahren",
           "subtitle": "The stuff in milk can help you focus."
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false,
+      "traffic_metadata_raw": "EAE=",
+      "traffic_metadata_sealed": "EAE="
+    },
+    {
+      "id": "1450572280764563556",
+      "config": {
+        "id": "1450572280764563556",
+        "config_version": 2,
+        "starts_at": "2025-12-19T18:30:22+00:00",
+        "expires_at": "2026-01-01T07:59:22+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
+          "id": "1437509662303059998",
+          "name": "Where Winds Meet"
+        },
+        "assets": {
+          "hero": "quests/1450572280764563556/1451316446893441185.jpg",
+          "hero_video": "quests/1450572280764563556/1451316636824109147.mp4",
+          "quest_bar_hero": "quests/1450572280764563556/1451316109532987503.jpg",
+          "quest_bar_hero_video": "quests/1450572280764563556/1451316359156731996.mp4",
+          "game_tile": "1451316907788472452.png",
+          "logotype": "1451316905615823029.png",
+          "game_tile_light": "quests/1450572280764563556/1451316678335004683.png",
+          "game_tile_dark": "quests/1450572280764563556/1451316678335004683.png",
+          "logotype_light": "quests/1450572280764563556/1451316710345801788.png",
+          "logotype_dark": "quests/1450572280764563556/1451316710345801788.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Where Winds Meet Adventure",
+          "game_title": "Where Winds Meet",
+          "game_publisher": "NETEASE"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "event_name": "PLAY_ON_DESKTOP",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "event_name": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1437509662303059998"
+                }
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1437509662303059998"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700
+            }
+          ],
+          "rewards_expire_at": "2026-01-31T07:59:22+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
+          "button_label": "Spiel holen"
         }
       },
       "user_status": null,
@@ -4585,112 +4314,6 @@
           "link": "https://www.regmovies.com/movies/mercy-ho00018191",
           "button_label": "Tickets kaufen",
           "subtitle": "Find the evidence, get discounted movie tickets"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false,
-      "traffic_metadata_raw": "EAE=",
-      "traffic_metadata_sealed": "EAE="
-    },
-    {
-      "id": "1450572280764563556",
-      "config": {
-        "id": "1450572280764563556",
-        "config_version": 2,
-        "starts_at": "2025-12-19T18:30:22+00:00",
-        "expires_at": "2026-01-01T07:59:22+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
-          "id": "1437509662303059998",
-          "name": "Where Winds Meet"
-        },
-        "assets": {
-          "hero": "quests/1450572280764563556/1451316446893441185.jpg",
-          "hero_video": "quests/1450572280764563556/1451316636824109147.mp4",
-          "quest_bar_hero": "quests/1450572280764563556/1451316109532987503.jpg",
-          "quest_bar_hero_video": "quests/1450572280764563556/1451316359156731996.mp4",
-          "game_tile": "1451316907788472452.png",
-          "logotype": "1451316905615823029.png",
-          "game_tile_light": "quests/1450572280764563556/1451316678335004683.png",
-          "game_tile_dark": "quests/1450572280764563556/1451316678335004683.png",
-          "logotype_light": "quests/1450572280764563556/1451316710345801788.png",
-          "logotype_dark": "quests/1450572280764563556/1451316710345801788.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Where Winds Meet Adventure",
-          "game_title": "Where Winds Meet",
-          "game_publisher": "NETEASE"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "event_name": "PLAY_ON_DESKTOP",
-              "target": 900
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "event_name": "PLAY_ON_PLAYSTATION",
-              "target": 900
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1437509662303059998"
-                }
-              ]
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1437509662303059998"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700
-            }
-          ],
-          "rewards_expire_at": "2026-01-31T07:59:22+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
-          "button_label": "Spiel holen"
         }
       },
       "user_status": null,
