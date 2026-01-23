@@ -551,125 +551,6 @@
       "traffic_metadata_sealed": "EAE="
     },
     {
-      "id": "1448812894618648711",
-      "config": {
-        "id": "1448812894618648711",
-        "config_version": 2,
-        "starts_at": "2025-12-16T18:00:11+00:00",
-        "expires_at": "2025-12-24T00:00:11+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://arcraiders.com/?utm_campaign=post-launch&utm_source=x&utm_term=us&utm_content=none&utm_medium=video",
-          "id": "1432419613165228174",
-          "name": "ARC Raiders"
-        },
-        "assets": {
-          "hero": "quests/1448812894618648711/1448813790547415090.jpg",
-          "hero_video": null,
-          "quest_bar_hero": "quests/1448812894618648711/1448813730124005467.jpg",
-          "quest_bar_hero_video": null,
-          "game_tile": "1448813940871004160.jpg",
-          "logotype": "1448813939948523673.png",
-          "game_tile_light": "quests/1448812894618648711/1448813916472868985.jpg",
-          "game_tile_dark": "quests/1448812894618648711/1448813916472868985.jpg",
-          "logotype_light": "quests/1448812894618648711/1448813869119311965.png",
-          "logotype_dark": "quests/1448812894618648711/1448813869119311965.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "ARC Raiders",
-          "game_title": "ARC Raiders",
-          "game_publisher": "Embark Studios"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "event_name": "PLAY_ON_DESKTOP",
-              "target": 900
-            },
-            "PLAY_ON_XBOX": {
-              "event_name": "PLAY_ON_XBOX",
-              "target": 900
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "event_name": "PLAY_ON_PLAYSTATION",
-              "target": 900
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1432419613165228174"
-                }
-              ]
-            },
-            "PLAY_ON_XBOX": {
-              "type": "PLAY_ON_XBOX",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1432419613165228174"
-                }
-              ]
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1432419613165228174"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700
-            }
-          ],
-          "rewards_expire_at": "2026-01-23T00:00:11+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://arcraiders.com/?utm_campaign=post-launch&utm_source=x&utm_term=us&utm_content=none&utm_medium=video",
-          "button_label": "Jouer"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false,
-      "traffic_metadata_raw": "EAE=",
-      "traffic_metadata_sealed": "EAE="
-    },
-    {
       "id": "1442590233618026506",
       "config": {
         "id": "1442590233618026506",
@@ -3134,9 +3015,6 @@
     },
     {
       "id": "1458595355766558813"
-    },
-    {
-      "id": "1445134581761183774"
     },
     {
       "id": "1458153385391030302"
