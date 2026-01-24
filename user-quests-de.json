@@ -2393,136 +2393,6 @@
       "traffic_metadata_sealed": "EAE="
     },
     {
-      "id": "1450233741828948154",
-      "config": {
-        "id": "1450233741828948154",
-        "config_version": 2,
-        "starts_at": "2025-12-18T18:00:08+00:00",
-        "expires_at": "2025-12-25T00:00:08+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://voidinteractive.net/ready-or-not-console/?utm_source=discord&utm_medium=paidmedialqa&utm_campaign=ron-holidaysale-us&utm_term=shooterfans&utm_content=holidaytrailer-1920x1080-full",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1450233741828948154/1450235193964232786.jpg",
-          "hero_video": "quests/1450233741828948154/1450235130080661738.mp4",
-          "quest_bar_hero": "quests/1450233741828948154/1450235012157800670.jpg",
-          "quest_bar_hero_video": "quests/1450233741828948154/1450235130080661738.mp4",
-          "game_tile": "1450235362978041917.png",
-          "logotype": "1450305390612054098.png",
-          "game_tile_light": "quests/1450233741828948154/1450235326348918984.png",
-          "game_tile_dark": "quests/1450233741828948154/1450235326348918984.png",
-          "logotype_light": "quests/1450233741828948154/1450305355656462336.png",
-          "logotype_dark": "quests/1450233741828948154/1450305355656462336.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Ready or Not",
-          "game_title": "Ready or Not",
-          "game_publisher": "VOID Interactive"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "WATCH_VIDEO": {
-              "event_name": "WATCH_VIDEO",
-              "target": 29
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1450233741828948154/1450235787030560788_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1450233741828948154/1450237128867844237.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1450233741828948154/1450235787030560788_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1450233741828948154/1450237128867844237.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1450233741828948154/1450235787030560788.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1450233741828948154/1450237128867844237.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "Ready or Not Trailer"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700
-            }
-          ],
-          "rewards_expire_at": "2026-01-24T00:00:08+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "video_metadata": {
-          "messages": {
-            "video_title": "Ready or Not Trailer",
-            "video_end_cta_subtitle": "Im Angebot auf Steam, PS5 und Xbox Series X|S.",
-            "video_end_cta_button_label": "Jetzt kaufen"
-          },
-          "assets": {
-            "video_player_video_hls": "quests/1450233741828948154/1450235514639880353.m3u8",
-            "video_player_video": "quests/1450233741828948154/1450235514639880353_1080.mp4",
-            "video_player_thumbnail": "quests/1450233741828948154/1450236482529923143.jpg",
-            "video_player_video_low_res": "quests/1450233741828948154/1450235514639880353_720.mp4",
-            "video_player_caption": null,
-            "video_player_transcript": null,
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://voidinteractive.net/ready-or-not-console/?utm_source=discord&utm_medium=paidmedialqa&utm_campaign=ron-holidaysale-us&utm_term=shooterfans&utm_content=holidaytrailer-1920x1080-full",
-          "button_label": "Jetzt kaufen",
-          "subtitle": "Im Angebot auf Steam, PS5 und Xbox Series X|S."
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false,
-      "traffic_metadata_raw": "EAE=",
-      "traffic_metadata_sealed": "EAE="
-    },
-    {
       "id": "1451658948250964028",
       "config": {
         "id": "1451658948250964028",
@@ -4798,10 +4668,6 @@
   ],
   "excluded_quests": [
     {
-      "id": "1450916943724023969",
-      "replacement_id": "1450233741828948154"
-    },
-    {
       "id": "1461881280630362308"
     },
     {
@@ -4823,10 +4689,6 @@
     {
       "id": "1463353755616673915",
       "replacement_id": "1463326315695575060"
-    },
-    {
-      "id": "1450914567172653117",
-      "replacement_id": "1450233741828948154"
     },
     {
       "id": "1450572529465950399"
