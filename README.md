@@ -5,4 +5,4 @@
 - Server Boosts
 - Game Servers 
 
-https://discord.gg/escoteiros
+[Discord](https://discord.gg/escoteiros)
