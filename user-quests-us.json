@@ -1,75 +1,111 @@
 {
   "quests": [
     {
-      "id": "1451696588467601408",
+      "id": "1453141810833788928",
       "config": {
-        "id": "1451696588467601408",
+        "id": "1453141810833788928",
         "config_version": 2,
-        "starts_at": "2026-01-01T18:00:57+00:00",
-        "expires_at": "2026-01-12T07:59:57+00:00",
+        "starts_at": "2026-01-06T18:00:45+00:00",
+        "expires_at": "2026-01-10T00:00:45+00:00",
         "features": [
           15
         ],
         "application": {
-          "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
-          "id": "1437509662303059998",
-          "name": "Where Winds Meet"
+          "link": "https://discord.gg/razer",
+          "id": "545364944258990091",
+          "name": "Discord"
         },
         "assets": {
-          "hero": "quests/1451696588467601408/1451697384387117056.jpg",
-          "hero_video": "quests/1451696588467601408/1451697465538646026.mp4",
+          "hero": "quests/1453141810833788928/1453144880019931258.jpg",
+          "hero_video": "quests/1453141810833788928/1457811562751463599.mp4",
           "quest_bar_hero_blurhash": null,
-          "quest_bar_hero": "quests/1451696588467601408/1451697267877740544.jpg",
-          "quest_bar_hero_video": "quests/1451696588467601408/1451697321090748550.mp4",
-          "game_tile": "1451697895706460332.png",
-          "logotype": "1451697887548411994.png",
-          "game_tile_light": "quests/1451696588467601408/1451697852383232190.png",
-          "game_tile_dark": "quests/1451696588467601408/1451697852383232190.png",
-          "logotype_light": "quests/1451696588467601408/1451697530743161045.png",
-          "logotype_dark": "quests/1451696588467601408/1451697530743161045.png"
+          "quest_bar_hero": "quests/1453141810833788928/1453144880019931258.jpg",
+          "quest_bar_hero_video": "quests/1453141810833788928/1457811562751463599.mp4",
+          "game_tile": "1453145613003915415.png",
+          "logotype": "1453145533068611615.png",
+          "game_tile_light": "quests/1453141810833788928/1453145588421099540.png",
+          "game_tile_dark": "quests/1453141810833788928/1453145588421099540.png",
+          "logotype_light": "quests/1453141810833788928/1453145453649465364.png",
+          "logotype_dark": "quests/1453141810833788928/1453145500441378846.png"
         },
         "colors": {
           "primary": "#4752C4",
           "secondary": "#000000"
         },
         "messages": {
-          "quest_name": "Where Winds Meet New Year",
-          "game_title": "Where Winds Meet",
-          "game_publisher": "NETEASE"
+          "quest_name": "Razer",
+          "game_title": "Razer",
+          "game_publisher": "Razer"
         },
         "task_config": {
           "type": 1,
           "join_operator": "or",
           "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "event_name": "PLAY_ON_DESKTOP",
-              "target": 900
+            "WATCH_VIDEO": {
+              "event_name": "WATCH_VIDEO",
+              "target": 71
             },
-            "PLAY_ON_PLAYSTATION": {
-              "event_name": "PLAY_ON_PLAYSTATION",
-              "target": 900
+            "WATCH_VIDEO_ON_MOBILE": {
+              "event_name": "WATCH_VIDEO_ON_MOBILE",
+              "target": 71
             }
           }
         },
         "task_config_v2": {
           "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1437509662303059998"
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 71,
+              "assets": {
+                "video": {
+                  "url": "quests/1453141810833788928/1457802257394438196_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1453141810833788928/1457804335491711300.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1453141810833788928/1457802257394438196_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1453141810833788928/1457804335491711300.png"
+                },
+                "video_hls": {
+                  "url": "quests/1453141810833788928/1457802257394438196.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1453141810833788928/1457804335491711300.png"
                 }
-              ]
+              },
+              "messages": {
+                "video_title": "Razer Trailer"
+              }
             },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1437509662303059998"
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 71,
+              "assets": {
+                "video": {
+                  "url": "quests/1453141810833788928/1457802306945945620_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1453141810833788928/1457804278356775005.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1453141810833788928/1457802306945945620_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1453141810833788928/1457804278356775005.png"
+                },
+                "video_hls": {
+                  "url": "quests/1453141810833788928/1457802306945945620.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1453141810833788928/1457804278356775005.png"
                 }
-              ]
+              },
+              "messages": {
+                "video_title": "Razer Trailer"
+              }
             }
           },
           "join_operator": "or"
@@ -90,15 +126,34 @@
               "orb_quantity": 700
             }
           ],
-          "rewards_expire_at": "2026-02-11T07:59:57+00:00",
+          "rewards_expire_at": "2026-02-09T00:00:45+00:00",
           "platforms": [
             0
           ]
         },
+        "video_metadata": {
+          "messages": {
+            "video_title": "Razer Trailer",
+            "video_end_cta_subtitle": "Stay up to date on the latest Razer news",
+            "video_end_cta_button_label": "Join Server"
+          },
+          "assets": {
+            "video_player_video_hls": "quests/1453141810833788928/1457802257394438196.m3u8",
+            "video_player_video": "quests/1453141810833788928/1457802257394438196_1080.mp4",
+            "video_player_thumbnail": "quests/1453141810833788928/1457804335491711300.png",
+            "video_player_video_low_res": "quests/1453141810833788928/1457802257394438196_720.mp4",
+            "video_player_caption": null,
+            "video_player_transcript": null,
+            "quest_bar_preview_video": null,
+            "quest_bar_preview_thumbnail": null,
+            "quest_home_video": null
+          }
+        },
         "share_policy": "shareable_everywhere",
         "cta_config": {
-          "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
-          "button_label": "Get Game"
+          "link": "https://discord.gg/razer",
+          "button_label": "Join Server",
+          "subtitle": "Stay up to date on the latest Razer news"
         }
       },
       "user_status": null,
@@ -432,111 +487,75 @@
       "traffic_metadata_sealed": "EAE="
     },
     {
-      "id": "1453141810833788928",
+      "id": "1451696588467601408",
       "config": {
-        "id": "1453141810833788928",
+        "id": "1451696588467601408",
         "config_version": 2,
-        "starts_at": "2026-01-06T18:00:45+00:00",
-        "expires_at": "2026-01-10T00:00:45+00:00",
+        "starts_at": "2026-01-01T18:00:57+00:00",
+        "expires_at": "2026-01-12T07:59:57+00:00",
         "features": [
           15
         ],
         "application": {
-          "link": "https://discord.gg/razer",
-          "id": "545364944258990091",
-          "name": "Discord"
+          "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
+          "id": "1437509662303059998",
+          "name": "Where Winds Meet"
         },
         "assets": {
-          "hero": "quests/1453141810833788928/1453144880019931258.jpg",
-          "hero_video": "quests/1453141810833788928/1457811562751463599.mp4",
+          "hero": "quests/1451696588467601408/1451697384387117056.jpg",
+          "hero_video": "quests/1451696588467601408/1451697465538646026.mp4",
           "quest_bar_hero_blurhash": null,
-          "quest_bar_hero": "quests/1453141810833788928/1453144880019931258.jpg",
-          "quest_bar_hero_video": "quests/1453141810833788928/1457811562751463599.mp4",
-          "game_tile": "1453145613003915415.png",
-          "logotype": "1453145533068611615.png",
-          "game_tile_light": "quests/1453141810833788928/1453145588421099540.png",
-          "game_tile_dark": "quests/1453141810833788928/1453145588421099540.png",
-          "logotype_light": "quests/1453141810833788928/1453145453649465364.png",
-          "logotype_dark": "quests/1453141810833788928/1453145500441378846.png"
+          "quest_bar_hero": "quests/1451696588467601408/1451697267877740544.jpg",
+          "quest_bar_hero_video": "quests/1451696588467601408/1451697321090748550.mp4",
+          "game_tile": "1451697895706460332.png",
+          "logotype": "1451697887548411994.png",
+          "game_tile_light": "quests/1451696588467601408/1451697852383232190.png",
+          "game_tile_dark": "quests/1451696588467601408/1451697852383232190.png",
+          "logotype_light": "quests/1451696588467601408/1451697530743161045.png",
+          "logotype_dark": "quests/1451696588467601408/1451697530743161045.png"
         },
         "colors": {
           "primary": "#4752C4",
           "secondary": "#000000"
         },
         "messages": {
-          "quest_name": "Razer",
-          "game_title": "Razer",
-          "game_publisher": "Razer"
+          "quest_name": "Where Winds Meet New Year",
+          "game_title": "Where Winds Meet",
+          "game_publisher": "NETEASE"
         },
         "task_config": {
           "type": 1,
           "join_operator": "or",
           "tasks": {
-            "WATCH_VIDEO": {
-              "event_name": "WATCH_VIDEO",
-              "target": 71
+            "PLAY_ON_DESKTOP": {
+              "event_name": "PLAY_ON_DESKTOP",
+              "target": 900
             },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "event_name": "WATCH_VIDEO_ON_MOBILE",
-              "target": 71
+            "PLAY_ON_PLAYSTATION": {
+              "event_name": "PLAY_ON_PLAYSTATION",
+              "target": 900
             }
           }
         },
         "task_config_v2": {
           "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 71,
-              "assets": {
-                "video": {
-                  "url": "quests/1453141810833788928/1457802257394438196_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1453141810833788928/1457804335491711300.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1453141810833788928/1457802257394438196_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1453141810833788928/1457804335491711300.png"
-                },
-                "video_hls": {
-                  "url": "quests/1453141810833788928/1457802257394438196.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1453141810833788928/1457804335491711300.png"
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1437509662303059998"
                 }
-              },
-              "messages": {
-                "video_title": "Razer Trailer"
-              }
+              ]
             },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 71,
-              "assets": {
-                "video": {
-                  "url": "quests/1453141810833788928/1457802306945945620_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1453141810833788928/1457804278356775005.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1453141810833788928/1457802306945945620_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1453141810833788928/1457804278356775005.png"
-                },
-                "video_hls": {
-                  "url": "quests/1453141810833788928/1457802306945945620.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1453141810833788928/1457804278356775005.png"
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1437509662303059998"
                 }
-              },
-              "messages": {
-                "video_title": "Razer Trailer"
-              }
+              ]
             }
           },
           "join_operator": "or"
@@ -557,34 +576,15 @@
               "orb_quantity": 700
             }
           ],
-          "rewards_expire_at": "2026-02-09T00:00:45+00:00",
+          "rewards_expire_at": "2026-02-11T07:59:57+00:00",
           "platforms": [
             0
           ]
         },
-        "video_metadata": {
-          "messages": {
-            "video_title": "Razer Trailer",
-            "video_end_cta_subtitle": "Stay up to date on the latest Razer news",
-            "video_end_cta_button_label": "Join Server"
-          },
-          "assets": {
-            "video_player_video_hls": "quests/1453141810833788928/1457802257394438196.m3u8",
-            "video_player_video": "quests/1453141810833788928/1457802257394438196_1080.mp4",
-            "video_player_thumbnail": "quests/1453141810833788928/1457804335491711300.png",
-            "video_player_video_low_res": "quests/1453141810833788928/1457802257394438196_720.mp4",
-            "video_player_caption": null,
-            "video_player_transcript": null,
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
-        },
         "share_policy": "shareable_everywhere",
         "cta_config": {
-          "link": "https://discord.gg/razer",
-          "button_label": "Join Server",
-          "subtitle": "Stay up to date on the latest Razer news"
+          "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
+          "button_label": "Get Game"
         }
       },
       "user_status": null,
