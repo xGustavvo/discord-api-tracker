@@ -1897,117 +1897,6 @@
       "traffic_metadata_sealed": "EAE="
     },
     {
-      "id": "1448749066774380766",
-      "config": {
-        "id": "1448749066774380766",
-        "config_version": 2,
-        "starts_at": "2025-12-25T18:00:33+00:00",
-        "expires_at": "2026-01-01T01:00:33+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://wuwa.kurogames-global.com/DiscordQuestV4",
-          "id": "1247227126416146462",
-          "name": "Wuthering Waves"
-        },
-        "assets": {
-          "hero": "quests/1448749066774380766/1450238682219942111.jpg",
-          "hero_video": null,
-          "quest_bar_hero_blurhash": null,
-          "quest_bar_hero": "quests/1448749066774380766/1448787678366662757.jpeg",
-          "quest_bar_hero_video": null,
-          "game_tile": "1450238634778169365.png",
-          "logotype": "1450240122573295636.png",
-          "game_tile_light": "quests/1448749066774380766/1450238615794745456.png",
-          "game_tile_dark": "quests/1448749066774380766/1450238615794745456.png",
-          "logotype_light": "quests/1448749066774380766/1450239734189129931.png",
-          "logotype_dark": "quests/1448749066774380766/1450239826560290826.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "V3.0 WUWA",
-          "game_title": "Wuthering Waves",
-          "game_publisher": "Kuro Games"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "event_name": "PLAY_ON_DESKTOP",
-              "target": 900
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "event_name": "PLAY_ON_PLAYSTATION",
-              "target": 900
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1247227126416146462"
-                }
-              ]
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1247227126416146462"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 1,
-              "sku_id": "1448749066774380767",
-              "asset": "quests/1448749066774380766/1450253226631893033.jpg",
-              "asset_video": null,
-              "messages": {
-                "name": "V3.0 WUWA Quest Pack",
-                "name_with_article": "a V3.0 WUWA Quest Pack",
-                "redemption_instructions_by_platform": {
-                  "0": "The V3.0 WUWA Quest Pack includes Shell Credit, Advanced Resonance Potion, Advanced Energy Core and Astrite.\n1. Select your server and enter the game, and then go to [Settings] - [Other] - [Redemption Code].\n2. Enter the [Redemption Code] and hit [Confirm] to redeem rewards. You can then claim them in your in-game mail.\n*The [Redemption Code] function will be unlocked once you've reached Union Level 2."
-                }
-              },
-              "approximate_count": null,
-              "redemption_link": null
-            }
-          ],
-          "rewards_expire_at": "2026-01-31T01:00:33+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://wuwa.kurogames-global.com/DiscordQuestV4",
-          "button_label": "Obtenir le jeu",
-          "subtitle": "Start Wuthering Waves V3.0 Now and Claim 10 Free Pulls"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false,
-      "traffic_metadata_raw": "EAE=",
-      "traffic_metadata_sealed": "EAE="
-    },
-    {
       "id": "1459263468677894241",
       "config": {
         "id": "1459263468677894241",
@@ -2487,9 +2376,6 @@
       "id": "1461494895163478208"
     },
     {
-      "id": "1450987508581273601"
-    },
-    {
       "id": "1461881280630362308"
     },
     {
@@ -2524,14 +2410,10 @@
       "id": "1460336171178791083"
     },
     {
-      "id": "1463353755616673915",
-      "replacement_id": "1463326315695575060"
+      "id": "1457884772897390715"
     },
     {
       "id": "1460339320714952945"
-    },
-    {
-      "id": "1445135030124019954"
     },
     {
       "id": "1449154662895849715"
@@ -2541,7 +2423,8 @@
       "replacement_id": "1466214442424467667"
     },
     {
-      "id": "1457884772897390715"
+      "id": "1463353755616673915",
+      "replacement_id": "1463326315695575060"
     }
   ],
   "quest_enrollment_blocked_until": null
