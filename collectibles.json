@@ -127474,10 +127474,10 @@
     "store_listing_id": "1468419584012062853",
     "unpublished_at": null,
     "hero_ranking": [
-      "1468420103937724628",
       "1468420381982589115",
-      "1469125797351657657",
-      "1469126030559023146"
+      "1468420103937724628",
+      "1469126030559023146",
+      "1469125797351657657"
     ],
     "products": [
       {
@@ -127605,70 +127605,6 @@
         }
       },
       {
-        "sku_id": "1469125797351657657",
-        "name": "Flor de Maga",
-        "summary": "Make your name stand out in servers and chats.",
-        "unpublished_at": null,
-        "prices": {
-          "0": {
-            "country_prices": {
-              "country_code": "US",
-              "prices": [
-                {
-                  "amount": 599,
-                  "currency": "usd",
-                  "exponent": 2
-                },
-                {
-                  "amount": 4100,
-                  "currency": "discord_orb",
-                  "exponent": 0
-                }
-              ]
-            }
-          },
-          "4": {
-            "country_prices": {
-              "country_code": "US",
-              "prices": [
-                {
-                  "amount": 499,
-                  "currency": "usd",
-                  "exponent": 2
-                },
-                {
-                  "amount": 4100,
-                  "currency": "discord_orb",
-                  "exponent": 0
-                }
-              ]
-            }
-          }
-        },
-        "items": [
-          {
-            "type": 2,
-            "id": 1,
-            "sku_id": "1469125797351657657",
-            "asset": "nameplates/flor_de_maga/1469125426046701762/",
-            "assets": {
-              "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1469125426046701762/static",
-              "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1469125426046701762/animated",
-              "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1469125426046701762/video"
-            },
-            "label": "Vibrant red flower with yellow stamen.",
-            "palette": "sky"
-          }
-        ],
-        "type": 2,
-        "premium_type": 0,
-        "category_sku_id": "1468419584012062853",
-        "google_sku_ids": {
-          "5": "1469125797351657657_1469128797642293280",
-          "7": "1469125797351657657_1469425397203468450"
-        }
-      },
-      {
         "sku_id": "1469126030559023146",
         "name": "Hot Dog",
         "summary": "Make your name stand out in servers and chats.",
@@ -127730,6 +127666,70 @@
         "google_sku_ids": {
           "5": "1469126030559023146_1469128219784380538",
           "7": "1469126030559023146_1469425498844168235"
+        }
+      },
+      {
+        "sku_id": "1469125797351657657",
+        "name": "Go Sports!",
+        "summary": "Make your name stand out in servers and chats.",
+        "unpublished_at": null,
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 2,
+            "id": 1,
+            "sku_id": "1469125797351657657",
+            "asset": "nameplates/flor_de_maga/1469125426046701762/",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1469125426046701762/static",
+              "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1469125426046701762/animated",
+              "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1469125426046701762/video"
+            },
+            "label": "Vibrant red flower with yellow stamen.",
+            "palette": "sky"
+          }
+        ],
+        "type": 2,
+        "premium_type": 0,
+        "category_sku_id": "1468419584012062853",
+        "google_sku_ids": {
+          "5": "1469125797351657657_1469128797642293280",
+          "7": "1469125797351657657_1469425397203468450"
         }
       }
     ],
