@@ -127740,5 +127740,3300 @@
     "pdp_bg_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/ca9ff76a95a7eda22410f75e157398947d10504889c0620308146fd1615b8f26",
     "mobile_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/f6e015b3be47e5c9d9f0f87c9a32a7018ccb1774e4347b257e5f54b5b8283b66",
     "mobile_bg_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/c2e2f2beb2d0e0d650b6f6461b02a0dace24b4d79942c937b869837b4be7de25"
+  },
+  {
+    "sku_id": "1459194821779521861",
+    "name": "LOVE XP",
+    "summary": " ",
+    "store_listing_id": "1459194821779521861",
+    "unpublished_at": null,
+    "styles": {
+      "background_colors": [
+        16761035,
+        16738740
+      ],
+      "button_colors": [
+        5793266,
+        5793266
+      ],
+      "confetti_colors": [
+        43772,
+        15774258,
+        16414587,
+        3000177,
+        9739511
+      ]
+    },
+    "hero_ranking": [
+      "1459194821045387307",
+      "1459194821062295755",
+      "1459194821154701513",
+      "1459194821192450099",
+      "1459194820940665037",
+      "1459194820965699737",
+      "1459194821003575307",
+      "1459194821020483649",
+      "1459194821095854121",
+      "1459194821121146982",
+      "1459194821221810319",
+      "1459194821255237723",
+      "1459194821280530647",
+      "1459194821339250698",
+      "1459194821372805192",
+      "1459194821397971065",
+      "1459194821427331220",
+      "1459194821456691393",
+      "1459194821490245734",
+      "1459194821519605784",
+      "1459194821553033257",
+      "1459194821582520352",
+      "1459194821641240659",
+      "1459194821666406495",
+      "1459194821691572438",
+      "1459194821720932384"
+    ],
+    "products": [
+      {
+        "sku_id": "1459194821045387307",
+        "name": "Sweetheart Bundle",
+        "summary": "{joinedItems}. Orbs eligible February 17, 2026.",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            16761035,
+            16738740
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 1599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 1299,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1459194821112496274",
+            "sku_id": "1459194821095854121",
+            "asset": "a_d5f07a18604fae78eff00fc17d1340e8",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/1d68f7e81819cfcf7d6f7461116792bbd6506bc77c2163a4764e94450a11e833",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/4bfba86a33f949d05a281979dd7250a0536b2e09913487361cca5dfec16c7612"
+            },
+            "label": "Shimmering gold heart with white ribbon trim and wiggling pink bow."
+          },
+          {
+            "type": 2,
+            "id": "1459194821506764977",
+            "sku_id": "1459194821490245734",
+            "asset": "nameplates/love_xp/cutesy_bow/",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/64c28add641384d891250ae93b57d08e8b2efb04b3ef6e9e854334f539110878",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/d2cd10b9d698b3ff30205a1855adcc088437f590f597656521ab3e0a07ce26c1",
+              "video_url": "https://cdn.discordapp.com/assets/content/d14a433e479319adcedd9e57cbc683be19e0a3bd3101ecee4311443663e56672"
+            },
+            "label": "Pink bow with heart center bobbing on purple gradient.",
+            "palette": "bubble_gum"
+          },
+          {
+            "type": 1,
+            "id": "1459194821712285749",
+            "sku_id": "1459194821691572438",
+            "title": "Cutesy",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Pink bow at top with ribbon, appearing hearts, and twinkling sparkles.",
+            "animationType": 1,
+            "staticFrameSrc": "https://cdn.discordapp.com/assets/content/7a613fd61d502251a2b43a1201f8aaac0a3942bab7a131ea7b7ba9e8df0e8ec0",
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/9c31557b6bdf1c85d8ce6678427af3c001c059ae6c4eb57680b8785124f954be",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/27f4702aa93786bab2a2a9d3443720f24b42e3d80b10b4be929eb07902a4f808",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/assets/content/11f62ee214381a5d5f8112f02599a0a044faca799ea4e69ff5a68186b1359795",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/27f4702aa93786bab2a2a9d3443720f24b42e3d80b10b4be929eb07902a4f808",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 2500,
+                "start": 3000,
+                "loopDelay": 3000,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/92e207980bbae0695885ccd07ea5f9a682da52cbe9e40c5a47c20fd714cd9e2f",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 5500,
+                "loopDelay": 2500,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 102,
+                "randomizedSources": []
+              }
+            ]
+          }
+        ],
+        "type": 1000,
+        "premium_type": 0,
+        "category_sku_id": "1459194821779521861",
+        "bundled_products": [
+          {
+            "sku_id": "1459194821095854121",
+            "name": "Sweetheart",
+            "summary": "Give your avatar a new look. Orbs eligible February 17, 2026.",
+            "type": 0,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 499,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "sku_id": "1459194821490245734",
+            "name": "Cutesy Bow",
+            "summary": "Make your name stand out in servers and chats. Orbs eligible February 17, 2026.",
+            "type": 2,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 499,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "sku_id": "1459194821691572438",
+            "name": "Cutesy",
+            "summary": "Show this effect when others view your profile. Orbs eligible February 17, 2026.",
+            "type": 1,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 499,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ],
+        "google_sku_ids": {
+          "5": "1459194821045387307_1459239140720771248",
+          "7": "1459194821045387307_1459239145917382718"
+        },
+        "eligible_offers": [
+          "1460778896906522665"
+        ]
+      },
+      {
+        "sku_id": "1459194821062295755",
+        "name": "Love Stinks Bundle",
+        "summary": "{joinedItems}. Orbs eligible February 17, 2026.",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            16761035,
+            16738740
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 1599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 1299,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1459194821364154561",
+            "sku_id": "1459194821339250698",
+            "asset": "a_93df066652d9e76b9e467347c552facd",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/1214fff46e477bcf4ee28f566d2d3ed6776c76be5c7774dc162543eed3852db3",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/e278161ba48ca159d98d00f9e9a47853f7c34a1fe241248476474c194eb8b983"
+            },
+            "label": "Angry poop looking left and right with flies buzzing around."
+          },
+          {
+            "type": 2,
+            "id": "1459194821540319344",
+            "sku_id": "1459194821519605784",
+            "asset": "nameplates/love_xp/lil_stinker/",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/3042214dfe6e376c35ba968650ade16726c6804b2f027a58a44ce17266d80966",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/8c7a9c078cb57d34a711137cc0faacf74abc9c3be619bfc2803324f50a7eb277",
+              "video_url": "https://cdn.discordapp.com/assets/content/b34822990928e057cdc9fbc6b0efca2f91d2662b6e00afbf1c035d07e53a3477"
+            },
+            "label": "Poop sees fly and eyes turn into hearts.",
+            "palette": "sky"
+          },
+          {
+            "type": 1,
+            "id": "1459194821762617378",
+            "sku_id": "1459194821720932384",
+            "title": "Lil Stinker",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Poop jumping up and down looking at flies buzzing around.",
+            "animationType": 1,
+            "staticFrameSrc": "https://cdn.discordapp.com/assets/content/ad34629c734ada39a273f8359b55e5e208af9e1097d1503734267bfcbef7329b",
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/363ba5195f4ea5d0cf933f07ff9576c927c64f1098f96950b70a9455113b78f0",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/363ba5195f4ea5d0cf933f07ff9576c927c64f1098f96950b70a9455113b78f0",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/assets/content/2833cfb0479c4b0ef58106f3548f685621a2c0c24b91bd9d3a44fb33bc25b314",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/356c6f25ccb10a15f92613528978b3ad292c5cde2614219a0501444a117e0ad9",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 3000,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+              }
+            ]
+          }
+        ],
+        "type": 1000,
+        "premium_type": 0,
+        "category_sku_id": "1459194821779521861",
+        "bundled_products": [
+          {
+            "sku_id": "1459194821339250698",
+            "name": "Lil Stinker",
+            "summary": "Give your avatar a new look. Orbs eligible February 17, 2026.",
+            "type": 0,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 499,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "sku_id": "1459194821519605784",
+            "name": "Lil Stinker",
+            "summary": "Make your name stand out in servers and chats. Orbs eligible February 17, 2026.",
+            "type": 2,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 499,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "sku_id": "1459194821720932384",
+            "name": "Lil Stinker",
+            "summary": "Show this effect when others view your profile. Orbs eligible February 17, 2026.",
+            "type": 1,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 499,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ],
+        "google_sku_ids": {
+          "5": "1459194821062295755_1459235236217880892",
+          "7": "1459194821062295755_1459235241565884640"
+        },
+        "eligible_offers": [
+          "1460778896906522665"
+        ]
+      },
+      {
+        "sku_id": "1459194820940665037",
+        "name": "Heaven Sent Bundle",
+        "summary": "{joinedItems}. Orbs eligible February 17, 2026.",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            16761035,
+            16738740
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 1599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 1299,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1459194821179609139",
+            "sku_id": "1459194821154701513",
+            "asset": "a_a4179196f789185fd5c3f20b083f722a",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/ec271bd3c251b25ef00fbc7db4fef98f07cf589c26b9919838155a3e712a4f55",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/e6e2981075c9b351e5d9f6bd1893cae86f2189830809e0e77b72b083b4928523"
+            },
+            "label": "Pink headphones with flapping white angel wings and golden halo."
+          },
+          {
+            "type": 1,
+            "id": "1459194821569679501",
+            "sku_id": "1459194821553033257",
+            "title": "Match Made",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Flying hearts with wings and halos appearing with romantic game sayings.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/50a6496fd1d845e5a5c0b8ff31ed79ecce2fdfaaa7b9b3a9bc7b221b7b8b2606",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/62e181b9104b4f073bb8c3ae643ab69804ef8501529b77f4ae03c1bfc83eb147",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/assets/content/ea97b5869fcde3c829239023a457ec012bb703fc8180f85477cb0a63aede230d",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3500,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/a243941b5e463398f69dfec37f11ea9cb977fcac86747fdb6d3a54ea045a8cc6",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3500,
+                "start": 5500,
+                "loopDelay": 17500,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/ac7bf59b4c9e826661a01201ec78631a7acda860e2d33b3eab80a46aec71ac59",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3500,
+                "start": 11000,
+                "loopDelay": 17500,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 102,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/2400e8203ed3672eeb151c6a8c353ea7d6a0959122ac816fb83523556345b09b",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3500,
+                "start": 16500,
+                "loopDelay": 17500,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 103,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/6e04eb28418263f393f516cad8192c2153bdc019742500270ff2352679d165a3",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3500,
+                "start": 22000,
+                "loopDelay": 17500,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 104,
+                "randomizedSources": []
+              }
+            ]
+          },
+          {
+            "type": 2,
+            "id": "1459194821393518622",
+            "sku_id": "1459194821372805192",
+            "asset": "nameplates/love_xp/love_meter/",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/d931cbac322eb0c1f1369a485cf3bcd4480f8bc7c0b5c3037346d46cbb9f4476",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/53a8c2a2563535069f16daa4d4aff878a52b10c39fe21e0bce69f49ef55498b9",
+              "video_url": "https://cdn.discordapp.com/assets/content/852f8b9041934cb372bc051a3917b93c627bac9d5f8e676abbb5093b480fa675"
+            },
+            "label": "Three pink hearts loading like a health meter.",
+            "palette": "bubble_gum"
+          }
+        ],
+        "type": 1000,
+        "premium_type": 0,
+        "category_sku_id": "1459194821779521861",
+        "bundled_products": [
+          {
+            "sku_id": "1459194821154701513",
+            "name": "Angel Headphones",
+            "summary": "Give your avatar a new look. Orbs eligible February 17, 2026.",
+            "type": 0,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 499,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "sku_id": "1459194821553033257",
+            "name": "Match Made",
+            "summary": "Show this effect when others view your profile. Orbs eligible February 17, 2026.",
+            "type": 1,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 499,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "sku_id": "1459194821372805192",
+            "name": "Love Meter",
+            "summary": "Make your name stand out in servers and chats. Orbs eligible February 17, 2026.",
+            "type": 2,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 499,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ],
+        "google_sku_ids": {
+          "5": "1459194820940665037_1459236153025626243",
+          "7": "1459194820940665037_1459236160017534987"
+        },
+        "eligible_offers": [
+          "1460778896906522665"
+        ]
+      },
+      {
+        "sku_id": "1459194820965699737",
+        "name": "Raise Hell Bundle",
+        "summary": "{joinedItems}. Orbs eligible February 17, 2026.",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            16761035,
+            16738740
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 1599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 1299,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1459194821213159641",
+            "sku_id": "1459194821192450099",
+            "asset": "a_57db537880d86995153867c869ffd0cf",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/a039178a3f1964a056f1e77bd0d239606ffb351a14a6bbdc63c0a04960d9098d",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/2c8a55d72cd7df888e8fae12c1ef64c0acd2c9c15f7a5c098cc9da9877bdeba0"
+            },
+            "label": "Red headphones bobbing with purple devil horns and flapping bat wings."
+          },
+          {
+            "type": 1,
+            "id": "1459194821632594001",
+            "sku_id": "1459194821582520352",
+            "title": "Flying Solo",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Hearts with devil horns and wings appearing with angsty game sayings.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/f63203da268406c68009cf32e9b2a84cdeaa101988b3f8b17406d3af6eb79d89",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/f801c681ccb1a64d31e4b47199d1261ababea77ebab783a5e2786ba0451519ba",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/assets/content/f09f583a57a7015dbca98d519801cb0c0da0c238ebcad5c42baeded064a4b104",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3500,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/7211e8cb5e79bd682bc3e3988e0e427fcf4c068205db1dfdb0f6e624a0a0d8e0",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3500,
+                "start": 5500,
+                "loopDelay": 17500,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/0c580fa927d60a1a101e42207b250082e80465e757c343608aa49fbe647d1dd0",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3500,
+                "start": 11000,
+                "loopDelay": 17500,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 102,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/e230ffb3ed34d975191d7febb5ef6cd877f0aacc5ccbc495e549fadd8fbaec27",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3500,
+                "start": 16500,
+                "loopDelay": 17500,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 103,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/02a2444d0985dc67865998c6423e68a3e83d5d0b5a8e629fa9613f5635f05bf9",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3500,
+                "start": 22000,
+                "loopDelay": 17500,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 104,
+                "randomizedSources": []
+              }
+            ]
+          },
+          {
+            "type": 2,
+            "id": "1459194821418680453",
+            "sku_id": "1459194821397971065",
+            "asset": "nameplates/love_xp/mischief_meter/",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/7c559452f22795ff0a360c21cd8bf3ad195999998ba38592fc2a16cebe33af2f",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/4bba088f07fafc34a1bb04d90e724f0d71f04f522ed4a488d41b20ffd8c05c12",
+              "video_url": "https://cdn.discordapp.com/assets/content/c5b308fb0b2b83603d192d0aea47fd3345f3231fcb3ce48a2951e545f7c07e8d"
+            },
+            "label": "Three broken hearts loading like a health meter.",
+            "palette": "cobalt"
+          }
+        ],
+        "type": 1000,
+        "premium_type": 0,
+        "category_sku_id": "1459194821779521861",
+        "bundled_products": [
+          {
+            "sku_id": "1459194821192450099",
+            "name": "Devil Headphones",
+            "summary": "Give your avatar a new look. Orbs eligible February 17, 2026.",
+            "type": 0,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 499,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "sku_id": "1459194821582520352",
+            "name": "Flying Solo",
+            "summary": "Show this effect when others view your profile. Orbs eligible February 17, 2026.",
+            "type": 1,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 499,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "sku_id": "1459194821397971065",
+            "name": "Mischief Meter",
+            "summary": "Make your name stand out in servers and chats. Orbs eligible February 17, 2026.",
+            "type": 2,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 499,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ],
+        "google_sku_ids": {
+          "5": "1459194820965699737_1459236513635238109",
+          "7": "1459194820965699737_1459236518668406854"
+        },
+        "eligible_offers": [
+          "1460778896906522665"
+        ]
+      },
+      {
+        "sku_id": "1459194821003575307",
+        "name": "Hunny Bunnies Bundle",
+        "summary": "{joinedItems}. Orbs eligible February 17, 2026.",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            16761035,
+            16738740
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 1599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 1299,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1459194821242523866",
+            "sku_id": "1459194821221810319",
+            "asset": "a_1f2df17cd18e322d446dea49549dedf4",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/5fa7a9b8a3a29ae5cc75bd3c53c2adec43c3f51abf3f67d0a5de5adad2d69d16",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/8aa317fba65c6e754ae372375daa87bd62d30e11f4b2dd834a9e094704f61cb9"
+            },
+            "label": "Bobbing and swaying bunny faces with throbbing hearts and rotating stars."
+          },
+          {
+            "type": 2,
+            "id": "1459194821448044660",
+            "sku_id": "1459194821427331220",
+            "asset": "nameplates/love_xp/hunny_bunnies/",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/3b4f82929af6ce605e4b8f3ef7a46bbd067a2ded22112be6630be5c8b0d040b0",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/5fd8f04ad270432d2956cd9263eddcabce6132b2d1501d9c6cdbecbbad23a0d6",
+              "video_url": "https://cdn.discordapp.com/assets/content/2f6c85cedcd045df936ba21a5b31fe8fe1cb1a15e4dfdc66aaaf5af2f3db32bb"
+            },
+            "label": "Two bobbing bunny faces with pink heart throbbing between them.",
+            "palette": "bubble_gum"
+          },
+          {
+            "type": 1,
+            "id": "1459194821657759807",
+            "sku_id": "1459194821641240659",
+            "title": "Hunny Bunnies",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Bunnies, hearts, and stars appearing and disappearing on pink background.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/e8023171302001242619fdb8cb584a6aecc89bd8139b0e7a2e1575519f03ddc9",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/f59264bb5945817ee3c0aedc5330dfec5ef23986736db822234c05077305f1db",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/assets/content/2c58fb7894e2835b98753b9672a11c7e5ff406de3dd82e5ac381a3461e37f7d1",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/cbe83a4967911254cf068ba6285d81eef3442f9719d6cb492fe85c0b699d458e",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 3000,
+                "loopDelay": 3500,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+              }
+            ]
+          }
+        ],
+        "type": 1000,
+        "premium_type": 0,
+        "category_sku_id": "1459194821779521861",
+        "bundled_products": [
+          {
+            "sku_id": "1459194821221810319",
+            "name": "Hunny Bunnies",
+            "summary": "Give your avatar a new look. Orbs eligible February 17, 2026.",
+            "type": 0,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 499,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "sku_id": "1459194821427331220",
+            "name": "Hunny Bunnies",
+            "summary": "Make your name stand out in servers and chats. Orbs eligible February 17, 2026.",
+            "type": 2,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 499,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "sku_id": "1459194821641240659",
+            "name": "Hunny Bunnies",
+            "summary": "Show this effect when others view your profile. Orbs eligible February 17, 2026.",
+            "type": 1,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 499,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ],
+        "google_sku_ids": {
+          "5": "1459194821003575307_1459239333717475459",
+          "7": "1459194821003575307_1459239338440130641"
+        },
+        "eligible_offers": [
+          "1460778896906522665"
+        ]
+      },
+      {
+        "sku_id": "1459194821020483649",
+        "name": "Lone Wolf Bundle",
+        "summary": "{joinedItems}. Orbs eligible February 17, 2026.",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            16761035,
+            16738740
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 1599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 1299,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1459194821276073984",
+            "sku_id": "1459194821255237723",
+            "asset": "a_322c506cac670b3fc9915c44d1bcbe47",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/c62ab75561e04c0f57f62bd8eeff1c416d8aed87bd02465e3d080c879ed0fa17",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/f1bceb534416dcbe86deac074a8791781399042301f506b37a8dd6ea8fa19b49"
+            },
+            "label": "Gray wolf ready to pounce with angry symbol, rotating stars, and crescent moon."
+          },
+          {
+            "type": 2,
+            "id": "1459194821481598976",
+            "sku_id": "1459194821456691393",
+            "asset": "nameplates/love_xp/lone_wolf/",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/9f879264f960988758f025f671311b9557d093287c91c65fab88997706302f32",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/1c33d15098a1415ddad16031a4e9d51dd8293717d7265b93c17e842b0eaac55a",
+              "video_url": "https://cdn.discordapp.com/assets/content/32cbaff3ec3a2cc2363a71d7ffb25c77776d4fa985abb234b0f9d701c2ee8250"
+            },
+            "label": "Gray wolf crouching to attack with angry symbol and rotating stars.",
+            "palette": "cobalt"
+          },
+          {
+            "type": 1,
+            "id": "1459194821682925772",
+            "sku_id": "1459194821666406495",
+            "title": "Lone Wolf",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Gray wolf on crescent moon appearing with stars, then disappearing as stars and moon appear.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/ff0f16a00593ce741c0b08d81e3080576472938a160986728e523cd4e2fce789",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/fcbb9cf34ff08c65bebf71b943eb2a0c95493b440028a6a219f4e17e8cc8b445",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/assets/content/cddd5ebca305365e417ee56578f87dc04b36ca6ffebc7c473c3ca1813d3064ac",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/fb99bd3e173dc35c8015618c458e950c1ede7218c0e8f25f7dc3aeeb934b147a",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 3000,
+                "loopDelay": 3500,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+              }
+            ]
+          }
+        ],
+        "type": 1000,
+        "premium_type": 0,
+        "category_sku_id": "1459194821779521861",
+        "bundled_products": [
+          {
+            "sku_id": "1459194821255237723",
+            "name": "Lone Wolf",
+            "summary": "Give your avatar a new look. Orbs eligible February 17, 2026.",
+            "type": 0,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 499,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "sku_id": "1459194821456691393",
+            "name": "Lone Wolf",
+            "summary": "Make your name stand out in servers and chats. Orbs eligible February 17, 2026.",
+            "type": 2,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 499,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "sku_id": "1459194821666406495",
+            "name": "Lone Wolf",
+            "summary": "Show this effect when others view your profile. Orbs eligible February 17, 2026.",
+            "type": 1,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 499,
+                      "currency": "usd",
+                      "exponent": 2
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ],
+        "google_sku_ids": {
+          "5": "1459194821020483649_1459236497265004576",
+          "7": "1459194821020483649_1459236502025404498"
+        },
+        "eligible_offers": [
+          "1460778896906522665"
+        ]
+      },
+      {
+        "sku_id": "1459194821095854121",
+        "name": "Sweetheart",
+        "summary": "Give your avatar a new look. Orbs eligible February 17, 2026.",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            16761035,
+            16738740
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1459194821112496274",
+            "sku_id": "1459194821095854121",
+            "asset": "a_d5f07a18604fae78eff00fc17d1340e8",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/1d68f7e81819cfcf7d6f7461116792bbd6506bc77c2163a4764e94450a11e833",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/4bfba86a33f949d05a281979dd7250a0536b2e09913487361cca5dfec16c7612"
+            },
+            "label": "Shimmering gold heart with white ribbon trim and wiggling pink bow."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1459194821779521861",
+        "google_sku_ids": {
+          "5": "1459194821095854121_1459238142119907409",
+          "7": "1459194821095854121_1459238146523926558"
+        },
+        "eligible_offers": [
+          "1460778896906522665"
+        ]
+      },
+      {
+        "sku_id": "1459194821121146982",
+        "name": "Heartbreaker",
+        "summary": "Give your avatar a new look. Orbs eligible February 17, 2026.",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            16761035,
+            16738740
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1459194821146054708",
+            "sku_id": "1459194821121146982",
+            "asset": "a_4902a8c9c56b973c2bfaea1d9bec94f4",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/0730a5eb10d00edfcffdf14c5823aaf9b3f41eac9a2057967452413fbee4a2f4",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/c8d32b322ef599a7f8f3918feff6bd187b0599c937c5838dace69cbcd3242437"
+            },
+            "label": "Purple barbed wire heart with spikes projecting and glowing red."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1459194821779521861",
+        "google_sku_ids": {
+          "5": "1459194821121146982_1459238799115812976",
+          "7": "1459194821121146982_1459238805784494192"
+        },
+        "eligible_offers": [
+          "1460778896906522665"
+        ]
+      },
+      {
+        "sku_id": "1459194821154701513",
+        "name": "Angel Headphones",
+        "summary": "Give your avatar a new look. Orbs eligible February 17, 2026.",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            16761035,
+            16738740
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1459194821179609139",
+            "sku_id": "1459194821154701513",
+            "asset": "a_a4179196f789185fd5c3f20b083f722a",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/ec271bd3c251b25ef00fbc7db4fef98f07cf589c26b9919838155a3e712a4f55",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/e6e2981075c9b351e5d9f6bd1893cae86f2189830809e0e77b72b083b4928523"
+            },
+            "label": "Pink headphones with flapping white angel wings and golden halo."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1459194821779521861",
+        "google_sku_ids": {
+          "5": "1459194821154701513_1459236587098341603",
+          "7": "1459194821154701513_1459236592064528484"
+        },
+        "eligible_offers": [
+          "1460778896906522665"
+        ]
+      },
+      {
+        "sku_id": "1459194821192450099",
+        "name": "Devil Headphones",
+        "summary": "Give your avatar a new look. Orbs eligible February 17, 2026.",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            16761035,
+            16738740
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1459194821213159641",
+            "sku_id": "1459194821192450099",
+            "asset": "a_57db537880d86995153867c869ffd0cf",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/a039178a3f1964a056f1e77bd0d239606ffb351a14a6bbdc63c0a04960d9098d",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/2c8a55d72cd7df888e8fae12c1ef64c0acd2c9c15f7a5c098cc9da9877bdeba0"
+            },
+            "label": "Red headphones bobbing with purple devil horns and flapping bat wings."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1459194821779521861",
+        "google_sku_ids": {
+          "5": "1459194821192450099_1459238344591409276",
+          "7": "1459194821192450099_1459238348601295000"
+        },
+        "eligible_offers": [
+          "1460778896906522665"
+        ]
+      },
+      {
+        "sku_id": "1459194821221810319",
+        "name": "Hunny Bunnies",
+        "summary": "Give your avatar a new look. Orbs eligible February 17, 2026.",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            16761035,
+            16738740
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1459194821242523866",
+            "sku_id": "1459194821221810319",
+            "asset": "a_1f2df17cd18e322d446dea49549dedf4",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/5fa7a9b8a3a29ae5cc75bd3c53c2adec43c3f51abf3f67d0a5de5adad2d69d16",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/8aa317fba65c6e754ae372375daa87bd62d30e11f4b2dd834a9e094704f61cb9"
+            },
+            "label": "Bobbing and swaying bunny faces with throbbing hearts and rotating stars."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1459194821779521861",
+        "google_sku_ids": {
+          "5": "1459194821221810319_1459237879380181206",
+          "7": "1459194821221810319_1459237883914489957"
+        },
+        "eligible_offers": [
+          "1460778896906522665"
+        ]
+      },
+      {
+        "sku_id": "1459194821255237723",
+        "name": "Lone Wolf",
+        "summary": "Give your avatar a new look. Orbs eligible February 17, 2026.",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            16761035,
+            16738740
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1459194821276073984",
+            "sku_id": "1459194821255237723",
+            "asset": "a_322c506cac670b3fc9915c44d1bcbe47",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/c62ab75561e04c0f57f62bd8eeff1c416d8aed87bd02465e3d080c879ed0fa17",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/f1bceb534416dcbe86deac074a8791781399042301f506b37a8dd6ea8fa19b49"
+            },
+            "label": "Gray wolf ready to pounce with angry symbol, rotating stars, and crescent moon."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1459194821779521861",
+        "google_sku_ids": {
+          "5": "1459194821255237723_1459235348474363944",
+          "7": "1459194821255237723_1459235356322042099"
+        },
+        "eligible_offers": [
+          "1460778896906522665"
+        ]
+      },
+      {
+        "sku_id": "1459194821280530647",
+        "name": "Cutesy Bow",
+        "summary": "Give your avatar a new look. Orbs eligible February 17, 2026.",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            16761035,
+            16738740
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1459194821326405836",
+            "sku_id": "1459194821280530647",
+            "asset": "a_9c204b3d6ddcb6e022247565414e61ba",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/b5ba8b9eee57083333fbe105ff75b6857abad60bffabc560a8a840e1bf150a01",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/d0dc54f5a45204963a13e7847bd2cab13b9d2451affe15315da4c68bff55f5de"
+            },
+            "label": "Pink bow with heart center bobbing as hearts appear and sparkle."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1459194821779521861",
+        "google_sku_ids": {
+          "5": "1459194821280530647_1459238208713003232",
+          "7": "1459194821280530647_1459238213339189434"
+        },
+        "eligible_offers": [
+          "1460778896906522665"
+        ]
+      },
+      {
+        "sku_id": "1459194821339250698",
+        "name": "Lil Stinker",
+        "summary": "Give your avatar a new look. Orbs eligible February 17, 2026.",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            16761035,
+            16738740
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": "1459194821364154561",
+            "sku_id": "1459194821339250698",
+            "asset": "a_93df066652d9e76b9e467347c552facd",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/1214fff46e477bcf4ee28f566d2d3ed6776c76be5c7774dc162543eed3852db3",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/e278161ba48ca159d98d00f9e9a47853f7c34a1fe241248476474c194eb8b983"
+            },
+            "label": "Angry poop looking left and right with flies buzzing around."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1459194821779521861",
+        "google_sku_ids": {
+          "5": "1459194821339250698_1459237065555312856",
+          "7": "1459194821339250698_1459237070433157191"
+        },
+        "eligible_offers": [
+          "1460778896906522665"
+        ]
+      },
+      {
+        "sku_id": "1459194821372805192",
+        "name": "Love Meter",
+        "summary": "Make your name stand out in servers and chats. Orbs eligible February 17, 2026.",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            16761035,
+            16738740
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 2,
+            "id": "1459194821393518622",
+            "sku_id": "1459194821372805192",
+            "asset": "nameplates/love_xp/love_meter/",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/d931cbac322eb0c1f1369a485cf3bcd4480f8bc7c0b5c3037346d46cbb9f4476",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/53a8c2a2563535069f16daa4d4aff878a52b10c39fe21e0bce69f49ef55498b9",
+              "video_url": "https://cdn.discordapp.com/assets/content/852f8b9041934cb372bc051a3917b93c627bac9d5f8e676abbb5093b480fa675"
+            },
+            "label": "Three pink hearts loading like a health meter.",
+            "palette": "bubble_gum"
+          }
+        ],
+        "type": 2,
+        "premium_type": 0,
+        "category_sku_id": "1459194821779521861",
+        "google_sku_ids": {
+          "5": "1459194821372805192_1459237070076776554",
+          "7": "1459194821372805192_1459237074686185575"
+        },
+        "eligible_offers": [
+          "1460778896906522665"
+        ]
+      },
+      {
+        "sku_id": "1459194821397971065",
+        "name": "Mischief Meter",
+        "summary": "Make your name stand out in servers and chats. Orbs eligible February 17, 2026.",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            16761035,
+            16738740
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 2,
+            "id": "1459194821418680453",
+            "sku_id": "1459194821397971065",
+            "asset": "nameplates/love_xp/mischief_meter/",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/7c559452f22795ff0a360c21cd8bf3ad195999998ba38592fc2a16cebe33af2f",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/4bba088f07fafc34a1bb04d90e724f0d71f04f522ed4a488d41b20ffd8c05c12",
+              "video_url": "https://cdn.discordapp.com/assets/content/c5b308fb0b2b83603d192d0aea47fd3345f3231fcb3ce48a2951e545f7c07e8d"
+            },
+            "label": "Three broken hearts loading like a health meter.",
+            "palette": "cobalt"
+          }
+        ],
+        "type": 2,
+        "premium_type": 0,
+        "category_sku_id": "1459194821779521861",
+        "google_sku_ids": {
+          "5": "1459194821397971065_1459237841891758110",
+          "7": "1459194821397971065_1459237851362234551"
+        },
+        "eligible_offers": [
+          "1460778896906522665"
+        ]
+      },
+      {
+        "sku_id": "1459194821427331220",
+        "name": "Hunny Bunnies",
+        "summary": "Make your name stand out in servers and chats. Orbs eligible February 17, 2026.",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            16761035,
+            16738740
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 2,
+            "id": "1459194821448044660",
+            "sku_id": "1459194821427331220",
+            "asset": "nameplates/love_xp/hunny_bunnies/",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/3b4f82929af6ce605e4b8f3ef7a46bbd067a2ded22112be6630be5c8b0d040b0",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/5fd8f04ad270432d2956cd9263eddcabce6132b2d1501d9c6cdbecbbad23a0d6",
+              "video_url": "https://cdn.discordapp.com/assets/content/2f6c85cedcd045df936ba21a5b31fe8fe1cb1a15e4dfdc66aaaf5af2f3db32bb"
+            },
+            "label": "Two bobbing bunny faces with pink heart throbbing between them.",
+            "palette": "bubble_gum"
+          }
+        ],
+        "type": 2,
+        "premium_type": 0,
+        "category_sku_id": "1459194821779521861",
+        "google_sku_ids": {
+          "5": "1459194821427331220_1459235468746166564",
+          "7": "1459194821427331220_1459235475066716305"
+        },
+        "eligible_offers": [
+          "1460778896906522665"
+        ]
+      },
+      {
+        "sku_id": "1459194821456691393",
+        "name": "Lone Wolf",
+        "summary": "Make your name stand out in servers and chats. Orbs eligible February 17, 2026.",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            16761035,
+            16738740
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 2,
+            "id": "1459194821481598976",
+            "sku_id": "1459194821456691393",
+            "asset": "nameplates/love_xp/lone_wolf/",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/9f879264f960988758f025f671311b9557d093287c91c65fab88997706302f32",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/1c33d15098a1415ddad16031a4e9d51dd8293717d7265b93c17e842b0eaac55a",
+              "video_url": "https://cdn.discordapp.com/assets/content/32cbaff3ec3a2cc2363a71d7ffb25c77776d4fa985abb234b0f9d701c2ee8250"
+            },
+            "label": "Gray wolf crouching to attack with angry symbol and rotating stars.",
+            "palette": "cobalt"
+          }
+        ],
+        "type": 2,
+        "premium_type": 0,
+        "category_sku_id": "1459194821779521861",
+        "google_sku_ids": {
+          "5": "1459194821456691393_1459239038119837880",
+          "7": "1459194821456691393_1459239043081703617"
+        },
+        "eligible_offers": [
+          "1460778896906522665"
+        ]
+      },
+      {
+        "sku_id": "1459194821490245734",
+        "name": "Cutesy Bow",
+        "summary": "Make your name stand out in servers and chats. Orbs eligible February 17, 2026.",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            16761035,
+            16738740
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 2,
+            "id": "1459194821506764977",
+            "sku_id": "1459194821490245734",
+            "asset": "nameplates/love_xp/cutesy_bow/",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/64c28add641384d891250ae93b57d08e8b2efb04b3ef6e9e854334f539110878",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/d2cd10b9d698b3ff30205a1855adcc088437f590f597656521ab3e0a07ce26c1",
+              "video_url": "https://cdn.discordapp.com/assets/content/d14a433e479319adcedd9e57cbc683be19e0a3bd3101ecee4311443663e56672"
+            },
+            "label": "Pink bow with heart center bobbing on purple gradient.",
+            "palette": "bubble_gum"
+          }
+        ],
+        "type": 2,
+        "premium_type": 0,
+        "category_sku_id": "1459194821779521861",
+        "google_sku_ids": {
+          "5": "1459194821490245734_1459235828436832256",
+          "7": "1459194821490245734_1459235833155420304"
+        },
+        "eligible_offers": [
+          "1460778896906522665"
+        ]
+      },
+      {
+        "sku_id": "1459194821519605784",
+        "name": "Lil Stinker",
+        "summary": "Make your name stand out in servers and chats. Orbs eligible February 17, 2026.",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            16761035,
+            16738740
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 2,
+            "id": "1459194821540319344",
+            "sku_id": "1459194821519605784",
+            "asset": "nameplates/love_xp/lil_stinker/",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/assets/content/3042214dfe6e376c35ba968650ade16726c6804b2f027a58a44ce17266d80966",
+              "animated_image_url": "https://cdn.discordapp.com/assets/content/8c7a9c078cb57d34a711137cc0faacf74abc9c3be619bfc2803324f50a7eb277",
+              "video_url": "https://cdn.discordapp.com/assets/content/b34822990928e057cdc9fbc6b0efca2f91d2662b6e00afbf1c035d07e53a3477"
+            },
+            "label": "Poop sees fly and eyes turn into hearts.",
+            "palette": "sky"
+          }
+        ],
+        "type": 2,
+        "premium_type": 0,
+        "category_sku_id": "1459194821779521861",
+        "google_sku_ids": {
+          "5": "1459194821519605784_1459236958743171255",
+          "7": "1459194821519605784_1459236963159638137"
+        },
+        "eligible_offers": [
+          "1460778896906522665"
+        ]
+      },
+      {
+        "sku_id": "1459194821553033257",
+        "name": "Match Made",
+        "summary": "Show this effect when others view your profile. Orbs eligible February 17, 2026.",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            16761035,
+            16738740
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 1,
+            "id": "1459194821569679501",
+            "sku_id": "1459194821553033257",
+            "title": "Match Made",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Flying hearts with wings and halos appearing with romantic game sayings.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/50a6496fd1d845e5a5c0b8ff31ed79ecce2fdfaaa7b9b3a9bc7b221b7b8b2606",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/62e181b9104b4f073bb8c3ae643ab69804ef8501529b77f4ae03c1bfc83eb147",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/assets/content/ea97b5869fcde3c829239023a457ec012bb703fc8180f85477cb0a63aede230d",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3500,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/a243941b5e463398f69dfec37f11ea9cb977fcac86747fdb6d3a54ea045a8cc6",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3500,
+                "start": 5500,
+                "loopDelay": 17500,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/ac7bf59b4c9e826661a01201ec78631a7acda860e2d33b3eab80a46aec71ac59",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3500,
+                "start": 11000,
+                "loopDelay": 17500,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 102,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/2400e8203ed3672eeb151c6a8c353ea7d6a0959122ac816fb83523556345b09b",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3500,
+                "start": 16500,
+                "loopDelay": 17500,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 103,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/6e04eb28418263f393f516cad8192c2153bdc019742500270ff2352679d165a3",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3500,
+                "start": 22000,
+                "loopDelay": 17500,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 104,
+                "randomizedSources": []
+              }
+            ]
+          }
+        ],
+        "type": 1,
+        "premium_type": 0,
+        "category_sku_id": "1459194821779521861",
+        "google_sku_ids": {
+          "5": "1459194821553033257_1459237004188586310",
+          "7": "1459194821553033257_1459237008210792529"
+        },
+        "eligible_offers": [
+          "1460778896906522665"
+        ]
+      },
+      {
+        "sku_id": "1459194821582520352",
+        "name": "Flying Solo",
+        "summary": "Show this effect when others view your profile. Orbs eligible February 17, 2026.",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            16761035,
+            16738740
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 1,
+            "id": "1459194821632594001",
+            "sku_id": "1459194821582520352",
+            "title": "Flying Solo",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Hearts with devil horns and wings appearing with angsty game sayings.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/f63203da268406c68009cf32e9b2a84cdeaa101988b3f8b17406d3af6eb79d89",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/f801c681ccb1a64d31e4b47199d1261ababea77ebab783a5e2786ba0451519ba",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/assets/content/f09f583a57a7015dbca98d519801cb0c0da0c238ebcad5c42baeded064a4b104",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3500,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/7211e8cb5e79bd682bc3e3988e0e427fcf4c068205db1dfdb0f6e624a0a0d8e0",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3500,
+                "start": 5500,
+                "loopDelay": 17500,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/0c580fa927d60a1a101e42207b250082e80465e757c343608aa49fbe647d1dd0",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3500,
+                "start": 11000,
+                "loopDelay": 17500,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 102,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/e230ffb3ed34d975191d7febb5ef6cd877f0aacc5ccbc495e549fadd8fbaec27",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3500,
+                "start": 16500,
+                "loopDelay": 17500,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 103,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/02a2444d0985dc67865998c6423e68a3e83d5d0b5a8e629fa9613f5635f05bf9",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3500,
+                "start": 22000,
+                "loopDelay": 17500,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 104,
+                "randomizedSources": []
+              }
+            ]
+          }
+        ],
+        "type": 1,
+        "premium_type": 0,
+        "category_sku_id": "1459194821779521861",
+        "google_sku_ids": {
+          "5": "1459194821582520352_1459235450509066468",
+          "7": "1459194821582520352_1459235455240245451"
+        },
+        "eligible_offers": [
+          "1460778896906522665"
+        ]
+      },
+      {
+        "sku_id": "1459194821641240659",
+        "name": "Hunny Bunnies",
+        "summary": "Show this effect when others view your profile. Orbs eligible February 17, 2026.",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            16761035,
+            16738740
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 1,
+            "id": "1459194821657759807",
+            "sku_id": "1459194821641240659",
+            "title": "Hunny Bunnies",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Bunnies, hearts, and stars appearing and disappearing on pink background.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/e8023171302001242619fdb8cb584a6aecc89bd8139b0e7a2e1575519f03ddc9",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/f59264bb5945817ee3c0aedc5330dfec5ef23986736db822234c05077305f1db",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/assets/content/2c58fb7894e2835b98753b9672a11c7e5ff406de3dd82e5ac381a3461e37f7d1",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/cbe83a4967911254cf068ba6285d81eef3442f9719d6cb492fe85c0b699d458e",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 3000,
+                "loopDelay": 3500,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+              }
+            ]
+          }
+        ],
+        "type": 1,
+        "premium_type": 0,
+        "category_sku_id": "1459194821779521861",
+        "google_sku_ids": {
+          "5": "1459194821641240659_1459237900804685866",
+          "7": "1459194821641240659_1459237905007509745"
+        },
+        "eligible_offers": [
+          "1460778896906522665"
+        ]
+      },
+      {
+        "sku_id": "1459194821666406495",
+        "name": "Lone Wolf",
+        "summary": "Show this effect when others view your profile. Orbs eligible February 17, 2026.",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            16761035,
+            16738740
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 1,
+            "id": "1459194821682925772",
+            "sku_id": "1459194821666406495",
+            "title": "Lone Wolf",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Gray wolf on crescent moon appearing with stars, then disappearing as stars and moon appear.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/ff0f16a00593ce741c0b08d81e3080576472938a160986728e523cd4e2fce789",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/fcbb9cf34ff08c65bebf71b943eb2a0c95493b440028a6a219f4e17e8cc8b445",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/assets/content/cddd5ebca305365e417ee56578f87dc04b36ca6ffebc7c473c3ca1813d3064ac",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/fb99bd3e173dc35c8015618c458e950c1ede7218c0e8f25f7dc3aeeb934b147a",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 3000,
+                "loopDelay": 3500,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+              }
+            ]
+          }
+        ],
+        "type": 1,
+        "premium_type": 0,
+        "category_sku_id": "1459194821779521861",
+        "google_sku_ids": {
+          "5": "1459194821666406495_1459235256195481740",
+          "7": "1459194821666406495_1459235260591243295"
+        },
+        "eligible_offers": [
+          "1460778896906522665"
+        ]
+      },
+      {
+        "sku_id": "1459194821691572438",
+        "name": "Cutesy",
+        "summary": "Show this effect when others view your profile. Orbs eligible February 17, 2026.",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            16761035,
+            16738740
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 1,
+            "id": "1459194821712285749",
+            "sku_id": "1459194821691572438",
+            "title": "Cutesy",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Pink bow at top with ribbon, appearing hearts, and twinkling sparkles.",
+            "animationType": 1,
+            "staticFrameSrc": "https://cdn.discordapp.com/assets/content/7a613fd61d502251a2b43a1201f8aaac0a3942bab7a131ea7b7ba9e8df0e8ec0",
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/9c31557b6bdf1c85d8ce6678427af3c001c059ae6c4eb57680b8785124f954be",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/27f4702aa93786bab2a2a9d3443720f24b42e3d80b10b4be929eb07902a4f808",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/assets/content/11f62ee214381a5d5f8112f02599a0a044faca799ea4e69ff5a68186b1359795",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/27f4702aa93786bab2a2a9d3443720f24b42e3d80b10b4be929eb07902a4f808",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 2500,
+                "start": 3000,
+                "loopDelay": 3000,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/92e207980bbae0695885ccd07ea5f9a682da52cbe9e40c5a47c20fd714cd9e2f",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 5500,
+                "loopDelay": 2500,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 102,
+                "randomizedSources": []
+              }
+            ]
+          }
+        ],
+        "type": 1,
+        "premium_type": 0,
+        "category_sku_id": "1459194821779521861",
+        "google_sku_ids": {
+          "5": "1459194821691572438_1459237346867286088",
+          "7": "1459194821691572438_1459237351967686851"
+        },
+        "eligible_offers": [
+          "1460778896906522665"
+        ]
+      },
+      {
+        "sku_id": "1459194821720932384",
+        "name": "Lil Stinker",
+        "summary": "Show this effect when others view your profile. Orbs eligible February 17, 2026.",
+        "unpublished_at": null,
+        "styles": {
+          "background_colors": [
+            16761035,
+            16738740
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 1,
+            "id": "1459194821762617378",
+            "sku_id": "1459194821720932384",
+            "title": "Lil Stinker",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Poop jumping up and down looking at flies buzzing around.",
+            "animationType": 1,
+            "staticFrameSrc": "https://cdn.discordapp.com/assets/content/ad34629c734ada39a273f8359b55e5e208af9e1097d1503734267bfcbef7329b",
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/363ba5195f4ea5d0cf933f07ff9576c927c64f1098f96950b70a9455113b78f0",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/363ba5195f4ea5d0cf933f07ff9576c927c64f1098f96950b70a9455113b78f0",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/assets/content/2833cfb0479c4b0ef58106f3548f685621a2c0c24b91bd9d3a44fb33bc25b314",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/assets/content/356c6f25ccb10a15f92613528978b3ad292c5cde2614219a0501444a117e0ad9",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 3000,
+                "loopDelay": 0,
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+              }
+            ]
+          }
+        ],
+        "type": 1,
+        "premium_type": 0,
+        "category_sku_id": "1459194821779521861",
+        "google_sku_ids": {
+          "5": "1459194821720932384_1459235871101554833",
+          "7": "1459194821720932384_1459235876436574460"
+        },
+        "eligible_offers": [
+          "1460778896906522665"
+        ]
+      }
+    ],
+    "hero_banner_url": "https://cdn.discordapp.com/assets/content/a3b371c19eedc09eead750afb9c895e97551f5e75ecd6a373b4d87f7efcff06e",
+    "hero_logo_url": "https://cdn.discordapp.com/assets/content/4eafb8594c0dfb5572576001e93c6b525844397e97ff62e44dbf8b8b81503c9a",
+    "catalog_banner_url": "https://cdn.discordapp.com/assets/content/cce0bff63f7372421efbb2de185191789d81cc7cf786093ac685a25cf049cf0b",
+    "featured_block_url": "https://cdn.discordapp.com/assets/content/15c479e794a478f3313b7afa58805f96c7fb79f69834eb3a5c107447797523c5",
+    "logo_url": "https://cdn.discordapp.com/assets/content/a24683c676ff5ff925afe7bd617dba67f881ad74ce59ca4b34dff3b1d6cf236a",
+    "pdp_bg_url": "https://cdn.discordapp.com/assets/content/063d925b1227c1dcaea2c95c65514f98f1026694a4467435d24eaec58348a063",
+    "mobile_hero_url": "https://cdn.discordapp.com/assets/content/b222c3e9f417ed955fb8e48087dac5b381e802355ed0d3db7a6997e01d5f1e7b",
+    "mobile_banner_url": "https://cdn.discordapp.com/assets/content/8b87b8a221bf4f1a38adacd647e66a1e61cab8584c0f27d9bfd62c22c5abcadf",
+    "mobile_bg_url": "https://cdn.discordapp.com/assets/content/77bcf0ac5ed4d77f3f4c5a26605411f31cece4aecb9d13793d7b2f226e144c89"
   }
 ]
