@@ -17,7 +17,8 @@
       "1425222174372925480"
     ],
     "created_at": "2025-10-07T20:16:38.050293+00:00",
-    "updated_at": "2026-01-13T19:18:51.926749+00:00"
+    "updated_at": "2026-01-13T19:18:51.926749+00:00",
+    "tenant_metadata": {}
   },
   "products": [
     {
@@ -40,7 +41,7 @@
         }
       ],
       "created_at": "2025-10-07T20:29:40.125792+00:00",
-      "updated_at": "2026-02-10T19:02:15.600625+00:00",
+      "updated_at": "2026-02-10T20:00:57.432283+00:00",
       "tenant_metadata": {
         "guild_monetization": {
           "game_server": {
@@ -66,6 +67,8 @@
           "product_line": 13,
           "application_id": "1340102344645283891",
           "name": "Starter Plan",
+          "thumbnail_asset_id": null,
+          "slug": "starter-plan",
           "premium": false,
           "selected_options": [
             {
@@ -101,6 +104,8 @@
           "product_line": 13,
           "application_id": "1340102344645283891",
           "name": "Pro Plan",
+          "thumbnail_asset_id": null,
+          "slug": "pro-plan",
           "premium": false,
           "selected_options": [
             {
@@ -136,6 +141,8 @@
           "product_line": 13,
           "application_id": "1340102344645283891",
           "name": "Ultimate Plan",
+          "thumbnail_asset_id": null,
+          "slug": "ultimate-plan",
           "premium": false,
           "selected_options": [
             {
@@ -187,7 +194,7 @@
         }
       ],
       "created_at": "2026-01-07T18:47:39.455084+00:00",
-      "updated_at": "2026-02-10T19:02:18.111337+00:00",
+      "updated_at": "2026-02-10T20:01:01.007700+00:00",
       "tenant_metadata": {
         "guild_monetization": {
           "game_server": {
@@ -215,6 +222,8 @@
           "product_line": 13,
           "application_id": "1340102344645283891",
           "name": "Starter Plan",
+          "thumbnail_asset_id": null,
+          "slug": "starter-plan",
           "premium": false,
           "selected_options": [
             {
@@ -250,6 +259,8 @@
           "product_line": 13,
           "application_id": "1340102344645283891",
           "name": "Pro Plan",
+          "thumbnail_asset_id": null,
+          "slug": "pro-plan",
           "premium": false,
           "selected_options": [
             {
@@ -285,6 +296,8 @@
           "product_line": 13,
           "application_id": "1340102344645283891",
           "name": "Ultimate Plan",
+          "thumbnail_asset_id": null,
+          "slug": "ultimate-plan",
           "premium": false,
           "selected_options": [
             {
@@ -336,7 +349,7 @@
         }
       ],
       "created_at": "2025-10-07T20:57:45.857312+00:00",
-      "updated_at": "2026-02-10T19:02:13.388527+00:00",
+      "updated_at": "2026-02-10T20:00:55.745512+00:00",
       "tenant_metadata": {
         "guild_monetization": {
           "game_server": {
@@ -363,6 +376,8 @@
           "product_line": 13,
           "application_id": "1340102344645283891",
           "name": "Starter Plan",
+          "thumbnail_asset_id": null,
+          "slug": "starter-plan",
           "premium": false,
           "selected_options": [
             {
@@ -398,6 +413,8 @@
           "product_line": 13,
           "application_id": "1340102344645283891",
           "name": "Pro Plan",
+          "thumbnail_asset_id": null,
+          "slug": "pro-plan",
           "premium": false,
           "selected_options": [
             {
@@ -433,6 +450,8 @@
           "product_line": 13,
           "application_id": "1340102344645283891",
           "name": "Ultimate Plan",
+          "thumbnail_asset_id": null,
+          "slug": "ultimate-plan",
           "premium": false,
           "selected_options": [
             {
@@ -484,7 +503,7 @@
         }
       ],
       "created_at": "2025-10-07T21:00:40.289222+00:00",
-      "updated_at": "2026-02-10T19:02:14.539558+00:00",
+      "updated_at": "2026-02-10T20:00:56.799499+00:00",
       "tenant_metadata": {
         "guild_monetization": {
           "game_server": {
@@ -509,6 +528,8 @@
           "product_line": 13,
           "application_id": "1340102344645283891",
           "name": "Starter Plan",
+          "thumbnail_asset_id": null,
+          "slug": "starter-plan",
           "premium": false,
           "selected_options": [
             {
@@ -544,6 +565,8 @@
           "product_line": 13,
           "application_id": "1340102344645283891",
           "name": "Pro Plan",
+          "thumbnail_asset_id": null,
+          "slug": "pro-plan",
           "premium": false,
           "selected_options": [
             {
@@ -579,6 +602,8 @@
           "product_line": 13,
           "application_id": "1340102344645283891",
           "name": "Ultimate Plan",
+          "thumbnail_asset_id": null,
+          "slug": "ultimate-plan",
           "premium": false,
           "selected_options": [
             {
@@ -630,7 +655,7 @@
         }
       ],
       "created_at": "2026-01-05T22:11:31.069295+00:00",
-      "updated_at": "2026-02-10T19:02:16.067531+00:00",
+      "updated_at": "2026-02-10T20:00:57.687641+00:00",
       "tenant_metadata": {
         "guild_monetization": {
           "game_server": {
@@ -657,6 +682,8 @@
           "product_line": 13,
           "application_id": "1340102344645283891",
           "name": "Starter Plan",
+          "thumbnail_asset_id": null,
+          "slug": "starter-plan",
           "premium": false,
           "selected_options": [
             {
@@ -692,6 +719,8 @@
           "product_line": 13,
           "application_id": "1340102344645283891",
           "name": "Pro Plan",
+          "thumbnail_asset_id": null,
+          "slug": "pro-plan",
           "premium": false,
           "selected_options": [
             {
@@ -727,6 +756,8 @@
           "product_line": 13,
           "application_id": "1340102344645283891",
           "name": "Ultimate Plan",
+          "thumbnail_asset_id": null,
+          "slug": "ultimate-plan",
           "premium": false,
           "selected_options": [
             {
@@ -774,7 +805,7 @@
         }
       ],
       "created_at": "2026-01-05T22:48:07.689984+00:00",
-      "updated_at": "2026-02-10T19:02:17.415126+00:00",
+      "updated_at": "2026-02-10T20:00:58.609081+00:00",
       "tenant_metadata": {
         "guild_monetization": {
           "game_server": {
@@ -803,6 +834,8 @@
           "product_line": 13,
           "application_id": "1340102344645283891",
           "name": "Pro Plan",
+          "thumbnail_asset_id": null,
+          "slug": "pro-plan",
           "premium": false,
           "selected_options": [
             {
@@ -854,7 +887,7 @@
         }
       ],
       "created_at": "2026-01-05T22:51:30.665664+00:00",
-      "updated_at": "2026-02-10T19:02:17.491458+00:00",
+      "updated_at": "2026-02-10T20:00:58.702357+00:00",
       "tenant_metadata": {
         "guild_monetization": {
           "game_server": {
@@ -881,6 +914,8 @@
           "product_line": 13,
           "application_id": "1340102344645283891",
           "name": "Starter Plan",
+          "thumbnail_asset_id": null,
+          "slug": "starter-plan",
           "premium": false,
           "selected_options": [
             {
@@ -916,6 +951,8 @@
           "product_line": 13,
           "application_id": "1340102344645283891",
           "name": "Pro Plan",
+          "thumbnail_asset_id": null,
+          "slug": "pro-plan",
           "premium": false,
           "selected_options": [
             {
@@ -951,6 +988,8 @@
           "product_line": 13,
           "application_id": "1340102344645283891",
           "name": "Ultimate Plan",
+          "thumbnail_asset_id": null,
+          "slug": "ultimate-plan",
           "premium": false,
           "selected_options": [
             {
@@ -1002,7 +1041,7 @@
         }
       ],
       "created_at": "2026-01-12T23:52:41.259571+00:00",
-      "updated_at": "2026-02-10T19:02:17.966900+00:00",
+      "updated_at": "2026-02-10T20:01:00.718839+00:00",
       "tenant_metadata": {
         "guild_monetization": {
           "game_server": {
@@ -1029,6 +1068,8 @@
           "product_line": 13,
           "application_id": "1340102344645283891",
           "name": "Starter Plan",
+          "thumbnail_asset_id": null,
+          "slug": "starter-plan",
           "premium": false,
           "selected_options": [
             {
@@ -1064,6 +1105,8 @@
           "product_line": 13,
           "application_id": "1340102344645283891",
           "name": "Pro Plan",
+          "thumbnail_asset_id": null,
+          "slug": "pro-plan",
           "premium": false,
           "selected_options": [
             {
@@ -1099,6 +1142,8 @@
           "product_line": 13,
           "application_id": "1340102344645283891",
           "name": "Ultimate Plan",
+          "thumbnail_asset_id": null,
+          "slug": "ultimate-plan",
           "premium": false,
           "selected_options": [
             {
@@ -1150,7 +1195,7 @@
         }
       ],
       "created_at": "2025-10-07T20:40:53.878966+00:00",
-      "updated_at": "2026-02-10T19:02:12.484898+00:00",
+      "updated_at": "2026-02-10T20:00:53.759785+00:00",
       "tenant_metadata": {
         "guild_monetization": {
           "game_server": {
@@ -1176,6 +1221,8 @@
           "product_line": 13,
           "application_id": "1340102344645283891",
           "name": "Starter Plan",
+          "thumbnail_asset_id": null,
+          "slug": "starter-plan",
           "premium": false,
           "selected_options": [
             {
@@ -1211,6 +1258,8 @@
           "product_line": 13,
           "application_id": "1340102344645283891",
           "name": "Pro Plan",
+          "thumbnail_asset_id": null,
+          "slug": "pro-plan",
           "premium": false,
           "selected_options": [
             {
@@ -1246,6 +1295,8 @@
           "product_line": 13,
           "application_id": "1340102344645283891",
           "name": "Ultimate Plan",
+          "thumbnail_asset_id": null,
+          "slug": "ultimate-plan",
           "premium": false,
           "selected_options": [
             {
@@ -1297,7 +1348,7 @@
         }
       ],
       "created_at": "2025-10-07T20:44:05.739251+00:00",
-      "updated_at": "2026-02-10T19:02:15.874516+00:00",
+      "updated_at": "2026-02-10T20:00:57.546546+00:00",
       "tenant_metadata": {
         "guild_monetization": {
           "game_server": {
@@ -1323,6 +1374,8 @@
           "product_line": 13,
           "application_id": "1340102344645283891",
           "name": "Starter Plan",
+          "thumbnail_asset_id": null,
+          "slug": "starter-plan",
           "premium": false,
           "selected_options": [
             {
@@ -1358,6 +1411,8 @@
           "product_line": 13,
           "application_id": "1340102344645283891",
           "name": "Pro Plan",
+          "thumbnail_asset_id": null,
+          "slug": "pro-plan",
           "premium": false,
           "selected_options": [
             {
@@ -1393,6 +1448,8 @@
           "product_line": 13,
           "application_id": "1340102344645283891",
           "name": "Ultimate Plan",
+          "thumbnail_asset_id": null,
+          "slug": "ultimate-plan",
           "premium": false,
           "selected_options": [
             {
