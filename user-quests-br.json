@@ -160,8 +160,8 @@
       "user_status": null,
       "targeted_content": [],
       "preview": false,
-      "traffic_metadata_raw": "EAE=",
-      "traffic_metadata_sealed": "EAE="
+      "traffic_metadata_raw": "EAI=",
+      "traffic_metadata_sealed": "EAI="
     },
     {
       "id": "1466549730191343881",
@@ -271,8 +271,8 @@
       "user_status": null,
       "targeted_content": [],
       "preview": false,
-      "traffic_metadata_raw": "EAE=",
-      "traffic_metadata_sealed": "EAE="
+      "traffic_metadata_raw": "EAI=",
+      "traffic_metadata_sealed": "EAI="
     },
     {
       "id": "1463241596832059402",
@@ -392,8 +392,8 @@
       "user_status": null,
       "targeted_content": [],
       "preview": false,
-      "traffic_metadata_raw": "EAE=",
-      "traffic_metadata_sealed": "EAE="
+      "traffic_metadata_raw": "EAI=",
+      "traffic_metadata_sealed": "EAI="
     },
     {
       "id": "1467940930215743757",
@@ -555,8 +555,8 @@
       "user_status": null,
       "targeted_content": [],
       "preview": false,
-      "traffic_metadata_raw": "EAE=",
-      "traffic_metadata_sealed": "EAE="
+      "traffic_metadata_raw": "EAI=",
+      "traffic_metadata_sealed": "EAI="
     },
     {
       "id": "1460389452135534733",
@@ -679,132 +679,8 @@
       "user_status": null,
       "targeted_content": [],
       "preview": false,
-      "traffic_metadata_raw": "EAE=",
-      "traffic_metadata_sealed": "EAE="
-    },
-    {
-      "id": "1451341117596504206",
-      "config": {
-        "id": "1451341117596504206",
-        "config_version": 2,
-        "starts_at": "2026-01-06T18:00:27+00:00",
-        "expires_at": "2026-01-14T00:00:27+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=VAL2026Act1",
-          "id": "700136079562375258",
-          "name": "VALORANT"
-        },
-        "assets": {
-          "hero": "quests/1451341117596504206/1451345254992056380.jpg",
-          "hero_video": "quests/1451341117596504206/1451345150843551846.mp4",
-          "quest_bar_hero_blurhash": null,
-          "quest_bar_hero": "quests/1451341117596504206/1451345087316627658.jpg",
-          "quest_bar_hero_video": "quests/1451341117596504206/1451345150843551846.mp4",
-          "game_tile": "1451345497527947315.png",
-          "logotype": "1451345496315662497.png",
-          "game_tile_light": "quests/1451341117596504206/1451345468385923246.png",
-          "game_tile_dark": "quests/1451341117596504206/1451345468385923246.png",
-          "logotype_light": "quests/1451341117596504206/1451345341814407341.png",
-          "logotype_dark": "quests/1451341117596504206/1451345414262489159.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Missão Alfa X Ômega",
-          "game_title": "VALORANT",
-          "game_publisher": "Riot Games"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "event_name": "PLAY_ON_DESKTOP",
-              "target": 900
-            },
-            "PLAY_ON_XBOX": {
-              "event_name": "PLAY_ON_XBOX",
-              "target": 900
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "event_name": "PLAY_ON_PLAYSTATION",
-              "target": 900
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "700136079562375258"
-                }
-              ]
-            },
-            "PLAY_ON_XBOX": {
-              "type": "PLAY_ON_XBOX",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "700136079562375258"
-                }
-              ]
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "700136079562375258"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 3,
-              "sku_id": "1451346843458994237",
-              "asset": "quests/1451341117596504206/1451347155704086714.mp4",
-              "asset_video": null,
-              "messages": {
-                "name": "Máscara da Viper",
-                "name_with_article": "Máscara da Viper",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "expires_at": "2026-03-13T23:00:00+00:00",
-              "expires_at_premium": null,
-              "expiration_mode": 3
-            }
-          ],
-          "rewards_expire_at": "2026-02-13T00:00:27+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=VAL2026Act1",
-          "button_label": "Jogar agora"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false,
-      "traffic_metadata_raw": "EAE=",
-      "traffic_metadata_sealed": "EAE="
+      "traffic_metadata_raw": "EAI=",
+      "traffic_metadata_sealed": "EAI="
     },
     {
       "id": "1466514253304565904",
@@ -911,8 +787,8 @@
       "user_status": null,
       "targeted_content": [],
       "preview": false,
-      "traffic_metadata_raw": "EAE=",
-      "traffic_metadata_sealed": "EAE="
+      "traffic_metadata_raw": "EAI=",
+      "traffic_metadata_sealed": "EAI="
     },
     {
       "id": "1459280298872406162",
@@ -1032,8 +908,8 @@
       "user_status": null,
       "targeted_content": [],
       "preview": false,
-      "traffic_metadata_raw": "EAE=",
-      "traffic_metadata_sealed": "EAE="
+      "traffic_metadata_raw": "EAI=",
+      "traffic_metadata_sealed": "EAI="
     },
     {
       "id": "1463326315695575060",
@@ -1143,8 +1019,8 @@
       "user_status": null,
       "targeted_content": [],
       "preview": false,
-      "traffic_metadata_raw": "EAE=",
-      "traffic_metadata_sealed": "EAE="
+      "traffic_metadata_raw": "EAI=",
+      "traffic_metadata_sealed": "EAI="
     },
     {
       "id": "1458528776060276757",
@@ -1306,8 +1182,8 @@
       "user_status": null,
       "targeted_content": [],
       "preview": false,
-      "traffic_metadata_raw": "EAE=",
-      "traffic_metadata_sealed": "EAE="
+      "traffic_metadata_raw": "EAI=",
+      "traffic_metadata_sealed": "EAI="
     },
     {
       "id": "1458153385391030302",
@@ -1469,8 +1345,8 @@
       "user_status": null,
       "targeted_content": [],
       "preview": false,
-      "traffic_metadata_raw": "EAE=",
-      "traffic_metadata_sealed": "EAE="
+      "traffic_metadata_raw": "EAI=",
+      "traffic_metadata_sealed": "EAI="
     },
     {
       "id": "1459236894347886623",
@@ -1564,8 +1440,8 @@
       "user_status": null,
       "targeted_content": [],
       "preview": false,
-      "traffic_metadata_raw": "EAE=",
-      "traffic_metadata_sealed": "EAE="
+      "traffic_metadata_raw": "EAI=",
+      "traffic_metadata_sealed": "EAI="
     },
     {
       "id": "1465809392279748904",
@@ -1659,8 +1535,8 @@
       "user_status": null,
       "targeted_content": [],
       "preview": false,
-      "traffic_metadata_raw": "EAE=",
-      "traffic_metadata_sealed": "EAE="
+      "traffic_metadata_raw": "EAI=",
+      "traffic_metadata_sealed": "EAI="
     },
     {
       "id": "1465755539534381229",
@@ -1767,8 +1643,8 @@
       "user_status": null,
       "targeted_content": [],
       "preview": false,
-      "traffic_metadata_raw": "EAE=",
-      "traffic_metadata_sealed": "EAE="
+      "traffic_metadata_raw": "EAI=",
+      "traffic_metadata_sealed": "EAI="
     },
     {
       "id": "1461811893827010745",
@@ -1862,8 +1738,8 @@
       "user_status": null,
       "targeted_content": [],
       "preview": false,
-      "traffic_metadata_raw": "EAE=",
-      "traffic_metadata_sealed": "EAE="
+      "traffic_metadata_raw": "EAI=",
+      "traffic_metadata_sealed": "EAI="
     },
     {
       "id": "1451658948250964028",
@@ -1986,8 +1862,8 @@
       "user_status": null,
       "targeted_content": [],
       "preview": false,
-      "traffic_metadata_raw": "EAE=",
-      "traffic_metadata_sealed": "EAE="
+      "traffic_metadata_raw": "EAI=",
+      "traffic_metadata_sealed": "EAI="
     },
     {
       "id": "1466166994582769725",
@@ -2107,8 +1983,8 @@
       "user_status": null,
       "targeted_content": [],
       "preview": false,
-      "traffic_metadata_raw": "EAE=",
-      "traffic_metadata_sealed": "EAE="
+      "traffic_metadata_raw": "EAI=",
+      "traffic_metadata_sealed": "EAI="
     },
     {
       "id": "1461152783888810047",
@@ -2215,103 +2091,8 @@
       "user_status": null,
       "targeted_content": [],
       "preview": false,
-      "traffic_metadata_raw": "EAE=",
-      "traffic_metadata_sealed": "EAE="
-    },
-    {
-      "id": "1465435141861277759",
-      "config": {
-        "id": "1465435141861277759",
-        "config_version": 2,
-        "starts_at": "2026-02-11T02:00:04+00:00",
-        "expires_at": "2026-02-17T00:00:04+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://vindictus-abr.na.nexon.com/6u9y51",
-          "id": "451541058497675294",
-          "name": "Vindictus"
-        },
-        "assets": {
-          "hero": "quests/1465435141861277759/1465437649434050590.jpg",
-          "hero_video": null,
-          "quest_bar_hero_blurhash": null,
-          "quest_bar_hero": "quests/1465435141861277759/1465437601040175320.jpg",
-          "quest_bar_hero_video": null,
-          "game_tile": "1465437996940656834.png",
-          "logotype": "1465731131939754219.png",
-          "game_tile_light": "quests/1465435141861277759/1465437754518409369.png",
-          "game_tile_dark": "quests/1465435141861277759/1465437754518409369.png",
-          "logotype_light": "quests/1465435141861277759/1465731106254094376.png",
-          "logotype_dark": "quests/1465435141861277759/1465731106254094376.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Vindictus Play",
-          "game_title": "Vindictus",
-          "game_publisher": "Nexon"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "event_name": "PLAY_ON_DESKTOP",
-              "target": 900
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "451541058497675294"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700,
-              "premium_orb_quantity": 0
-            }
-          ],
-          "rewards_expire_at": "2026-03-19T00:00:04+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://vindictus-abr.na.nexon.com/6u9y51",
-          "button_label": "Jogar"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false,
-      "traffic_metadata_raw": "EAE=",
-      "traffic_metadata_sealed": "EAE="
+      "traffic_metadata_raw": "EAI=",
+      "traffic_metadata_sealed": "EAI="
     },
     {
       "id": "1461494895163478208",
@@ -2478,8 +2259,103 @@
       "user_status": null,
       "targeted_content": [],
       "preview": false,
-      "traffic_metadata_raw": "EAE=",
-      "traffic_metadata_sealed": "EAE="
+      "traffic_metadata_raw": "EAI=",
+      "traffic_metadata_sealed": "EAI="
+    },
+    {
+      "id": "1465435141861277759",
+      "config": {
+        "id": "1465435141861277759",
+        "config_version": 2,
+        "starts_at": "2026-02-11T02:00:04+00:00",
+        "expires_at": "2026-02-17T00:00:04+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://vindictus-abr.na.nexon.com/6u9y51",
+          "id": "451541058497675294",
+          "name": "Vindictus"
+        },
+        "assets": {
+          "hero": "quests/1465435141861277759/1465437649434050590.jpg",
+          "hero_video": null,
+          "quest_bar_hero_blurhash": null,
+          "quest_bar_hero": "quests/1465435141861277759/1465437601040175320.jpg",
+          "quest_bar_hero_video": null,
+          "game_tile": "1465437996940656834.png",
+          "logotype": "1465731131939754219.png",
+          "game_tile_light": "quests/1465435141861277759/1465437754518409369.png",
+          "game_tile_dark": "quests/1465435141861277759/1465437754518409369.png",
+          "logotype_light": "quests/1465435141861277759/1465731106254094376.png",
+          "logotype_dark": "quests/1465435141861277759/1465731106254094376.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Vindictus Play",
+          "game_title": "Vindictus",
+          "game_publisher": "Nexon"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "event_name": "PLAY_ON_DESKTOP",
+              "target": 900
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "451541058497675294"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": 0
+            }
+          ],
+          "rewards_expire_at": "2026-03-19T00:00:04+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://vindictus-abr.na.nexon.com/6u9y51",
+          "button_label": "Jogar"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false,
+      "traffic_metadata_raw": "EAI=",
+      "traffic_metadata_sealed": "EAI="
     },
     {
       "id": "1458584786997350472",
@@ -2573,8 +2449,8 @@
       "user_status": null,
       "targeted_content": [],
       "preview": false,
-      "traffic_metadata_raw": "EAE=",
-      "traffic_metadata_sealed": "EAE="
+      "traffic_metadata_raw": "EAI=",
+      "traffic_metadata_sealed": "EAI="
     },
     {
       "id": "1468682555959283803",
@@ -2737,8 +2613,8 @@
       "user_status": null,
       "targeted_content": [],
       "preview": false,
-      "traffic_metadata_raw": "EAE=",
-      "traffic_metadata_sealed": "EAE="
+      "traffic_metadata_raw": "EAI=",
+      "traffic_metadata_sealed": "EAI="
     },
     {
       "id": "1458595355766558813",
@@ -2900,8 +2776,8 @@
       "user_status": null,
       "targeted_content": [],
       "preview": false,
-      "traffic_metadata_raw": "EAE=",
-      "traffic_metadata_sealed": "EAE="
+      "traffic_metadata_raw": "EAI=",
+      "traffic_metadata_sealed": "EAI="
     },
     {
       "id": "1459263468677894241",
@@ -3008,8 +2884,8 @@
       "user_status": null,
       "targeted_content": [],
       "preview": false,
-      "traffic_metadata_raw": "EAE=",
-      "traffic_metadata_sealed": "EAE="
+      "traffic_metadata_raw": "EAI=",
+      "traffic_metadata_sealed": "EAI="
     },
     {
       "id": "1468651135253483745",
@@ -3116,8 +2992,8 @@
       "user_status": null,
       "targeted_content": [],
       "preview": false,
-      "traffic_metadata_raw": "EAE=",
-      "traffic_metadata_sealed": "EAE="
+      "traffic_metadata_raw": "EAI=",
+      "traffic_metadata_sealed": "EAI="
     },
     {
       "id": "1461427517775675493",
@@ -3287,171 +3163,8 @@
       "user_status": null,
       "targeted_content": [],
       "preview": false,
-      "traffic_metadata_raw": "EAE=",
-      "traffic_metadata_sealed": "EAE="
-    },
-    {
-      "id": "1451343254820753513",
-      "config": {
-        "id": "1451343254820753513",
-        "config_version": 2,
-        "starts_at": "2026-01-06T18:00:56+00:00",
-        "expires_at": "2026-01-14T00:00:56+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=VALWWFBQuest",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1451343254820753513/1451376274315542558.jpg",
-          "hero_video": "quests/1451343254820753513/1451724273193451600.mp4",
-          "quest_bar_hero_blurhash": null,
-          "quest_bar_hero": "quests/1451343254820753513/1451376512887427144.jpg",
-          "quest_bar_hero_video": "quests/1451343254820753513/1451724273193451600.mp4",
-          "game_tile": "1451385229972345074.png",
-          "logotype": "1451385163656466604.png",
-          "game_tile_light": "quests/1451343254820753513/1451385197932052554.png",
-          "game_tile_dark": "quests/1451343254820753513/1451385197932052554.png",
-          "logotype_light": "quests/1451343254820753513/1451384900874928179.png",
-          "logotype_dark": "quests/1451343254820753513/1451384859393003642.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Por que resistimos",
-          "game_title": "VALORANT",
-          "game_publisher": "Riot Games"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "WATCH_VIDEO": {
-              "event_name": "WATCH_VIDEO",
-              "target": 208
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "event_name": "WATCH_VIDEO_ON_MOBILE",
-              "target": 208
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 208,
-              "assets": {
-                "video": {
-                  "url": "quests/1451343254820753513/1451385813328728114_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1451343254820753513/1451386559545868392.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1451343254820753513/1451385813328728114_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1451343254820753513/1451386559545868392.png"
-                },
-                "video_hls": {
-                  "url": "quests/1451343254820753513/1451385813328728114.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1451343254820753513/1451386559545868392.png"
-                }
-              },
-              "messages": {
-                "video_title": "Animação Por que resistimos"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 208,
-              "assets": {
-                "video": {
-                  "url": "quests/1451343254820753513/1451385813328728114_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1451343254820753513/1451386559545868392.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1451343254820753513/1451385813328728114_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1451343254820753513/1451386559545868392.png"
-                },
-                "video_hls": {
-                  "url": "quests/1451343254820753513/1451385813328728114.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1451343254820753513/1451386559545868392.png"
-                }
-              },
-              "messages": {
-                "video_title": "Animação Por que resistimos"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700,
-              "premium_orb_quantity": 0
-            }
-          ],
-          "rewards_expire_at": "2026-02-13T00:00:56+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "video_metadata": {
-          "messages": {
-            "video_title": "Animação Por que resistimos",
-            "video_end_cta_subtitle": "Entre na luta pela sua realidade",
-            "video_end_cta_button_label": "Jogar agora"
-          },
-          "assets": {
-            "video_player_video_hls": "quests/1451343254820753513/1451385813328728114.m3u8",
-            "video_player_video": "quests/1451343254820753513/1451385813328728114_1080.mp4",
-            "video_player_thumbnail": "quests/1451343254820753513/1451386559545868392.png",
-            "video_player_video_low_res": "quests/1451343254820753513/1451385813328728114_720.mp4",
-            "video_player_caption": null,
-            "video_player_transcript": null,
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=VALWWFBQuest",
-          "button_label": "Jogar agora",
-          "subtitle": "Entre na luta pela sua realidade"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false,
-      "traffic_metadata_raw": "EAE=",
-      "traffic_metadata_sealed": "EAE="
+      "traffic_metadata_raw": "EAI=",
+      "traffic_metadata_sealed": "EAI="
     },
     {
       "id": "1458872372676399337",
@@ -3615,8 +3328,8 @@
       "user_status": null,
       "targeted_content": [],
       "preview": false,
-      "traffic_metadata_raw": "EAE=",
-      "traffic_metadata_sealed": "EAE="
+      "traffic_metadata_raw": "EAI=",
+      "traffic_metadata_sealed": "EAI="
     },
     {
       "id": "1458205193442431214",
@@ -3713,8 +3426,8 @@
       "user_status": null,
       "targeted_content": [],
       "preview": false,
-      "traffic_metadata_raw": "EAE=",
-      "traffic_metadata_sealed": "EAE="
+      "traffic_metadata_raw": "EAI=",
+      "traffic_metadata_sealed": "EAI="
     },
     {
       "id": "1460339320714952945",
@@ -3881,8 +3594,8 @@
       "user_status": null,
       "targeted_content": [],
       "preview": false,
-      "traffic_metadata_raw": "EAE=",
-      "traffic_metadata_sealed": "EAE="
+      "traffic_metadata_raw": "EAI=",
+      "traffic_metadata_sealed": "EAI="
     },
     {
       "id": "1466210683581497465",
@@ -3978,8 +3691,8 @@
       "user_status": null,
       "targeted_content": [],
       "preview": false,
-      "traffic_metadata_raw": "EAE=",
-      "traffic_metadata_sealed": "EAE="
+      "traffic_metadata_raw": "EAI=",
+      "traffic_metadata_sealed": "EAI="
     },
     {
       "id": "1457884772897390715",
@@ -4073,8 +3786,8 @@
       "user_status": null,
       "targeted_content": [],
       "preview": false,
-      "traffic_metadata_raw": "EAE=",
-      "traffic_metadata_sealed": "EAE="
+      "traffic_metadata_raw": "EAI=",
+      "traffic_metadata_sealed": "EAI="
     }
   ],
   "excluded_quests": [
