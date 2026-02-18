@@ -1916,6 +1916,169 @@
       "traffic_metadata_sealed": "EAE="
     },
     {
+      "id": "1473375367715750081",
+      "config": {
+        "id": "1473375367715750081",
+        "config_version": 2,
+        "starts_at": "2026-02-18T18:00:41+00:00",
+        "expires_at": "2026-02-25T00:00:41+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.stvatu.com/?utm_source=Discord&utm_medium=paid&utm_campaign=Launch&utm_content=quest",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1473375367715750081/1473376450542305364.jpg",
+          "hero_video": "quests/1473375367715750081/1473376405545812041.mp4",
+          "quest_bar_hero_blurhash": "iucFBIICbYcnlmmkSoWL9TS3Lw==",
+          "quest_bar_hero": "quests/1473375367715750081/1473376349241475102.jpg",
+          "quest_bar_hero_video": "quests/1473375367715750081/1473376405545812041.mp4",
+          "game_tile": "1473376794660049050.png",
+          "logotype": "1473376793586041177.png",
+          "game_tile_light": "quests/1473375367715750081/1473376630008184985.png",
+          "game_tile_dark": "quests/1473375367715750081/1473376630008184985.png",
+          "logotype_light": "quests/1473375367715750081/1473376529512661168.png",
+          "logotype_dark": "quests/1473375367715750081/1473376579966205953.png"
+        },
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Star Trek: Voyager - Across the Unknown",
+          "game_title": "Star Trek: Voyager - Across the Unknown",
+          "game_publisher": "Daedalic Entertainment"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "WATCH_VIDEO": {
+              "event_name": "WATCH_VIDEO",
+              "target": 90
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "event_name": "WATCH_VIDEO_ON_MOBILE",
+              "target": 90
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 90,
+              "assets": {
+                "video": {
+                  "url": "quests/1473375367715750081/1473377067147071630_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1473375367715750081/1473379044094382142.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1473375367715750081/1473377067147071630_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1473375367715750081/1473379044094382142.png"
+                },
+                "video_hls": {
+                  "url": "quests/1473375367715750081/1473377067147071630.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1473375367715750081/1473379044094382142.png"
+                }
+              },
+              "messages": {
+                "video_title": "The Bridge Is Yours, Captain"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 90,
+              "assets": {
+                "video": {
+                  "url": "quests/1473375367715750081/1473377067147071630_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1473375367715750081/1473379044094382142.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1473375367715750081/1473377067147071630_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1473375367715750081/1473379044094382142.png"
+                },
+                "video_hls": {
+                  "url": "quests/1473375367715750081/1473377067147071630.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1473375367715750081/1473379044094382142.png"
+                }
+              },
+              "messages": {
+                "video_title": "The Bridge Is Yours, Captain"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": 0
+            }
+          ],
+          "rewards_expire_at": "2026-03-27T00:00:41+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "video_metadata": {
+          "messages": {
+            "video_title": "The Bridge Is Yours, Captain",
+            "video_end_cta_subtitle": "Available on PC, PS5, Xbox X|S, and Nintendo Switch 2",
+            "video_end_cta_button_label": "Obtenir le jeu"
+          },
+          "assets": {
+            "video_player_video_hls": "quests/1473375367715750081/1473377067147071630.m3u8",
+            "video_player_video": "quests/1473375367715750081/1473377067147071630_1080.mp4",
+            "video_player_thumbnail": "quests/1473375367715750081/1473379044094382142.png",
+            "video_player_video_low_res": "quests/1473375367715750081/1473377067147071630_720.mp4",
+            "video_player_caption": null,
+            "video_player_transcript": null,
+            "quest_bar_preview_video": null,
+            "quest_bar_preview_thumbnail": null,
+            "quest_home_video": null
+          }
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.stvatu.com/?utm_source=Discord&utm_medium=paid&utm_campaign=Launch&utm_content=quest",
+          "button_label": "Obtenir le jeu",
+          "subtitle": "Available on PC, PS5, Xbox X|S, and Nintendo Switch 2"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false,
+      "traffic_metadata_raw": "EAE=",
+      "traffic_metadata_sealed": "EAE="
+    },
+    {
       "id": "1458584786997350472",
       "config": {
         "id": "1458584786997350472",
