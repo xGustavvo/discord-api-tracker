@@ -385,24 +385,6 @@
             0
           ]
         },
-        "video_metadata": {
-          "messages": {
-            "video_title": "Scarlet Trailer",
-            "video_end_cta_subtitle": "From Director Mamoru Hosoda, Now Playing in Theaters",
-            "video_end_cta_button_label": "Obtenir des tickets"
-          },
-          "assets": {
-            "video_player_video_hls": "quests/1470834003434017026/1470929866768777257.m3u8",
-            "video_player_video": "quests/1470834003434017026/1470929866768777257_1080.mp4",
-            "video_player_thumbnail": "quests/1470834003434017026/1470929938747101327.png",
-            "video_player_video_low_res": "quests/1470834003434017026/1470929866768777257_720.mp4",
-            "video_player_caption": null,
-            "video_player_transcript": null,
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
-        },
         "share_policy": "shareable_everywhere",
         "cta_config": {
           "link": "https://scarlet.movie/",
@@ -1244,24 +1226,6 @@
             0
           ]
         },
-        "video_metadata": {
-          "messages": {
-            "video_title": "Star Trek: Starfleet Academy Exclusive Clip",
-            "video_end_cta_subtitle": "Catch a new episode every Thursday on Paramount+!",
-            "video_end_cta_button_label": "Regarder"
-          },
-          "assets": {
-            "video_player_video_hls": "quests/1458528776060276757/1458530441773584404.m3u8",
-            "video_player_video": "quests/1458528776060276757/1458530441773584404_1080.mp4",
-            "video_player_thumbnail": "quests/1458528776060276757/1458532555564384461.jpg",
-            "video_player_video_low_res": "quests/1458528776060276757/1458530441773584404_720.mp4",
-            "video_player_caption": null,
-            "video_player_transcript": null,
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
-        },
         "share_policy": "shareable_everywhere",
         "cta_config": {
           "link": "https://www.paramountplus.com/shows/star-trek-starfleet-academy/",
@@ -2029,24 +1993,6 @@
             0
           ]
         },
-        "video_metadata": {
-          "messages": {
-            "video_title": "The Bridge Is Yours, Captain",
-            "video_end_cta_subtitle": "Available on PC, PS5, Xbox X|S, and Nintendo Switch 2",
-            "video_end_cta_button_label": "Obtenir le jeu"
-          },
-          "assets": {
-            "video_player_video_hls": "quests/1473375367715750081/1473377067147071630.m3u8",
-            "video_player_video": "quests/1473375367715750081/1473377067147071630_1080.mp4",
-            "video_player_thumbnail": "quests/1473375367715750081/1473379044094382142.png",
-            "video_player_video_low_res": "quests/1473375367715750081/1473377067147071630_720.mp4",
-            "video_player_caption": null,
-            "video_player_transcript": null,
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
-        },
         "share_policy": "shareable_everywhere",
         "cta_config": {
           "link": "https://www.stvatu.com/?utm_source=Discord&utm_medium=paid&utm_campaign=Launch&utm_content=quest",
@@ -2387,23 +2333,6 @@
             0
           ]
         },
-        "video_metadata": {
-          "messages": {
-            "video_title": "Highguard Episode 2 Trailer",
-            "video_end_cta_button_label": "En savoir plus"
-          },
-          "assets": {
-            "video_player_video_hls": "quests/1468682555959283803/1469416120996991080.m3u8",
-            "video_player_video": "quests/1468682555959283803/1469416120996991080_1080.mp4",
-            "video_player_thumbnail": "quests/1468682555959283803/1469417085913530522.jpg",
-            "video_player_video_low_res": "quests/1468682555959283803/1469416120996991080_720.mp4",
-            "video_player_caption": null,
-            "video_player_transcript": null,
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
-        },
         "share_policy": "shareable_everywhere",
         "cta_config": {
           "link": "https://playhighguard.com/",
@@ -2681,8 +2610,10 @@
       "id": "1471589719186870377"
     },
     {
-      "id": "1463353755616673915",
-      "replacement_id": "1463326315695575060"
+      "id": "1469018683555840299"
+    },
+    {
+      "id": "1457884772897390715"
     },
     {
       "id": "1460339320714952945"
@@ -2692,7 +2623,8 @@
       "replacement_id": "1466214442424467667"
     },
     {
-      "id": "1457884772897390715"
+      "id": "1463353755616673915",
+      "replacement_id": "1463326315695575060"
     },
     {
       "id": "1465435141861277759"
