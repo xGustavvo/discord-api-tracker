@@ -2047,24 +2047,6 @@
             0
           ]
         },
-        "video_metadata": {
-          "messages": {
-            "video_title": "The Bridge Is Yours, Captain",
-            "video_end_cta_subtitle": "Available on PC, PS5, Xbox X|S, and Nintendo Switch 2",
-            "video_end_cta_button_label": "Get Game"
-          },
-          "assets": {
-            "video_player_video_hls": "quests/1473375367715750081/1473377067147071630.m3u8",
-            "video_player_video": "quests/1473375367715750081/1473377067147071630_1080.mp4",
-            "video_player_thumbnail": "quests/1473375367715750081/1473379044094382142.png",
-            "video_player_video_low_res": "quests/1473375367715750081/1473377067147071630_720.mp4",
-            "video_player_caption": null,
-            "video_player_transcript": null,
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
-        },
         "share_policy": "shareable_everywhere",
         "cta_config": {
           "link": "https://www.stvatu.com/?utm_source=Discord&utm_medium=paid&utm_campaign=Launch&utm_content=quest",

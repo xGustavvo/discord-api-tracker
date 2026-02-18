@@ -130263,5 +130263,2971 @@
     "mobile_hero_url": "https://cdn.discordapp.com/assets/content/b222c3e9f417ed955fb8e48087dac5b381e802355ed0d3db7a6997e01d5f1e7b",
     "mobile_banner_url": "https://cdn.discordapp.com/assets/content/8b87b8a221bf4f1a38adacd647e66a1e61cab8584c0f27d9bfd62c22c5abcadf",
     "mobile_bg_url": "https://cdn.discordapp.com/assets/content/77bcf0ac5ed4d77f3f4c5a26605411f31cece4aecb9d13793d7b2f226e144c89"
+  },
+  {
+    "sku_id": "1466889339966587046",
+    "name": "Flux",
+    "summary": " ",
+    "store_listing_id": "1466889339966587046",
+    "styles": {
+      "background_colors": [
+        131915,
+        461368
+      ],
+      "button_colors": [
+        5793266,
+        5793266
+      ],
+      "confetti_colors": [
+        43772,
+        15774258,
+        16414587,
+        3000177,
+        9739511
+      ]
+    },
+    "hero_ranking": [
+      "1468089974980219036",
+      "1468089594644791380",
+      "1468089794251853825",
+      "1466993897333985333",
+      "1466993897333985331",
+      "1466993897333985337",
+      "1466993897333985334",
+      "1466993897333985335",
+      "1466993897333985332",
+      "1466993897333985336",
+      "1466990610429772004",
+      "1466990610429772003",
+      "1466990610429772002",
+      "1466991494467555392",
+      "1466991494467555391",
+      "1466991494467555390",
+      "1466978489608441993",
+      "1466978489608441991",
+      "1466978489608441990",
+      "1466978489608441994",
+      "1466978489608441995",
+      "1466978489608441992",
+      "1466978489608441996",
+      "1466975928587653174",
+      "1466975928587653173",
+      "1466975928587653172",
+      "1466977017915379894",
+      "1466977017915379893",
+      "1466977017915379892"
+    ],
+    "products": [
+      {
+        "sku_id": "1468089974980219036",
+        "name": "Neon Glow Bundle",
+        "summary": "{joinedItems}",
+        "styles": {
+          "background_colors": [
+            131915,
+            461368
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 1099,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 7600,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 899,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 7600,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": 1,
+            "sku_id": "1466993897333985333",
+            "asset": "a_19b258f0d1bf320f024aa7f52d45d294",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1466991927105949910/static",
+              "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1466991927105949910/animated"
+            },
+            "label": "Pink solid ring pulsing and glowing gently."
+          },
+          {
+            "type": 1,
+            "id": 1,
+            "sku_id": "1466978489608441993",
+            "title": "Neon Glow (Kunzite)",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Pink glowing border building from center, pulsing gently around profile.",
+            "animationType": 1,
+            "staticFrameSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/d177c634bf82dca76e96ea9bf7777b6e4721a0d19f19637bfb5c6a4eee69c9c3",
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/ff3611f297eccfc64a0dfd237e5735a8f934902f394b3102f46ec7898baf14a1",
+            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/0a76ae3d973ae2c69e8834206c3961cebe067690b25fef09c947ed5323d6d0e8",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/8988f03d57f6fa8ef8e3230c425cff1fa2896b34b007d92cc7db4fafea93d2fd",
+                "loop": false,
+                "duration": 2000,
+                "start": 0,
+                "loopDelay": 0,
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/56725315f7671bf0f5a2ecbd34a61fd5f60510252d44e43fca70f51c3fd8acd0",
+                "loop": true,
+                "duration": 5000,
+                "start": 2000,
+                "loopDelay": 0,
+                "zIndex": 101,
+                "randomizedSources": []
+              }
+            ]
+          }
+        ],
+        "type": 1000,
+        "premium_type": 0,
+        "category_sku_id": "1466889339966587046",
+        "bundled_products": [
+          {
+            "sku_id": "1466993897333985333",
+            "name": "Neon Glow (Kunzite)",
+            "summary": "Give your avatar a new look.",
+            "type": 0,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 499,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "sku_id": "1466978489608441993",
+            "name": "Neon Glow (Kunzite)",
+            "summary": "Show this effect when others view your profile.",
+            "type": 1,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 499,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ],
+        "google_sku_ids": {
+          "5": "1468089974980219036_1469428326853509232",
+          "7": "1468089974980219036_1469428338463346760"
+        }
+      },
+      {
+        "sku_id": "1468089594644791380",
+        "name": "Drifting Glow Bundle",
+        "summary": "{joinedItems}",
+        "styles": {
+          "background_colors": [
+            131915,
+            461368
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 1099,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 7600,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 899,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 7600,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": 1,
+            "sku_id": "1466990610429772004",
+            "asset": "a_9e48937d08b835051cdbd8f7455279d7",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1466990429055615096/static",
+              "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1466990429055615096/animated"
+            },
+            "label": "Blue and pink gradient glow spinning slowly around."
+          },
+          {
+            "type": 1,
+            "id": 1,
+            "sku_id": "1466975928587653174",
+            "title": "Drifting Glow (Twilight)",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Blue and pink gradient glow border spinning slowly around profile.",
+            "animationType": 1,
+            "staticFrameSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/9e91d844521ef2f13d89b5672e9cd3b6aae4beb2795f7f15e21c7fe4c23ca4d4",
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/4493d8c327c3810c8d7e7f22a776b197e35e7f78d0539e435875bb15745240c8",
+            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/9e91d844521ef2f13d89b5672e9cd3b6aae4beb2795f7f15e21c7fe4c23ca4d4",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/83545ad083908e7a85caa20e66f1c789050e9b67f28076cb74e309879cfccc66",
+                "loop": false,
+                "duration": 1992,
+                "start": 0,
+                "loopDelay": 0,
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/6daded37761f3b4b25d14e1ce1c24d4628d2cc9469aace827e71ff86313f7273",
+                "loop": true,
+                "duration": 4980,
+                "start": 1992,
+                "loopDelay": 0,
+                "zIndex": 101,
+                "randomizedSources": []
+              }
+            ]
+          }
+        ],
+        "type": 1000,
+        "premium_type": 0,
+        "category_sku_id": "1466889339966587046",
+        "bundled_products": [
+          {
+            "sku_id": "1466990610429772004",
+            "name": "Drifting Glow (Twilight)",
+            "summary": "Give your avatar a new look.",
+            "type": 0,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 499,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "sku_id": "1466975928587653174",
+            "name": "Drifting Glow (Twilight)",
+            "summary": "Show this effect when others view your profile.",
+            "type": 1,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 499,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ],
+        "google_sku_ids": {
+          "5": "1468089594644791380_1469428860788408485",
+          "7": "1468089594644791380_1469428879197212965"
+        }
+      },
+      {
+        "sku_id": "1468089794251853825",
+        "name": "Electric Aura Bundle",
+        "summary": "{joinedItems}",
+        "styles": {
+          "background_colors": [
+            131915,
+            461368
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 1099,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 7600,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 899,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 7600,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": 1,
+            "sku_id": "1466991494467555392",
+            "asset": "a_95ba9ea95b05884a963c7a0a5f23c806",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1466991149292982377/static",
+              "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1466991149292982377/animated"
+            },
+            "label": "Purple electric energy crackling with sparks in a ring."
+          },
+          {
+            "type": 1,
+            "id": 1,
+            "sku_id": "1466977017915379894",
+            "title": "Electric Aura (Thistle)",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Purple electric energy border building from center, coursing down sides with static and sparks.",
+            "animationType": 1,
+            "staticFrameSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/020ad2245e13176b164a5e87ebe1aeef8a33b82889772efb5be7cc3ba9906cc7",
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/72d78e6e45eebf66bd7a51bd970459ba5acbb1b065a6e0606d8050b6b80ff1bf",
+            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/72d78e6e45eebf66bd7a51bd970459ba5acbb1b065a6e0606d8050b6b80ff1bf",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/bc1c58dff85e8dcac62a2de3c2fdceff0d6339d49c8e08bb997e94e27274d3da",
+                "loop": false,
+                "duration": 3000,
+                "start": 0,
+                "loopDelay": 0,
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/bd59286fe6c163ee3dc6e536feadd67456dccbfd9f1bb8932423c892a5d6a4ce",
+                "loop": true,
+                "duration": 5000,
+                "start": 3000,
+                "loopDelay": 0,
+                "zIndex": 101,
+                "randomizedSources": []
+              }
+            ]
+          }
+        ],
+        "type": 1000,
+        "premium_type": 0,
+        "category_sku_id": "1466889339966587046",
+        "bundled_products": [
+          {
+            "sku_id": "1466991494467555392",
+            "name": "Electric Aura (Thistle)",
+            "summary": "Give your avatar a new look.",
+            "type": 0,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 499,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "sku_id": "1466977017915379894",
+            "name": "Electric Aura (Thistle)",
+            "summary": "Show this effect when others view your profile.",
+            "type": 1,
+            "premium_type": 0,
+            "prices": {
+              "0": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 599,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              },
+              "4": {
+                "country_prices": {
+                  "country_code": "US",
+                  "prices": [
+                    {
+                      "amount": 499,
+                      "currency": "usd",
+                      "exponent": 2
+                    },
+                    {
+                      "amount": 4100,
+                      "currency": "discord_orb",
+                      "exponent": 0
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ],
+        "google_sku_ids": {
+          "5": "1468089794251853825_1469428803964109025",
+          "7": "1468089794251853825_1469428830862311587"
+        }
+      },
+      {
+        "sku_id": "1466993897333985333",
+        "name": "Neon Glow (Kunzite)",
+        "summary": "Give your avatar a new look.",
+        "styles": {
+          "background_colors": [
+            131915,
+            461368
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": 1,
+            "sku_id": "1466993897333985333",
+            "asset": "a_19b258f0d1bf320f024aa7f52d45d294",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1466991927105949910/static",
+              "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1466991927105949910/animated"
+            },
+            "label": "Pink solid ring pulsing and glowing gently."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1466889339966587046",
+        "google_sku_ids": {
+          "5": "1466993897333985333_1469428810586914859",
+          "7": "1466993897333985333_1469428845206700093"
+        }
+      },
+      {
+        "sku_id": "1466993897333985331",
+        "name": "Neon Glow (Aquamarine)",
+        "summary": "Give your avatar a new look.",
+        "styles": {
+          "background_colors": [
+            131915,
+            461368
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": 1,
+            "sku_id": "1466993897333985331",
+            "asset": "a_0bc6bde0df6b79ffa0dd1578803159c4",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1466991512972689489/static",
+              "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1466991512972689489/animated"
+            },
+            "label": "Turquoise solid ring pulsing and glowing gently."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1466889339966587046",
+        "google_sku_ids": {
+          "5": "1466993897333985331_1469428812260315270",
+          "7": "1466993897333985331_1469428852140015626"
+        }
+      },
+      {
+        "sku_id": "1466993897333985337",
+        "name": "Neon Glow (Amethyst)",
+        "summary": "Give your avatar a new look.",
+        "styles": {
+          "background_colors": [
+            131915,
+            461368
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": 1,
+            "sku_id": "1466993897333985337",
+            "asset": "a_820da11285b1a68ad94c18fd9dcf8ca8",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1466992412395175946/static",
+              "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1466992412395175946/animated"
+            },
+            "label": "Purple solid ring pulsing and glowing gently."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1466889339966587046",
+        "google_sku_ids": {
+          "5": "1466993897333985337_1469428811140432094",
+          "7": "1466993897333985337_1469428845206700095"
+        }
+      },
+      {
+        "sku_id": "1466993897333985334",
+        "name": "Neon Glow (Peridot)",
+        "summary": "Give your avatar a new look.",
+        "styles": {
+          "background_colors": [
+            131915,
+            461368
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": 1,
+            "sku_id": "1466993897333985334",
+            "asset": "a_d05a68eb98e2f78bfcd1fabec38c18ee",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1466992023021293598/static",
+              "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1466992023021293598/animated"
+            },
+            "label": "Yellow-green solid ring pulsing and glowing gently."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1466889339966587046",
+        "google_sku_ids": {
+          "5": "1466993897333985334_1469428854597615720",
+          "7": "1466993897333985334_1469428875179196532"
+        }
+      },
+      {
+        "sku_id": "1466993897333985335",
+        "name": "Neon Glow (Ruby)",
+        "summary": "Give your avatar a new look.",
+        "styles": {
+          "background_colors": [
+            131915,
+            461368
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": 1,
+            "sku_id": "1466993897333985335",
+            "asset": "a_1715112ad6ccb34404e7987e0494acdf",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1466992110409486378/static",
+              "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1466992110409486378/animated"
+            },
+            "label": "Red solid ring pulsing and glowing gently."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1466889339966587046",
+        "google_sku_ids": {
+          "5": "1466993897333985335_1469428856824922183",
+          "7": "1466993897333985335_1469428876466720808"
+        }
+      },
+      {
+        "sku_id": "1466993897333985332",
+        "name": "Neon Glow (Emerald)",
+        "summary": "Give your avatar a new look.",
+        "styles": {
+          "background_colors": [
+            131915,
+            461368
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": 1,
+            "sku_id": "1466993897333985332",
+            "asset": "a_12cdb182ffdf0c41d5dcaaa16bd12ac3",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1466991832067080203/static",
+              "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1466991832067080203/animated"
+            },
+            "label": "Green solid ring pulsing and glowing gently."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1466889339966587046",
+        "google_sku_ids": {
+          "5": "1466993897333985332_1469428858057916528",
+          "7": "1466993897333985332_1469428875179196528"
+        }
+      },
+      {
+        "sku_id": "1466993897333985336",
+        "name": "Neon Glow (Sapphire)",
+        "summary": "Give your avatar a new look.",
+        "styles": {
+          "background_colors": [
+            131915,
+            461368
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": 1,
+            "sku_id": "1466993897333985336",
+            "asset": "a_53fd369e6fe06fbfbdc50c2ae88ba6b4",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1466992230110724309/static",
+              "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1466992230110724309/animated"
+            },
+            "label": "Blue solid ring pulsing and glowing gently."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1466889339966587046",
+        "google_sku_ids": {
+          "5": "1466993897333985336_1469428860054536232",
+          "7": "1466993897333985336_1469428879197212966"
+        }
+      },
+      {
+        "sku_id": "1466990610429772004",
+        "name": "Drifting Glow (Twilight)",
+        "summary": "Give your avatar a new look.",
+        "styles": {
+          "background_colors": [
+            131915,
+            461368
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": 1,
+            "sku_id": "1466990610429772004",
+            "asset": "a_9e48937d08b835051cdbd8f7455279d7",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1466990429055615096/static",
+              "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1466990429055615096/animated"
+            },
+            "label": "Blue and pink gradient glow spinning slowly around."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1466889339966587046",
+        "google_sku_ids": {
+          "5": "1466990610429772004_1469428802009432076",
+          "7": "1466990610429772004_1469428829578723393"
+        }
+      },
+      {
+        "sku_id": "1466990610429772003",
+        "name": "Drifting Glow (Sunset)",
+        "summary": "Give your avatar a new look.",
+        "styles": {
+          "background_colors": [
+            131915,
+            461368
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": 1,
+            "sku_id": "1466990610429772003",
+            "asset": "a_205011b1e9e1b3538f8cc7c6ccba61b3",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1466990313527709970/static",
+              "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1466990313527709970/animated"
+            },
+            "label": "Orange and pink gradient glow spinning slowly around."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1466889339966587046",
+        "google_sku_ids": {
+          "5": "1466990610429772003_1469428802009432082",
+          "7": "1466990610429772003_1469428835802939413"
+        }
+      },
+      {
+        "sku_id": "1466990610429772002",
+        "name": "Drifting Glow (Radioactive)",
+        "summary": "Give your avatar a new look.",
+        "styles": {
+          "background_colors": [
+            131915,
+            461368
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": 1,
+            "sku_id": "1466990610429772002",
+            "asset": "a_1583ef8a75264f55cdb6de7f1a8bea4d",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1466989997323452630/static",
+              "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1466989997323452630/animated"
+            },
+            "label": "Green gradient glow spinning slowly around."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1466889339966587046",
+        "google_sku_ids": {
+          "5": "1466990610429772002_1469428803662119188",
+          "7": "1466990610429772002_1469428832342642820"
+        }
+      },
+      {
+        "sku_id": "1466991494467555392",
+        "name": "Electric Aura (Thistle)",
+        "summary": "Give your avatar a new look.",
+        "styles": {
+          "background_colors": [
+            131915,
+            461368
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": 1,
+            "sku_id": "1466991494467555392",
+            "asset": "a_95ba9ea95b05884a963c7a0a5f23c806",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1466991149292982377/static",
+              "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1466991149292982377/animated"
+            },
+            "label": "Purple electric energy crackling with sparks in a ring."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1466889339966587046",
+        "google_sku_ids": {
+          "5": "1466991494467555392_1469428802009432078",
+          "7": "1466991494467555392_1469428828492271690"
+        }
+      },
+      {
+        "sku_id": "1466991494467555391",
+        "name": "Electric Aura (Quartz)",
+        "summary": "Give your avatar a new look.",
+        "styles": {
+          "background_colors": [
+            131915,
+            461368
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": 1,
+            "sku_id": "1466991494467555391",
+            "asset": "a_6f272deccc1cdebfb82a032a80af5564",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1466991036298563608/static",
+              "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1466991036298563608/animated"
+            },
+            "label": "Pink electric energy crackling with sparks in a ring."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1466889339966587046",
+        "google_sku_ids": {
+          "5": "1466991494467555391_1469428801128759349",
+          "7": "1466991494467555391_1469428828492271689"
+        }
+      },
+      {
+        "sku_id": "1466991494467555390",
+        "name": "Electric Aura (Icy)",
+        "summary": "Give your avatar a new look.",
+        "styles": {
+          "background_colors": [
+            131915,
+            461368
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 0,
+            "id": 1,
+            "sku_id": "1466991494467555390",
+            "asset": "a_8aba2a2cd94462352e6b0030e7fe3b76",
+            "assets": {
+              "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1466990843591135285/static",
+              "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1466990843591135285/animated"
+            },
+            "label": "Light blue electric energy crackling with sparks in a ring."
+          }
+        ],
+        "type": 0,
+        "premium_type": 0,
+        "category_sku_id": "1466889339966587046",
+        "google_sku_ids": {
+          "5": "1466991494467555390_1469428802621804738",
+          "7": "1466991494467555390_1469428834020491479"
+        }
+      },
+      {
+        "sku_id": "1466978489608441993",
+        "name": "Neon Glow (Kunzite)",
+        "summary": "Show this effect when others view your profile.",
+        "styles": {
+          "background_colors": [
+            131915,
+            461368
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 1,
+            "id": 1,
+            "sku_id": "1466978489608441993",
+            "title": "Neon Glow (Kunzite)",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Pink glowing border building from center, pulsing gently around profile.",
+            "animationType": 1,
+            "staticFrameSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/d177c634bf82dca76e96ea9bf7777b6e4721a0d19f19637bfb5c6a4eee69c9c3",
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/ff3611f297eccfc64a0dfd237e5735a8f934902f394b3102f46ec7898baf14a1",
+            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/0a76ae3d973ae2c69e8834206c3961cebe067690b25fef09c947ed5323d6d0e8",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/8988f03d57f6fa8ef8e3230c425cff1fa2896b34b007d92cc7db4fafea93d2fd",
+                "loop": false,
+                "duration": 2000,
+                "start": 0,
+                "loopDelay": 0,
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/56725315f7671bf0f5a2ecbd34a61fd5f60510252d44e43fca70f51c3fd8acd0",
+                "loop": true,
+                "duration": 5000,
+                "start": 2000,
+                "loopDelay": 0,
+                "zIndex": 101,
+                "randomizedSources": []
+              }
+            ]
+          }
+        ],
+        "type": 1,
+        "premium_type": 0,
+        "category_sku_id": "1466889339966587046",
+        "google_sku_ids": {
+          "5": "1466978489608441993_1469428809131364407",
+          "7": "1466978489608441993_1469428844296409309"
+        }
+      },
+      {
+        "sku_id": "1466978489608441991",
+        "name": "Neon Glow (Aquamarine)",
+        "summary": "Show this effect when others view your profile.",
+        "styles": {
+          "background_colors": [
+            131915,
+            461368
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 1,
+            "id": 1,
+            "sku_id": "1466978489608441991",
+            "title": "Neon Glow (Aquamarine)",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Turquoise glowing border building from center, pulsing gently around profile.",
+            "animationType": 1,
+            "staticFrameSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/c803489aac8b4399efe7704da6db5ed726db4bf2900c39ee0b4f34e297198bd0",
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/6322af449aa75d79e0a950ae46650e53c7a5d2c59be34149b85649edd900f2db",
+            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/c803489aac8b4399efe7704da6db5ed726db4bf2900c39ee0b4f34e297198bd0",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/15ddefd8c7f3abfa6f44c55c80f6e2fcba81eef88f1d1bfba6527c9283f9b7eb",
+                "loop": false,
+                "duration": 1992,
+                "start": 0,
+                "loopDelay": 0,
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/25cf2a227a03a13d71f583ff355eb8d3e032271266c8fe0d56d04222dfaa6e93",
+                "loop": true,
+                "duration": 4980,
+                "start": 1992,
+                "loopDelay": 0,
+                "zIndex": 101,
+                "randomizedSources": []
+              }
+            ]
+          }
+        ],
+        "type": 1,
+        "premium_type": 0,
+        "category_sku_id": "1466889339966587046",
+        "google_sku_ids": {
+          "5": "1466978489608441991_1469428806023385140",
+          "7": "1466978489608441991_1469428835802939416"
+        }
+      },
+      {
+        "sku_id": "1466978489608441990",
+        "name": "Neon Glow (Amethyst)",
+        "summary": "Show this effect when others view your profile.",
+        "styles": {
+          "background_colors": [
+            131915,
+            461368
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 1,
+            "id": 1,
+            "sku_id": "1466978489608441990",
+            "title": "Neon Glow (Amethyst)",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Purple glowing border building from center, pulsing gently around profile.",
+            "animationType": 1,
+            "staticFrameSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/01c677332e111f91c2d492e8338f55a2d686d4b48d880800d4e4b0900c2cc0fb",
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/4469e03b9ca752e893b539adb85798752ad592dab453d42092470778d301366c",
+            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/6949e6792d7d824b9614ab5bd60259f96a1f720a2fd28a610f9e7a9cf9fc50f3",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/15cff1239d403c5482da26db02b4cb10fc16e97d144bc268dd3437d99901bb8e",
+                "loop": false,
+                "duration": 2000,
+                "start": 0,
+                "loopDelay": 0,
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/1b8bd7ae3520d0987edba8503bd3ea4958495b8fa62fb94738e2cdf5512d3e5c",
+                "loop": true,
+                "duration": 5000,
+                "start": 2000,
+                "loopDelay": 0,
+                "zIndex": 101,
+                "randomizedSources": []
+              }
+            ]
+          }
+        ],
+        "type": 1,
+        "premium_type": 0,
+        "category_sku_id": "1466889339966587046",
+        "google_sku_ids": {
+          "5": "1466978489608441990_1469428807025950958",
+          "7": "1466978489608441990_1469428839774945351"
+        }
+      },
+      {
+        "sku_id": "1466978489608441994",
+        "name": "Neon Glow (Peridot)",
+        "summary": "Show this effect when others view your profile.",
+        "styles": {
+          "background_colors": [
+            131915,
+            461368
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 1,
+            "id": 1,
+            "sku_id": "1466978489608441994",
+            "title": "Neon Glow (Peridot)",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Yellow-green glowing border building from center, pulsing gently around profile.",
+            "animationType": 1,
+            "staticFrameSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/acace763ad06f4445720fc87ef5b2cb587fcb71379001f621ca051c20d36c0ce",
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/7c9ff84759ffd9119aa3572ada281c8966abc760fb30370fb21b3c8326018d63",
+            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/8eab87d7aecb284f4b93acb919e0f227a07b7b7545693080d523db74fe1a684e",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/fb0fc86f626cc47c83a3444f156b11843ab2e7425e1f70d67d36ab1cfe1d5f66",
+                "loop": false,
+                "duration": 2000,
+                "start": 0,
+                "loopDelay": 0,
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/33c86f9b08ee0ea758e2614ceec65a586fd6abdfe7b39f8c756c9d3649929b21",
+                "loop": true,
+                "duration": 5000,
+                "start": 2000,
+                "loopDelay": 0,
+                "zIndex": 101,
+                "randomizedSources": []
+              }
+            ]
+          }
+        ],
+        "type": 1,
+        "premium_type": 0,
+        "category_sku_id": "1466889339966587046",
+        "google_sku_ids": {
+          "5": "1466978489608441994_1469428808250556460",
+          "7": "1466978489608441994_1469428840722862293"
+        }
+      },
+      {
+        "sku_id": "1466978489608441995",
+        "name": "Neon Glow (Ruby)",
+        "summary": "Show this effect when others view your profile.",
+        "styles": {
+          "background_colors": [
+            131915,
+            461368
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 1,
+            "id": 1,
+            "sku_id": "1466978489608441995",
+            "title": "Neon Glow (Ruby)",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Red glowing border building from center, pulsing gently around profile.",
+            "animationType": 1,
+            "staticFrameSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/5f27380a5676f9da4e0f3345dc9e947b10de3542befd8c2b98e6373def87769b",
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/1975c592820de948e903c52d20c240daea36cc1a4518c6960b1379c3cf210e46",
+            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/8f2808e39c740faeee51e533ec7bfb2a69282b3cde714bb5234c51dcd05249a2",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/0a034e447378eebf752642ebadf5fb5794973682f6592eeaf7a81f399f42152a",
+                "loop": false,
+                "duration": 2000,
+                "start": 0,
+                "loopDelay": 0,
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/db5f4be043bdc474c10087764ad747985b0e2082c7d8f3a08d04be56d3ff3d75",
+                "loop": true,
+                "duration": 5000,
+                "start": 2000,
+                "loopDelay": 0,
+                "zIndex": 101,
+                "randomizedSources": []
+              }
+            ]
+          }
+        ],
+        "type": 1,
+        "premium_type": 0,
+        "category_sku_id": "1466889339966587046",
+        "google_sku_ids": {
+          "5": "1466978489608441995_1469428809131364405",
+          "7": "1466978489608441995_1469428842325213374"
+        }
+      },
+      {
+        "sku_id": "1466978489608441992",
+        "name": "Neon Glow (Emerald)",
+        "summary": "Show this effect when others view your profile.",
+        "styles": {
+          "background_colors": [
+            131915,
+            461368
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 1,
+            "id": 1,
+            "sku_id": "1466978489608441992",
+            "title": "Neon Glow (Emerald)",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Green glowing border building from center, pulsing gently around profile.",
+            "animationType": 1,
+            "staticFrameSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/ba6aa0307988f0cb7da9991f8ec188ba2faab59c816acfb2e38a9ec94c99b376",
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/9f583302ac845847cc100f6cd6821d503d8bf150621246be0e4311dc751b3f3c",
+            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/0455bac45e2785776599d8d4ed5133bb805d4290eba70bd3f751288949a2599d",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/45862bd9ee644878f06925280e9d00abe58be1bf07b5a418d7cc6d8f6ed70898",
+                "loop": false,
+                "duration": 2000,
+                "start": 0,
+                "loopDelay": 0,
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/2188f9e508d6881e4950ead0a1e283bd4c419b41234d40619fca3c704d547173",
+                "loop": true,
+                "duration": 5000,
+                "start": 2000,
+                "loopDelay": 0,
+                "zIndex": 101,
+                "randomizedSources": []
+              }
+            ]
+          }
+        ],
+        "type": 1,
+        "premium_type": 0,
+        "category_sku_id": "1466889339966587046",
+        "google_sku_ids": {
+          "5": "1466978489608441992_1469428807025950957",
+          "7": "1466978489608441992_1469428837522608244"
+        }
+      },
+      {
+        "sku_id": "1466978489608441996",
+        "name": "Neon Glow (Sapphire)",
+        "summary": "Show this effect when others view your profile.",
+        "styles": {
+          "background_colors": [
+            131915,
+            461368
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 1,
+            "id": 1,
+            "sku_id": "1466978489608441996",
+            "title": "Neon Glow (Sapphire)",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Blue glowing border building from center, pulsing gently around profile.",
+            "animationType": 1,
+            "staticFrameSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/73bcd0bd8dc320b5c606613ee1498632450e90237a3beffc8e288d33b5e233ad",
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/6bdea0628eee7a0a20818187c19b8b603114c3f424b1116141d96d6dfd0dfb15",
+            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/0064e0097fb5fb937deec80cf76a845d23e6b1baa09f6f7ae74d031eb493ca9b",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/ba2bde24e6aa13ade7f1d235ecff9d3146d69cb76236af140efc2c187c98932d",
+                "loop": false,
+                "duration": 2000,
+                "start": 0,
+                "loopDelay": 0,
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/0f1b0b33ab8b373f6acb3f457f5b7c3f69af936ae8d7d65ac9ecd25331ad596f",
+                "loop": true,
+                "duration": 5000,
+                "start": 2000,
+                "loopDelay": 0,
+                "zIndex": 101,
+                "randomizedSources": []
+              }
+            ]
+          }
+        ],
+        "type": 1,
+        "premium_type": 0,
+        "category_sku_id": "1466889339966587046",
+        "google_sku_ids": {
+          "5": "1466978489608441996_1469428810586914858",
+          "7": "1466978489608441996_1469428845206700096"
+        }
+      },
+      {
+        "sku_id": "1466975928587653174",
+        "name": "Drifting Glow (Twilight)",
+        "summary": "Show this effect when others view your profile.",
+        "styles": {
+          "background_colors": [
+            131915,
+            461368
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 1,
+            "id": 1,
+            "sku_id": "1466975928587653174",
+            "title": "Drifting Glow (Twilight)",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Blue and pink gradient glow border spinning slowly around profile.",
+            "animationType": 1,
+            "staticFrameSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/9e91d844521ef2f13d89b5672e9cd3b6aae4beb2795f7f15e21c7fe4c23ca4d4",
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/4493d8c327c3810c8d7e7f22a776b197e35e7f78d0539e435875bb15745240c8",
+            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/9e91d844521ef2f13d89b5672e9cd3b6aae4beb2795f7f15e21c7fe4c23ca4d4",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/83545ad083908e7a85caa20e66f1c789050e9b67f28076cb74e309879cfccc66",
+                "loop": false,
+                "duration": 1992,
+                "start": 0,
+                "loopDelay": 0,
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/6daded37761f3b4b25d14e1ce1c24d4628d2cc9469aace827e71ff86313f7273",
+                "loop": true,
+                "duration": 4980,
+                "start": 1992,
+                "loopDelay": 0,
+                "zIndex": 101,
+                "randomizedSources": []
+              }
+            ]
+          }
+        ],
+        "type": 1,
+        "premium_type": 0,
+        "category_sku_id": "1466889339966587046",
+        "google_sku_ids": {
+          "5": "1466975928587653174_1469428811627233392",
+          "7": "1466975928587653174_1469428833034830019"
+        }
+      },
+      {
+        "sku_id": "1466975928587653173",
+        "name": "Drifting Glow (Sunset)",
+        "summary": "Show this effect when others view your profile.",
+        "styles": {
+          "background_colors": [
+            131915,
+            461368
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 1,
+            "id": 1,
+            "sku_id": "1466975928587653173",
+            "title": "Drifting Glow (Sunset)",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Orange and pink gradient glow border spinning slowly around profile.",
+            "animationType": 1,
+            "staticFrameSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/7861f4f805b75e6427b93ec6406d90de5664f86310a8ad9b85cec3b416911a30",
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/65e8cdb1f8fffcb6867734521d28da956e9ab248bb2954a7deff8404e78fbe81",
+            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/2c9f1cee88669010a776a09db18c11948b2f51f421ea3644cf121bdc48916273",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/41e3278d536bc9c71a27b3e093f8838ecb2cc1b86e2c4de33ae591205e5455dc",
+                "loop": false,
+                "duration": 2000,
+                "start": 0,
+                "loopDelay": 0,
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/b1c5de02ade699b789f73fed035d2e8deef87b3b71f9e52c781fb4a23ddd7d20",
+                "loop": true,
+                "duration": 5000,
+                "start": 2000,
+                "loopDelay": 0,
+                "zIndex": 101,
+                "randomizedSources": []
+              }
+            ]
+          }
+        ],
+        "type": 1,
+        "premium_type": 0,
+        "category_sku_id": "1466889339966587046",
+        "google_sku_ids": {
+          "5": "1466975928587653173_1469428809903247401",
+          "7": "1466975928587653173_1469428838734889081"
+        }
+      },
+      {
+        "sku_id": "1466975928587653172",
+        "name": "Drifting Glow (Radioactive)",
+        "summary": "Show this effect when others view your profile.",
+        "styles": {
+          "background_colors": [
+            131915,
+            461368
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 1,
+            "id": 1,
+            "sku_id": "1466975928587653172",
+            "title": "Drifting Glow (Radioactive)",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Green gradient glow border spinning slowly around profile.",
+            "animationType": 1,
+            "staticFrameSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/f419af5831c89a5e35acfaf1f61bd723154abaaae6b14873ad77325f195b4a39",
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/5ae7db1541cec8d114e70de8e99a1ad4c8d533d9544d639feddb3014894d6fe3",
+            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/33196cfb1a7a5aaf93f32ec21b944ca1f913b7ce103f069ec4504b1b91e9be32",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/3af9d2e2d437b29e399b494bbe3f1681a27861990ad80f1c8d65b94f5fd2b82b",
+                "loop": false,
+                "duration": 2000,
+                "start": 0,
+                "loopDelay": 0,
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/61070c1833c70603dbd57226fecb2d0459ae38ebf9323d335eb3d8a67d8871e9",
+                "loop": true,
+                "duration": 5000,
+                "start": 2000,
+                "loopDelay": 0,
+                "zIndex": 101,
+                "randomizedSources": []
+              }
+            ]
+          }
+        ],
+        "type": 1,
+        "premium_type": 0,
+        "category_sku_id": "1466889339966587046",
+        "google_sku_ids": {
+          "5": "1466975928587653172_1469428801128759348",
+          "7": "1466975928587653172_1469428824734302268"
+        }
+      },
+      {
+        "sku_id": "1466977017915379894",
+        "name": "Electric Aura (Thistle)",
+        "summary": "Show this effect when others view your profile.",
+        "styles": {
+          "background_colors": [
+            131915,
+            461368
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 1,
+            "id": 1,
+            "sku_id": "1466977017915379894",
+            "title": "Electric Aura (Thistle)",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Purple electric energy border building from center, coursing down sides with static and sparks.",
+            "animationType": 1,
+            "staticFrameSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/020ad2245e13176b164a5e87ebe1aeef8a33b82889772efb5be7cc3ba9906cc7",
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/72d78e6e45eebf66bd7a51bd970459ba5acbb1b065a6e0606d8050b6b80ff1bf",
+            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/72d78e6e45eebf66bd7a51bd970459ba5acbb1b065a6e0606d8050b6b80ff1bf",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/bc1c58dff85e8dcac62a2de3c2fdceff0d6339d49c8e08bb997e94e27274d3da",
+                "loop": false,
+                "duration": 3000,
+                "start": 0,
+                "loopDelay": 0,
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/bd59286fe6c163ee3dc6e536feadd67456dccbfd9f1bb8932423c892a5d6a4ce",
+                "loop": true,
+                "duration": 5000,
+                "start": 3000,
+                "loopDelay": 0,
+                "zIndex": 101,
+                "randomizedSources": []
+              }
+            ]
+          }
+        ],
+        "type": 1,
+        "premium_type": 0,
+        "category_sku_id": "1466889339966587046",
+        "google_sku_ids": {
+          "5": "1466977017915379894_1469428808250556459",
+          "7": "1466977017915379894_1469428844296409310"
+        }
+      },
+      {
+        "sku_id": "1466977017915379893",
+        "name": "Electric Aura (Quartz)",
+        "summary": "Show this effect when others view your profile.",
+        "styles": {
+          "background_colors": [
+            131915,
+            461368
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 1,
+            "id": 1,
+            "sku_id": "1466977017915379893",
+            "title": "Electric Aura (Quartz)",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Pink electric energy border building from center, coursing down sides with static and sparks.",
+            "animationType": 1,
+            "staticFrameSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/b70b0ef620bae9c27864924f2af0ad3f73efc9f5a569868a57b6eb582f657281",
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/f272d1d5b3990f910f46c7b997db0bc40d894122020f5459977e872b3242ab06",
+            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/f272d1d5b3990f910f46c7b997db0bc40d894122020f5459977e872b3242ab06",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/3a2f5a565bb4eeb28137596bd11959a948c378585a99bc0a0e0020b312c10caa",
+                "loop": false,
+                "duration": 3000,
+                "start": 0,
+                "loopDelay": 0,
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/bc48fead308e09dafb529426743c7127171a11dfd700a0261dea0330f1094389",
+                "loop": true,
+                "duration": 5000,
+                "start": 3000,
+                "loopDelay": 0,
+                "zIndex": 101,
+                "randomizedSources": []
+              }
+            ]
+          }
+        ],
+        "type": 1,
+        "premium_type": 0,
+        "category_sku_id": "1466889339966587046",
+        "google_sku_ids": {
+          "5": "1466977017915379893_1469428806023385139",
+          "7": "1466977017915379893_1469428835802939414"
+        }
+      },
+      {
+        "sku_id": "1466977017915379892",
+        "name": "Electric Aura (Icy)",
+        "summary": "Show this effect when others view your profile.",
+        "styles": {
+          "background_colors": [
+            131915,
+            461368
+          ],
+          "button_colors": [
+            5793266,
+            5793266
+          ],
+          "confetti_colors": [
+            43772,
+            15774258,
+            16414587,
+            3000177,
+            9739511
+          ]
+        },
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                },
+                {
+                  "amount": 4100,
+                  "currency": "discord_orb",
+                  "exponent": 0
+                }
+              ]
+            }
+          }
+        },
+        "items": [
+          {
+            "type": 1,
+            "id": 1,
+            "sku_id": "1466977017915379892",
+            "title": "Electric Aura (Icy)",
+            "description": "Show this effect when others view your profile.",
+            "accessibilityLabel": "Light blue electric energy border building from center, coursing down sides with static and sparks.",
+            "animationType": 1,
+            "staticFrameSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/cb01c177e91d7950a36e90fa898bb12dcc048aa83632c50bc1a38efdf872532b",
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/8da4fad9128bc1410f4a03f95c17737222484400a4de9982ad66d32c864d54e7",
+            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/8da4fad9128bc1410f4a03f95c17737222484400a4de9982ad66d32c864d54e7",
+            "effects": [
+              {
+                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/9ea83ecdfc006e15587df677d98acb293564dd298aec9dba4bea2f45acb1d8d3",
+                "loop": false,
+                "duration": 2988,
+                "start": 0,
+                "loopDelay": 0,
+                "zIndex": 100,
+                "randomizedSources": []
+              },
+              {
+                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/8541091a8f352cd16494d6d70ae9f45ea160feca51b58aaaa7a2872bf048e53f",
+                "loop": true,
+                "duration": 4980,
+                "start": 2988,
+                "loopDelay": 0,
+                "zIndex": 101,
+                "randomizedSources": []
+              }
+            ]
+          }
+        ],
+        "type": 1,
+        "premium_type": 0,
+        "category_sku_id": "1466889339966587046",
+        "google_sku_ids": {
+          "5": "1466977017915379892_1469428802621804739",
+          "7": "1466977017915379892_1469428837522608242"
+        }
+      }
+    ],
+    "hero_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/588e6cdeac4583ca6b6e1fb76ca04fb89f9bbd75eeac262327edc2e490625d6c",
+    "hero_logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/2fe862d3b4595dedc8f8edd72d5fa8ad2b6dbbeb5286e33dd511dfcfbb4af927",
+    "catalog_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/15b5212ec86aaeda1523bcbd7ef5620658dcf9b4403823bb63c8fee73eb634f6",
+    "featured_block_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/f769a9b54faf0fd9f7cf627b91c4b5000a4c84dd70cae5e0e9df231fef3c8466",
+    "logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/0a96c4c745c515b1843ad086520945d5d5f0039bd4c4a3b8908d0bda9ec451d4",
+    "pdp_bg_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/0f7095a2e6cfd39ccc54fb19ff4ca20dff814c0abb50695dbca7d1ca40de94cf",
+    "mobile_hero_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/0ebc15a0a24e61869061ab20c7aa4bbe8a2dd2b984bfaa80c2cdb092c6878cef",
+    "mobile_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/f7213180491182e40b6e9efc8f8de82170af14df574b0b68777cf51eaa65da5f",
+    "mobile_bg_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/3858e80aa40609c85556aca364767f7a91342aa6bf68e3bd1bf763f2869be2f5",
+    "hero_banner_display_config": {
+      "desktop_max_height": null,
+      "mobile_max_height": null,
+      "responsive": false,
+      "background_style": "linear-gradient(180deg, #02034B 0%, #070A38 100%)"
+    }
   }
 ]
