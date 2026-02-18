@@ -240,24 +240,6 @@
             0
           ]
         },
-        "video_metadata": {
-          "messages": {
-            "video_title": "World of Warcraft: Midnight Trailer",
-            "video_end_cta_subtitle": "Midnight Pre-Expansion Update Trailer",
-            "video_end_cta_button_label": "Spiel holen"
-          },
-          "assets": {
-            "video_player_video_hls": "quests/1468654050840019074/1471337928524304414.m3u8",
-            "video_player_video": "quests/1468654050840019074/1471337928524304414_1080.mp4",
-            "video_player_thumbnail": "quests/1468654050840019074/1469064784786886706.jpg",
-            "video_player_video_low_res": "quests/1468654050840019074/1471337928524304414_720.mp4",
-            "video_player_caption": null,
-            "video_player_transcript": null,
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
-        },
         "share_policy": "shareable_everywhere",
         "cta_config": {
           "link": "https://shop.battle.net/product/world-of-warcraft-midnight?utm_source=Discord&utm_medium=PaidGGM",
@@ -1425,6 +1407,24 @@
             0
           ]
         },
+        "video_metadata": {
+          "messages": {
+            "video_title": "Star Trek: Starfleet Academy Exclusive Clip",
+            "video_end_cta_subtitle": "Catch a new episode every Thursday on Paramount+!",
+            "video_end_cta_button_label": "Jetzt anschauen"
+          },
+          "assets": {
+            "video_player_video_hls": "quests/1458528776060276757/1458530441773584404.m3u8",
+            "video_player_video": "quests/1458528776060276757/1458530441773584404_1080.mp4",
+            "video_player_thumbnail": "quests/1458528776060276757/1458532555564384461.jpg",
+            "video_player_video_low_res": "quests/1458528776060276757/1458530441773584404_720.mp4",
+            "video_player_caption": null,
+            "video_player_transcript": null,
+            "quest_bar_preview_video": null,
+            "quest_bar_preview_thumbnail": null,
+            "quest_home_video": null
+          }
+        },
         "share_policy": "shareable_everywhere",
         "cta_config": {
           "link": "https://www.paramountplus.com/shows/star-trek-starfleet-academy/",
@@ -2559,24 +2559,6 @@
           "platforms": [
             0
           ]
-        },
-        "video_metadata": {
-          "messages": {
-            "video_title": "The Bridge Is Yours, Captain",
-            "video_end_cta_subtitle": "Available on PC, PS5, Xbox X|S, and Nintendo Switch 2",
-            "video_end_cta_button_label": "Spiel holen"
-          },
-          "assets": {
-            "video_player_video_hls": "quests/1473375367715750081/1473377067147071630.m3u8",
-            "video_player_video": "quests/1473375367715750081/1473377067147071630_1080.mp4",
-            "video_player_thumbnail": "quests/1473375367715750081/1473379044094382142.png",
-            "video_player_video_low_res": "quests/1473375367715750081/1473377067147071630_720.mp4",
-            "video_player_caption": null,
-            "video_player_transcript": null,
-            "quest_bar_preview_video": null,
-            "quest_bar_preview_thumbnail": null,
-            "quest_home_video": null
-          }
         },
         "share_policy": "shareable_everywhere",
         "cta_config": {
@@ -3859,6 +3841,25 @@
           "platforms": [
             0
           ]
+        },
+        "video_metadata": {
+          "messages": {
+            "video_title": "Return to Silent Hill Trailer",
+            "video_end_cta_title": "",
+            "video_end_cta_subtitle": "Now Playing, Buy Tickets Now",
+            "video_end_cta_button_label": "Tickets kaufen"
+          },
+          "assets": {
+            "video_player_video_hls": "quests/1461427517775675493/1463271309306757333.m3u8",
+            "video_player_video": "quests/1461427517775675493/1463271309306757333_1080.mp4",
+            "video_player_thumbnail": "quests/1461427517775675493/1461432574214672507.png",
+            "video_player_video_low_res": "quests/1461427517775675493/1463271309306757333_720.mp4",
+            "video_player_caption": null,
+            "video_player_transcript": null,
+            "quest_bar_preview_video": null,
+            "quest_bar_preview_thumbnail": null,
+            "quest_home_video": null
+          }
         },
         "share_policy": "shareable_everywhere",
         "cta_config": {
