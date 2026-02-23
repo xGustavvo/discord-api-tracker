@@ -863,127 +863,6 @@
       "traffic_metadata_sealed": "EAE="
     },
     {
-      "id": "1459280298872406162",
-      "config": {
-        "id": "1459280298872406162",
-        "config_version": 2,
-        "starts_at": "2026-01-16T18:30:55+00:00",
-        "expires_at": "2026-01-24T00:00:55+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://gsght.com/c/qriuej",
-          "id": "1314395942253756416",
-          "name": "Marvel Rivals"
-        },
-        "assets": {
-          "hero": "quests/1459280298872406162/1460333882560745663.jpg",
-          "hero_video": "quests/1459280298872406162/1459283089221222450.mp4",
-          "quest_bar_hero_blurhash": null,
-          "quest_bar_hero": "quests/1459280298872406162/1460333827733065860.jpg",
-          "quest_bar_hero_video": "quests/1459280298872406162/1459282976277004318.mp4",
-          "game_tile": "1459283306054029383.png",
-          "logotype": "1459283305093398763.png",
-          "game_tile_light": "quests/1459280298872406162/1459283261309325374.png",
-          "game_tile_dark": "quests/1459280298872406162/1459283261309325374.png",
-          "logotype_light": "quests/1459280298872406162/1459283156489338951.png",
-          "logotype_dark": "quests/1459280298872406162/1459283208746172477.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Marvel Rivals Deadpool",
-          "game_title": "Marvel Rivals ",
-          "game_publisher": "NetEase Games"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "event_name": "PLAY_ON_DESKTOP",
-              "target": 900
-            },
-            "PLAY_ON_XBOX": {
-              "event_name": "PLAY_ON_XBOX",
-              "target": 900
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "event_name": "PLAY_ON_PLAYSTATION",
-              "target": 900
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1314395942253756416"
-                }
-              ]
-            },
-            "PLAY_ON_XBOX": {
-              "type": "PLAY_ON_XBOX",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1314395942253756416"
-                }
-              ]
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1314395942253756416"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700,
-              "premium_orb_quantity": 0
-            }
-          ],
-          "rewards_expire_at": "2026-02-23T00:00:55+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://gsght.com/c/qriuej",
-          "button_label": "Jouer au jeu"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false,
-      "traffic_metadata_raw": "EAE=",
-      "traffic_metadata_sealed": "EAE="
-    },
-    {
       "id": "1463326315695575060",
       "config": {
         "id": "1463326315695575060",
@@ -2376,9 +2255,6 @@
     },
     {
       "id": "1469018683555840299"
-    },
-    {
-      "id": "1457884772897390715"
     },
     {
       "id": "1466210683581497465",
