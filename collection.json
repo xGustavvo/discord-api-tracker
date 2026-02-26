@@ -60,7 +60,8 @@
             "game_application_id": "1402418491272986635",
             "provider": "shockbyte",
             "disabled": false,
-            "early_access": false
+            "early_access": false,
+            "can_market": false
           }
         }
       },
@@ -215,7 +216,8 @@
             "game_application_id": "1458530944955973852",
             "provider": "shockbyte",
             "disabled": false,
-            "early_access": true
+            "early_access": true,
+            "can_market": false
           }
         }
       },
@@ -369,7 +371,8 @@
             "game_application_id": "1197827812623650866",
             "provider": "shockbyte",
             "disabled": false,
-            "early_access": false
+            "early_access": false,
+            "can_market": false
           }
         }
       },
@@ -521,7 +524,8 @@
             "game_application_id": "1402418594532298837",
             "provider": "shockbyte",
             "disabled": false,
-            "early_access": false
+            "early_access": false,
+            "can_market": false
           }
         }
       },
@@ -675,7 +679,8 @@
             "game_application_id": "1402418344912752671",
             "provider": "shockbyte",
             "disabled": false,
-            "early_access": false
+            "early_access": false,
+            "can_market": false
           }
         }
       },
@@ -827,7 +832,8 @@
             "game_application_id": "1124358970618953818",
             "provider": "shockbyte",
             "disabled": false,
-            "early_access": false
+            "early_access": false,
+            "can_market": false
           }
         }
       },
@@ -907,7 +913,8 @@
             "game_application_id": "1158877933042143272",
             "provider": "shockbyte",
             "disabled": false,
-            "early_access": false
+            "early_access": false,
+            "can_market": false
           }
         }
       },
@@ -1061,7 +1068,8 @@
             "game_application_id": "359509387670192128",
             "provider": "shockbyte",
             "disabled": false,
-            "early_access": false
+            "early_access": false,
+            "can_market": false
           }
         }
       },
@@ -1214,7 +1222,8 @@
             "game_application_id": "363409643973771264",
             "provider": "shockbyte",
             "disabled": false,
-            "early_access": false
+            "early_access": false,
+            "can_market": false
           }
         }
       },
@@ -1367,7 +1376,8 @@
             "game_application_id": "1199745463918788740",
             "provider": "shockbyte",
             "disabled": false,
-            "early_access": false
+            "early_access": false,
+            "can_market": false
           }
         }
       },
