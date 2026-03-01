@@ -106,7 +106,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMa1ByV056eUZPNjIwd1ZHZktFNEhMMnd2SVZoMUFadUxNZG10bDRPST0ifQ=="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLMW9JdDg4M3ZJVmZrWWpMempaUHoraXIvb3hlWmduMFVsVDRNZkdCWT0ifQ=="
     },
     {
       "id": "1468654050840019074",
@@ -251,7 +251,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMa1ByV056eUZPNjIwd1ZHZktFNEhMMnd2SVZoMUFadUxNZG10bDRPST0ifQ=="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLMW9JdDg4M3ZJVmZrWWpMempaUHoraXIvb3hlWmduMFVsVDRNZkdCWT0ifQ=="
     },
     {
       "id": "1470834003434017026",
@@ -396,7 +396,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMa1ByV056eUZPNjIwd1ZHZktFNEhMMnd2SVZoMUFadUxNZG10bDRPST0ifQ=="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLMW9JdDg4M3ZJVmZrWWpMempaUHoraXIvb3hlWmduMFVsVDRNZkdCWT0ifQ=="
     },
     {
       "id": "1466549730191343881",
@@ -507,7 +507,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMa1ByV056eUZPNjIwd1ZHZktFNEhMMnd2SVZoMUFadUxNZG10bDRPST0ifQ=="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLMW9JdDg4M3ZJVmZrWWpMempaUHoraXIvb3hlWmduMFVsVDRNZkdCWT0ifQ=="
     },
     {
       "id": "1463241596832059402",
@@ -628,7 +628,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMa1ByV056eUZPNjIwd1ZHZktFNEhMMnd2SVZoMUFadUxNZG10bDRPST0ifQ=="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLMW9JdDg4M3ZJVmZrWWpMempaUHoraXIvb3hlWmduMFVsVDRNZkdCWT0ifQ=="
     },
     {
       "id": "1460389452135534733",
@@ -752,7 +752,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMa1ByV056eUZPNjIwd1ZHZktFNEhMMnd2SVZoMUFadUxNZG10bDRPST0ifQ=="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLMW9JdDg4M3ZJVmZrWWpMempaUHoraXIvb3hlWmduMFVsVDRNZkdCWT0ifQ=="
     },
     {
       "id": "1466514253304565904",
@@ -860,7 +860,115 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMa1ByV056eUZPNjIwd1ZHZktFNEhMMnd2SVZoMUFadUxNZG10bDRPST0ifQ=="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLMW9JdDg4M3ZJVmZrWWpMempaUHoraXIvb3hlWmduMFVsVDRNZkdCWT0ifQ=="
+    },
+    {
+      "id": "1474092541644247315",
+      "config": {
+        "id": "1474092541644247315",
+        "config_version": 2,
+        "starts_at": "2026-03-01T08:00:29+00:00",
+        "expires_at": "2026-03-16T06:59:29+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
+          "id": "1437509662303059998",
+          "name": "Where Winds Meet"
+        },
+        "assets": {
+          "hero": "quests/1474092541644247315/1476704650206904360.jpg",
+          "hero_video": "quests/1474092541644247315/1476971948713054278.mp4",
+          "quest_bar_hero_blurhash": "jxgKDIAKdHd+lmZ0maUKn5WAXA==",
+          "quest_bar_hero": "quests/1474092541644247315/1476704574621483211.jpg",
+          "quest_bar_hero_video": "quests/1474092541644247315/1476971860028686447.mp4",
+          "game_tile": "1476705282859204798.png",
+          "logotype": "1476705279168217251.png",
+          "game_tile_light": "quests/1474092541644247315/1476705181679882290.png",
+          "game_tile_dark": "quests/1474092541644247315/1476705181679882290.png",
+          "logotype_light": "quests/1474092541644247315/1476704765831549171.png",
+          "logotype_dark": "quests/1474092541644247315/1476704765831549171.png"
+        },
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Where Winds Meet Ver 1.3",
+          "game_title": "Where Winds Meet",
+          "game_publisher": "NetEase"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "event_name": "PLAY_ON_DESKTOP",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "event_name": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1437509662303059998"
+                }
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1437509662303059998"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": 0
+            }
+          ],
+          "rewards_expire_at": "2026-04-15T06:59:29+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
+          "button_label": "Jouer"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false,
+      "traffic_metadata_raw": "EAI=",
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLMW9JdDg4M3ZJVmZrWWpMempaUHoraXIvb3hlWmduMFVsVDRNZkdCWT0ifQ=="
     },
     {
       "id": "1463326315695575060",
@@ -971,7 +1079,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMa1ByV056eUZPNjIwd1ZHZktFNEhMMnd2SVZoMUFadUxNZG10bDRPST0ifQ=="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLMW9JdDg4M3ZJVmZrWWpMempaUHoraXIvb3hlWmduMFVsVDRNZkdCWT0ifQ=="
     },
     {
       "id": "1473453463752151071",
@@ -1116,7 +1224,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMa1ByV056eUZPNjIwd1ZHZktFNEhMMnd2SVZoMUFadUxNZG10bDRPST0ifQ=="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLMW9JdDg4M3ZJVmZrWWpMempaUHoraXIvb3hlWmduMFVsVDRNZkdCWT0ifQ=="
     },
     {
       "id": "1465809392279748904",
@@ -1211,7 +1319,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMa1ByV056eUZPNjIwd1ZHZktFNEhMMnd2SVZoMUFadUxNZG10bDRPST0ifQ=="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLMW9JdDg4M3ZJVmZrWWpMempaUHoraXIvb3hlWmduMFVsVDRNZkdCWT0ifQ=="
     },
     {
       "id": "1474205151999950889",
@@ -1332,7 +1440,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMa1ByV056eUZPNjIwd1ZHZktFNEhMMnd2SVZoMUFadUxNZG10bDRPST0ifQ=="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLMW9JdDg4M3ZJVmZrWWpMempaUHoraXIvb3hlWmduMFVsVDRNZkdCWT0ifQ=="
     },
     {
       "id": "1470543032142139434",
@@ -1429,7 +1537,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMa1ByV056eUZPNjIwd1ZHZktFNEhMMnd2SVZoMUFadUxNZG10bDRPST0ifQ=="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLMW9JdDg4M3ZJVmZrWWpMempaUHoraXIvb3hlWmduMFVsVDRNZkdCWT0ifQ=="
     },
     {
       "id": "1465755539534381229",
@@ -1537,7 +1645,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMa1ByV056eUZPNjIwd1ZHZktFNEhMMnd2SVZoMUFadUxNZG10bDRPST0ifQ=="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLMW9JdDg4M3ZJVmZrWWpMempaUHoraXIvb3hlWmduMFVsVDRNZkdCWT0ifQ=="
     },
     {
       "id": "1461811893827010745",
@@ -1632,7 +1740,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMa1ByV056eUZPNjIwd1ZHZktFNEhMMnd2SVZoMUFadUxNZG10bDRPST0ifQ=="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLMW9JdDg4M3ZJVmZrWWpMempaUHoraXIvb3hlWmduMFVsVDRNZkdCWT0ifQ=="
     },
     {
       "id": "1466166994582769725",
@@ -1753,7 +1861,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMa1ByV056eUZPNjIwd1ZHZktFNEhMMnd2SVZoMUFadUxNZG10bDRPST0ifQ=="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLMW9JdDg4M3ZJVmZrWWpMempaUHoraXIvb3hlWmduMFVsVDRNZkdCWT0ifQ=="
     },
     {
       "id": "1461152783888810047",
@@ -1861,7 +1969,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMa1ByV056eUZPNjIwd1ZHZktFNEhMMnd2SVZoMUFadUxNZG10bDRPST0ifQ=="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLMW9JdDg4M3ZJVmZrWWpMempaUHoraXIvb3hlWmduMFVsVDRNZkdCWT0ifQ=="
     },
     {
       "id": "1473375367715750081",
@@ -2006,7 +2114,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMa1ByV056eUZPNjIwd1ZHZktFNEhMMnd2SVZoMUFadUxNZG10bDRPST0ifQ=="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLMW9JdDg4M3ZJVmZrWWpMempaUHoraXIvb3hlWmduMFVsVDRNZkdCWT0ifQ=="
     },
     {
       "id": "1470854078983569606",
@@ -2114,7 +2222,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMa1ByV056eUZPNjIwd1ZHZktFNEhMMnd2SVZoMUFadUxNZG10bDRPST0ifQ=="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLMW9JdDg4M3ZJVmZrWWpMempaUHoraXIvb3hlWmduMFVsVDRNZkdCWT0ifQ=="
     },
     {
       "id": "1475549097506115665",
@@ -2265,7 +2373,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMa1ByV056eUZPNjIwd1ZHZktFNEhMMnd2SVZoMUFadUxNZG10bDRPST0ifQ=="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLMW9JdDg4M3ZJVmZrWWpMempaUHoraXIvb3hlWmduMFVsVDRNZkdCWT0ifQ=="
     },
     {
       "id": "1466214442424467667",
@@ -2362,7 +2470,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMa1ByV056eUZPNjIwd1ZHZktFNEhMMnd2SVZoMUFadUxNZG10bDRPST0ifQ=="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLMW9JdDg4M3ZJVmZrWWpMempaUHoraXIvb3hlWmduMFVsVDRNZkdCWT0ifQ=="
     },
     {
       "id": "1471340231008583894",
@@ -2507,7 +2615,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMa1ByV056eUZPNjIwd1ZHZktFNEhMMnd2SVZoMUFadUxNZG10bDRPST0ifQ=="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLMW9JdDg4M3ZJVmZrWWpMempaUHoraXIvb3hlWmduMFVsVDRNZkdCWT0ifQ=="
     },
     {
       "id": "1468682555959283803",
@@ -2654,7 +2762,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMa1ByV056eUZPNjIwd1ZHZktFNEhMMnd2SVZoMUFadUxNZG10bDRPST0ifQ=="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLMW9JdDg4M3ZJVmZrWWpMempaUHoraXIvb3hlWmduMFVsVDRNZkdCWT0ifQ=="
     },
     {
       "id": "1468651135253483745",
@@ -2762,7 +2870,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMa1ByV056eUZPNjIwd1ZHZktFNEhMMnd2SVZoMUFadUxNZG10bDRPST0ifQ=="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLMW9JdDg4M3ZJVmZrWWpMempaUHoraXIvb3hlWmduMFVsVDRNZkdCWT0ifQ=="
     }
   ],
   "excluded_quests": [
