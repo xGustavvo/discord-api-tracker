@@ -95,7 +95,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKSEdXcDFET1FyNmRUUkJMUzV5c3ErTHVpL2hFNTEwQ1BhNzBwdjZEUT0ifQ=="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLTlQzc0hBSWxXMllYYUdKSEZDVlFTVnhQTFVDUGVFWmRUS1h5Q3JqQT0ifQ=="
     },
     {
       "id": "1470483893688991745",
@@ -203,7 +203,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKSEdXcDFET1FyNmRUUkJMUzV5c3ErTHVpL2hFNTEwQ1BhNzBwdjZEUT0ifQ=="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLTlQzc0hBSWxXMllYYUdKSEZDVlFTVnhQTFVDUGVFWmRUS1h5Q3JqQT0ifQ=="
     },
     {
       "id": "1468654050840019074",
@@ -348,7 +348,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKSEdXcDFET1FyNmRUUkJMUzV5c3ErTHVpL2hFNTEwQ1BhNzBwdjZEUT0ifQ=="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLTlQzc0hBSWxXMllYYUdKSEZDVlFTVnhQTFVDUGVFWmRUS1h5Q3JqQT0ifQ=="
     },
     {
       "id": "1470834003434017026",
@@ -493,7 +493,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKSEdXcDFET1FyNmRUUkJMUzV5c3ErTHVpL2hFNTEwQ1BhNzBwdjZEUT0ifQ=="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLTlQzc0hBSWxXMllYYUdKSEZDVlFTVnhQTFVDUGVFWmRUS1h5Q3JqQT0ifQ=="
     },
     {
       "id": "1463558755621929219",
@@ -600,7 +600,130 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKSEdXcDFET1FyNmRUUkJMUzV5c3ErTHVpL2hFNTEwQ1BhNzBwdjZEUT0ifQ=="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLTlQzc0hBSWxXMllYYUdKSEZDVlFTVnhQTFVDUGVFWmRUS1h5Q3JqQT0ifQ=="
+    },
+    {
+      "id": "1478512780595167233",
+      "config": {
+        "id": "1478512780595167233",
+        "config_version": 2,
+        "starts_at": "2026-03-10T17:00:56+00:00",
+        "expires_at": "2026-03-25T00:00:56+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://ad.doubleclick.net/ddm/trackclk/N7657.3866164DISCORD.COM/B35336492.441336835;dc_trk_aid=635066988;dc_trk_cid=251709255;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D;ltd=;dc_tdv=1",
+          "id": "542075586886107149",
+          "name": "Apex Legends"
+        },
+        "assets": {
+          "hero": "quests/1478512780595167233/1478513795717529610.jpg",
+          "hero_video": null,
+          "quest_bar_hero_blurhash": "XMcFDIIKo2ebe6U2uViQMgUbpw==",
+          "quest_bar_hero": "quests/1478512780595167233/1478513683549257859.jpg",
+          "quest_bar_hero_video": null,
+          "game_tile": "1478514466348990615.png",
+          "logotype": "1478514464620941445.png",
+          "game_tile_light": "quests/1478512780595167233/1478514333653799033.png",
+          "game_tile_dark": "quests/1478512780595167233/1478514333653799033.png",
+          "logotype_light": "quests/1478512780595167233/1478514182474305629.png",
+          "logotype_dark": "quests/1478512780595167233/1478514120910180574.png"
+        },
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Apex Legends x Gundam Event",
+          "game_title": "Apex Legends",
+          "game_publisher": "Apex Legends"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "event_name": "PLAY_ON_DESKTOP",
+              "target": 900
+            },
+            "PLAY_ON_XBOX": {
+              "event_name": "PLAY_ON_XBOX",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "event_name": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "542075586886107149"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "542075586886107149"
+                }
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "542075586886107149"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 1,
+              "sku_id": "1478512780595167234",
+              "asset": "quests/1478512780595167233/1478516968041615373.jpg",
+              "asset_video": null,
+              "messages": {
+                "name": "Gundam Wing Zero Trackers",
+                "name_with_article": "Gundam Wing Zero Trackers",
+                "redemption_instructions_by_platform": {
+                  "0": "Codes are not platform specific and are redeemed from within the Apex Legends Storefront.        \n1. Boot Apex Legends on your platform of choice.  \n2. When on the lobby screen select [Store].  \n3. Select [Redeem Code] on the bottom left.  \n4. Enter the code you received.  \n5. Select [Redeem].    \n\nRequires EA account."
+                }
+              },
+              "approximate_count": null,
+              "redemption_link": null
+            }
+          ],
+          "rewards_expire_at": "2026-04-24T00:00:56+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://ad.doubleclick.net/ddm/trackclk/N7657.3866164DISCORD.COM/B35336492.441336835;dc_trk_aid=635066988;dc_trk_cid=251709255;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D;ltd=;dc_tdv=1",
+          "button_label": "Play Now"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false,
+      "traffic_metadata_raw": "EAI=",
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLTlQzc0hBSWxXMllYYUdKSEZDVlFTVnhQTFVDUGVFWmRUS1h5Q3JqQT0ifQ=="
     },
     {
       "id": "1466549730191343881",
@@ -711,7 +834,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKSEdXcDFET1FyNmRUUkJMUzV5c3ErTHVpL2hFNTEwQ1BhNzBwdjZEUT0ifQ=="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLTlQzc0hBSWxXMllYYUdKSEZDVlFTVnhQTFVDUGVFWmRUS1h5Q3JqQT0ifQ=="
     },
     {
       "id": "1474092541644247315",
@@ -819,7 +942,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKSEdXcDFET1FyNmRUUkJMUzV5c3ErTHVpL2hFNTEwQ1BhNzBwdjZEUT0ifQ=="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLTlQzc0hBSWxXMllYYUdKSEZDVlFTVnhQTFVDUGVFWmRUS1h5Q3JqQT0ifQ=="
     },
     {
       "id": "1479195401532735640",
@@ -967,7 +1090,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKSEdXcDFET1FyNmRUUkJMUzV5c3ErTHVpL2hFNTEwQ1BhNzBwdjZEUT0ifQ=="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLTlQzc0hBSWxXMllYYUdKSEZDVlFTVnhQTFVDUGVFWmRUS1h5Q3JqQT0ifQ=="
     },
     {
       "id": "1476354513831989278",
@@ -1112,7 +1235,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKSEdXcDFET1FyNmRUUkJMUzV5c3ErTHVpL2hFNTEwQ1BhNzBwdjZEUT0ifQ=="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLTlQzc0hBSWxXMllYYUdKSEZDVlFTVnhQTFVDUGVFWmRUS1h5Q3JqQT0ifQ=="
     },
     {
       "id": "1473453463752151071",
@@ -1257,7 +1380,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKSEdXcDFET1FyNmRUUkJMUzV5c3ErTHVpL2hFNTEwQ1BhNzBwdjZEUT0ifQ=="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLTlQzc0hBSWxXMllYYUdKSEZDVlFTVnhQTFVDUGVFWmRUS1h5Q3JqQT0ifQ=="
     },
     {
       "id": "1465809392279748904",
@@ -1352,7 +1475,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKSEdXcDFET1FyNmRUUkJMUzV5c3ErTHVpL2hFNTEwQ1BhNzBwdjZEUT0ifQ=="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLTlQzc0hBSWxXMllYYUdKSEZDVlFTVnhQTFVDUGVFWmRUS1h5Q3JqQT0ifQ=="
     },
     {
       "id": "1474205151999950889",
@@ -1473,7 +1596,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKSEdXcDFET1FyNmRUUkJMUzV5c3ErTHVpL2hFNTEwQ1BhNzBwdjZEUT0ifQ=="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLTlQzc0hBSWxXMllYYUdKSEZDVlFTVnhQTFVDUGVFWmRUS1h5Q3JqQT0ifQ=="
     },
     {
       "id": "1470543032142139434",
@@ -1570,7 +1693,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKSEdXcDFET1FyNmRUUkJMUzV5c3ErTHVpL2hFNTEwQ1BhNzBwdjZEUT0ifQ=="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLTlQzc0hBSWxXMllYYUdKSEZDVlFTVnhQTFVDUGVFWmRUS1h5Q3JqQT0ifQ=="
     },
     {
       "id": "1478179540558938152",
@@ -1715,7 +1838,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKSEdXcDFET1FyNmRUUkJMUzV5c3ErTHVpL2hFNTEwQ1BhNzBwdjZEUT0ifQ=="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLTlQzc0hBSWxXMllYYUdKSEZDVlFTVnhQTFVDUGVFWmRUS1h5Q3JqQT0ifQ=="
     },
     {
       "id": "1478155979362275500",
@@ -1860,7 +1983,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKSEdXcDFET1FyNmRUUkJMUzV5c3ErTHVpL2hFNTEwQ1BhNzBwdjZEUT0ifQ=="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLTlQzc0hBSWxXMllYYUdKSEZDVlFTVnhQTFVDUGVFWmRUS1h5Q3JqQT0ifQ=="
     },
     {
       "id": "1465755539534381229",
@@ -1968,7 +2091,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKSEdXcDFET1FyNmRUUkJMUzV5c3ErTHVpL2hFNTEwQ1BhNzBwdjZEUT0ifQ=="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLTlQzc0hBSWxXMllYYUdKSEZDVlFTVnhQTFVDUGVFWmRUS1h5Q3JqQT0ifQ=="
     },
     {
       "id": "1479908639048470708",
@@ -2092,7 +2215,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKSEdXcDFET1FyNmRUUkJMUzV5c3ErTHVpL2hFNTEwQ1BhNzBwdjZEUT0ifQ=="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLTlQzc0hBSWxXMllYYUdKSEZDVlFTVnhQTFVDUGVFWmRUS1h5Q3JqQT0ifQ=="
     },
     {
       "id": "1466166994582769725",
@@ -2213,7 +2336,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKSEdXcDFET1FyNmRUUkJMUzV5c3ErTHVpL2hFNTEwQ1BhNzBwdjZEUT0ifQ=="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLTlQzc0hBSWxXMllYYUdKSEZDVlFTVnhQTFVDUGVFWmRUS1h5Q3JqQT0ifQ=="
     },
     {
       "id": "1473375367715750081",
@@ -2358,7 +2481,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKSEdXcDFET1FyNmRUUkJMUzV5c3ErTHVpL2hFNTEwQ1BhNzBwdjZEUT0ifQ=="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLTlQzc0hBSWxXMllYYUdKSEZDVlFTVnhQTFVDUGVFWmRUS1h5Q3JqQT0ifQ=="
     },
     {
       "id": "1470854078983569606",
@@ -2466,7 +2589,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKSEdXcDFET1FyNmRUUkJMUzV5c3ErTHVpL2hFNTEwQ1BhNzBwdjZEUT0ifQ=="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLTlQzc0hBSWxXMllYYUdKSEZDVlFTVnhQTFVDUGVFWmRUS1h5Q3JqQT0ifQ=="
     },
     {
       "id": "1478552018900746441",
@@ -2614,7 +2737,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKSEdXcDFET1FyNmRUUkJMUzV5c3ErTHVpL2hFNTEwQ1BhNzBwdjZEUT0ifQ=="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLTlQzc0hBSWxXMllYYUdKSEZDVlFTVnhQTFVDUGVFWmRUS1h5Q3JqQT0ifQ=="
     },
     {
       "id": "1475549097506115665",
@@ -2765,7 +2888,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKSEdXcDFET1FyNmRUUkJMUzV5c3ErTHVpL2hFNTEwQ1BhNzBwdjZEUT0ifQ=="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLTlQzc0hBSWxXMllYYUdKSEZDVlFTVnhQTFVDUGVFWmRUS1h5Q3JqQT0ifQ=="
     },
     {
       "id": "1471340231008583894",
@@ -2910,7 +3033,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKSEdXcDFET1FyNmRUUkJMUzV5c3ErTHVpL2hFNTEwQ1BhNzBwdjZEUT0ifQ=="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLTlQzc0hBSWxXMllYYUdKSEZDVlFTVnhQTFVDUGVFWmRUS1h5Q3JqQT0ifQ=="
     },
     {
       "id": "1468682555959283803",
@@ -3057,7 +3180,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKSEdXcDFET1FyNmRUUkJMUzV5c3ErTHVpL2hFNTEwQ1BhNzBwdjZEUT0ifQ=="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLTlQzc0hBSWxXMllYYUdKSEZDVlFTVnhQTFVDUGVFWmRUS1h5Q3JqQT0ifQ=="
     },
     {
       "id": "1477027221175668829",
@@ -3178,7 +3301,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKSEdXcDFET1FyNmRUUkJMUzV5c3ErTHVpL2hFNTEwQ1BhNzBwdjZEUT0ifQ=="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLTlQzc0hBSWxXMllYYUdKSEZDVlFTVnhQTFVDUGVFWmRUS1h5Q3JqQT0ifQ=="
     },
     {
       "id": "1468651135253483745",
@@ -3286,7 +3409,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKSEdXcDFET1FyNmRUUkJMUzV5c3ErTHVpL2hFNTEwQ1BhNzBwdjZEUT0ifQ=="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLTlQzc0hBSWxXMllYYUdKSEZDVlFTVnhQTFVDUGVFWmRUS1h5Q3JqQT0ifQ=="
     },
     {
       "id": "1476695876398350449",
@@ -3431,15 +3554,18 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKSEdXcDFET1FyNmRUUkJMUzV5c3ErTHVpL2hFNTEwQ1BhNzBwdjZEUT0ifQ=="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLTlQzc0hBSWxXMllYYUdKSEZDVlFTVnhQTFVDUGVFWmRUS1h5Q3JqQT0ifQ=="
     }
   ],
   "excluded_quests": [
     {
-      "id": "1469025960815890432"
+      "id": "1474437726668328960"
     },
     {
       "id": "1469016962607878401"
+    },
+    {
+      "id": "1469025960815890432"
     },
     {
       "id": "1466576187043348612"
