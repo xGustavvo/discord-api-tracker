@@ -95,7 +95,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMTkR3bE4rSUEzMEpZTG5oS29lRElMSGxJeVhuSStIbE9qdTltZHZDY0F0QjBaTXJwTzRNTlQ2UEx0ZS9ycEc2TENtTzRYIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdndGT3lZaUN4YllWcG95eVU3dUIxK2h1N2lwcXJQVnh4MlRnSk41NnQrU0VieE1FZnY0VHVLTjhmV0pEbUtjZ3Aza3BvIn0="
     },
     {
       "id": "1470483893688991745",
@@ -203,7 +203,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMTkR3bE4rSUEzMEpZTG5oS29lRElMSGxJeVhuSStIbE9qdTltZHZDY0F0QjBaTXJwTzRNTlQ2UEx0ZS9ycEc2TENtTzRYIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdndGT3lZaUN4YllWcG95eVU3dUIxK2h1N2lwcXJQVnh4MlRnSk41NnQrU0VieE1FZnY0VHVLTjhmV0pEbUtjZ3Aza3BvIn0="
     },
     {
       "id": "1468654050840019074",
@@ -348,7 +348,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMTkR3bE4rSUEzMEpZTG5oS29lRElMSGxJeVhuSStIbE9qdTltZHZDY0F0QjBaTXJwTzRNTlQ2UEx0ZS9ycEc2TENtTzRYIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdndGT3lZaUN4YllWcG95eVU3dUIxK2h1N2lwcXJQVnh4MlRnSk41NnQrU0VieE1FZnY0VHVLTjhmV0pEbUtjZ3Aza3BvIn0="
     },
     {
       "id": "1463558755621929219",
@@ -455,261 +455,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMTkR3bE4rSUEzMEpZTG5oS29lRElMSGxJeVhuSStIbE9qdTltZHZDY0F0QjBaTXJwTzRNTlQ2UEx0ZS9ycEc2TENtTzRYIn0="
-    },
-    {
-      "id": "1470834003434017026",
-      "config": {
-        "id": "1470834003434017026",
-        "config_version": 2,
-        "starts_at": "2026-02-12T18:00:13+00:00",
-        "expires_at": "2026-02-20T00:00:13+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://scarlet.movie/",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1470834003434017026/1470929405185622110.jpg",
-          "hero_video": "quests/1470834003434017026/1470929522546442476.mp4",
-          "quest_bar_hero_blurhash": "lSgGAoD+vZZFkkNkgEYHlVQ=",
-          "quest_bar_hero": "quests/1470834003434017026/1470929405185622110.jpg",
-          "quest_bar_hero_video": "quests/1470834003434017026/1473719835459322007.mp4",
-          "game_tile": "1470929269613138032.png",
-          "logotype": "1470929268572819609.png",
-          "game_tile_light": "quests/1470834003434017026/1470929097965178902.png",
-          "game_tile_dark": "quests/1470834003434017026/1470929097965178902.png",
-          "logotype_light": "quests/1470834003434017026/1470929192697729128.png",
-          "logotype_dark": "quests/1470834003434017026/1470929247114629315.png"
-        },
-        "colors": {
-          "primary": "#FFFFFF",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Scarlet",
-          "game_title": "From Director Mamoru Hosoda, Now Playing in Theaters",
-          "game_publisher": "Sony Pictures Classics"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "WATCH_VIDEO": {
-              "event_name": "WATCH_VIDEO",
-              "target": 53
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "event_name": "WATCH_VIDEO_ON_MOBILE",
-              "target": 53
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 53,
-              "assets": {
-                "video": {
-                  "url": "quests/1470834003434017026/1470929866768777257_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1470834003434017026/1470929938747101327.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1470834003434017026/1470929866768777257_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1470834003434017026/1470929938747101327.png"
-                },
-                "video_hls": {
-                  "url": "quests/1470834003434017026/1470929866768777257.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1470834003434017026/1470929938747101327.png"
-                }
-              },
-              "messages": {
-                "video_title": "Scarlet Trailer"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 53,
-              "assets": {
-                "video": {
-                  "url": "quests/1470834003434017026/1470929866768777257_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1470834003434017026/1470929938747101327.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1470834003434017026/1470929866768777257_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1470834003434017026/1470929938747101327.png"
-                },
-                "video_hls": {
-                  "url": "quests/1470834003434017026/1470929866768777257.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1470834003434017026/1470929938747101327.png"
-                }
-              },
-              "messages": {
-                "video_title": "Scarlet Trailer"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700,
-              "premium_orb_quantity": 0
-            }
-          ],
-          "rewards_expire_at": "2026-03-22T00:00:13+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://scarlet.movie/",
-          "button_label": "Adquira seu ingresso",
-          "subtitle": "From Director Mamoru Hosoda, Now Playing in Theaters"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false,
-      "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMTkR3bE4rSUEzMEpZTG5oS29lRElMSGxJeVhuSStIbE9qdTltZHZDY0F0QjBaTXJwTzRNTlQ2UEx0ZS9ycEc2TENtTzRYIn0="
-    },
-    {
-      "id": "1480604391718256773",
-      "config": {
-        "id": "1480604391718256773",
-        "config_version": 2,
-        "starts_at": "2026-03-12T17:00:15+00:00",
-        "expires_at": "2026-03-23T00:00:15+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://akendfield.gryphline.com/d27t/v1d1DQ",
-          "id": "1461154307171811401",
-          "name": "Arknights:Endfield"
-        },
-        "assets": {
-          "hero": "quests/1480604391718256773/1481330486675767389.jpg",
-          "hero_video": "quests/1480604391718256773/1480622959457468477.mp4",
-          "quest_bar_hero_blurhash": "HQgOC4BghYlud3h3CX5ocQk=",
-          "quest_bar_hero": "quests/1480604391718256773/1481330906454298837.jpg",
-          "quest_bar_hero_video": "quests/1480604391718256773/1480622959457468477.mp4",
-          "game_tile": "1480623327604379689.jpg",
-          "logotype": "1480623326442426452.png",
-          "game_tile_light": "quests/1480604391718256773/1480623194061672580.jpg",
-          "game_tile_dark": "quests/1480604391718256773/1480623194061672580.jpg",
-          "logotype_light": "quests/1480604391718256773/1480623146091548737.png",
-          "logotype_dark": "quests/1480604391718256773/1480623088575058021.png"
-        },
-        "colors": {
-          "primary": "#FFFFFF",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Version Update: Tangtang",
-          "game_title": "Arknights: Endfield",
-          "game_publisher": "GRYPHLINE"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "event_name": "PLAY_ON_DESKTOP",
-              "target": 900
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "event_name": "PLAY_ON_PLAYSTATION",
-              "target": 900
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1461154307171811401"
-                }
-              ]
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1461154307171811401"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700,
-              "premium_orb_quantity": 0
-            }
-          ],
-          "rewards_expire_at": "2026-04-22T00:00:15+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://akendfield.gryphline.com/d27t/v1d1DQ",
-          "button_label": "Jogar agora",
-          "subtitle": "Play Arknights: Endfield for 15 minutes"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false,
-      "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMTkR3bE4rSUEzMEpZTG5oS29lRElMSGxJeVhuSStIbE9qdTltZHZDY0F0QjBaTXJwTzRNTlQ2UEx0ZS9ycEc2TENtTzRYIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdndGT3lZaUN4YllWcG95eVU3dUIxK2h1N2lwcXJQVnh4MlRnSk41NnQrU0VieE1FZnY0VHVLTjhmV0pEbUtjZ3Aza3BvIn0="
     },
     {
       "id": "1474437726668328960",
@@ -854,7 +600,116 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMTkR3bE4rSUEzMEpZTG5oS29lRElMSGxJeVhuSStIbE9qdTltZHZDY0F0QjBaTXJwTzRNTlQ2UEx0ZS9ycEc2TENtTzRYIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdndGT3lZaUN4YllWcG95eVU3dUIxK2h1N2lwcXJQVnh4MlRnSk41NnQrU0VieE1FZnY0VHVLTjhmV0pEbUtjZ3Aza3BvIn0="
+    },
+    {
+      "id": "1480604391718256773",
+      "config": {
+        "id": "1480604391718256773",
+        "config_version": 2,
+        "starts_at": "2026-03-12T17:00:15+00:00",
+        "expires_at": "2026-03-23T00:00:15+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://akendfield.gryphline.com/d27t/v1d1DQ",
+          "id": "1461154307171811401",
+          "name": "Arknights:Endfield"
+        },
+        "assets": {
+          "hero": "quests/1480604391718256773/1481330486675767389.jpg",
+          "hero_video": "quests/1480604391718256773/1480622959457468477.mp4",
+          "quest_bar_hero_blurhash": "HQgOC4BghYlud3h3CX5ocQk=",
+          "quest_bar_hero": "quests/1480604391718256773/1481330906454298837.jpg",
+          "quest_bar_hero_video": "quests/1480604391718256773/1480622959457468477.mp4",
+          "game_tile": "1480623327604379689.jpg",
+          "logotype": "1480623326442426452.png",
+          "game_tile_light": "quests/1480604391718256773/1480623194061672580.jpg",
+          "game_tile_dark": "quests/1480604391718256773/1480623194061672580.jpg",
+          "logotype_light": "quests/1480604391718256773/1480623146091548737.png",
+          "logotype_dark": "quests/1480604391718256773/1480623088575058021.png"
+        },
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Version Update: Tangtang",
+          "game_title": "Arknights: Endfield",
+          "game_publisher": "GRYPHLINE"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "event_name": "PLAY_ON_DESKTOP",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "event_name": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1461154307171811401"
+                }
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1461154307171811401"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": 0
+            }
+          ],
+          "rewards_expire_at": "2026-04-22T00:00:15+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://akendfield.gryphline.com/d27t/v1d1DQ",
+          "button_label": "Jogar agora",
+          "subtitle": "Play Arknights: Endfield for 15 minutes"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false,
+      "traffic_metadata_raw": "EAI=",
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdndGT3lZaUN4YllWcG95eVU3dUIxK2h1N2lwcXJQVnh4MlRnSk41NnQrU0VieE1FZnY0VHVLTjhmV0pEbUtjZ3Aza3BvIn0="
     },
     {
       "id": "1478512780595167233",
@@ -977,255 +832,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMTkR3bE4rSUEzMEpZTG5oS29lRElMSGxJeVhuSStIbE9qdTltZHZDY0F0QjBaTXJwTzRNTlQ2UEx0ZS9ycEc2TENtTzRYIn0="
-    },
-    {
-      "id": "1478542747848802314",
-      "config": {
-        "id": "1478542747848802314",
-        "config_version": 2,
-        "starts_at": "2026-03-13T16:20:00+00:00",
-        "expires_at": "2026-03-28T23:00:59+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://www.callofduty.com/warzone?utm_source=discord-quest&utm_medium=paid&utm_campaign=black-ops-royale-season-2-reloaded",
-          "id": "1423760184819581080",
-          "name": "Call of Duty Black Ops 7"
-        },
-        "assets": {
-          "hero": "quests/1478542747848802314/1480600086760394941.jpg",
-          "hero_video": null,
-          "quest_bar_hero_blurhash": "2PcNDIJfmGeseIl3l2ZiESAFAQ==",
-          "quest_bar_hero": "quests/1478542747848802314/1480599990433747075.jpg",
-          "quest_bar_hero_video": null,
-          "game_tile": "1480999993451085904.png",
-          "logotype": "1481329585869033593.png",
-          "game_tile_light": "quests/1478542747848802314/1480999843932668155.png",
-          "game_tile_dark": "quests/1478542747848802314/1480999889574826218.png",
-          "logotype_light": "quests/1478542747848802314/1481329522195566693.png",
-          "logotype_dark": "quests/1478542747848802314/1481329487408005281.png"
-        },
-        "colors": {
-          "primary": "#FFFFFF",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Black Ops Royale",
-          "game_title": "Call of Duty: Warzone",
-          "game_publisher": "Activision"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "event_name": "PLAY_ON_DESKTOP",
-              "target": 900
-            },
-            "PLAY_ON_XBOX": {
-              "event_name": "PLAY_ON_XBOX",
-              "target": 900
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "event_name": "PLAY_ON_PLAYSTATION",
-              "target": 900
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1423760184819581080"
-                }
-              ]
-            },
-            "PLAY_ON_XBOX": {
-              "type": "PLAY_ON_XBOX",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1423760184819581080"
-                }
-              ]
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1423760184819581080"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 1,
-              "sku_id": "1480604750297825352",
-              "asset": "quests/1478542747848802314/1480668986864828496.jpg",
-              "asset_video": null,
-              "messages": {
-                "name": "Vales de 2XP e 2XP de Arma",
-                "name_with_article": "Double XP and Weapon XP Tokens",
-                "redemption_instructions_by_platform": {
-                  "0": "Black Ops Royale. Entre e jogue grátis agora mesmo"
-                }
-              },
-              "approximate_count": null,
-              "redemption_link": null
-            }
-          ],
-          "rewards_expire_at": "2026-04-27T23:00:59+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.callofduty.com/warzone?utm_source=discord-quest&utm_medium=paid&utm_campaign=black-ops-royale-season-2-reloaded",
-          "button_label": "Jogar agora",
-          "subtitle": "Black Ops Royale. Entre e jogue grátis agora mesmo"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false,
-      "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMTkR3bE4rSUEzMEpZTG5oS29lRElMSGxJeVhuSStIbE9qdTltZHZDY0F0QjBaTXJwTzRNTlQ2UEx0ZS9ycEc2TENtTzRYIn0="
-    },
-    {
-      "id": "1475987384116973579",
-      "config": {
-        "id": "1475987384116973579",
-        "config_version": 2,
-        "starts_at": "2026-03-18T16:00:54+00:00",
-        "expires_at": "2026-03-26T00:00:54+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=VALAct2LaunchPlay",
-          "id": "700136079562375258",
-          "name": "VALORANT"
-        },
-        "assets": {
-          "hero": "quests/1475987384116973579/1475990085714317372.jpg",
-          "hero_video": "quests/1475987384116973579/1475990159735525530.mp4",
-          "quest_bar_hero_blurhash": "UigKHIIC73l3iHeJeHgDeUnAZw==",
-          "quest_bar_hero": "quests/1475987384116973579/1475989961516777653.jpg",
-          "quest_bar_hero_video": "quests/1475987384116973579/1475990026113388575.mp4",
-          "game_tile": "1475990491983249508.png",
-          "logotype": "1475990490787614730.png",
-          "game_tile_light": "quests/1475987384116973579/1475990366917492766.png",
-          "game_tile_dark": "quests/1475987384116973579/1475990366917492766.png",
-          "logotype_light": "quests/1475987384116973579/1475990314412937368.png",
-          "logotype_dark": "quests/1475987384116973579/1475990314412937368.png"
-        },
-        "colors": {
-          "primary": "#FFFFFF",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Jogue VALORANT",
-          "game_title": "VALORANT",
-          "game_publisher": "Riot Games"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "event_name": "PLAY_ON_DESKTOP",
-              "target": 900
-            },
-            "PLAY_ON_XBOX": {
-              "event_name": "PLAY_ON_XBOX",
-              "target": 900
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "event_name": "PLAY_ON_PLAYSTATION",
-              "target": 900
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "700136079562375258"
-                }
-              ]
-            },
-            "PLAY_ON_XBOX": {
-              "type": "PLAY_ON_XBOX",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "700136079562375258"
-                }
-              ]
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "700136079562375258"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 3,
-              "sku_id": "1477011410528768231",
-              "asset": "quests/1475987384116973579/1477011703857152113.mp4",
-              "asset_video": null,
-              "messages": {
-                "name": "M-pulse Avatar Decoration",
-                "name_with_article": "an M-pulse Avatar Decoration",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "expires_at": "2026-05-25T00:00:00+00:00",
-              "expires_at_premium": null,
-              "expiration_mode": 3
-            }
-          ],
-          "rewards_expire_at": "2026-04-25T00:00:54+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=VALAct2LaunchPlay",
-          "button_label": "Jogar agora"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false,
-      "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMTkR3bE4rSUEzMEpZTG5oS29lRElMSGxJeVhuSStIbE9qdTltZHZDY0F0QjBaTXJwTzRNTlQ2UEx0ZS9ycEc2TENtTzRYIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdndGT3lZaUN4YllWcG95eVU3dUIxK2h1N2lwcXJQVnh4MlRnSk41NnQrU0VieE1FZnY0VHVLTjhmV0pEbUtjZ3Aza3BvIn0="
     },
     {
       "id": "1471628590096318597",
@@ -1370,7 +977,255 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMTkR3bE4rSUEzMEpZTG5oS29lRElMSGxJeVhuSStIbE9qdTltZHZDY0F0QjBaTXJwTzRNTlQ2UEx0ZS9ycEc2TENtTzRYIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdndGT3lZaUN4YllWcG95eVU3dUIxK2h1N2lwcXJQVnh4MlRnSk41NnQrU0VieE1FZnY0VHVLTjhmV0pEbUtjZ3Aza3BvIn0="
+    },
+    {
+      "id": "1478542747848802314",
+      "config": {
+        "id": "1478542747848802314",
+        "config_version": 2,
+        "starts_at": "2026-03-13T16:20:00+00:00",
+        "expires_at": "2026-03-28T23:00:59+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.callofduty.com/warzone?utm_source=discord-quest&utm_medium=paid&utm_campaign=black-ops-royale-season-2-reloaded",
+          "id": "1423760184819581080",
+          "name": "Call of Duty Black Ops 7"
+        },
+        "assets": {
+          "hero": "quests/1478542747848802314/1480600086760394941.jpg",
+          "hero_video": null,
+          "quest_bar_hero_blurhash": "2PcNDIJfmGeseIl3l2ZiESAFAQ==",
+          "quest_bar_hero": "quests/1478542747848802314/1480599990433747075.jpg",
+          "quest_bar_hero_video": null,
+          "game_tile": "1480999993451085904.png",
+          "logotype": "1481329585869033593.png",
+          "game_tile_light": "quests/1478542747848802314/1480999843932668155.png",
+          "game_tile_dark": "quests/1478542747848802314/1480999889574826218.png",
+          "logotype_light": "quests/1478542747848802314/1481329522195566693.png",
+          "logotype_dark": "quests/1478542747848802314/1481329487408005281.png"
+        },
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Black Ops Royale",
+          "game_title": "Call of Duty: Warzone",
+          "game_publisher": "Activision"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "event_name": "PLAY_ON_DESKTOP",
+              "target": 900
+            },
+            "PLAY_ON_XBOX": {
+              "event_name": "PLAY_ON_XBOX",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "event_name": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1423760184819581080"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1423760184819581080"
+                }
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1423760184819581080"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 1,
+              "sku_id": "1480604750297825352",
+              "asset": "quests/1478542747848802314/1480668986864828496.jpg",
+              "asset_video": null,
+              "messages": {
+                "name": "Vales de 2XP e 2XP de Arma",
+                "name_with_article": "Double XP and Weapon XP Tokens",
+                "redemption_instructions_by_platform": {
+                  "0": "Black Ops Royale. Entre e jogue grátis agora mesmo"
+                }
+              },
+              "approximate_count": null,
+              "redemption_link": null
+            }
+          ],
+          "rewards_expire_at": "2026-04-27T23:00:59+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.callofduty.com/warzone?utm_source=discord-quest&utm_medium=paid&utm_campaign=black-ops-royale-season-2-reloaded",
+          "button_label": "Jogar agora",
+          "subtitle": "Black Ops Royale. Entre e jogue grátis agora mesmo"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false,
+      "traffic_metadata_raw": "EAI=",
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdndGT3lZaUN4YllWcG95eVU3dUIxK2h1N2lwcXJQVnh4MlRnSk41NnQrU0VieE1FZnY0VHVLTjhmV0pEbUtjZ3Aza3BvIn0="
+    },
+    {
+      "id": "1475987384116973579",
+      "config": {
+        "id": "1475987384116973579",
+        "config_version": 2,
+        "starts_at": "2026-03-18T16:00:54+00:00",
+        "expires_at": "2026-03-26T00:00:54+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=VALAct2LaunchPlay",
+          "id": "700136079562375258",
+          "name": "VALORANT"
+        },
+        "assets": {
+          "hero": "quests/1475987384116973579/1475990085714317372.jpg",
+          "hero_video": "quests/1475987384116973579/1475990159735525530.mp4",
+          "quest_bar_hero_blurhash": "UigKHIIC73l3iHeJeHgDeUnAZw==",
+          "quest_bar_hero": "quests/1475987384116973579/1475989961516777653.jpg",
+          "quest_bar_hero_video": "quests/1475987384116973579/1475990026113388575.mp4",
+          "game_tile": "1475990491983249508.png",
+          "logotype": "1475990490787614730.png",
+          "game_tile_light": "quests/1475987384116973579/1475990366917492766.png",
+          "game_tile_dark": "quests/1475987384116973579/1475990366917492766.png",
+          "logotype_light": "quests/1475987384116973579/1475990314412937368.png",
+          "logotype_dark": "quests/1475987384116973579/1475990314412937368.png"
+        },
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Jogue VALORANT",
+          "game_title": "VALORANT",
+          "game_publisher": "Riot Games"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "event_name": "PLAY_ON_DESKTOP",
+              "target": 900
+            },
+            "PLAY_ON_XBOX": {
+              "event_name": "PLAY_ON_XBOX",
+              "target": 900
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "event_name": "PLAY_ON_PLAYSTATION",
+              "target": 900
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "700136079562375258"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "700136079562375258"
+                }
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "700136079562375258"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 3,
+              "sku_id": "1477011410528768231",
+              "asset": "quests/1475987384116973579/1477011703857152113.mp4",
+              "asset_video": null,
+              "messages": {
+                "name": "M-pulse Avatar Decoration",
+                "name_with_article": "an M-pulse Avatar Decoration",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "expires_at": "2026-05-25T00:00:00+00:00",
+              "expires_at_premium": null,
+              "expiration_mode": 3
+            }
+          ],
+          "rewards_expire_at": "2026-04-25T00:00:54+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=VALAct2LaunchPlay",
+          "button_label": "Jogar agora"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false,
+      "traffic_metadata_raw": "EAI=",
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdndGT3lZaUN4YllWcG95eVU3dUIxK2h1N2lwcXJQVnh4MlRnSk41NnQrU0VieE1FZnY0VHVLTjhmV0pEbUtjZ3Aza3BvIn0="
     },
     {
       "id": "1474092541644247315",
@@ -1478,7 +1333,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMTkR3bE4rSUEzMEpZTG5oS29lRElMSGxJeVhuSStIbE9qdTltZHZDY0F0QjBaTXJwTzRNTlQ2UEx0ZS9ycEc2TENtTzRYIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdndGT3lZaUN4YllWcG95eVU3dUIxK2h1N2lwcXJQVnh4MlRnSk41NnQrU0VieE1FZnY0VHVLTjhmV0pEbUtjZ3Aza3BvIn0="
     },
     {
       "id": "1463568772538564628",
@@ -1588,7 +1443,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMTkR3bE4rSUEzMEpZTG5oS29lRElMSGxJeVhuSStIbE9qdTltZHZDY0F0QjBaTXJwTzRNTlQ2UEx0ZS9ycEc2TENtTzRYIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdndGT3lZaUN4YllWcG95eVU3dUIxK2h1N2lwcXJQVnh4MlRnSk41NnQrU0VieE1FZnY0VHVLTjhmV0pEbUtjZ3Aza3BvIn0="
     },
     {
       "id": "1478526278440321174",
@@ -1733,7 +1588,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMTkR3bE4rSUEzMEpZTG5oS29lRElMSGxJeVhuSStIbE9qdTltZHZDY0F0QjBaTXJwTzRNTlQ2UEx0ZS9ycEc2TENtTzRYIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdndGT3lZaUN4YllWcG95eVU3dUIxK2h1N2lwcXJQVnh4MlRnSk41NnQrU0VieE1FZnY0VHVLTjhmV0pEbUtjZ3Aza3BvIn0="
     },
     {
       "id": "1479195401532735640",
@@ -1881,7 +1736,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMTkR3bE4rSUEzMEpZTG5oS29lRElMSGxJeVhuSStIbE9qdTltZHZDY0F0QjBaTXJwTzRNTlQ2UEx0ZS9ycEc2TENtTzRYIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdndGT3lZaUN4YllWcG95eVU3dUIxK2h1N2lwcXJQVnh4MlRnSk41NnQrU0VieE1FZnY0VHVLTjhmV0pEbUtjZ3Aza3BvIn0="
     },
     {
       "id": "1476354513831989278",
@@ -2026,7 +1881,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMTkR3bE4rSUEzMEpZTG5oS29lRElMSGxJeVhuSStIbE9qdTltZHZDY0F0QjBaTXJwTzRNTlQ2UEx0ZS9ycEc2TENtTzRYIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdndGT3lZaUN4YllWcG95eVU3dUIxK2h1N2lwcXJQVnh4MlRnSk41NnQrU0VieE1FZnY0VHVLTjhmV0pEbUtjZ3Aza3BvIn0="
     },
     {
       "id": "1473453463752151071",
@@ -2171,7 +2026,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMTkR3bE4rSUEzMEpZTG5oS29lRElMSGxJeVhuSStIbE9qdTltZHZDY0F0QjBaTXJwTzRNTlQ2UEx0ZS9ycEc2TENtTzRYIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdndGT3lZaUN4YllWcG95eVU3dUIxK2h1N2lwcXJQVnh4MlRnSk41NnQrU0VieE1FZnY0VHVLTjhmV0pEbUtjZ3Aza3BvIn0="
     },
     {
       "id": "1479540375348576417",
@@ -2316,7 +2171,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMTkR3bE4rSUEzMEpZTG5oS29lRElMSGxJeVhuSStIbE9qdTltZHZDY0F0QjBaTXJwTzRNTlQ2UEx0ZS9ycEc2TENtTzRYIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdndGT3lZaUN4YllWcG95eVU3dUIxK2h1N2lwcXJQVnh4MlRnSk41NnQrU0VieE1FZnY0VHVLTjhmV0pEbUtjZ3Aza3BvIn0="
     },
     {
       "id": "1478179540558938152",
@@ -2461,7 +2316,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMTkR3bE4rSUEzMEpZTG5oS29lRElMSGxJeVhuSStIbE9qdTltZHZDY0F0QjBaTXJwTzRNTlQ2UEx0ZS9ycEc2TENtTzRYIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdndGT3lZaUN4YllWcG95eVU3dUIxK2h1N2lwcXJQVnh4MlRnSk41NnQrU0VieE1FZnY0VHVLTjhmV0pEbUtjZ3Aza3BvIn0="
     },
     {
       "id": "1474205151999950889",
@@ -2582,7 +2437,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMTkR3bE4rSUEzMEpZTG5oS29lRElMSGxJeVhuSStIbE9qdTltZHZDY0F0QjBaTXJwTzRNTlQ2UEx0ZS9ycEc2TENtTzRYIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdndGT3lZaUN4YllWcG95eVU3dUIxK2h1N2lwcXJQVnh4MlRnSk41NnQrU0VieE1FZnY0VHVLTjhmV0pEbUtjZ3Aza3BvIn0="
     },
     {
       "id": "1470543032142139434",
@@ -2679,7 +2534,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMTkR3bE4rSUEzMEpZTG5oS29lRElMSGxJeVhuSStIbE9qdTltZHZDY0F0QjBaTXJwTzRNTlQ2UEx0ZS9ycEc2TENtTzRYIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdndGT3lZaUN4YllWcG95eVU3dUIxK2h1N2lwcXJQVnh4MlRnSk41NnQrU0VieE1FZnY0VHVLTjhmV0pEbUtjZ3Aza3BvIn0="
     },
     {
       "id": "1475549063108890664",
@@ -2827,7 +2682,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMTkR3bE4rSUEzMEpZTG5oS29lRElMSGxJeVhuSStIbE9qdTltZHZDY0F0QjBaTXJwTzRNTlQ2UEx0ZS9ycEc2TENtTzRYIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdndGT3lZaUN4YllWcG95eVU3dUIxK2h1N2lwcXJQVnh4MlRnSk41NnQrU0VieE1FZnY0VHVLTjhmV0pEbUtjZ3Aza3BvIn0="
     },
     {
       "id": "1478155979362275500",
@@ -2972,7 +2827,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMTkR3bE4rSUEzMEpZTG5oS29lRElMSGxJeVhuSStIbE9qdTltZHZDY0F0QjBaTXJwTzRNTlQ2UEx0ZS9ycEc2TENtTzRYIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdndGT3lZaUN4YllWcG95eVU3dUIxK2h1N2lwcXJQVnh4MlRnSk41NnQrU0VieE1FZnY0VHVLTjhmV0pEbUtjZ3Aza3BvIn0="
     },
     {
       "id": "1479908639048470708",
@@ -3096,7 +2951,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMTkR3bE4rSUEzMEpZTG5oS29lRElMSGxJeVhuSStIbE9qdTltZHZDY0F0QjBaTXJwTzRNTlQ2UEx0ZS9ycEc2TENtTzRYIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdndGT3lZaUN4YllWcG95eVU3dUIxK2h1N2lwcXJQVnh4MlRnSk41NnQrU0VieE1FZnY0VHVLTjhmV0pEbUtjZ3Aza3BvIn0="
     },
     {
       "id": "1480592064768118967",
@@ -3204,7 +3059,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMTkR3bE4rSUEzMEpZTG5oS29lRElMSGxJeVhuSStIbE9qdTltZHZDY0F0QjBaTXJwTzRNTlQ2UEx0ZS9ycEc2TENtTzRYIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdndGT3lZaUN4YllWcG95eVU3dUIxK2h1N2lwcXJQVnh4MlRnSk41NnQrU0VieE1FZnY0VHVLTjhmV0pEbUtjZ3Aza3BvIn0="
     },
     {
       "id": "1480687817087516733",
@@ -3355,7 +3210,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMTkR3bE4rSUEzMEpZTG5oS29lRElMSGxJeVhuSStIbE9qdTltZHZDY0F0QjBaTXJwTzRNTlQ2UEx0ZS9ycEc2TENtTzRYIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdndGT3lZaUN4YllWcG95eVU3dUIxK2h1N2lwcXJQVnh4MlRnSk41NnQrU0VieE1FZnY0VHVLTjhmV0pEbUtjZ3Aza3BvIn0="
     },
     {
       "id": "1473375367715750081",
@@ -3500,7 +3355,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMTkR3bE4rSUEzMEpZTG5oS29lRElMSGxJeVhuSStIbE9qdTltZHZDY0F0QjBaTXJwTzRNTlQ2UEx0ZS9ycEc2TENtTzRYIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdndGT3lZaUN4YllWcG95eVU3dUIxK2h1N2lwcXJQVnh4MlRnSk41NnQrU0VieE1FZnY0VHVLTjhmV0pEbUtjZ3Aza3BvIn0="
     },
     {
       "id": "1478855935052222658",
@@ -3623,7 +3478,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMTkR3bE4rSUEzMEpZTG5oS29lRElMSGxJeVhuSStIbE9qdTltZHZDY0F0QjBaTXJwTzRNTlQ2UEx0ZS9ycEc2TENtTzRYIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdndGT3lZaUN4YllWcG95eVU3dUIxK2h1N2lwcXJQVnh4MlRnSk41NnQrU0VieE1FZnY0VHVLTjhmV0pEbUtjZ3Aza3BvIn0="
     },
     {
       "id": "1479538233627906118",
@@ -3768,7 +3623,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMTkR3bE4rSUEzMEpZTG5oS29lRElMSGxJeVhuSStIbE9qdTltZHZDY0F0QjBaTXJwTzRNTlQ2UEx0ZS9ycEc2TENtTzRYIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdndGT3lZaUN4YllWcG95eVU3dUIxK2h1N2lwcXJQVnh4MlRnSk41NnQrU0VieE1FZnY0VHVLTjhmV0pEbUtjZ3Aza3BvIn0="
     },
     {
       "id": "1476286335697555526",
@@ -3916,7 +3771,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMTkR3bE4rSUEzMEpZTG5oS29lRElMSGxJeVhuSStIbE9qdTltZHZDY0F0QjBaTXJwTzRNTlQ2UEx0ZS9ycEc2TENtTzRYIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdndGT3lZaUN4YllWcG95eVU3dUIxK2h1N2lwcXJQVnh4MlRnSk41NnQrU0VieE1FZnY0VHVLTjhmV0pEbUtjZ3Aza3BvIn0="
     },
     {
       "id": "1470854078983569606",
@@ -4024,7 +3879,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMTkR3bE4rSUEzMEpZTG5oS29lRElMSGxJeVhuSStIbE9qdTltZHZDY0F0QjBaTXJwTzRNTlQ2UEx0ZS9ycEc2TENtTzRYIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdndGT3lZaUN4YllWcG95eVU3dUIxK2h1N2lwcXJQVnh4MlRnSk41NnQrU0VieE1FZnY0VHVLTjhmV0pEbUtjZ3Aza3BvIn0="
     },
     {
       "id": "1478552018900746441",
@@ -4172,7 +4027,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMTkR3bE4rSUEzMEpZTG5oS29lRElMSGxJeVhuSStIbE9qdTltZHZDY0F0QjBaTXJwTzRNTlQ2UEx0ZS9ycEc2TENtTzRYIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdndGT3lZaUN4YllWcG95eVU3dUIxK2h1N2lwcXJQVnh4MlRnSk41NnQrU0VieE1FZnY0VHVLTjhmV0pEbUtjZ3Aza3BvIn0="
     },
     {
       "id": "1481682156442091590",
@@ -4320,7 +4175,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMTkR3bE4rSUEzMEpZTG5oS29lRElMSGxJeVhuSStIbE9qdTltZHZDY0F0QjBaTXJwTzRNTlQ2UEx0ZS9ycEc2TENtTzRYIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdndGT3lZaUN4YllWcG95eVU3dUIxK2h1N2lwcXJQVnh4MlRnSk41NnQrU0VieE1FZnY0VHVLTjhmV0pEbUtjZ3Aza3BvIn0="
     },
     {
       "id": "1473790795248177355",
@@ -4474,7 +4329,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMTkR3bE4rSUEzMEpZTG5oS29lRElMSGxJeVhuSStIbE9qdTltZHZDY0F0QjBaTXJwTzRNTlQ2UEx0ZS9ycEc2TENtTzRYIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdndGT3lZaUN4YllWcG95eVU3dUIxK2h1N2lwcXJQVnh4MlRnSk41NnQrU0VieE1FZnY0VHVLTjhmV0pEbUtjZ3Aza3BvIn0="
     },
     {
       "id": "1482897963645796552",
@@ -4598,7 +4453,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMTkR3bE4rSUEzMEpZTG5oS29lRElMSGxJeVhuSStIbE9qdTltZHZDY0F0QjBaTXJwTzRNTlQ2UEx0ZS9ycEc2TENtTzRYIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdndGT3lZaUN4YllWcG95eVU3dUIxK2h1N2lwcXJQVnh4MlRnSk41NnQrU0VieE1FZnY0VHVLTjhmV0pEbUtjZ3Aza3BvIn0="
     },
     {
       "id": "1482178562692747344",
@@ -4742,7 +4597,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMTkR3bE4rSUEzMEpZTG5oS29lRElMSGxJeVhuSStIbE9qdTltZHZDY0F0QjBaTXJwTzRNTlQ2UEx0ZS9ycEc2TENtTzRYIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdndGT3lZaUN4YllWcG95eVU3dUIxK2h1N2lwcXJQVnh4MlRnSk41NnQrU0VieE1FZnY0VHVLTjhmV0pEbUtjZ3Aza3BvIn0="
     },
     {
       "id": "1475549097506115665",
@@ -4893,7 +4748,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMTkR3bE4rSUEzMEpZTG5oS29lRElMSGxJeVhuSStIbE9qdTltZHZDY0F0QjBaTXJwTzRNTlQ2UEx0ZS9ycEc2TENtTzRYIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdndGT3lZaUN4YllWcG95eVU3dUIxK2h1N2lwcXJQVnh4MlRnSk41NnQrU0VieE1FZnY0VHVLTjhmV0pEbUtjZ3Aza3BvIn0="
     },
     {
       "id": "1479533798306611281",
@@ -5041,7 +4896,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMTkR3bE4rSUEzMEpZTG5oS29lRElMSGxJeVhuSStIbE9qdTltZHZDY0F0QjBaTXJwTzRNTlQ2UEx0ZS9ycEc2TENtTzRYIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdndGT3lZaUN4YllWcG95eVU3dUIxK2h1N2lwcXJQVnh4MlRnSk41NnQrU0VieE1FZnY0VHVLTjhmV0pEbUtjZ3Aza3BvIn0="
     },
     {
       "id": "1471340231008583894",
@@ -5186,7 +5041,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMTkR3bE4rSUEzMEpZTG5oS29lRElMSGxJeVhuSStIbE9qdTltZHZDY0F0QjBaTXJwTzRNTlQ2UEx0ZS9ycEc2TENtTzRYIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdndGT3lZaUN4YllWcG95eVU3dUIxK2h1N2lwcXJQVnh4MlRnSk41NnQrU0VieE1FZnY0VHVLTjhmV0pEbUtjZ3Aza3BvIn0="
     },
     {
       "id": "1471215421297266778",
@@ -5330,7 +5185,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMTkR3bE4rSUEzMEpZTG5oS29lRElMSGxJeVhuSStIbE9qdTltZHZDY0F0QjBaTXJwTzRNTlQ2UEx0ZS9ycEc2TENtTzRYIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdndGT3lZaUN4YllWcG95eVU3dUIxK2h1N2lwcXJQVnh4MlRnSk41NnQrU0VieE1FZnY0VHVLTjhmV0pEbUtjZ3Aza3BvIn0="
     },
     {
       "id": "1475943803956232283",
@@ -5440,7 +5295,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMTkR3bE4rSUEzMEpZTG5oS29lRElMSGxJeVhuSStIbE9qdTltZHZDY0F0QjBaTXJwTzRNTlQ2UEx0ZS9ycEc2TENtTzRYIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdndGT3lZaUN4YllWcG95eVU3dUIxK2h1N2lwcXJQVnh4MlRnSk41NnQrU0VieE1FZnY0VHVLTjhmV0pEbUtjZ3Aza3BvIn0="
     },
     {
       "id": "1477027221175668829",
@@ -5561,7 +5416,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMTkR3bE4rSUEzMEpZTG5oS29lRElMSGxJeVhuSStIbE9qdTltZHZDY0F0QjBaTXJwTzRNTlQ2UEx0ZS9ycEc2TENtTzRYIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdndGT3lZaUN4YllWcG95eVU3dUIxK2h1N2lwcXJQVnh4MlRnSk41NnQrU0VieE1FZnY0VHVLTjhmV0pEbUtjZ3Aza3BvIn0="
     },
     {
       "id": "1473407935970410724",
@@ -5656,7 +5511,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMTkR3bE4rSUEzMEpZTG5oS29lRElMSGxJeVhuSStIbE9qdTltZHZDY0F0QjBaTXJwTzRNTlQ2UEx0ZS9ycEc2TENtTzRYIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdndGT3lZaUN4YllWcG95eVU3dUIxK2h1N2lwcXJQVnh4MlRnSk41NnQrU0VieE1FZnY0VHVLTjhmV0pEbUtjZ3Aza3BvIn0="
     },
     {
       "id": "1473383175639007332",
@@ -5801,7 +5656,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMTkR3bE4rSUEzMEpZTG5oS29lRElMSGxJeVhuSStIbE9qdTltZHZDY0F0QjBaTXJwTzRNTlQ2UEx0ZS9ycEc2TENtTzRYIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdndGT3lZaUN4YllWcG95eVU3dUIxK2h1N2lwcXJQVnh4MlRnSk41NnQrU0VieE1FZnY0VHVLTjhmV0pEbUtjZ3Aza3BvIn0="
     },
     {
       "id": "1471589719186870377",
@@ -5952,7 +5807,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMTkR3bE4rSUEzMEpZTG5oS29lRElMSGxJeVhuSStIbE9qdTltZHZDY0F0QjBaTXJwTzRNTlQ2UEx0ZS9ycEc2TENtTzRYIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdndGT3lZaUN4YllWcG95eVU3dUIxK2h1N2lwcXJQVnh4MlRnSk41NnQrU0VieE1FZnY0VHVLTjhmV0pEbUtjZ3Aza3BvIn0="
     },
     {
       "id": "1483177638242549883",
@@ -6100,7 +5955,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMTkR3bE4rSUEzMEpZTG5oS29lRElMSGxJeVhuSStIbE9qdTltZHZDY0F0QjBaTXJwTzRNTlQ2UEx0ZS9ycEc2TENtTzRYIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdndGT3lZaUN4YllWcG95eVU3dUIxK2h1N2lwcXJQVnh4MlRnSk41NnQrU0VieE1FZnY0VHVLTjhmV0pEbUtjZ3Aza3BvIn0="
     },
     {
       "id": "1476695876398350449",
@@ -6245,7 +6100,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMTkR3bE4rSUEzMEpZTG5oS29lRElMSGxJeVhuSStIbE9qdTltZHZDY0F0QjBaTXJwTzRNTlQ2UEx0ZS9ycEc2TENtTzRYIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdndGT3lZaUN4YllWcG95eVU3dUIxK2h1N2lwcXJQVnh4MlRnSk41NnQrU0VieE1FZnY0VHVLTjhmV0pEbUtjZ3Aza3BvIn0="
     },
     {
       "id": "1479563144895533307",
@@ -6390,7 +6245,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAI=",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMTkR3bE4rSUEzMEpZTG5oS29lRElMSGxJeVhuSStIbE9qdTltZHZDY0F0QjBaTXJwTzRNTlQ2UEx0ZS9ycEc2TENtTzRYIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdndGT3lZaUN4YllWcG95eVU3dUIxK2h1N2lwcXJQVnh4MlRnSk41NnQrU0VieE1FZnY0VHVLTjhmV0pEbUtjZ3Aza3BvIn0="
     }
   ],
   "excluded_quests": [
