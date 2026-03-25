@@ -68,5 +68,25 @@
       "slug": "flex-badge-pack",
       "boost_price": 5
     }
+  },
+  {
+    "id": "1466214266750246361",
+    "summary": "Plant Badge Pack",
+    "sku": {
+      "id": "1466209416922667288",
+      "name": "Plant Badge Pack",
+      "slug": "plant-badge-pack",
+      "boost_price": 3
+    }
+  },
+  {
+    "id": "1466214266758634971",
+    "summary": "Creepy Crawlies Badge Pack",
+    "sku": {
+      "id": "1466209416931055898",
+      "name": "Creepy Crawlies Badge Pack",
+      "slug": "creepy-crawlies-badge-pack",
+      "boost_price": 2
+    }
   }
 ]
