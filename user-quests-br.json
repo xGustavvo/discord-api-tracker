@@ -95,7 +95,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMc1FJeHY1am9lSlVNa2FLTk5HODczZEJrQ0o0MzFKQU0wc1VpcW1BSzRVQ1N0ZGpybkkvZitxcGN4d0gxU1A5eUhmQTJxTUhXb3JUNnNxV1pBTWlpZkFXa0NUZ2JnNXhVPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJY21LRlJYQkVvM0JXNGdhSExOMmNleDBKN1MzYy9uSERhanFUdFZmdnlTQ0dPbEZJQmhGNVJFZUZzdkJDcG9DVjVORFNhR3p0b3NMM2NNOFNsYVB0c2ZDeXZXVGpkVXRrPSJ9"
     },
     {
       "id": "1474437726668328960",
@@ -240,152 +240,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMc1FJeHY1am9lSlVNa2FLTk5HODczZEJrQ0o0MzFKQU0wc1VpcW1BSzRVQ1N0ZGpybkkvZitxcGN4d0gxU1A5eUhmQTJxTUhXb3JUNnNxV1pBTWlpZkFXa0NUZ2JnNXhVPSJ9"
-    },
-    {
-      "id": "1468654050840019074",
-      "config": {
-        "id": "1468654050840019074",
-        "config_version": 2,
-        "starts_at": "2026-02-16T18:00:51+00:00",
-        "expires_at": "2026-02-26T00:00:51+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://shop.battle.net/product/world-of-warcraft-midnight?utm_source=Discord&utm_medium=PaidGGM",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1468654050840019074/1469101859569664172.jpg",
-          "hero_video": null,
-          "quest_bar_hero_blurhash": "jPcFHIB0aplvh4WZeafgUvyBag==",
-          "quest_bar_hero": "quests/1468654050840019074/1471655346773688404.jpg",
-          "quest_bar_hero_video": "quests/1468654050840019074/1471655385436917923.mp4",
-          "game_tile": "1468658166244839567.png",
-          "logotype": "1468658165183676486.png",
-          "game_tile_light": "quests/1468654050840019074/1468655004792520735.png",
-          "game_tile_dark": "quests/1468654050840019074/1468655004792520735.png",
-          "logotype_light": "quests/1468654050840019074/1468655114003677429.png",
-          "logotype_dark": "quests/1468654050840019074/1468655157611856094.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "World of Warcraft: Midnight Video",
-          "game_title": "World of Warcraft",
-          "game_publisher": "Blizzard Entertainment"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "WATCH_VIDEO": {
-              "event_name": "WATCH_VIDEO",
-              "target": 69
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "event_name": "WATCH_VIDEO_ON_MOBILE",
-              "target": 69
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 69,
-              "assets": {
-                "video": {
-                  "url": "quests/1468654050840019074/1471337928524304414_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1468654050840019074/1469064784786886706.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1468654050840019074/1471337928524304414_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1468654050840019074/1469064784786886706.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1468654050840019074/1471337928524304414.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1468654050840019074/1469064784786886706.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "World of Warcraft: Midnight Trailer"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 69,
-              "assets": {
-                "video": {
-                  "url": "quests/1468654050840019074/1471337928524304414_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1468654050840019074/1469064784786886706.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1468654050840019074/1471337928524304414_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1468654050840019074/1469064784786886706.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1468654050840019074/1471337928524304414.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1468654050840019074/1469064784786886706.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "World of Warcraft: Midnight Trailer"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700,
-              "premium_orb_quantity": null
-            }
-          ],
-          "rewards_expire_at": "2026-03-28T00:00:51+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://shop.battle.net/product/world-of-warcraft-midnight?utm_source=Discord&utm_medium=PaidGGM",
-          "button_label": "Obter jogo",
-          "subtitle": "Midnight Pre-Expansion Update Trailer"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false,
-      "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMc1FJeHY1am9lSlVNa2FLTk5HODczZEJrQ0o0MzFKQU0wc1VpcW1BSzRVQ1N0ZGpybkkvZitxcGN4d0gxU1A5eUhmQTJxTUhXb3JUNnNxV1pBTWlpZkFXa0NUZ2JnNXhVPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJY21LRlJYQkVvM0JXNGdhSExOMmNleDBKN1MzYy9uSERhanFUdFZmdnlTQ0dPbEZJQmhGNVJFZUZzdkJDcG9DVjVORFNhR3p0b3NMM2NNOFNsYVB0c2ZDeXZXVGpkVXRrPSJ9"
     },
     {
       "id": "1463558755621929219",
@@ -492,7 +347,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMc1FJeHY1am9lSlVNa2FLTk5HODczZEJrQ0o0MzFKQU0wc1VpcW1BSzRVQ1N0ZGpybkkvZitxcGN4d0gxU1A5eUhmQTJxTUhXb3JUNnNxV1pBTWlpZkFXa0NUZ2JnNXhVPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJY21LRlJYQkVvM0JXNGdhSExOMmNleDBKN1MzYy9uSERhanFUdFZmdnlTQ0dPbEZJQmhGNVJFZUZzdkJDcG9DVjVORFNhR3p0b3NMM2NNOFNsYVB0c2ZDeXZXVGpkVXRrPSJ9"
     },
     {
       "id": "1480604391718256773",
@@ -601,7 +456,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMc1FJeHY1am9lSlVNa2FLTk5HODczZEJrQ0o0MzFKQU0wc1VpcW1BSzRVQ1N0ZGpybkkvZitxcGN4d0gxU1A5eUhmQTJxTUhXb3JUNnNxV1pBTWlpZkFXa0NUZ2JnNXhVPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJY21LRlJYQkVvM0JXNGdhSExOMmNleDBKN1MzYy9uSERhanFUdFZmdnlTQ0dPbEZJQmhGNVJFZUZzdkJDcG9DVjVORFNhR3p0b3NMM2NNOFNsYVB0c2ZDeXZXVGpkVXRrPSJ9"
     },
     {
       "id": "1478512780595167233",
@@ -724,7 +579,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMc1FJeHY1am9lSlVNa2FLTk5HODczZEJrQ0o0MzFKQU0wc1VpcW1BSzRVQ1N0ZGpybkkvZitxcGN4d0gxU1A5eUhmQTJxTUhXb3JUNnNxV1pBTWlpZkFXa0NUZ2JnNXhVPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJY21LRlJYQkVvM0JXNGdhSExOMmNleDBKN1MzYy9uSERhanFUdFZmdnlTQ0dPbEZJQmhGNVJFZUZzdkJDcG9DVjVORFNhR3p0b3NMM2NNOFNsYVB0c2ZDeXZXVGpkVXRrPSJ9"
     },
     {
       "id": "1471628590096318597",
@@ -869,7 +724,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMc1FJeHY1am9lSlVNa2FLTk5HODczZEJrQ0o0MzFKQU0wc1VpcW1BSzRVQ1N0ZGpybkkvZitxcGN4d0gxU1A5eUhmQTJxTUhXb3JUNnNxV1pBTWlpZkFXa0NUZ2JnNXhVPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJY21LRlJYQkVvM0JXNGdhSExOMmNleDBKN1MzYy9uSERhanFUdFZmdnlTQ0dPbEZJQmhGNVJFZUZzdkJDcG9DVjVORFNhR3p0b3NMM2NNOFNsYVB0c2ZDeXZXVGpkVXRrPSJ9"
     },
     {
       "id": "1478542747848802314",
@@ -993,7 +848,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMc1FJeHY1am9lSlVNa2FLTk5HODczZEJrQ0o0MzFKQU0wc1VpcW1BSzRVQ1N0ZGpybkkvZitxcGN4d0gxU1A5eUhmQTJxTUhXb3JUNnNxV1pBTWlpZkFXa0NUZ2JnNXhVPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJY21LRlJYQkVvM0JXNGdhSExOMmNleDBKN1MzYy9uSERhanFUdFZmdnlTQ0dPbEZJQmhGNVJFZUZzdkJDcG9DVjVORFNhR3p0b3NMM2NNOFNsYVB0c2ZDeXZXVGpkVXRrPSJ9"
     },
     {
       "id": "1475987384116973579",
@@ -1117,7 +972,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMc1FJeHY1am9lSlVNa2FLTk5HODczZEJrQ0o0MzFKQU0wc1VpcW1BSzRVQ1N0ZGpybkkvZitxcGN4d0gxU1A5eUhmQTJxTUhXb3JUNnNxV1pBTWlpZkFXa0NUZ2JnNXhVPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJY21LRlJYQkVvM0JXNGdhSExOMmNleDBKN1MzYy9uSERhanFUdFZmdnlTQ0dPbEZJQmhGNVJFZUZzdkJDcG9DVjVORFNhR3p0b3NMM2NNOFNsYVB0c2ZDeXZXVGpkVXRrPSJ9"
     },
     {
       "id": "1474092541644247315",
@@ -1225,7 +1080,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMc1FJeHY1am9lSlVNa2FLTk5HODczZEJrQ0o0MzFKQU0wc1VpcW1BSzRVQ1N0ZGpybkkvZitxcGN4d0gxU1A5eUhmQTJxTUhXb3JUNnNxV1pBTWlpZkFXa0NUZ2JnNXhVPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJY21LRlJYQkVvM0JXNGdhSExOMmNleDBKN1MzYy9uSERhanFUdFZmdnlTQ0dPbEZJQmhGNVJFZUZzdkJDcG9DVjVORFNhR3p0b3NMM2NNOFNsYVB0c2ZDeXZXVGpkVXRrPSJ9"
     },
     {
       "id": "1463568772538564628",
@@ -1335,7 +1190,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMc1FJeHY1am9lSlVNa2FLTk5HODczZEJrQ0o0MzFKQU0wc1VpcW1BSzRVQ1N0ZGpybkkvZitxcGN4d0gxU1A5eUhmQTJxTUhXb3JUNnNxV1pBTWlpZkFXa0NUZ2JnNXhVPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJY21LRlJYQkVvM0JXNGdhSExOMmNleDBKN1MzYy9uSERhanFUdFZmdnlTQ0dPbEZJQmhGNVJFZUZzdkJDcG9DVjVORFNhR3p0b3NMM2NNOFNsYVB0c2ZDeXZXVGpkVXRrPSJ9"
     },
     {
       "id": "1478526278440321174",
@@ -1480,7 +1335,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMc1FJeHY1am9lSlVNa2FLTk5HODczZEJrQ0o0MzFKQU0wc1VpcW1BSzRVQ1N0ZGpybkkvZitxcGN4d0gxU1A5eUhmQTJxTUhXb3JUNnNxV1pBTWlpZkFXa0NUZ2JnNXhVPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJY21LRlJYQkVvM0JXNGdhSExOMmNleDBKN1MzYy9uSERhanFUdFZmdnlTQ0dPbEZJQmhGNVJFZUZzdkJDcG9DVjVORFNhR3p0b3NMM2NNOFNsYVB0c2ZDeXZXVGpkVXRrPSJ9"
     },
     {
       "id": "1479195401532735640",
@@ -1628,7 +1483,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMc1FJeHY1am9lSlVNa2FLTk5HODczZEJrQ0o0MzFKQU0wc1VpcW1BSzRVQ1N0ZGpybkkvZitxcGN4d0gxU1A5eUhmQTJxTUhXb3JUNnNxV1pBTWlpZkFXa0NUZ2JnNXhVPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJY21LRlJYQkVvM0JXNGdhSExOMmNleDBKN1MzYy9uSERhanFUdFZmdnlTQ0dPbEZJQmhGNVJFZUZzdkJDcG9DVjVORFNhR3p0b3NMM2NNOFNsYVB0c2ZDeXZXVGpkVXRrPSJ9"
     },
     {
       "id": "1476354513831989278",
@@ -1773,7 +1628,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMc1FJeHY1am9lSlVNa2FLTk5HODczZEJrQ0o0MzFKQU0wc1VpcW1BSzRVQ1N0ZGpybkkvZitxcGN4d0gxU1A5eUhmQTJxTUhXb3JUNnNxV1pBTWlpZkFXa0NUZ2JnNXhVPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJY21LRlJYQkVvM0JXNGdhSExOMmNleDBKN1MzYy9uSERhanFUdFZmdnlTQ0dPbEZJQmhGNVJFZUZzdkJDcG9DVjVORFNhR3p0b3NMM2NNOFNsYVB0c2ZDeXZXVGpkVXRrPSJ9"
     },
     {
       "id": "1473453463752151071",
@@ -1918,7 +1773,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMc1FJeHY1am9lSlVNa2FLTk5HODczZEJrQ0o0MzFKQU0wc1VpcW1BSzRVQ1N0ZGpybkkvZitxcGN4d0gxU1A5eUhmQTJxTUhXb3JUNnNxV1pBTWlpZkFXa0NUZ2JnNXhVPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJY21LRlJYQkVvM0JXNGdhSExOMmNleDBKN1MzYy9uSERhanFUdFZmdnlTQ0dPbEZJQmhGNVJFZUZzdkJDcG9DVjVORFNhR3p0b3NMM2NNOFNsYVB0c2ZDeXZXVGpkVXRrPSJ9"
     },
     {
       "id": "1479540375348576417",
@@ -2063,7 +1918,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMc1FJeHY1am9lSlVNa2FLTk5HODczZEJrQ0o0MzFKQU0wc1VpcW1BSzRVQ1N0ZGpybkkvZitxcGN4d0gxU1A5eUhmQTJxTUhXb3JUNnNxV1pBTWlpZkFXa0NUZ2JnNXhVPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJY21LRlJYQkVvM0JXNGdhSExOMmNleDBKN1MzYy9uSERhanFUdFZmdnlTQ0dPbEZJQmhGNVJFZUZzdkJDcG9DVjVORFNhR3p0b3NMM2NNOFNsYVB0c2ZDeXZXVGpkVXRrPSJ9"
     },
     {
       "id": "1478179540558938152",
@@ -2208,7 +2063,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMc1FJeHY1am9lSlVNa2FLTk5HODczZEJrQ0o0MzFKQU0wc1VpcW1BSzRVQ1N0ZGpybkkvZitxcGN4d0gxU1A5eUhmQTJxTUhXb3JUNnNxV1pBTWlpZkFXa0NUZ2JnNXhVPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJY21LRlJYQkVvM0JXNGdhSExOMmNleDBKN1MzYy9uSERhanFUdFZmdnlTQ0dPbEZJQmhGNVJFZUZzdkJDcG9DVjVORFNhR3p0b3NMM2NNOFNsYVB0c2ZDeXZXVGpkVXRrPSJ9"
     },
     {
       "id": "1474205151999950889",
@@ -2329,7 +2184,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMc1FJeHY1am9lSlVNa2FLTk5HODczZEJrQ0o0MzFKQU0wc1VpcW1BSzRVQ1N0ZGpybkkvZitxcGN4d0gxU1A5eUhmQTJxTUhXb3JUNnNxV1pBTWlpZkFXa0NUZ2JnNXhVPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJY21LRlJYQkVvM0JXNGdhSExOMmNleDBKN1MzYy9uSERhanFUdFZmdnlTQ0dPbEZJQmhGNVJFZUZzdkJDcG9DVjVORFNhR3p0b3NMM2NNOFNsYVB0c2ZDeXZXVGpkVXRrPSJ9"
     },
     {
       "id": "1470543032142139434",
@@ -2426,7 +2281,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMc1FJeHY1am9lSlVNa2FLTk5HODczZEJrQ0o0MzFKQU0wc1VpcW1BSzRVQ1N0ZGpybkkvZitxcGN4d0gxU1A5eUhmQTJxTUhXb3JUNnNxV1pBTWlpZkFXa0NUZ2JnNXhVPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJY21LRlJYQkVvM0JXNGdhSExOMmNleDBKN1MzYy9uSERhanFUdFZmdnlTQ0dPbEZJQmhGNVJFZUZzdkJDcG9DVjVORFNhR3p0b3NMM2NNOFNsYVB0c2ZDeXZXVGpkVXRrPSJ9"
     },
     {
       "id": "1475549063108890664",
@@ -2574,7 +2429,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMc1FJeHY1am9lSlVNa2FLTk5HODczZEJrQ0o0MzFKQU0wc1VpcW1BSzRVQ1N0ZGpybkkvZitxcGN4d0gxU1A5eUhmQTJxTUhXb3JUNnNxV1pBTWlpZkFXa0NUZ2JnNXhVPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJY21LRlJYQkVvM0JXNGdhSExOMmNleDBKN1MzYy9uSERhanFUdFZmdnlTQ0dPbEZJQmhGNVJFZUZzdkJDcG9DVjVORFNhR3p0b3NMM2NNOFNsYVB0c2ZDeXZXVGpkVXRrPSJ9"
     },
     {
       "id": "1478155979362275500",
@@ -2719,7 +2574,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMc1FJeHY1am9lSlVNa2FLTk5HODczZEJrQ0o0MzFKQU0wc1VpcW1BSzRVQ1N0ZGpybkkvZitxcGN4d0gxU1A5eUhmQTJxTUhXb3JUNnNxV1pBTWlpZkFXa0NUZ2JnNXhVPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJY21LRlJYQkVvM0JXNGdhSExOMmNleDBKN1MzYy9uSERhanFUdFZmdnlTQ0dPbEZJQmhGNVJFZUZzdkJDcG9DVjVORFNhR3p0b3NMM2NNOFNsYVB0c2ZDeXZXVGpkVXRrPSJ9"
     },
     {
       "id": "1479908639048470708",
@@ -2843,7 +2698,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMc1FJeHY1am9lSlVNa2FLTk5HODczZEJrQ0o0MzFKQU0wc1VpcW1BSzRVQ1N0ZGpybkkvZitxcGN4d0gxU1A5eUhmQTJxTUhXb3JUNnNxV1pBTWlpZkFXa0NUZ2JnNXhVPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJY21LRlJYQkVvM0JXNGdhSExOMmNleDBKN1MzYy9uSERhanFUdFZmdnlTQ0dPbEZJQmhGNVJFZUZzdkJDcG9DVjVORFNhR3p0b3NMM2NNOFNsYVB0c2ZDeXZXVGpkVXRrPSJ9"
     },
     {
       "id": "1480592064768118967",
@@ -2951,7 +2806,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMc1FJeHY1am9lSlVNa2FLTk5HODczZEJrQ0o0MzFKQU0wc1VpcW1BSzRVQ1N0ZGpybkkvZitxcGN4d0gxU1A5eUhmQTJxTUhXb3JUNnNxV1pBTWlpZkFXa0NUZ2JnNXhVPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJY21LRlJYQkVvM0JXNGdhSExOMmNleDBKN1MzYy9uSERhanFUdFZmdnlTQ0dPbEZJQmhGNVJFZUZzdkJDcG9DVjVORFNhR3p0b3NMM2NNOFNsYVB0c2ZDeXZXVGpkVXRrPSJ9"
     },
     {
       "id": "1480687817087516733",
@@ -3102,7 +2957,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMc1FJeHY1am9lSlVNa2FLTk5HODczZEJrQ0o0MzFKQU0wc1VpcW1BSzRVQ1N0ZGpybkkvZitxcGN4d0gxU1A5eUhmQTJxTUhXb3JUNnNxV1pBTWlpZkFXa0NUZ2JnNXhVPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJY21LRlJYQkVvM0JXNGdhSExOMmNleDBKN1MzYy9uSERhanFUdFZmdnlTQ0dPbEZJQmhGNVJFZUZzdkJDcG9DVjVORFNhR3p0b3NMM2NNOFNsYVB0c2ZDeXZXVGpkVXRrPSJ9"
     },
     {
       "id": "1481052453335076926",
@@ -3247,7 +3102,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMc1FJeHY1am9lSlVNa2FLTk5HODczZEJrQ0o0MzFKQU0wc1VpcW1BSzRVQ1N0ZGpybkkvZitxcGN4d0gxU1A5eUhmQTJxTUhXb3JUNnNxV1pBTWlpZkFXa0NUZ2JnNXhVPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJY21LRlJYQkVvM0JXNGdhSExOMmNleDBKN1MzYy9uSERhanFUdFZmdnlTQ0dPbEZJQmhGNVJFZUZzdkJDcG9DVjVORFNhR3p0b3NMM2NNOFNsYVB0c2ZDeXZXVGpkVXRrPSJ9"
     },
     {
       "id": "1478855935052222658",
@@ -3370,7 +3225,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMc1FJeHY1am9lSlVNa2FLTk5HODczZEJrQ0o0MzFKQU0wc1VpcW1BSzRVQ1N0ZGpybkkvZitxcGN4d0gxU1A5eUhmQTJxTUhXb3JUNnNxV1pBTWlpZkFXa0NUZ2JnNXhVPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJY21LRlJYQkVvM0JXNGdhSExOMmNleDBKN1MzYy9uSERhanFUdFZmdnlTQ0dPbEZJQmhGNVJFZUZzdkJDcG9DVjVORFNhR3p0b3NMM2NNOFNsYVB0c2ZDeXZXVGpkVXRrPSJ9"
     },
     {
       "id": "1479538233627906118",
@@ -3515,7 +3370,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMc1FJeHY1am9lSlVNa2FLTk5HODczZEJrQ0o0MzFKQU0wc1VpcW1BSzRVQ1N0ZGpybkkvZitxcGN4d0gxU1A5eUhmQTJxTUhXb3JUNnNxV1pBTWlpZkFXa0NUZ2JnNXhVPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJY21LRlJYQkVvM0JXNGdhSExOMmNleDBKN1MzYy9uSERhanFUdFZmdnlTQ0dPbEZJQmhGNVJFZUZzdkJDcG9DVjVORFNhR3p0b3NMM2NNOFNsYVB0c2ZDeXZXVGpkVXRrPSJ9"
     },
     {
       "id": "1476286335697555526",
@@ -3663,7 +3518,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMc1FJeHY1am9lSlVNa2FLTk5HODczZEJrQ0o0MzFKQU0wc1VpcW1BSzRVQ1N0ZGpybkkvZitxcGN4d0gxU1A5eUhmQTJxTUhXb3JUNnNxV1pBTWlpZkFXa0NUZ2JnNXhVPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJY21LRlJYQkVvM0JXNGdhSExOMmNleDBKN1MzYy9uSERhanFUdFZmdnlTQ0dPbEZJQmhGNVJFZUZzdkJDcG9DVjVORFNhR3p0b3NMM2NNOFNsYVB0c2ZDeXZXVGpkVXRrPSJ9"
     },
     {
       "id": "1470854078983569606",
@@ -3771,7 +3626,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMc1FJeHY1am9lSlVNa2FLTk5HODczZEJrQ0o0MzFKQU0wc1VpcW1BSzRVQ1N0ZGpybkkvZitxcGN4d0gxU1A5eUhmQTJxTUhXb3JUNnNxV1pBTWlpZkFXa0NUZ2JnNXhVPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJY21LRlJYQkVvM0JXNGdhSExOMmNleDBKN1MzYy9uSERhanFUdFZmdnlTQ0dPbEZJQmhGNVJFZUZzdkJDcG9DVjVORFNhR3p0b3NMM2NNOFNsYVB0c2ZDeXZXVGpkVXRrPSJ9"
     },
     {
       "id": "1478552018900746441",
@@ -3919,7 +3774,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMc1FJeHY1am9lSlVNa2FLTk5HODczZEJrQ0o0MzFKQU0wc1VpcW1BSzRVQ1N0ZGpybkkvZitxcGN4d0gxU1A5eUhmQTJxTUhXb3JUNnNxV1pBTWlpZkFXa0NUZ2JnNXhVPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJY21LRlJYQkVvM0JXNGdhSExOMmNleDBKN1MzYy9uSERhanFUdFZmdnlTQ0dPbEZJQmhGNVJFZUZzdkJDcG9DVjVORFNhR3p0b3NMM2NNOFNsYVB0c2ZDeXZXVGpkVXRrPSJ9"
     },
     {
       "id": "1481682156442091590",
@@ -4067,7 +3922,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMc1FJeHY1am9lSlVNa2FLTk5HODczZEJrQ0o0MzFKQU0wc1VpcW1BSzRVQ1N0ZGpybkkvZitxcGN4d0gxU1A5eUhmQTJxTUhXb3JUNnNxV1pBTWlpZkFXa0NUZ2JnNXhVPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJY21LRlJYQkVvM0JXNGdhSExOMmNleDBKN1MzYy9uSERhanFUdFZmdnlTQ0dPbEZJQmhGNVJFZUZzdkJDcG9DVjVORFNhR3p0b3NMM2NNOFNsYVB0c2ZDeXZXVGpkVXRrPSJ9"
     },
     {
       "id": "1473790795248177355",
@@ -4221,7 +4076,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMc1FJeHY1am9lSlVNa2FLTk5HODczZEJrQ0o0MzFKQU0wc1VpcW1BSzRVQ1N0ZGpybkkvZitxcGN4d0gxU1A5eUhmQTJxTUhXb3JUNnNxV1pBTWlpZkFXa0NUZ2JnNXhVPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJY21LRlJYQkVvM0JXNGdhSExOMmNleDBKN1MzYy9uSERhanFUdFZmdnlTQ0dPbEZJQmhGNVJFZUZzdkJDcG9DVjVORFNhR3p0b3NMM2NNOFNsYVB0c2ZDeXZXVGpkVXRrPSJ9"
     },
     {
       "id": "1482897963645796552",
@@ -4345,7 +4200,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMc1FJeHY1am9lSlVNa2FLTk5HODczZEJrQ0o0MzFKQU0wc1VpcW1BSzRVQ1N0ZGpybkkvZitxcGN4d0gxU1A5eUhmQTJxTUhXb3JUNnNxV1pBTWlpZkFXa0NUZ2JnNXhVPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJY21LRlJYQkVvM0JXNGdhSExOMmNleDBKN1MzYy9uSERhanFUdFZmdnlTQ0dPbEZJQmhGNVJFZUZzdkJDcG9DVjVORFNhR3p0b3NMM2NNOFNsYVB0c2ZDeXZXVGpkVXRrPSJ9"
     },
     {
       "id": "1483876544622629067",
@@ -4490,7 +4345,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMc1FJeHY1am9lSlVNa2FLTk5HODczZEJrQ0o0MzFKQU0wc1VpcW1BSzRVQ1N0ZGpybkkvZitxcGN4d0gxU1A5eUhmQTJxTUhXb3JUNnNxV1pBTWlpZkFXa0NUZ2JnNXhVPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJY21LRlJYQkVvM0JXNGdhSExOMmNleDBKN1MzYy9uSERhanFUdFZmdnlTQ0dPbEZJQmhGNVJFZUZzdkJDcG9DVjVORFNhR3p0b3NMM2NNOFNsYVB0c2ZDeXZXVGpkVXRrPSJ9"
     },
     {
       "id": "1482178562692747344",
@@ -4634,7 +4489,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMc1FJeHY1am9lSlVNa2FLTk5HODczZEJrQ0o0MzFKQU0wc1VpcW1BSzRVQ1N0ZGpybkkvZitxcGN4d0gxU1A5eUhmQTJxTUhXb3JUNnNxV1pBTWlpZkFXa0NUZ2JnNXhVPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJY21LRlJYQkVvM0JXNGdhSExOMmNleDBKN1MzYy9uSERhanFUdFZmdnlTQ0dPbEZJQmhGNVJFZUZzdkJDcG9DVjVORFNhR3p0b3NMM2NNOFNsYVB0c2ZDeXZXVGpkVXRrPSJ9"
     },
     {
       "id": "1475549097506115665",
@@ -4785,7 +4640,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMc1FJeHY1am9lSlVNa2FLTk5HODczZEJrQ0o0MzFKQU0wc1VpcW1BSzRVQ1N0ZGpybkkvZitxcGN4d0gxU1A5eUhmQTJxTUhXb3JUNnNxV1pBTWlpZkFXa0NUZ2JnNXhVPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJY21LRlJYQkVvM0JXNGdhSExOMmNleDBKN1MzYy9uSERhanFUdFZmdnlTQ0dPbEZJQmhGNVJFZUZzdkJDcG9DVjVORFNhR3p0b3NMM2NNOFNsYVB0c2ZDeXZXVGpkVXRrPSJ9"
     },
     {
       "id": "1479533798306611281",
@@ -4933,7 +4788,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMc1FJeHY1am9lSlVNa2FLTk5HODczZEJrQ0o0MzFKQU0wc1VpcW1BSzRVQ1N0ZGpybkkvZitxcGN4d0gxU1A5eUhmQTJxTUhXb3JUNnNxV1pBTWlpZkFXa0NUZ2JnNXhVPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJY21LRlJYQkVvM0JXNGdhSExOMmNleDBKN1MzYy9uSERhanFUdFZmdnlTQ0dPbEZJQmhGNVJFZUZzdkJDcG9DVjVORFNhR3p0b3NMM2NNOFNsYVB0c2ZDeXZXVGpkVXRrPSJ9"
     },
     {
       "id": "1471340231008583894",
@@ -5078,7 +4933,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMc1FJeHY1am9lSlVNa2FLTk5HODczZEJrQ0o0MzFKQU0wc1VpcW1BSzRVQ1N0ZGpybkkvZitxcGN4d0gxU1A5eUhmQTJxTUhXb3JUNnNxV1pBTWlpZkFXa0NUZ2JnNXhVPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJY21LRlJYQkVvM0JXNGdhSExOMmNleDBKN1MzYy9uSERhanFUdFZmdnlTQ0dPbEZJQmhGNVJFZUZzdkJDcG9DVjVORFNhR3p0b3NMM2NNOFNsYVB0c2ZDeXZXVGpkVXRrPSJ9"
     },
     {
       "id": "1471215421297266778",
@@ -5222,7 +5077,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMc1FJeHY1am9lSlVNa2FLTk5HODczZEJrQ0o0MzFKQU0wc1VpcW1BSzRVQ1N0ZGpybkkvZitxcGN4d0gxU1A5eUhmQTJxTUhXb3JUNnNxV1pBTWlpZkFXa0NUZ2JnNXhVPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJY21LRlJYQkVvM0JXNGdhSExOMmNleDBKN1MzYy9uSERhanFUdFZmdnlTQ0dPbEZJQmhGNVJFZUZzdkJDcG9DVjVORFNhR3p0b3NMM2NNOFNsYVB0c2ZDeXZXVGpkVXRrPSJ9"
     },
     {
       "id": "1475943803956232283",
@@ -5332,7 +5187,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMc1FJeHY1am9lSlVNa2FLTk5HODczZEJrQ0o0MzFKQU0wc1VpcW1BSzRVQ1N0ZGpybkkvZitxcGN4d0gxU1A5eUhmQTJxTUhXb3JUNnNxV1pBTWlpZkFXa0NUZ2JnNXhVPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJY21LRlJYQkVvM0JXNGdhSExOMmNleDBKN1MzYy9uSERhanFUdFZmdnlTQ0dPbEZJQmhGNVJFZUZzdkJDcG9DVjVORFNhR3p0b3NMM2NNOFNsYVB0c2ZDeXZXVGpkVXRrPSJ9"
     },
     {
       "id": "1484604335034994780",
@@ -5455,7 +5310,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMc1FJeHY1am9lSlVNa2FLTk5HODczZEJrQ0o0MzFKQU0wc1VpcW1BSzRVQ1N0ZGpybkkvZitxcGN4d0gxU1A5eUhmQTJxTUhXb3JUNnNxV1pBTWlpZkFXa0NUZ2JnNXhVPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJY21LRlJYQkVvM0JXNGdhSExOMmNleDBKN1MzYy9uSERhanFUdFZmdnlTQ0dPbEZJQmhGNVJFZUZzdkJDcG9DVjVORFNhR3p0b3NMM2NNOFNsYVB0c2ZDeXZXVGpkVXRrPSJ9"
     },
     {
       "id": "1477027221175668829",
@@ -5576,7 +5431,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMc1FJeHY1am9lSlVNa2FLTk5HODczZEJrQ0o0MzFKQU0wc1VpcW1BSzRVQ1N0ZGpybkkvZitxcGN4d0gxU1A5eUhmQTJxTUhXb3JUNnNxV1pBTWlpZkFXa0NUZ2JnNXhVPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJY21LRlJYQkVvM0JXNGdhSExOMmNleDBKN1MzYy9uSERhanFUdFZmdnlTQ0dPbEZJQmhGNVJFZUZzdkJDcG9DVjVORFNhR3p0b3NMM2NNOFNsYVB0c2ZDeXZXVGpkVXRrPSJ9"
     },
     {
       "id": "1473407935970410724",
@@ -5671,7 +5526,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMc1FJeHY1am9lSlVNa2FLTk5HODczZEJrQ0o0MzFKQU0wc1VpcW1BSzRVQ1N0ZGpybkkvZitxcGN4d0gxU1A5eUhmQTJxTUhXb3JUNnNxV1pBTWlpZkFXa0NUZ2JnNXhVPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJY21LRlJYQkVvM0JXNGdhSExOMmNleDBKN1MzYy9uSERhanFUdFZmdnlTQ0dPbEZJQmhGNVJFZUZzdkJDcG9DVjVORFNhR3p0b3NMM2NNOFNsYVB0c2ZDeXZXVGpkVXRrPSJ9"
     },
     {
       "id": "1471589719186870377",
@@ -5822,300 +5677,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMc1FJeHY1am9lSlVNa2FLTk5HODczZEJrQ0o0MzFKQU0wc1VpcW1BSzRVQ1N0ZGpybkkvZitxcGN4d0gxU1A5eUhmQTJxTUhXb3JUNnNxV1pBTWlpZkFXa0NUZ2JnNXhVPSJ9"
-    },
-    {
-      "id": "1483177638242549883",
-      "config": {
-        "id": "1483177638242549883",
-        "config_version": 2,
-        "starts_at": "2026-03-19T22:00:25+00:00",
-        "expires_at": "2026-03-29T00:00:25+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://ad.doubleclick.net/ddm/trackclk/N880306.3866164DISCORD.COM/B35433500.442265764;dc_trk_aid=635879826;dc_trk_cid=251701438;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1483177638242549883/1483198828306759835.jpg",
-          "hero_video": "quests/1483177638242549883/1483178857002438687.mp4",
-          "quest_bar_hero_blurhash": "EQgOEoIEhXp6d1eIDpPnMGk=",
-          "quest_bar_hero": "quests/1483177638242549883/1483198828306759835.jpg",
-          "quest_bar_hero_video": "quests/1483177638242549883/1483178857002438687.mp4",
-          "game_tile": "1483179209793999040.jpg",
-          "logotype": "1483179208644497418.png",
-          "game_tile_light": "quests/1483177638242549883/1483179041908330627.jpg",
-          "game_tile_dark": "quests/1483177638242549883/1483179041908330627.jpg",
-          "logotype_light": "quests/1483177638242549883/1483178983595180092.png",
-          "logotype_dark": "quests/1483177638242549883/1483178983595180092.png"
-        },
-        "colors": {
-          "primary": "#FFFFFF",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Crimson Desert",
-          "game_title": "Crimson Desert",
-          "game_publisher": "Pearl Abyss"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "WATCH_VIDEO": {
-              "event_name": "WATCH_VIDEO",
-              "target": 29
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "event_name": "WATCH_VIDEO_ON_MOBILE",
-              "target": 29
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1483177638242549883/1483881686323429598_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1483177638242549883/1483179900579090753.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1483177638242549883/1483881686323429598_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1483177638242549883/1483179900579090753.png"
-                },
-                "video_hls": {
-                  "url": "quests/1483177638242549883/1483881686323429598.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1483177638242549883/1483179900579090753.png"
-                }
-              },
-              "messages": {
-                "video_title": "video"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1483177638242549883/1483881686323429598_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1483177638242549883/1483179900579090753.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1483177638242549883/1483881686323429598_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1483177638242549883/1483179900579090753.png"
-                },
-                "video_hls": {
-                  "url": "quests/1483177638242549883/1483881686323429598.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1483177638242549883/1483179900579090753.png"
-                }
-              },
-              "messages": {
-                "video_title": "video"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 3,
-              "sku_id": "1483177615866073230",
-              "asset": "quests/1483177638242549883/1483627130997702786.mp4",
-              "asset_video": null,
-              "messages": {
-                "name": "Decoração de avatar do Golden Star Boss",
-                "name_with_article": "Chefe \"Golden Star\"",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "expires_at": "2026-05-28T00:00:00+00:00",
-              "expires_at_premium": null,
-              "expiration_mode": 3
-            }
-          ],
-          "rewards_expire_at": "2026-04-28T00:00:25+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://ad.doubleclick.net/ddm/trackclk/N880306.3866164DISCORD.COM/B35433500.442265764;dc_trk_aid=635879826;dc_trk_cid=251701438;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
-          "button_label": "Jogar agora",
-          "subtitle": "Disponível para PS5, Xbox Series X|S, PC e Mac."
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false,
-      "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMc1FJeHY1am9lSlVNa2FLTk5HODczZEJrQ0o0MzFKQU0wc1VpcW1BSzRVQ1N0ZGpybkkvZitxcGN4d0gxU1A5eUhmQTJxTUhXb3JUNnNxV1pBTWlpZkFXa0NUZ2JnNXhVPSJ9"
-    },
-    {
-      "id": "1476695876398350449",
-      "config": {
-        "id": "1476695876398350449",
-        "config_version": 2,
-        "starts_at": "2026-03-04T18:00:12+00:00",
-        "expires_at": "2026-03-14T00:00:12+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://www.lenovo.com/us/en/legion/",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1476695876398350449/1476698077619290252.jpg",
-          "hero_video": "quests/1476695876398350449/1476698008002494545.mp4",
-          "quest_bar_hero_blurhash": "lBYGEoJlbXsqRAm+3kD0PxY=",
-          "quest_bar_hero": "quests/1476695876398350449/1476698077619290252.jpg",
-          "quest_bar_hero_video": "quests/1476695876398350449/1476698008002494545.mp4",
-          "game_tile": "1476698195017994440.png",
-          "logotype": "1476698194036392019.png",
-          "game_tile_light": "quests/1476695876398350449/1476698143264477185.png",
-          "game_tile_dark": "quests/1476695876398350449/1476698143264477185.png",
-          "logotype_light": "quests/1476695876398350449/1476698176936480799.png",
-          "logotype_dark": "quests/1476695876398350449/1476698176936480799.png"
-        },
-        "colors": {
-          "primary": "#FFFFFF",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Lenovo Legion",
-          "game_title": "Lenovo Legion",
-          "game_publisher": "Lenovo Legion"
-        },
-        "task_config": {
-          "type": 1,
-          "join_operator": "or",
-          "tasks": {
-            "WATCH_VIDEO": {
-              "event_name": "WATCH_VIDEO",
-              "target": 28
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "event_name": "WATCH_VIDEO_ON_MOBILE",
-              "target": 28
-            }
-          }
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 28,
-              "assets": {
-                "video": {
-                  "url": "quests/1476695876398350449/1477031820544446537_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1476695876398350449/1477103485496594554.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1476695876398350449/1477031820544446537_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1476695876398350449/1477103485496594554.png"
-                },
-                "video_hls": {
-                  "url": "quests/1476695876398350449/1477031820544446537.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1476695876398350449/1477103485496594554.png"
-                }
-              },
-              "messages": {
-                "video_title": "Lenovo Legion Video"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 28,
-              "assets": {
-                "video": {
-                  "url": "quests/1476695876398350449/1477031820544446537_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1476695876398350449/1477103485496594554.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1476695876398350449/1477031820544446537_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1476695876398350449/1477103485496594554.png"
-                },
-                "video_hls": {
-                  "url": "quests/1476695876398350449/1477031820544446537.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1476695876398350449/1477103485496594554.png"
-                }
-              },
-              "messages": {
-                "video_title": "Lenovo Legion Video"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": null
-            }
-          ],
-          "rewards_expire_at": "2026-04-13T00:00:12+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.lenovo.com/us/en/legion/",
-          "button_label": "Mais detalhes",
-          "subtitle": "Reach Your Impossible"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false,
-      "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMc1FJeHY1am9lSlVNa2FLTk5HODczZEJrQ0o0MzFKQU0wc1VpcW1BSzRVQ1N0ZGpybkkvZitxcGN4d0gxU1A5eUhmQTJxTUhXb3JUNnNxV1pBTWlpZkFXa0NUZ2JnNXhVPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJY21LRlJYQkVvM0JXNGdhSExOMmNleDBKN1MzYy9uSERhanFUdFZmdnlTQ0dPbEZJQmhGNVJFZUZzdkJDcG9DVjVORFNhR3p0b3NMM2NNOFNsYVB0c2ZDeXZXVGpkVXRrPSJ9"
     },
     {
       "id": "1479563144895533307",
@@ -6260,7 +5822,300 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMc1FJeHY1am9lSlVNa2FLTk5HODczZEJrQ0o0MzFKQU0wc1VpcW1BSzRVQ1N0ZGpybkkvZitxcGN4d0gxU1A5eUhmQTJxTUhXb3JUNnNxV1pBTWlpZkFXa0NUZ2JnNXhVPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJY21LRlJYQkVvM0JXNGdhSExOMmNleDBKN1MzYy9uSERhanFUdFZmdnlTQ0dPbEZJQmhGNVJFZUZzdkJDcG9DVjVORFNhR3p0b3NMM2NNOFNsYVB0c2ZDeXZXVGpkVXRrPSJ9"
+    },
+    {
+      "id": "1476695876398350449",
+      "config": {
+        "id": "1476695876398350449",
+        "config_version": 2,
+        "starts_at": "2026-03-04T18:00:12+00:00",
+        "expires_at": "2026-03-14T00:00:12+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.lenovo.com/us/en/legion/",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1476695876398350449/1476698077619290252.jpg",
+          "hero_video": "quests/1476695876398350449/1476698008002494545.mp4",
+          "quest_bar_hero_blurhash": "lBYGEoJlbXsqRAm+3kD0PxY=",
+          "quest_bar_hero": "quests/1476695876398350449/1476698077619290252.jpg",
+          "quest_bar_hero_video": "quests/1476695876398350449/1476698008002494545.mp4",
+          "game_tile": "1476698195017994440.png",
+          "logotype": "1476698194036392019.png",
+          "game_tile_light": "quests/1476695876398350449/1476698143264477185.png",
+          "game_tile_dark": "quests/1476695876398350449/1476698143264477185.png",
+          "logotype_light": "quests/1476695876398350449/1476698176936480799.png",
+          "logotype_dark": "quests/1476695876398350449/1476698176936480799.png"
+        },
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Lenovo Legion",
+          "game_title": "Lenovo Legion",
+          "game_publisher": "Lenovo Legion"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "WATCH_VIDEO": {
+              "event_name": "WATCH_VIDEO",
+              "target": 28
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "event_name": "WATCH_VIDEO_ON_MOBILE",
+              "target": 28
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 28,
+              "assets": {
+                "video": {
+                  "url": "quests/1476695876398350449/1477031820544446537_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1476695876398350449/1477103485496594554.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1476695876398350449/1477031820544446537_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1476695876398350449/1477103485496594554.png"
+                },
+                "video_hls": {
+                  "url": "quests/1476695876398350449/1477031820544446537.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1476695876398350449/1477103485496594554.png"
+                }
+              },
+              "messages": {
+                "video_title": "Lenovo Legion Video"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 28,
+              "assets": {
+                "video": {
+                  "url": "quests/1476695876398350449/1477031820544446537_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1476695876398350449/1477103485496594554.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1476695876398350449/1477031820544446537_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1476695876398350449/1477103485496594554.png"
+                },
+                "video_hls": {
+                  "url": "quests/1476695876398350449/1477031820544446537.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1476695876398350449/1477103485496594554.png"
+                }
+              },
+              "messages": {
+                "video_title": "Lenovo Legion Video"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-04-13T00:00:12+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.lenovo.com/us/en/legion/",
+          "button_label": "Mais detalhes",
+          "subtitle": "Reach Your Impossible"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false,
+      "traffic_metadata_raw": "EAIYAQ==",
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJY21LRlJYQkVvM0JXNGdhSExOMmNleDBKN1MzYy9uSERhanFUdFZmdnlTQ0dPbEZJQmhGNVJFZUZzdkJDcG9DVjVORFNhR3p0b3NMM2NNOFNsYVB0c2ZDeXZXVGpkVXRrPSJ9"
+    },
+    {
+      "id": "1483177638242549883",
+      "config": {
+        "id": "1483177638242549883",
+        "config_version": 2,
+        "starts_at": "2026-03-19T22:00:25+00:00",
+        "expires_at": "2026-03-30T12:00:25+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://ad.doubleclick.net/ddm/trackclk/N880306.3866164DISCORD.COM/B35433500.442265764;dc_trk_aid=635879826;dc_trk_cid=251701438;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1483177638242549883/1483198828306759835.jpg",
+          "hero_video": "quests/1483177638242549883/1483178857002438687.mp4",
+          "quest_bar_hero_blurhash": "EQgOEoIEhXp6d1eIDpPnMGk=",
+          "quest_bar_hero": "quests/1483177638242549883/1483198828306759835.jpg",
+          "quest_bar_hero_video": "quests/1483177638242549883/1483178857002438687.mp4",
+          "game_tile": "1483179209793999040.jpg",
+          "logotype": "1483179208644497418.png",
+          "game_tile_light": "quests/1483177638242549883/1483179041908330627.jpg",
+          "game_tile_dark": "quests/1483177638242549883/1483179041908330627.jpg",
+          "logotype_light": "quests/1483177638242549883/1483178983595180092.png",
+          "logotype_dark": "quests/1483177638242549883/1483178983595180092.png"
+        },
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Crimson Desert",
+          "game_title": "Crimson Desert",
+          "game_publisher": "Pearl Abyss"
+        },
+        "task_config": {
+          "type": 1,
+          "join_operator": "or",
+          "tasks": {
+            "WATCH_VIDEO": {
+              "event_name": "WATCH_VIDEO",
+              "target": 29
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "event_name": "WATCH_VIDEO_ON_MOBILE",
+              "target": 29
+            }
+          }
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1483177638242549883/1483881686323429598_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1483177638242549883/1483179900579090753.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1483177638242549883/1483881686323429598_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1483177638242549883/1483179900579090753.png"
+                },
+                "video_hls": {
+                  "url": "quests/1483177638242549883/1483881686323429598.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1483177638242549883/1483179900579090753.png"
+                }
+              },
+              "messages": {
+                "video_title": "video"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1483177638242549883/1483881686323429598_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1483177638242549883/1483179900579090753.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1483177638242549883/1483881686323429598_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1483177638242549883/1483179900579090753.png"
+                },
+                "video_hls": {
+                  "url": "quests/1483177638242549883/1483881686323429598.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1483177638242549883/1483179900579090753.png"
+                }
+              },
+              "messages": {
+                "video_title": "video"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 3,
+              "sku_id": "1483177615866073230",
+              "asset": "quests/1483177638242549883/1483627130997702786.mp4",
+              "asset_video": null,
+              "messages": {
+                "name": "Decoração de avatar do Golden Star Boss",
+                "name_with_article": "Chefe \"Golden Star\"",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "expires_at": "2026-05-28T00:00:00+00:00",
+              "expires_at_premium": null,
+              "expiration_mode": 3
+            }
+          ],
+          "rewards_expire_at": "2026-04-29T12:00:25+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://ad.doubleclick.net/ddm/trackclk/N880306.3866164DISCORD.COM/B35433500.442265764;dc_trk_aid=635879826;dc_trk_cid=251701438;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+          "button_label": "Jogar agora",
+          "subtitle": "Disponível para PS5, Xbox Series X|S, PC e Mac."
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false,
+      "traffic_metadata_raw": "EAIYAQ==",
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJY21LRlJYQkVvM0JXNGdhSExOMmNleDBKN1MzYy9uSERhanFUdFZmdnlTQ0dPbEZJQmhGNVJFZUZzdkJDcG9DVjVORFNhR3p0b3NMM2NNOFNsYVB0c2ZDeXZXVGpkVXRrPSJ9"
     }
   ],
   "excluded_quests": [
