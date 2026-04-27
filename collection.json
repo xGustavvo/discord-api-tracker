@@ -493,6 +493,161 @@
       ]
     },
     {
+      "id": "1497100850261131334",
+      "application_id": "1340102344645283891",
+      "sku_ids": [
+        "1497099581744222208",
+        "1497100402599002182",
+        "1497100628613140590"
+      ],
+      "name": "Windrose",
+      "options": [
+        {
+          "name": "Memory",
+          "option_values": [
+            "6",
+            "8",
+            "10"
+          ]
+        }
+      ],
+      "created_at": "2026-04-24T05:04:17.515821+00:00",
+      "updated_at": "2026-04-27T20:00:15.552482+00:00",
+      "tenant_metadata": {
+        "guild_monetization": {
+          "game_server": {
+            "instructions": {
+              "pc": [
+                "Open Windrose and select the **Play** button.",
+                "Navigate to **Connect to Server**.",
+                "Enter your Invite Code in the provided field and click **Find**. Ask your Discord Server Admin for the Invite Code.",
+                "Select your server from the results and click **Connect**."
+              ]
+            },
+            "deactivation_cooldown_period_days": 7,
+            "game_application_id": "1440133627899023452",
+            "provider": "shockbyte",
+            "disabled": false,
+            "early_access": false,
+            "can_market": true
+          }
+        }
+      },
+      "skus": [
+        {
+          "id": "1497099581744222208",
+          "type": 2,
+          "product_line": 13,
+          "application_id": "1340102344645283891",
+          "name": "Starter Plan",
+          "slug": "starter-plan",
+          "premium": false,
+          "selected_options": [
+            {
+              "option_name": "Memory",
+              "option_value": "6"
+            }
+          ],
+          "product_id": "1497100850261131334",
+          "position": 0,
+          "thumbnail_asset_id": null,
+          "tenant_metadata": {
+            "boost_price": 5,
+            "purchase_limit": 1,
+            "category_type": "game_server",
+            "plan_features": [
+              {
+                "title": "3+",
+                "description": "Players"
+              },
+              {
+                "title": "6GB",
+                "description": "RAM"
+              },
+              {
+                "title": "2",
+                "description": "vCPUs"
+              }
+            ]
+          }
+        },
+        {
+          "id": "1497100402599002182",
+          "type": 2,
+          "product_line": 13,
+          "application_id": "1340102344645283891",
+          "name": "Pro Plan",
+          "slug": "pro-plan",
+          "premium": false,
+          "selected_options": [
+            {
+              "option_name": "Memory",
+              "option_value": "8"
+            }
+          ],
+          "product_id": "1497100850261131334",
+          "position": 1,
+          "thumbnail_asset_id": null,
+          "tenant_metadata": {
+            "boost_price": 8,
+            "purchase_limit": 1,
+            "category_type": "game_server",
+            "plan_features": [
+              {
+                "title": "8+",
+                "description": "Players"
+              },
+              {
+                "title": "8GB",
+                "description": "RAM"
+              },
+              {
+                "title": "2",
+                "description": "vCPUs"
+              }
+            ]
+          }
+        },
+        {
+          "id": "1497100628613140590",
+          "type": 2,
+          "product_line": 13,
+          "application_id": "1340102344645283891",
+          "name": "Ultimate Plan",
+          "slug": "ultimate-plan",
+          "premium": false,
+          "selected_options": [
+            {
+              "option_name": "Memory",
+              "option_value": "10"
+            }
+          ],
+          "product_id": "1497100850261131334",
+          "position": 2,
+          "thumbnail_asset_id": null,
+          "tenant_metadata": {
+            "boost_price": 9,
+            "purchase_limit": 1,
+            "category_type": "game_server",
+            "plan_features": [
+              {
+                "title": "9+",
+                "description": "Players"
+              },
+              {
+                "title": "10GB",
+                "description": "RAM"
+              },
+              {
+                "title": "2",
+                "description": "vCPUs"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
       "id": "1486839456559403220",
       "application_id": "1340102344645283891",
       "sku_ids": [
