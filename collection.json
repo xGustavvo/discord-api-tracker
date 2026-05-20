@@ -69,6 +69,43 @@
       },
       "skus": [
         {
+          "id": "1425218543775121449",
+          "type": 2,
+          "product_line": 13,
+          "application_id": "1340102344645283891",
+          "name": "Starter Plan",
+          "slug": "starter-plan",
+          "premium": false,
+          "selected_options": [
+            {
+              "option_name": "Memory",
+              "option_value": "3"
+            }
+          ],
+          "product_id": "1425218543775121448",
+          "position": 0,
+          "thumbnail_asset_id": null,
+          "tenant_metadata": {
+            "boost_price": 3,
+            "purchase_limit": 1,
+            "category_type": "game_server",
+            "plan_features": [
+              {
+                "title": "5+",
+                "description": "Players"
+              },
+              {
+                "title": "3GB",
+                "description": "RAM"
+              },
+              {
+                "title": "3",
+                "description": "vCPUs"
+              }
+            ]
+          }
+        },
+        {
           "id": "1425220365138792479",
           "type": 2,
           "product_line": 13,
@@ -133,43 +170,6 @@
               },
               {
                 "title": "12GB",
-                "description": "RAM"
-              },
-              {
-                "title": "3",
-                "description": "vCPUs"
-              }
-            ]
-          }
-        },
-        {
-          "id": "1425218543775121449",
-          "type": 2,
-          "product_line": 13,
-          "application_id": "1340102344645283891",
-          "name": "Starter Plan",
-          "slug": "starter-plan",
-          "premium": false,
-          "selected_options": [
-            {
-              "option_name": "Memory",
-              "option_value": "3"
-            }
-          ],
-          "product_id": "1425218543775121448",
-          "position": 0,
-          "thumbnail_asset_id": null,
-          "tenant_metadata": {
-            "boost_price": 3,
-            "purchase_limit": 1,
-            "category_type": "game_server",
-            "plan_features": [
-              {
-                "title": "5+",
-                "description": "Players"
-              },
-              {
-                "title": "3GB",
                 "description": "RAM"
               },
               {
@@ -1036,43 +1036,6 @@
           }
         },
         {
-          "id": "1460415970941075508",
-          "type": 2,
-          "product_line": 13,
-          "application_id": "1340102344645283891",
-          "name": "Ultimate Plan",
-          "slug": "ultimate-plan",
-          "premium": false,
-          "selected_options": [
-            {
-              "option_name": "Memory",
-              "option_value": "5"
-            }
-          ],
-          "product_id": "1457859082815013066",
-          "position": 2,
-          "thumbnail_asset_id": null,
-          "tenant_metadata": {
-            "boost_price": 5,
-            "purchase_limit": 1,
-            "category_type": "game_server",
-            "plan_features": [
-              {
-                "title": "15+",
-                "description": "Players"
-              },
-              {
-                "title": "5GB",
-                "description": "RAM"
-              },
-              {
-                "title": "2",
-                "description": "vCPUs"
-              }
-            ]
-          }
-        },
-        {
           "id": "1460415970941075507",
           "type": 2,
           "product_line": 13,
@@ -1100,6 +1063,43 @@
               },
               {
                 "title": "4GB",
+                "description": "RAM"
+              },
+              {
+                "title": "2",
+                "description": "vCPUs"
+              }
+            ]
+          }
+        },
+        {
+          "id": "1460415970941075508",
+          "type": 2,
+          "product_line": 13,
+          "application_id": "1340102344645283891",
+          "name": "Ultimate Plan",
+          "slug": "ultimate-plan",
+          "premium": false,
+          "selected_options": [
+            {
+              "option_name": "Memory",
+              "option_value": "5"
+            }
+          ],
+          "product_id": "1457859082815013066",
+          "position": 2,
+          "thumbnail_asset_id": null,
+          "tenant_metadata": {
+            "boost_price": 5,
+            "purchase_limit": 1,
+            "category_type": "game_server",
+            "plan_features": [
+              {
+                "title": "15+",
+                "description": "Players"
+              },
+              {
+                "title": "5GB",
                 "description": "RAM"
               },
               {
@@ -2316,43 +2316,6 @@
           }
         },
         {
-          "id": "1475643352882876512",
-          "type": 2,
-          "product_line": 13,
-          "application_id": "1340102344645283891",
-          "name": "Ultimate Plan",
-          "slug": "ultimate-plan",
-          "premium": false,
-          "selected_options": [
-            {
-              "option_name": "Memory",
-              "option_value": "5"
-            }
-          ],
-          "product_id": "1475643352882876509",
-          "position": 2,
-          "thumbnail_asset_id": null,
-          "tenant_metadata": {
-            "boost_price": 5,
-            "purchase_limit": 1,
-            "category_type": "game_server",
-            "plan_features": [
-              {
-                "title": "20+",
-                "description": "Players"
-              },
-              {
-                "title": "5GB",
-                "description": "RAM"
-              },
-              {
-                "title": "2",
-                "description": "vCPUs"
-              }
-            ]
-          }
-        },
-        {
           "id": "1475643352882876511",
           "type": 2,
           "product_line": 13,
@@ -2380,6 +2343,43 @@
               },
               {
                 "title": "4GB",
+                "description": "RAM"
+              },
+              {
+                "title": "2",
+                "description": "vCPUs"
+              }
+            ]
+          }
+        },
+        {
+          "id": "1475643352882876512",
+          "type": 2,
+          "product_line": 13,
+          "application_id": "1340102344645283891",
+          "name": "Ultimate Plan",
+          "slug": "ultimate-plan",
+          "premium": false,
+          "selected_options": [
+            {
+              "option_name": "Memory",
+              "option_value": "5"
+            }
+          ],
+          "product_id": "1475643352882876509",
+          "position": 2,
+          "thumbnail_asset_id": null,
+          "tenant_metadata": {
+            "boost_price": 5,
+            "purchase_limit": 1,
+            "category_type": "game_server",
+            "plan_features": [
+              {
+                "title": "20+",
+                "description": "Players"
+              },
+              {
+                "title": "5GB",
                 "description": "RAM"
               },
               {
