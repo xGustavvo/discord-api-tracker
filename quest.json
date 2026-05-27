@@ -591,5 +591,134 @@
       "button_label": "Get Game",
       "subtitle": "Available May 27 - Get Now"
     }
+  },
+  {
+    "id": "1504975599389900943",
+    "config_version": 2,
+    "starts_at": "2026-05-27T17:00:43+00:00",
+    "expires_at": "2026-06-11T00:00:43+00:00",
+    "features": [
+      42,
+      15
+    ],
+    "application": {
+      "link": "https://discord.com/store",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "quests/1504975599389900943/1506714667559420006.jpg",
+      "hero_video": "quests/1504975599389900943/1506713986429616129.mp4",
+      "quest_bar_hero_blurhash": "1vcNDII1dYdniHeAmqbe8N8svw==",
+      "quest_bar_hero": "quests/1504975599389900943/1506714619014545499.jpg",
+      "quest_bar_hero_video": "quests/1504975599389900943/1506713916099788830.mp4",
+      "game_tile": "1507503802004144339.png",
+      "logotype": "1506715032711598090.png",
+      "game_tile_light": "quests/1504975599389900943/1507503761491492894.png",
+      "game_tile_dark": "quests/1504975599389900943/1506732685551341669.png",
+      "logotype_light": "quests/1504975599389900943/1506714747683344544.png",
+      "logotype_dark": "quests/1504975599389900943/1506714806391148564.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Nitro + XBOX Game Pass",
+      "game_title": "Nitro + XBOX Game Pass",
+      "game_publisher": "Discord"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 27,
+          "assets": {
+            "video": {
+              "url": "quests/1504975599389900943/1506715160889397288_1080.mp4",
+              "width": 3840,
+              "height": 2160,
+              "thumbnail": "quests/1504975599389900943/1506728048467116114.png",
+              "caption": "quests/1504975599389900943/1506717351373176883.vtt"
+            },
+            "video_low_res": {
+              "url": "quests/1504975599389900943/1506715160889397288_720.mp4",
+              "width": 3840,
+              "height": 2160,
+              "thumbnail": "quests/1504975599389900943/1506728048467116114.png",
+              "caption": "quests/1504975599389900943/1506717351373176883.vtt"
+            },
+            "video_hls": {
+              "url": "quests/1504975599389900943/1506715160889397288.m3u8",
+              "width": 3840,
+              "height": 2160,
+              "thumbnail": "quests/1504975599389900943/1506728048467116114.png",
+              "caption": "quests/1504975599389900943/1506717351373176883.vtt"
+            }
+          },
+          "messages": {
+            "video_title": "video"
+          }
+        },
+        "WATCH_VIDEO_ON_MOBILE": {
+          "type": "WATCH_VIDEO_ON_MOBILE",
+          "target": 27,
+          "assets": {
+            "video": {
+              "url": "quests/1504975599389900943/1506715160889397288_1080.mp4",
+              "width": 3840,
+              "height": 2160,
+              "thumbnail": "quests/1504975599389900943/1506728048467116114.png",
+              "caption": "quests/1504975599389900943/1506717351373176883.vtt"
+            },
+            "video_low_res": {
+              "url": "quests/1504975599389900943/1506715160889397288_720.mp4",
+              "width": 3840,
+              "height": 2160,
+              "thumbnail": "quests/1504975599389900943/1506728048467116114.png",
+              "caption": "quests/1504975599389900943/1506717351373176883.vtt"
+            },
+            "video_hls": {
+              "url": "quests/1504975599389900943/1506715160889397288.m3u8",
+              "width": 3840,
+              "height": 2160,
+              "thumbnail": "quests/1504975599389900943/1506728048467116114.png",
+              "caption": "quests/1504975599389900943/1506717351373176883.vtt"
+            }
+          },
+          "messages": {
+            "video_title": "video"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "200 Orbs",
+            "name_with_article": "200 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 200,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2026-07-11T00:00:43+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://discord.com/store",
+      "button_label": "Learn More"
+    }
   }
 ]
