@@ -1904,5 +1904,108 @@
       "button_label": "Pre-Order Now",
       "subtitle": "Modern Warfare 4 releases on October 23."
     }
+  },
+  {
+    "id": "1505722774193176586",
+    "config_version": 2,
+    "starts_at": "2026-05-29T16:00:00+00:00",
+    "expires_at": "2026-06-08T00:00:59+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://adn.wargaming.net/sx9wllq9/?pub_id=woth-discord-play-quest",
+      "id": "1509226028911038565",
+      "name": "World of Tanks: HEAT"
+    },
+    "assets": {
+      "hero": "quests/1505722774193176586/1507129325202182226.jpg",
+      "hero_video": "quests/1505722774193176586/1507129224056799352.mp4",
+      "quest_bar_hero_blurhash": "4fcJFISod5iPd4mEd3fUqUC8Cg==",
+      "quest_bar_hero": "quests/1505722774193176586/1507129191596818562.jpg",
+      "quest_bar_hero_video": "quests/1505722774193176586/1507129224056799352.mp4",
+      "game_tile": "1507129438788255774.png",
+      "logotype": "1507129437450276955.png",
+      "game_tile_light": "quests/1505722774193176586/1507129418676441198.png",
+      "game_tile_dark": "quests/1505722774193176586/1507129418676441198.png",
+      "logotype_light": "quests/1505722774193176586/1507129382261620817.png",
+      "logotype_dark": "quests/1505722774193176586/1507129382261620817.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "World of Tanks: HEAT - PLAY FREE NOW",
+      "game_title": "World of Tanks: HEAT",
+      "game_publisher": "Wargaming"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "type": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1509226028911038565"
+            }
+          ]
+        },
+        "PLAY_ON_XBOX": {
+          "type": "PLAY_ON_XBOX",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1509226028911038565"
+            }
+          ],
+          "external_ids": [
+            "1649064189"
+          ]
+        },
+        "PLAY_ON_PLAYSTATION": {
+          "type": "PLAY_ON_PLAYSTATION",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1509226028911038565"
+            }
+          ],
+          "external_ids": [
+            "PPSA23912_00"
+          ]
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 1,
+          "sku_id": "1505722774193176587",
+          "asset": "quests/1505722774193176586/1507128742059708619.png",
+          "asset_video": null,
+          "messages": {
+            "name": "HEAT Quest Pack",
+            "name_with_article": "a HEAT Quest Pack",
+            "redemption_instructions_by_platform": {
+              "0": "Open a web browser and go to: https://wargaming.net/shop/redeem/  \nLog in to your Wargaming account.  \nEnter your bonus code in the provided field and click Redeem.  \nThe reward will be credited to your account automatically.  "
+            }
+          },
+          "approximate_count": null,
+          "redemption_link": null
+        }
+      ],
+      "rewards_expire_at": "2026-07-08T00:00:59+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://adn.wargaming.net/sx9wllq9/?pub_id=woth-discord-play-quest",
+      "button_label": "Play Now"
+    }
   }
 ]
