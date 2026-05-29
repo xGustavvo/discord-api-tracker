@@ -2130,5 +2130,112 @@
       "button_label": "View More",
       "subtitle": "See why the world’s best players trust Razer."
     }
+  },
+  {
+    "id": "1504788660673839134",
+    "config_version": 2,
+    "starts_at": "2026-05-29T17:00:00+00:00",
+    "expires_at": "2026-06-06T00:00:59+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://pathofexile2.com/ancients",
+      "id": "1328876348361412619",
+      "name": "Path of Exile 2"
+    },
+    "assets": {
+      "hero": "quests/1504788660673839134/1504921401096802314.jpg",
+      "hero_video": null,
+      "quest_bar_hero_blurhash": "HzkKDII3Rjpvp4eGhWwCK2HwIw==",
+      "quest_bar_hero": "quests/1504788660673839134/1504921355353587883.jpg",
+      "quest_bar_hero_video": null,
+      "game_tile": "1504921679707508766.png",
+      "logotype": "1504921678625636484.png",
+      "game_tile_light": "quests/1504788660673839134/1504921555321229332.png",
+      "game_tile_dark": "quests/1504788660673839134/1504921555321229332.png",
+      "logotype_light": "quests/1504788660673839134/1504921463168303266.png",
+      "logotype_dark": "quests/1504788660673839134/1504921511981617302.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Path of Exile 2 New Expansion",
+      "game_title": "Path of Exile 2",
+      "game_publisher": "Grinding Gear Games"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "type": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1328876348361412619"
+            }
+          ]
+        },
+        "PLAY_ON_XBOX": {
+          "type": "PLAY_ON_XBOX",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1328876348361412619"
+            }
+          ],
+          "external_ids": [
+            "1651188120"
+          ]
+        },
+        "PLAY_ON_PLAYSTATION": {
+          "type": "PLAY_ON_PLAYSTATION",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1328876348361412619"
+            }
+          ],
+          "external_ids": [
+            "PPSA22041_00",
+            "PPSA23974_00",
+            "PPSA22040_00",
+            "PPSA23975_00"
+          ]
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 3,
+          "sku_id": "1505981973347176658",
+          "asset": "quests/1504788660673839134/1506320540288417953.png",
+          "asset_video": null,
+          "messages": {
+            "name": "Runeseeker Avatar Decoration",
+            "name_with_article": "a Runeseeker Avatar Decoration",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "expires_at": "2026-07-05T14:59:59+00:00",
+          "expires_at_premium": null,
+          "expiration_mode": 3
+        }
+      ],
+      "rewards_expire_at": "2026-07-06T00:00:59+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://pathofexile2.com/ancients",
+      "button_label": "Play Now"
+    }
   }
 ]
