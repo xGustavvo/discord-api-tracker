@@ -3489,5 +3489,107 @@
       "button_label": "Get Tickets",
       "subtitle": "A film by Christopher Nolan. In theatres 7 17 26."
     }
+  },
+  {
+    "id": "1511089574988873969",
+    "config_version": 2,
+    "starts_at": "2026-06-04T17:00:00+00:00",
+    "expires_at": "2026-06-17T00:00:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://game.ea.com/redirect?campaignName=FC26_UA_US_EA_SOC_DIS_WC&caudience=C3-FC-COMPETITOR&ccreative=S-NATPRIDE&caudienceid=1511089574988873971",
+      "id": "1421154726023532544",
+      "name": "EA SPORTS FC 26"
+    },
+    "assets": {
+      "hero": "quests/1511089574988873969/1512117569438617721.jpg",
+      "hero_video": null,
+      "quest_bar_hero_blurhash": "k+cJIoSHeIiAdrh5loBbawg=",
+      "quest_bar_hero": "quests/1511089574988873969/1512132919752261774.jpg",
+      "quest_bar_hero_video": null,
+      "game_tile": "1511829977690275840.png",
+      "logotype": "1511829976259887135.png",
+      "game_tile_light": "quests/1511089574988873969/1511798841245171782.png",
+      "game_tile_dark": "quests/1511089574988873969/1511829847071260774.png",
+      "logotype_light": "quests/1511089574988873969/1511798841236525206.png",
+      "logotype_dark": "quests/1511089574988873969/1511829847092232413.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "EAFC x The World's Game",
+      "game_title": "EA Sports FC 26",
+      "game_publisher": "Electronic Arts"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "type": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1421154726023532544"
+            }
+          ]
+        },
+        "PLAY_ON_XBOX": {
+          "type": "PLAY_ON_XBOX",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1421154726023532544"
+            }
+          ],
+          "external_ids": [
+            "1909324253"
+          ]
+        },
+        "PLAY_ON_PLAYSTATION": {
+          "type": "PLAY_ON_PLAYSTATION",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1421154726023532544"
+            }
+          ],
+          "external_ids": [
+            "PPSA27360_00",
+            "CUSA52342_00"
+          ]
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 Orbs",
+            "name_with_article": "700 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 700,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2026-07-17T00:00:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://game.ea.com/redirect?campaignName=FC26_UA_US_EA_SOC_DIS_WC&caudience=C3-FC-COMPETITOR&ccreative=S-NATPRIDE&caudienceid=1511089574988873971",
+      "button_label": "Play Now"
+    }
   }
 ]
