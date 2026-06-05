@@ -3783,5 +3783,82 @@
       "link": "https://akendfield.gryphline.com/d27t/V1D3DQ",
       "button_label": "Play Now"
     }
+  },
+  {
+    "id": "1506578496946962564",
+    "config_version": 2,
+    "starts_at": "2026-06-05T07:00:00+00:00",
+    "expires_at": "2026-06-10T00:00:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://duetnightabyss.dna-panstudio.com/DiscordQuest/",
+      "id": "1440136452942856234",
+      "name": "Duet Night Abyss"
+    },
+    "assets": {
+      "hero": "quests/1506578496946962564/1509941060120608870.jpg",
+      "hero_video": "quests/1506578496946962564/1509695536456794212.mp4",
+      "quest_bar_hero_blurhash": "FxgKFIJShndwiIiFiYcnsBYFWA==",
+      "quest_bar_hero": "quests/1506578496946962564/1509695535877984256.jpg",
+      "quest_bar_hero_video": "quests/1506578496946962564/1509695535475331152.mp4",
+      "game_tile": "1509696331147378859.png",
+      "logotype": "1509696329457336491.png",
+      "game_tile_light": "quests/1506578496946962564/1509695536494678176.png",
+      "game_tile_dark": "quests/1506578496946962564/1509695536494678176.png",
+      "logotype_light": "quests/1506578496946962564/1509695535596961843.png",
+      "logotype_dark": "quests/1506578496946962564/1509695536192684164.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Duet Night Abyss",
+      "game_title": "Duet Night Abyss",
+      "game_publisher": "Hero Games"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "type": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1440136452942856234"
+            }
+          ]
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 Orbs",
+            "name_with_article": "700 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 700,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2026-07-10T00:00:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://duetnightabyss.dna-panstudio.com/DiscordQuest/",
+      "button_label": "Play Now"
+    }
   }
 ]
