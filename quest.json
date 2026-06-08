@@ -4727,5 +4727,128 @@
       "button_label": "Pre-Order Now",
       "subtitle": "Erhältlich ab 27. August"
     }
+  },
+  {
+    "id": "1511370504378908704",
+    "config_version": 2,
+    "starts_at": "2026-06-08T17:00:00+00:00",
+    "expires_at": "2026-06-22T00:00:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://films.neonrated.com/leviticus/",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "quests/1511370504378908704/1512563458347106434.jpg",
+      "hero_video": "quests/1511370504378908704/1512529974043869194.mp4",
+      "quest_bar_hero_blurhash": "yfcFAoBLP8Vhd1p2BnYXgJo=",
+      "quest_bar_hero": "quests/1511370504378908704/1512563458347106434.jpg",
+      "quest_bar_hero_video": "quests/1511370504378908704/1512529974043869194.mp4",
+      "game_tile": "1512280678178230442.png",
+      "logotype": "1512232726663794759.png",
+      "game_tile_light": "quests/1511370504378908704/1512280651695394857.png",
+      "game_tile_dark": "quests/1511370504378908704/1512232285934456882.png",
+      "logotype_light": "quests/1511370504378908704/1512232286098296882.png",
+      "logotype_dark": "quests/1511370504378908704/1512232286018342992.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Leviticus",
+      "game_title": "LEVITICUS. In Theaters June 19.",
+      "game_publisher": "NEON"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 109,
+          "assets": {
+            "video": {
+              "url": "quests/1511370504378908704/1512233386163310612_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1511370504378908704/1512232286492430448.png"
+            },
+            "video_low_res": {
+              "url": "quests/1511370504378908704/1512233386163310612_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1511370504378908704/1512232286492430448.png"
+            },
+            "video_hls": {
+              "url": "quests/1511370504378908704/1512233386163310612.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1511370504378908704/1512232286492430448.png"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
+        },
+        "WATCH_VIDEO_ON_MOBILE": {
+          "type": "WATCH_VIDEO_ON_MOBILE",
+          "target": 109,
+          "assets": {
+            "video": {
+              "url": "quests/1511370504378908704/1512233498289901578_1080.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1511370504378908704/1512232286492430448.png"
+            },
+            "video_low_res": {
+              "url": "quests/1511370504378908704/1512233498289901578_720.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1511370504378908704/1512232286492430448.png"
+            },
+            "video_hls": {
+              "url": "quests/1511370504378908704/1512233498289901578.m3u8",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1511370504378908704/1512232286492430448.png"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "200 Orbs",
+            "name_with_article": "200 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 200,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2026-07-22T00:00:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://films.neonrated.com/leviticus/",
+      "button_label": "Get Tickets",
+      "subtitle": "LEVITICUS. In Theaters June 19."
+    }
   }
 ]
