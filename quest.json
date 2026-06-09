@@ -5274,5 +5274,92 @@
       "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
       "button_label": "Play Now"
     }
+  },
+  {
+    "id": "1509838468124115004",
+    "config_version": 2,
+    "starts_at": "2026-06-09T17:00:00+00:00",
+    "expires_at": "2026-06-24T00:00:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://wutheringwaves.onelink.me/jkoc/notgdssg",
+      "id": "1247227126416146462",
+      "name": "Wuthering Waves"
+    },
+    "assets": {
+      "hero": "quests/1509838468124115004/1513558829542146218.jpg",
+      "quest_bar_hero_blurhash": "3MYJDwQqZndgmXdilViXiIl0WFCIBIUJ",
+      "quest_bar_hero": "quests/1509838468124115004/1512563158546383018.jpg",
+      "game_tile": "1511439516236386467.png",
+      "logotype": "1511440220719939696.png",
+      "game_tile_light": "quests/1509838468124115004/1511438965054640249.png",
+      "game_tile_dark": "quests/1509838468124115004/1511438965054640249.png",
+      "logotype_light": "quests/1509838468124115004/1511440090893647912.png",
+      "logotype_dark": "quests/1509838468124115004/1511439040006848683.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "WuWa&Edgerunners",
+      "game_title": "Wuthering Waves",
+      "game_publisher": "Kuro Games"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "type": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1247227126416146462"
+            }
+          ]
+        },
+        "PLAY_ON_PLAYSTATION": {
+          "type": "PLAY_ON_PLAYSTATION",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1247227126416146462"
+            }
+          ],
+          "external_ids": [
+            "PPSA24686_00"
+          ]
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 Orbs",
+            "name_with_article": "700 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 700,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2026-07-24T00:00:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://wutheringwaves.onelink.me/jkoc/notgdssg",
+      "button_label": "Play Now"
+    }
   }
 ]
