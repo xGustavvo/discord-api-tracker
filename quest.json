@@ -5978,5 +5978,130 @@
       "link": "https://store.steampowered.com/app/2569760?utm_source=discord&utm_medium=playquest&utm_campaign=nextfest_june26",
       "button_label": "Play Now"
     }
+  },
+  {
+    "id": "1514298167900901386",
+    "config_version": 2,
+    "starts_at": "2026-06-15T17:00:00+00:00",
+    "expires_at": "2026-06-23T00:00:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://store.steampowered.com/app/3874040?utm_source=discord&utm_campaign=certifiablyingame&utm_medium=steammedium&utm_content=playable&utm_term=pcgaming",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "quests/1514298167900901386/1514362482440011968.jpg",
+      "hero_video": "quests/1514298167900901386/1514362482402131988.mp4",
+      "quest_bar_hero_blurhash": "UecJCoIgepeGaVeLf7n7t6k=",
+      "quest_bar_hero": "quests/1514298167900901386/1514362482440011968.jpg",
+      "quest_bar_hero_video": "quests/1514298167900901386/1514362482402131988.mp4",
+      "game_tile": "1514363345522917417.png",
+      "logotype": "1514363344654565498.png",
+      "game_tile_light": "quests/1514298167900901386/1514362483002052761.png",
+      "game_tile_dark": "quests/1514298167900901386/1514362483002052761.png",
+      "logotype_light": "quests/1514298167900901386/1514362482440011969.png",
+      "logotype_dark": "quests/1514298167900901386/1514362483002052760.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Star Trek Warp",
+      "game_title": "Star Trek: Warp",
+      "game_publisher": "Plarium"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 59,
+          "assets": {
+            "video": {
+              "url": "quests/1514298167900901386/1514362482435817715_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1514298167900901386/1514362482901123164.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1514298167900901386/1514362482435817715_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1514298167900901386/1514362482901123164.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1514298167900901386/1514362482435817715.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1514298167900901386/1514362482901123164.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
+        },
+        "WATCH_VIDEO_ON_MOBILE": {
+          "type": "WATCH_VIDEO_ON_MOBILE",
+          "target": 28,
+          "assets": {
+            "video": {
+              "url": "quests/1514298167900901386/1514362482372771944_1080.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1514298167900901386/1514362482901123164.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1514298167900901386/1514362482372771944_720.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1514298167900901386/1514362482901123164.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1514298167900901386/1514362482372771944.m3u8",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1514298167900901386/1514362482901123164.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 3,
+          "sku_id": "1514721229658001570",
+          "asset": "quests/1514298167900901386/1515006972628439050.mp4",
+          "asset_video": null,
+          "messages": {
+            "name": "Star Trek Warp Avatar Decoration",
+            "name_with_article": "a Star Trek Warp Avatar Decoration",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "expires_at": "2026-08-15T00:00:00+00:00",
+          "expires_at_premium": null,
+          "expiration_mode": 1
+        }
+      ],
+      "rewards_expire_at": "2026-07-23T00:00:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://store.steampowered.com/app/3874040?utm_source=discord&utm_campaign=certifiablyingame&utm_medium=steammedium&utm_content=playable&utm_term=pcgaming",
+      "button_label": "Wishlist Now"
+    }
   }
 ]
