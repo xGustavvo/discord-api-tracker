@@ -1,6 +1,91 @@
 {
   "quests": [
     {
+      "id": "1511835214585008128",
+      "config": {
+        "id": "1511835214585008128",
+        "config_version": 2,
+        "starts_at": "2026-06-15T17:00:00+00:00",
+        "expires_at": "2026-06-22T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://store.steampowered.com/app/2569760?utm_source=discord&utm_medium=playquest&utm_campaign=nextfest_june26",
+          "id": "1515074184961724517",
+          "name": "The Mound: Omen of Cthulhu"
+        },
+        "assets": {
+          "hero": "quests/1511835214585008128/1513969535492030634.jpg",
+          "hero_video": "quests/1511835214585008128/1513969642518085792.mp4",
+          "quest_bar_hero_blurhash": "ThgOBIAliYdvlHiIh4dTf2Q/Cg==",
+          "quest_bar_hero": "quests/1511835214585008128/1513965900624167143.jpg",
+          "quest_bar_hero_video": "quests/1511835214585008128/1513969594757415024.mp4",
+          "game_tile": "1513969876174114937.png",
+          "logotype": "1514296326194597938.png",
+          "game_tile_light": "quests/1511835214585008128/1513965765915709722.png",
+          "game_tile_dark": "quests/1511835214585008128/1513965765915709722.png",
+          "logotype_light": "quests/1511835214585008128/1514296199484538961.png",
+          "logotype_dark": "quests/1511835214585008128/1514296151124476127.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "The Mound: Omen of Cthulhu FREE DEMO",
+          "game_title": "The Mound: Omen of Cthulhu FREE DEMO",
+          "game_publisher": "Nacon"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1515074184961724517"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-07-22T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://store.steampowered.com/app/2569760?utm_source=discord&utm_medium=playquest&utm_campaign=nextfest_june26",
+          "button_label": "Play Now"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false,
+      "traffic_metadata_raw": "EAMYAg==",
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMMTZoVXk0eWE1OVRpVUZ0T0NwNEV3OURwd20yQStSeFcrSCtwOFRkY1k2YXlrMmdPbkQvZlRmblEyWHFwTHNvZXhqWUlWbmFwbFFtOEdHV282M0FtWVpqWWwveUxMQ3ZRPSJ9"
+    },
+    {
       "id": "1486800972150870016",
       "config": {
         "id": "1486800972150870016",
@@ -128,7 +213,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAMYAg==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLN29iWXE4ZHd0aWFZUVJYS0pMLzNJS0JCS2t3NHFhaXVvM3F2dC9KdEoxVE9GeU51L0xzOGlWWUVxVEdGQWJzbDNIOEMwTG9FN1VvVEViL3F4R0hLMDBWUkhkdkQrNlFzPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMMTZoVXk0eWE1OVRpVUZ0T0NwNEV3OURwd20yQStSeFcrSCtwOFRkY1k2YXlrMmdPbkQvZlRmblEyWHFwTHNvZXhqWUlWbmFwbFFtOEdHV282M0FtWVpqWWwveUxMQ3ZRPSJ9"
     },
     {
       "id": "1508881025604911104",
@@ -259,7 +344,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAMYAg==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLN29iWXE4ZHd0aWFZUVJYS0pMLzNJS0JCS2t3NHFhaXVvM3F2dC9KdEoxVE9GeU51L0xzOGlWWUVxVEdGQWJzbDNIOEMwTG9FN1VvVEViL3F4R0hLMDBWUkhkdkQrNlFzPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMMTZoVXk0eWE1OVRpVUZ0T0NwNEV3OURwd20yQStSeFcrSCtwOFRkY1k2YXlrMmdPbkQvZlRmblEyWHFwTHNvZXhqWUlWbmFwbFFtOEdHV282M0FtWVpqWWwveUxMQ3ZRPSJ9"
     },
     {
       "id": "1501037552478589058",
@@ -390,7 +475,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAMYAg==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLN29iWXE4ZHd0aWFZUVJYS0pMLzNJS0JCS2t3NHFhaXVvM3F2dC9KdEoxVE9GeU51L0xzOGlWWUVxVEdGQWJzbDNIOEMwTG9FN1VvVEViL3F4R0hLMDBWUkhkdkQrNlFzPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMMTZoVXk0eWE1OVRpVUZ0T0NwNEV3OURwd20yQStSeFcrSCtwOFRkY1k2YXlrMmdPbkQvZlRmblEyWHFwTHNvZXhqWUlWbmFwbFFtOEdHV282M0FtWVpqWWwveUxMQ3ZRPSJ9"
     },
     {
       "id": "1506578496946962564",
@@ -475,7 +560,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAMYAg==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLN29iWXE4ZHd0aWFZUVJYS0pMLzNJS0JCS2t3NHFhaXVvM3F2dC9KdEoxVE9GeU51L0xzOGlWWUVxVEdGQWJzbDNIOEMwTG9FN1VvVEViL3F4R0hLMDBWUkhkdkQrNlFzPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMMTZoVXk0eWE1OVRpVUZ0T0NwNEV3OURwd20yQStSeFcrSCtwOFRkY1k2YXlrMmdPbkQvZlRmblEyWHFwTHNvZXhqWUlWbmFwbFFtOEdHV282M0FtWVpqWWwveUxMQ3ZRPSJ9"
     },
     {
       "id": "1509314613630603397",
@@ -606,7 +691,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAMYAg==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLN29iWXE4ZHd0aWFZUVJYS0pMLzNJS0JCS2t3NHFhaXVvM3F2dC9KdEoxVE9GeU51L0xzOGlWWUVxVEdGQWJzbDNIOEMwTG9FN1VvVEViL3F4R0hLMDBWUkhkdkQrNlFzPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMMTZoVXk0eWE1OVRpVUZ0T0NwNEV3OURwd20yQStSeFcrSCtwOFRkY1k2YXlrMmdPbkQvZlRmblEyWHFwTHNvZXhqWUlWbmFwbFFtOEdHV282M0FtWVpqWWwveUxMQ3ZRPSJ9"
     },
     {
       "id": "1506981400522395658",
@@ -700,7 +785,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAMYAg==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLN29iWXE4ZHd0aWFZUVJYS0pMLzNJS0JCS2t3NHFhaXVvM3F2dC9KdEoxVE9GeU51L0xzOGlWWUVxVEdGQWJzbDNIOEMwTG9FN1VvVEViL3F4R0hLMDBWUkhkdkQrNlFzPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMMTZoVXk0eWE1OVRpVUZ0T0NwNEV3OURwd20yQStSeFcrSCtwOFRkY1k2YXlrMmdPbkQvZlRmblEyWHFwTHNvZXhqWUlWbmFwbFFtOEdHV282M0FtWVpqWWwveUxMQ3ZRPSJ9"
     },
     {
       "id": "1499307806434525195",
@@ -794,7 +879,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAMYAg==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLN29iWXE4ZHd0aWFZUVJYS0pMLzNJS0JCS2t3NHFhaXVvM3F2dC9KdEoxVE9GeU51L0xzOGlWWUVxVEdGQWJzbDNIOEMwTG9FN1VvVEViL3F4R0hLMDBWUkhkdkQrNlFzPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMMTZoVXk0eWE1OVRpVUZ0T0NwNEV3OURwd20yQStSeFcrSCtwOFRkY1k2YXlrMmdPbkQvZlRmblEyWHFwTHNvZXhqWUlWbmFwbFFtOEdHV282M0FtWVpqWWwveUxMQ3ZRPSJ9"
     },
     {
       "id": "1505722774193176586",
@@ -899,7 +984,140 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAMYAg==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLN29iWXE4ZHd0aWFZUVJYS0pMLzNJS0JCS2t3NHFhaXVvM3F2dC9KdEoxVE9GeU51L0xzOGlWWUVxVEdGQWJzbDNIOEMwTG9FN1VvVEViL3F4R0hLMDBWUkhkdkQrNlFzPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMMTZoVXk0eWE1OVRpVUZ0T0NwNEV3OURwd20yQStSeFcrSCtwOFRkY1k2YXlrMmdPbkQvZlRmblEyWHFwTHNvZXhqWUlWbmFwbFFtOEdHV282M0FtWVpqWWwveUxMQ3ZRPSJ9"
+    },
+    {
+      "id": "1514298167900901386",
+      "config": {
+        "id": "1514298167900901386",
+        "config_version": 2,
+        "starts_at": "2026-06-15T17:00:00+00:00",
+        "expires_at": "2026-06-23T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://store.steampowered.com/app/3874040?utm_source=discord&utm_campaign=certifiablyingame&utm_medium=steammedium&utm_content=playable&utm_term=pcgaming",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1514298167900901386/1514362482440011968.jpg",
+          "hero_video": "quests/1514298167900901386/1514362482402131988.mp4",
+          "quest_bar_hero_blurhash": "UecJCoIgepeGaVeLf7n7t6k=",
+          "quest_bar_hero": "quests/1514298167900901386/1514362482440011968.jpg",
+          "quest_bar_hero_video": "quests/1514298167900901386/1514362482402131988.mp4",
+          "game_tile": "1514363345522917417.png",
+          "logotype": "1514363344654565498.png",
+          "game_tile_light": "quests/1514298167900901386/1514362483002052761.png",
+          "game_tile_dark": "quests/1514298167900901386/1514362483002052761.png",
+          "logotype_light": "quests/1514298167900901386/1514362482440011969.png",
+          "logotype_dark": "quests/1514298167900901386/1514362483002052760.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Star Trek Warp",
+          "game_title": "Star Trek: Warp",
+          "game_publisher": "Plarium"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 59,
+              "assets": {
+                "video": {
+                  "url": "quests/1514298167900901386/1514362482435817715_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1514298167900901386/1514362482901123164.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1514298167900901386/1514362482435817715_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1514298167900901386/1514362482901123164.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1514298167900901386/1514362482435817715.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1514298167900901386/1514362482901123164.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 28,
+              "assets": {
+                "video": {
+                  "url": "quests/1514298167900901386/1514362482372771944_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1514298167900901386/1514362482901123164.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1514298167900901386/1514362482372771944_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1514298167900901386/1514362482901123164.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1514298167900901386/1514362482372771944.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1514298167900901386/1514362482901123164.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 3,
+              "sku_id": "1514721229658001570",
+              "asset": "quests/1514298167900901386/1515006972628439050.mp4",
+              "asset_video": null,
+              "messages": {
+                "name": "Star Trek Warp Avatar Decoration",
+                "name_with_article": "a Star Trek Warp Avatar Decoration",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "expires_at": "2026-08-15T00:00:00+00:00",
+              "expires_at_premium": null,
+              "expiration_mode": 1
+            }
+          ],
+          "rewards_expire_at": "2026-07-23T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://store.steampowered.com/app/3874040?utm_source=discord&utm_campaign=certifiablyingame&utm_medium=steammedium&utm_content=playable&utm_term=pcgaming",
+          "button_label": "Wishlist Now"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false,
+      "traffic_metadata_raw": "EAMYAg==",
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMMTZoVXk0eWE1OVRpVUZ0T0NwNEV3OURwd20yQStSeFcrSCtwOFRkY1k2YXlrMmdPbkQvZlRmblEyWHFwTHNvZXhqWUlWbmFwbFFtOEdHV282M0FtWVpqWWwveUxMQ3ZRPSJ9"
     },
     {
       "id": "1503878119743029389",
@@ -1030,7 +1248,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAMYAg==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLN29iWXE4ZHd0aWFZUVJYS0pMLzNJS0JCS2t3NHFhaXVvM3F2dC9KdEoxVE9GeU51L0xzOGlWWUVxVEdGQWJzbDNIOEMwTG9FN1VvVEViL3F4R0hLMDBWUkhkdkQrNlFzPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMMTZoVXk0eWE1OVRpVUZ0T0NwNEV3OURwd20yQStSeFcrSCtwOFRkY1k2YXlrMmdPbkQvZlRmblEyWHFwTHNvZXhqWUlWbmFwbFFtOEdHV282M0FtWVpqWWwveUxMQ3ZRPSJ9"
     },
     {
       "id": "1498869809570381844",
@@ -1160,7 +1378,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAMYAg==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLN29iWXE4ZHd0aWFZUVJYS0pMLzNJS0JCS2t3NHFhaXVvM3F2dC9KdEoxVE9GeU51L0xzOGlWWUVxVEdGQWJzbDNIOEMwTG9FN1VvVEViL3F4R0hLMDBWUkhkdkQrNlFzPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMMTZoVXk0eWE1OVRpVUZ0T0NwNEV3OURwd20yQStSeFcrSCtwOFRkY1k2YXlrMmdPbkQvZlRmblEyWHFwTHNvZXhqWUlWbmFwbFFtOEdHV282M0FtWVpqWWwveUxMQ3ZRPSJ9"
     },
     {
       "id": "1509675542767734934",
@@ -1291,7 +1509,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAMYAg==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLN29iWXE4ZHd0aWFZUVJYS0pMLzNJS0JCS2t3NHFhaXVvM3F2dC9KdEoxVE9GeU51L0xzOGlWWUVxVEdGQWJzbDNIOEMwTG9FN1VvVEViL3F4R0hLMDBWUkhkdkQrNlFzPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMMTZoVXk0eWE1OVRpVUZ0T0NwNEV3OURwd20yQStSeFcrSCtwOFRkY1k2YXlrMmdPbkQvZlRmblEyWHFwTHNvZXhqWUlWbmFwbFFtOEdHV282M0FtWVpqWWwveUxMQ3ZRPSJ9"
     },
     {
       "id": "1504788660673839134",
@@ -1386,7 +1604,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAMYAg==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLN29iWXE4ZHd0aWFZUVJYS0pMLzNJS0JCS2t3NHFhaXVvM3F2dC9KdEoxVE9GeU51L0xzOGlWWUVxVEdGQWJzbDNIOEMwTG9FN1VvVEViL3F4R0hLMDBWUkhkdkQrNlFzPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMMTZoVXk0eWE1OVRpVUZ0T0NwNEV3OURwd20yQStSeFcrSCtwOFRkY1k2YXlrMmdPbkQvZlRmblEyWHFwTHNvZXhqWUlWbmFwbFFtOEdHV282M0FtWVpqWWwveUxMQ3ZRPSJ9"
     },
     {
       "id": "1509951017167618078",
@@ -1404,7 +1622,7 @@
           "name": "Yu-Gi-Oh! Master Duel"
         },
         "assets": {
-          "hero": "quests/1509951017167618078/1511759494760108063.jpg",
+          "hero": "quests/1509951017167618078/1516131571680153670.jpg",
           "quest_bar_hero_blurhash": "IPcNLIQnZ3mAiHh0eIcFi/SDcw==",
           "quest_bar_hero": "quests/1509951017167618078/1511759494718292069.jpg",
           "game_tile": "1514312923877740646.png",
@@ -1490,7 +1708,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAMYAg==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLN29iWXE4ZHd0aWFZUVJYS0pMLzNJS0JCS2t3NHFhaXVvM3F2dC9KdEoxVE9GeU51L0xzOGlWWUVxVEdGQWJzbDNIOEMwTG9FN1VvVEViL3F4R0hLMDBWUkhkdkQrNlFzPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMMTZoVXk0eWE1OVRpVUZ0T0NwNEV3OURwd20yQStSeFcrSCtwOFRkY1k2YXlrMmdPbkQvZlRmblEyWHFwTHNvZXhqWUlWbmFwbFFtOEdHV282M0FtWVpqWWwveUxMQ3ZRPSJ9"
     },
     {
       "id": "1511370504378908704",
@@ -1621,7 +1839,260 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAMYAg==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLN29iWXE4ZHd0aWFZUVJYS0pMLzNJS0JCS2t3NHFhaXVvM3F2dC9KdEoxVE9GeU51L0xzOGlWWUVxVEdGQWJzbDNIOEMwTG9FN1VvVEViL3F4R0hLMDBWUkhkdkQrNlFzPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMMTZoVXk0eWE1OVRpVUZ0T0NwNEV3OURwd20yQStSeFcrSCtwOFRkY1k2YXlrMmdPbkQvZlRmblEyWHFwTHNvZXhqWUlWbmFwbFFtOEdHV282M0FtWVpqWWwveUxMQ3ZRPSJ9"
+    },
+    {
+      "id": "1506023361820622878",
+      "config": {
+        "id": "1506023361820622878",
+        "config_version": 2,
+        "starts_at": "2026-05-20T17:00:00+00:00",
+        "expires_at": "2026-05-30T00:00:59+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://store.steampowered.com/app/3542380/?utm_source=discord&utm_campaign=launch",
+          "id": "1445982840423583785",
+          "name": "Rune Dice"
+        },
+        "assets": {
+          "hero": "quests/1506023361820622878/1506031071194648617.jpg",
+          "hero_video": "quests/1506023361820622878/1506031125519400960.mp4",
+          "quest_bar_hero_blurhash": "0SYGEoIFhkWIhGaZ+qY1iQY=",
+          "quest_bar_hero": "quests/1506023361820622878/1506031071194648617.jpg",
+          "quest_bar_hero_video": "quests/1506023361820622878/1506031125519400960.mp4",
+          "game_tile": "1506032247420223539.png",
+          "logotype": "1506035585226379284.png",
+          "game_tile_light": "quests/1506023361820622878/1506031568391766196.png",
+          "game_tile_dark": "quests/1506023361820622878/1506031568391766196.png",
+          "logotype_light": "quests/1506023361820622878/1506035558109937794.png",
+          "logotype_dark": "quests/1506023361820622878/1506035558109937794.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Rune Dice",
+          "game_title": "Rune Dice",
+          "game_publisher": "Kwalee"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1445982840423583785"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-06-29T00:00:59+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://store.steampowered.com/app/3542380/?utm_source=discord&utm_campaign=launch",
+          "button_label": "Play Now"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false,
+      "traffic_metadata_raw": "EAMYAg==",
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMMTZoVXk0eWE1OVRpVUZ0T0NwNEV3OURwd20yQStSeFcrSCtwOFRkY1k2YXlrMmdPbkQvZlRmblEyWHFwTHNvZXhqWUlWbmFwbFFtOEdHV282M0FtWVpqWWwveUxMQ3ZRPSJ9"
+    },
+    {
+      "id": "1509579938376978463",
+      "config": {
+        "id": "1509579938376978463",
+        "config_version": 2,
+        "starts_at": "2026-06-03T17:00:00+00:00",
+        "expires_at": "2026-06-11T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://nte.onelink.me/B2ti/DA_ahq_1",
+          "id": "1470616226995765409",
+          "name": "Neverness to Everness"
+        },
+        "assets": {
+          "hero": "quests/1509579938376978463/1510018593436209262.jpeg",
+          "hero_video": "quests/1509579938376978463/1510018593436209263.mp4",
+          "quest_bar_hero_blurhash": "2ycKFIQtOXKLm1dwinY1plBkCg==",
+          "quest_bar_hero": "quests/1509579938376978463/1510018593469894747.jpeg",
+          "quest_bar_hero_video": "quests/1509579938376978463/1510035096659558420.mp4",
+          "game_tile": "1510018795463250101.jpeg",
+          "logotype": "1510018794381377658.png",
+          "game_tile_light": "quests/1509579938376978463/1510018593415233636.jpeg",
+          "game_tile_dark": "quests/1509579938376978463/1510018593415233636.jpeg",
+          "logotype_light": "quests/1509579938376978463/1510018593415495771.png",
+          "logotype_dark": "quests/1509579938376978463/1510018598536740995.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "NTE Version 1.1",
+          "game_title": "NTE: Neverness to Everness",
+          "game_publisher": "Perfect World Games"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1470616226995765409"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-07-11T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://nte.onelink.me/B2ti/DA_ahq_1",
+          "button_label": "Play Game"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false,
+      "traffic_metadata_raw": "EAMYAg==",
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMMTZoVXk0eWE1OVRpVUZ0T0NwNEV3OURwd20yQStSeFcrSCtwOFRkY1k2YXlrMmdPbkQvZlRmblEyWHFwTHNvZXhqWUlWbmFwbFFtOEdHV282M0FtWVpqWWwveUxMQ3ZRPSJ9"
+    },
+    {
+      "id": "1511347416199336096",
+      "config": {
+        "id": "1511347416199336096",
+        "config_version": 2,
+        "starts_at": "2026-06-15T17:00:00+00:00",
+        "expires_at": "2026-06-22T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://gsght.com/c/0r2pve",
+          "id": "1428180244241584269",
+          "name": "Enginefall"
+        },
+        "assets": {
+          "hero": "quests/1511347416199336096/1515144780265291807.jpg",
+          "quest_bar_hero_blurhash": "FxkOJIpMZmh2mHdQl3dacHQGdg==",
+          "quest_bar_hero": "quests/1511347416199336096/1515144780252708987.jpg",
+          "game_tile": "1515144902021877850.png",
+          "logotype": "1515144901065445496.png",
+          "game_tile_light": "quests/1511347416199336096/1515144780118757456.png",
+          "game_tile_dark": "quests/1511347416199336096/1515144780118757456.png",
+          "logotype_light": "quests/1511347416199336096/1515144780290457649.png",
+          "logotype_dark": "quests/1511347416199336096/1515144780089393162.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Play Enginefall Next Fest Demo",
+          "game_title": "Enginefall Next Fest Demo",
+          "game_publisher": "Red Rover Interactive"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1428180244241584269"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-07-22T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://gsght.com/c/0r2pve",
+          "button_label": "Get Game"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false,
+      "traffic_metadata_raw": "EAMYAg==",
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMMTZoVXk0eWE1OVRpVUZ0T0NwNEV3OURwd20yQStSeFcrSCtwOFRkY1k2YXlrMmdPbkQvZlRmblEyWHFwTHNvZXhqWUlWbmFwbFFtOEdHV282M0FtWVpqWWwveUxMQ3ZRPSJ9"
     },
     {
       "id": "1509258499262124192",
@@ -1752,177 +2223,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAMYAg==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLN29iWXE4ZHd0aWFZUVJYS0pMLzNJS0JCS2t3NHFhaXVvM3F2dC9KdEoxVE9GeU51L0xzOGlWWUVxVEdGQWJzbDNIOEMwTG9FN1VvVEViL3F4R0hLMDBWUkhkdkQrNlFzPSJ9"
-    },
-    {
-      "id": "1506023361820622878",
-      "config": {
-        "id": "1506023361820622878",
-        "config_version": 2,
-        "starts_at": "2026-05-20T17:00:00+00:00",
-        "expires_at": "2026-05-30T00:00:59+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://store.steampowered.com/app/3542380/?utm_source=discord&utm_campaign=launch",
-          "id": "1445982840423583785",
-          "name": "Rune Dice"
-        },
-        "assets": {
-          "hero": "quests/1506023361820622878/1506031071194648617.jpg",
-          "hero_video": "quests/1506023361820622878/1506031125519400960.mp4",
-          "quest_bar_hero_blurhash": "0SYGEoIFhkWIhGaZ+qY1iQY=",
-          "quest_bar_hero": "quests/1506023361820622878/1506031071194648617.jpg",
-          "quest_bar_hero_video": "quests/1506023361820622878/1506031125519400960.mp4",
-          "game_tile": "1506032247420223539.png",
-          "logotype": "1506035585226379284.png",
-          "game_tile_light": "quests/1506023361820622878/1506031568391766196.png",
-          "game_tile_dark": "quests/1506023361820622878/1506031568391766196.png",
-          "logotype_light": "quests/1506023361820622878/1506035558109937794.png",
-          "logotype_dark": "quests/1506023361820622878/1506035558109937794.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Rune Dice",
-          "game_title": "Rune Dice",
-          "game_publisher": "Kwalee"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1445982840423583785"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700,
-              "premium_orb_quantity": null
-            }
-          ],
-          "rewards_expire_at": "2026-06-29T00:00:59+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://store.steampowered.com/app/3542380/?utm_source=discord&utm_campaign=launch",
-          "button_label": "Play Now"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false,
-      "traffic_metadata_raw": "EAMYAg==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLN29iWXE4ZHd0aWFZUVJYS0pMLzNJS0JCS2t3NHFhaXVvM3F2dC9KdEoxVE9GeU51L0xzOGlWWUVxVEdGQWJzbDNIOEMwTG9FN1VvVEViL3F4R0hLMDBWUkhkdkQrNlFzPSJ9"
-    },
-    {
-      "id": "1509579938376978463",
-      "config": {
-        "id": "1509579938376978463",
-        "config_version": 2,
-        "starts_at": "2026-06-03T17:00:00+00:00",
-        "expires_at": "2026-06-11T00:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://nte.onelink.me/B2ti/DA_ahq_1",
-          "id": "1470616226995765409",
-          "name": "Neverness to Everness"
-        },
-        "assets": {
-          "hero": "quests/1509579938376978463/1510018593436209262.jpeg",
-          "hero_video": "quests/1509579938376978463/1510018593436209263.mp4",
-          "quest_bar_hero_blurhash": "2ycKFIQtOXKLm1dwinY1plBkCg==",
-          "quest_bar_hero": "quests/1509579938376978463/1510018593469894747.jpeg",
-          "quest_bar_hero_video": "quests/1509579938376978463/1510035096659558420.mp4",
-          "game_tile": "1510018795463250101.jpeg",
-          "logotype": "1510018794381377658.png",
-          "game_tile_light": "quests/1509579938376978463/1510018593415233636.jpeg",
-          "game_tile_dark": "quests/1509579938376978463/1510018593415233636.jpeg",
-          "logotype_light": "quests/1509579938376978463/1510018593415495771.png",
-          "logotype_dark": "quests/1509579938376978463/1510018598536740995.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "NTE Version 1.1",
-          "game_title": "NTE: Neverness to Everness",
-          "game_publisher": "Perfect World Games"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1470616226995765409"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700,
-              "premium_orb_quantity": null
-            }
-          ],
-          "rewards_expire_at": "2026-07-11T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://nte.onelink.me/B2ti/DA_ahq_1",
-          "button_label": "Play Game"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false,
-      "traffic_metadata_raw": "EAMYAg==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLN29iWXE4ZHd0aWFZUVJYS0pMLzNJS0JCS2t3NHFhaXVvM3F2dC9KdEoxVE9GeU51L0xzOGlWWUVxVEdGQWJzbDNIOEMwTG9FN1VvVEViL3F4R0hLMDBWUkhkdkQrNlFzPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMMTZoVXk0eWE1OVRpVUZ0T0NwNEV3OURwd20yQStSeFcrSCtwOFRkY1k2YXlrMmdPbkQvZlRmblEyWHFwTHNvZXhqWUlWbmFwbFFtOEdHV282M0FtWVpqWWwveUxMQ3ZRPSJ9"
     },
     {
       "id": "1506568728849023016",
@@ -2005,7 +2306,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAMYAg==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLN29iWXE4ZHd0aWFZUVJYS0pMLzNJS0JCS2t3NHFhaXVvM3F2dC9KdEoxVE9GeU51L0xzOGlWWUVxVEdGQWJzbDNIOEMwTG9FN1VvVEViL3F4R0hLMDBWUkhkdkQrNlFzPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMMTZoVXk0eWE1OVRpVUZ0T0NwNEV3OURwd20yQStSeFcrSCtwOFRkY1k2YXlrMmdPbkQvZlRmblEyWHFwTHNvZXhqWUlWbmFwbFFtOEdHV282M0FtWVpqWWwveUxMQ3ZRPSJ9"
     },
     {
       "id": "1498445420731437097",
@@ -2135,7 +2436,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAMYAg==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLN29iWXE4ZHd0aWFZUVJYS0pMLzNJS0JCS2t3NHFhaXVvM3F2dC9KdEoxVE9GeU51L0xzOGlWWUVxVEdGQWJzbDNIOEMwTG9FN1VvVEViL3F4R0hLMDBWUkhkdkQrNlFzPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMMTZoVXk0eWE1OVRpVUZ0T0NwNEV3OURwd20yQStSeFcrSCtwOFRkY1k2YXlrMmdPbkQvZlRmblEyWHFwTHNvZXhqWUlWbmFwbFFtOEdHV282M0FtWVpqWWwveUxMQ3ZRPSJ9"
     },
     {
       "id": "1511513281775538216",
@@ -2229,7 +2530,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAMYAg==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLN29iWXE4ZHd0aWFZUVJYS0pMLzNJS0JCS2t3NHFhaXVvM3F2dC9KdEoxVE9GeU51L0xzOGlWWUVxVEdGQWJzbDNIOEMwTG9FN1VvVEViL3F4R0hLMDBWUkhkdkQrNlFzPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMMTZoVXk0eWE1OVRpVUZ0T0NwNEV3OURwd20yQStSeFcrSCtwOFRkY1k2YXlrMmdPbkQvZlRmblEyWHFwTHNvZXhqWUlWbmFwbFFtOEdHV282M0FtWVpqWWwveUxMQ3ZRPSJ9"
     },
     {
       "id": "1514104077842387115",
@@ -2326,7 +2627,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAMYAg==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLN29iWXE4ZHd0aWFZUVJYS0pMLzNJS0JCS2t3NHFhaXVvM3F2dC9KdEoxVE9GeU51L0xzOGlWWUVxVEdGQWJzbDNIOEMwTG9FN1VvVEViL3F4R0hLMDBWUkhkdkQrNlFzPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMMTZoVXk0eWE1OVRpVUZ0T0NwNEV3OURwd20yQStSeFcrSCtwOFRkY1k2YXlrMmdPbkQvZlRmblEyWHFwTHNvZXhqWUlWbmFwbFFtOEdHV282M0FtWVpqWWwveUxMQ3ZRPSJ9"
     },
     {
       "id": "1509675158363963444",
@@ -2420,7 +2721,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAMYAg==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLN29iWXE4ZHd0aWFZUVJYS0pMLzNJS0JCS2t3NHFhaXVvM3F2dC9KdEoxVE9GeU51L0xzOGlWWUVxVEdGQWJzbDNIOEMwTG9FN1VvVEViL3F4R0hLMDBWUkhkdkQrNlFzPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMMTZoVXk0eWE1OVRpVUZ0T0NwNEV3OURwd20yQStSeFcrSCtwOFRkY1k2YXlrMmdPbkQvZlRmblEyWHFwTHNvZXhqWUlWbmFwbFFtOEdHV282M0FtWVpqWWwveUxMQ3ZRPSJ9"
     },
     {
       "id": "1511102193103802548",
@@ -2549,7 +2850,92 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAMYAg==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLN29iWXE4ZHd0aWFZUVJYS0pMLzNJS0JCS2t3NHFhaXVvM3F2dC9KdEoxVE9GeU51L0xzOGlWWUVxVEdGQWJzbDNIOEMwTG9FN1VvVEViL3F4R0hLMDBWUkhkdkQrNlFzPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMMTZoVXk0eWE1OVRpVUZ0T0NwNEV3OURwd20yQStSeFcrSCtwOFRkY1k2YXlrMmdPbkQvZlRmblEyWHFwTHNvZXhqWUlWbmFwbFFtOEdHV282M0FtWVpqWWwveUxMQ3ZRPSJ9"
+    },
+    {
+      "id": "1504210745225904188",
+      "config": {
+        "id": "1504210745225904188",
+        "config_version": 2,
+        "starts_at": "2026-05-18T17:00:00+00:00",
+        "expires_at": "2026-05-29T06:59:59+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "http://www.roblox.com/games/16732694052/Fisch?gsrbx=1",
+          "id": "363445589247131668",
+          "name": "Roblox"
+        },
+        "assets": {
+          "hero": "quests/1504210745225904188/1504549471575609495.jpg",
+          "hero_video": "quests/1504210745225904188/1504550163669192885.mp4",
+          "quest_bar_hero_blurhash": "maYNFISjdIaPZ3aMhopdS+C1BA==",
+          "quest_bar_hero": "quests/1504210745225904188/1504550214994755775.jpg",
+          "quest_bar_hero_video": "quests/1504210745225904188/1504550163669192885.mp4",
+          "game_tile": "1504552954563133630.png",
+          "logotype": "1504550315184095312.png",
+          "game_tile_light": "quests/1504210745225904188/1504549956940337182.png",
+          "game_tile_dark": "quests/1504210745225904188/1504552860342292642.png",
+          "logotype_light": "quests/1504210745225904188/1504550094962294814.png",
+          "logotype_dark": "quests/1504210745225904188/1504550126482620497.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "ROBLOX: FISCH",
+          "game_title": "Fisch on Roblox",
+          "game_publisher": "Roblox"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "363445589247131668"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-06-28T06:59:59+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "http://www.roblox.com/games/16732694052/Fisch?gsrbx=1",
+          "button_label": "Get Game"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false,
+      "traffic_metadata_raw": "EAMYAg==",
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMMTZoVXk0eWE1OVRpVUZ0T0NwNEV3OURwd20yQStSeFcrSCtwOFRkY1k2YXlrMmdPbkQvZlRmblEyWHFwTHNvZXhqWUlWbmFwbFFtOEdHV282M0FtWVpqWWwveUxMQ3ZRPSJ9"
     },
     {
       "id": "1502134928924475452",
@@ -2643,92 +3029,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAMYAg==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLN29iWXE4ZHd0aWFZUVJYS0pMLzNJS0JCS2t3NHFhaXVvM3F2dC9KdEoxVE9GeU51L0xzOGlWWUVxVEdGQWJzbDNIOEMwTG9FN1VvVEViL3F4R0hLMDBWUkhkdkQrNlFzPSJ9"
-    },
-    {
-      "id": "1504210745225904188",
-      "config": {
-        "id": "1504210745225904188",
-        "config_version": 2,
-        "starts_at": "2026-05-18T17:00:00+00:00",
-        "expires_at": "2026-05-29T06:59:59+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "http://www.roblox.com/games/16732694052/Fisch?gsrbx=1",
-          "id": "363445589247131668",
-          "name": "Roblox"
-        },
-        "assets": {
-          "hero": "quests/1504210745225904188/1504549471575609495.jpg",
-          "hero_video": "quests/1504210745225904188/1504550163669192885.mp4",
-          "quest_bar_hero_blurhash": "maYNFISjdIaPZ3aMhopdS+C1BA==",
-          "quest_bar_hero": "quests/1504210745225904188/1504550214994755775.jpg",
-          "quest_bar_hero_video": "quests/1504210745225904188/1504550163669192885.mp4",
-          "game_tile": "1504552954563133630.png",
-          "logotype": "1504550315184095312.png",
-          "game_tile_light": "quests/1504210745225904188/1504549956940337182.png",
-          "game_tile_dark": "quests/1504210745225904188/1504552860342292642.png",
-          "logotype_light": "quests/1504210745225904188/1504550094962294814.png",
-          "logotype_dark": "quests/1504210745225904188/1504550126482620497.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "ROBLOX: FISCH",
-          "game_title": "Fisch on Roblox",
-          "game_publisher": "Roblox"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "363445589247131668"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700,
-              "premium_orb_quantity": null
-            }
-          ],
-          "rewards_expire_at": "2026-06-28T06:59:59+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "http://www.roblox.com/games/16732694052/Fisch?gsrbx=1",
-          "button_label": "Get Game"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false,
-      "traffic_metadata_raw": "EAMYAg==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLN29iWXE4ZHd0aWFZUVJYS0pMLzNJS0JCS2t3NHFhaXVvM3F2dC9KdEoxVE9GeU51L0xzOGlWWUVxVEdGQWJzbDNIOEMwTG9FN1VvVEViL3F4R0hLMDBWUkhkdkQrNlFzPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMMTZoVXk0eWE1OVRpVUZ0T0NwNEV3OURwd20yQStSeFcrSCtwOFRkY1k2YXlrMmdPbkQvZlRmblEyWHFwTHNvZXhqWUlWbmFwbFFtOEdHV282M0FtWVpqWWwveUxMQ3ZRPSJ9"
     },
     {
       "id": "1509838468124115004",
@@ -2820,7 +3121,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAMYAg==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLN29iWXE4ZHd0aWFZUVJYS0pMLzNJS0JCS2t3NHFhaXVvM3F2dC9KdEoxVE9GeU51L0xzOGlWWUVxVEdGQWJzbDNIOEMwTG9FN1VvVEViL3F4R0hLMDBWUkhkdkQrNlFzPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMMTZoVXk0eWE1OVRpVUZ0T0NwNEV3OURwd20yQStSeFcrSCtwOFRkY1k2YXlrMmdPbkQvZlRmblEyWHFwTHNvZXhqWUlWbmFwbFFtOEdHV282M0FtWVpqWWwveUxMQ3ZRPSJ9"
     },
     {
       "id": "1504974058511401021",
@@ -2951,7 +3252,138 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAMYAg==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLN29iWXE4ZHd0aWFZUVJYS0pMLzNJS0JCS2t3NHFhaXVvM3F2dC9KdEoxVE9GeU51L0xzOGlWWUVxVEdGQWJzbDNIOEMwTG9FN1VvVEViL3F4R0hLMDBWUkhkdkQrNlFzPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMMTZoVXk0eWE1OVRpVUZ0T0NwNEV3OURwd20yQStSeFcrSCtwOFRkY1k2YXlrMmdPbkQvZlRmblEyWHFwTHNvZXhqWUlWbmFwbFFtOEdHV282M0FtWVpqWWwveUxMQ3ZRPSJ9"
+    },
+    {
+      "id": "1499200708291858492",
+      "config": {
+        "id": "1499200708291858492",
+        "config_version": 2,
+        "starts_at": "2026-05-08T17:00:00+00:00",
+        "expires_at": "2026-06-06T00:00:59+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://ad.doubleclick.net/ddm/trackclk/N1306638.3397510DISCORD/B35415340.446327645;dc_trk_aid=639846096;dc_trk_cid=254904973;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1499200708291858492/1501292477963833344.jpg",
+          "hero_video": "quests/1499200708291858492/1501292536759844914.mp4",
+          "quest_bar_hero_blurhash": "j1kGFIIGKad9lHh6lHoFjVuwiQ==",
+          "quest_bar_hero": "quests/1499200708291858492/1501292871188222033.jpg",
+          "quest_bar_hero_video": "quests/1499200708291858492/1501292536759844914.mp4",
+          "game_tile": "1501293285161828556.png",
+          "logotype": "1501293284134359261.png",
+          "game_tile_light": "quests/1499200708291858492/1501293087354523750.png",
+          "game_tile_dark": "quests/1499200708291858492/1501293087354523750.png",
+          "logotype_light": "quests/1499200708291858492/1501292976226439198.png",
+          "logotype_dark": "quests/1499200708291858492/1501293034162229451.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Saros - Launch Trailer | PS5 Games",
+          "game_title": "Saros Launch Trailer PS5 Games",
+          "game_publisher": "PlayStation®"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 113,
+              "assets": {
+                "video": {
+                  "url": "quests/1499200708291858492/1501293423825518763_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1499200708291858492/1501299028535546046.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1499200708291858492/1501293423825518763_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1499200708291858492/1501299028535546046.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1499200708291858492/1501293423825518763.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1499200708291858492/1501299028535546046.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "video"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 113,
+              "assets": {
+                "video": {
+                  "url": "quests/1499200708291858492/1501293423825518763_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1499200708291858492/1501299028535546046.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1499200708291858492/1501293423825518763_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1499200708291858492/1501299028535546046.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1499200708291858492/1501293423825518763.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1499200708291858492/1501299028535546046.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "video"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-07-06T00:00:59+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://ad.doubleclick.net/ddm/trackclk/N1306638.3397510DISCORD/B35415340.446327645;dc_trk_aid=639846096;dc_trk_cid=254904973;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+          "button_label": "Buy Now",
+          "subtitle": "COME BACK STRONGER"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false,
+      "traffic_metadata_raw": "EAMYAg==",
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMMTZoVXk0eWE1OVRpVUZ0T0NwNEV3OURwd20yQStSeFcrSCtwOFRkY1k2YXlrMmdPbkQvZlRmblEyWHFwTHNvZXhqWUlWbmFwbFFtOEdHV282M0FtWVpqWWwveUxMQ3ZRPSJ9"
     },
     {
       "id": "1503493096116326591",
@@ -3082,7 +3514,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAMYAg==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLN29iWXE4ZHd0aWFZUVJYS0pMLzNJS0JCS2t3NHFhaXVvM3F2dC9KdEoxVE9GeU51L0xzOGlWWUVxVEdGQWJzbDNIOEMwTG9FN1VvVEViL3F4R0hLMDBWUkhkdkQrNlFzPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMMTZoVXk0eWE1OVRpVUZ0T0NwNEV3OURwd20yQStSeFcrSCtwOFRkY1k2YXlrMmdPbkQvZlRmblEyWHFwTHNvZXhqWUlWbmFwbFFtOEdHV282M0FtWVpqWWwveUxMQ3ZRPSJ9"
     },
     {
       "id": "1503853078712156230",
@@ -3213,7 +3645,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAMYAg==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLN29iWXE4ZHd0aWFZUVJYS0pMLzNJS0JCS2t3NHFhaXVvM3F2dC9KdEoxVE9GeU51L0xzOGlWWUVxVEdGQWJzbDNIOEMwTG9FN1VvVEViL3F4R0hLMDBWUkhkdkQrNlFzPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMMTZoVXk0eWE1OVRpVUZ0T0NwNEV3OURwd20yQStSeFcrSCtwOFRkY1k2YXlrMmdPbkQvZlRmblEyWHFwTHNvZXhqWUlWbmFwbFFtOEdHV282M0FtWVpqWWwveUxMQ3ZRPSJ9"
     },
     {
       "id": "1501848093425930311",
@@ -3307,7 +3739,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAMYAg==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLN29iWXE4ZHd0aWFZUVJYS0pMLzNJS0JCS2t3NHFhaXVvM3F2dC9KdEoxVE9GeU51L0xzOGlWWUVxVEdGQWJzbDNIOEMwTG9FN1VvVEViL3F4R0hLMDBWUkhkdkQrNlFzPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMMTZoVXk0eWE1OVRpVUZ0T0NwNEV3OURwd20yQStSeFcrSCtwOFRkY1k2YXlrMmdPbkQvZlRmblEyWHFwTHNvZXhqWUlWbmFwbFFtOEdHV282M0FtWVpqWWwveUxMQ3ZRPSJ9"
     },
     {
       "id": "1511800348258467921",
@@ -3444,7 +3876,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAMYAg==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLN29iWXE4ZHd0aWFZUVJYS0pMLzNJS0JCS2t3NHFhaXVvM3F2dC9KdEoxVE9GeU51L0xzOGlWWUVxVEdGQWJzbDNIOEMwTG9FN1VvVEViL3F4R0hLMDBWUkhkdkQrNlFzPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMMTZoVXk0eWE1OVRpVUZ0T0NwNEV3OURwd20yQStSeFcrSCtwOFRkY1k2YXlrMmdPbkQvZlRmblEyWHFwTHNvZXhqWUlWbmFwbFFtOEdHV282M0FtWVpqWWwveUxMQ3ZRPSJ9"
     },
     {
       "id": "1486799371478634708",
@@ -3575,7 +4007,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAMYAg==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLN29iWXE4ZHd0aWFZUVJYS0pMLzNJS0JCS2t3NHFhaXVvM3F2dC9KdEoxVE9GeU51L0xzOGlWWUVxVEdGQWJzbDNIOEMwTG9FN1VvVEViL3F4R0hLMDBWUkhkdkQrNlFzPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMMTZoVXk0eWE1OVRpVUZ0T0NwNEV3OURwd20yQStSeFcrSCtwOFRkY1k2YXlrMmdPbkQvZlRmblEyWHFwTHNvZXhqWUlWbmFwbFFtOEdHV282M0FtWVpqWWwveUxMQ3ZRPSJ9"
     },
     {
       "id": "1506410821838700635",
@@ -3706,7 +4138,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAMYAg==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLN29iWXE4ZHd0aWFZUVJYS0pMLzNJS0JCS2t3NHFhaXVvM3F2dC9KdEoxVE9GeU51L0xzOGlWWUVxVEdGQWJzbDNIOEMwTG9FN1VvVEViL3F4R0hLMDBWUkhkdkQrNlFzPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMMTZoVXk0eWE1OVRpVUZ0T0NwNEV3OURwd20yQStSeFcrSCtwOFRkY1k2YXlrMmdPbkQvZlRmblEyWHFwTHNvZXhqWUlWbmFwbFFtOEdHV282M0FtWVpqWWwveUxMQ3ZRPSJ9"
     },
     {
       "id": "1511153398618132580",
@@ -3837,7 +4269,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAMYAg==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLN29iWXE4ZHd0aWFZUVJYS0pMLzNJS0JCS2t3NHFhaXVvM3F2dC9KdEoxVE9GeU51L0xzOGlWWUVxVEdGQWJzbDNIOEMwTG9FN1VvVEViL3F4R0hLMDBWUkhkdkQrNlFzPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMMTZoVXk0eWE1OVRpVUZ0T0NwNEV3OURwd20yQStSeFcrSCtwOFRkY1k2YXlrMmdPbkQvZlRmblEyWHFwTHNvZXhqWUlWbmFwbFFtOEdHV282M0FtWVpqWWwveUxMQ3ZRPSJ9"
     },
     {
       "id": "1512312534802108517",
@@ -3968,7 +4400,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAMYAg==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLN29iWXE4ZHd0aWFZUVJYS0pMLzNJS0JCS2t3NHFhaXVvM3F2dC9KdEoxVE9GeU51L0xzOGlWWUVxVEdGQWJzbDNIOEMwTG9FN1VvVEViL3F4R0hLMDBWUkhkdkQrNlFzPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMMTZoVXk0eWE1OVRpVUZ0T0NwNEV3OURwd20yQStSeFcrSCtwOFRkY1k2YXlrMmdPbkQvZlRmblEyWHFwTHNvZXhqWUlWbmFwbFFtOEdHV282M0FtWVpqWWwveUxMQ3ZRPSJ9"
     },
     {
       "id": "1493412800679252078",
@@ -4105,7 +4537,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAMYAg==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLN29iWXE4ZHd0aWFZUVJYS0pMLzNJS0JCS2t3NHFhaXVvM3F2dC9KdEoxVE9GeU51L0xzOGlWWUVxVEdGQWJzbDNIOEMwTG9FN1VvVEViL3F4R0hLMDBWUkhkdkQrNlFzPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMMTZoVXk0eWE1OVRpVUZ0T0NwNEV3OURwd20yQStSeFcrSCtwOFRkY1k2YXlrMmdPbkQvZlRmblEyWHFwTHNvZXhqWUlWbmFwbFFtOEdHV282M0FtWVpqWWwveUxMQ3ZRPSJ9"
     },
     {
       "id": "1506575466969043055",
@@ -4190,7 +4622,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAMYAg==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLN29iWXE4ZHd0aWFZUVJYS0pMLzNJS0JCS2t3NHFhaXVvM3F2dC9KdEoxVE9GeU51L0xzOGlWWUVxVEdGQWJzbDNIOEMwTG9FN1VvVEViL3F4R0hLMDBWUkhkdkQrNlFzPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMMTZoVXk0eWE1OVRpVUZ0T0NwNEV3OURwd20yQStSeFcrSCtwOFRkY1k2YXlrMmdPbkQvZlRmblEyWHFwTHNvZXhqWUlWbmFwbFFtOEdHV282M0FtWVpqWWwveUxMQ3ZRPSJ9"
     },
     {
       "id": "1511144932533076080",
@@ -4275,211 +4707,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAMYAg==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLN29iWXE4ZHd0aWFZUVJYS0pMLzNJS0JCS2t3NHFhaXVvM3F2dC9KdEoxVE9GeU51L0xzOGlWWUVxVEdGQWJzbDNIOEMwTG9FN1VvVEViL3F4R0hLMDBWUkhkdkQrNlFzPSJ9"
-    },
-    {
-      "id": "1511089574988873969",
-      "config": {
-        "id": "1511089574988873969",
-        "config_version": 2,
-        "starts_at": "2026-06-04T17:00:00+00:00",
-        "expires_at": "2026-06-17T00:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://game.ea.com/redirect?campaignName=FC26_UA_US_EA_SOC_DIS_WC&caudience=C3-FC-COMPETITOR&ccreative=S-NATPRIDE&caudienceid=1511089574988873971",
-          "id": "1421154726023532544",
-          "name": "EA SPORTS FC 26"
-        },
-        "assets": {
-          "hero": "quests/1511089574988873969/1512117569438617721.jpg",
-          "quest_bar_hero_blurhash": "k+cJIoSHeIiAdrh5loBbawg=",
-          "quest_bar_hero": "quests/1511089574988873969/1512132919752261774.jpg",
-          "game_tile": "1511829977690275840.png",
-          "logotype": "1511829976259887135.png",
-          "game_tile_light": "quests/1511089574988873969/1511798841245171782.png",
-          "game_tile_dark": "quests/1511089574988873969/1511829847071260774.png",
-          "logotype_light": "quests/1511089574988873969/1511798841236525206.png",
-          "logotype_dark": "quests/1511089574988873969/1511829847092232413.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "EAFC x The World's Game",
-          "game_title": "EA Sports FC 26",
-          "game_publisher": "Electronic Arts"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1421154726023532544"
-                }
-              ]
-            },
-            "PLAY_ON_XBOX": {
-              "type": "PLAY_ON_XBOX",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1421154726023532544"
-                }
-              ]
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1421154726023532544"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700,
-              "premium_orb_quantity": null
-            }
-          ],
-          "rewards_expire_at": "2026-07-17T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://game.ea.com/redirect?campaignName=FC26_UA_US_EA_SOC_DIS_WC&caudience=C3-FC-COMPETITOR&ccreative=S-NATPRIDE&caudienceid=1511089574988873971",
-          "button_label": "Play Now"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false,
-      "traffic_metadata_raw": "EAMYAg==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLN29iWXE4ZHd0aWFZUVJYS0pMLzNJS0JCS2t3NHFhaXVvM3F2dC9KdEoxVE9GeU51L0xzOGlWWUVxVEdGQWJzbDNIOEMwTG9FN1VvVEViL3F4R0hLMDBWUkhkdkQrNlFzPSJ9"
-    },
-    {
-      "id": "1508905642612625650",
-      "config": {
-        "id": "1508905642612625650",
-        "config_version": 2,
-        "starts_at": "2026-06-05T17:00:00+00:00",
-        "expires_at": "2026-06-19T00:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://store.wearesecretmode.com/games/escape-the-backrooms?utm_source=discord&utm_medium=button&utm_campaign=quest",
-          "id": "1162085521816813721",
-          "name": "Escape the Backrooms"
-        },
-        "assets": {
-          "hero": "quests/1508905642612625650/1510010539982590042.jpg",
-          "hero_video": "quests/1508905642612625650/1510010618386583823.mp4",
-          "quest_bar_hero_blurhash": "ExoKEoANWUbKeleHL8j0C3Y=",
-          "quest_bar_hero": "quests/1508905642612625650/1510010539982590042.jpg",
-          "quest_bar_hero_video": "quests/1508905642612625650/1510010618386583823.mp4",
-          "game_tile": "1510010829565595809.png",
-          "logotype": "1510010828508889211.png",
-          "game_tile_light": "quests/1508905642612625650/1510009510909968424.png",
-          "game_tile_dark": "quests/1508905642612625650/1510009510909968424.png",
-          "logotype_light": "quests/1508905642612625650/1510009576378990824.png",
-          "logotype_dark": "quests/1508905642612625650/1510009871762723151.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Escape the Backrooms",
-          "game_title": "Escape the Backrooms",
-          "game_publisher": "Secret Mode"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1162085521816813721"
-                }
-              ]
-            },
-            "PLAY_ON_XBOX": {
-              "type": "PLAY_ON_XBOX",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1162085521816813721"
-                }
-              ]
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1162085521816813721"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700,
-              "premium_orb_quantity": null
-            }
-          ],
-          "rewards_expire_at": "2026-07-19T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://store.wearesecretmode.com/games/escape-the-backrooms?utm_source=discord&utm_medium=button&utm_campaign=quest",
-          "button_label": "Play Now"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false,
-      "traffic_metadata_raw": "EAMYAg==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLN29iWXE4ZHd0aWFZUVJYS0pMLzNJS0JCS2t3NHFhaXVvM3F2dC9KdEoxVE9GeU51L0xzOGlWWUVxVEdGQWJzbDNIOEMwTG9FN1VvVEViL3F4R0hLMDBWUkhkdkQrNlFzPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMMTZoVXk0eWE1OVRpVUZ0T0NwNEV3OURwd20yQStSeFcrSCtwOFRkY1k2YXlrMmdPbkQvZlRmblEyWHFwTHNvZXhqWUlWbmFwbFFtOEdHV282M0FtWVpqWWwveUxMQ3ZRPSJ9"
     },
     {
       "id": "1508936896972066927",
@@ -4609,7 +4837,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAMYAg==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLN29iWXE4ZHd0aWFZUVJYS0pMLzNJS0JCS2t3NHFhaXVvM3F2dC9KdEoxVE9GeU51L0xzOGlWWUVxVEdGQWJzbDNIOEMwTG9FN1VvVEViL3F4R0hLMDBWUkhkdkQrNlFzPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMMTZoVXk0eWE1OVRpVUZ0T0NwNEV3OURwd20yQStSeFcrSCtwOFRkY1k2YXlrMmdPbkQvZlRmblEyWHFwTHNvZXhqWUlWbmFwbFFtOEdHV282M0FtWVpqWWwveUxMQ3ZRPSJ9"
     },
     {
       "id": "1504658919157403762",
@@ -4740,7 +4968,211 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAMYAg==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLN29iWXE4ZHd0aWFZUVJYS0pMLzNJS0JCS2t3NHFhaXVvM3F2dC9KdEoxVE9GeU51L0xzOGlWWUVxVEdGQWJzbDNIOEMwTG9FN1VvVEViL3F4R0hLMDBWUkhkdkQrNlFzPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMMTZoVXk0eWE1OVRpVUZ0T0NwNEV3OURwd20yQStSeFcrSCtwOFRkY1k2YXlrMmdPbkQvZlRmblEyWHFwTHNvZXhqWUlWbmFwbFFtOEdHV282M0FtWVpqWWwveUxMQ3ZRPSJ9"
+    },
+    {
+      "id": "1511089574988873969",
+      "config": {
+        "id": "1511089574988873969",
+        "config_version": 2,
+        "starts_at": "2026-06-04T17:00:00+00:00",
+        "expires_at": "2026-06-17T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://game.ea.com/redirect?campaignName=FC26_UA_US_EA_SOC_DIS_WC&caudience=C3-FC-COMPETITOR&ccreative=S-NATPRIDE&caudienceid=1511089574988873971",
+          "id": "1421154726023532544",
+          "name": "EA SPORTS FC 26"
+        },
+        "assets": {
+          "hero": "quests/1511089574988873969/1512117569438617721.jpg",
+          "quest_bar_hero_blurhash": "k+cJIoSHeIiAdrh5loBbawg=",
+          "quest_bar_hero": "quests/1511089574988873969/1512132919752261774.jpg",
+          "game_tile": "1511829977690275840.png",
+          "logotype": "1511829976259887135.png",
+          "game_tile_light": "quests/1511089574988873969/1511798841245171782.png",
+          "game_tile_dark": "quests/1511089574988873969/1511829847071260774.png",
+          "logotype_light": "quests/1511089574988873969/1511798841236525206.png",
+          "logotype_dark": "quests/1511089574988873969/1511829847092232413.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "EAFC x The World's Game",
+          "game_title": "EA Sports FC 26",
+          "game_publisher": "Electronic Arts"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1421154726023532544"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1421154726023532544"
+                }
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1421154726023532544"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-07-17T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://game.ea.com/redirect?campaignName=FC26_UA_US_EA_SOC_DIS_WC&caudience=C3-FC-COMPETITOR&ccreative=S-NATPRIDE&caudienceid=1511089574988873971",
+          "button_label": "Play Now"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false,
+      "traffic_metadata_raw": "EAMYAg==",
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMMTZoVXk0eWE1OVRpVUZ0T0NwNEV3OURwd20yQStSeFcrSCtwOFRkY1k2YXlrMmdPbkQvZlRmblEyWHFwTHNvZXhqWUlWbmFwbFFtOEdHV282M0FtWVpqWWwveUxMQ3ZRPSJ9"
+    },
+    {
+      "id": "1508905642612625650",
+      "config": {
+        "id": "1508905642612625650",
+        "config_version": 2,
+        "starts_at": "2026-06-05T17:00:00+00:00",
+        "expires_at": "2026-06-19T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://store.wearesecretmode.com/games/escape-the-backrooms?utm_source=discord&utm_medium=button&utm_campaign=quest",
+          "id": "1162085521816813721",
+          "name": "Escape the Backrooms"
+        },
+        "assets": {
+          "hero": "quests/1508905642612625650/1510010539982590042.jpg",
+          "hero_video": "quests/1508905642612625650/1510010618386583823.mp4",
+          "quest_bar_hero_blurhash": "ExoKEoANWUbKeleHL8j0C3Y=",
+          "quest_bar_hero": "quests/1508905642612625650/1510010539982590042.jpg",
+          "quest_bar_hero_video": "quests/1508905642612625650/1510010618386583823.mp4",
+          "game_tile": "1510010829565595809.png",
+          "logotype": "1510010828508889211.png",
+          "game_tile_light": "quests/1508905642612625650/1510009510909968424.png",
+          "game_tile_dark": "quests/1508905642612625650/1510009510909968424.png",
+          "logotype_light": "quests/1508905642612625650/1510009576378990824.png",
+          "logotype_dark": "quests/1508905642612625650/1510009871762723151.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Escape the Backrooms",
+          "game_title": "Escape the Backrooms",
+          "game_publisher": "Secret Mode"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1162085521816813721"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1162085521816813721"
+                }
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1162085521816813721"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-07-19T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://store.wearesecretmode.com/games/escape-the-backrooms?utm_source=discord&utm_medium=button&utm_campaign=quest",
+          "button_label": "Play Now"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false,
+      "traffic_metadata_raw": "EAMYAg==",
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMMTZoVXk0eWE1OVRpVUZ0T0NwNEV3OURwd20yQStSeFcrSCtwOFRkY1k2YXlrMmdPbkQvZlRmblEyWHFwTHNvZXhqWUlWbmFwbFFtOEdHV282M0FtWVpqWWwveUxMQ3ZRPSJ9"
     },
     {
       "id": "1501736290411085945",
@@ -4871,7 +5303,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAMYAg==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLN29iWXE4ZHd0aWFZUVJYS0pMLzNJS0JCS2t3NHFhaXVvM3F2dC9KdEoxVE9GeU51L0xzOGlWWUVxVEdGQWJzbDNIOEMwTG9FN1VvVEViL3F4R0hLMDBWUkhkdkQrNlFzPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMMTZoVXk0eWE1OVRpVUZ0T0NwNEV3OURwd20yQStSeFcrSCtwOFRkY1k2YXlrMmdPbkQvZlRmblEyWHFwTHNvZXhqWUlWbmFwbFFtOEdHV282M0FtWVpqWWwveUxMQ3ZRPSJ9"
     }
   ],
   "excluded_quests": [
@@ -4953,10 +5385,6 @@
       "id": "1507414550088126638"
     },
     {
-      "id": "1509761239226519612",
-      "replacement_id": "1511513281775538216"
-    },
-    {
       "id": "1499938629387030638"
     },
     {
@@ -4967,7 +5395,8 @@
       "replacement_id": "1514104077842387115"
     },
     {
-      "id": "1499200708291858492"
+      "id": "1509761239226519612",
+      "replacement_id": "1511513281775538216"
     },
     {
       "id": "1509318566103617727"
