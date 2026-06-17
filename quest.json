@@ -6579,5 +6579,104 @@
       "button_label": "Apply Now",
       "subtitle": "Limited Playtest Spots - sign up today!"
     }
+  },
+  {
+    "id": "1514719284410978364",
+    "config_version": 2,
+    "starts_at": "2026-06-17T17:00:00+00:00",
+    "expires_at": "2026-07-01T00:00:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://playgoals.com/en",
+      "id": "1440130372162682961",
+      "name": "GOALS"
+    },
+    "assets": {
+      "hero": "quests/1514719284410978364/1516821317662281769.jpg",
+      "quest_bar_hero_blurhash": "kOgJJIRneZmAiGmIeHdXgFn1SA==",
+      "quest_bar_hero": "quests/1514719284410978364/1516821293016682528.jpg",
+      "game_tile": "1516479784362971378.png",
+      "logotype": "1516479783398150165.png",
+      "game_tile_light": "quests/1514719284410978364/1516479573855047740.png",
+      "game_tile_dark": "quests/1514719284410978364/1516479573855047740.png",
+      "logotype_light": "quests/1514719284410978364/1516479573364314212.png",
+      "logotype_dark": "quests/1514719284410978364/1516479573364314212.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "GOALS",
+      "game_title": "GOALS",
+      "game_publisher": "GOALS"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "type": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1440130372162682961"
+            }
+          ]
+        },
+        "PLAY_ON_XBOX": {
+          "type": "PLAY_ON_XBOX",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1440130372162682961"
+            }
+          ],
+          "external_ids": [
+            "1631010499"
+          ]
+        },
+        "PLAY_ON_PLAYSTATION": {
+          "type": "PLAY_ON_PLAYSTATION",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1440130372162682961"
+            }
+          ],
+          "external_ids": [
+            "PPSA26339_00"
+          ]
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 Orbs",
+            "name_with_article": "700 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 700,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2026-07-31T00:00:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://playgoals.com/en",
+      "button_label": "Play Now"
+    }
   }
 ]
