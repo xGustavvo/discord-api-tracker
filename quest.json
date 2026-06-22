@@ -7457,5 +7457,131 @@
       "button_label": "Get Tickets",
       "subtitle": "01 de julio solo en cines"
     }
+  },
+  {
+    "id": "1516176546988298411",
+    "config_version": 2,
+    "starts_at": "2026-06-22T17:00:00+00:00",
+    "expires_at": "2026-06-29T00:59:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://www.fandango.com/supergirl-2026-243716/movie-overview",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "quests/1516176546988298411/1516180091380437065.jpg",
+      "hero_video": "quests/1516176546988298411/1517279821804343396.mp4",
+      "quest_bar_hero_blurhash": "2qUFYpT3FaxbtolXA4hEcEg=",
+      "quest_bar_hero": "quests/1516176546988298411/1516180091380437065.jpg",
+      "quest_bar_hero_video": "quests/1516176546988298411/1517279398670237734.mp4",
+      "game_tile": "1516180173614088424.jpg",
+      "logotype": "1516180172330766387.png",
+      "game_tile_light": "quests/1516176546988298411/1516179986414047312.jpg",
+      "game_tile_dark": "quests/1516176546988298411/1516179986414047312.jpg",
+      "logotype_light": "quests/1516176546988298411/1516179821309460550.png",
+      "logotype_dark": "quests/1516176546988298411/1516179810613727262.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Supergirl",
+      "game_title": "Supergirl in Theaters Friday",
+      "game_publisher": "Warner Bros. Pictures"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 14,
+          "assets": {
+            "video": {
+              "url": "quests/1516176546988298411/1517278135240888351_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1516176546988298411/1516180302865891469.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1516176546988298411/1517278135240888351_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1516176546988298411/1516180302865891469.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1516176546988298411/1517278135240888351.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1516176546988298411/1516180302865891469.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
+        },
+        "WATCH_VIDEO_ON_MOBILE": {
+          "type": "WATCH_VIDEO_ON_MOBILE",
+          "target": 14,
+          "assets": {
+            "video": {
+              "url": "quests/1516176546988298411/1517332061038313673_1080.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1516176546988298411/1516180302865891469.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1516176546988298411/1517332061038313673_720.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1516176546988298411/1516180302865891469.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1516176546988298411/1517332061038313673.m3u8",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1516176546988298411/1516180302865891469.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 3,
+          "sku_id": "1517277871138279654",
+          "asset": "quests/1516176546988298411/1517278009432735834.mp4",
+          "asset_video": null,
+          "messages": {
+            "name": "Supergirl Avatar Decoration",
+            "name_with_article": "a Supergirl Avatar Decoration",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "expires_at": "2026-07-29T00:00:00+00:00",
+          "expires_at_premium": null,
+          "expiration_mode": 3
+        }
+      ],
+      "rewards_expire_at": "2026-07-29T00:59:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.fandango.com/supergirl-2026-243716/movie-overview",
+      "button_label": "Get Showtimes",
+      "subtitle": "Supergirl in Theaters Friday"
+    }
   }
 ]
