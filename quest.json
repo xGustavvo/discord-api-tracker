@@ -8410,5 +8410,82 @@
       "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
       "button_label": "Play Now"
     }
+  },
+  {
+    "id": "1512304691868995584",
+    "config_version": 2,
+    "starts_at": "2026-06-26T17:00:00+00:00",
+    "expires_at": "2026-07-03T00:00:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://osrs.runescape.com/download",
+      "id": "1180205756998488064",
+      "name": "Old School RuneScape"
+    },
+    "assets": {
+      "hero": "quests/1512304691868995584/1519730392284795041.jpg",
+      "quest_bar_hero_blurhash": "GugJJISkeneflnd9eY16YHRGCA==",
+      "quest_bar_hero": "quests/1512304691868995584/1519387883134259431.jpg",
+      "quest_bar_hero_video": "quests/1512304691868995584/1519730411218141474_720.mp4",
+      "game_tile": "1519388319547523292.jpg",
+      "logotype": "1519412667004096684.png",
+      "game_tile_light": "quests/1512304691868995584/1519387013328146533.jpg",
+      "game_tile_dark": "quests/1512304691868995584/1519387013328146533.jpg",
+      "logotype_light": "quests/1512304691868995584/1519412622980677814.png",
+      "logotype_dark": "quests/1512304691868995584/1519412622536081448.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Old School RuneScape",
+      "game_title": "Old School RuneScape",
+      "game_publisher": "Jagex"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "type": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1180205756998488064"
+            }
+          ]
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 Orbs",
+            "name_with_article": "700 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 700,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2026-08-02T00:00:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://osrs.runescape.com/download",
+      "button_label": "Play Now",
+      "subtitle": "Play Old School RuneScape"
+    }
   }
 ]
