@@ -9773,5 +9773,93 @@
       "button_label": "Learn More",
       "subtitle": "Take stress out of growth with Azure"
     }
+  },
+  {
+    "id": "1518710044856815737",
+    "config_version": 2,
+    "starts_at": "2026-07-01T17:00:00+00:00",
+    "expires_at": "2026-07-25T00:00:00+00:00",
+    "features": [
+      27,
+      36,
+      15
+    ],
+    "application": {
+      "link": "https://www.redbull.com/us-en/hubs/gaming",
+      "id": "1504045545457586206",
+      "name": "Red Bull Crate"
+    },
+    "assets": {
+      "hero": "quests/1518710044856815737/1521272795642990743.jpg",
+      "hero_video": "quests/1518710044856815737/1521657384802582668.mp4",
+      "quest_bar_hero_blurhash": "NigGHIT5p2d4iHZuhIcGmnLECQ==",
+      "quest_bar_hero": "quests/1518710044856815737/1521272702902468700.jpg",
+      "quest_bar_hero_video": "quests/1518710044856815737/1521272743708856421_720.mp4",
+      "game_tile": "1521656065513488569.png",
+      "logotype": "1521888243447234632.png",
+      "game_tile_light": "quests/1518710044856815737/1521654340996038666.png",
+      "game_tile_dark": "quests/1518710044856815737/1521654340996038666.png",
+      "logotype_light": "quests/1518710044856815737/1521888031550865600.png",
+      "logotype_dark": "quests/1518710044856815737/1521888175230812241.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Red Bull Crate",
+      "game_title": "Red Bull",
+      "game_publisher": "Red Bull"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "ACHIEVEMENT_IN_ACTIVITY": {
+          "type": "ACHIEVEMENT_IN_ACTIVITY",
+          "target": 1,
+          "applications": [
+            {
+              "id": "1504045545457586206"
+            }
+          ],
+          "event_name": "progress",
+          "messages": {
+            "task_title": "Red Bull Crate",
+            "task_description": "Unlock the crate to earn a Red Bull Avatar Decoration and a chance to claim a Red Bull Reward - while supplies last. 18+. US only."
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 3,
+          "sku_id": "1521661571665756180",
+          "asset": "quests/1518710044856815737/1521680306514690218.mp4",
+          "asset_video": null,
+          "messages": {
+            "name": "Red Bull Avatar Decoration",
+            "name_with_article": "a Red Bull Avatar Decoration",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "expires_at": "2026-09-28T00:00:00+00:00",
+          "expires_at_premium": null,
+          "expiration_mode": 1
+        }
+      ],
+      "rewards_expire_at": "2026-08-24T00:00:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.redbull.com/us-en/hubs/gaming",
+      "button_label": "Get Promotions",
+      "subtitle": "Gives You Wiiings"
+    }
   }
 ]
