@@ -10784,5 +10784,82 @@
       "link": "https://nte.onelink.me/RX86/Event_West_12",
       "button_label": "Play Now"
     }
+  },
+  {
+    "id": "1519474065293967471",
+    "config_version": 2,
+    "starts_at": "2026-07-08T17:00:00+00:00",
+    "expires_at": "2026-07-16T00:00:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://example.com",
+      "id": "111111111111111111",
+      "name": "PLACEHOLDER"
+    },
+    "assets": {
+      "hero": "PLACEHOLDER",
+      "quest_bar_hero_blurhash": null,
+      "quest_bar_hero": "PLACEHOLDER",
+      "game_tile": "1519474206419583056.png",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1519474065293967471/1519474176816189551.png",
+      "game_tile_dark": "quests/1519474065293967471/1519474176816189551.png",
+      "logotype_light": "PLACEHOLDER",
+      "logotype_dark": "PLACEHOLDER"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "PLACEHOLDER",
+      "game_title": "PLACEHOLDER",
+      "game_publisher": "PLACEHOLDER"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "type": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "applications": [
+            {
+              "id": "111111111111111111"
+            }
+          ]
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 1,
+          "sku_id": "1519474065293967472",
+          "asset": "PLACEHOLDER",
+          "asset_video": null,
+          "messages": {
+            "name": "PLACEHOLDER",
+            "name_with_article": "PLACEHOLDER",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "approximate_count": null,
+          "redemption_link": null
+        }
+      ],
+      "rewards_expire_at": "2026-08-15T00:00:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://example.com",
+      "button_label": "Get Game"
+    }
   }
 ]
