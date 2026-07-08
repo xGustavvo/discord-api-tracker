@@ -10707,5 +10707,82 @@
       "link": "https://www.monopolygo.com/",
       "button_label": "Play Now"
     }
+  },
+  {
+    "id": "1521699040776159282",
+    "config_version": 2,
+    "starts_at": "2026-07-08T17:00:00+00:00",
+    "expires_at": "2026-07-16T00:00:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://nte.onelink.me/RX86/Event_West_12",
+      "id": "1470616226995765409",
+      "name": "Neverness to Everness"
+    },
+    "assets": {
+      "hero": "quests/1521699040776159282/1521701197290143936.jpg",
+      "hero_video": "quests/1521699040776159282/1524273833987543050.mp4",
+      "quest_bar_hero_blurhash": "YgcKCoR/n1aHd3Z3oqBqQHg=",
+      "quest_bar_hero": "quests/1521699040776159282/1521701197239812166.jpg",
+      "quest_bar_hero_video": "quests/1521699040776159282/1524273833282895983.mp4",
+      "game_tile": "1521701516283744326.jpeg",
+      "logotype": "1521701787801747568.png",
+      "game_tile_light": "quests/1521699040776159282/1521701197248200794.jpeg",
+      "game_tile_dark": "quests/1521699040776159282/1521701197248200794.jpeg",
+      "logotype_light": "quests/1521699040776159282/1521701197248200795.png",
+      "logotype_dark": "quests/1521699040776159282/1521701197248200795.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "NTE 1.2 Version",
+      "game_title": "NTE: Neverness to Everness",
+      "game_publisher": "Perfect World Games"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "type": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1470616226995765409"
+            }
+          ]
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 Orbs",
+            "name_with_article": "700 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 700,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2026-08-15T00:00:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://nte.onelink.me/RX86/Event_West_12",
+      "button_label": "Play Now"
+    }
   }
 ]
