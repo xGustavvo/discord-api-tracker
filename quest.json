@@ -11480,5 +11480,131 @@
       "button_label": "Shop Now",
       "subtitle": "Save on Everything College"
     }
+  },
+  {
+    "id": "1524060064422432778",
+    "config_version": 2,
+    "starts_at": "2026-07-13T17:00:00+00:00",
+    "expires_at": "2026-07-20T00:00:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://www.hulu.com/series/52b8dd8a-eff2-4ed2-9b8d-7c0039df1c53?cmp=21640&utm_campaign=CM_SOC_Discord_KOTH15&utm_medium=Social&utm_source=Discord&utm_term=&utm_content=&utm_focus=&utm_target=&utm_funnel=&dl=false",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "quests/1524060064422432778/1524167622642499704.jpg",
+      "hero_video": "quests/1524060064422432778/1525184102150574240_720.mp4",
+      "quest_bar_hero_blurhash": "oPgJFIRFxmpgWHmGeppp9pYEaw==",
+      "quest_bar_hero": "quests/1524060064422432778/1524169822894686319.jpg",
+      "quest_bar_hero_video": "quests/1524060064422432778/1525184102150574240_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1524060064422432778/1524167480589680801.jpg",
+      "game_tile_dark": "quests/1524060064422432778/1524167480589680801.jpg",
+      "logotype_light": "quests/1524060064422432778/1524519085394890834.png",
+      "logotype_dark": "quests/1524060064422432778/1524519085420056677.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "King of the Hill S15",
+      "game_title": "New Season July 20 on Hulu",
+      "game_publisher": "Hulu"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 109,
+          "assets": {
+            "video": {
+              "url": "quests/1524060064422432778/1524167482221396171_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1524060064422432778/1524167480652730388.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1524060064422432778/1524167482221396171_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1524060064422432778/1524167480652730388.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1524060064422432778/1524167482221396171.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1524060064422432778/1524167480652730388.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
+        },
+        "WATCH_VIDEO_ON_MOBILE": {
+          "type": "WATCH_VIDEO_ON_MOBILE",
+          "target": 109,
+          "assets": {
+            "video": {
+              "url": "quests/1524060064422432778/1524167866423836722_1080.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1524060064422432778/1524167480652730388.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1524060064422432778/1524167866423836722_720.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1524060064422432778/1524167480652730388.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1524060064422432778/1524167866423836722.m3u8",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1524060064422432778/1524167480652730388.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 3,
+          "sku_id": "1524568831958323341",
+          "asset": "quests/1524060064422432778/1524569051236401178.mp4",
+          "asset_video": null,
+          "messages": {
+            "name": "Bobby Hill Avatar Decoration",
+            "name_with_article": "a Bobby Hill Avatar Decoration",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "expires_at": "2026-09-19T00:00:00+00:00",
+          "expires_at_premium": null,
+          "expiration_mode": 1
+        }
+      ],
+      "rewards_expire_at": "2026-08-19T00:00:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.hulu.com/series/52b8dd8a-eff2-4ed2-9b8d-7c0039df1c53?cmp=21640&utm_campaign=CM_SOC_Discord_KOTH15&utm_medium=Social&utm_source=Discord&utm_term=&utm_content=&utm_focus=&utm_target=&utm_funnel=&dl=false",
+      "button_label": "Learn More",
+      "subtitle": "New Season July 20 on Hulu"
+    }
   }
 ]
