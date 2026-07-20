@@ -84,6 +84,7 @@
           ],
           "product_id": "1425218543775121448",
           "position": 0,
+          "hierarchy_order": 0,
           "thumbnail_asset_id": null,
           "tenant_metadata": {
             "boost_price": 3,
@@ -121,6 +122,7 @@
           ],
           "product_id": "1425218543775121448",
           "position": 1,
+          "hierarchy_order": 1,
           "thumbnail_asset_id": null,
           "tenant_metadata": {
             "boost_price": 9,
@@ -158,6 +160,7 @@
           ],
           "product_id": "1425218543775121448",
           "position": 2,
+          "hierarchy_order": 2,
           "thumbnail_asset_id": null,
           "tenant_metadata": {
             "boost_price": 17,
@@ -241,6 +244,7 @@
           ],
           "product_id": "1458532555463589978",
           "position": 0,
+          "hierarchy_order": 0,
           "thumbnail_asset_id": null,
           "tenant_metadata": {
             "boost_price": 5,
@@ -279,6 +283,7 @@
           ],
           "product_id": "1458532555463589978",
           "position": 1,
+          "hierarchy_order": 1,
           "thumbnail_asset_id": null,
           "tenant_metadata": {
             "boost_price": 8,
@@ -317,6 +322,7 @@
           ],
           "product_id": "1458532555463589978",
           "position": 2,
+          "hierarchy_order": 2,
           "thumbnail_asset_id": null,
           "tenant_metadata": {
             "boost_price": 12,
@@ -398,6 +404,7 @@
           ],
           "product_id": "1425225614192804031",
           "position": 0,
+          "hierarchy_order": 0,
           "thumbnail_asset_id": null,
           "tenant_metadata": {
             "boost_price": 4,
@@ -435,6 +442,7 @@
           ],
           "product_id": "1425225614192804031",
           "position": 1,
+          "hierarchy_order": 1,
           "thumbnail_asset_id": null,
           "tenant_metadata": {
             "boost_price": 6,
@@ -472,6 +480,7 @@
           ],
           "product_id": "1425225614192804031",
           "position": 2,
+          "hierarchy_order": 2,
           "thumbnail_asset_id": null,
           "tenant_metadata": {
             "boost_price": 7,
@@ -554,6 +563,7 @@
           ],
           "product_id": "1497100850261131334",
           "position": 0,
+          "hierarchy_order": 0,
           "thumbnail_asset_id": null,
           "tenant_metadata": {
             "boost_price": 5,
@@ -592,6 +602,7 @@
           ],
           "product_id": "1497100850261131334",
           "position": 1,
+          "hierarchy_order": 1,
           "thumbnail_asset_id": null,
           "tenant_metadata": {
             "boost_price": 8,
@@ -630,6 +641,7 @@
           ],
           "product_id": "1497100850261131334",
           "position": 2,
+          "hierarchy_order": 2,
           "thumbnail_asset_id": null,
           "tenant_metadata": {
             "boost_price": 9,
@@ -713,6 +725,7 @@
           ],
           "product_id": "1486839456559403220",
           "position": 0,
+          "hierarchy_order": 0,
           "thumbnail_asset_id": null,
           "tenant_metadata": {
             "boost_price": 4,
@@ -751,6 +764,7 @@
           ],
           "product_id": "1486839456559403220",
           "position": 1,
+          "hierarchy_order": 1,
           "thumbnail_asset_id": null,
           "tenant_metadata": {
             "boost_price": 6,
@@ -789,6 +803,7 @@
           ],
           "product_id": "1486839456559403220",
           "position": 2,
+          "hierarchy_order": 2,
           "thumbnail_asset_id": null,
           "tenant_metadata": {
             "boost_price": 7,
@@ -868,6 +883,7 @@
           ],
           "product_id": "1425226345826484255",
           "position": 0,
+          "hierarchy_order": 0,
           "thumbnail_asset_id": null,
           "tenant_metadata": {
             "boost_price": 5,
@@ -905,6 +921,7 @@
           ],
           "product_id": "1425226345826484255",
           "position": 1,
+          "hierarchy_order": 1,
           "thumbnail_asset_id": null,
           "tenant_metadata": {
             "boost_price": 9,
@@ -942,6 +959,7 @@
           ],
           "product_id": "1425226345826484255",
           "position": 2,
+          "hierarchy_order": 2,
           "thumbnail_asset_id": null,
           "tenant_metadata": {
             "boost_price": 14,
@@ -1024,6 +1042,7 @@
           ],
           "product_id": "1457859082815013066",
           "position": 0,
+          "hierarchy_order": 0,
           "thumbnail_asset_id": null,
           "tenant_metadata": {
             "boost_price": 3,
@@ -1062,6 +1081,7 @@
           ],
           "product_id": "1457859082815013066",
           "position": 1,
+          "hierarchy_order": 1,
           "thumbnail_asset_id": null,
           "tenant_metadata": {
             "boost_price": 4,
@@ -1100,6 +1120,7 @@
           ],
           "product_id": "1457859082815013066",
           "position": 2,
+          "hierarchy_order": 2,
           "thumbnail_asset_id": null,
           "tenant_metadata": {
             "boost_price": 5,
@@ -1180,6 +1201,7 @@
           ],
           "product_id": "1457868296132104359",
           "position": 0,
+          "hierarchy_order": 0,
           "thumbnail_asset_id": null,
           "tenant_metadata": {
             "boost_price": 5,
@@ -1262,6 +1284,7 @@
           ],
           "product_id": "1457869147475152979",
           "position": 0,
+          "hierarchy_order": 0,
           "thumbnail_asset_id": null,
           "tenant_metadata": {
             "boost_price": 3,
@@ -1300,6 +1323,7 @@
           ],
           "product_id": "1457869147475152979",
           "position": 1,
+          "hierarchy_order": 1,
           "thumbnail_asset_id": null,
           "tenant_metadata": {
             "boost_price": 4,
@@ -1338,6 +1362,7 @@
           ],
           "product_id": "1457869147475152979",
           "position": 2,
+          "hierarchy_order": 2,
           "thumbnail_asset_id": null,
           "tenant_metadata": {
             "boost_price": 6,
@@ -1420,6 +1445,7 @@
           ],
           "product_id": "1460421258079375543",
           "position": 0,
+          "hierarchy_order": 0,
           "thumbnail_asset_id": null,
           "tenant_metadata": {
             "boost_price": 3,
@@ -1458,6 +1484,7 @@
           ],
           "product_id": "1460421258079375543",
           "position": 1,
+          "hierarchy_order": 1,
           "thumbnail_asset_id": null,
           "tenant_metadata": {
             "boost_price": 4,
@@ -1496,6 +1523,7 @@
           ],
           "product_id": "1460421258079375543",
           "position": 2,
+          "hierarchy_order": 2,
           "thumbnail_asset_id": null,
           "tenant_metadata": {
             "boost_price": 7,
@@ -1576,6 +1604,7 @@
           ],
           "product_id": "1425221369649561682",
           "position": 0,
+          "hierarchy_order": 0,
           "thumbnail_asset_id": null,
           "tenant_metadata": {
             "boost_price": 4,
@@ -1613,6 +1642,7 @@
           ],
           "product_id": "1425221369649561682",
           "position": 1,
+          "hierarchy_order": 1,
           "thumbnail_asset_id": null,
           "tenant_metadata": {
             "boost_price": 7,
@@ -1650,6 +1680,7 @@
           ],
           "product_id": "1425221369649561682",
           "position": 2,
+          "hierarchy_order": 2,
           "thumbnail_asset_id": null,
           "tenant_metadata": {
             "boost_price": 9,
@@ -1730,6 +1761,7 @@
           ],
           "product_id": "1425222174372925480",
           "position": 0,
+          "hierarchy_order": 0,
           "thumbnail_asset_id": null,
           "tenant_metadata": {
             "boost_price": 5,
@@ -1767,6 +1799,7 @@
           ],
           "product_id": "1425222174372925480",
           "position": 1,
+          "hierarchy_order": 1,
           "thumbnail_asset_id": null,
           "tenant_metadata": {
             "boost_price": 8,
@@ -1804,6 +1837,7 @@
           ],
           "product_id": "1425222174372925480",
           "position": 2,
+          "hierarchy_order": 2,
           "thumbnail_asset_id": null,
           "tenant_metadata": {
             "boost_price": 10,
@@ -1886,6 +1920,7 @@
           ],
           "product_id": "1475633680994275328",
           "position": 0,
+          "hierarchy_order": 0,
           "thumbnail_asset_id": null,
           "tenant_metadata": {
             "boost_price": 3,
@@ -1924,6 +1959,7 @@
           ],
           "product_id": "1475633680994275328",
           "position": 1,
+          "hierarchy_order": 1,
           "thumbnail_asset_id": null,
           "tenant_metadata": {
             "boost_price": 4,
@@ -1962,6 +1998,7 @@
           ],
           "product_id": "1475633680994275328",
           "position": 2,
+          "hierarchy_order": 2,
           "thumbnail_asset_id": null,
           "tenant_metadata": {
             "boost_price": 9,
@@ -2045,6 +2082,7 @@
           ],
           "product_id": "1475640782794002443",
           "position": 0,
+          "hierarchy_order": 0,
           "thumbnail_asset_id": null,
           "tenant_metadata": {
             "boost_price": 4,
@@ -2083,6 +2121,7 @@
           ],
           "product_id": "1475640782794002443",
           "position": 1,
+          "hierarchy_order": 1,
           "thumbnail_asset_id": null,
           "tenant_metadata": {
             "boost_price": 6,
@@ -2121,6 +2160,7 @@
           ],
           "product_id": "1475640782794002443",
           "position": 2,
+          "hierarchy_order": 2,
           "thumbnail_asset_id": null,
           "tenant_metadata": {
             "boost_price": 12,
@@ -2202,6 +2242,7 @@
           ],
           "product_id": "1475642214813274112",
           "position": 0,
+          "hierarchy_order": 1,
           "thumbnail_asset_id": null,
           "tenant_metadata": {
             "boost_price": 3,
@@ -2240,6 +2281,7 @@
           ],
           "product_id": "1475642214813274112",
           "position": 1,
+          "hierarchy_order": 2,
           "thumbnail_asset_id": null,
           "tenant_metadata": {
             "boost_price": 4,
@@ -2322,6 +2364,7 @@
           ],
           "product_id": "1475643352882876509",
           "position": 0,
+          "hierarchy_order": 0,
           "thumbnail_asset_id": null,
           "tenant_metadata": {
             "boost_price": 3,
@@ -2360,6 +2403,7 @@
           ],
           "product_id": "1475643352882876509",
           "position": 1,
+          "hierarchy_order": 1,
           "thumbnail_asset_id": null,
           "tenant_metadata": {
             "boost_price": 4,
@@ -2398,6 +2442,7 @@
           ],
           "product_id": "1475643352882876509",
           "position": 2,
+          "hierarchy_order": 2,
           "thumbnail_asset_id": null,
           "tenant_metadata": {
             "boost_price": 5,
