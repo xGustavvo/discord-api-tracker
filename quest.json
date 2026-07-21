@@ -14035,5 +14035,129 @@
       "link": "https://ad.doubleclick.net/ddm/trackclk/N7657.3866164DISCORD.COM/B36324648.451600163;dc_trk_aid=645326018;dc_trk_cid=259469953;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
       "button_label": "Play Game"
     }
+  },
+  {
+    "id": "1526986140928708638",
+    "config_version": 2,
+    "starts_at": "2026-07-21T17:00:00+00:00",
+    "expires_at": "2026-08-04T00:00:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://ad.doubleclick.net/ddm/trackclk/N7657.3866164DISCORD.COM/B36324648.451845807;dc_trk_aid=645326018;dc_trk_cid=259469953;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "quests/1526986140928708638/1527414373013000393.jpg",
+      "quest_bar_hero_blurhash": "0fcFJIg1BofXWGjIN1pRcQAGGA==",
+      "quest_bar_hero": "quests/1526986140928708638/1527414372975120577.jpg",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1526986140928708638/1527414417799647232.png",
+      "game_tile_dark": "quests/1526986140928708638/1527414417799647232.png",
+      "logotype_light": "quests/1526986140928708638/1527414417606578288.png",
+      "logotype_dark": "quests/1526986140928708638/1527414417745252604.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Battlefield 6 Season 4 Trailer",
+      "game_title": "Battlefield",
+      "game_publisher": "Electronic Arts"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 29,
+          "assets": {
+            "video": {
+              "url": "quests/1526986140928708638/1527414373381832855_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1526986140928708638/1527806575173959810.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1526986140928708638/1527414373381832855_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1526986140928708638/1527806575173959810.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1526986140928708638/1527414373381832855.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1526986140928708638/1527806575173959810.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
+        },
+        "WATCH_VIDEO_ON_MOBILE": {
+          "type": "WATCH_VIDEO_ON_MOBILE",
+          "target": 29,
+          "assets": {
+            "video": {
+              "url": "quests/1526986140928708638/1527414373381832855_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1526986140928708638/1527806575173959810.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1526986140928708638/1527414373381832855_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1526986140928708638/1527806575173959810.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1526986140928708638/1527414373381832855.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1526986140928708638/1527806575173959810.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 3,
+          "sku_id": "1528925852564193421",
+          "asset": "quests/1526986140928708638/1528925969136750673.mp4",
+          "asset_video": null,
+          "messages": {
+            "name": "BF Flight Helmet",
+            "name_with_article": "a BF Flight Helmet",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "expires_at": "2026-10-03T00:00:00+00:00",
+          "expires_at_premium": null,
+          "expiration_mode": 3
+        }
+      ],
+      "rewards_expire_at": "2026-09-03T00:00:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://ad.doubleclick.net/ddm/trackclk/N7657.3866164DISCORD.COM/B36324648.451845807;dc_trk_aid=645326018;dc_trk_cid=259469953;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+      "button_label": "Play Game",
+      "subtitle": "Naval warfare returns in Season 4. Play Now."
+    }
   }
 ]
