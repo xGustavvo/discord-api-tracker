@@ -15283,5 +15283,83 @@
       "button_label": "Learn More",
       "subtitle": "Exclusively in movie theaters September 17th"
     }
+  },
+  {
+    "id": "1524650868962758696",
+    "config_version": 2,
+    "starts_at": "2026-07-23T15:00:00+00:00",
+    "expires_at": "2026-08-23T14:59:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://nexon.link/bPT",
+      "id": "359510095811444736",
+      "name": "MapleStory"
+    },
+    "assets": {
+      "hero": "quests/1524650868962758696/1527179402306392084.jpg",
+      "quest_bar_hero_blurhash": "0CYGLIILPZl9pmhElmowh2twkQ==",
+      "quest_bar_hero": "quests/1524650868962758696/1527179362259046490.jpg",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1524650868962758696/1527178853485645854.png",
+      "game_tile_dark": "quests/1524650868962758696/1527178853485645854.png",
+      "logotype_light": "quests/1524650868962758696/1527178669909479474.png",
+      "logotype_dark": "quests/1524650868962758696/1527178910758993972.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "메이플스토리 신규 직업 레테",
+      "game_title": "메이플스토리",
+      "game_publisher": "NEXON KOREA"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "type": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "applications": [
+            {
+              "id": "359510095811444736"
+            }
+          ]
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 1,
+          "sku_id": "1524650868962758697",
+          "asset": "quests/1524650868962758696/1528953353177006200.png",
+          "asset_video": null,
+          "messages": {
+            "name": "경험치 4배 쿠폰(30분) 2개",
+            "name_with_article": "경험치 4배 쿠폰(30분) 2개",
+            "redemption_instructions_by_platform": {
+              "0": "1. 사용방법  \n  * 메이플스토리 게임 접속 후 [캐시샵]의 우측 상단 [쿠폰] 버튼 클릭  \n  * 쿠폰번호 입력 후 캐시보관함에서 [선물 상자] 수령  \n  * [선물 상자]를 더블 클릭하여 [경험치 4배 쿠폰(30분)] 2개 획득  \n \n2. 쿠폰 유효기간: 2026년 8월 23일(일) 오후 11시 59분 까지  \n\n3. 주의사항  \n  * 획득한 아이템은 캐시보관함을 통해 월드 내 나의 캐릭터 간 이동만 가능하며, 획득 후 14일 간 사용할 수 있습니다  \n  * 유효기간 이후에는 쿠폰을 사용할 수 없으며, 넥슨 ID당 1회 사용할 수 있습니다  \n  * 쿠폰번호는 20자리 영어 대문자로만 구성되어 있습니다  \n  * 쿠폰 관련 문의사항은 메이플스토리 홈페이지 상단 '고객지원' 메뉴를 통해 접수 부탁드립니다    \n\n퀘스트 종료일과 쿠폰 유효기간이 동일하므로, 퀘스트 종료 전 반드시 쿠폰을 입력해 주세요."
+            }
+          },
+          "approximate_count": null,
+          "redemption_link": null
+        }
+      ],
+      "rewards_expire_at": "2026-08-23T14:59:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://nexon.link/bPT",
+      "button_label": "Play Now",
+      "subtitle": "지금 챌린저스 월드에서 버닝 이벤트와 함께 PLAY"
+    }
   }
 ]
