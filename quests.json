@@ -84280,7 +84280,7 @@
             "asset_video": null,
             "messages": {
               "name": "미니언즈 & 몬스터즈 아바타 장식",
-              "name_with_article": "미니언즈 & 몬스터즈 아바타 장식",
+              "name_with_article": "미니언즈 & 몬스터�� 아바타 장식",
               "redemption_instructions_by_platform": {
                 "0": "PLACEHOLDER"
               }
@@ -85750,7 +85750,7 @@
       },
       "messages": {
         "quest_name": "オデュッセイア",
-        "game_title": "クリストファー・ノーラン監督作品。9月11日より劇場公開。",
+        "game_title": "クリストファー・ノーラン���督作品。9月11日より劇場公開。",
         "game_publisher": "Universal Pictures"
       },
       "task_config_v2": {
@@ -92832,7 +92832,7 @@
       "cta_config": {
         "link": "https://nexon.link/bPT",
         "button_label": "Play Now",
-        "subtitle": "지금 챌린저스 월드에서 버닝 이벤트와 함�� PLAY"
+        "subtitle": "지금 챌린저스 월드에서 버닝 이벤트와 함께 PLAY"
       }
     }
   },
