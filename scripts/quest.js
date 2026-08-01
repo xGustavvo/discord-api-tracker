@@ -3,7 +3,7 @@
 try {
 
 const questsURL =
-  "https://raw.githubusercontent.com/xGustavvo/discord-api-tracker/refs/heads/main/quests.json";
+  "https://raw.githubusercontent.com/xGustavvo/discord-api-tracker/refs/heads/main/data/quests-01.json";
 
 const fallbackQuestURL =
   "https://raw.githubusercontent.com/xGustavvo/discord-api-tracker/refs/heads/main/quest.json";
