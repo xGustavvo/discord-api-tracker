@@ -19636,5 +19636,110 @@
       "link": "https://www.ea.com/games/golf-clash/golf-clash",
       "button_label": "Play Now"
     }
+  },
+  {
+    "id": "1533983564327030865",
+    "config_version": 2,
+    "starts_at": "2026-08-12T16:00:00+00:00",
+    "expires_at": "2026-08-20T00:00:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://hoyo.link/4hHaqFWr7",
+      "id": "762434991303950386",
+      "name": "Genshin Impact"
+    },
+    "assets": {
+      "hero": "quests/1533983564327030865/1533990042723418253.jpg",
+      "quest_bar_hero_blurhash": "acYFDILAfHWMmHdeZnaDa1CVBQ==",
+      "quest_bar_hero": "quests/1533983564327030865/1534043856570552361.jpg",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1533983564327030865/1533989885101473802.png",
+      "game_tile_dark": "quests/1533983564327030865/1533989885101473802.png",
+      "logotype_light": "quests/1533983564327030865/1533989885067788389.png",
+      "logotype_dark": "quests/1533983564327030865/1533989885134901398.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Genshin Impact Version 7.0",
+      "game_title": "Genshin Impact",
+      "game_publisher": "HoYoverse"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "type": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "applications": [
+            {
+              "id": "762434991303950386"
+            }
+          ]
+        },
+        "PLAY_ON_XBOX": {
+          "type": "PLAY_ON_XBOX",
+          "target": 900,
+          "applications": [
+            {
+              "id": "762434991303950386"
+            }
+          ],
+          "external_ids": [
+            "2053080068"
+          ]
+        },
+        "PLAY_ON_PLAYSTATION": {
+          "type": "PLAY_ON_PLAYSTATION",
+          "target": 900,
+          "applications": [
+            {
+              "id": "762434991303950386"
+            }
+          ],
+          "external_ids": [
+            "PPSA02562_00",
+            "PPSA02584_00",
+            "CUSA23678_00",
+            "CUSA23681_00",
+            "PPSA02585_00"
+          ]
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 1,
+          "sku_id": "1533983564327030866",
+          "asset": "quests/1533983564327030865/1534589848269361202.jpg",
+          "asset_video": null,
+          "messages": {
+            "name": "In-game Reward Bundle",
+            "name_with_article": "an In-game Reward Bundle",
+            "redemption_instructions_by_platform": {
+              "0": "After obtaining the Genshin Impact redemption code, visit the code redemption page on the official Genshin Impact website (https://genshin.hoyoverse.com/gift), log in to your game account, and enter the redemption code as prompted. The rewards will be sent to you via in-game mail."
+            }
+          },
+          "approximate_count": null,
+          "redemption_link": null
+        }
+      ],
+      "rewards_expire_at": "2026-09-19T00:00:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://hoyo.link/4hHaqFWr7",
+      "button_label": "Play Now"
+    }
   }
 ]
