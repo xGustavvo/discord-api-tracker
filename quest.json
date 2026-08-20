@@ -21817,5 +21817,106 @@
       "link": "https://www.playstation.com/en-us/games/helldivers-2/?modal=game-catalog&emcid=dd-1s-536825",
       "button_label": "Play Game"
     }
+  },
+  {
+    "id": "1537161325170532412",
+    "config_version": 2,
+    "starts_at": "2026-08-20T17:00:00+00:00",
+    "expires_at": "2026-08-29T00:00:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://ad.doubleclick.net/ddm/trackclk/N7657.3866164DISCORD.COM/B36324648.451843323;dc_trk_aid=645325703;dc_trk_cid=259523000;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+      "id": "1425690433018925056",
+      "name": "Battlefield 6"
+    },
+    "assets": {
+      "hero": "quests/1537161325170532412/1537163384959533136.jpg",
+      "quest_bar_hero_blurhash": "nggOHIi3dHdfl4h0hYZGQHYEdQ==",
+      "quest_bar_hero": "quests/1537161325170532412/1537892223704637551.jpg",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1537161325170532412/1537163384863334552.jpg",
+      "game_tile_dark": "quests/1537161325170532412/1537163384863334552.jpg",
+      "logotype_light": "quests/1537161325170532412/1537163385303732234.png",
+      "logotype_dark": "quests/1537161325170532412/1537163384854946013.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Battlefield 6 Top Gun",
+      "game_title": "Battlefield",
+      "game_publisher": "Electronic Arts"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "type": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1425690433018925056"
+            }
+          ]
+        },
+        "PLAY_ON_XBOX": {
+          "type": "PLAY_ON_XBOX",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1425690433018925056"
+            }
+          ],
+          "external_ids": [
+            "1840884885"
+          ]
+        },
+        "PLAY_ON_PLAYSTATION": {
+          "type": "PLAY_ON_PLAYSTATION",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1425690433018925056"
+            }
+          ],
+          "external_ids": [
+            "PPSA19534_00"
+          ]
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 1,
+          "sku_id": "1537161325170532413",
+          "asset": "quests/1537161325170532412/1539735321665732768.jpg",
+          "asset_video": null,
+          "messages": {
+            "name": "2XP Boost",
+            "name_with_article": "a 2XP Boost",
+            "redemption_instructions_by_platform": {
+              "0": "Log in to redeem your code at: https://www.ea.com/games/battlefield/battlefield-6/redeem    \n\n1. Log in to your EA Account  \n2. Redeem your in-game codes  \n3. Link your platforms to your EA Account to play on any platform"
+            }
+          },
+          "approximate_count": null,
+          "redemption_link": null
+        }
+      ],
+      "rewards_expire_at": "2026-09-28T00:00:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://ad.doubleclick.net/ddm/trackclk/N7657.3866164DISCORD.COM/B36324648.451843323;dc_trk_aid=645325703;dc_trk_cid=259523000;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+      "button_label": "Play Game"
+    }
   }
 ]
