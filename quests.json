@@ -92828,7 +92828,7 @@
               "name": "경험치 4배 쿠폰(30분) 2개",
               "name_with_article": "경험치 4배 쿠폰(30분) 2개",
               "redemption_instructions_by_platform": {
-                "0": "1. 사용방법  \n  * 메이플스토리 게임 접속 후 [캐시샵]의 우측 상단 [쿠폰] 버튼 클릭  \n  * 쿠폰번호 입력 후 캐시보관함에서 [선물 상자] 수령  \n  * [선물 상자]를 더블 클릭하여 [경험치 4배 쿠폰(30분)] 2개 획득  \n \n2. 쿠폰 유효기간: 2026년 8월 23일(일) 오후 11시 59분 까지  \n\n3. 주의사항  \n  * 획득한 아이템은 캐시보관함을 통해 월드 내 나의 캐릭터 간 이동만 가능하며, 획득 후 14일 간 사용할 수 있습니다  \n  * 유효기간 이후에는 쿠폰을 사용할 수 없으며, 넥슨 ID당 1회 사용할 수 있습니다  \n  * 쿠폰번호는 20자리 영어 대문자로만 구성되어 있습니다  \n  * 쿠폰 관련 문의사항은 메이플스토리 홈페이지 상단 '고객지원' 메뉴를 통해 접수 부탁드립니다    \n\n퀘스트 종료일과 쿠폰 유효기간이 동일하므로, 퀘스트 종료 전 반드시 쿠폰을 입력해 주세요."
+                "0": "1. 사용방법  \n  * 메이플스토리 게임 접속 후 [캐시샵]의 우측 상단 [쿠폰] 버튼 클릭  \n  * 쿠폰번호 입력 후 캐시보관함에서 [선물 상자] 수령  \n  * [선물 상자]를 더블 클릭하여 [경험치 4배 쿠폰(30분)] 2개 획득  \n \n2. 쿠폰 유효기간: 2026년 8월 23일(일) 오후 11시 59분 까지  \n\n3. 주의사항  \n  * 획득한 아이템은 캐시보관함을 통해 월드 내 나의 캐릭터 간 이동만 가능하며, 획득 후 14일 간 사용할 수 있습니다  \n  * 유효기간 이후에는 쿠폰을 사용할 수 없으며, 넥슨 ID당 1회 사용할 수 있습니다  \n  * 쿠폰번호는 20자리 영어 대문자로만 구성되어 있습니다  \n  * 쿠폰 관련 문의사항은 메이플스토리 홈페이지 상단 '고객지원' 메뉴를 통해 접수 부탁드립니다    \n\n퀘스트 종료일과 쿠폰 유효기간이 동일하므로, ���스트 종료 전 반드시 쿠폰을 입력해 주세요."
               }
             },
             "approximate_count": null,
@@ -101429,5 +101429,113 @@
         "subtitle": "Mayday. New Movie Sep 4 on Apple TV"
       }
     }
+  },
+  {
+    "id": "1540425879824371852",
+    "config": {
+      "id": "1540425879824371852",
+      "config_version": 2,
+      "starts_at": "2026-08-24T21:00:00+00:00",
+      "expires_at": "2026-09-07T00:00:00+00:00",
+      "features": [
+        15
+      ],
+      "application": {
+        "link": "https://marvelsnap.com/",
+        "id": "545364944258990091",
+        "name": "Discord"
+      },
+      "assets": {
+        "hero": "quests/1540425879824371852/1540455793025876140.jpg",
+        "hero_video": "quests/1540425879824371852/1540456172601999410_720.mp4",
+        "quest_bar_hero_blurhash": "0/cFDIIIBlmIeHeSi4YyBEVEEA==",
+        "quest_bar_hero": "quests/1540425879824371852/1540455742107164682.jpg",
+        "quest_bar_hero_video": "quests/1540425879824371852/1540456172601999410_720.mp4",
+        "game_tile": "PLACEHOLDER",
+        "logotype": "PLACEHOLDER",
+        "game_tile_light": "quests/1540425879824371852/1540426931885834361.png",
+        "game_tile_dark": "quests/1540425879824371852/1540426931885834361.png",
+        "logotype_light": "quests/1540425879824371852/1541555626755358770.png",
+        "logotype_dark": "quests/1540425879824371852/1541555626755358770.png"
+      },
+      "colors": {
+        "primary": "#4752C4",
+        "secondary": "#000000"
+      },
+      "messages": {
+        "quest_name": "MARVEL SNAP",
+        "game_title": "MARVEL SNAP x Draft Mode",
+        "game_publisher": "Second Dinner"
+      },
+      "task_config_v2": {
+        "tasks": {
+          "WATCH_VIDEO_ON_MOBILE": {
+            "type": "WATCH_VIDEO_ON_MOBILE",
+            "target": 29,
+            "assets": {
+              "video": {
+                "url": "quests/1540425879824371852/1540427369263796264_1080.mp4",
+                "width": 1080,
+                "height": 1920,
+                "thumbnail": "quests/1540425879824371852/1540426931869196329.png"
+              },
+              "video_low_res": {
+                "url": "quests/1540425879824371852/1540427369263796264_720.mp4",
+                "width": 1080,
+                "height": 1920,
+                "thumbnail": "quests/1540425879824371852/1540426931869196329.png"
+              },
+              "video_hls": {
+                "url": "quests/1540425879824371852/1540427369263796264.m3u8",
+                "width": 1080,
+                "height": 1920,
+                "thumbnail": "quests/1540425879824371852/1540426931869196329.png"
+              }
+            },
+            "messages": {
+              "video_title": "PLACEHOLDER"
+            }
+          }
+        },
+        "join_operator": "or"
+      },
+      "rewards_config": {
+        "assignment_method": 1,
+        "rewards": [
+          {
+            "type": 4,
+            "sku_id": "1287881739531976815",
+            "messages": {
+              "name": "200 Orbs",
+              "name_with_article": "200 Orbs",
+              "redemption_instructions_by_platform": {
+                "0": "PLACEHOLDER"
+              }
+            },
+            "orb_quantity": 200,
+            "premium_orb_quantity": 240
+          }
+        ],
+        "rewards_expire_at": "2026-10-07T00:00:00+00:00",
+        "platforms": [
+          0
+        ]
+      },
+      "share_policy": "shareable_everywhere",
+      "cta_config": {
+        "android": {
+          "android_app_id": "com.nvsgames.snap"
+        },
+        "ios": {
+          "ios_app_id": "1592081003"
+        },
+        "link": "https://marvelsnap.com/",
+        "button_label": "Play Now"
+      }
+    },
+    "user_status": null,
+    "targeted_content": [],
+    "preview": false,
+    "traffic_metadata_raw": "EAIYAQ=="
   }
 ]
