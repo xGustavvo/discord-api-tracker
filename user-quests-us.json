@@ -100,100 +100,64 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
-      "id": "1527386268546367488",
+      "id": "1539533765070553089",
       "config": {
-        "id": "1527386268546367488",
+        "id": "1539533765070553089",
         "config_version": 2,
-        "starts_at": "2026-07-22T17:00:00+00:00",
-        "expires_at": "2026-07-27T06:59:00+00:00",
+        "starts_at": "2026-08-22T04:00:00+00:00",
+        "expires_at": "2026-09-01T04:00:00+00:00",
         "features": [
           15
         ],
         "application": {
-          "link": "https://www.fandango.com/the-end-of-oak-street-2026-245149/movie-overview",
-          "id": "545364944258990091",
-          "name": "Discord"
+          "link": "https://akendfield.gryphline.com/d27t/V1D4DPQ",
+          "id": "1461154307171811401",
+          "name": "Arknights: Endfield"
         },
         "assets": {
-          "hero": "quests/1527386268546367488/1528817843154587738.jpg",
-          "hero_video": "quests/1527386268546367488/1529221041937842488_720.mp4",
-          "quest_bar_hero_blurhash": "kQgKDIBmd4eTaHeAiHxlg5ABGg==",
-          "quest_bar_hero": "quests/1527386268546367488/1529221005212520820.jpg",
-          "quest_bar_hero_video": "quests/1527386268546367488/1529221041937842488_720.mp4",
+          "hero": "quests/1539533765070553089/1539535306854760488.jpg",
+          "hero_video": "quests/1539533765070553089/1539535450811797564_720.mp4",
+          "quest_bar_hero_blurhash": "XAcKCoAY+2WMrIaoA1OEoGg=",
+          "quest_bar_hero": "quests/1539533765070553089/1539535306854760488.jpg",
+          "quest_bar_hero_video": "quests/1539533765070553089/1539535337905459201_720.mp4",
           "game_tile": "PLACEHOLDER",
           "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1527386268546367488/1527389620088606901.png",
-          "game_tile_dark": "quests/1527386268546367488/1527389620088606901.png",
-          "logotype_light": "quests/1527386268546367488/1527389620289929376.png",
-          "logotype_dark": "quests/1527386268546367488/1527389620311167056.png"
+          "game_tile_light": "quests/1534395181334270063/1534399094129295400.jpg",
+          "game_tile_dark": "quests/1534395181334270063/1534399094129295400.jpg",
+          "logotype_light": "quests/1534395181334270063/1534399093877637151.png",
+          "logotype_dark": "quests/1534395181334270063/1534399093881704558.png"
         },
         "colors": {
           "primary": "#4752C4",
           "secondary": "#000000"
         },
         "messages": {
-          "quest_name": "The End of Oak Street",
-          "game_title": "Tickets Now on Sale!",
-          "game_publisher": "Warner Bros. Pictures"
+          "quest_name": "New Area: Yinglung Pass",
+          "game_title": "Arknights: Endfield",
+          "game_publisher": "GRYPHLINE"
         },
         "task_config_v2": {
           "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 14,
-              "assets": {
-                "video": {
-                  "url": "quests/1527386268546367488/1529179027485491441_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1527386268546367488/1527389620013240633.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1527386268546367488/1529179027485491441_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1527386268546367488/1527389620013240633.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1527386268546367488/1529179027485491441.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1527386268546367488/1527389620013240633.jpg"
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1461154307171811401"
                 }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
+              ]
             },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 14,
-              "assets": {
-                "video": {
-                  "url": "quests/1527386268546367488/1529284520476413974_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1527386268546367488/1527389620013240633.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1527386268546367488/1529284520476413974_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1527386268546367488/1527389620013240633.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1527386268546367488/1529284520476413974.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1527386268546367488/1527389620013240633.jpg"
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1461154307171811401"
                 }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
+              ]
             }
           },
           "join_operator": "or"
@@ -205,33 +169,32 @@
               "type": 4,
               "sku_id": "1287881739531976815",
               "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
                 "redemption_instructions_by_platform": {
                   "0": "PLACEHOLDER"
                 }
               },
-              "orb_quantity": 200,
-              "premium_orb_quantity": 240
+              "orb_quantity": 700,
+              "premium_orb_quantity": 840
             }
           ],
-          "rewards_expire_at": "2026-08-26T06:59:00+00:00",
+          "rewards_expire_at": "2026-10-01T04:00:00+00:00",
           "platforms": [
             0
           ]
         },
         "share_policy": "shareable_everywhere",
         "cta_config": {
-          "link": "https://www.fandango.com/the-end-of-oak-street-2026-245149/movie-overview",
-          "button_label": "Get Tickets",
-          "subtitle": "Tickets Now on Sale!"
+          "link": "https://akendfield.gryphline.com/d27t/V1D4DPQ",
+          "button_label": "Play Now"
         }
       },
       "user_status": null,
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1541371710417272834",
@@ -361,101 +324,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
-    },
-    {
-      "id": "1539533765070553089",
-      "config": {
-        "id": "1539533765070553089",
-        "config_version": 2,
-        "starts_at": "2026-08-22T04:00:00+00:00",
-        "expires_at": "2026-09-01T04:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://akendfield.gryphline.com/d27t/V1D4DPQ",
-          "id": "1461154307171811401",
-          "name": "Arknights: Endfield"
-        },
-        "assets": {
-          "hero": "quests/1539533765070553089/1539535306854760488.jpg",
-          "hero_video": "quests/1539533765070553089/1539535450811797564_720.mp4",
-          "quest_bar_hero_blurhash": "XAcKCoAY+2WMrIaoA1OEoGg=",
-          "quest_bar_hero": "quests/1539533765070553089/1539535306854760488.jpg",
-          "quest_bar_hero_video": "quests/1539533765070553089/1539535337905459201_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1534395181334270063/1534399094129295400.jpg",
-          "game_tile_dark": "quests/1534395181334270063/1534399094129295400.jpg",
-          "logotype_light": "quests/1534395181334270063/1534399093877637151.png",
-          "logotype_dark": "quests/1534395181334270063/1534399093881704558.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "New Area: Yinglung Pass",
-          "game_title": "Arknights: Endfield",
-          "game_publisher": "GRYPHLINE"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1461154307171811401"
-                }
-              ]
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1461154307171811401"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700,
-              "premium_orb_quantity": 840
-            }
-          ],
-          "rewards_expire_at": "2026-10-01T04:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://akendfield.gryphline.com/d27t/V1D4DPQ",
-          "button_label": "Play Now"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false,
-      "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1537189839588294657",
@@ -586,7 +455,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1536795790717091970",
@@ -719,7 +588,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1539110114689163395",
@@ -848,7 +717,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1528893107893174404",
@@ -933,7 +802,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1530306200694947850",
@@ -1021,7 +890,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1533861934078890124",
@@ -1104,7 +973,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1539838784705798294",
@@ -1205,7 +1074,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1537163738577117337",
@@ -1336,7 +1205,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1526986140928708638",
@@ -1468,7 +1337,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1534502540371038239",
@@ -1565,7 +1434,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1517297856287997984",
@@ -1696,7 +1565,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1522414544247591072",
@@ -1833,7 +1702,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1533684751905456289",
@@ -1936,7 +1805,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1539393111409823906",
@@ -2021,7 +1890,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1524983562133307432",
@@ -2151,7 +2020,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1528661822650191912",
@@ -2236,7 +2105,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1537498680968482856",
@@ -2321,7 +2190,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1537145020958900394",
@@ -2452,7 +2321,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1529676539363463218",
@@ -2546,7 +2415,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1527015843882340402",
@@ -2675,7 +2544,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1537905653681487924",
@@ -2803,7 +2672,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1540476174520557620",
@@ -2888,7 +2757,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1519693428148015284",
@@ -3018,7 +2887,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1521294642631409845",
@@ -3149,7 +3018,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1527379212791709878",
@@ -3280,7 +3149,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1527502945875263548",
@@ -3374,7 +3243,101 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
+    },
+    {
+      "id": "1527492070242259005",
+      "config": {
+        "id": "1527492070242259005",
+        "config_version": 2,
+        "starts_at": "2026-07-23T07:00:00+00:00",
+        "expires_at": "2026-08-01T06:59:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
+          "id": "1437509662303059998",
+          "name": "Where Winds Meet"
+        },
+        "assets": {
+          "hero": "quests/1527492070242259005/1527530427471106178.jpg",
+          "hero_video": "quests/1527492070242259005/1527500497550835782_720.mp4",
+          "quest_bar_hero_blurhash": "iucFDIJCinc/mYd5TIjP0/k8ng==",
+          "quest_bar_hero": "quests/1527492070242259005/1527530391240708278.jpg",
+          "quest_bar_hero_video": "quests/1527492070242259005/1527500393930555452_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1527492070242259005/1527499419564507216.png",
+          "game_tile_dark": "quests/1527492070242259005/1527499419564507216.png",
+          "logotype_light": "quests/1527492070242259005/1527499420013432943.png",
+          "logotype_dark": "quests/1527492070242259005/1527499420013432943.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Where Winds Meet 2.0 Wuxia New Era",
+          "game_title": "Where Winds Meet",
+          "game_publisher": "NETEASE"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1437509662303059998"
+                }
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1437509662303059998"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": 840
+            }
+          ],
+          "rewards_expire_at": "2026-08-31T06:59:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
+          "button_label": "Play Now"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "preview": false,
+      "traffic_metadata_raw": "EAIYAQ==",
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1516884151209427004",
@@ -3505,7 +3468,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1531225068082827325",
@@ -3635,101 +3598,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
-    },
-    {
-      "id": "1527492070242259005",
-      "config": {
-        "id": "1527492070242259005",
-        "config_version": 2,
-        "starts_at": "2026-07-23T07:00:00+00:00",
-        "expires_at": "2026-08-01T06:59:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
-          "id": "1437509662303059998",
-          "name": "Where Winds Meet"
-        },
-        "assets": {
-          "hero": "quests/1527492070242259005/1527530427471106178.jpg",
-          "hero_video": "quests/1527492070242259005/1527500497550835782_720.mp4",
-          "quest_bar_hero_blurhash": "iucFDIJCinc/mYd5TIjP0/k8ng==",
-          "quest_bar_hero": "quests/1527492070242259005/1527530391240708278.jpg",
-          "quest_bar_hero_video": "quests/1527492070242259005/1527500393930555452_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1527492070242259005/1527499419564507216.png",
-          "game_tile_dark": "quests/1527492070242259005/1527499419564507216.png",
-          "logotype_light": "quests/1527492070242259005/1527499420013432943.png",
-          "logotype_dark": "quests/1527492070242259005/1527499420013432943.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Where Winds Meet 2.0 Wuxia New Era",
-          "game_title": "Where Winds Meet",
-          "game_publisher": "NETEASE"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1437509662303059998"
-                }
-              ]
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1437509662303059998"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700,
-              "premium_orb_quantity": 840
-            }
-          ],
-          "rewards_expire_at": "2026-08-31T06:59:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
-          "button_label": "Play Now"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "preview": false,
-      "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1538813720396955708",
@@ -3859,7 +3728,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1537161325170532412",
@@ -3962,7 +3831,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1539708932245692476",
@@ -4092,7 +3961,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1535350172480053308",
@@ -4193,7 +4062,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1527668957765697726",
@@ -4277,7 +4146,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1534613925767676096",
@@ -4370,7 +4239,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1529066589305966662",
@@ -4455,7 +4324,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1523814132816678983",
@@ -4586,7 +4455,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1527003925650083910",
@@ -4687,7 +4556,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1536914989577797702",
@@ -4826,7 +4695,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1536472460059349192",
@@ -4956,7 +4825,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1516888752536948938",
@@ -5087,7 +4956,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1540167642952761424",
@@ -5191,7 +5060,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1532723885332758609",
@@ -5276,7 +5145,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1532175086281424976",
@@ -5406,7 +5275,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1533983564327030865",
@@ -5509,7 +5378,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1535343840557539408",
@@ -5640,7 +5509,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1532150126540361938",
@@ -5771,7 +5640,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1530231567459287251",
@@ -5905,7 +5774,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1529267592324321490",
@@ -6036,7 +5905,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1527079584561102938",
@@ -6165,7 +6034,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1532567061241528410",
@@ -6296,7 +6165,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1529174839141597276",
@@ -6433,7 +6302,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1532794643526193372",
@@ -6564,7 +6433,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1521223322346455134",
@@ -6695,7 +6564,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1524205438760128623",
@@ -6779,7 +6648,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1526044568070520944",
@@ -6873,7 +6742,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1521297240402956400",
@@ -7004,7 +6873,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1534395181334270063",
@@ -7098,7 +6967,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1531312585922707571",
@@ -7231,7 +7100,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1539100692541743216",
@@ -7325,7 +7194,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1530297854134849778",
@@ -7456,7 +7325,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     },
     {
       "id": "1525222987165597817",
@@ -7550,7 +7419,7 @@
       "targeted_content": [],
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeGgyVGJ0L1ZjcUQwblZjWUUvUmFHT1hhNE9UT3NyVGU2dzJOMWlCRzZxUytLL0d4aEJhWGU5eXArZmhVdVhwMStKc1pCSDlPdU5wZnByWjUxLzBLUU0ydkhkV2RJVm1jPSJ9"
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcXIvT1NxcVJhRHh6L2pWTkhvelgyN2w3Q0luRVVrdG82WXM5TDlwVFBsaG50QlVRS3QvZFFtd0o4SmllcDN0Uk4xYVpVZlIyNmVmL2s4NHRIKzdvY1pSZEZVdHgxUjRzPSJ9"
     }
   ],
   "excluded_quests": [
