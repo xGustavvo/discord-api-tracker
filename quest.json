@@ -24825,5 +24825,130 @@
       "link": "https://www.roblox.com/games/101432174163538/Superstar-Baseball?gsrbx=1",
       "button_label": "Play Now"
     }
+  },
+  {
+    "id": "1540105702612144199",
+    "config_version": 2,
+    "starts_at": "2026-08-27T17:00:00+00:00",
+    "expires_at": "2026-09-07T00:00:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://ad.doubleclick.net/ddm/trackclk/N7657.3866164DISCORD.COM/B35801632.448637034;dc_trk_aid=648746099;dc_trk_cid=262387946;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "quests/1535025498940243988/1537577096564449380.jpg",
+      "quest_bar_hero_blurhash": "jucNDIJgi2eGeIeGeHhnsMoI2w==",
+      "quest_bar_hero": "quests/1535025498940243988/1537576995242774579.jpg",
+      "quest_bar_hero_video": "quests/1540105702612144199/1541541145945972896_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1535025498940243988/1535026135522611210.png",
+      "game_tile_dark": "quests/1535025498940243988/1535026135522611210.png",
+      "logotype_light": "quests/1535025498940243988/1535026135337926846.png",
+      "logotype_dark": "quests/1535025498940243988/1535026134775894117.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "STAR WARS Zero Company™",
+      "game_title": "STAR WARS Zero Company™ Official Final Trailer",
+      "game_publisher": "Electronic Arts"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 131,
+          "assets": {
+            "video": {
+              "url": "quests/1540105702612144199/1540387489603256340_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1535025498940243988/1537576995242774579.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1540105702612144199/1540387489603256340_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1535025498940243988/1537576995242774579.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1540105702612144199/1540387489603256340.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1535025498940243988/1537576995242774579.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
+        },
+        "WATCH_VIDEO_ON_MOBILE": {
+          "type": "WATCH_VIDEO_ON_MOBILE",
+          "target": 131,
+          "assets": {
+            "video": {
+              "url": "quests/1540105702612144199/1540387489959772311_1080.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1540105702612144199/1540393456877441135.png"
+            },
+            "video_low_res": {
+              "url": "quests/1540105702612144199/1540387489959772311_720.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1540105702612144199/1540393456877441135.png"
+            },
+            "video_hls": {
+              "url": "quests/1540105702612144199/1540387489959772311.m3u8",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1540105702612144199/1540393456877441135.png"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 3,
+          "sku_id": "1540449659686748250",
+          "asset": "quests/1540105702612144199/1540450750860370110.mp4",
+          "asset_video": null,
+          "messages": {
+            "name": "Trick Hologram Full Helmet Avatar Deco",
+            "name_with_article": "a Trick Hologram Full Helmet Avatar Deco",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "expires_at": "2026-11-07T01:00:00+00:00",
+          "expires_at_premium": null,
+          "expiration_mode": 3
+        }
+      ],
+      "rewards_expire_at": "2026-10-07T00:00:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://ad.doubleclick.net/ddm/trackclk/N7657.3866164DISCORD.COM/B35801632.448637034;dc_trk_aid=648746099;dc_trk_cid=262387946;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+      "button_label": "Buy Now",
+      "subtitle": "Available now"
+    }
   }
 ]
