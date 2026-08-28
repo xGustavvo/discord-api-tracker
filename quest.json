@@ -24950,5 +24950,107 @@
       "button_label": "Buy Now",
       "subtitle": "Available now"
     }
+  },
+  {
+    "id": "1539407814785499267",
+    "config_version": 2,
+    "starts_at": "2026-08-28T16:00:00+00:00",
+    "expires_at": "2026-09-12T00:00:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://www.playstation.com/en-us/games/helldivers-2/?modal=game-catalog&emcid=dd-1s-536825",
+      "id": "1205090671527071784",
+      "name": "Helldivers 2"
+    },
+    "assets": {
+      "hero": "quests/1539407814785499267/1542584983913234522.jpg",
+      "quest_bar_hero_blurhash": "WrYNDIJ1eId/h4eYd4eZgIpJ9g==",
+      "quest_bar_hero": "quests/1539407814785499267/1542584989638463548.jpg",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1535350172480053308/1536823568933978253.png",
+      "game_tile_dark": "quests/1535350172480053308/1536823411815219210.png",
+      "logotype_light": "quests/1535350172480053308/1536823306727198780.png",
+      "logotype_dark": "quests/1535350172480053308/1536823306735587429.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Helldivers 2 | Dive Now!",
+      "game_title": "Helldivers 2",
+      "game_publisher": "PlayStation"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "type": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1205090671527071784"
+            }
+          ]
+        },
+        "PLAY_ON_XBOX": {
+          "type": "PLAY_ON_XBOX",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1205090671527071784"
+            }
+          ],
+          "external_ids": [
+            "1924639289"
+          ]
+        },
+        "PLAY_ON_PLAYSTATION": {
+          "type": "PLAY_ON_PLAYSTATION",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1205090671527071784"
+            }
+          ],
+          "external_ids": [
+            "PPSA06020_00",
+            "PPSA01413_00",
+            "PPSA06016_00",
+            "PPSA06017_00"
+          ]
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 Orbs",
+            "name_with_article": "700 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 700,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2026-10-12T00:00:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.playstation.com/en-us/games/helldivers-2/?modal=game-catalog&emcid=dd-1s-536825",
+      "button_label": "Play Game"
+    }
   }
 ]
