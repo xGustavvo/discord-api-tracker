@@ -25539,5 +25539,372 @@
       "link": "https://www.bandainamcoent.eu/dawnwalker/the-blood-of-dawnwalker/shop-now?utm_source=Discord&utm_medium=VideoQuest&utm_campaign=Dawnwalker-Launch",
       "button_label": "Pre-Order Now"
     }
+  },
+  {
+    "id": "1539057611297792060",
+    "config_version": 2,
+    "starts_at": "2026-08-31T17:00:00+00:00",
+    "expires_at": "2026-09-22T00:00:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://www.playstation.com/it-happens-on-ps5/?emcid=hd-ha-536563",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "quests/1539057611297792060/1542282983032229979.jpg",
+      "quest_bar_hero_blurhash": "BggGDIKFqHSQlJh0e5aUoEkKmg==",
+      "quest_bar_hero": "quests/1539057611297792060/1541559214957264926.jpg",
+      "quest_bar_hero_video": "quests/1539057611297792060/1541559122640502844_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1539057611297792060/1541558727906172949.png",
+      "game_tile_dark": "quests/1539057611297792060/1541558728522997790.png",
+      "logotype_light": "quests/1539057611297792060/1542590118076874782.png",
+      "logotype_dark": "quests/1539057611297792060/1542590243520380928.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "It Happens On PS5",
+      "game_title": "It Happens On PS5",
+      "game_publisher": "PlayStation"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 29,
+          "assets": {
+            "video": {
+              "url": "quests/1539057611297792060/1540125190791499826_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1539057611297792060/1541558727960694975.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1539057611297792060/1540125190791499826_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1539057611297792060/1541558727960694975.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1539057611297792060/1540125190791499826.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1539057611297792060/1541558727960694975.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
+        },
+        "WATCH_VIDEO_ON_MOBILE": {
+          "type": "WATCH_VIDEO_ON_MOBILE",
+          "target": 29,
+          "assets": {
+            "video": {
+              "url": "quests/1539057611297792060/1540125190833447003_1080.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1539057611297792060/1541561466941870170.png"
+            },
+            "video_low_res": {
+              "url": "quests/1539057611297792060/1540125190833447003_720.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1539057611297792060/1541561466941870170.png"
+            },
+            "video_hls": {
+              "url": "quests/1539057611297792060/1540125190833447003.m3u8",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1539057611297792060/1541561466941870170.png"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "200 Orbs",
+            "name_with_article": "200 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 200,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2026-10-22T00:00:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.playstation.com/it-happens-on-ps5/?emcid=hd-ha-536563",
+      "button_label": "Learn More",
+      "subtitle": "Experience unforgettable moments."
+    }
+  },
+  {
+    "id": "1516889218218197062",
+    "config_version": 2,
+    "starts_at": "2026-08-31T17:00:00+00:00",
+    "expires_at": "2026-09-14T00:00:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://ad.doubleclick.net/ddm/trackclk/N2464377.3866164DISCORD.COM/B36109752.449925093;dc_trk_aid=643650569;dc_trk_cid=259235436;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=;dc_tdv=1",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "quests/1516889218218197062/1519040480266944633.jpg",
+      "hero_video": "quests/1516889218218197062/1519040581756780574_720.mp4",
+      "quest_bar_hero_blurhash": "+gcKBIKJmJeFeHhvd206tA+8Jw==",
+      "quest_bar_hero": "quests/1516889218218197062/1519040394254483476.jpg",
+      "quest_bar_hero_video": "quests/1516889218218197062/1519040581756780574_720.mp4",
+      "game_tile": "1519040778234761498.png",
+      "logotype": "1519040777194438887.png",
+      "game_tile_light": "quests/1516889218218197062/1519040136363507792.png",
+      "game_tile_dark": "quests/1516889218218197062/1519040136392872017.png",
+      "logotype_light": "quests/1516889218218197062/1519040218550767757.png",
+      "logotype_dark": "quests/1516889218218197062/1519040218970194010.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Off to College",
+      "game_title": "Off to College",
+      "game_publisher": "Amazon"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 14,
+          "assets": {
+            "video": {
+              "url": "quests/1516889218218197062/1519040852528201728_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1516889218218197062/1519040394254483476.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1516889218218197062/1519040852528201728_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1516889218218197062/1519040394254483476.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1516889218218197062/1519040852528201728.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1516889218218197062/1519040394254483476.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
+        },
+        "WATCH_VIDEO_ON_MOBILE": {
+          "type": "WATCH_VIDEO_ON_MOBILE",
+          "target": 14,
+          "assets": {
+            "video": {
+              "url": "quests/1516889218218197062/1519040852972802078_1080.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1516889218218197062/1519040394254483476.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1516889218218197062/1519040852972802078_720.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1516889218218197062/1519040394254483476.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1516889218218197062/1519040852972802078.m3u8",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1516889218218197062/1519040394254483476.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "200 Orbs",
+            "name_with_article": "200 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 200,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2026-10-14T00:00:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://ad.doubleclick.net/ddm/trackclk/N2464377.3866164DISCORD.COM/B36109752.449925093;dc_trk_aid=643650569;dc_trk_cid=259235436;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=;dc_tdv=1",
+      "button_label": "Shop Now",
+      "subtitle": "Save on Everything College"
+    }
+  },
+  {
+    "id": "1540124165225324656",
+    "config_version": 2,
+    "starts_at": "2026-08-31T17:00:00+00:00",
+    "expires_at": "2026-09-22T00:00:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://www.playstation.com/it-happens-on-ps5/?emcid=hd-ha-536563",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "quests/1540124165225324656/1542283105417560195.jpg",
+      "quest_bar_hero_blurhash": "BggGDIKFqHSQlJh0e5aUoEkKmg==",
+      "quest_bar_hero": "quests/1540124165225324656/1541559047768113233.jpg",
+      "quest_bar_hero_video": "quests/1540124165225324656/1540129049257451580_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1540124165225324656/1540124884531806338.png",
+      "game_tile_dark": "quests/1540124165225324656/1540127125850431568.png",
+      "logotype_light": "quests/1540124165225324656/1540124884427087892.png",
+      "logotype_dark": "quests/1540124165225324656/1540127258839089152.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "It Happens On PS5",
+      "game_title": "It Happens On PS5",
+      "game_publisher": "PlayStation"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 29,
+          "assets": {
+            "video": {
+              "url": "quests/1540124165225324656/1540124884489863198_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1540124165225324656/1540124884456439908.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1540124165225324656/1540124884489863198_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1540124165225324656/1540124884456439908.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1540124165225324656/1540124884489863198.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1540124165225324656/1540124884456439908.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
+        },
+        "WATCH_VIDEO_ON_MOBILE": {
+          "type": "WATCH_VIDEO_ON_MOBILE",
+          "target": 29,
+          "assets": {
+            "video": {
+              "url": "quests/1540124165225324656/1540124884489863198_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1540124165225324656/1540127743482662963.png"
+            },
+            "video_low_res": {
+              "url": "quests/1540124165225324656/1540124884489863198_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1540124165225324656/1540127743482662963.png"
+            },
+            "video_hls": {
+              "url": "quests/1540124165225324656/1540124884489863198.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1540124165225324656/1540127743482662963.png"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "200 Orbs",
+            "name_with_article": "200 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 200,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2026-10-22T00:00:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.playstation.com/it-happens-on-ps5/?emcid=hd-ha-536563",
+      "button_label": "Learn More",
+      "subtitle": "Erlebe unvergessliche Momente. It Happens on PS5."
+    }
   }
 ]
