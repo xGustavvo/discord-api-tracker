@@ -26601,5 +26601,130 @@
       "link": "https://akendfield.gryphline.com/d27t/V1D4DPQ",
       "button_label": "Play Now"
     }
+  },
+  {
+    "id": "1534508786088280074",
+    "config_version": 2,
+    "starts_at": "2026-09-03T06:15:00+00:00",
+    "expires_at": "2026-09-12T00:00:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://www.bandainamcoent.eu/dawnwalker/the-blood-of-dawnwalker/shop-now?utm_source=Discord&utm_medium=VideoQuest&utm_campaign=Dawnwalker-Launch",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "quests/1534508786088280074/1544379009788420167.jpg",
+      "hero_video": "quests/1534508786088280074/1541373660101615616_720.mp4",
+      "quest_bar_hero_blurhash": "ixgGDIILR5SWhoqCbJcFplFQGA==",
+      "quest_bar_hero": "quests/1534508786088280074/1541373419461935114.jpg",
+      "quest_bar_hero_video": "quests/1534508786088280074/1541373511254286416_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1534508786088280074/1541373312788209744.png",
+      "game_tile_dark": "quests/1534508786088280074/1541373312788209744.png",
+      "logotype_light": "quests/1534508786088280074/1541373374805180446.png",
+      "logotype_dark": "quests/1534508786088280074/1541373374805180446.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "The Blood of Dawnwalker",
+      "game_title": "The Blood of Dawnwalker",
+      "game_publisher": "Bandai Namco"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 29,
+          "assets": {
+            "video": {
+              "url": "quests/1534508786088280074/1544383425966907453_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1534508786088280074/1544383567205900289.png"
+            },
+            "video_low_res": {
+              "url": "quests/1534508786088280074/1544383425966907453_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1534508786088280074/1544383567205900289.png"
+            },
+            "video_hls": {
+              "url": "quests/1534508786088280074/1544383425966907453.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1534508786088280074/1544383567205900289.png"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
+        },
+        "WATCH_VIDEO_ON_MOBILE": {
+          "type": "WATCH_VIDEO_ON_MOBILE",
+          "target": 29,
+          "assets": {
+            "video": {
+              "url": "quests/1534508786088280074/1544383425966907453_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1534508786088280074/1544383567205900289.png"
+            },
+            "video_low_res": {
+              "url": "quests/1534508786088280074/1544383425966907453_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1534508786088280074/1544383567205900289.png"
+            },
+            "video_hls": {
+              "url": "quests/1534508786088280074/1544383425966907453.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1534508786088280074/1544383567205900289.png"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 3,
+          "sku_id": "1544413654856765571",
+          "asset": "quests/1534508786088280074/1544419022416773222.mp4",
+          "asset_video": null,
+          "messages": {
+            "name": "The Blood of Dawnwalker Avatar Decoration",
+            "name_with_article": "The Blood of Dawnwalker Avatar Decoration",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "expires_at": "2026-11-11T01:00:00+00:00",
+          "expires_at_premium": null,
+          "expiration_mode": 1
+        }
+      ],
+      "rewards_expire_at": "2026-10-12T00:00:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.bandainamcoent.eu/dawnwalker/the-blood-of-dawnwalker/shop-now?utm_source=Discord&utm_medium=VideoQuest&utm_campaign=Dawnwalker-Launch",
+      "button_label": "Play Now"
+    }
   }
 ]
