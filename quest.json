@@ -2632,5 +2632,445 @@
       "button_label": "Watch More",
       "subtitle": "9 de Octubre Solo en Cines"
     }
+  },
+  {
+    "id": "1542696151122321490",
+    "config_version": 2,
+    "starts_at": "2026-09-16T16:00:00+00:00",
+    "expires_at": "2026-09-24T06:59:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://aniimo.link/dN4y9P",
+      "id": "1468082130474111047",
+      "name": "Aniimo"
+    },
+    "assets": {
+      "hero": "quests/1542696151122321490/1542699814888808448.jpg",
+      "quest_bar_hero_blurhash": "pDcKFIKAdIltaIeGholhgEUS+w==",
+      "quest_bar_hero": "quests/1542696151122321490/1542699773109342339.jpg",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1542696151122321490/1544587685757198347.jpeg",
+      "game_tile_dark": "quests/1542696151122321490/1544587685757198347.jpeg",
+      "logotype_light": "quests/1542696151122321490/1544587685765709924.png",
+      "logotype_dark": "quests/1542696151122321490/1542699141384249475.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "ANIIMO GLOBAL LAUNCH",
+      "game_title": "Aniimo",
+      "game_publisher": "Pawprint"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "type": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1468082130474111047"
+            }
+          ]
+        },
+        "PLAY_ON_XBOX": {
+          "type": "PLAY_ON_XBOX",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1468082130474111047"
+            }
+          ],
+          "external_ids": [
+            "1799950478"
+          ]
+        },
+        "PLAY_ON_PLAYSTATION": {
+          "type": "PLAY_ON_PLAYSTATION",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1468082130474111047"
+            }
+          ],
+          "external_ids": [
+            "PPSA35870_00",
+            "PPSA39621_00"
+          ]
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 Orbs",
+            "name_with_article": "700 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 700,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2026-10-24T06:59:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://aniimo.link/dN4y9P",
+      "button_label": "Play Now"
+    }
+  },
+  {
+    "id": "1547360739918880860",
+    "config_version": 2,
+    "starts_at": "2026-09-16T16:00:00+00:00",
+    "expires_at": "2026-09-28T06:59:00+00:00",
+    "features": [
+      27,
+      36,
+      15
+    ],
+    "application": {
+      "link": "https://www.forgottenislandmovie.ca/",
+      "id": "1536314143412457553",
+      "name": "Elba"
+    },
+    "assets": {
+      "hero": "quests/1547360739918880860/1549120429652840570.jpg",
+      "hero_video": "quests/1547360739918880860/1549536914279764008_720.mp4",
+      "quest_bar_hero_blurhash": "X3UFRIYJW4iGe4iFZooIelTICA==",
+      "quest_bar_hero": "quests/1547360739918880860/1549120429732528278.jpg",
+      "quest_bar_hero_video": "quests/1547360739918880860/1549536914279764008_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1547360739918880860/1549120516194046133.png",
+      "game_tile_dark": "quests/1547360739918880860/1549120516194046133.png",
+      "logotype_light": "quests/1547360739918880860/1549120738064207882.png",
+      "logotype_dark": "quests/1547360739918880860/1549120738064207882.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "FORGOTTEN ISLAND",
+      "game_title": "IN THEATRES SEPTEMBER 25",
+      "game_publisher": "Universal Pictures"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "ACHIEVEMENT_IN_ACTIVITY": {
+          "type": "ACHIEVEMENT_IN_ACTIVITY",
+          "target": 5,
+          "applications": [
+            {
+              "id": "1536314143412457553"
+            }
+          ],
+          "event_name": "progress",
+          "messages": {
+            "task_title": "Forgotten Island",
+            "task_description": "Find all 5 bracelet charms to collect 700 Orbs!"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 Orbs",
+            "name_with_article": "700 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 700,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2026-10-28T06:59:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.forgottenislandmovie.ca/",
+      "button_label": "Get Tickets",
+      "subtitle": "IN THEATRES SEPTEMBER 25"
+    }
+  },
+  {
+    "id": "1537132225999413298",
+    "config_version": 2,
+    "starts_at": "2026-09-16T16:00:00+00:00",
+    "expires_at": "2026-09-28T06:59:00+00:00",
+    "features": [
+      27,
+      36,
+      15
+    ],
+    "application": {
+      "link": "https://www.ForgottenIslandTickets.com",
+      "id": "1536314143412457553",
+      "name": "Elba"
+    },
+    "assets": {
+      "hero": "quests/1537132225999413298/1549100554310123520.jpg",
+      "hero_video": "quests/1537132225999413298/1549536715826405557_720.mp4",
+      "quest_bar_hero_blurhash": "X3UFRIYJW4iGe4iFZooIelTICA==",
+      "quest_bar_hero": "quests/1537132225999413298/1549100554033303582.jpg",
+      "quest_bar_hero_video": "quests/1537132225999413298/1549536715826405557_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1537132225999413298/1549099454999699497.png",
+      "game_tile_dark": "quests/1537132225999413298/1549100246896873593.png",
+      "logotype_light": "quests/1537132225999413298/1549099454999699497.png",
+      "logotype_dark": "quests/1537132225999413298/1549099454999699497.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "FORGOTTEN ISLAND",
+      "game_title": "IN THEATERS SEPTEMBER 25",
+      "game_publisher": "Universal Pictures"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "ACHIEVEMENT_IN_ACTIVITY": {
+          "type": "ACHIEVEMENT_IN_ACTIVITY",
+          "target": 5,
+          "applications": [
+            {
+              "id": "1536314143412457553"
+            }
+          ],
+          "event_name": "progress",
+          "messages": {
+            "task_title": "Forgotten Island",
+            "task_description": "Find all 5 bracelet charms to collect 700 Orbs!"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 Orbs",
+            "name_with_article": "700 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 700,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2026-10-28T06:59:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.ForgottenIslandTickets.com",
+      "button_label": "Get Tickets",
+      "subtitle": "IN THEATERS SEPTEMBER 25"
+    }
+  },
+  {
+    "id": "1547364836017578086",
+    "config_version": 2,
+    "starts_at": "2026-09-16T16:00:00+00:00",
+    "expires_at": "2026-09-22T13:59:00+00:00",
+    "features": [
+      27,
+      36,
+      15
+    ],
+    "application": {
+      "link": "http://forgottenislandmovie.com.au/",
+      "id": "1536314143412457553",
+      "name": "Elba"
+    },
+    "assets": {
+      "hero": "quests/1547364836017578086/1549121848078246069.jpg",
+      "hero_video": "quests/1547364836017578086/1549537348184842250_720.mp4",
+      "quest_bar_hero_blurhash": "X3UFRIYJW4iGe4iFZooIelTICA==",
+      "quest_bar_hero": "quests/1547364836017578086/1549121778536808498.jpg",
+      "quest_bar_hero_video": "quests/1547364836017578086/1549537348184842250_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1547364836017578086/1549121778570371082.png",
+      "game_tile_dark": "quests/1547364836017578086/1549121778570371082.png",
+      "logotype_light": "quests/1547364836017578086/1549121832907444335.png",
+      "logotype_dark": "quests/1547364836017578086/1549121832907444335.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Forgotten Island",
+      "game_title": "In Cinemas Now",
+      "game_publisher": "Universal Pictures"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "ACHIEVEMENT_IN_ACTIVITY": {
+          "type": "ACHIEVEMENT_IN_ACTIVITY",
+          "target": 5,
+          "applications": [
+            {
+              "id": "1536314143412457553"
+            }
+          ],
+          "event_name": "progress",
+          "messages": {
+            "task_title": "Forgotten Island",
+            "task_description": "Find all 5 bracelet charms to collect 700 Orbs!"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 Orbs",
+            "name_with_article": "700 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 700,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2026-10-22T13:59:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "http://forgottenislandmovie.com.au/",
+      "button_label": "Get Tickets",
+      "subtitle": "In Cinemas Now"
+    }
+  },
+  {
+    "id": "1547367413320777830",
+    "config_version": 2,
+    "starts_at": "2026-09-16T16:00:00+00:00",
+    "expires_at": "2026-09-23T05:59:00+00:00",
+    "features": [
+      27,
+      36,
+      15
+    ],
+    "application": {
+      "link": "https://app.powster.com/universalstudios/forgotten-island-intl/mx/",
+      "id": "1536314143412457553",
+      "name": "Elba"
+    },
+    "assets": {
+      "hero": "quests/1547367413320777830/1549122469913305179.jpg",
+      "hero_video": "quests/1547367413320777830/1549537141443399811_720.mp4",
+      "quest_bar_hero_blurhash": "X3UFRIYJW4iGe4iFZooIelTICA==",
+      "quest_bar_hero": "quests/1547367413320777830/1549122497893503166.jpg",
+      "quest_bar_hero_video": "quests/1547367413320777830/1549537141443399811_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1547367413320777830/1549122498023657542.png",
+      "game_tile_dark": "quests/1547367413320777830/1549122498023657542.png",
+      "logotype_light": "quests/1547367413320777830/1549122456797585509.png",
+      "logotype_dark": "quests/1547367413320777830/1549122456797585509.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "La Isla Olvidada",
+      "game_title": "Ahora en cines",
+      "game_publisher": "Universal Pictures"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "ACHIEVEMENT_IN_ACTIVITY": {
+          "type": "ACHIEVEMENT_IN_ACTIVITY",
+          "target": 5,
+          "applications": [
+            {
+              "id": "1536314143412457553"
+            }
+          ],
+          "event_name": "progress",
+          "messages": {
+            "task_title": "La Isla Olvidada",
+            "task_description": "¡Encuentra los 5 dijes del brazalete para coleccionar 700 Orbs!"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 Orbs",
+            "name_with_article": "700 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 700,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2026-10-23T05:59:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://app.powster.com/universalstudios/forgotten-island-intl/mx/",
+      "button_label": "Get Tickets",
+      "subtitle": "Ahora en cines"
+    }
   }
 ]
