@@ -4071,5 +4071,85 @@
       "link": "https://f1clashgame.com/",
       "button_label": "Play Now"
     }
+  },
+  {
+    "id": "1550143303079567520",
+    "config_version": 2,
+    "starts_at": "2026-09-17T18:30:00+00:00",
+    "expires_at": "2026-09-27T00:00:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://osrs.runescape.com/download",
+      "id": "1180205756998488064",
+      "name": "Old School RuneScape"
+    },
+    "assets": {
+      "hero": "quests/1550143303079567520/1550200071079989268.jpg",
+      "hero_video": "quests/1550143303079567520/1550200071172263946.mp4",
+      "quest_bar_hero_blurhash": "S+cJEoZvInmIiFd5gGQEiHc=",
+      "quest_bar_hero": "quests/1550143303079567520/1550200071079989268.jpg",
+      "quest_bar_hero_video": "quests/1550143303079567520/1550200071172263946.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1550143303079567520/1550199845912973392.jpg",
+      "game_tile_dark": "quests/1550143303079567520/1550199845912973392.jpg",
+      "logotype_light": "quests/1550143303079567520/1550199845929623582.png",
+      "logotype_dark": "quests/1550143303079567520/1550199846810685502.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Old School Runescape",
+      "game_title": "Old School Runescape",
+      "game_publisher": "JAGEX"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "type": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1180205756998488064"
+            }
+          ]
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 3,
+          "sku_id": "1550204246400438492",
+          "asset": "quests/1550143303079567520/1550205289184100462.mp4",
+          "asset_video": null,
+          "messages": {
+            "name": "Old School RuneScape Avatar Decoration",
+            "name_with_article": "an Old School RuneScape Avatar Decoration",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "expires_at": "2026-10-28T00:00:00+00:00",
+          "expires_at_premium": null,
+          "expiration_mode": 3
+        }
+      ],
+      "rewards_expire_at": "2026-10-27T00:00:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://osrs.runescape.com/download",
+      "button_label": "Play Now"
+    }
   }
 ]
