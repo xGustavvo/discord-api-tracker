@@ -4352,5 +4352,163 @@
       "link": "https://www.roblox.com/spotlight/the-hunt-roblox-20?gsrbx=1",
       "button_label": "Play Now"
     }
+  },
+  {
+    "id": "1549870356624445583",
+    "config_version": 2,
+    "starts_at": "2026-09-18T15:00:00+00:00",
+    "expires_at": "2026-09-19T14:59:59+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://www.roblox.com/ko/spotlight/the-hunt-roblox-20?gsrbx=1",
+      "id": "363445589247131668",
+      "name": "Roblox"
+    },
+    "assets": {
+      "hero": "quests/1549870356624445583/1550209335236497530.jpg",
+      "hero_video": "quests/1549870356624445583/1550213019089375282_720.mp4",
+      "quest_bar_hero_blurhash": "pMUJHIKwJ4iDmKeOdnRwRQZEJA==",
+      "quest_bar_hero": "quests/1549870356624445583/1550212423162536096.jpg",
+      "quest_bar_hero_video": "quests/1549870356624445583/1550213010868543688_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1548002983260725379/1548030113092739274.png",
+      "game_tile_dark": "quests/1548002983260725379/1548029924919746560.png",
+      "logotype_light": "quests/1549870356624445583/1550225215823282327.png",
+      "logotype_dark": "quests/1549870356624445583/1550209271822684160.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "ROBLOX",
+      "game_title": "The Hunt: Roblox 20",
+      "game_publisher": "ROBLOX"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "type": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "applications": [
+            {
+              "id": "363445589247131668"
+            }
+          ]
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 1,
+          "sku_id": "1550260246524723322",
+          "asset": "quests/1549870356624445583/1550168253739962479.png",
+          "asset_video": null,
+          "messages": {
+            "name": "Blurple 8-Bit Wings",
+            "name_with_article": "Blurple 8-Bit Wings",
+            "redemption_instructions_by_platform": {
+              "0": "코드를 사용하려면 https://www.roblox.com/ko/redeem 에 접속하세요. 코드를 입력하고 '사용' 버튼을 클릭하세요. (각 코드는 한 번만 사용할 수 있습니다.)"
+            }
+          },
+          "approximate_count": null,
+          "redemption_link": null
+        }
+      ],
+      "rewards_expire_at": "2026-10-19T14:59:59+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.roblox.com/ko/spotlight/the-hunt-roblox-20?gsrbx=1",
+      "button_label": "Play Now"
+    }
+  },
+  {
+    "id": "1549871018477092965",
+    "config_version": 2,
+    "starts_at": "2026-09-18T15:00:00+00:00",
+    "expires_at": "2026-09-19T14:59:59+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://www.roblox.com/ja/spotlight/the-hunt-roblox-20?gsrbx=1",
+      "id": "363445589247131668",
+      "name": "Roblox"
+    },
+    "assets": {
+      "hero": "quests/1549871018477092965/1550208516680196116.jpg",
+      "hero_video": "quests/1549871018477092965/1550213393963552958_720.mp4",
+      "quest_bar_hero_blurhash": "pMUJHIKwJ4iDmKeOdnRwRQZEJA==",
+      "quest_bar_hero": "quests/1549871018477092965/1550212348256456745.jpg",
+      "quest_bar_hero_video": "quests/1549871018477092965/1550212993613303939_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1548002983260725379/1548030113092739274.png",
+      "game_tile_dark": "quests/1548002983260725379/1548029924919746560.png",
+      "logotype_light": "quests/1549871018477092965/1550225158029971497.png",
+      "logotype_dark": "quests/1549871018477092965/1550208434199208068.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "ROBLOX",
+      "game_title": "The Hunt: Roblox 20",
+      "game_publisher": "ROBLOX"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "type": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "applications": [
+            {
+              "id": "363445589247131668"
+            }
+          ]
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 1,
+          "sku_id": "1550260246524723321",
+          "asset": "quests/1549871018477092965/1550168134663671918.png",
+          "asset_video": null,
+          "messages": {
+            "name": "Blurple 8-Bit Wings",
+            "name_with_article": "Blurple 8-Bit Wings",
+            "redemption_instructions_by_platform": {
+              "0": "コードを使用するには、https://www.roblox.com/ja/redeem を開いてください。コードを入力し、「引き換え」ボタンをクリックしてください。（各コードは一度のみ使用可能です。）"
+            }
+          },
+          "approximate_count": null,
+          "redemption_link": null
+        }
+      ],
+      "rewards_expire_at": "2026-10-19T14:59:59+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.roblox.com/ja/spotlight/the-hunt-roblox-20?gsrbx=1",
+      "button_label": "Play Now"
+    }
   }
 ]
