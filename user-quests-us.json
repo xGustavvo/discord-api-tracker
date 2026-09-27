@@ -102,109 +102,13 @@
       "ad_context": null,
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJNFl6UXluZERzZXNtTFI5WVBMY1o2aHB5eG9KU0hrR2VDck5lRWk1QUZpeHdqUExUT01BUTBzVVovUElUdXByamVZYk41U29DVTBTd0txN2xPVDczUFpHdXVCS2tmN1BRPSJ9",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJdVVvbkoraHRFYXdiTzMxZXh0WHdsZDRpNGlaK2E4ZUZMS1RxczdxOXY1ajdBb21hUHZTRkw3NS8vUzZPM3Fyc25lNTdSQWswc2lVR2VZUTcvOG52Ym5DODhGZzRISUhnNG9JbWcwQzhDaUkrTjZCUWl5b3V3OCtBazlpbXhHcFhRdml6SERoOWQrbTJNOUVjVmZaclJPSTdBYlJsd3pXY2pwbk5BUFdsT2c4QzVBRlVmIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLVDFNdFo3NkcxS0J4eDRaTjViVnQ0T0ppTUdqU1gvUy85Nmg3bjhicWpaS2swY0dPbEpGMHJQa2dxbjlDRDJobkNhblN6dEhnVzVJdG4zWGcyWURLeWllclR6d2U3dmdFPSJ9",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMVlFRVGx2V3lMQzZTQnM4bG51NlJaRWJHdTF2c25tTVV3ckVpbldHS1ozZ2lVQWg0cEdtbkNUcjNNN3B4VDhzL3pDcEcxVUNjTDFIUXRFSHNmSXpFRGJlWW0rUE5seHJvYTNYMlpJbUdCTDZHNTNGUE95QS85UlRjb2VxY3JuK0Zkb2hJUWcxSVZ0NDR6eEpyS0RZU25ZMmlUN2l5b05qM0k3MVYyd3pQcWc4ZlBJWmh3In0="
     },
     {
-      "id": "1539533765070553089",
+      "id": "1541369647985594369",
       "config": {
-        "id": "1539533765070553089",
-        "config_version": 2,
-        "starts_at": "2026-08-22T04:00:00+00:00",
-        "expires_at": "2026-09-01T04:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://akendfield.gryphline.com/d27t/V1D4DPQ",
-          "id": "1461154307171811401",
-          "name": "Arknights: Endfield"
-        },
-        "assets": {
-          "hero": "quests/1539533765070553089/1539535306854760488.jpg",
-          "hero_video": "quests/1539533765070553089/1539535450811797564_720.mp4",
-          "quest_bar_hero_blurhash": "XAcKCoAY+2WMrIaoA1OEoGg=",
-          "quest_bar_hero": "quests/1539533765070553089/1539535306854760488.jpg",
-          "quest_bar_hero_video": "quests/1539533765070553089/1539535337905459201_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1534395181334270063/1534399094129295400.jpg",
-          "game_tile_dark": "quests/1534395181334270063/1534399094129295400.jpg",
-          "logotype_light": "quests/1534395181334270063/1534399093877637151.png",
-          "logotype_dark": "quests/1534395181334270063/1534399093881704558.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "New Area: Yinglung Pass",
-          "game_title": "Arknights: Endfield",
-          "game_publisher": "GRYPHLINE"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1461154307171811401"
-                }
-              ]
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1461154307171811401"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700,
-              "premium_orb_quantity": 840
-            }
-          ],
-          "rewards_expire_at": "2026-10-01T04:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://akendfield.gryphline.com/d27t/V1D4DPQ",
-          "button_label": "Play Now"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "ad_context": null,
-      "preview": false,
-      "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJNFl6UXluZERzZXNtTFI5WVBMY1o2aHB5eG9KU0hrR2VDck5lRWk1QUZpeHdqUExUT01BUTBzVVovUElUdXByamVZYk41U29DVTBTd0txN2xPVDczUFpHdXVCS2tmN1BRPSJ9",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMcVFybkNPb1MxNTFsbldGTGZXRjM5dDAxOE5QUmZFcGs5MVJBQnlEVHhSamNiSkY0ZEJEd2M0QWlXdkE1Zmh1SkRPN1pmTHNZd1l5MVkzZG8xUWVDRXVJbGx0NXMwTXdqb3hRbGpRTFNuaE9DalkvaWoxdGV0VWEvNnVNeVlvUHpienJlMElDWWxpNXI5aDlCcnd5dzk0TlBPZlZ2TVd0eEFSaC9JSWhURElvTUVyN0pJIn0="
-    },
-    {
-      "id": "1541371710417272834",
-      "config": {
-        "id": "1541371710417272834",
+        "id": "1541369647985594369",
         "config_version": 2,
         "starts_at": "2026-08-25T22:00:00+00:00",
         "expires_at": "2026-10-12T06:59:00+00:00",
@@ -212,15 +116,15 @@
           15
         ],
         "application": {
-          "link": "https://store.steampowered.com/app/3393110/AION_2/?utm_source=discord&utm_campaign=cheil_20260923_Countdown_A2_US_Countdown_All_NEW_By_DISCORD_Quest&utm_medium=interest_mmoplayers&utm_content=gamescomwos",
+          "link": "https://store.steampowered.com/app/3393110/AION_2/?utm_source=discord&utm_campaign=cheil_20260923_Countdown_A2_CA_Countdown_All_NEW_By_DISCORD_Quest&utm_medium=interest_mmoplayers&utm_content=gamescomwos",
           "id": "545364944258990091",
           "name": "Discord"
         },
         "assets": {
-          "hero": "quests/1541318428281929758/1541358119739850782.jpg",
+          "hero": "quests/1541369647985594369/1541598241282592829.jpg",
           "hero_video": "quests/1541318428281929758/1541358004383916104_720.mp4",
-          "quest_bar_hero_blurhash": "avcRDIQIl7d6eYd6iXoBrAFtWg==",
-          "quest_bar_hero": "quests/1541318428281929758/1541357948385763369.jpg",
+          "quest_bar_hero_blurhash": "KvcRDIQIl7d6eYd6iXoCnANtWg==",
+          "quest_bar_hero": "quests/1541369647985594369/1541598239969644655.jpg",
           "quest_bar_hero_video": "quests/1541318428281929758/1541358004383916104_720.mp4",
           "game_tile": "PLACEHOLDER",
           "logotype": "PLACEHOLDER",
@@ -245,22 +149,22 @@
               "target": 29,
               "assets": {
                 "video": {
-                  "url": "quests/1541371710417272834/1551722925680492599_1080.mp4",
+                  "url": "quests/1541369647985594369/1551723017644548196_1080.mp4",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1541318428281929758/1541354114557157476.png"
+                  "thumbnail": "quests/1541369647985594369/1541598197598785636.png"
                 },
                 "video_low_res": {
-                  "url": "quests/1541371710417272834/1551722925680492599_720.mp4",
+                  "url": "quests/1541369647985594369/1551723017644548196_720.mp4",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1541318428281929758/1541354114557157476.png"
+                  "thumbnail": "quests/1541369647985594369/1541598197598785636.png"
                 },
                 "video_hls": {
-                  "url": "quests/1541371710417272834/1551722925680492599.m3u8",
+                  "url": "quests/1541369647985594369/1551723017644548196.m3u8",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1541318428281929758/1541354114557157476.png"
+                  "thumbnail": "quests/1541369647985594369/1541598197598785636.png"
                 }
               },
               "messages": {
@@ -272,22 +176,22 @@
               "target": 29,
               "assets": {
                 "video": {
-                  "url": "quests/1541371710417272834/1551722925609062470_1080.mp4",
+                  "url": "quests/1541369647985594369/1551723017095086090_1080.mp4",
                   "width": 607,
                   "height": 1080,
-                  "thumbnail": "quests/1541318428281929758/1541354114557157476.png"
+                  "thumbnail": "quests/1541369647985594369/1541598239969644655.jpg"
                 },
                 "video_low_res": {
-                  "url": "quests/1541371710417272834/1551722925609062470_720.mp4",
+                  "url": "quests/1541369647985594369/1551723017095086090_720.mp4",
                   "width": 607,
                   "height": 1080,
-                  "thumbnail": "quests/1541318428281929758/1541354114557157476.png"
+                  "thumbnail": "quests/1541369647985594369/1541598239969644655.jpg"
                 },
                 "video_hls": {
-                  "url": "quests/1541371710417272834/1551722925609062470.m3u8",
+                  "url": "quests/1541369647985594369/1551723017095086090.m3u8",
                   "width": 607,
                   "height": 1080,
-                  "thumbnail": "quests/1541318428281929758/1541354114557157476.png"
+                  "thumbnail": "quests/1541369647985594369/1541598239969644655.jpg"
                 }
               },
               "messages": {
@@ -321,7 +225,7 @@
         },
         "share_policy": "shareable_everywhere",
         "cta_config": {
-          "link": "https://store.steampowered.com/app/3393110/AION_2/?utm_source=discord&utm_campaign=cheil_20260923_Countdown_A2_US_Countdown_All_NEW_By_DISCORD_Quest&utm_medium=interest_mmoplayers&utm_content=gamescomwos",
+          "link": "https://store.steampowered.com/app/3393110/AION_2/?utm_source=discord&utm_campaign=cheil_20260923_Countdown_A2_CA_Countdown_All_NEW_By_DISCORD_Quest&utm_medium=interest_mmoplayers&utm_content=gamescomwos",
           "button_label": "Learn More"
         }
       },
@@ -330,8 +234,8 @@
       "ad_context": null,
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJNFl6UXluZERzZXNtTFI5WVBMY1o2aHB5eG9KU0hrR2VDck5lRWk1QUZpeHdqUExUT01BUTBzVVovUElUdXByamVZYk41U29DVTBTd0txN2xPVDczUFpHdXVCS2tmN1BRPSJ9",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKc3JzUXdHbm5Jc0R2T3BjMVdteVFGdTh5WVJob2l6My9jUzFva1ovVzhibWlYQjZrcHRnTzZYRTc1YlQ1Njl3ZzhyemxBRVRvL2VtYmdEZ3NRQlV1ek0vdlRWcUlpVFhTZjF3UmdGZ3cyU2d0ODN1cnVUeXNwaUQrVllsOXBtdVZkQWlyd3Z5VngzenZOZ0hnc2V6dGtYeDhYL1pTK2tOS2FaRFNIZmN5T2s5YXBhZWlnIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLVDFNdFo3NkcxS0J4eDRaTjViVnQ0T0ppTUdqU1gvUy85Nmg3bjhicWpaS2swY0dPbEpGMHJQa2dxbjlDRDJobkNhblN6dEhnVzVJdG4zWGcyWURLeWllclR6d2U3dmdFPSJ9",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKSXdIT1RuRXBYVnZkVXFmYUV2M3VjcnQyY0M0QlplVUtSTEhGZXFGVHlOSnBzYmhVMXM1Vi84ZUtlaFQrNkorQmhJOXRva2M3d0QwYlBxTU4ydFNRYnE2eGxtUzJRaXhOWmhiWEFmNnhRQmUyK1lVMWpkRThoL3hJQVlhMXRYMG1BRkM4VEc5Qm9nbHNXQWRzYkUrdlJxR3NlZ1VJWHVHSjJYRHlUUW84VWh3d29IRWI2In0="
     },
     {
       "id": "1548040517420449792",
@@ -435,8 +339,8 @@
       "ad_context": null,
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJNFl6UXluZERzZXNtTFI5WVBMY1o2aHB5eG9KU0hrR2VDck5lRWk1QUZpeHdqUExUT01BUTBzVVovUElUdXByamVZYk41U29DVTBTd0txN2xPVDczUFpHdXVCS2tmN1BRPSJ9",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMUE5vVHVPd1JhYkdVd3MxaFVyMm53ZjVsb2VOUkhwcUJxU0JJTkRHenFxeHIzdWZraGVjazR1NzJhMWl0V0cxOWhjOUN4RmJJZzRiV0lBMWI1cGlYbzVKcjJaMUh5eWdrV245MUdkeUpWNVVzMHhPbFBuKzhja2hkTGhHSkc2TFdHZVBXNkNPMFpIVnZzUUltNkRmbDBGenlqbHFxaHN4UkpmaXI0RTB1SzN1VGg0L3pGIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLVDFNdFo3NkcxS0J4eDRaTjViVnQ0T0ppTUdqU1gvUy85Nmg3bjhicWpaS2swY0dPbEpGMHJQa2dxbjlDRDJobkNhblN6dEhnVzVJdG4zWGcyWURLeWllclR6d2U3dmdFPSJ9",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMTkY3TFAwR1hxaHNqUjdaK1V0dGVsb1RoZ1lIWDJoVmdKSzlQMFBsSE9INnFWZXlXR010MEVXMzV5NkF3azBITmVPVDdIYzl5YUZqbG9RY0l1eU5DeFVWeitGd0gzODFuQ3AyNnZXRThwRUlMZS8vb094c1FuTUZ6dVFlUUdCeWY4YUhWbVVOaW5xNm9oZHUzZkd2WGphNXVNOW02YWhwbmV3Y21XN2xmdXhwUUhaaEN0In0="
     },
     {
       "id": "1552793125028634754",
@@ -538,8 +442,8 @@
       "ad_context": null,
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJNFl6UXluZERzZXNtTFI5WVBMY1o2aHB5eG9KU0hrR2VDck5lRWk1QUZpeHdqUExUT01BUTBzVVovUElUdXByamVZYk41U29DVTBTd0txN2xPVDczUFpHdXVCS2tmN1BRPSJ9",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKcGRGM2tjN09mYzFFOG9la1lLVXVDOVNjNDFrZ09aWGlEemNNWGlHMU52enFCVWF1RmVQNWhUK3F4akV6Nm5JYzZnQi9VRGNqS1ZFcFYxV1ROai9pR0xvWWxYR0ZIK0tRb1NzblFyMDluVjBENll0b2FDNHl1NXBaTkdFOVdGRFVqSFpLVVg5SlQ4MnhCYllkOUM5bGFnOGVHSlJBeTV0bDExUzM0MDFhMmNpQTQzQkcwIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLVDFNdFo3NkcxS0J4eDRaTjViVnQ0T0ppTUdqU1gvUy85Nmg3bjhicWpaS2swY0dPbEpGMHJQa2dxbjlDRDJobkNhblN6dEhnVzVJdG4zWGcyWURLeWllclR6d2U3dmdFPSJ9",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLWU5SVm5ZV3J1SzM0UlYzc1FmMmJxaXBEcDRwclRZSDV1VWdpdGZlN3Y4M200b1p5THBTQkQvMVozOU4veDNFcW9QWVltazY1L0tpbEQvcHdORDkxOXJwdzduRENIeTIyaEZXL25RV1U5YiswaC84TmZvVFU4NWtTejMvaWZLZFYwa1RKNXNaYXkxSk1ZZi8rczBXS2J4Sk9GRHBFNlltRllOYkdPUlZiUFFzNnRwbXNoIn0="
     },
     {
       "id": "1548002983260725379",
@@ -627,8 +531,8 @@
       "ad_context": null,
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJNFl6UXluZERzZXNtTFI5WVBMY1o2aHB5eG9KU0hrR2VDck5lRWk1QUZpeHdqUExUT01BUTBzVVovUElUdXByamVZYk41U29DVTBTd0txN2xPVDczUFpHdXVCS2tmN1BRPSJ9",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLMS9qdGttN21JUWpCcjZlRjFMRGRIV3lpNjNraGNVM2xmbjIwVmQ2UW9Hemxxb3M2ZFVYRnR0RjY0UnpQcmFMNTdKN3dSWVBZc2YzQjZwS1AxbGE5dXhWWjJnK2JvNTFoSCtpR0ZickRsMkI1SUhKVDdyV0JYTXhobmI4N3pzNHAzbi9odTFUbTQxRnpZUW04S0V6eTVYa1ZacEVHay9VeXNJVlhyWGZ2NGpRd3hhWGw5In0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLVDFNdFo3NkcxS0J4eDRaTjViVnQ0T0ppTUdqU1gvUy85Nmg3bjhicWpaS2swY0dPbEpGMHJQa2dxbjlDRDJobkNhblN6dEhnVzVJdG4zWGcyWURLeWllclR6d2U3dmdFPSJ9",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJWTlMUVBzWnJXYWNEdWNjQ2dGbWhJS3VmVWgwcGxkTlNOTmpCYUJmRTRWYkExWXE5QkRoamxMdXVMZ3MxYUdkUEs3Rkl3ZmtoQjhHZHk0T2VVb0FXLzAyUnZ0c1lXNDhCVi8zTi9xTU9JSEsxYTZCcWxmR0xjTGVoeVI5ZjVLaDhDd1VQUG10M1FIZ3I0V1J0a2JSMzBpZW43eFJrZVRHUlMxUFFYUzJEL0tvdXp4WW11In0="
     },
     {
       "id": "1539110114689163395",
@@ -758,8 +662,8 @@
       "ad_context": null,
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJNFl6UXluZERzZXNtTFI5WVBMY1o2aHB5eG9KU0hrR2VDck5lRWk1QUZpeHdqUExUT01BUTBzVVovUElUdXByamVZYk41U29DVTBTd0txN2xPVDczUFpHdXVCS2tmN1BRPSJ9",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMRGh5MnlZeTcwS1dkSzdMWDB5bE14Q01ONFkya2ZiZTdmdkt6YVU3eTRpQVdZNEJKMzBWYnhsYUJnV1V6YjEyN3dHcXlXcmZnYVZrV2t3eTI3dVRIZjRRSE9zV2poS2FIckNXRFZzSEF1ZVZMSlI0VmRGTVhhUEpJWS8ySG4wMVdjZTF4V2hhN2JZNHRVK3Y1NTU2TVdMdmZXTlozMXY1QXpXeHAwS2NaQTlTZFRaOHVzIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLVDFNdFo3NkcxS0J4eDRaTjViVnQ0T0ppTUdqU1gvUy85Nmg3bjhicWpaS2swY0dPbEpGMHJQa2dxbjlDRDJobkNhblN6dEhnVzVJdG4zWGcyWURLeWllclR6d2U3dmdFPSJ9",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMUEhXY1ZDV01GdWh5OHR5anExdGdWeGc0UWxWOGVlUEV3cjRsa09yS3ZOVWtrdjN0Z0IyY1ptSmVzaERsZzZ2SERjU0VsYU0zQnRCV09RcW03WUNtbTAxb0k0alhYTW9PZmo4WUN6cmJVWXhtNUtyWEEyUkJXMkkwTERSMnZ4M215MWtUdDBSOVhoWWoyaTZkNUNxZFppbDlDS2FIVk5VUkhpVDVsSHVKeHNiazNLSHVMIn0="
     },
     {
       "id": "1539421708417765386",
@@ -845,8 +749,8 @@
       "ad_context": null,
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJNFl6UXluZERzZXNtTFI5WVBMY1o2aHB5eG9KU0hrR2VDck5lRWk1QUZpeHdqUExUT01BUTBzVVovUElUdXByamVZYk41U29DVTBTd0txN2xPVDczUFpHdXVCS2tmN1BRPSJ9",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMN21jd1FOM29MNmordms1b29iZFFZQ2JUVDU5aVQzY0JQQWk4Yy9DYWlHMnV3RHN4RTErYWxIOHpCTFVuek00RUNJQUh4R3VXaWh5dHdteHI4ZlJqNWVoamZXakl4WEhCVTYybnFNcEk2YW0wcjdrcVRFYmtWRVlBMVF4STVZNE5RTlpIZnZ3ZzRTY0VzUjNXMmtWbkxabm51ekNldXZDOWJPTGQvYmdyT1dxVmdGcXUrIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLVDFNdFo3NkcxS0J4eDRaTjViVnQ0T0ppTUdqU1gvUy85Nmg3bjhicWpaS2swY0dPbEpGMHJQa2dxbjlDRDJobkNhblN6dEhnVzVJdG4zWGcyWURLeWllclR6d2U3dmdFPSJ9",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJbEU4N0lUcG1KQzN3MXJTc29mVlJNaEduMFZ2WHZlM1hINVJBLzV2R0Zva0pEK1ZvcWYwZkxIZlVlaWJCTEsxbUwzUFlHTjZicThzZStmUjd1NVlObDVMQWtjTk1oZlV5OGxTb0VLckR4SU1Ia2ppL0xyaGJ4TVhsejU0WkJGOXo2WGp3QW93SDNYZGVPTXBlVzRxYXB6N1dsOXVMVW0yVDNiTkhlNE51NXBYcGNLYUE3In0="
     },
     {
       "id": "1543813403204788235",
@@ -950,139 +854,8 @@
       "ad_context": null,
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJNFl6UXluZERzZXNtTFI5WVBMY1o2aHB5eG9KU0hrR2VDck5lRWk1QUZpeHdqUExUT01BUTBzVVovUElUdXByamVZYk41U29DVTBTd0txN2xPVDczUFpHdXVCS2tmN1BRPSJ9",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKeWUzRitXTHVVWW5kMzJkSXdrWGR5NkpMWlFsRzd2M0IwdFBNdGlwbGVvckQvNnA1SWcyZWoxTzkxbWQwdXdITnEvS0paWURFUDlZNW8yVVNERFZtN1BrSDQ2dEZEU3U1Ujk3SXlEUXRTSmVOK3FzMUY4UmF5aHQwSEZrUndOaDdsRVFGdE84U1VPemhsODJ2Rm80SG1CQXBWMXkrSHhJNmFjUGdxbGplN0M0OFZxRnFXIn0="
-    },
-    {
-      "id": "1540036377146556556",
-      "config": {
-        "id": "1540036377146556556",
-        "config_version": 2,
-        "starts_at": "2026-08-28T17:00:00+00:00",
-        "expires_at": "2026-09-29T00:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://www.t-mobile.com/cell-phone-plans/student-discounts?cmpid=MGPO_DS_P_PPSTUPRKSE_%epid!_%eaid!_%ecid!_%ebuy!",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1540036377146556556/1543004822704361472.jpg",
-          "quest_bar_hero_blurhash": "32cHBIgq+FePdHmCbJRbr3R/eA==",
-          "quest_bar_hero": "quests/1540036377146556556/1541615727566659604.jpg",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1540036377146556556/1540080485622087841.png",
-          "game_tile_dark": "quests/1540036377146556556/1540080485622087841.png",
-          "logotype_light": "quests/1540036377146556556/1540083413502001313.png",
-          "logotype_dark": "quests/1540036377146556556/1540080554203025468.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Student Perks",
-          "game_title": "T-Mobile",
-          "game_publisher": "T-Mobile"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1540036377146556556/1540082319606677564_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1540036377146556556/1541615238040789042.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1540036377146556556/1540082319606677564_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1540036377146556556/1541615238040789042.png"
-                },
-                "video_hls": {
-                  "url": "quests/1540036377146556556/1540082319606677564.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1540036377146556556/1541615238040789042.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 20,
-              "assets": {
-                "video": {
-                  "url": "quests/1540036377146556556/1540194178984579122_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1540036377146556556/1541596257787580416.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1540036377146556556/1540194178984579122_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1540036377146556556/1541596257787580416.png"
-                },
-                "video_hls": {
-                  "url": "quests/1540036377146556556/1540194178984579122.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1540036377146556556/1541596257787580416.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": 240
-            }
-          ],
-          "rewards_expire_at": "2026-10-29T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.t-mobile.com/cell-phone-plans/student-discounts?cmpid=MGPO_DS_P_PPSTUPRKSE_%epid!_%eaid!_%ecid!_%ebuy!",
-          "button_label": "Learn More",
-          "subtitle": "Plans built just for students starting at $30/mo."
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "ad_context": null,
-      "preview": false,
-      "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJNFl6UXluZERzZXNtTFI5WVBMY1o2aHB5eG9KU0hrR2VDck5lRWk1QUZpeHdqUExUT01BUTBzVVovUElUdXByamVZYk41U29DVTBTd0txN2xPVDczUFpHdXVCS2tmN1BRPSJ9",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMVSs1cFFEV2gxa01TVVBrczh4VmVGd0gxK2kvcU9weDVsZEZRRjZKd1ZEcHZMN0NTQ0lIN2xjWEgrNW9qdTZmUFY2dXVFYmdvUEpkZjJiaEx4TUpscmJzZ09FTGZrZ0NvMDd2dGlaSW9tbzBWSHQ4NFZZSnpwTjg5bkhTSi8yNE9RVm5GMkdqVzNmQjRDdGxQbzgxazVla2FQcXpHWi9OaXRYbTAyLzJ6YXhVbW5OWWhQIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLVDFNdFo3NkcxS0J4eDRaTjViVnQ0T0ppTUdqU1gvUy85Nmg3bjhicWpaS2swY0dPbEpGMHJQa2dxbjlDRDJobkNhblN6dEhnVzVJdG4zWGcyWURLeWllclR6d2U3dmdFPSJ9",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMVjFuTExpQVFTNUZ1cTh0cHdyYkg3endaYnM3SUUwZnRNYnU3OGtGMWpNTGcwNFZGUmdKQUcrd0M3SmFGaGoxdkZDS3FYZHRHV3RWaHRIcVg2bytvRDIxbGtGYmNJOG1jYm5VR0RLWFppUGdWeHRWSTVKMkp1bDJJT1BXcGZOeFl2VklidlFURFpHSlduUDNVNGZuZUxySzNGM0xrVDFrUVIxZlRqYi9yMXA1RklxcGZMIn0="
     },
     {
       "id": "1544121202069606541",
@@ -1213,8 +986,8 @@
       "ad_context": null,
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJNFl6UXluZERzZXNtTFI5WVBMY1o2aHB5eG9KU0hrR2VDck5lRWk1QUZpeHdqUExUT01BUTBzVVovUElUdXByamVZYk41U29DVTBTd0txN2xPVDczUFpHdXVCS2tmN1BRPSJ9",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMRFJGQ3VRYnlBMXQxL1J6MXYvVnRRREhaeTdSbi9JV0tkMFo1VENtcHptQ0VjaXppVFlVUklyYXJoYVN4THd0bERjVTdRaCszdVkxcENYaHdldDlzL1Z5QXExSDIycmdYdk1hYkxGWCsveG1sWGl4M0Fmek1IQlN5Y1NrYndJZnpWRXVxU3dnZ2hTamJQODBjQjNDZUhNK3JLa3RldGxGVndSeDN6WStwdklIUzhWbHN5In0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLVDFNdFo3NkcxS0J4eDRaTjViVnQ0T0ppTUdqU1gvUy85Nmg3bjhicWpaS2swY0dPbEpGMHJQa2dxbjlDRDJobkNhblN6dEhnVzVJdG4zWGcyWURLeWllclR6d2U3dmdFPSJ9",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dML08va1plbklNT2w3cFVSSzJKZ3dXb2JzNG83aUlRb003ZEZ0UkpBWUVVOFpudFZyTkNuTUVYYisydGl5ZkdRSG1QSXJkeml4TDY5LzhyOHZDekpoeFU0blFzeDRrMTFZVmpCSHdkaHlseDRaK2hnWmc3U21qVkdZa2tGUlJEMVI0TUlrREd6dUQ1cGxUUHBjZXYrMWNMSzhaRU1NSmNEdE1SclI4VERuVEduU0QrOWprIn0="
     },
     {
       "id": "1544550568742101012",
@@ -1300,21 +1073,21 @@
       "ad_context": null,
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJNFl6UXluZERzZXNtTFI5WVBMY1o2aHB5eG9KU0hrR2VDck5lRWk1QUZpeHdqUExUT01BUTBzVVovUElUdXByamVZYk41U29DVTBTd0txN2xPVDczUFpHdXVCS2tmN1BRPSJ9",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMQnl0WStCQWk4Q0VaZkVCWXdOOXNqK2ZqTDgrcEszY0hwalFtUXVaRkpNbmFWeUd1QmlHcTA5R1NwZnNyNm4zWThjaEVkYVlQU2hHeW5RYlhtTWZRaVhiNEtPNWtmY3RIakdncjM2UXJuTWtxSE1ydEJlQzVEWmpwdFRlQklyL2NEYmNVUEhhMU0rakN6allCMy9oK1phRUk5YkpGNGg3S1Q1SlhpcjhBQU5Ed1dNTTlKIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLVDFNdFo3NkcxS0J4eDRaTjViVnQ0T0ppTUdqU1gvUy85Nmg3bjhicWpaS2swY0dPbEpGMHJQa2dxbjlDRDJobkNhblN6dEhnVzVJdG4zWGcyWURLeWllclR6d2U3dmdFPSJ9",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMLzRpMkUrc2Z5T2Q4M2I5TW5kenRCald1NUJQQjJibWNiRmZTajBDSHBSek54NEJoazdaSWR1cTUwQWZKcVU1cStSd1o4WXFnTHlwT2tCa1l1Mlc4MXZ0bzJUZUtRcHdGZElEU3ErUmF5WW41MGJsVE5FWlowZkJzRWxzL1BaSFRaSVJDUHFSdnlJQlBJbjRkNVFLS0x5NGFnUUIrVDVPM3FvNTd3Sk9KblV2a2dHYVJCIn0="
     },
     {
-      "id": "1544433774492655637",
+      "id": "1544130689316691989",
       "config": {
-        "id": "1544433774492655637",
+        "id": "1544130689316691989",
         "config_version": 2,
-        "starts_at": "2026-09-08T17:00:00+00:00",
-        "expires_at": "2026-09-20T06:59:00+00:00",
+        "starts_at": "2026-09-04T17:00:00+00:00",
+        "expires_at": "2026-09-08T06:59:00+00:00",
         "features": [
           15
         ],
         "application": {
-          "link": "https://www.ForgottenIslandTickets.com",
+          "link": "https://www.forgottenislandmovie.ca/",
           "id": "545364944258990091",
           "name": "Discord"
         },
@@ -1337,32 +1110,32 @@
         },
         "messages": {
           "quest_name": "FORGOTTEN ISLAND",
-          "game_title": "IN THEATERS SEPTEMBER 25",
+          "game_title": "IN THEATRES SEPTEMBER 25",
           "game_publisher": "Universal Pictures"
         },
         "task_config_v2": {
           "tasks": {
             "WATCH_VIDEO": {
               "type": "WATCH_VIDEO",
-              "target": 108,
+              "target": 29,
               "assets": {
                 "video": {
-                  "url": "quests/1544433774492655637/1545246710224388217_1080.mp4",
+                  "url": "quests/1544130689316691989/1544802104630059048_1080.mp4",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1544127680528781423/1544128206829916280.png"
+                  "thumbnail": "quests/1544130689316691989/1544422482608398336.png"
                 },
                 "video_low_res": {
-                  "url": "quests/1544433774492655637/1545246710224388217_720.mp4",
+                  "url": "quests/1544130689316691989/1544802104630059048_720.mp4",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1544127680528781423/1544128206829916280.png"
+                  "thumbnail": "quests/1544130689316691989/1544422482608398336.png"
                 },
                 "video_hls": {
-                  "url": "quests/1544433774492655637/1545246710224388217.m3u8",
+                  "url": "quests/1544130689316691989/1544802104630059048.m3u8",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1544127680528781423/1544128206829916280.png"
+                  "thumbnail": "quests/1544130689316691989/1544422482608398336.png"
                 }
               },
               "messages": {
@@ -1371,25 +1144,25 @@
             },
             "WATCH_VIDEO_ON_MOBILE": {
               "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 108,
+              "target": 29,
               "assets": {
                 "video": {
-                  "url": "quests/1544433774492655637/1546898991722143794_1080.mp4",
+                  "url": "quests/1544130689316691989/1544801991090372618_1080.mp4",
                   "width": 1080,
                   "height": 1920,
-                  "thumbnail": "quests/1544127680528781423/1544128206829916280.png"
+                  "thumbnail": "quests/1544130689316691989/1544422482608398336.png"
                 },
                 "video_low_res": {
-                  "url": "quests/1544433774492655637/1546898991722143794_720.mp4",
+                  "url": "quests/1544130689316691989/1544801991090372618_720.mp4",
                   "width": 1080,
                   "height": 1920,
-                  "thumbnail": "quests/1544127680528781423/1544128206829916280.png"
+                  "thumbnail": "quests/1544130689316691989/1544422482608398336.png"
                 },
                 "video_hls": {
-                  "url": "quests/1544433774492655637/1546898991722143794.m3u8",
+                  "url": "quests/1544130689316691989/1544801991090372618.m3u8",
                   "width": 1080,
                   "height": 1920,
-                  "thumbnail": "quests/1544127680528781423/1544128206829916280.png"
+                  "thumbnail": "quests/1544130689316691989/1544422482608398336.png"
                 }
               },
               "messages": {
@@ -1416,16 +1189,16 @@
               "premium_orb_quantity": 240
             }
           ],
-          "rewards_expire_at": "2026-10-20T06:59:00+00:00",
+          "rewards_expire_at": "2026-10-08T06:59:00+00:00",
           "platforms": [
             0
           ]
         },
         "share_policy": "shareable_everywhere",
         "cta_config": {
-          "link": "https://www.ForgottenIslandTickets.com",
-          "button_label": "Get Tickets",
-          "subtitle": "IN THEATERS SEPTEMBER 25"
+          "link": "https://www.forgottenislandmovie.ca/",
+          "button_label": "Learn More",
+          "subtitle": "IN THEATRES SEPTEMBER 25"
         }
       },
       "user_status": null,
@@ -1433,8 +1206,8 @@
       "ad_context": null,
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJNFl6UXluZERzZXNtTFI5WVBMY1o2aHB5eG9KU0hrR2VDck5lRWk1QUZpeHdqUExUT01BUTBzVVovUElUdXByamVZYk41U29DVTBTd0txN2xPVDczUFpHdXVCS2tmN1BRPSJ9",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJYnQ1MGFZY1R1ZmhUVEg5M2sxWU9saWtTV0crWG44d240NmsyR2Njd3hwaStEOGI0am1WYmZzNTRRRGZwai83MndvK1dMTTQvcWRuRFRJS2NnTjVTamVVbUFJWE9yUkF6aGF3ell0UjlWK281WWZkbzNOVU1JTVhVbDZSMThuWkpZQ0NXN3FSVUttakxNUWU3b1BBbzVad3hXOXk3NEtjZkdsZ2VxWlV1TEwxUk5obWVkIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLVDFNdFo3NkcxS0J4eDRaTjViVnQ0T0ppTUdqU1gvUy85Nmg3bjhicWpaS2swY0dPbEpGMHJQa2dxbjlDRDJobkNhblN6dEhnVzVJdG4zWGcyWURLeWllclR6d2U3dmdFPSJ9",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMU0ZJM0FMcFRSLzJYVUdWdVJGMFFKRncrWXVwS3NFcTV1c2JkNEdyMkpETlBwOWMyOGpTdUFyWU5lanN1SDN5aE1lT2dYZUJlVTcxalVMU2FSd0Rkd1A2NlVIMW5YMjBDM1pOQk1QYVIwd3ZaTGROK1NBMHgvZS8wQi90NHRqZzdRWnBCNU9JRC9rUGJ3RmtYOUhmbkhSanRHVzl1aWFZNDIxL2ZXKzMxNGpNOG9Tb3RuIn0="
     },
     {
       "id": "1539838784705798294",
@@ -1536,8 +1309,8 @@
       "ad_context": null,
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJNFl6UXluZERzZXNtTFI5WVBMY1o2aHB5eG9KU0hrR2VDck5lRWk1QUZpeHdqUExUT01BUTBzVVovUElUdXByamVZYk41U29DVTBTd0txN2xPVDczUFpHdXVCS2tmN1BRPSJ9",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJb0xoOERxdnFqdG9pUURGbjU0UHMwRmhBcDltbWp2NUYxVk1NVmR2NVcya1BmOC93cFd5RHU4dG1SNTkyMmNITUJJdTN3YXVrZkFlb2xDVnh0TnRPeVlIYnpLUlpJYnJHcmVwdEVzUncwRHF2bGE5cHFkRk5CMmNsNFBtejVhdjdsREt5QmlFS2xqSm5BdTZuNHVTWWo0bjZ1TUticGRmT3Q2UDYxY2pOald6Yy9hWUJaIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLVDFNdFo3NkcxS0J4eDRaTjViVnQ0T0ppTUdqU1gvUy85Nmg3bjhicWpaS2swY0dPbEpGMHJQa2dxbjlDRDJobkNhblN6dEhnVzVJdG4zWGcyWURLeWllclR6d2U3dmdFPSJ9",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLQkpMS09tQlNSN2tqem9sYVZORmxWbUZYa1BSRkdiTmtpUU9ubW1pTkp5S1RuNjlSeG83QWFNY21jMVcyMnY2Y1NCVkZlb3dJTFlxMTNBdHVhNS9kRVdwTUpURXJVT1k5RjFLNW9WUXN0MDdyM3dyRHBlaW9Jalp3OE1zdDlERm9maVJ0RFNRcmlmZWN4Rlk0TWxia3NsNk5xNW1PVzhqaCtLUVE1di9ZdGtENWg5RUNVIn0="
     },
     {
       "id": "1547680317869924507",
@@ -1667,8 +1440,8 @@
       "ad_context": null,
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJNFl6UXluZERzZXNtTFI5WVBMY1o2aHB5eG9KU0hrR2VDck5lRWk1QUZpeHdqUExUT01BUTBzVVovUElUdXByamVZYk41U29DVTBTd0txN2xPVDczUFpHdXVCS2tmN1BRPSJ9",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKMmZJQWJuN2FVcHFHT1VvT3M2MVZlRzhIc2hDNTVQSmpLczE0NmxsVGFDMmtNU1FXU2QvZmZ5SE9XS2J5b1FaYXFqd25BV0pkTk9tdkZBaHA4aC8vc01nNFB3VHNmZTBjcXFqYmhjRGErVmJ5WlUrUzFKUWRGL2tYRnpwMzZJYWgxdjU2bS91RVgvWWFHenFXRU5kaHVlVGViK0F6VFhmeEowcmt6elovWEVQRVJSQWZaIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLVDFNdFo3NkcxS0J4eDRaTjViVnQ0T0ppTUdqU1gvUy85Nmg3bjhicWpaS2swY0dPbEpGMHJQa2dxbjlDRDJobkNhblN6dEhnVzVJdG4zWGcyWURLeWllclR6d2U3dmdFPSJ9",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcENpNzRBbWV2RVhrRlpjRWJUWGd0TkVFY2hXRzM4Mjd3ZUpxRUVPaUVveHR1M2VuWHFzR2JRYisvb1VaYXVpSEhqQmZtQnd2blNtSXpCdnpIOWN0cGRidDNmK2prKytlMkhXQlNUdUZFbGFuRjNZa0xPQWloMWV3WVF6UllPVEtMNnVwS2hZTTdrZThEbzZjNHJWakNYRVB3eit0WTROTUxNMUtSTnJGNis4OENUNWdiIn0="
     },
     {
       "id": "1547678204398014494",
@@ -1754,8 +1527,8 @@
       "ad_context": null,
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJNFl6UXluZERzZXNtTFI5WVBMY1o2aHB5eG9KU0hrR2VDck5lRWk1QUZpeHdqUExUT01BUTBzVVovUElUdXByamVZYk41U29DVTBTd0txN2xPVDczUFpHdXVCS2tmN1BRPSJ9",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKV0dSR2tmR3NDaUxnZkFUL0pBREhtN1pTbXVndWtZYWwxalJhMHlhSUlPMjJPTFI0ZmNvVmpSd2NjckwvdmxlcGRYTlUwM0JQWUdZVWJ1UXRmZkZTSjJ0dGM2eExaMXdjSzh4anBKL1diV0NycHlab1ExNnJNTmIwcTd2aTZNUmdPdjE4Q3JnYmdHL0djTGFWalBjZnJrQlR3Y2ZoVGxpSVBUQ0JwaExnZjhNQUozenIzIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLVDFNdFo3NkcxS0J4eDRaTjViVnQ0T0ppTUdqU1gvUy85Nmg3bjhicWpaS2swY0dPbEpGMHJQa2dxbjlDRDJobkNhblN6dEhnVzVJdG4zWGcyWURLeWllclR6d2U3dmdFPSJ9",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJanR0S2hvTllnc3B6S1lZWFVRVUJKRlMrSndJZkFqaExINnlQNmxISGxqOUIvUDQ3eHFucVRPM0JsV1B0dnpLYWNkakx5emEyVEJVKzgrWXJydGhuWjVFRElYVUVXcUxxSTlRSm53alMwVGkzUEZ6VWVmeXRMSkZxeTNhby96ZmEyaFNtVzhpSzBYZHRYbkJZWE9TeEFrU1o2UjZHQmFRd1Rlc2JWNTVDUzZ4Sm1FcHM2In0="
     },
     {
       "id": "1546358702544658462",
@@ -1886,8 +1659,8 @@
       "ad_context": null,
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJNFl6UXluZERzZXNtTFI5WVBMY1o2aHB5eG9KU0hrR2VDck5lRWk1QUZpeHdqUExUT01BUTBzVVovUElUdXByamVZYk41U29DVTBTd0txN2xPVDczUFpHdXVCS2tmN1BRPSJ9",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJMkZXL0JjOEJOT3AzRmFBbkI5STVmbFZ5aW9SWmR2WndiRWNwR05CZmJOdWNYUnVrcFRhZTI0NFREcUp6cU1NblBSdFc1Z1ljbXo4ZUNmVWc5di9xMXNsaERlV3lCNUZMS0tDc2tRSHhISmhDZlRaT1E3eDhJWGhDN0Q0YUM2Nks3WmEweWE1SnFPMGQ0Nk4vQjVNSjBTK3ppMGo3Qmxic2RrZDF0bXZBVlZsU0lzT0xLIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLVDFNdFo3NkcxS0J4eDRaTjViVnQ0T0ppTUdqU1gvUy85Nmg3bjhicWpaS2swY0dPbEpGMHJQa2dxbjlDRDJobkNhblN6dEhnVzVJdG4zWGcyWURLeWllclR6d2U3dmdFPSJ9",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLU2hldTh1YjZSc1lualFaQ2MxSWtVRUxhWEo0SlYyRGpNZE95YzZkUjN2cjdjZ05PaGNQZXJjb3J2b3pDRXA0N1dOS3R0TlNkV3pJUGh5RUxhY0ZBcUN5UjY0QTl6UmNrc3A5KzFqVVhPNzlEQk9yQktPMmVVZnJnS3paQThoZHNETXB6ZnZINGVSellXT3BpTVNLZHdGVjh6N0hSdnRkb1FHUGlYcGlEQ2hSb2RnM0VvIn0="
     },
     {
       "id": "1534502540371038239",
@@ -1985,8 +1758,8 @@
       "ad_context": null,
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJNFl6UXluZERzZXNtTFI5WVBMY1o2aHB5eG9KU0hrR2VDck5lRWk1QUZpeHdqUExUT01BUTBzVVovUElUdXByamVZYk41U29DVTBTd0txN2xPVDczUFpHdXVCS2tmN1BRPSJ9",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMVURlU2xwODgrdG9OMmZqa0RJTU9xQ1NvZjlpOFFUZGhmRmovMGpZZjVURldBR1FuUkFPQjFqVmw0aklTbEJVWkV3RXZSTllhWFI0Q1JtSkxIejlaS09LQmZCSlY0S05nYmEyZEF2QzlYTUp6NFNyQ0NVUTZ3eTBjZ3ByNFoyelBsNVpFVEF6OE5BeElmTkdDTy9sQUVxMVN6b1o4ZU5tT1lISkpoc3o5UFZtZCtaTlF2In0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLVDFNdFo3NkcxS0J4eDRaTjViVnQ0T0ppTUdqU1gvUy85Nmg3bjhicWpaS2swY0dPbEpGMHJQa2dxbjlDRDJobkNhblN6dEhnVzVJdG4zWGcyWURLeWllclR6d2U3dmdFPSJ9",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJN1RBRW54eU0zbTl0aEJHYjVzZ3Z3WGlzUnF2MSs0OStZamtZRFh6NVVGeitBSHhyZ0l4MmtBTlRpY2gwMS9tOUo4RFVBb3lVbzRJRC9IdmZQQTU3ZWRoOXVMeEV1amRXbmFnY21GVkV6L0JWNGV4TFRxOG0rMGZHTFNZQThpeGdIdElVWWh1TDdqb0RxSlAxQnpDWmQ1SW1DbzhUZE52Z3I3K3JhaE1mSE1QQlVtTVVvIn0="
     },
     {
       "id": "1550143303079567520",
@@ -2075,8 +1848,8 @@
       "ad_context": null,
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJNFl6UXluZERzZXNtTFI5WVBMY1o2aHB5eG9KU0hrR2VDck5lRWk1QUZpeHdqUExUT01BUTBzVVovUElUdXByamVZYk41U29DVTBTd0txN2xPVDczUFpHdXVCS2tmN1BRPSJ9",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKdlZ3SlpZTDRSM2dRWnZ0L3IyeEMvd2djWUFYZ2t3SkJNTElOVUdaSG5VS0RFOE5iN3lESnFUeXJsemFqeGIzODA3Ri93ZlRKY2d3aFlKMHVnb0ZoSnpvcmFLWlFkUWwyMVJhajdOb1FTSXlOM2xwWG9zOE12VVdDN1hqa2JmbXVVa0kxdUdPUm1KQlpwWDhDcWN0SGM0QkFYRnFVbElBNVFwMkpsS0pxck1vZkhqdzVyIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLVDFNdFo3NkcxS0J4eDRaTjViVnQ0T0ppTUdqU1gvUy85Nmg3bjhicWpaS2swY0dPbEpGMHJQa2dxbjlDRDJobkNhblN6dEhnVzVJdG4zWGcyWURLeWllclR6d2U3dmdFPSJ9",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKVWVob0p2SzB6ekhWc09meHZwd1RDZlcyVmwyS1ViZ2hMU0lqQjVkOEVPVkJHUU12OEF0ekc0RW02N2pBWWZjdWtmbHN2SjBZaFlhaWQzNytWRnZubXBBeEtUQXlVREJwN1ZYMVY0K3hqUVJXREdlemJ6aHF3TjBSRzJIQmxaeVFwQU9hL3lVTHo5N3ZhOWhPV3BZV2F4Zk42U3hmcVl5dERmOVo4bCsyc3JwLzY0MFhoIn0="
     },
     {
       "id": "1539393111409823906",
@@ -2162,8 +1935,8 @@
       "ad_context": null,
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJNFl6UXluZERzZXNtTFI5WVBMY1o2aHB5eG9KU0hrR2VDck5lRWk1QUZpeHdqUExUT01BUTBzVVovUElUdXByamVZYk41U29DVTBTd0txN2xPVDczUFpHdXVCS2tmN1BRPSJ9",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJazFzekw4cS9LZUw3emdSQ0FIc1FPaTJDUkhWeWZueVZGRzMvT2h5eHBwRlJRVElmMWkxQTA4dWpXNUEwSmk3WlNXUGR3by9zK2FKeE01NGVmRndwUzZIODFkdjFYUUhTV25IOTRFYlMzK3JFcWZlRFRqSFU0MHRJejZSWjFzYk1Ca2Q5dHJERHd0My9XRVpLL1FxajlaaTdmcEtlRnh4M3pxTFZvaTZyazRDcXRtcHVhIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLVDFNdFo3NkcxS0J4eDRaTjViVnQ0T0ppTUdqU1gvUy85Nmg3bjhicWpaS2swY0dPbEpGMHJQa2dxbjlDRDJobkNhblN6dEhnVzVJdG4zWGcyWURLeWllclR6d2U3dmdFPSJ9",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKanJ2SmVBU2JHdnpXY3JYZWFxQUUwZlA1T1VFM21nMlo1cUorTk9obkhCOWNVNXpSV1VFaFRVQ1R3RVlkR21qQysra1p3SnVpZUtvenR1TE92VkFkRXlEeFVBRWxZb2Q2L01mY1dxeUJIV3Zsd3hWV1hnd0VUc0Z3NUh2czdUeUpCbVh6aWRvb09XOHZPekMwUHVkcGRPaFZxSDlSd0JzemNtMDJVYXRCWTl0bStDRW56In0="
     },
     {
       "id": "1549171029241233449",
@@ -2268,8 +2041,8 @@
       "ad_context": null,
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJNFl6UXluZERzZXNtTFI5WVBMY1o2aHB5eG9KU0hrR2VDck5lRWk1QUZpeHdqUExUT01BUTBzVVovUElUdXByamVZYk41U29DVTBTd0txN2xPVDczUFpHdXVCS2tmN1BRPSJ9",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMTVZsU3pGeHlZbXcrVUdScU1MNnNlNTNuNjBqbVhNaDJWbFhzcXhlRjdHZkU1Qko3OU9QQlBCNGVXQzBuVEJCZkw5U2dRYy9wUngzZ0g0LzdmRGxtbnMreVI3SUJXZ1Y3VGJqMHpKYUp0V3hoY3RseHl2QU1QOXQ4NTN3TCt0VDd1a0plTy9PTU1HTGZFdmh1a0JOR0Q3eEdMV3VNeG0yWGt1WHh5aFBlQ2x4aDhXaHFIIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLVDFNdFo3NkcxS0J4eDRaTjViVnQ0T0ppTUdqU1gvUy85Nmg3bjhicWpaS2swY0dPbEpGMHJQa2dxbjlDRDJobkNhblN6dEhnVzVJdG4zWGcyWURLeWllclR6d2U3dmdFPSJ9",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLa2NvTjBmVDNQUVFUWStuWTJ5bWQ2SVQwZXdlNU5zd2JlZi9nNmpyZjAyQnlsMG5GSkFUQ3FlTEdqb0Nkam52Q29pUlluZG1ucHFhVFJOb0RmQXpkMHRoc3ZselF6cnArQmlyVVBXRnA2djNCMkpLVDBlYS9JY3lzTFpRdkc5UTVheVJBRlZ0aGNkTDFLWlg1eVJZaVZwM0pjcFZndUZJVCtOWFI5VndrYnN1VVhQUnl0In0="
     },
     {
       "id": "1541642467881783337",
@@ -2365,8 +2138,8 @@
       "ad_context": null,
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJNFl6UXluZERzZXNtTFI5WVBMY1o2aHB5eG9KU0hrR2VDck5lRWk1QUZpeHdqUExUT01BUTBzVVovUElUdXByamVZYk41U29DVTBTd0txN2xPVDczUFpHdXVCS2tmN1BRPSJ9",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMdWFYQzl4allUNTNlaGg3SG1yWHdGejh1UVdFeFVNQWlXa2todlNUTUxleGVIVWNNYzArOTNtWTVqMEVnUVNoMGJ3SGpOeWdGVEFXYlZQUDViM2d4SnJTNHdIRVhhVDBKMVRERHgrTWdGUndaamQxQlJSUENDeHpZd2xEY0t5U3NaN01MRjJNTW1tUzREVGM1TzlQSGlEMnpDcEtMeHovZklsZ1dpL2VIR2RFc2lGMEloIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLVDFNdFo3NkcxS0J4eDRaTjViVnQ0T0ppTUdqU1gvUy85Nmg3bjhicWpaS2swY0dPbEpGMHJQa2dxbjlDRDJobkNhblN6dEhnVzVJdG4zWGcyWURLeWllclR6d2U3dmdFPSJ9",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKOGhJcS84a2xpSThFejZ5ZlVRUjJhZDA0UE9pb0M2MzZOQUl4L1lKcmttYk0rT1VVUlYvMkwweW1IR2JlejhEcmYreEdKNHNaT1AwZ1NLQ0RuV3d1VDZJa2p2amZHT092MStMRWgrWExtbkRrNkFwYUtLOE02ZUxkRXh6Vng5WmVyYlo0aWZRck83UUpEcThBU3h4RllTU1pUUDJpcXc5cHd1aCtNdmhyaDIybGZDRlFVIn0="
     },
     {
       "id": "1545079125243600947",
@@ -2452,8 +2225,8 @@
       "ad_context": null,
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJNFl6UXluZERzZXNtTFI5WVBMY1o2aHB5eG9KU0hrR2VDck5lRWk1QUZpeHdqUExUT01BUTBzVVovUElUdXByamVZYk41U29DVTBTd0txN2xPVDczUFpHdXVCS2tmN1BRPSJ9",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKeDNUc3ZoOGxobzBOSlByMDRNVnhzTU0wNVRCSVFNWlV1K2ZXYnd2UGFVWU9STTg3MHp2NDUvSm5jQTBGRThUS1Y2NHpmVEJTblBmMmE1Rnk4cVFMTi8xWFFzVjZTMi9YR0VRRUtoM09laVpwUFhsZlpLZGJ5bUluSTJBZWFnSDZGS0wwNjVIeTJTazdqUUNodnpxWmhGcFNXd1RMNWtjMlNzZFBQSDJFbSt1aTB1Z1BhIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLVDFNdFo3NkcxS0J4eDRaTjViVnQ0T0ppTUdqU1gvUy85Nmg3bjhicWpaS2swY0dPbEpGMHJQa2dxbjlDRDJobkNhblN6dEhnVzVJdG4zWGcyWURLeWllclR6d2U3dmdFPSJ9",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJK211OFZ2aDExUnFkZHRHZDR1L25JV0M1VlJZVHpLVXo0aC9rblhGRFJkdVRtb3Y1L3UrRmZiYkFjUjZvVHNRQSt0NG5zZGQ1Wm9YSDhRdWJQYzJHMXZOQVpoVjlwTE5RcHVvL3p3V28xa3FSZks5WFZGM1hPdThjZDByUFZRZTF0aFJDUUlzTU1VcmZ4amJSOVJiYnFWK3BFM3RCNUNrcHJrSmtWTno1TlB2NWptbjhqIn0="
     },
     {
       "id": "1547905303356383283",
@@ -2587,8 +2360,8 @@
       "ad_context": null,
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJNFl6UXluZERzZXNtTFI5WVBMY1o2aHB5eG9KU0hrR2VDck5lRWk1QUZpeHdqUExUT01BUTBzVVovUElUdXByamVZYk41U29DVTBTd0txN2xPVDczUFpHdXVCS2tmN1BRPSJ9",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLSFhnTm9QZ1Z0c3c2Q3ZFNG9NY0tGV01QV3paT3d5TGg3NXVIRm5ob2tjamVBSFh3dGo0MWJYM3RDcHlzREExblUxMU9aY3F3Q3VXQUJSTE5lTmVibmVsSVBpR01HZm5qTk9SWVc5d3lYbUpDSjJRUTU3eWZUNTZISVdDSDFJVEpCbVRlRmxOM0lPcENzL2NOWTNOd2UzRFFmTiswdVFqQlBoTHFxVUZyQjk5QzcyZGErIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLVDFNdFo3NkcxS0J4eDRaTjViVnQ0T0ppTUdqU1gvUy85Nmg3bjhicWpaS2swY0dPbEpGMHJQa2dxbjlDRDJobkNhblN6dEhnVzVJdG4zWGcyWURLeWllclR6d2U3dmdFPSJ9",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLMlNVcXNMMWQzUEpZSkE2WEY5L0wwWWpiSFNsdml2enVhVzN0cm81Q2cwWWdOUjU2Wmp2VUw3czVkNlJ2bkp0UmVvVDBzSThwSnFjTEM5dUtRbnJFWUNsUWZxTGQvRHJWUWJxYWpKYzF4ZmtoaHpQTW9ad05QNDBvcGVMNzR1Q0tGWXJUcWIvSE94QTYyL2YySW03YU5WeXY0YlJ6dktPdUVVRG9YOW1vZlk4WDlqeEZIIn0="
     },
     {
       "id": "1545515895353385011",
@@ -2674,8 +2447,8 @@
       "ad_context": null,
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJNFl6UXluZERzZXNtTFI5WVBMY1o2aHB5eG9KU0hrR2VDck5lRWk1QUZpeHdqUExUT01BUTBzVVovUElUdXByamVZYk41U29DVTBTd0txN2xPVDczUFpHdXVCS2tmN1BRPSJ9",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMbW1sYmMyOU9pK0NGdXVybDdCUHlWQVRZNnVnTG5xcXhhK1Y5bnRaanNBVm9tTEl5VVNndkh6N1UzSnRvMnNhTHAxRUxMenVRNHp1M1kzd2lMTm1jNHliMXBEcU1pZi9sSVNPcmZXZStsNjFyYThSYmpHN05zaCtzZng0Y0RWUlhjNlcxWWF1SXBxQ2ZZYmxROGo1SUgzZVM0VWw5SDVrK2crbXliNFVaamVteEJ3a0V0In0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLVDFNdFo3NkcxS0J4eDRaTjViVnQ0T0ppTUdqU1gvUy85Nmg3bjhicWpaS2swY0dPbEpGMHJQa2dxbjlDRDJobkNhblN6dEhnVzVJdG4zWGcyWURLeWllclR6d2U3dmdFPSJ9",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKaitUamt4NXVkcUVWTlk4aGUzdmkrNUp6L0NqU2hnODNUaGVLSTlGUlR0d0dMY2pQMU5nWGxKaVV1MFpOQVhTNjlZcFE5Z2JPNG8xN2V6eFRxRFZTbjNkUThaZkZPUDBybi9SRUNNelNLcEN0a2oybHRKaDlyaVlKRGo5T0JQbCtMSFVtQk5pWGw1RUEvckRwdTQ3K0tlenEvVVlzTWJ4eGprbG1KTzdLM04wN0d4YUpSIn0="
     },
     {
       "id": "1540476174520557620",
@@ -2761,69 +2534,69 @@
       "ad_context": null,
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJNFl6UXluZERzZXNtTFI5WVBMY1o2aHB5eG9KU0hrR2VDck5lRWk1QUZpeHdqUExUT01BUTBzVVovUElUdXByamVZYk41U29DVTBTd0txN2xPVDczUFpHdXVCS2tmN1BRPSJ9",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMa3gvWk5GK3g3akEyTGFuYW1CanVROUlxaXduS2tpK1BYcmVOcktVSDQ0UkF5WHJMQUF1Vmk3UjZjbzRRVm5oUUFHbVJOQTVnT0E2dDBEeHNmOXRRUGVjc3dJMk5Jc1VQbi91MWV1T3huODVNbmROTC9BOGJqVUp6UytEZ0UvUGxqaWR0LzVGR2xFaFlIMjVJdThCMmt4cVlra1VXQzBVNDRqNzdOb1FWZVhIQ2tUaEcrIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLVDFNdFo3NkcxS0J4eDRaTjViVnQ0T0ppTUdqU1gvUy85Nmg3bjhicWpaS2swY0dPbEpGMHJQa2dxbjlDRDJobkNhblN6dEhnVzVJdG4zWGcyWURLeWllclR6d2U3dmdFPSJ9",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMVHdsUGxQUVEyNU9GeHZJTVo4TWlPRzNudVAzVEtzVk1EMmVFVzJ0WkxRU1k3WWdVQ0hnd3FGWkViKzVOdFJWR0dQUVJ3MzdlVmxmbXQvRitGUkhPZVJENUxkNEhOUDJaZjMzWjNQRjRFT29wSkt1RnI5RmhkTEM1SWtCUXlIMHV3N2MvbEFZRUc3UEkwakl1Sjh5TU9SbmI2Y3hkby8rT0dmUVdVbFZJYmF5dHJ5bThsIn0="
     },
     {
-      "id": "1538813720396955708",
+      "id": "1544804322213232822",
       "config": {
-        "id": "1538813720396955708",
+        "id": "1544804322213232822",
         "config_version": 2,
-        "starts_at": "2026-08-17T17:00:00+00:00",
-        "expires_at": "2026-09-03T16:30:00+00:00",
+        "starts_at": "2026-09-08T17:00:00+00:00",
+        "expires_at": "2026-09-20T06:59:00+00:00",
         "features": [
           15
         ],
         "application": {
-          "link": "https://survey.namefn.com/index.html",
+          "link": "https://www.forgottenislandmovie.ca/",
           "id": "545364944258990091",
           "name": "Discord"
         },
         "assets": {
-          "hero": "quests/1538813720396955708/1544006773319405718.jpg",
-          "hero_video": "quests/1538813720396955708/1544006858027835542_720.mp4",
-          "quest_bar_hero_blurhash": "jxgKDIIHeWZ5hIlziXoJdadAdw==",
-          "quest_bar_hero": "quests/1538813720396955708/1544006588543672330.jpg",
-          "quest_bar_hero_video": "quests/1538813720396955708/1544006655124054076_720.mp4",
+          "hero": "quests/1544127680528781423/1544128241223209070.jpg",
+          "hero_video": "quests/1544127680528781423/1544129613662396447.mp4",
+          "quest_bar_hero_blurhash": "X3UFRIYJW4iGe4iFZooIelTICA==",
+          "quest_bar_hero": "quests/1544127680528781423/1544128277310996571.jpg",
+          "quest_bar_hero_video": "quests/1544127680528781423/1544129613662396447.mp4",
           "game_tile": "PLACEHOLDER",
           "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1538813720396955708/1538814086651977768.png",
-          "game_tile_dark": "quests/1538813720396955708/1538814086651977768.png",
-          "logotype_light": "quests/1538813720396955708/1538814091848720426.png",
-          "logotype_dark": "quests/1538813720396955708/1538814086828265492.png"
+          "game_tile_light": "quests/1544127680528781423/1544128135652573225.png",
+          "game_tile_dark": "quests/1544127680528781423/1544128135652573225.png",
+          "logotype_light": "quests/1544127680528781423/1544128182242902096.png",
+          "logotype_dark": "quests/1544127680528781423/1544128182242902096.png"
         },
         "colors": {
           "primary": "#4752C4",
           "secondary": "#000000"
         },
         "messages": {
-          "quest_name": "Confidential Project",
-          "game_title": "The Weavers",
-          "game_publisher": "Confidential Project"
+          "quest_name": "FORGOTTEN ISLAND",
+          "game_title": "IN THEATRES SEPTEMBER 25",
+          "game_publisher": "Universal Pictures"
         },
         "task_config_v2": {
           "tasks": {
             "WATCH_VIDEO": {
               "type": "WATCH_VIDEO",
-              "target": 29,
+              "target": 108,
               "assets": {
                 "video": {
-                  "url": "quests/1538813720396955708/1544007338543943730_1080.mp4",
+                  "url": "quests/1544804322213232822/1546898800369606748_1080.mp4",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1538813720396955708/1544020721850785953.png"
+                  "thumbnail": "quests/1544127680528781423/1544128206829916280.png"
                 },
                 "video_low_res": {
-                  "url": "quests/1538813720396955708/1544007338543943730_720.mp4",
+                  "url": "quests/1544804322213232822/1546898800369606748_720.mp4",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1538813720396955708/1544020721850785953.png"
+                  "thumbnail": "quests/1544127680528781423/1544128206829916280.png"
                 },
                 "video_hls": {
-                  "url": "quests/1538813720396955708/1544007338543943730.m3u8",
+                  "url": "quests/1544804322213232822/1546898800369606748.m3u8",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1538813720396955708/1544020721850785953.png"
+                  "thumbnail": "quests/1544127680528781423/1544128206829916280.png"
                 }
               },
               "messages": {
@@ -2832,25 +2605,25 @@
             },
             "WATCH_VIDEO_ON_MOBILE": {
               "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 29,
+              "target": 108,
               "assets": {
                 "video": {
-                  "url": "quests/1538813720396955708/1544007338543943730_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1538813720396955708/1544020721850785953.png"
+                  "url": "quests/1544804322213232822/1546898800554152056_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1544127680528781423/1544128206829916280.png"
                 },
                 "video_low_res": {
-                  "url": "quests/1538813720396955708/1544007338543943730_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1538813720396955708/1544020721850785953.png"
+                  "url": "quests/1544804322213232822/1546898800554152056_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1544127680528781423/1544128206829916280.png"
                 },
                 "video_hls": {
-                  "url": "quests/1538813720396955708/1544007338543943730.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1538813720396955708/1544020721850785953.png"
+                  "url": "quests/1544804322213232822/1546898800554152056.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1544127680528781423/1544128206829916280.png"
                 }
               },
               "messages": {
@@ -2877,15 +2650,16 @@
               "premium_orb_quantity": 240
             }
           ],
-          "rewards_expire_at": "2026-10-03T16:30:00+00:00",
+          "rewards_expire_at": "2026-10-20T06:59:00+00:00",
           "platforms": [
             0
           ]
         },
         "share_policy": "shareable_everywhere",
         "cta_config": {
-          "link": "https://survey.namefn.com/index.html",
-          "button_label": "Get Early Access"
+          "link": "https://www.forgottenislandmovie.ca/",
+          "button_label": "Get Tickets",
+          "subtitle": "IN THEATRES SEPTEMBER 25"
         }
       },
       "user_status": null,
@@ -2893,141 +2667,8 @@
       "ad_context": null,
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJNFl6UXluZERzZXNtTFI5WVBMY1o2aHB5eG9KU0hrR2VDck5lRWk1QUZpeHdqUExUT01BUTBzVVovUElUdXByamVZYk41U29DVTBTd0txN2xPVDczUFpHdXVCS2tmN1BRPSJ9",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMTUNrZ3hjamtMaHE1TmNKbW1PM0h2SzV2U01MLzk3dzU1eGp1b1pYL0J1NmJZNEZjMzU4MUhqWUxTQ3IrTWxSTmN5TXc3eEVobDZhMTFVOUdOa0NlNnpTZkZYZFhRdllRRWVrS3FmbExreGdDOXZJemg5dERZaEs5Vi9MTGlNa040bUxvT0RpZHhSRllNM1hQUG5PNU9kME5xMW1tY0FoQS84eFNFR1B1TDZJUjdqZXRFIn0="
-    },
-    {
-      "id": "1539783833002577981",
-      "config": {
-        "id": "1539783833002577981",
-        "config_version": 2,
-        "starts_at": "2026-08-28T17:00:00+00:00",
-        "expires_at": "2026-09-11T00:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://2kgam.es/3RuZ5v9",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1536795790717091970/1539020923624095875.jpg",
-          "hero_video": "quests/1539783833002577981/1542685937547345930.mp4",
-          "quest_bar_hero_blurhash": "T7kGFIp0dqUEiHmUbnPJQIoNtA==",
-          "quest_bar_hero": "quests/1536795790717091970/1539020923607457952.jpg",
-          "quest_bar_hero_video": "quests/1539783833002577981/1542685937547345930.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1536795790717091970/1536796252459638845.jpg",
-          "game_tile_dark": "quests/1536795790717091970/1536796252459638845.jpg",
-          "logotype_light": "quests/1536795790717091970/1536796236164894801.png",
-          "logotype_dark": "quests/1536795790717091970/1536796203235409980.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "NBA 2K27 All Day I Dream About Ball",
-          "game_title": "NBA 2K27",
-          "game_publisher": "NBA 2K27"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 72,
-              "assets": {
-                "video": {
-                  "url": "quests/1539783833002577981/1545212589816942592_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1539783833002577981/1545212589473140776.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1539783833002577981/1545212589816942592_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1539783833002577981/1545212589473140776.png"
-                },
-                "video_hls": {
-                  "url": "quests/1539783833002577981/1545212589816942592.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1539783833002577981/1545212589473140776.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 72,
-              "assets": {
-                "video": {
-                  "url": "quests/1539783833002577981/1545212589816942592_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1539783833002577981/1545212589473140776.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1539783833002577981/1545212589816942592_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1539783833002577981/1545212589473140776.png"
-                },
-                "video_hls": {
-                  "url": "quests/1539783833002577981/1545212589816942592.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1539783833002577981/1545212589473140776.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": 240
-            }
-          ],
-          "rewards_expire_at": "2026-10-11T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://2kgam.es/3RuZ5v9",
-          "button_label": "Buy Now",
-          "subtitle": "Ball Over Everything! NBA 2K27 Available NOW"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "ad_context": null,
-      "preview": false,
-      "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJNFl6UXluZERzZXNtTFI5WVBMY1o2aHB5eG9KU0hrR2VDck5lRWk1QUZpeHdqUExUT01BUTBzVVovUElUdXByamVZYk41U29DVTBTd0txN2xPVDczUFpHdXVCS2tmN1BRPSJ9",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMQVBrZWhZcmloUTBEWUVaWFdkNEQvRnU5YWVmNGRXN0h0VzVpUlJRaWVpODhqZmNscU9SNDVsbWMvVnNWNFZSZTJ6bk9CQ2NOZTFoNmxyUldEdnpXMFBVeUt5aFhhZWxUVTVtZzd3TlBkbW8rTDFBVEx6dWo3ekZ2NzkyaXhNR2xNQXA2UXhGaFJNVUw0QTJ3bHJuVVFmL2g5bFVWV1ppa3NGYlpBT0NNQ0FCd0xRRnZYIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLVDFNdFo3NkcxS0J4eDRaTjViVnQ0T0ppTUdqU1gvUy85Nmg3bjhicWpaS2swY0dPbEpGMHJQa2dxbjlDRDJobkNhblN6dEhnVzVJdG4zWGcyWURLeWllclR6d2U3dmdFPSJ9",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJakFpTTVqbzhmY09SUWJkcnFVRy9xb084VXpCejJuZzFuQ3k0ZXNWSFJnTldLbVhvVFlLRzhlWWRVVW9sS3JsYW9TNkV1WFZDaFFTdlU4bHlrS2VJOGJmQ215OVZnTXpKR2xsSHVPTjRTbW16TmdEZVFCc1pzQ2dyUThWejB3V0pxVkZkVHp1RFVvN3pPSkcraU5zVGZSRXY5NHhNT2FnT3RUZHlvWElRU1RLbEZGY1FSIn0="
     },
     {
       "id": "1544639617083510845",
@@ -3161,8 +2802,8 @@
       "ad_context": null,
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJNFl6UXluZERzZXNtTFI5WVBMY1o2aHB5eG9KU0hrR2VDck5lRWk1QUZpeHdqUExUT01BUTBzVVovUElUdXByamVZYk41U29DVTBTd0txN2xPVDczUFpHdXVCS2tmN1BRPSJ9",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKRkVPWFJRclBCaVh4akN4d1N3NGxGYzVKR1RVS2UreFNNNmovRit4SDdkYU9XNURpRDhobjltcHQ5elJkODJSK2JuMUF6UTJMUFU4UTEzTDkwSldhMGpzM1VLZUV0SHpPRHA4UEU3cTgyakpPOVZwWmJDT0d4WmMwNExseXpTV2JuTitBY2lGcWsxVDA4bUU2STA5UDVOTzdVVzNlU2o5b2NzdVBlbG1nTE5EcnhVQnJRIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLVDFNdFo3NkcxS0J4eDRaTjViVnQ0T0ppTUdqU1gvUy85Nmg3bjhicWpaS2swY0dPbEpGMHJQa2dxbjlDRDJobkNhblN6dEhnVzVJdG4zWGcyWURLeWllclR6d2U3dmdFPSJ9",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLOGtXLzJiQ01aMWVUV3VPOENmelV2aW1RR2sxTGpmVEliOC9JbXg1cktXcHJPZE9UUjNYbGNFbXdFemhMckxtdDBwQ3B5NENhdFJvMWtFS1FSUWRBWTBUUmFrWmhqYnlkVTJTV2pGbkh2c1FzYlhXaDIycGQwSkdjWWtoTlNDNlFJUUkrb29ybStnK1E0cTFHd0RUL2I3cjRiR3FSTW5OeEhBZ0E2Q0FzaVJFMjVtOVVHIn0="
     },
     {
       "id": "1544503579912572989",
@@ -3294,8 +2935,141 @@
       "ad_context": null,
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJNFl6UXluZERzZXNtTFI5WVBMY1o2aHB5eG9KU0hrR2VDck5lRWk1QUZpeHdqUExUT01BUTBzVVovUElUdXByamVZYk41U29DVTBTd0txN2xPVDczUFpHdXVCS2tmN1BRPSJ9",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKK3l1ZlQvcm9xWTc1VjVtbmtYcnZsMEprVGExSThNNHRkeGtLS1FJanZKajh6Z1E2UEtnanBjU1dTMm00V1VlT252dnJMN3lvRjVielJTYklMS29SOXlPMWgvZjBUV2Q3SllCWENFbFM4MDlCVTNETEY2bkJ2NFkrOFR1Zy95STFWNGJDUjJhTHZ6ZWtPMm9QRDRIRC84a24ways1R2xSS0R6a1lUUHRMWEswMDY2SXU4In0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLVDFNdFo3NkcxS0J4eDRaTjViVnQ0T0ppTUdqU1gvUy85Nmg3bjhicWpaS2swY0dPbEpGMHJQa2dxbjlDRDJobkNhblN6dEhnVzVJdG4zWGcyWURLeWllclR6d2U3dmdFPSJ9",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLTjVoUnBaYm9DWFVjTSs0S2c2cmwzSTVCa2x1UkVoemZmMkFrS01RaEd4ODJXZm9QU1pHVU93am1uK3h2NnlMYk00aFNQc2RlWHRiWjhxWUZUTmwrdWhxY2VQTUpVSkI5dFlRMHluWWlOR1lvblRZYXV5UjJkWTB1Y3N4bXBkTlpDUjN1alZHUis5N2gwRVFyS3cyQUhJdDhxRG5iZHhKWk5LSHZOSk11SUJJazVFN0VFIn0="
+    },
+    {
+      "id": "1539783833002577981",
+      "config": {
+        "id": "1539783833002577981",
+        "config_version": 2,
+        "starts_at": "2026-08-28T17:00:00+00:00",
+        "expires_at": "2026-09-11T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://2kgam.es/3RuZ5v9",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1536795790717091970/1539020923624095875.jpg",
+          "hero_video": "quests/1539783833002577981/1542685937547345930.mp4",
+          "quest_bar_hero_blurhash": "T7kGFIp0dqUEiHmUbnPJQIoNtA==",
+          "quest_bar_hero": "quests/1536795790717091970/1539020923607457952.jpg",
+          "quest_bar_hero_video": "quests/1539783833002577981/1542685937547345930.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1536795790717091970/1536796252459638845.jpg",
+          "game_tile_dark": "quests/1536795790717091970/1536796252459638845.jpg",
+          "logotype_light": "quests/1536795790717091970/1536796236164894801.png",
+          "logotype_dark": "quests/1536795790717091970/1536796203235409980.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "NBA 2K27 All Day I Dream About Ball",
+          "game_title": "NBA 2K27",
+          "game_publisher": "NBA 2K27"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 72,
+              "assets": {
+                "video": {
+                  "url": "quests/1539783833002577981/1545212589816942592_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1539783833002577981/1545212589473140776.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1539783833002577981/1545212589816942592_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1539783833002577981/1545212589473140776.png"
+                },
+                "video_hls": {
+                  "url": "quests/1539783833002577981/1545212589816942592.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1539783833002577981/1545212589473140776.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 72,
+              "assets": {
+                "video": {
+                  "url": "quests/1539783833002577981/1545212589816942592_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1539783833002577981/1545212589473140776.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1539783833002577981/1545212589816942592_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1539783833002577981/1545212589473140776.png"
+                },
+                "video_hls": {
+                  "url": "quests/1539783833002577981/1545212589816942592.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1539783833002577981/1545212589473140776.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": 240
+            }
+          ],
+          "rewards_expire_at": "2026-10-11T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://2kgam.es/3RuZ5v9",
+          "button_label": "Buy Now",
+          "subtitle": "Ball Over Everything! NBA 2K27 Available NOW"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "ad_context": null,
+      "preview": false,
+      "traffic_metadata_raw": "EAIYAQ==",
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLVDFNdFo3NkcxS0J4eDRaTjViVnQ0T0ppTUdqU1gvUy85Nmg3bjhicWpaS2swY0dPbEpGMHJQa2dxbjlDRDJobkNhblN6dEhnVzVJdG4zWGcyWURLeWllclR6d2U3dmdFPSJ9",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKUm5kR0pDd1I5bStBcnZmcjhaY29UNXA3Tjkyc3NnVkxHNVRxblY2cFB4Y3Y0cHExMFgzTFlkOUs2KzAxRHd3UGpobDIzcXFDZDRlRk9sbTBRTFNNZ09vaHd5aUxpUWU4dXdFTmQzTmJITEx1S0tHeE1wbnpHZWs4dnpMSEtJU2x2Sk94dWl1YkpFS2tycjBUTjBXSTJZcDdDL0k1YzZIa3Z3VjJqYlZxK090VFdhTTZCIn0="
     },
     {
       "id": "1536914989577797702",
@@ -3435,8 +3209,8 @@
       "ad_context": null,
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJNFl6UXluZERzZXNtTFI5WVBMY1o2aHB5eG9KU0hrR2VDck5lRWk1QUZpeHdqUExUT01BUTBzVVovUElUdXByamVZYk41U29DVTBTd0txN2xPVDczUFpHdXVCS2tmN1BRPSJ9",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKTWhvbkp4UUFWY2E4aXF4c2xwV2QzYXRaM0o3RjB4QmNZMGswMHo5c0gxMVNINkhjY3ZVU3A4VC9QSzY3UkRVU1R0cmYwNGQxY2s4QVB4ckVIVk5GNVg0YW5MWUFPaFFOV2taOG5KNGVvZGpTVW9xQjNSM0xpb0dXYXAxQVN0UUF6Q0xSNUMyd25ldGtpRXA1SDh2cEIrUFIxZXliNWhncDRNd0xWcWNiSzRjbFdXY0hlIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLVDFNdFo3NkcxS0J4eDRaTjViVnQ0T0ppTUdqU1gvUy85Nmg3bjhicWpaS2swY0dPbEpGMHJQa2dxbjlDRDJobkNhblN6dEhnVzVJdG4zWGcyWURLeWllclR6d2U3dmdFPSJ9",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJQWpkam10d2l5Sm96eW1QOHQzRDhvV1d4amptQ0dpenorUElPcm5zN0ZodWs4NDZKS0JwajJ4elR0RUxScitML1JoVTBTL05ERlVQbkpqVnlnOCtXUm5BTXJsb1NRMTJ0TkdvTS84MDRSZFVkcXZHWEptU1hrNmxDZkZ6amxERGUvcS95djFaMDF5VldqMjc1YmxIaGJJUzFwZ1FXQ0JsVkJGNXpjV1REOWpDQU9zSWRQIn0="
     },
     {
       "id": "1540105702612144199",
@@ -3570,8 +3344,8 @@
       "ad_context": null,
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJNFl6UXluZERzZXNtTFI5WVBMY1o2aHB5eG9KU0hrR2VDck5lRWk1QUZpeHdqUExUT01BUTBzVVovUElUdXByamVZYk41U29DVTBTd0txN2xPVDczUFpHdXVCS2tmN1BRPSJ9",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKRDlCcUxabmtOQWNCQ0xIRmZDSzh2V0ZBWXV4bGpXZlpkd2JWUGNnWEU3ZkphMDNxU3A0L1JGSE8wTmFuUW5ldXA4b0RpSHlMK2o0SmRrQUxwakNiZEo5c1k1ZzF1U09LUDRpa0lZNDRkWVlJU25mMC9aYllsS3RBUkR2ckZNM0JyZlRDWUc2RmZnK0xqMDVGVWt0OXA4ZVZuK3ZGMzhBMnZ3aERqV1hUcjBCWFpySEVQIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLVDFNdFo3NkcxS0J4eDRaTjViVnQ0T0ppTUdqU1gvUy85Nmg3bjhicWpaS2swY0dPbEpGMHJQa2dxbjlDRDJobkNhblN6dEhnVzVJdG4zWGcyWURLeWllclR6d2U3dmdFPSJ9",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLSkd5UmxMUWJwdnNYUXBDbWdKa3MvVUFaWjRNRHU5SENFdU5uZTlteHJsWHdna25Jb1dqZ2MrUXAxdjJuZjMzTVdvQzkxSlZlYUJTWk1IT2tKOE1IdE9kVDBKbEZtOUx1VzZqelZDM3doVHg3ZjhtOVBDSEVpeGRpNjYrTG5uZStRelFRa09qalBEeWNmWENNOTJyWnNMZkdubll3ZkF6bjl5emtiUTBsTkMvaG1OVU5yIn0="
     },
     {
       "id": "1542685543295361096",
@@ -3666,101 +3440,65 @@
       "ad_context": null,
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJNFl6UXluZERzZXNtTFI5WVBMY1o2aHB5eG9KU0hrR2VDck5lRWk1QUZpeHdqUExUT01BUTBzVVovUElUdXByamVZYk41U29DVTBTd0txN2xPVDczUFpHdXVCS2tmN1BRPSJ9",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKUnM0Ny9EeUl4czNuaWloTnlQL2hCYWluUkxLOFRQRjNyQ0VFVElxdlJ0YUZUd1lkVDFyYlVrb0NxeFR0clowUWZCMU1XNEVxWTJ6Kzh3RkxRZTE2WE14N3dDbDZCNXdsT2xEdWE0MlR0MnBhMkdHenZVaDk4MEdFUDk4NFlYN2dIbnBPODRydURVaEsyQ1YrQTdQNlNQU3lFMTdYMlhXVUNSZ1FHUzFUYUpPUC9QYUVhIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLVDFNdFo3NkcxS0J4eDRaTjViVnQ0T0ppTUdqU1gvUy85Nmg3bjhicWpaS2swY0dPbEpGMHJQa2dxbjlDRDJobkNhblN6dEhnVzVJdG4zWGcyWURLeWllclR6d2U3dmdFPSJ9",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLak1sekwzbENZTnhxazV5V1p6V3BLZFl4K3U3RXJLNlRTV2JUczR0TmlFWisranoxTmd2OE9zeEp2Nys0aDU5WnlDVk5tbE1wZnZjZ2l2SkF6Q0U1NmwveFNaUFQ0MFEvSkY5T3FFY0tsc0ZyWUhPMzA4MWJXaEdWL0ppRlJ0WlpDeUNjam4rTGl0cWdpYlViL01SUDFoN3NkbGY1SEZpaTlWdEMwQlREbjJ3aFVTQ3BJIn0="
     },
     {
-      "id": "1516889218218197062",
+      "id": "1539528344608182353",
       "config": {
-        "id": "1516889218218197062",
+        "id": "1539528344608182353",
         "config_version": 2,
-        "starts_at": "2026-08-31T17:00:00+00:00",
-        "expires_at": "2026-09-14T00:00:00+00:00",
+        "starts_at": "2026-08-22T04:00:00+00:00",
+        "expires_at": "2026-09-01T04:00:00+00:00",
         "features": [
           15
         ],
         "application": {
-          "link": "https://ad.doubleclick.net/ddm/trackclk/N2464377.3866164DISCORD.COM/B36109752.449925093;dc_trk_aid=643650569;dc_trk_cid=259235436;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=;dc_tdv=1",
-          "id": "545364944258990091",
-          "name": "Discord"
+          "link": "https://akendfield.gryphline.com/d27t/V1D4DPQ",
+          "id": "1461154307171811401",
+          "name": "Arknights: Endfield"
         },
         "assets": {
-          "hero": "quests/1516889218218197062/1519040480266944633.jpg",
-          "hero_video": "quests/1516889218218197062/1519040581756780574_720.mp4",
-          "quest_bar_hero_blurhash": "+gcKBIKJmJeFeHhvd206tA+8Jw==",
-          "quest_bar_hero": "quests/1516889218218197062/1519040394254483476.jpg",
-          "quest_bar_hero_video": "quests/1516889218218197062/1519040581756780574_720.mp4",
-          "game_tile": "1519040778234761498.png",
-          "logotype": "1519040777194438887.png",
-          "game_tile_light": "quests/1516889218218197062/1519040136363507792.png",
-          "game_tile_dark": "quests/1516889218218197062/1519040136392872017.png",
-          "logotype_light": "quests/1516889218218197062/1519040218550767757.png",
-          "logotype_dark": "quests/1516889218218197062/1519040218970194010.png"
+          "hero": "quests/1539528344608182353/1539533050344505386.jpg",
+          "hero_video": "quests/1539528344608182353/1539533090236399746_720.mp4",
+          "quest_bar_hero_blurhash": "XAcKCoAY+2WMrIaoA1OEoGg=",
+          "quest_bar_hero": "quests/1539528344608182353/1539533050344505386.jpg",
+          "quest_bar_hero_video": "quests/1539528344608182353/1539532929623924756_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1534395181334270063/1534399094129295400.jpg",
+          "game_tile_dark": "quests/1534395181334270063/1534399094129295400.jpg",
+          "logotype_light": "quests/1534395181334270063/1534399093877637151.png",
+          "logotype_dark": "quests/1534395181334270063/1534399093881704558.png"
         },
         "colors": {
           "primary": "#4752C4",
           "secondary": "#000000"
         },
         "messages": {
-          "quest_name": "Off to College",
-          "game_title": "Off to College",
-          "game_publisher": "Amazon"
+          "quest_name": "New Area: Yinglung Pass",
+          "game_title": "Arknights: Endfield",
+          "game_publisher": "GRYPHLINE"
         },
         "task_config_v2": {
           "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 14,
-              "assets": {
-                "video": {
-                  "url": "quests/1516889218218197062/1519040852528201728_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1516889218218197062/1519040394254483476.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1516889218218197062/1519040852528201728_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1516889218218197062/1519040394254483476.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1516889218218197062/1519040852528201728.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1516889218218197062/1519040394254483476.jpg"
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1461154307171811401"
                 }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
+              ]
             },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 14,
-              "assets": {
-                "video": {
-                  "url": "quests/1516889218218197062/1519040852972802078_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1516889218218197062/1519040394254483476.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1516889218218197062/1519040852972802078_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1516889218218197062/1519040394254483476.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1516889218218197062/1519040852972802078.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1516889218218197062/1519040394254483476.jpg"
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1461154307171811401"
                 }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
+              ]
             }
           },
           "join_operator": "or"
@@ -3772,26 +3510,25 @@
               "type": 4,
               "sku_id": "1287881739531976815",
               "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
                 "redemption_instructions_by_platform": {
                   "0": "PLACEHOLDER"
                 }
               },
-              "orb_quantity": 200,
-              "premium_orb_quantity": 240
+              "orb_quantity": 700,
+              "premium_orb_quantity": 840
             }
           ],
-          "rewards_expire_at": "2026-10-14T00:00:00+00:00",
+          "rewards_expire_at": "2026-10-01T04:00:00+00:00",
           "platforms": [
             0
           ]
         },
         "share_policy": "shareable_everywhere",
         "cta_config": {
-          "link": "https://ad.doubleclick.net/ddm/trackclk/N2464377.3866164DISCORD.COM/B36109752.449925093;dc_trk_aid=643650569;dc_trk_cid=259235436;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=;dc_tdv=1",
-          "button_label": "Shop Now",
-          "subtitle": "Save on Everything College"
+          "link": "https://akendfield.gryphline.com/d27t/V1D4DPQ",
+          "button_label": "Play Now"
         }
       },
       "user_status": null,
@@ -3799,141 +3536,8 @@
       "ad_context": null,
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJNFl6UXluZERzZXNtTFI5WVBMY1o2aHB5eG9KU0hrR2VDck5lRWk1QUZpeHdqUExUT01BUTBzVVovUElUdXByamVZYk41U29DVTBTd0txN2xPVDczUFpHdXVCS2tmN1BRPSJ9",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJSitnSE5nc1V3WmlMK0szaWFmblkxNkVzNG5ENUwrVzNOb0U1RHorNFNTVW56YzErZVowenRYZzNHMG4rNDVoRUY1UFN3U0k0VWhJSWhqMXQwdEZPckQ0TGkwc0cxZFZxMHgzbXNDUmV3VGpmb2lWU1Nwak5tRzJoMlFjRGFWVGlBZU5VZ2c0Nmt2eFNHdWw3enR2TnNxRWpXVUMrOFpDNDVvNE03UndsZmdCdmFTYWZRIn0="
-    },
-    {
-      "id": "1516888752536948938",
-      "config": {
-        "id": "1516888752536948938",
-        "config_version": 2,
-        "starts_at": "2026-08-06T17:00:00+00:00",
-        "expires_at": "2026-08-31T00:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://ad.doubleclick.net/ddm/trackclk/N2464377.3866164DISCORD.COM/B36109752.449398030;dc_trk_aid=643644683;dc_trk_cid=259242930;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=;dc_tdv=1",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1516888752536948938/1519016454844973176.jpg",
-          "hero_video": "quests/1516888752536948938/1519029398114664618_720.mp4",
-          "quest_bar_hero_blurhash": "+gcKBIKJmJeFeHhvd206tA+8Jw==",
-          "quest_bar_hero": "quests/1516888752536948938/1519016416584663211.jpg",
-          "quest_bar_hero_video": "quests/1516888752536948938/1519029398114664618_720.mp4",
-          "game_tile": "1519027985238196284.png",
-          "logotype": "1519027984181362698.png",
-          "game_tile_light": "quests/1516888752536948938/1519016215123595376.png",
-          "game_tile_dark": "quests/1516888752536948938/1519016256580223186.png",
-          "logotype_light": "quests/1516888752536948938/1519016301496893450.png",
-          "logotype_dark": "quests/1516888752536948938/1519016301413142721.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Save on Everything College",
-          "game_title": "Save on Everything College",
-          "game_publisher": "Amazon"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 14,
-              "assets": {
-                "video": {
-                  "url": "quests/1516888752536948938/1519030129278587040_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1516888752536948938/1519016416584663211.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1516888752536948938/1519030129278587040_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1516888752536948938/1519016416584663211.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1516888752536948938/1519030129278587040.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1516888752536948938/1519016416584663211.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 14,
-              "assets": {
-                "video": {
-                  "url": "quests/1516888752536948938/1537153447676346539_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1516888752536948938/1519016416584663211.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1516888752536948938/1537153447676346539_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1516888752536948938/1519016416584663211.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1516888752536948938/1537153447676346539.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1516888752536948938/1519016416584663211.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": 240
-            }
-          ],
-          "rewards_expire_at": "2026-09-30T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://ad.doubleclick.net/ddm/trackclk/N2464377.3866164DISCORD.COM/B36109752.449398030;dc_trk_aid=643644683;dc_trk_cid=259242930;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=;dc_tdv=1",
-          "button_label": "Shop Now",
-          "subtitle": "Save on Everything College"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "ad_context": null,
-      "preview": false,
-      "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJNFl6UXluZERzZXNtTFI5WVBMY1o2aHB5eG9KU0hrR2VDck5lRWk1QUZpeHdqUExUT01BUTBzVVovUElUdXByamVZYk41U29DVTBTd0txN2xPVDczUFpHdXVCS2tmN1BRPSJ9",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJMVcyV2Ird2dzRXNaSjErOCtHTGhmd0t3K0pPMk94YnF0aFpGZml6ell6UXdLREM4d09wZGZDTEFuUFovd3puNW9udVVvblFOb2Y0NzhESHE0ZDU1ZkVYbDFLWmp5cEZyUS9YTTFnMFpPZDRRZERHenpjS29vSmFiZzJLRllVRS9DNG1NUWQ5QUhQOVRobWcvM3ZHczNKY09TUExFL1dzZEtRZ3NWNmFQT3RQVU1IKy9SIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLVDFNdFo3NkcxS0J4eDRaTjViVnQ0T0ppTUdqU1gvUy85Nmg3bjhicWpaS2swY0dPbEpGMHJQa2dxbjlDRDJobkNhblN6dEhnVzVJdG4zWGcyWURLeWllclR6d2U3dmdFPSJ9",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMc2pVR2VGaVovRWdjdlFGWDVTN0RtQ2JmY1NaejhWRGNNTjVHS09QeUpLS3M4N1R5ajFadUIzUkY2ZjZtUGlXL0JXOERZTXBpempDQmdQRHRwNHEzWGNZTERsK3F1S0NFVzlHeXFKK2wxaG1NdVJLLzlKWUlESmtnbmpwNkFHNVNKcjNCQzU5RC9jZTludWtRRE4yTlJlVUNyYlpzOXd1RnhNenhvdnk0NUFXOTdGY1B4In0="
     },
     {
       "id": "1542696151122321490",
@@ -4035,8 +3639,8 @@
       "ad_context": null,
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJNFl6UXluZERzZXNtTFI5WVBMY1o2aHB5eG9KU0hrR2VDck5lRWk1QUZpeHdqUExUT01BUTBzVVovUElUdXByamVZYk41U29DVTBTd0txN2xPVDczUFpHdXVCS2tmN1BRPSJ9",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKVXRqR2dqZU9Ddm9xVGRKeUF6eXlwZmxCVnRDMEZwZUw3V2hIazJNVnloZUg0bXZTeWhydDJJMmE5dnNvcGJFQmk4Y0xwVDVZNlcwMFVVSW1nUitrOEt6R3RQZER4blRPSGVhN1BwNDRxVGdsdkhCajdsWGRyUjhhZElZM3oyY2hRcG5NdmU0cVhBWkFiZFBrTXQ3MnZrZ25BZHZWeUNMS2NIeUVUSjgvYjB2MUpaRjliIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLVDFNdFo3NkcxS0J4eDRaTjViVnQ0T0ppTUdqU1gvUy85Nmg3bjhicWpaS2swY0dPbEpGMHJQa2dxbjlDRDJobkNhblN6dEhnVzVJdG4zWGcyWURLeWllclR6d2U3dmdFPSJ9",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLbW85OFZ6dWQ2OUdka0RDSEpkamFGQXd6Zkg2bEVTYVJhcS84aEJWZFNpbkxUdnNWbU14S29MTjg3bEdpenJiblhWYkFLL0xGUTI0VmVvMThIa0VYVEg1WSsvT2Ixdk5rWTBIcDR6SEF0TVdJUFpvWURqeDVacDR4SE1MenhwVG4yWGNBTmU5VkNLMDR5Z09YQUtOQko3OXRtaWdhbjdNM2dSeVdCYlFRVmxreHc5UkcrIn0="
     },
     {
       "id": "1547274383226179668",
@@ -4166,8 +3770,8 @@
       "ad_context": null,
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJNFl6UXluZERzZXNtTFI5WVBMY1o2aHB5eG9KU0hrR2VDck5lRWk1QUZpeHdqUExUT01BUTBzVVovUElUdXByamVZYk41U29DVTBTd0txN2xPVDczUFpHdXVCS2tmN1BRPSJ9",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLVHJiNlVvVkV3eEV0TFNzbzNYSWtOdlVpd0hiOW9Kd05XaVZyVjZJd1c1Z1ZpcVYyRGc0cGYvTXdBK1hkdlJQN09XWUoxaVNxZ1daVjVsa0t6Z0NXSHlPNERQTGgzMFFNMHdrVWxVVk02N3JtMWViQjZ6RUlGV1BMOFlGOHA4SGYyUWhQb3k0VTB2SFVCdXlHc29VTEpzb0hRNXBBM3BZK1dYNW9WQXpOenhLR2FIQWJCIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLVDFNdFo3NkcxS0J4eDRaTjViVnQ0T0ppTUdqU1gvUy85Nmg3bjhicWpaS2swY0dPbEpGMHJQa2dxbjlDRDJobkNhblN6dEhnVzVJdG4zWGcyWURLeWllclR6d2U3dmdFPSJ9",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKa0ppdTBNVEdpSmhpUTk2OTgwbnIzRHpmRkp4d0FJL3JmQ3FWR1I5NXNhaWFXREwwaldsYW5DTjlrSWNSYWxDa3k4NTFzTDlxNG5pSXBLUk5Hc25XQWg2eGpFTmZtSzFHSDVmamRDWThLV1JDSWxQcU43Zmx5UW5LYWxXQVhBSVl3RlJtSjc1N3RrT0NzZTJpUm56cmN3VlNHTWE4azhyVzM5Ym9IWVdjVERYS0FNaXdMIn0="
     },
     {
       "id": "1545527302681661540",
@@ -4296,8 +3900,8 @@
       "ad_context": null,
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJNFl6UXluZERzZXNtTFI5WVBMY1o2aHB5eG9KU0hrR2VDck5lRWk1QUZpeHdqUExUT01BUTBzVVovUElUdXByamVZYk41U29DVTBTd0txN2xPVDczUFpHdXVCS2tmN1BRPSJ9",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJZUNTdUJJd1NEcUg5Z0dpcGx4T3R6MnNzeWdQaXg0SFZxZE9tY0VtQnJVejIySldLRENJejRUb1FVTDNNVkRXb05aeXZvNnBKWjl0b3djNG4yeEJ0K0FDMDNYMyszY1FjQklJakJ4NzRVSDkwUWFZMFFOUHc1dStiVnZSbW51ZkFxZjZzL3VsaHQ4WkJNMm12bU5pNEhzelpySGZFT25NR0t5TjBKYTFlUkM1MlNmU0NFIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLVDFNdFo3NkcxS0J4eDRaTjViVnQ0T0ppTUdqU1gvUy85Nmg3bjhicWpaS2swY0dPbEpGMHJQa2dxbjlDRDJobkNhblN6dEhnVzVJdG4zWGcyWURLeWllclR6d2U3dmdFPSJ9",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMUHNCQTBiSnBjV21WN1FYd2tYczdLNzN3MGd0bnpkNkt0bXZIZU5VRlZIUyt3YXFDVXRmSHZGMGk3UXNxOUpqQ3FBWTZrSUNXbGZDTHFTOVdGNmxnSXZ0TmVyQ2ZlTVhSMHBNQ3RnUWVmT25OSlgySXdUQXQzb05aU0hGVGIwbi9rbTZlRzZWWHlNQVdIQ20vU1I0U20vdVhYUUdXYUlpdExtVkZrZHpSL3BybUJsMXNpIn0="
     },
     {
       "id": "1539357001602302053",
@@ -4399,8 +4003,8 @@
       "ad_context": null,
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJNFl6UXluZERzZXNtTFI5WVBMY1o2aHB5eG9KU0hrR2VDck5lRWk1QUZpeHdqUExUT01BUTBzVVovUElUdXByamVZYk41U29DVTBTd0txN2xPVDczUFpHdXVCS2tmN1BRPSJ9",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLbUI0ZEdNcnhNSitwQVhoUC8zY2RsS0sxVklHSk1POUxaeldTMHZCY3lndCs4Q3hqdWZGRm80MHF5SUU2anY5UGpiT0NUZkdjaDAvZXQrakU0N2RFWWZGNW05UW54SnlUbERJWUlWYzREbzBGVmRzRlJHdXlGMmpPaFdrSS9QSVpzTVNGWUt1elNXYWdPR2RFMVJXak5zV0JxRCtXcmF1UzFmMVVaTTNuVnNHSURMbys4In0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLVDFNdFo3NkcxS0J4eDRaTjViVnQ0T0ppTUdqU1gvUy85Nmg3bjhicWpaS2swY0dPbEpGMHJQa2dxbjlDRDJobkNhblN6dEhnVzVJdG4zWGcyWURLeWllclR6d2U3dmdFPSJ9",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMaGtneUJyeEZaUUVpbEQzSmdlbEZmNUFMQm1EQUsxUFZwWitmZFNveTAvaHJGZThGTG5ISHRjQjZiM1hRQkc0aWh6MEUrT3FwZVBZdXFQYWJXM01qOERpYnJzOW03M2JFdERzeGdwY2xnQ1hDazVMUFpEdHB5UURjK0REQmMxc0tEV1pPSm9EdFpOamtXK3pCR1BjWmtTR0dHdUd5bmU3WXpqanVOVHJmUVh5QTNJZm9VIn0="
     },
     {
       "id": "1552026065491202149",
@@ -4486,8 +4090,8 @@
       "ad_context": null,
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJNFl6UXluZERzZXNtTFI5WVBMY1o2aHB5eG9KU0hrR2VDck5lRWk1QUZpeHdqUExUT01BUTBzVVovUElUdXByamVZYk41U29DVTBTd0txN2xPVDczUFpHdXVCS2tmN1BRPSJ9",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKd20xL3A4RnpRWVpKRXVvSzdicnV4WktsU253UTNGWHBuUTMyUkt3Z3ZlcUdMRzJhQ1pyOUgrOWxzMUVjN0dRMDBXRXQyUzFzdk41WVVjdWcwbTYwQy9DTklFNGZJMTZreks5dmdvOWRDbWFhOFJoTXJIT3BrN1JtU3RObU4raXdCUDZSUCtvVU83WTZNSkgrVGhzMFRMU3Vhc29OV3p5bWI0R2d3T1UzdE9oeVRLd0YrIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLVDFNdFo3NkcxS0J4eDRaTjViVnQ0T0ppTUdqU1gvUy85Nmg3bjhicWpaS2swY0dPbEpGMHJQa2dxbjlDRDJobkNhblN6dEhnVzVJdG4zWGcyWURLeWllclR6d2U3dmdFPSJ9",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJMjF0eUJxKzZPSXFVY1ByMmV4SUJPN1JsZEtFRkwxdWJ6dk45MkdjdG8rZFlXcytoNGV0aTF5VlowWENtQ2VTNDJqQ1hKOElKMEtoK0pDcWpLUlF4TnY2M3VKNU9lZ2I2aFBCUlkvS0pNZHcyN1hzQmZ2OENIOC9oOXlJNHJzV1p6bkZRZTFTVDJWclY5N2hwb2E0MXhpQlpaT2JNekRnb2lVeGVRRnNLV3VYZ1cvN0wzIn0="
     },
     {
       "id": "1550528900788912231",
@@ -4582,8 +4186,8 @@
       "ad_context": null,
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJNFl6UXluZERzZXNtTFI5WVBMY1o2aHB5eG9KU0hrR2VDck5lRWk1QUZpeHdqUExUT01BUTBzVVovUElUdXByamVZYk41U29DVTBTd0txN2xPVDczUFpHdXVCS2tmN1BRPSJ9",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKTHhBSElySkJScWlNcDJIRDIydXZuMzl6bGU3WDBIR0lma2pHZG5yaEV4V0RaWEFHdlc4bnFGdFJ4bWV6UlhibndyYzdrRWNSTVVNY1k3UlNhbzZ4eVNVMC9oQkZEaGRSZTliSDdENnBJTVhySHFUUHUrbURWb3VQV2xHT05TMkZjcTF4K3ZYQ09lQ2dKSFQvVjkrUHAxUFdvMVRUMkw3QUhLcURTY2VGYlhVaHlSSFpVIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLVDFNdFo3NkcxS0J4eDRaTjViVnQ0T0ppTUdqU1gvUy85Nmg3bjhicWpaS2swY0dPbEpGMHJQa2dxbjlDRDJobkNhblN6dEhnVzVJdG4zWGcyWURLeWllclR6d2U3dmdFPSJ9",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdUZHSTZaOFhpVjI4dlE3eWZkaXhVSFdDL0JwVmRaWFdzRkZqOXhueDl4aGVvUlJxbEtKRGFicXd4aVY4aWRSN1phVmRGL2paVzllSzNTdW9pVFMzay9qUUhDeVpoWXc3VmFJcVpINkxEMVJDSlI4d2tBS21yVUpyUlgwcUlBdmNEQWx3aURCVkFlSG5vZlArUzROYkdONGRESXk4N25mSnZOcXhrcFROd0lmZWdKUTk4In0="
     },
     {
       "id": "1533985343433474278",
@@ -4721,101 +4325,56 @@
       "ad_context": null,
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJNFl6UXluZERzZXNtTFI5WVBMY1o2aHB5eG9KU0hrR2VDck5lRWk1QUZpeHdqUExUT01BUTBzVVovUElUdXByamVZYk41U29DVTBTd0txN2xPVDczUFpHdXVCS2tmN1BRPSJ9",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKUDZ6T2lXYmx6cnlBMkc2R0NTZDVabWVhWHI2VVZhM0dCRlhLREptMVExcnEybHNzSkJ6aGZQZWpTek1QSkQvVUEwSjd5eVlOOE96OTJBR2V1RmNGeVJETFh1bmRBMHR4ZVd2Nk9SMUdoRFhXRFRJajJVRFREZnNOeDh4SU9YK0RkZlZ1aDlBay82MGdIYjNhWUtyMUV4WlVNRFI5SnNGQi8vSStzN1pQcDFhTEY3QU9RIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLVDFNdFo3NkcxS0J4eDRaTjViVnQ0T0ppTUdqU1gvUy85Nmg3bjhicWpaS2swY0dPbEpGMHJQa2dxbjlDRDJobkNhblN6dEhnVzVJdG4zWGcyWURLeWllclR6d2U3dmdFPSJ9",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdFBPY0Y4Vk9VY2RadVBPZUNOZm1jcXlqaG5YbmRud2t5alJBRlc2amdJNXp5VEd3TnJmUmozM1grd3FVOFpHbUs4WExhM2JjZytxbWFwRHZwcDJ6UVVzZTkwVHhzVWpHTVpYbDY0TTcxbmRkVXU5V2pqY0x1WlJnVzI4dmlqbk9DT2U1TG5sdHR0RW9zYW1aeFF4YzJQYVkzRnlzL2RQbmtDelR0allraGk1YitoN1N0In0="
     },
     {
-      "id": "1544127680528781423",
+      "id": "1549493465941942383",
       "config": {
-        "id": "1544127680528781423",
+        "id": "1549493465941942383",
         "config_version": 2,
-        "starts_at": "2026-09-04T17:00:00+00:00",
-        "expires_at": "2026-09-08T06:59:00+00:00",
+        "starts_at": "2026-09-19T17:00:00+00:00",
+        "expires_at": "2026-09-28T00:00:00+00:00",
         "features": [
           15
         ],
         "application": {
-          "link": "https://discord.gg/forgottenisland",
-          "id": "545364944258990091",
-          "name": "Discord"
+          "link": "https://www.roblox.com/spotlight/the-hunt-roblox-20?gsrbx=1",
+          "id": "363445589247131668",
+          "name": "Roblox"
         },
         "assets": {
-          "hero": "quests/1544127680528781423/1544128241223209070.jpg",
-          "hero_video": "quests/1544127680528781423/1544129613662396447.mp4",
-          "quest_bar_hero_blurhash": "X3UFRIYJW4iGe4iFZooIelTICA==",
-          "quest_bar_hero": "quests/1544127680528781423/1544128277310996571.jpg",
-          "quest_bar_hero_video": "quests/1544127680528781423/1544129613662396447.mp4",
+          "hero": "quests/1549493465941942383/1549494335261646999.jpg",
+          "hero_video": "quests/1549493465941942383/1550249604270923887_720.mp4",
+          "quest_bar_hero_blurhash": "aLUJHILdZ5VmjptviHY8WO9z9g==",
+          "quest_bar_hero": "quests/1549493465941942383/1549494231628779681.jpg",
+          "quest_bar_hero_video": "quests/1549493465941942383/1550249449530331207_720.mp4",
           "game_tile": "PLACEHOLDER",
           "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1544127680528781423/1544128135652573225.png",
-          "game_tile_dark": "quests/1544127680528781423/1544128135652573225.png",
-          "logotype_light": "quests/1544127680528781423/1544128182242902096.png",
-          "logotype_dark": "quests/1544127680528781423/1544128182242902096.png"
+          "game_tile_light": "quests/1549493465941942383/1549494713931923526.png",
+          "game_tile_dark": "quests/1549493465941942383/1549494713617490000.png",
+          "logotype_light": "quests/1549493465941942383/1550249575208587335.png",
+          "logotype_dark": "quests/1549493465941942383/1549494161764519998.png"
         },
         "colors": {
           "primary": "#4752C4",
           "secondary": "#000000"
         },
         "messages": {
-          "quest_name": "FORGOTTEN ISLAND",
-          "game_title": "IN THEATERS SEPTEMBER 25",
-          "game_publisher": "Universal Pictures"
+          "quest_name": "ROBLOX",
+          "game_title": "The Hunt: Roblox 20",
+          "game_publisher": "ROBLOX"
         },
         "task_config_v2": {
           "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1544127680528781423/1545224197574500372_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1544127680528781423/1544422321366896640.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1544127680528781423/1545224197574500372_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1544127680528781423/1544422321366896640.png"
-                },
-                "video_hls": {
-                  "url": "quests/1544127680528781423/1545224197574500372.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1544127680528781423/1544422321366896640.png"
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "363445589247131668"
                 }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1544127680528781423/1544390288716603514_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1544127680528781423/1544422321366896640.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1544127680528781423/1544390288716603514_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1544127680528781423/1544422321366896640.png"
-                },
-                "video_hls": {
-                  "url": "quests/1544127680528781423/1544390288716603514.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1544127680528781423/1544422321366896640.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
+              ]
             }
           },
           "join_operator": "or"
@@ -4824,29 +4383,30 @@
           "assignment_method": 1,
           "rewards": [
             {
-              "type": 4,
-              "sku_id": "1287881739531976815",
+              "type": 1,
+              "sku_id": "1549493465941942384",
+              "asset": "quests/1549493465941942383/1549500549714550944.png",
+              "asset_video": null,
               "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
+                "name": "Blurple 8-Bit Wings",
+                "name_with_article": "a Blurple 8-Bit Wings",
                 "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
+                  "0": "Redeem the code below by opening https://www.roblox.com/redeem. Enter your code and click 'Redeem' button. (Each code can only be redeemed once.)"
                 }
               },
-              "orb_quantity": 200,
-              "premium_orb_quantity": 240
+              "approximate_count": null,
+              "redemption_link": null
             }
           ],
-          "rewards_expire_at": "2026-10-08T06:59:00+00:00",
+          "rewards_expire_at": "2026-10-28T00:00:00+00:00",
           "platforms": [
             0
           ]
         },
         "share_policy": "shareable_everywhere",
         "cta_config": {
-          "link": "https://discord.gg/forgottenisland",
-          "button_label": "Join Server",
-          "subtitle": "IN THEATERS SEPTEMBER 25"
+          "link": "https://www.roblox.com/spotlight/the-hunt-roblox-20?gsrbx=1",
+          "button_label": "Play Now"
         }
       },
       "user_status": null,
@@ -4854,8 +4414,8 @@
       "ad_context": null,
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJNFl6UXluZERzZXNtTFI5WVBMY1o2aHB5eG9KU0hrR2VDck5lRWk1QUZpeHdqUExUT01BUTBzVVovUElUdXByamVZYk41U29DVTBTd0txN2xPVDczUFpHdXVCS2tmN1BRPSJ9",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJLzdlUmdRTXUxTkU5WDZPTzF2MHBqZGFib1pZaTN0UW1nbUtpeDFpa2NxWTNsSmdLVW1ubHdERVkwVlU5eEFuQnpJekVBV2tnVVc4QXBiSnZMaStkeGlUMmdocFB0cjFaTGpzajBkU0NqS0tSUlRuR01KTDFvcmN5Z1NKNWxMUHRLMXhwYVcvemIyTTY0NWxaRjRqT2hCWENoemV5M2cwMDhnelVaWXJQZzlYdGhrQ2xzIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLVDFNdFo3NkcxS0J4eDRaTjViVnQ0T0ppTUdqU1gvUy85Nmg3bjhicWpaS2swY0dPbEpGMHJQa2dxbjlDRDJobkNhblN6dEhnVzVJdG4zWGcyWURLeWllclR6d2U3dmdFPSJ9",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKWmJqRWpaUnIyS2E5YlpyS0ZqNmRScDcxTXppZGszV0UyZ3VITnpmdWlOd2FWVy9BQ2UrckgzeGtBbGNKWHlQVnZPVnZJcmJjRSt6aTlNYVdMaUhuYjBwUUt5WERNMGpHRTFpdm1vck0wZVd0Vm5MdktNamFhODhxZ21GRnZYR29RUk9WT1BtTWZPV3NHNGMzYmRtYS9DQU9mbVU4VW12eTZ3UjhSV3hWQVNxWHVrWHpZIn0="
     },
     {
       "id": "1539100692541743216",
@@ -4950,97 +4510,8 @@
       "ad_context": null,
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJNFl6UXluZERzZXNtTFI5WVBMY1o2aHB5eG9KU0hrR2VDck5lRWk1QUZpeHdqUExUT01BUTBzVVovUElUdXByamVZYk41U29DVTBTd0txN2xPVDczUFpHdXVCS2tmN1BRPSJ9",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKOGdNMTR5d1NveUt0ZWRldXpYT1ZsaGxqOThOV1hUUVNFeWJDWmE1aDNKTFpFeG0xblBUY0dOKzdpeDF1My9OSXRwL3hnUWpLZG8xbituVE1LbCt0dTFZenpBSTRrMHZxYVdGVnZ2aVRWZlJpZUg4QjZvY09qazNVVFJhQTdlYlZyWnZ4UWZTUTdZczIvaUdNRWdVRjdoS05YWmNkRTRVRzBVbWRtNmVTOXl3T3crT3IwIn0="
-    },
-    {
-      "id": "1549493465941942383",
-      "config": {
-        "id": "1549493465941942383",
-        "config_version": 2,
-        "starts_at": "2026-09-19T17:00:00+00:00",
-        "expires_at": "2026-09-28T00:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://www.roblox.com/spotlight/the-hunt-roblox-20?gsrbx=1",
-          "id": "363445589247131668",
-          "name": "Roblox"
-        },
-        "assets": {
-          "hero": "quests/1549493465941942383/1549494335261646999.jpg",
-          "hero_video": "quests/1549493465941942383/1550249604270923887_720.mp4",
-          "quest_bar_hero_blurhash": "aLUJHILdZ5VmjptviHY8WO9z9g==",
-          "quest_bar_hero": "quests/1549493465941942383/1549494231628779681.jpg",
-          "quest_bar_hero_video": "quests/1549493465941942383/1550249449530331207_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1549493465941942383/1549494713931923526.png",
-          "game_tile_dark": "quests/1549493465941942383/1549494713617490000.png",
-          "logotype_light": "quests/1549493465941942383/1550249575208587335.png",
-          "logotype_dark": "quests/1549493465941942383/1549494161764519998.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "ROBLOX",
-          "game_title": "The Hunt: Roblox 20",
-          "game_publisher": "ROBLOX"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "363445589247131668"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 1,
-              "sku_id": "1549493465941942384",
-              "asset": "quests/1549493465941942383/1549500549714550944.png",
-              "asset_video": null,
-              "messages": {
-                "name": "Blurple 8-Bit Wings",
-                "name_with_article": "a Blurple 8-Bit Wings",
-                "redemption_instructions_by_platform": {
-                  "0": "Redeem the code below by opening https://www.roblox.com/redeem. Enter your code and click 'Redeem' button. (Each code can only be redeemed once.)"
-                }
-              },
-              "approximate_count": null,
-              "redemption_link": null
-            }
-          ],
-          "rewards_expire_at": "2026-10-28T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.roblox.com/spotlight/the-hunt-roblox-20?gsrbx=1",
-          "button_label": "Play Now"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "ad_context": null,
-      "preview": false,
-      "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJNFl6UXluZERzZXNtTFI5WVBMY1o2aHB5eG9KU0hrR2VDck5lRWk1QUZpeHdqUExUT01BUTBzVVovUElUdXByamVZYk41U29DVTBTd0txN2xPVDczUFpHdXVCS2tmN1BRPSJ9",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKcitqNWw1TW85SkVQUWVGRkxpYzhRV1dzM3kySmVhdVVNeWtlbFB0RW1WWGtKYWo1SlRSZkJLc0EvRWtVMFNld0FyTmJCR2M5Vjh5N0Y2aCtyMXFPK2FPY2FGZmRKNytJQUNzSmxXdWc0U1FZUkdmdjhLbXZoZTYzT0xYWlRreGh6QTFKb3BKOHd2QXRFYnRPcm1UUDNLNUQ2N2IvYmRtSWF4OHNOQWZLQk1TVzdNMWdSIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLVDFNdFo3NkcxS0J4eDRaTjViVnQ0T0ppTUdqU1gvUy85Nmg3bjhicWpaS2swY0dPbEpGMHJQa2dxbjlDRDJobkNhblN6dEhnVzVJdG4zWGcyWURLeWllclR6d2U3dmdFPSJ9",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKV2JiOUNnamhHRVVkK0ZPOTlRSVMxODNoZmRlTS9UcmhUUlhqZndQYlFWZTY1elVXYUZaK1Irb3M2S2RLa1lyZE9vVG1KdWRHYlhlZ0V1MmRJRmRZa0xqK1Jwb0dxY0l4SGZwZFc4a1czVC9YVHhuSzRwa1ZqTEdxRUtrTEFUdEZsVWJDR210alBhaGJFTTRUcElZOVRLNnp4VS9sQlBxR2FxaVNUZGk3UlJsYjBFV1BwIn0="
     },
     {
       "id": "1549139459264741497",
@@ -5172,23 +4643,25 @@
       "ad_context": null,
       "preview": false,
       "traffic_metadata_raw": "EAIYAQ==",
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJNFl6UXluZERzZXNtTFI5WVBMY1o2aHB5eG9KU0hrR2VDck5lRWk1QUZpeHdqUExUT01BUTBzVVovUElUdXByamVZYk41U29DVTBTd0txN2xPVDczUFpHdXVCS2tmN1BRPSJ9",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJdTd0Qm1OYW1oaWJjYnZhUlFZTE1FV01zaHp4RkpmSDlDUFhkMS9rcFR3SlJEQ0dMZXFYcE5HWEdNMW5ISURteGtiU2lvOW5MQVdmeWtYUUZRUnptNE9HdFllUFVtVjFKZjRTWHF6dTN0bE5PMWl6ZXNLY1dUT0MyVEhFWXltaGV5LzB2Q0lqbXFtZzFqYnpGQWpiU21UWGV3aWYvYkwvc3RzQXdXOFBWL21SRXRaSEd5In0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLVDFNdFo3NkcxS0J4eDRaTjViVnQ0T0ppTUdqU1gvUy85Nmg3bjhicWpaS2swY0dPbEpGMHJQa2dxbjlDRDJobkNhblN6dEhnVzVJdG4zWGcyWURLeWllclR6d2U3dmdFPSJ9",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJZnU1UUNsUDlTd3F3dlhncit6RUhzZ2xVWG1YOVBLcU0xRlhUTEc3Zko1NlhiN2kxY29TU210VU9qc3E0cVJIVkRxbG5aczVrZmpmS3ltcE9aenR4dG1Jcm40d2JlVWFNVmhnV1FwbWZhb0lIaGxrK05qYXU1YW1ybTlrOXhUNGNGM1o5QythZWFHblpUM0FUTnQwZmN4MUhrWENGU1ZQZlFnNGZybDVtSE1qUmdDTzdMIn0="
     }
   ],
   "excluded_quests": [
     {
+      "id": "1539750562176696320"
+    },
+    {
+      "id": "1539533765070553089"
+    },
+    {
+      "id": "1541371710417272834"
+    },
+    {
       "id": "1546582362035453952"
     },
     {
-      "id": "1541369647985594369"
-    },
-    {
       "id": "1537189839588294657"
-    },
-    {
-      "id": "1539750562176696320",
-      "replacement_id": "1539533765070553089"
     },
     {
       "id": "1547757450760036362"
@@ -5230,7 +4703,7 @@
       "id": "1542164786190622741"
     },
     {
-      "id": "1544130689316691989"
+      "id": "1544433774492655637"
     },
     {
       "id": "1519095881025191966"
@@ -5301,16 +4774,19 @@
       "id": "1549631107102810162"
     },
     {
+      "id": "1539057611297792060"
+    },
+    {
       "id": "1547370886645026876"
     },
     {
-      "id": "1540204098790494268"
-    },
-    {
-      "id": "1547667360964542526"
+      "id": "1538813720396955708"
     },
     {
       "id": "1547334999844323390"
+    },
+    {
+      "id": "1540204098790494268"
     },
     {
       "id": "1537161325170532412"
@@ -5325,7 +4801,7 @@
       "id": "1542287027578478654"
     },
     {
-      "id": "1539057611297792060"
+      "id": "1547667360964542526"
     },
     {
       "id": "1519101313168838726"
@@ -5343,6 +4819,9 @@
       "id": "1539402909740044360"
     },
     {
+      "id": "1516889218218197062"
+    },
+    {
       "id": "1547289460910329926"
     },
     {
@@ -5350,9 +4829,6 @@
     },
     {
       "id": "1537900603328434257"
-    },
-    {
-      "id": "1539528344608182353"
     },
     {
       "id": "1541854877850796113"
@@ -5404,6 +4880,9 @@
       "replacement_id": "1545527302681661540"
     },
     {
+      "id": "1544127680528781423"
+    },
+    {
       "id": "1540124165225324656"
     },
     {
@@ -5429,6 +4908,9 @@
     },
     {
       "id": "1545504106955808900"
+    },
+    {
+      "id": "1540036377146556556"
     },
     {
       "id": "1544416823662088333"
@@ -5459,9 +4941,6 @@
       "id": "1551983210601382063"
     },
     {
-      "id": "1544804322213232822"
-    },
-    {
       "id": "1542927566568956095"
     },
     {
@@ -5469,6 +4948,9 @@
     },
     {
       "id": "1534314625397686472"
+    },
+    {
+      "id": "1516888752536948938"
     },
     {
       "id": "1532150126540361938"
