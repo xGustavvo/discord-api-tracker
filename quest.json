@@ -9432,5 +9432,131 @@
       "link": "https://www.empiresandpuzzles.com/en/",
       "button_label": "Play Now"
     }
+  },
+  {
+    "id": "1552897885883072582",
+    "config_version": 2,
+    "starts_at": "2026-10-01T17:00:00+00:00",
+    "expires_at": "2026-10-07T17:00:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://store.steampowered.com/app/1924600/March_of_Giants?utm_source=discord&utm_medium=paidsocial&utm_campaign=MOG_2610&utm_content=__AID_NAME__-__CID_NAME__&utm_term=interest_us",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "quests/1552897885883072582/1553109709689458719.jpg",
+      "hero_video": "quests/1552897885883072582/1553109710209810644.mp4",
+      "quest_bar_hero_blurhash": "VTkSHIIHR4h5eIZ4h4gHfWngtw==",
+      "quest_bar_hero": "quests/1552897885883072582/1553109709710430238.jpg",
+      "quest_bar_hero_video": "quests/1552897885883072582/1553109711253930107.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1552897885883072582/1553109710155153499.jpg",
+      "game_tile_dark": "quests/1552897885883072582/1553109710155153499.jpg",
+      "logotype_light": "quests/1552897885883072582/1553109709706502275.png",
+      "logotype_dark": "quests/1552897885883072582/1553109709597319260.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "March of Giants Trailer",
+      "game_title": "March of Giants",
+      "game_publisher": "Ubisoft"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 134,
+          "assets": {
+            "video": {
+              "url": "quests/1552897885883072582/1553109709957898361_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1552897885883072582/1553109709718949969.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1552897885883072582/1553109709957898361_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1552897885883072582/1553109709718949969.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1552897885883072582/1553109709957898361.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1552897885883072582/1553109709718949969.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
+        },
+        "WATCH_VIDEO_ON_MOBILE": {
+          "type": "WATCH_VIDEO_ON_MOBILE",
+          "target": 134,
+          "assets": {
+            "video": {
+              "url": "quests/1552897885883072582/1553109710176264202_1080.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1552897885883072582/1553109709718949969.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1552897885883072582/1553109710176264202_720.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1552897885883072582/1553109709718949969.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1552897885883072582/1553109710176264202.m3u8",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1552897885883072582/1553109709718949969.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 3,
+          "sku_id": "1554525949758804089",
+          "asset": "quests/1552897885883072582/1554526221314822184.mp4",
+          "asset_video": null,
+          "messages": {
+            "name": "MoG Strikelight Helmet Avatar Decoration",
+            "name_with_article": "a MoG Strikelight Helmet Avatar Decoration",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "expires_at": "2026-12-07T00:00:00+00:00",
+          "expires_at_premium": null,
+          "expiration_mode": 3
+        }
+      ],
+      "rewards_expire_at": "2026-11-06T17:00:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://store.steampowered.com/app/1924600/March_of_Giants?utm_source=discord&utm_medium=paidsocial&utm_campaign=MOG_2610&utm_content=__AID_NAME__-__CID_NAME__&utm_term=interest_us",
+      "button_label": "Watch Now",
+      "subtitle": "Join the playtest on Steam"
+    }
   }
 ]
