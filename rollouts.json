@@ -185,5 +185,23 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-06-dont-badge-muted-vcs",
+    "title": "Dont badge muted vcs",
+    "platforms": [
+      "android",
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 1,
+        "from": 10,
+        "to": 100,
+        "ranges": [
+          "0 - 10000"
+        ]
+      }
+    ]
   }
 ]
