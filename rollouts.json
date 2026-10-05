@@ -211,7 +211,24 @@
       "android",
       "desktop"
     ],
-    "variants": []
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 2.5,
+        "ranges": [
+          "0 - 250"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 2.5,
+        "ranges": [
+          "250 - 500"
+        ]
+      }
+    ]
   },
   {
     "id": "2026-09-quest-mobile-bar-secondary-cta",
@@ -220,6 +237,23 @@
       "android",
       "desktop"
     ],
-    "variants": []
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 2.5,
+        "ranges": [
+          "0 - 250"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 2.5,
+        "ranges": [
+          "250 - 500"
+        ]
+      }
+    ]
   }
 ]
