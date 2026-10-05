@@ -13,5 +13,48 @@
         "range": "0 - 8000"
       }
     ]
+  },
+  {
+    "id": "2026-10-android-media-viewer-full-resolution",
+    "title": "Android media viewer full resolution",
+    "platforms": [
+      "android",
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 50,
+        "range": "0 - 5000"
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 50,
+        "range": "5000 - 10000"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-orbchievements",
+    "title": "Orbchievements",
+    "platforms": [
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 7,
+        "to": 9,
+        "range": "0 - 100"
+      },
+      {
+        "variant": 1,
+        "from": 7,
+        "to": 9,
+        "range": "100 - 200"
+      }
+    ]
   }
 ]
