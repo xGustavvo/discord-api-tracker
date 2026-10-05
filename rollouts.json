@@ -8,9 +8,11 @@
     "variants": [
       {
         "variant": 1,
-        "from": 60,
-        "to": 80,
-        "range": "0 - 8000"
+        "from": 80,
+        "to": 100,
+        "ranges": [
+          "0 - 10000"
+        ]
       }
     ]
   },
