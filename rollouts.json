@@ -212,5 +212,14 @@
       "desktop"
     ],
     "variants": []
+  },
+  {
+    "id": "2026-09-quest-mobile-bar-secondary-cta",
+    "title": "Quest mobile bar secondary cta",
+    "platforms": [
+      "android",
+      "desktop"
+    ],
+    "variants": []
   }
 ]
