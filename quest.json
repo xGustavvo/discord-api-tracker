@@ -10613,5 +10613,621 @@
       "button_label": "Play Free Now",
       "subtitle": "VALORANT Aces"
     }
+  },
+  {
+    "id": "1555158122522349568",
+    "config_version": 2,
+    "starts_at": "2026-10-05T17:00:00+00:00",
+    "expires_at": "2026-10-20T00:00:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://melonsandbox.com/",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "quests/1555158122522349568/1555507743421374524.jpg",
+      "quest_bar_hero_blurhash": "YugFPwJYiaifaHeOiRhoOKhpdghIemAI",
+      "quest_bar_hero": "quests/1555158122522349568/1555507763629662219.jpg",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1555158122522349568/1555506290095169536.jpg",
+      "game_tile_dark": "quests/1555158122522349568/1555506290095169536.jpg",
+      "logotype_light": "quests/1555158122522349568/1555507671711359107.png",
+      "logotype_dark": "quests/1555158122522349568/1555507671711359107.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Melon Sandbox",
+      "game_title": "Melon Sandbox",
+      "game_publisher": "Playducky"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 40,
+          "assets": {
+            "video": {
+              "url": "quests/1555158122522349568/1555508071843889232_1080.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1555158122522349568/1555508460442091580.png"
+            },
+            "video_low_res": {
+              "url": "quests/1555158122522349568/1555508071843889232_720.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1555158122522349568/1555508460442091580.png"
+            },
+            "video_hls": {
+              "url": "quests/1555158122522349568/1555508071843889232.m3u8",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1555158122522349568/1555508460442091580.png"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
+        },
+        "WATCH_VIDEO_ON_MOBILE": {
+          "type": "WATCH_VIDEO_ON_MOBILE",
+          "target": 40,
+          "assets": {
+            "video": {
+              "url": "quests/1555158122522349568/1555508071843889232_1080.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1555158122522349568/1555508460442091580.png"
+            },
+            "video_low_res": {
+              "url": "quests/1555158122522349568/1555508071843889232_720.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1555158122522349568/1555508460442091580.png"
+            },
+            "video_hls": {
+              "url": "quests/1555158122522349568/1555508071843889232.m3u8",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1555158122522349568/1555508460442091580.png"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "200 Orbs",
+            "name_with_article": "200 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 200,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2026-11-19T00:00:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "android": {
+        "android_app_id": "com.studio27.MelonPlayground"
+      },
+      "ios": {
+        "ios_app_id": "1610874732"
+      },
+      "link": "https://melonsandbox.com/",
+      "button_label": "Download"
+    }
+  },
+  {
+    "id": "1549142163487592600",
+    "config_version": 2,
+    "starts_at": "2026-10-05T17:00:00+00:00",
+    "expires_at": "2026-10-19T00:00:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=champions2026play",
+      "id": "700136079562375258",
+      "name": "Valorant"
+    },
+    "assets": {
+      "hero": "quests/1549142163487592600/1549142442966524056.jpg",
+      "hero_video": "quests/1549142163487592600/1555285149288103936_720.mp4",
+      "quest_bar_hero_blurhash": "0vcFFIRxKoaadYiwdm11hnBlBw==",
+      "quest_bar_hero": "quests/1549142163487592600/1555281789138767872.jpg",
+      "quest_bar_hero_video": "quests/1549142163487592600/1555282141754171513.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1549142163487592600/1549142442891288646.jpg",
+      "game_tile_dark": "quests/1549142163487592600/1549142442891288646.jpg",
+      "logotype_light": "quests/1549142163487592600/1549142879216214117.png",
+      "logotype_dark": "quests/1549142163487592600/1549142442815520819.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Play VALORANT",
+      "game_title": "VALORANT",
+      "game_publisher": "Riot Games"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "type": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "applications": [
+            {
+              "id": "700136079562375258"
+            }
+          ]
+        },
+        "PLAY_ON_XBOX": {
+          "type": "PLAY_ON_XBOX",
+          "target": 900,
+          "applications": [
+            {
+              "id": "700136079562375258"
+            }
+          ],
+          "external_ids": [
+            "2139646219"
+          ]
+        },
+        "PLAY_ON_PLAYSTATION": {
+          "type": "PLAY_ON_PLAYSTATION",
+          "target": 900,
+          "applications": [
+            {
+              "id": "700136079562375258"
+            }
+          ],
+          "external_ids": [
+            "PPSA20676_00",
+            "PPSA20711_00"
+          ]
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 3,
+          "sku_id": "1555329586768642148",
+          "asset": "quests/1549142163487592600/1555329824761979000.mp4",
+          "asset_video": null,
+          "messages": {
+            "name": "Champions Shanghai: Frag or Die Avatar Decoration",
+            "name_with_article": "a Champions Shanghai: Frag or Die Avatar Decoration",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "expires_at": "2026-12-18T00:00:00+00:00",
+          "expires_at_premium": null,
+          "expiration_mode": 3
+        }
+      ],
+      "rewards_expire_at": "2026-11-18T00:00:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=champions2026play",
+      "button_label": "Play Free Now"
+    }
+  },
+  {
+    "id": "1555088679192633418",
+    "config_version": 2,
+    "starts_at": "2026-10-05T17:00:00+00:00",
+    "expires_at": "2026-10-12T06:59:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/3393110?af_media_source=discord&af_adset=interest_mmoplayers&af_ad=Banner2&af_lookback_window=7d&af_campaign_id={{CAMPAIGN_ID}}&af_adset_id={{ADGROUP_ID}}&af_ad_id={{AD_ID}}&af_campaign=cheil_20261005_Launch_A2_CA_Launch_All_NEW_By_DISCORD_PlayQuest&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F3393110%2FAION_2%2F%3Futm_source%3Ddiscord%26utm_campaign%3Dcheil_20261005_Launch_A2_CA_Launch_All_NEW_By_DISCORD_PlayQuest%26utm_medium%3Dinterest_mmoplayers%26utm_content%3DBanner2",
+      "id": "1445982809792708628",
+      "name": "AION 2"
+    },
+    "assets": {
+      "hero": "quests/1555088679192633418/1555089495882211368.jpg",
+      "hero_video": "quests/1555088679192633418/1555089523237453834_720.mp4",
+      "quest_bar_hero_blurhash": "EtcFFIRwhSlee4lhi3ePkfltmg==",
+      "quest_bar_hero": "quests/1555088679192633418/1555089378030780416.jpg",
+      "quest_bar_hero_video": "quests/1555088679192633418/1555089409068638249_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1555088679192633418/1555089232236773427.png",
+      "game_tile_dark": "quests/1555088679192633418/1555089232236773427.png",
+      "logotype_light": "quests/1555088679192633418/1555089297852465202.png",
+      "logotype_dark": "quests/1555088679192633418/1555089297852465202.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "AION 2 LAUNCH PLAY",
+      "game_title": "AION 2",
+      "game_publisher": "NC"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "type": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1445982809792708628"
+            }
+          ]
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 Orbs",
+            "name_with_article": "700 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 700,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2026-11-11T06:59:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/3393110?af_media_source=discord&af_adset=interest_mmoplayers&af_ad=Banner2&af_lookback_window=7d&af_campaign_id={{CAMPAIGN_ID}}&af_adset_id={{ADGROUP_ID}}&af_ad_id={{AD_ID}}&af_campaign=cheil_20261005_Launch_A2_CA_Launch_All_NEW_By_DISCORD_PlayQuest&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F3393110%2FAION_2%2F%3Futm_source%3Ddiscord%26utm_campaign%3Dcheil_20261005_Launch_A2_CA_Launch_All_NEW_By_DISCORD_PlayQuest%26utm_medium%3Dinterest_mmoplayers%26utm_content%3DBanner2",
+      "button_label": "Play Game"
+    }
+  },
+  {
+    "id": "1555082242319974420",
+    "config_version": 2,
+    "starts_at": "2026-10-05T17:00:00+00:00",
+    "expires_at": "2026-10-12T06:59:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/3393110?af_media_source=discord&af_adset=interest_mmoplayers&af_ad=Banner2&af_lookback_window=7d&af_campaign_id={{CAMPAIGN_ID}}&af_adset_id={{ADGROUP_ID}}&af_ad_id={{AD_ID}}&af_campaign=cheil_20261005_Launch_A2_FR_Launch_All_NEW_By_DISCORD_PlayQuest&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F3393110%2FAION_2%2F%3Futm_source%3Ddiscord%26utm_campaign%3Dcheil_20261005_Launch_A2_FR_Launch_All_NEW_By_DISCORD_PlayQuest%26utm_medium%3Dinterest_mmoplayers%26utm_content%3DBanner2",
+      "id": "1445982809792708628",
+      "name": "AION 2"
+    },
+    "assets": {
+      "hero": "quests/1555082242319974420/1555083526452416552.jpg",
+      "hero_video": "quests/1555082242319974420/1555083578918969344_720.mp4",
+      "quest_bar_hero_blurhash": "E9cFFIRwhDlsi4hhi3eeoPpdmg==",
+      "quest_bar_hero": "quests/1555082242319974420/1555083254380363886.jpg",
+      "quest_bar_hero_video": "quests/1555082242319974420/1555083437705007205_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1555082242319974420/1555083182804701274.png",
+      "game_tile_dark": "quests/1555082242319974420/1555083182804701274.png",
+      "logotype_light": "quests/1555082242319974420/1555083200919896125.png",
+      "logotype_dark": "quests/1555082242319974420/1555083200919896125.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "AION 2 LAUNCH PLAY",
+      "game_title": "AION 2",
+      "game_publisher": "NC"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "type": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1445982809792708628"
+            }
+          ]
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 Orbs",
+            "name_with_article": "700 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 700,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2026-11-11T06:59:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/3393110?af_media_source=discord&af_adset=interest_mmoplayers&af_ad=Banner2&af_lookback_window=7d&af_campaign_id={{CAMPAIGN_ID}}&af_adset_id={{ADGROUP_ID}}&af_ad_id={{AD_ID}}&af_campaign=cheil_20261005_Launch_A2_FR_Launch_All_NEW_By_DISCORD_PlayQuest&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F3393110%2FAION_2%2F%3Futm_source%3Ddiscord%26utm_campaign%3Dcheil_20261005_Launch_A2_FR_Launch_All_NEW_By_DISCORD_PlayQuest%26utm_medium%3Dinterest_mmoplayers%26utm_content%3DBanner2",
+      "button_label": "Play Game"
+    }
+  },
+  {
+    "id": "1554676841879441438",
+    "config_version": 2,
+    "starts_at": "2026-10-05T17:00:00+00:00",
+    "expires_at": "2026-10-12T06:59:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/3393110?af_media_source=discord&af_adset=interest_mmoplayers&af_ad=Banner2&af_lookback_window=7d&af_campaign_id={{CAMPAIGN_ID}}&af_adset_id={{ADGROUP_ID}}&af_ad_id={{AD_ID}}&af_campaign=cheil_20261005_Launch_A2_US_Launch_All_NEW_By_DISCORD_PlayQuest&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F3393110%2FAION_2%2F%3Futm_source%3Ddiscord%26utm_campaign%3Dcheil_20261005_Launch_A2_US_Launch_All_NEW_By_DISCORD_PlayQuest%26utm_medium%3Dinterest_mmoplayers%26utm_content%3DBanner2",
+      "id": "1445982809792708628",
+      "name": "AION 2"
+    },
+    "assets": {
+      "hero": "quests/1554676841879441438/1555044993746337792.jpg",
+      "hero_video": "quests/1554676841879441438/1555045062986170438_720.mp4",
+      "quest_bar_hero_blurhash": "EtcFFISAhDltiolhi3efofltmg==",
+      "quest_bar_hero": "quests/1554676841879441438/1555044844064350349.jpg",
+      "quest_bar_hero_video": "quests/1554676841879441438/1555044911269548052_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1554676841879441438/1555044641647362128.png",
+      "game_tile_dark": "quests/1554676841879441438/1555044641647362128.png",
+      "logotype_light": "quests/1554676841879441438/1555044779702751372.png",
+      "logotype_dark": "quests/1554676841879441438/1555044779702751372.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "AION 2 LAUNCH PLAY",
+      "game_title": "AION 2",
+      "game_publisher": "NC"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "type": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1445982809792708628"
+            }
+          ]
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 Orbs",
+            "name_with_article": "700 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 700,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2026-11-11T06:59:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/3393110?af_media_source=discord&af_adset=interest_mmoplayers&af_ad=Banner2&af_lookback_window=7d&af_campaign_id={{CAMPAIGN_ID}}&af_adset_id={{ADGROUP_ID}}&af_ad_id={{AD_ID}}&af_campaign=cheil_20261005_Launch_A2_US_Launch_All_NEW_By_DISCORD_PlayQuest&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F3393110%2FAION_2%2F%3Futm_source%3Ddiscord%26utm_campaign%3Dcheil_20261005_Launch_A2_US_Launch_All_NEW_By_DISCORD_PlayQuest%26utm_medium%3Dinterest_mmoplayers%26utm_content%3DBanner2",
+      "button_label": "Play Game"
+    }
+  },
+  {
+    "id": "1555090985086881834",
+    "config_version": 2,
+    "starts_at": "2026-10-05T17:00:00+00:00",
+    "expires_at": "2026-10-12T06:59:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/3393110?af_media_source=discord&af_adset=interest_mmoplayers&af_ad=Banner2&af_lookback_window=7d&af_campaign_id={{CAMPAIGN_ID}}&af_adset_id={{ADGROUP_ID}}&af_ad_id={{AD_ID}}&af_campaign=cheil_20261005_Launch_A2_UK_Launch_All_NEW_By_DISCORD_PlayQuest&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F3393110%2FAION_2%2F%3Futm_source%3Ddiscord%26utm_campaign%3Dcheil_20261005_Launch_A2_UK_Launch_All_NEW_By_DISCORD_PlayQuest%26utm_medium%3Dinterest_mmoplayers%26utm_content%3DBanner2",
+      "id": "1445982809792708628",
+      "name": "AION 2"
+    },
+    "assets": {
+      "hero": "quests/1555090985086881834/1555091598801502329.jpg",
+      "hero_video": "quests/1555090985086881834/1555091631307235368_720.mp4",
+      "quest_bar_hero_blurhash": "EtcFFIRwhSlee4lhi3ePkfltmg==",
+      "quest_bar_hero": "quests/1555090985086881834/1555091487870689330.jpg",
+      "quest_bar_hero_video": "quests/1555090985086881834/1555091514080763972_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1555090985086881834/1555091420572950578.png",
+      "game_tile_dark": "quests/1555090985086881834/1555091420572950578.png",
+      "logotype_light": "quests/1555090985086881834/1555091436704370768.png",
+      "logotype_dark": "quests/1555090985086881834/1555091436704370768.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "AION 2 LAUNCH PLAY",
+      "game_title": "AION 2",
+      "game_publisher": "NC"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "type": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1445982809792708628"
+            }
+          ]
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 Orbs",
+            "name_with_article": "700 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 700,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2026-11-11T06:59:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/3393110?af_media_source=discord&af_adset=interest_mmoplayers&af_ad=Banner2&af_lookback_window=7d&af_campaign_id={{CAMPAIGN_ID}}&af_adset_id={{ADGROUP_ID}}&af_ad_id={{AD_ID}}&af_campaign=cheil_20261005_Launch_A2_UK_Launch_All_NEW_By_DISCORD_PlayQuest&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F3393110%2FAION_2%2F%3Futm_source%3Ddiscord%26utm_campaign%3Dcheil_20261005_Launch_A2_UK_Launch_All_NEW_By_DISCORD_PlayQuest%26utm_medium%3Dinterest_mmoplayers%26utm_content%3DBanner2",
+      "button_label": "Play Game"
+    }
+  },
+  {
+    "id": "1555086009878978620",
+    "config_version": 2,
+    "starts_at": "2026-10-05T17:00:00+00:00",
+    "expires_at": "2026-10-12T06:59:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/3393110?af_media_source=discord&af_adset=interest_mmoplayers&af_ad=Banner2&af_lookback_window=7d&af_campaign_id={{CAMPAIGN_ID}}&af_adset_id={{ADGROUP_ID}}&af_ad_id={{AD_ID}}&af_campaign=cheil_20261005_Launch_A2_DE_Launch_All_NEW_By_DISCORD_PlayQuest&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F3393110%2FAION_2%2F%3Futm_source%3Ddiscord%26utm_campaign%3Dcheil_20261005_Launch_A2_DE_Launch_All_NEW_By_DISCORD_PlayQuest%26utm_medium%3Dinterest_mmoplayers%26utm_content%3DBanner2",
+      "id": "1445982809792708628",
+      "name": "AION 2"
+    },
+    "assets": {
+      "hero": "quests/1555086009878978620/1555097597302153266.jpg",
+      "hero_video": "quests/1555086009878978620/1555097139862831194_720.mp4",
+      "quest_bar_hero_blurhash": "0tYFFISAhTlti4lhi3ePkvhsiQ==",
+      "quest_bar_hero": "quests/1555086009878978620/1555097515391455333.jpg",
+      "quest_bar_hero_video": "quests/1555086009878978620/1555086694372343928_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1555086009878978620/1555086568090243142.png",
+      "game_tile_dark": "quests/1555086009878978620/1555086568090243142.png",
+      "logotype_light": "quests/1555086009878978620/1555086584456544297.png",
+      "logotype_dark": "quests/1555086009878978620/1555086584456544297.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "AION 2 LAUNCH PLAY",
+      "game_title": "AION 2",
+      "game_publisher": "NC"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "type": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1445982809792708628"
+            }
+          ]
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 Orbs",
+            "name_with_article": "700 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 700,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2026-11-11T06:59:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/3393110?af_media_source=discord&af_adset=interest_mmoplayers&af_ad=Banner2&af_lookback_window=7d&af_campaign_id={{CAMPAIGN_ID}}&af_adset_id={{ADGROUP_ID}}&af_ad_id={{AD_ID}}&af_campaign=cheil_20261005_Launch_A2_DE_Launch_All_NEW_By_DISCORD_PlayQuest&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F3393110%2FAION_2%2F%3Futm_source%3Ddiscord%26utm_campaign%3Dcheil_20261005_Launch_A2_DE_Launch_All_NEW_By_DISCORD_PlayQuest%26utm_medium%3Dinterest_mmoplayers%26utm_content%3DBanner2",
+      "button_label": "Play Game"
+    }
   }
 ]
