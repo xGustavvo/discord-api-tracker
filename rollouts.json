@@ -98,5 +98,30 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-profile-frame-layer-preload-mobile",
+    "title": "Profile frame layer preload mobile",
+    "platforms": [
+      "android"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 1,
+        "ranges": [
+          "0 - 100"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 1,
+        "ranges": [
+          "100 - 200"
+        ]
+      }
+    ]
   }
 ]
