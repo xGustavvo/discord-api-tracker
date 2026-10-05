@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "id": "2026-09-youtube-3p-nagbar",
+    "title": "Youtube 3p nagbar",
+    "platforms": [
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 1,
+        "from": 60,
+        "to": 80,
+        "range": "0 - 8000"
+      }
+    ]
+  }
+]
