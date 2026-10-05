@@ -154,5 +154,36 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-nameplate-video-preload-none",
+    "title": "Nameplate video preload none",
+    "platforms": [
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 10,
+        "to": 25,
+        "ranges": [
+          "0 - 50",
+          "100 - 550",
+          "1000 - 1500",
+          "2000 - 3500"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 10,
+        "to": 25,
+        "ranges": [
+          "50 - 100",
+          "550 - 1000",
+          "1500 - 2000",
+          "3500 - 5000"
+        ]
+      }
+    ]
   }
 ]
