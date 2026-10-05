@@ -76,5 +76,23 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-unobtrusive-device-suggestions",
+    "title": "Unobtrusive device suggestions",
+    "platforms": [
+      "android",
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 1,
+        "from": 10,
+        "to": 100,
+        "ranges": [
+          "0 - 10000"
+        ]
+      }
+    ]
   }
 ]
