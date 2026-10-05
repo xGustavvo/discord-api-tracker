@@ -255,5 +255,39 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-08-badge-management",
+    "title": "Badge management",
+    "platforms": [
+      "android",
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 1,
+        "ranges": [
+          "9900 - 10000"
+        ]
+      },
+      {
+        "variant": 2,
+        "from": 0,
+        "to": 1,
+        "ranges": [
+          "9800 - 9850"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 1,
+        "ranges": [
+          "9850 - 9900"
+        ]
+      }
+    ]
   }
 ]
