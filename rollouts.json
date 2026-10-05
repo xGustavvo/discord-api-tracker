@@ -123,5 +123,36 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-orbs-hero-carousel",
+    "title": "Orbs hero carousel",
+    "platforms": [
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 25,
+        "to": 50,
+        "ranges": [
+          "0 - 500",
+          "1000 - 1750",
+          "2500 - 3750",
+          "5000 - 7500"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 25,
+        "to": 50,
+        "ranges": [
+          "500 - 1000",
+          "1750 - 2500",
+          "3750 - 5000",
+          "7500 - 10000"
+        ]
+      }
+    ]
   }
 ]
