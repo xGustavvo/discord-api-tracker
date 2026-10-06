@@ -305,6 +305,19 @@
       "android",
       "desktop"
     ],
-    "variants": []
+    "variants": [
+      {
+        "variant": 0,
+        "from": 50,
+        "to": 0,
+        "ranges": []
+      },
+      {
+        "variant": 1,
+        "from": 50,
+        "to": 0,
+        "ranges": []
+      }
+    ]
   }
 ]
