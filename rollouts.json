@@ -296,5 +296,15 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-custom-app-store-overlay",
+    "title": "Custom app store overlay",
+    "hash_key": null,
+    "platforms": [
+      "android",
+      "desktop"
+    ],
+    "variants": []
   }
 ]
