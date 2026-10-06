@@ -344,5 +344,24 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-08-game-community-add-server-entry",
+    "title": "Game community add server entry",
+    "hash_key": null,
+    "platforms": [
+      "android",
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 2,
+        "from": 50,
+        "to": 100,
+        "ranges": [
+          "0 - 10000"
+        ]
+      }
+    ]
   }
 ]
