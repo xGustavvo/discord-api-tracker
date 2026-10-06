@@ -325,5 +325,24 @@
         "ranges": []
       }
     ]
+  },
+  {
+    "id": "2026-09-bounties-android-quest-bar-smoke-animation",
+    "title": "Bounties android quest bar smoke animation",
+    "hash_key": null,
+    "platforms": [
+      "android",
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 15,
+        "ranges": [
+          "0 - 1500"
+        ]
+      }
+    ]
   }
 ]
