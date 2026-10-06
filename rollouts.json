@@ -207,6 +207,7 @@
   {
     "id": "2026-09-mobile-quest-home-sort-priority",
     "title": "Mobile quest home sort priority",
+    "hash_key": null,
     "platforms": [
       "android",
       "desktop"
@@ -214,18 +215,20 @@
     "variants": [
       {
         "variant": 0,
-        "from": 0,
-        "to": 2.5,
+        "from": 2.5,
+        "to": 10,
         "ranges": [
-          "0 - 250"
+          "0 - 250",
+          "500 - 1250"
         ]
       },
       {
         "variant": 1,
-        "from": 0,
-        "to": 2.5,
+        "from": 2.5,
+        "to": 10,
         "ranges": [
-          "250 - 500"
+          "250 - 500",
+          "1250 - 2000"
         ]
       }
     ]
@@ -233,6 +236,7 @@
   {
     "id": "2026-09-quest-mobile-bar-secondary-cta",
     "title": "Quest mobile bar secondary cta",
+    "hash_key": null,
     "platforms": [
       "android",
       "desktop"
@@ -240,18 +244,20 @@
     "variants": [
       {
         "variant": 0,
-        "from": 0,
-        "to": 2.5,
+        "from": 2.5,
+        "to": 10,
         "ranges": [
-          "0 - 250"
+          "0 - 250",
+          "500 - 1250"
         ]
       },
       {
         "variant": 1,
-        "from": 0,
-        "to": 2.5,
+        "from": 2.5,
+        "to": 10,
         "ranges": [
-          "250 - 500"
+          "250 - 500",
+          "1250 - 2000"
         ]
       }
     ]
