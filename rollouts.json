@@ -363,5 +363,34 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-06-gift-acom-order",
+    "title": "Gift acom order",
+    "hash_key": null,
+    "platforms": [
+      "android",
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 1,
+        "to": 10,
+        "ranges": [
+          "0 - 100",
+          "200 - 1100"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 1,
+        "to": 10,
+        "ranges": [
+          "100 - 200",
+          "1100 - 2000"
+        ]
+      }
+    ]
   }
 ]
