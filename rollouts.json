@@ -41,14 +41,15 @@
   {
     "id": "2026-07-orbchievements",
     "title": "Orbchievements",
+    "hash_key": null,
     "platforms": [
       "desktop"
     ],
     "variants": [
       {
         "variant": 0,
-        "from": 9,
-        "to": 10,
+        "from": 15,
+        "to": 20,
         "ranges": [
           "0 - 100",
           "200 - 300",
@@ -59,13 +60,15 @@
           "1200 - 1300",
           "1400 - 1500",
           "1600 - 1700",
-          "1800 - 1900"
+          "1800 - 1900",
+          "2000 - 2500",
+          "3000 - 3500"
         ]
       },
       {
         "variant": 1,
-        "from": 9,
-        "to": 10,
+        "from": 15,
+        "to": 20,
         "ranges": [
           "100 - 200",
           "300 - 400",
@@ -76,7 +79,9 @@
           "1300 - 1400",
           "1500 - 1600",
           "1700 - 1800",
-          "1900 - 2000"
+          "1900 - 2000",
+          "2500 - 3000",
+          "3500 - 4000"
         ]
       }
     ]
@@ -102,24 +107,27 @@
   {
     "id": "2026-09-profile-frame-layer-preload-mobile",
     "title": "Profile frame layer preload mobile",
+    "hash_key": null,
     "platforms": [
       "android"
     ],
     "variants": [
       {
         "variant": 0,
-        "from": 0,
-        "to": 1,
+        "from": 1,
+        "to": 5,
         "ranges": [
-          "0 - 100"
+          "0 - 100",
+          "200 - 600"
         ]
       },
       {
         "variant": 1,
-        "from": 0,
-        "to": 1,
+        "from": 1,
+        "to": 5,
         "ranges": [
-          "100 - 200"
+          "100 - 200",
+          "600 - 1000"
         ]
       }
     ]
