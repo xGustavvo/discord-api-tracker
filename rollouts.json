@@ -449,5 +449,45 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-08-profile-embed-rendering",
+    "title": "Profile embed rendering",
+    "hash_key": null,
+    "platforms": [
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 1,
+        "from": 50,
+        "to": 100,
+        "ranges": [
+          "0 - 10000"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-08-profile-read-state-v1",
+    "title": "Profile read state v1",
+    "hash_key": null,
+    "platforms": [
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 40,
+        "to": 0,
+        "ranges": []
+      },
+      {
+        "variant": 1,
+        "from": 40,
+        "to": 0,
+        "ranges": []
+      }
+    ]
   }
 ]
