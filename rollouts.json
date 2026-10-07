@@ -158,30 +158,33 @@
   {
     "id": "2026-09-nameplate-video-preload-none",
     "title": "Nameplate video preload none",
+    "hash_key": null,
     "platforms": [
       "desktop"
     ],
     "variants": [
       {
         "variant": 0,
-        "from": 10,
-        "to": 25,
+        "from": 25,
+        "to": 50,
         "ranges": [
           "0 - 50",
           "100 - 550",
           "1000 - 1500",
-          "2000 - 3500"
+          "2000 - 3500",
+          "5000 - 7500"
         ]
       },
       {
         "variant": 1,
-        "from": 10,
-        "to": 25,
+        "from": 25,
+        "to": 50,
         "ranges": [
           "50 - 100",
           "550 - 1000",
           "1500 - 2000",
-          "3500 - 5000"
+          "3500 - 5000",
+          "7500 - 10000"
         ]
       }
     ]
@@ -389,6 +392,24 @@
         "ranges": [
           "100 - 200",
           "1100 - 2000"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-09-halloween-holiday",
+    "title": "Halloween holiday",
+    "hash_key": null,
+    "platforms": [
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 100,
+        "ranges": [
+          "0 - 10000"
         ]
       }
     ]
