@@ -595,5 +595,41 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-shop-this-look-mobile",
+    "title": "Shop this look mobile",
+    "hash_key": null,
+    "platforms": [
+      "android"
+    ],
+    "variants": [
+      {
+        "variant": 1,
+        "from": 50,
+        "to": 100,
+        "ranges": [
+          "0 - 10000"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-09-new-horizontal-scroll-shared",
+    "title": "New horizontal scroll shared",
+    "hash_key": null,
+    "platforms": [
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 30,
+        "ranges": [
+          "0 - 3000"
+        ]
+      }
+    ]
   }
 ]
