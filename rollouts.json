@@ -539,5 +539,61 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-05-dvp-for-attachments",
+    "title": "Dvp for attachments",
+    "hash_key": null,
+    "platforms": [
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 2.5,
+        "to": 5,
+        "ranges": [
+          "0 - 100",
+          "200 - 350",
+          "500 - 750"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 2.5,
+        "to": 5,
+        "ranges": [
+          "100 - 200",
+          "350 - 500",
+          "750 - 1000"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-09-mobile-sticker-picker-upsell-restyle",
+    "title": "Mobile sticker picker upsell restyle",
+    "hash_key": null,
+    "platforms": [
+      "android"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 5,
+        "ranges": [
+          "0 - 500"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 5,
+        "ranges": [
+          "500 - 1000"
+        ]
+      }
+    ]
   }
 ]
