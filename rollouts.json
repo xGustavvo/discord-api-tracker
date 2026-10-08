@@ -513,5 +513,31 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-game-profiles-v3-commerce-tab",
+    "title": "Game profiles v3 commerce tab",
+    "hash_key": null,
+    "platforms": [
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 1,
+        "ranges": [
+          "0 - 100"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 1,
+        "ranges": [
+          "100 - 200"
+        ]
+      }
+    ]
   }
 ]
