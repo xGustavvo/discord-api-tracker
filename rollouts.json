@@ -631,5 +631,23 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-08-mobile-emoji-picker-upsell-restyle",
+    "title": "Mobile emoji picker upsell restyle",
+    "hash_key": null,
+    "platforms": [
+      "android"
+    ],
+    "variants": [
+      {
+        "variant": 1,
+        "from": 50,
+        "to": 100,
+        "ranges": [
+          "0 - 10000"
+        ]
+      }
+    ]
   }
 ]
