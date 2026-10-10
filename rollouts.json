@@ -657,5 +657,23 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-three-month-nitro-gifting",
+    "title": "Three month nitro gifting",
+    "hash_key": null,
+    "platforms": [
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 100,
+        "ranges": [
+          "0 - 10000"
+        ]
+      }
+    ]
   }
 ]
