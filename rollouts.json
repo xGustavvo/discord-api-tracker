@@ -979,5 +979,31 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-mobile-nitro-preview-direct-checkout",
+    "title": "Mobile nitro preview direct checkout",
+    "hash_key": null,
+    "platforms": [
+      "android"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 5,
+        "ranges": [
+          "0 - 500"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 5,
+        "ranges": [
+          "500 - 1000"
+        ]
+      }
+    ]
   }
 ]
