@@ -675,5 +675,24 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-clips-editor-image-track",
+    "title": "Clips editor image track",
+    "hash_key": null,
+    "platforms": [
+      "android",
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 30,
+        "ranges": [
+          "0 - 3000"
+        ]
+      }
+    ]
   }
 ]
