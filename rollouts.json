@@ -784,5 +784,22 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-quest-home-bounties-feature-gate",
+    "title": "Quest home bounties feature gate",
+    "hash_key": null,
+    "platforms": [
+      "android",
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 1,
+        "from": 100,
+        "to": 0,
+        "ranges": []
+      }
+    ]
   }
 ]
