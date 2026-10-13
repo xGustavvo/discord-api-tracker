@@ -813,18 +813,20 @@
     "variants": [
       {
         "variant": 0,
-        "from": 0,
-        "to": 1,
+        "from": 1,
+        "to": 5,
         "ranges": [
-          "0 - 100"
+          "0 - 100",
+          "200 - 600"
         ]
       },
       {
         "variant": 1,
-        "from": 0,
-        "to": 1,
+        "from": 1,
+        "to": 5,
         "ranges": [
-          "100 - 200"
+          "100 - 200",
+          "600 - 1000"
         ]
       }
     ]
@@ -843,6 +845,50 @@
         "to": 100,
         "ranges": [
           "0 - 10000"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-10-macaron-non-sub-marketing",
+    "title": "Macaron non sub marketing",
+    "hash_key": null,
+    "platforms": [
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 0.5,
+        "ranges": [
+          "0 - 50"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 4.5,
+        "ranges": [
+          "50 - 500"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-10-macaron",
+    "title": "Macaron",
+    "hash_key": null,
+    "platforms": [
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 5,
+        "ranges": [
+          "0 - 500"
         ]
       }
     ]
