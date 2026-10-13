@@ -801,5 +801,50 @@
         "ranges": []
       }
     ]
+  },
+  {
+    "id": "2026-09-gifting-badge-coachmark-audience",
+    "title": "Gifting badge coachmark audience",
+    "hash_key": null,
+    "platforms": [
+      "android",
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 1,
+        "ranges": [
+          "0 - 100"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 1,
+        "ranges": [
+          "100 - 200"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-07-smag-mobile-wishlist-suggestions",
+    "title": "Smag mobile wishlist suggestions",
+    "hash_key": null,
+    "platforms": [
+      "android"
+    ],
+    "variants": [
+      {
+        "variant": 1,
+        "from": 50,
+        "to": 100,
+        "ranges": [
+          "0 - 10000"
+        ]
+      }
+    ]
   }
 ]
