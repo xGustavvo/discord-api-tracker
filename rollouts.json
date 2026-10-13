@@ -894,5 +894,53 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-10-badge-directory-updates",
+    "title": "Badge directory updates",
+    "hash_key": null,
+    "platforms": [
+      "android",
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 7.5,
+        "ranges": [
+          "0 - 450",
+          "3000 - 3300"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 42.5,
+        "ranges": [
+          "450 - 3000",
+          "3300 - 5000"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-04-declarative-notif-settings",
+    "title": "Declarative notif settings",
+    "hash_key": null,
+    "platforms": [
+      "android",
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 1,
+        "from": 95,
+        "to": 100,
+        "ranges": [
+          "0 - 10000"
+        ]
+      }
+    ]
   }
 ]
