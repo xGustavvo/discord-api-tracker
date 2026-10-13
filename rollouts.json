@@ -588,18 +588,20 @@
     "variants": [
       {
         "variant": 0,
-        "from": 0,
-        "to": 5,
+        "from": 5,
+        "to": 25,
         "ranges": [
-          "0 - 500"
+          "0 - 500",
+          "1000 - 3000"
         ]
       },
       {
         "variant": 1,
-        "from": 0,
-        "to": 5,
+        "from": 5,
+        "to": 25,
         "ranges": [
-          "500 - 1000"
+          "500 - 1000",
+          "3000 - 5000"
         ]
       }
     ]
@@ -861,22 +863,24 @@
     "variants": [
       {
         "variant": 0,
-        "from": 1.5,
-        "to": 3,
+        "from": 3,
+        "to": 5,
         "ranges": [
           "0 - 50",
           "500 - 600",
-          "1500 - 1650"
+          "1500 - 1650",
+          "3000 - 3200"
         ]
       },
       {
         "variant": 1,
-        "from": 13.5,
-        "to": 27,
+        "from": 27,
+        "to": 45,
         "ranges": [
           "50 - 500",
           "600 - 1500",
-          "1650 - 3000"
+          "1650 - 3000",
+          "3200 - 5000"
         ]
       }
     ]
@@ -891,10 +895,10 @@
     "variants": [
       {
         "variant": 1,
-        "from": 15,
-        "to": 30,
+        "from": 30,
+        "to": 50,
         "ranges": [
-          "0 - 3000"
+          "0 - 5000"
         ]
       }
     ]
@@ -945,6 +949,33 @@
         "to": 100,
         "ranges": [
           "0 - 10000"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-09-referral-trial-cta",
+    "title": "Referral trial cta",
+    "hash_key": null,
+    "platforms": [
+      "android",
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 5,
+        "ranges": [
+          "0 - 500"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 5,
+        "ranges": [
+          "500 - 1000"
         ]
       }
     ]
