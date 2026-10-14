@@ -1096,5 +1096,53 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-07-typing-users-css-dots",
+    "title": "Typing users css dots",
+    "hash_key": null,
+    "platforms": [
+      "android",
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 1,
+        "from": 15,
+        "to": 50,
+        "ranges": [
+          "300 - 500",
+          "1700 - 6500"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-09-channel-list-impl",
+    "title": "Channel list impl",
+    "hash_key": null,
+    "platforms": [
+      "android"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 1,
+        "to": 3,
+        "ranges": [
+          "0 - 100",
+          "200 - 400"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 1,
+        "to": 3,
+        "ranges": [
+          "100 - 200",
+          "400 - 600"
+        ]
+      }
+    ]
   }
 ]
