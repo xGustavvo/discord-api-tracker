@@ -1144,5 +1144,44 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-halloween-wishlisting-animation",
+    "title": "Halloween wishlisting animation",
+    "hash_key": null,
+    "platforms": [
+      "android",
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 40,
+        "to": 0,
+        "ranges": []
+      },
+      {
+        "variant": 1,
+        "from": 60,
+        "to": 0,
+        "ranges": []
+      }
+    ]
+  },
+  {
+    "id": "2025-10-collectibles-custom-cursors",
+    "title": "Collectibles custom cursors",
+    "hash_key": null,
+    "platforms": [
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 1,
+        "from": 100,
+        "to": 0,
+        "ranges": []
+      }
+    ]
   }
 ]
