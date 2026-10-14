@@ -1202,5 +1202,31 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-guild-sidebar-stream-preview",
+    "title": "Guild sidebar stream preview",
+    "hash_key": null,
+    "platforms": [
+      "bot"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 1,
+        "ranges": [
+          "0 - 100"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 1,
+        "ranges": [
+          "100 - 200"
+        ]
+      }
+    ]
   }
 ]
