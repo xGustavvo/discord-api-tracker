@@ -1183,5 +1183,24 @@
         "ranges": []
       }
     ]
+  },
+  {
+    "id": "2026-09-gifting-badge-complex-art",
+    "title": "Gifting badge complex art",
+    "hash_key": null,
+    "platforms": [
+      "android",
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 1,
+        "from": 25,
+        "to": 100,
+        "ranges": [
+          "0 - 10000"
+        ]
+      }
+    ]
   }
 ]
