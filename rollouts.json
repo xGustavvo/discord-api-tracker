@@ -1242,5 +1242,31 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-10-android-photo-picker",
+    "title": "Android photo picker",
+    "hash_key": null,
+    "platforms": [
+      "android"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 50,
+        "ranges": [
+          "0 - 5000"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 50,
+        "ranges": [
+          "5000 - 10000"
+        ]
+      }
+    ]
   }
 ]
