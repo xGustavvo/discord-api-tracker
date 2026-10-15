@@ -1268,5 +1268,28 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-invite-expiring-soon",
+    "title": "Invite expiring soon",
+    "hash_key": null,
+    "platforms": [
+      "android",
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 50,
+        "to": 0,
+        "ranges": []
+      },
+      {
+        "variant": 1,
+        "from": 50,
+        "to": 0,
+        "ranges": []
+      }
+    ]
   }
 ]
