@@ -1327,5 +1327,31 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-10-remove-quests-from-discovery",
+    "title": "Remove quests from discovery",
+    "hash_key": null,
+    "platforms": [
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 1,
+        "ranges": [
+          "0 - 100"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 1,
+        "ranges": [
+          "100 - 200"
+        ]
+      }
+    ]
   }
 ]
