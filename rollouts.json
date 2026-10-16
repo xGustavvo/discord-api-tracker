@@ -1541,5 +1541,23 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-05-slayer-storefront-hide-leaderboard",
+    "title": "Slayer storefront hide leaderboard",
+    "hash_key": null,
+    "platforms": [
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 1,
+        "from": 50,
+        "to": 100,
+        "ranges": [
+          "0 - 10000"
+        ]
+      }
+    ]
   }
 ]
