@@ -1211,18 +1211,22 @@
     "variants": [
       {
         "variant": 0,
-        "from": 0,
-        "to": 1,
+        "from": 1,
+        "to": 15,
         "ranges": [
-          "0 - 100"
+          "0 - 100",
+          "200 - 600",
+          "1000 - 2000"
         ]
       },
       {
         "variant": 1,
-        "from": 0,
-        "to": 1,
+        "from": 1,
+        "to": 15,
         "ranges": [
-          "100 - 200"
+          "100 - 200",
+          "600 - 1000",
+          "2000 - 3000"
         ]
       }
     ]
@@ -1474,6 +1478,67 @@
         "from": 4,
         "to": 0,
         "ranges": []
+      }
+    ]
+  },
+  {
+    "id": "2026-09-desktop-tti-update-check-deadline",
+    "title": "Desktop tti update check deadline",
+    "hash_key": null,
+    "platforms": [
+      "android",
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 1,
+        "ranges": [
+          "0 - 100"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 1,
+        "ranges": [
+          "100 - 200"
+        ]
+      },
+      {
+        "variant": 2,
+        "from": 0,
+        "to": 1,
+        "ranges": [
+          "200 - 300"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-09-soundboard-echo",
+    "title": "Soundboard echo",
+    "hash_key": null,
+    "platforms": [
+      "bot"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 1,
+        "ranges": [
+          "0 - 100"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 1,
+        "ranges": [
+          "100 - 200"
+        ]
       }
     ]
   }
