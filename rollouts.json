@@ -1435,5 +1435,24 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-05-mana-type-consolidation",
+    "title": "Mana type consolidation",
+    "hash_key": null,
+    "platforms": [
+      "android",
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 1,
+        "from": 2.5,
+        "to": 7,
+        "ranges": [
+          "0 - 700"
+        ]
+      }
+    ]
   }
 ]
