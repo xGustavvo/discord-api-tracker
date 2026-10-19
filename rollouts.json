@@ -1231,23 +1231,24 @@
     "variants": [
       {
         "variant": 0,
-        "from": 15,
-        "to": 25,
+        "from": 25,
+        "to": 15.5,
         "ranges": [
           "0 - 100",
           "200 - 600",
           "1000 - 2000",
-          "3000 - 4000"
+          "3000 - 3050"
         ]
       },
       {
         "variant": 1,
-        "from": 1,
-        "to": 15,
+        "from": 15,
+        "to": 15.25,
         "ranges": [
           "100 - 200",
           "600 - 1000",
-          "2000 - 3000"
+          "2000 - 3000",
+          "4100 - 4125"
         ]
       }
     ]
@@ -1661,6 +1662,26 @@
         "to": 25,
         "ranges": [
           "2500 - 5000"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-08-game-profiles-vc",
+    "title": "Game profiles vc",
+    "hash_key": null,
+    "platforms": [
+      "android",
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 1,
+        "from": 15,
+        "to": 50,
+        "ranges": [
+          "100 - 200",
+          "1600 - 6500"
         ]
       }
     ]
