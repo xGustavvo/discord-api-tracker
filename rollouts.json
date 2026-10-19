@@ -1126,11 +1126,10 @@
     "variants": [
       {
         "variant": 1,
-        "from": 15,
-        "to": 50,
+        "from": 49.5,
+        "to": 100,
         "ranges": [
-          "300 - 500",
-          "1700 - 6500"
+          "0 - 10000"
         ]
       }
     ]
@@ -1225,30 +1224,28 @@
     "id": "2026-09-guild-sidebar-stream-preview",
     "title": "Guild sidebar stream preview",
     "hash_key": null,
-    "platforms": [
-      "bot"
-    ],
+    "platforms": [],
     "variants": [
       {
         "variant": 0,
-        "from": 25,
-        "to": 15.5,
+        "from": 15,
+        "to": 25,
         "ranges": [
           "0 - 100",
           "200 - 600",
           "1000 - 2000",
-          "3000 - 3050"
+          "3000 - 4000"
         ]
       },
       {
         "variant": 1,
         "from": 15,
-        "to": 15.25,
+        "to": 25,
         "ranges": [
           "100 - 200",
           "600 - 1000",
           "2000 - 3000",
-          "4100 - 4125"
+          "4000 - 5000"
         ]
       }
     ]
@@ -1546,24 +1543,24 @@
     "id": "2026-09-soundboard-echo",
     "title": "Soundboard echo",
     "hash_key": null,
-    "platforms": [
-      "bot"
-    ],
+    "platforms": [],
     "variants": [
       {
         "variant": 0,
-        "from": 0,
-        "to": 1,
+        "from": 1,
+        "to": 5,
         "ranges": [
-          "0 - 100"
+          "0 - 100",
+          "200 - 600"
         ]
       },
       {
         "variant": 1,
-        "from": 0,
-        "to": 1,
+        "from": 1,
+        "to": 5,
         "ranges": [
-          "100 - 200"
+          "100 - 200",
+          "600 - 1000"
         ]
       }
     ]
@@ -1776,19 +1773,21 @@
       {
         "variant": 0,
         "from": 25,
-        "to": 25,
+        "to": 40,
         "ranges": [
           "0 - 1250",
-          "2500 - 3750"
+          "2500 - 3750",
+          "5000 - 6500"
         ]
       },
       {
         "variant": 1,
-        "from": 0,
-        "to": 25,
+        "from": 25,
+        "to": 40,
         "ranges": [
           "1250 - 2500",
-          "3750 - 5000"
+          "3750 - 5000",
+          "6500 - 8000"
         ]
       }
     ]
