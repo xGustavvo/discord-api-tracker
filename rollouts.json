@@ -1730,5 +1730,67 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-friends-sidebar",
+    "title": "Friends sidebar",
+    "hash_key": null,
+    "platforms": [
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 0.33,
+        "ranges": [
+          "33 - 66"
+        ]
+      },
+      {
+        "variant": 2,
+        "from": 0,
+        "to": 0.33,
+        "ranges": [
+          "66 - 99"
+        ]
+      },
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 0.33,
+        "ranges": [
+          "0 - 33"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-10-nitro-tab-remove-account-age-restriction",
+    "title": "Nitro tab remove account age restriction",
+    "hash_key": null,
+    "platforms": [
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 25,
+        "to": 25,
+        "ranges": [
+          "0 - 1250",
+          "2500 - 3750"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 25,
+        "ranges": [
+          "1250 - 2500",
+          "3750 - 5000"
+        ]
+      }
+    ]
   }
 ]
