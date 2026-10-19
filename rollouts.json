@@ -1346,22 +1346,24 @@
     "variants": [
       {
         "variant": 0,
-        "from": 15,
-        "to": 25,
+        "from": 25,
+        "to": 50,
         "ranges": [
           "0 - 100",
           "200 - 1600",
-          "3000 - 4000"
+          "3000 - 4000",
+          "5000 - 7500"
         ]
       },
       {
         "variant": 1,
-        "from": 15,
-        "to": 25,
+        "from": 25,
+        "to": 50,
         "ranges": [
           "100 - 200",
           "1600 - 3000",
-          "4000 - 5000"
+          "4000 - 5000",
+          "7500 - 10000"
         ]
       }
     ]
@@ -1578,6 +1580,33 @@
         "to": 100,
         "ranges": [
           "0 - 10000"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-10-android-stop-and-pause-video",
+    "title": "Android stop and pause video",
+    "hash_key": null,
+    "platforms": [
+      "android",
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 10,
+        "ranges": [
+          "0 - 1000"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 10,
+        "ranges": [
+          "1000 - 2000"
         ]
       }
     ]
