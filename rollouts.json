@@ -1712,5 +1712,23 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-08-no-fill-logging",
+    "title": "No fill logging",
+    "hash_key": null,
+    "platforms": [
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 2,
+        "from": 0,
+        "to": 1,
+        "ranges": [
+          "0 - 100"
+        ]
+      }
+    ]
   }
 ]
