@@ -1231,12 +1231,13 @@
     "variants": [
       {
         "variant": 0,
-        "from": 1,
-        "to": 15,
+        "from": 15,
+        "to": 25,
         "ranges": [
           "0 - 100",
           "200 - 600",
-          "1000 - 2000"
+          "1000 - 2000",
+          "3000 - 4000"
         ]
       },
       {
@@ -1607,6 +1608,59 @@
         "to": 10,
         "ranges": [
           "1000 - 2000"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-10-gdm-duration-timer",
+    "title": "Gdm duration timer",
+    "hash_key": null,
+    "platforms": [
+      "android",
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 1,
+        "ranges": [
+          "0 - 100"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 1,
+        "ranges": [
+          "100 - 200"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-10-android-fastimage-apng",
+    "title": "Android fastimage apng",
+    "hash_key": null,
+    "platforms": [
+      "android"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 50,
+        "to": 25,
+        "ranges": [
+          "0 - 2500"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 25,
+        "ranges": [
+          "2500 - 5000"
         ]
       }
     ]
