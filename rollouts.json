@@ -1810,5 +1810,24 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-mobile-nlp-search-user-flag",
+    "title": "Mobile nlp search user flag",
+    "hash_key": null,
+    "platforms": [
+      "android",
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 100,
+        "ranges": [
+          "0 - 10000"
+        ]
+      }
+    ]
   }
 ]
