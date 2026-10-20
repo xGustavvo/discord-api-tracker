@@ -1671,11 +1671,11 @@
     "variants": [
       {
         "variant": 1,
-        "from": 15,
-        "to": 50,
+        "from": 50,
+        "to": 75,
         "ranges": [
           "100 - 200",
-          "1600 - 6500"
+          "1600 - 9000"
         ]
       }
     ]
@@ -1829,6 +1829,26 @@
         "to": 100,
         "ranges": [
           "0 - 10000"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-09-recent-activity-mobile",
+    "title": "Recent activity mobile",
+    "hash_key": null,
+    "platforms": [
+      "android",
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 1,
+        "from": 10,
+        "to": 20,
+        "ranges": [
+          "100 - 200",
+          "1100 - 3000"
         ]
       }
     ]
