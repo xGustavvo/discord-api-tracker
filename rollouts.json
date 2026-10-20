@@ -282,7 +282,6 @@
     "title": "Badge management",
     "hash_key": "2026-04-gifting-badge",
     "platforms": [
-      "android",
       "desktop"
     ],
     "variants": [
@@ -298,10 +297,10 @@
       },
       {
         "variant": 2,
-        "from": 42.5,
-        "to": 77.5,
+        "from": 77,
+        "to": 92.5,
         "ranges": [
-          "1500- 7500",
+          "0 - 7500",
           "8000 - 9200",
           "9400 - 9850",
           "9900 - 10000"
