@@ -1852,5 +1852,24 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-05-disable-camera-simulcast",
+    "title": "Disable camera simulcast",
+    "hash_key": null,
+    "platforms": [
+      "android",
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 1,
+        "from": 50,
+        "to": 100,
+        "ranges": [
+          "0 - 10000"
+        ]
+      }
+    ]
   }
 ]
