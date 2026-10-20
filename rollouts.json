@@ -1882,19 +1882,19 @@
     ],
     "variants": [
       {
+        "variant": 1,
+        "from": 9.5,
+        "to": 100,
+        "ranges": [
+          "0 - 10000"
+        ]
+      },
+      {
         "variant": 0,
         "from": 0,
         "to": 0.5,
         "ranges": [
           "0 - 50"
-        ]
-      },
-      {
-        "variant": 1,
-        "from": 0,
-        "to": 9.5,
-        "ranges": [
-          "50 - 1000"
         ]
       }
     ]
