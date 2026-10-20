@@ -280,7 +280,7 @@
   {
     "id": "2026-08-badge-management",
     "title": "Badge management",
-    "hash_key": "2026-04-gifting-badge",
+    "hash_key": null,
     "platforms": [
       "android",
       "desktop"
@@ -298,10 +298,10 @@
       },
       {
         "variant": 2,
-        "from": 47.5,
-        "to": 42.5,
+        "from": 42.5,
+        "to": 60.5,
         "ranges": [
-          "5000 - 7500",
+          "3250 - 7500",
           "8000 - 9200",
           "9400 - 9850",
           "9900 - 10000"
@@ -1868,6 +1868,33 @@
         "to": 100,
         "ranges": [
           "0 - 10000"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-10-cod-relink",
+    "title": "Cod relink",
+    "hash_key": null,
+    "platforms": [
+      "android",
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 0.5,
+        "ranges": [
+          "0 - 50"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 9.5,
+        "ranges": [
+          "50 - 1000"
         ]
       }
     ]
