@@ -16794,5 +16794,299 @@
       "link": "https://www.probablymonsters.com/en/nekome/?utm_source=discord&utm_medium=quest&utm_campaign=next_fest_2026",
       "button_label": "Play Now"
     }
+  },
+  {
+    "id": "1560042472560787507",
+    "config_version": 2,
+    "starts_at": "2026-10-21T17:00:00+00:00",
+    "expires_at": "2026-11-05T01:00:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://games.capcomusa.com/?utm_campaign=halloween26&utm_source=discordquest",
+      "id": "1456485028350656512",
+      "name": "Resident Evil Requiem"
+    },
+    "assets": {
+      "hero": "quests/1560042472560787507/1560046579577262140.jpg",
+      "quest_bar_hero_blurhash": "yzgGDIIAeXhnaoiGiIgChjZAaQ==",
+      "quest_bar_hero": "quests/1560042472560787507/1560046580449411163.jpg",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1560042472560787507/1560046580596219924.png",
+      "game_tile_dark": "quests/1560042472560787507/1560046580596219924.png",
+      "logotype_light": "quests/1560042472560787507/1560046580625842217.png",
+      "logotype_dark": "quests/1560042472560787507/1560046580625842217.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Resident Evil Sale",
+      "game_title": "Resident Evil",
+      "game_publisher": "Capcom"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "type": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1456485028350656512"
+            },
+            {
+              "id": "443160369192632330"
+            },
+            {
+              "id": "1129504209226711190"
+            },
+            {
+              "id": "1162153766859059241"
+            },
+            {
+              "id": "1196883977944956962"
+            },
+            {
+              "id": "1129504165727584307"
+            },
+            {
+              "id": "1442727969830207508"
+            },
+            {
+              "id": "1129504702879518821"
+            },
+            {
+              "id": "1445177238525050950"
+            }
+          ]
+        },
+        "PLAY_ON_XBOX": {
+          "type": "PLAY_ON_XBOX",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1456485028350656512"
+            }
+          ],
+          "external_ids": [
+            "2108722049",
+            "1469186547",
+            "651668093",
+            "1278031123",
+            "420309331",
+            "1852916479",
+            "1658810016",
+            "770775860",
+            "374621264"
+          ]
+        },
+        "PLAY_ON_PLAYSTATION": {
+          "type": "PLAY_ON_PLAYSTATION",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1456485028350656512"
+            }
+          ],
+          "external_ids": [
+            "CUSA37742_00",
+            "PPSA04405_00",
+            "PPSA03955_00",
+            "PPSA04288_00",
+            "PPSA09418_00",
+            "PPSA36562_00",
+            "PPSA03952_00",
+            "PPSA07412_00",
+            "PPSA04289_00",
+            "PPSA30803_00",
+            "PPSA03953_00",
+            "PPSA36563_00",
+            "PPSA31246_00",
+            "CUSA14168_00",
+            "CUSA18008_00",
+            "CUSA01068_00",
+            "PPSA03956_00",
+            "PPSA01556_00",
+            "CUSA35714_00",
+            "CUSA16724_00",
+            "PPSA01557_00",
+            "PPSA31247_00",
+            "CUSA14123_00",
+            "PPSA19000_00",
+            "CUSA16723_00",
+            "NPXS29218_00",
+            "CUSA01905_00",
+            "CUSA01815_00",
+            "PPSA36561_00",
+            "PPSA19001_00",
+            "PPSA07411_00",
+            "PPSA03954_00",
+            "PPSA04404_00",
+            "CUSA18017_00",
+            "CUSA02337_00",
+            "CUSA14129_00",
+            "CUSA37739_00",
+            "CUSA01067_00",
+            "CUSA33387_00",
+            "CUSA37741_00",
+            "CUSA09171_00",
+            "CUSA37740_00",
+            "CUSA09193_00"
+          ]
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 Orbs",
+            "name_with_article": "700 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 700,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2026-12-05T01:00:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://games.capcomusa.com/?utm_campaign=halloween26&utm_source=discordquest",
+      "button_label": "Shop Now"
+    }
+  },
+  {
+    "id": "1560042382072742050",
+    "config_version": 2,
+    "starts_at": "2026-10-21T17:00:00+00:00",
+    "expires_at": "2026-11-01T00:00:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://games.capcomusa.com/?utm_campaign=halloween26&utm_source=discordquest",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "quests/1560042382072742050/1560046697827012758.jpg",
+      "quest_bar_hero_blurhash": "SBgGDIKTh3ixd4eQhkqpsJQIOg==",
+      "quest_bar_hero": "quests/1560042382072742050/1560046697789522051.jpg",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1560042382072742050/1560046697369837720.png",
+      "game_tile_dark": "quests/1560042382072742050/1560046697369837720.png",
+      "logotype_light": "quests/1560042382072742050/1560046697428819978.png",
+      "logotype_dark": "quests/1560042382072742050/1560046697428819978.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Resident Evil Season Is Here",
+      "game_title": "Frights, fun, and frighteningly good deals!",
+      "game_publisher": "Capcom"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 61,
+          "assets": {
+            "video": {
+              "url": "quests/1560042382072742050/1560060155129761802_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1560042382072742050/1560060434994696242.png"
+            },
+            "video_low_res": {
+              "url": "quests/1560042382072742050/1560060155129761802_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1560042382072742050/1560060434994696242.png"
+            },
+            "video_hls": {
+              "url": "quests/1560042382072742050/1560060155129761802.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1560042382072742050/1560060434994696242.png"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
+        },
+        "WATCH_VIDEO_ON_MOBILE": {
+          "type": "WATCH_VIDEO_ON_MOBILE",
+          "target": 61,
+          "assets": {
+            "video": {
+              "url": "quests/1560042382072742050/1560046697399320606_1080.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1560042382072742050/1560060435145957587.png"
+            },
+            "video_low_res": {
+              "url": "quests/1560042382072742050/1560046697399320606_720.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1560042382072742050/1560060435145957587.png"
+            },
+            "video_hls": {
+              "url": "quests/1560042382072742050/1560046697399320606.m3u8",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1560042382072742050/1560060435145957587.png"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "200 Orbs",
+            "name_with_article": "200 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 200,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2026-12-01T00:00:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://games.capcomusa.com/?utm_campaign=halloween26&utm_source=discordquest",
+      "button_label": "Shop Now",
+      "subtitle": "Frights, fun, and frighteningly good deals!"
+    }
   }
 ]
