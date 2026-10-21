@@ -17190,5 +17190,128 @@
       "link": "https://www.oncehuman.game/",
       "button_label": "Play Now"
     }
+  },
+  {
+    "id": "1552381063475499109",
+    "config_version": 2,
+    "starts_at": "2026-10-21T18:00:00+00:00",
+    "expires_at": "2026-11-05T01:00:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://www.nexon.com/mscw/landing?partnerkey=MK566S59813M37754&utm_source=discord&utm_medium=quest&utm_term=gamesplayed&utm_campaign=mscglipm&utm_content=NA",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "quests/1552381063475499109/1560450190991826955.jpg",
+      "hero_video": "quests/1552381063475499109/1560450210675687595_720.mp4",
+      "quest_bar_hero_blurhash": "6mkGJID2SGeQhHh2dXmZYOMAMw==",
+      "quest_bar_hero": "quests/1552381063475499109/1560450166996213881.jpg",
+      "quest_bar_hero_video": "quests/1552381063475499109/1560450212571517000_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1552381063475499109/1562180697832038450.png",
+      "game_tile_dark": "quests/1552381063475499109/1562180697832038450.png",
+      "logotype_light": "quests/1552381063475499109/1561778867994365974.png",
+      "logotype_dark": "quests/1552381063475499109/1561778867847299093.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "MapleStory Classic World Trailer",
+      "game_title": "Maple World, exactly as you left it. Free on PC.",
+      "game_publisher": "Nexon America"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 154,
+          "assets": {
+            "video": {
+              "url": "quests/1552381063475499109/1562119313962573855_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1552381063475499109/1560450063778717706.png"
+            },
+            "video_low_res": {
+              "url": "quests/1552381063475499109/1562119313962573855_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1552381063475499109/1560450063778717706.png"
+            },
+            "video_hls": {
+              "url": "quests/1552381063475499109/1562119313962573855.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1552381063475499109/1560450063778717706.png"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
+        },
+        "WATCH_VIDEO_ON_MOBILE": {
+          "type": "WATCH_VIDEO_ON_MOBILE",
+          "target": 154,
+          "assets": {
+            "video": {
+              "url": "quests/1552381063475499109/1562119313962573855_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1552381063475499109/1560450063778717706.png"
+            },
+            "video_low_res": {
+              "url": "quests/1552381063475499109/1562119313962573855_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1552381063475499109/1560450063778717706.png"
+            },
+            "video_hls": {
+              "url": "quests/1552381063475499109/1562119313962573855.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1552381063475499109/1560450063778717706.png"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "200 Orbs",
+            "name_with_article": "200 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 200,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2026-12-05T01:00:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.nexon.com/mscw/landing?partnerkey=MK566S59813M37754&utm_source=discord&utm_medium=quest&utm_term=gamesplayed&utm_campaign=mscglipm&utm_content=NA",
+      "button_label": "Play Now",
+      "subtitle": "Maple World, exactly as you left it. Free on PC."
+    }
   }
 ]
