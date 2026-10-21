@@ -1683,28 +1683,29 @@
     "title": "Game profiles v3 communities tab",
     "hash_key": null,
     "platforms": [
-      "android",
       "desktop"
     ],
     "variants": [
       {
         "variant": 0,
-        "from": 10,
-        "to": 25,
+        "from": 25,
+        "to": 50,
         "ranges": [
           "0 - 100",
           "200 - 1100",
-          "2000 - 3500"
+          "2000 - 3500",
+          "5000 - 7500"
         ]
       },
       {
         "variant": 1,
-        "from": 10,
-        "to": 25,
+        "from": 25,
+        "to": 50,
         "ranges": [
           "100 - 200",
           "1100 - 2000",
-          "3500 - 5000"
+          "3500 - 5000",
+          "7500 - 10000"
         ]
       }
     ]
