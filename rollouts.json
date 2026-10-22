@@ -1514,27 +1514,21 @@
     "variants": [
       {
         "variant": 0,
-        "from": 0,
-        "to": 1,
-        "ranges": [
-          "0 - 100"
-        ]
+        "from": 1,
+        "to": 0,
+        "ranges": []
       },
       {
         "variant": 1,
-        "from": 0,
-        "to": 1,
-        "ranges": [
-          "100 - 200"
-        ]
+        "from": 1,
+        "to": 0,
+        "ranges": []
       },
       {
         "variant": 2,
-        "from": 0,
-        "to": 1,
-        "ranges": [
-          "200 - 300"
-        ]
+        "from": 1,
+        "to": 0,
+        "ranges": []
       }
     ]
   },
@@ -2030,19 +2024,19 @@
     ],
     "variants": [
       {
+        "variant": 1,
+        "from": 50,
+        "to": 100,
+        "ranges": [
+          "0 - 10000"
+        ]
+      },
+      {
         "variant": 0,
         "from": 0,
         "to": 50,
         "ranges": [
           "0 - 5000"
-        ]
-      },
-      {
-        "variant": 1,
-        "from": 0,
-        "to": 50,
-        "ranges": [
-          "5000 - 10000"
         ]
       }
     ]
@@ -2057,10 +2051,10 @@
     "variants": [
       {
         "variant": 1,
-        "from": 0,
-        "to": 5,
+        "from": 5,
+        "to": 75,
         "ranges": [
-          "0 - 500"
+          "0 - 7500"
         ]
       }
     ]
@@ -2092,6 +2086,22 @@
           "4000 - 5000",
           "7500 - 10000"
         ]
+      }
+    ]
+  },
+  {
+    "id": "2026-07-call-of-duty-3pp-expired",
+    "title": "Call of duty 3pp expired",
+    "hash_key": null,
+    "platforms": [
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 1,
+        "from": 100,
+        "to": 0,
+        "ranges": []
       }
     ]
   }
