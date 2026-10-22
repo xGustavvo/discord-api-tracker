@@ -2051,10 +2051,10 @@
     "variants": [
       {
         "variant": 1,
-        "from": 5,
-        "to": 75,
+        "from": 75,
+        "to": 100,
         "ranges": [
-          "0 - 7500"
+          "0 - 10000"
         ]
       }
     ]
@@ -2102,6 +2102,27 @@
         "from": 100,
         "to": 0,
         "ranges": []
+      }
+    ]
+  },
+  {
+    "id": "2026-09-soundboard-favorites",
+    "title": "Soundboard favorites",
+    "hash_key": null,
+    "platforms": [
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 1,
+        "from": 10,
+        "to": 31,
+        "ranges": [
+          "0 - 200",
+          "700 - 1100",
+          "2000 - 2500",
+          "3000 - 5000"
+        ]
       }
     ]
   }
