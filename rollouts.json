@@ -1936,5 +1936,32 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-10-avx512-entropy-histogram",
+    "title": "Avx512 entropy histogram",
+    "hash_key": null,
+    "platforms": [
+      "android",
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 5,
+        "ranges": [
+          "0 - 500"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 5,
+        "ranges": [
+          "500 - 1000"
+        ]
+      }
+    ]
   }
 ]
