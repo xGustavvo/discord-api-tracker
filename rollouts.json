@@ -259,11 +259,10 @@
     "variants": [
       {
         "variant": 1,
-        "from": 10,
-        "to": 50,
+        "from": 50,
+        "to": 100,
         "ranges": [
-          "250 - 500",
-          "1250 - 6000"
+          "0 - 10000"
         ]
       },
       {
@@ -1960,6 +1959,32 @@
         "to": 5,
         "ranges": [
           "500 - 1000"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-09-request-to-stream-go-live-modal",
+    "title": "Request to stream go live modal",
+    "hash_key": null,
+    "platforms": [
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 1,
+        "ranges": [
+          "0 - 100"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 1,
+        "ranges": [
+          "100 - 200"
         ]
       }
     ]
