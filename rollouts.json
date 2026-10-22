@@ -1999,18 +1999,98 @@
     "variants": [
       {
         "variant": 0,
-        "from": 0,
-        "to": 1.5,
+        "from": 1.5,
+        "to": 5,
         "ranges": [
-          "0 - 150"
+          "0 - 150",
+          "3000 - 3100",
+          "5000 - 5125",
+          "7500 - 7625"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 28.5,
+        "to": 95,
+        "ranges": [
+          "150 - 3000",
+          "3100 - 5000",
+          "5125 - 7500",
+          "7625 - 10000"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-09-conversation-topic-header",
+    "title": "Conversation topic header",
+    "hash_key": null,
+    "platforms": [
+      "android"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 50,
+        "ranges": [
+          "0 - 5000"
         ]
       },
       {
         "variant": 1,
         "from": 0,
-        "to": 28.5,
+        "to": 50,
         "ranges": [
-          "150 - 3000"
+          "5000 - 10000"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-10-code-blurple",
+    "title": "Code blurple",
+    "hash_key": null,
+    "platforms": [
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 5,
+        "ranges": [
+          "0 - 500"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-10-game-exit-promo-rust",
+    "title": "Game exit promo rust",
+    "hash_key": null,
+    "platforms": [
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 50,
+        "ranges": [
+          "0 - 1500",
+          "3000 - 4000",
+          "5000 - 7500"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 50,
+        "ranges": [
+          "1500 - 3000",
+          "4000 - 5000",
+          "7500 - 10000"
         ]
       }
     ]
