@@ -2175,5 +2175,23 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-06-mobile-server-tag",
+    "title": "Mobile server tag",
+    "hash_key": null,
+    "platforms": [
+      "android"
+    ],
+    "variants": [
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 100,
+        "ranges": [
+          "0 - 10000"
+        ]
+      }
+    ]
   }
 ]
