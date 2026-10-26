@@ -2147,13 +2147,10 @@
     "variants": [
       {
         "variant": 1,
-        "from": 31,
-        "to": 51,
+        "from": 51,
+        "to": 100,
         "ranges": [
-          "0 - 200",
-          "700 - 1100",
-          "2000 - 2500",
-          "3000 - 7000"
+          "0 - 10000"
         ]
       }
     ]
@@ -2331,6 +2328,94 @@
           "350 - 500",
           "1250 - 2000",
           "3500 - 5000"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-09-try-display-name-style",
+    "title": "Try display name style",
+    "hash_key": null,
+    "platforms": [
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 1,
+        "ranges": [
+          "0 - 100"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 1,
+        "ranges": [
+          "100 - 200"
+        ]
+      },
+      {
+        "variant": 2,
+        "from": 0,
+        "to": 1,
+        "ranges": [
+          "200 - 300"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-10-profile-default-tab-with-content",
+    "title": "Profile default tab with content",
+    "hash_key": null,
+    "platforms": [
+      "android",
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 15,
+        "ranges": [
+          "0 - 1500"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 15,
+        "ranges": [
+          "1500 - 3000"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-10-soundboard-mute-indicator",
+    "title": "Soundboard mute indicator",
+    "hash_key": null,
+    "platforms": [
+      "android",
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 1,
+        "ranges": [
+          "0 - 100"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 1,
+        "ranges": [
+          "100 - 200"
         ]
       }
     ]
