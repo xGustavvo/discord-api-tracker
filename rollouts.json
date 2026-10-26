@@ -2199,5 +2199,32 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-edit-profile-collectibles-ordering",
+    "title": "Edit profile collectibles ordering",
+    "hash_key": null,
+    "platforms": [
+      "android",
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 2.5,
+        "ranges": [
+          "0 - 250"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 2.5,
+        "ranges": [
+          "250 - 500"
+        ]
+      }
+    ]
   }
 ]
