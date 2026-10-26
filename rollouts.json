@@ -1735,18 +1735,16 @@
     "variants": [
       {
         "variant": 1,
-        "from": 0,
-        "to": 50,
-        "ranges": [
-          "5000 - 10000"
-        ]
+        "from": 50,
+        "to": 0,
+        "ranges": []
       },
       {
         "variant": 2,
-        "from": 20,
-        "to": 50,
+        "from": 50,
+        "to": 100,
         "ranges": [
-          "0 - 5000"
+          "0 - 10000"
         ]
       }
     ]
