@@ -2256,5 +2256,50 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-10-clickable-hero-banner",
+    "title": "Clickable hero banner",
+    "hash_key": null,
+    "platforms": [
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 2.5,
+        "ranges": [
+          "0 - 250"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 2.5,
+        "ranges": [
+          "250 - 500"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-10-game-profile-mobile-reviews",
+    "title": "Game profile mobile reviews",
+    "hash_key": null,
+    "platforms": [
+      "android",
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 30,
+        "ranges": [
+          "0 - 3000"
+        ]
+      }
+    ]
   }
 ]
