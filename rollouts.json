@@ -1957,10 +1957,10 @@
     "variants": [
       {
         "variant": 1,
-        "from": 30,
-        "to": 50,
+        "from": 50,
+        "to": 100,
         "ranges": [
-          "0 - 5000"
+          "0 - 10000"
         ]
       }
     ]
@@ -2002,20 +2002,22 @@
     "variants": [
       {
         "variant": 0,
-        "from": 1,
-        "to": 10,
+        "from": 10,
+        "to": 25,
         "ranges": [
           "0 - 100",
-          "200 - 1100"
+          "200 - 1100",
+          "2000 - 3500"
         ]
       },
       {
         "variant": 1,
-        "from": 1,
-        "to": 10,
+        "from": 10,
+        "to": 25,
         "ranges": [
           "100 - 200",
-          "1100 - 2000"
+          "1100 - 2000",
+          "3500 - 5000"
         ]
       }
     ]
@@ -2450,6 +2452,32 @@
         "to": 1,
         "ranges": [
           "100 - 200"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-10-collectibles-interactive-jumble-bar",
+    "title": "Collectibles interactive jumble bar",
+    "hash_key": null,
+    "platforms": [
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 15,
+        "ranges": [
+          "0 - 1500"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 15,
+        "ranges": [
+          "1500 - 3000"
         ]
       }
     ]
