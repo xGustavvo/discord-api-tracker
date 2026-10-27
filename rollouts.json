@@ -2425,5 +2425,31 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-10-fix-soundboard-muting-iconography",
+    "title": "Fix soundboard muting iconography",
+    "hash_key": null,
+    "platforms": [
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 1,
+        "ranges": [
+          "0 - 100"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 1,
+        "ranges": [
+          "100 - 200"
+        ]
+      }
+    ]
   }
 ]
