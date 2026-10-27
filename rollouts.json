@@ -1585,20 +1585,22 @@
     "variants": [
       {
         "variant": 0,
-        "from": 10,
-        "to": 25,
+        "from": 25,
+        "to": 50,
         "ranges": [
           "0 - 1000",
-          "2000 - 3500"
+          "2000 - 3500",
+          "5000 - 7500"
         ]
       },
       {
         "variant": 1,
-        "from": 10,
-        "to": 25,
+        "from": 25,
+        "to": 50,
         "ranges": [
           "1000 - 2000",
-          "3500 - 5000"
+          "3500 - 5000",
+          "7500 - 10000"
         ]
       }
     ]
@@ -1729,18 +1731,18 @@
     "variants": [
       {
         "variant": 1,
-        "from": 75,
-        "to": 50,
+        "from": 50,
+        "to": 25,
         "ranges": [
-          "5000 - 10000"
+          "5000 - 7500"
         ]
       },
       {
         "variant": 2,
-        "from": 25,
-        "to": 50,
+        "from": 50,
+        "to": 75,
         "ranges": [
-          "0 - 5000"
+          "7500 - 10000"
         ]
       }
     ]
@@ -1966,18 +1968,20 @@
     "variants": [
       {
         "variant": 0,
-        "from": 0,
-        "to": 5,
+        "from": 5,
+        "to": 15,
         "ranges": [
-          "0 - 500"
+          "0 - 500",
+          "1000 - 2000"
         ]
       },
       {
         "variant": 1,
-        "from": 0,
-        "to": 5,
+        "from": 5,
+        "to": 15,
         "ranges": [
-          "500 - 1000"
+          "500 - 1000",
+          "2000 - 3000"
         ]
       }
     ]
@@ -2262,18 +2266,20 @@
     "variants": [
       {
         "variant": 0,
-        "from": 0,
-        "to": 2.5,
+        "from": 2.5,
+        "to": 5,
         "ranges": [
-          "0 - 250"
+          "0 - 250",
+          "500 - 750"
         ]
       },
       {
         "variant": 1,
-        "from": 0,
-        "to": 2.5,
+        "from": 2.5,
+        "to": 5,
         "ranges": [
-          "250 - 500"
+          "250 - 500",
+          "750 - 1000"
         ]
       }
     ]
@@ -2532,6 +2538,36 @@
         "ranges": [
           "0 - 10000"
         ]
+      }
+    ]
+  },
+  {
+    "id": "2026-09-soundboard-quick-action",
+    "title": "Soundboard quick action",
+    "hash_key": null,
+    "platforms": [
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 20,
+        "to": 0,
+        "ranges": []
+      },
+      {
+        "variant": 1,
+        "from": 20,
+        "to": 95,
+        "ranges": [
+          "0 - 9500"
+        ]
+      },
+      {
+        "variant": 2,
+        "from": 20,
+        "to": 0,
+        "ranges": []
       }
     ]
   }
