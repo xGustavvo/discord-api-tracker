@@ -19,6 +19,7 @@
   {
     "id": "2026-10-android-media-viewer-full-resolution",
     "title": "Android media viewer full resolution",
+    "hash_key": null,
     "platforms": [
       "android",
       "desktop"
@@ -26,15 +27,17 @@
     "variants": [
       {
         "variant": 0,
-        "from": 0,
-        "to": 50,
-        "range": "0 - 5000"
+        "from": 50,
+        "to": 0,
+        "ranges": []
       },
       {
         "variant": 1,
-        "from": 0,
-        "to": 50,
-        "range": "5000 - 10000"
+        "from": 50,
+        "to": 100,
+        "ranges": [
+          "0 - 10000"
+        ]
       }
     ]
   },
@@ -2574,15 +2577,16 @@
     "variants": [
       {
         "variant": 1,
-        "from": 0,
-        "to": 7.5,
+        "from": 7.5,
+        "to": 5,
         "ranges": [
           "400 - 450",
           "1000 - 1050",
           "1550 - 1600",
           "3550 - 3600",
           "4550 - 4600",
-          "6450 - 6800",
+          "6450 - 6500",
+          "6750 - 6800",
           "8250 - 8300",
           "9250 - 9300",
           "9950 - 10000"
