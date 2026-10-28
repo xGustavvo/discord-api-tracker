@@ -2593,5 +2593,23 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-invite-accept-age-group-errors",
+    "title": "Invite accept age group errors",
+    "hash_key": null,
+    "platforms": [
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 5,
+        "ranges": [
+          "0 - 500"
+        ]
+      }
+    ]
   }
 ]
