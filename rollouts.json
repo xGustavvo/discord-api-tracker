@@ -978,22 +978,16 @@
     "variants": [
       {
         "variant": 0,
-        "from": 25,
-        "to": 50,
-        "ranges": [
-          "0 - 500",
-          "1000 - 3000",
-          "5000 - 7500"
-        ]
+        "from": 50,
+        "to": 0,
+        "ranges": []
       },
       {
         "variant": 1,
-        "from": 25,
-        "to": 50,
+        "from": 50,
+        "to": 100,
         "ranges": [
-          "500 - 1000",
-          "3000 - 5000",
-          "7500 - 10000"
+          "0 - 10000"
         ]
       }
     ]
@@ -1714,18 +1708,16 @@
     "variants": [
       {
         "variant": 1,
-        "from": 50,
-        "to": 25,
-        "ranges": [
-          "5000 - 7500"
-        ]
+        "from": 25,
+        "to": 0,
+        "ranges": []
       },
       {
         "variant": 2,
-        "from": 50,
-        "to": 75,
+        "from": 75,
+        "to": 100,
         "ranges": [
-          "7500 - 10000"
+          "0 - 10000"
         ]
       }
     ]
@@ -2198,18 +2190,22 @@
     "variants": [
       {
         "variant": 0,
-        "from": 25,
-        "to": 2.5,
+        "from": 2.5,
+        "to": 25,
         "ranges": [
-          "0 - 250"
+          "0 - 250",
+          "500 - 1750",
+          "3000 - 4000"
         ]
       },
       {
         "variant": 1,
-        "from": 25,
-        "to": 2.5,
+        "from": 2.5,
+        "to": 25,
         "ranges": [
-          "250 - 500"
+          "250 - 500",
+          "1750 - 3000",
+          "4000 - 5000"
         ]
       }
     ]
@@ -2682,6 +2678,24 @@
         "to": 10,
         "ranges": [
           "1000 - 2000"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-09-desktop-voice-message-recording",
+    "title": "Desktop voice message recording",
+    "hash_key": null,
+    "platforms": [
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 30,
+        "ranges": [
+          "0 - 3000"
         ]
       }
     ]
