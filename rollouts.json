@@ -2611,5 +2611,32 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-10-summary-reminder-notif-re-revival",
+    "title": "Summary reminder notif re revival",
+    "hash_key": null,
+    "platforms": [
+      "android",
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 1,
+        "ranges": [
+          "0 - 100"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 1,
+        "ranges": [
+          "100 - 200"
+        ]
+      }
+    ]
   }
 ]
