@@ -2934,5 +2934,31 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-10-animated-shop-bundle-previews",
+    "title": "Animated shop bundle previews",
+    "hash_key": null,
+    "platforms": [
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 1,
+        "ranges": [
+          "0 - 100"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 1,
+        "ranges": [
+          "100 - 200"
+        ]
+      }
+    ]
   }
 ]
