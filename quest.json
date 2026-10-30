@@ -19804,5 +19804,127 @@
       "link": "https://game.ea.com/redirect?campaignName=FC27_UA_SA_EA_SOC_DISC_LC&caudience=3P-INT-PLAT-COMPETITIVEGAMING-CLK&ccreative=X_FC27-LA-LOGOANIM-LOOP_X_VID_6_2460x740_X_HC",
       "button_label": "Get Game"
     }
+  },
+  {
+  "id": "1562305244216430702",
+  "config_version": 2,
+  "starts_at": "2026-10-30T17:00:00+00:00",
+  "expires_at": "2026-11-09T01:00:00+00:00",
+  "features": [15],
+  "application": {
+    "link": "https://tickets.godzillaminuszero.com/?utm_source=discord&utm_campaign=GMZ&utm_medium=quest",
+    "id": "545364944258990091",
+    "name": "Discord"
+  },
+  "assets": {
+    "hero": "quests/1562305244216430702/1562305876713545728.jpg",
+    "hero_video": "quests/1562305244216430702/1562308054521876500_720.mp4",
+    "quest_bar_hero_blurhash": "lecNFITAk3hch5iIloigiweqaA==",
+    "quest_bar_hero": "quests/1562305244216430702/1562305876755222548.jpg",
+    "quest_bar_hero_video": "quests/1562305244216430702/1565472612161818836_720.mp4",
+    "game_tile": "PLACEHOLDER",
+    "logotype": "PLACEHOLDER",
+    "game_tile_light": "quests/1562305244216430702/1562305876767805440.png",
+    "game_tile_dark": "quests/1562305244216430702/1562305876767805440.png",
+    "logotype_light": "quests/1562305244216430702/1562305877636157480.png",
+    "logotype_dark": "quests/1562305244216430702/1562305877778632724.png"
+  },
+  "colors": {
+    "primary": "#4752C4",
+    "secondary": "#000000"
+  },
+  "messages": {
+    "quest_name": "Godzilla Minus Zero",
+    "game_title": "In Theatres November 6",
+    "game_publisher": "GKIDS"
+  },
+  "task_config_v2": {
+    "tasks": {
+      "WATCH_VIDEO": {
+        "type": "WATCH_VIDEO",
+        "target": 82,
+        "assets": {
+          "video": {
+            "url": "quests/1562305244216430702/1562305877845876807_1080.mp4",
+            "width": 1920,
+            "height": 1080,
+            "thumbnail": "quests/1562305244216430702/1562305878139347055.png"
+          },
+          "video_low_res": {
+            "url": "quests/1562305244216430702/1562305877845876807_720.mp4",
+            "width": 1920,
+            "height": 1080,
+            "thumbnail": "quests/1562305244216430702/1562305878139347055.png"
+          },
+          "video_hls": {
+            "url": "quests/1562305244216430702/1562305877845876807.m3u8",
+            "width": 1920,
+            "height": 1080,
+            "thumbnail": "quests/1562305244216430702/1562305878139347055.png"
+          }
+        },
+        "messages": {
+          "video_title": "PLACEHOLDER"
+        }
+      },
+      "WATCH_VIDEO_ON_MOBILE": {
+        "type": "WATCH_VIDEO_ON_MOBILE",
+        "target": 82,
+        "assets": {
+          "video": {
+            "url": "quests/1562305244216430702/1562305876851949660_1080.mp4",
+            "width": 1080,
+            "height": 1920,
+            "thumbnail": "quests/1562305244216430702/1562305878139347055.png"
+          },
+          "video_low_res": {
+            "url": "quests/1562305244216430702/1562305876851949660_720.mp4",
+            "width": 1080,
+            "height": 1920,
+            "thumbnail": "quests/1562305244216430702/1562305878139347055.png"
+          },
+          "video_hls": {
+            "url": "quests/1562305244216430702/1562305876851949660.m3u8",
+            "width": 1080,
+            "height": 1920,
+            "thumbnail": "quests/1562305244216430702/1562305878139347055.png"
+          }
+        },
+        "messages": {
+          "video_title": "PLACEHOLDER"
+        }
+      }
+    },
+    "join_operator": "or"
+  },
+  "rewards_config": {
+    "assignment_method": 1,
+    "rewards": [
+      {
+        "type": 3,
+        "sku_id": "1565167965530226698",
+        "asset": "quests/1562305244216430702/1565168385954947082.mp4",
+        "asset_video": null,
+        "messages": {
+          "name": "Godzilla Minus Zero Avatar Decoration",
+          "name_with_article": "a Godzilla Minus Zero Avatar Decoration",
+          "redemption_instructions_by_platform": {
+            "0": "PLACEHOLDER"
+          }
+        },
+        "expires_at": "2027-01-09T01:00:00+00:00",
+        "expires_at_premium": null,
+        "expiration_mode": 3
+      }
+    ],
+    "rewards_expire_at": "2026-12-09T01:00:00+00:00",
+    "platforms": [0]
+  },
+  "share_policy": "shareable_everywhere",
+  "cta_config": {
+    "link": "https://tickets.godzillaminuszero.com/?utm_source=discord&utm_campaign=GMZ&utm_medium=quest",
+    "button_label": "Get Tickets",
+    "subtitle": "In Theatres November 6"
   }
+}
 ]
