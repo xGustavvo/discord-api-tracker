@@ -2882,5 +2882,30 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-08-nitro-tenure-badge-withheld-state",
+    "title": "Nitro tenure badge withheld state",
+    "hash_key": null,
+    "platforms": [
+      "android",
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 50,
+        "to": 0,
+        "ranges": []
+      },
+      {
+        "variant": 1,
+        "from": 50,
+        "to": 100,
+        "ranges": [
+          "0 - 10000"
+        ]
+      }
+    ]
   }
 ]
