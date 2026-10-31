@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "source": "support",
+  "id": "115001918551",
+  "title": "Webcam not detected by Discord",
+  "url": "https://support.discord.com/hc/en-us/articles/115001918551-Webcam-not-detected-by-Discord",
+  "locale": "en-us",
+  "created_at": "2017-10-06T00:13:32Z",
+  "updated_at": "2026-10-30T20:23:59Z",
+  "author": null,
+  "summary": null,
+  "thumbnail_url": null,
+  "body": "<p>If your webcam is not being detected by Discord for video chat, there's a few things you can try to fix your detection issues:</p>\n<ul>\n<li>Make sure your webcam drivers (if any) are updated</li>\n<li>Turn off Hardware Acceleration in Discord settings</li>\n<li><a href=\"https://discord.com/api/download/ptb?platform=win\" target=\"_self\">Try Discord PTB</a></li>\n<li>Try the Discord web app</li>\n</ul>",
+  "body_hash": "9360933458d2633332af8433dfe198338de27da2dba508a12aa7884e7355b7a4",
+  "fetched_at": "2026-10-31T19:07:24.528Z",
+  "section_id": 360007770612,
+  "category_id": null,
+  "user_id": null,
+  "promoted": false,
+  "draft": false,
+  "labels": [
+    "answer-bot"
+  ]
+}

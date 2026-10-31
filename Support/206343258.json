@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "source": "support",
+  "id": "206343258",
+  "title": "How do I delete a channel?",
+  "url": "https://support.discord.com/hc/en-us/articles/206343258-How-do-I-delete-a-channel",
+  "locale": "en-us",
+  "created_at": "2015-07-23T20:56:59Z",
+  "updated_at": "2026-10-31T17:04:47Z",
+  "author": null,
+  "summary": null,
+  "thumbnail_url": null,
+  "body": "<p class=\"wysiwyg-text-align-left\">The process to delete a channel is super simple! </p>\n<h3 class=\"wysiwyg-text-align-left\">WARNING:<br>- Before you delete a channel, make sure you're super duper sure! <br>- Once a channel has been deleted, there is no way to resurrect the channel from the shadow realms. </h3>\n<p class=\"wysiwyg-text-align-left\"><span class=\"wysiwyg-font-size-large\"><strong>1.</strong> Click the gear icon next to the name of the channel you wish to delete.</span></p>\n<p class=\"wysiwyg-text-align-center\">      <img src=\"https://support.discord.com/hc/article_attachments/360058743512\" alt=\"Screen_Shot_2020-06-04_at_1.49.21_PM.png\"></p>\n<p class=\"wysiwyg-text-align-left\"><span class=\"wysiwyg-font-size-large\"><strong>2.</strong> Click on the \"Delete Channel\" in the bottom left sidebar</span></p>\n<p class=\"wysiwyg-text-align-center\"><img src=\"https://support.discord.com/hc/article_attachments/360058743632\" alt=\"Screen_Shot_2020-06-04_at_1.49.02_PM.png\"></p>\n<p class=\"wysiwyg-text-align-left\"><span class=\"wysiwyg-font-size-large\"><strong>3.</strong> Last but not least, when you're completely sure you want to proceed with the deletion, press \"<strong>Confirm</strong>\"</span></p>\n<p class=\"wysiwyg-text-align-center\"><span class=\"wysiwyg-font-size-large\"><img src=\"https://support.discord.com/hc/article_attachments/360058742792\" alt=\"Screen_Shot_2020-06-04_at_1.46.40_PM.png\"></span></p>\n<p class=\"wysiwyg-text-align-left\"> </p>\n<h3 class=\"wysiwyg-text-align-left\"><em>Note: If you accidentally delete all of the channels, right-click the server title and select \"Create Channel.\", or click the \"+\" button.</em></h3>\n<p class=\"wysiwyg-text-align-left\"> </p>",
+  "body_hash": "b00f458e008bfd0f7d82112e90d49cd6f75a2e56341a011b301eed722fbfaaf6",
+  "fetched_at": "2026-10-31T19:07:24.222Z",
+  "section_id": 202856377,
+  "category_id": null,
+  "user_id": null,
+  "promoted": false,
+  "draft": false,
+  "labels": [
+    "remove",
+    "deletion",
+    "delete channel",
+    "channel",
+    "answer-bot"
+  ]
+}

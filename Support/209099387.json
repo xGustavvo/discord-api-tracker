@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "source": "support",
+  "id": "209099387",
+  "title": "[Windows] Installer Errors",
+  "url": "https://support.discord.com/hc/en-us/articles/209099387--Windows-Installer-Errors",
+  "locale": "en-us",
+  "created_at": "2015-09-03T18:18:28Z",
+  "updated_at": "2026-10-31T18:48:53Z",
+  "author": null,
+  "summary": null,
+  "thumbnail_url": null,
+  "body": "<p>Are you having issues with the installer failing or showing various errors that prevent the Discord app from installing to your Windows device? Though not intentional, there may be various issues that can cause the installation process to fail. Here are some general troubleshooting techniques that can help get you back on track.</p>\n<div class=\"tip-box\">\n<strong>Note: </strong>Sometimes stray processes can hide in your system tray or your Task Manager, so don’t forget to double-check those too!</div>\n<p>1. Close Discord in the system tray and make sure all Discord processes are terminated. Delete the 2 following folders:</p>\n<ul>\n<li>%AppData%/Discord</li>\n<li>%LocalAppData%/Discord</li>\n</ul>\n<p>To find those folders, tap the Start button + R, and enter:</p>\n<p><em>%appdata%</em></p>\n<p>in the run window and hit the enter <em>key:</em></p>\n<p class=\"wysiwyg-text-align-center\"><em><img src=\"https://support.discord.com/hc/article_attachments/25445402235415\" width=\"399\" height=\"205\"></em></p>\n<p>%appdata% in the run window</p>\n<p>Then input <em>%localappdata%</em> in the run window and tap enter:</p>\n<p class=\"wysiwyg-text-align-center\"><img src=\"https://support.discord.com/hc/article_attachments/25445402242455\" width=\"399\" height=\"204\"></p>\n<p>Find the \"Discord\" folder in both of those windows, and delete it.</p>\n<p>If your OS tells you that the file can’t be deleted because it's still in use, please open up the device's <strong>Task Manager</strong> and terminate all instances of Discord there and in the Start Up tab.</p>\n<p>2. Restart your Windows device.</p>\n<p>3. Reinstall the Discord app via<a href=\"https://discordapp.com/api/download?platform=win\" target=\"_blank\" rel=\"noopener noreferrer\"> https://discordapp.com/api/download?platform=win</a>. In some cases, these extra steps may be necessary.</p>\n<ul>\n<li>Set the Discord application (%LocalAppData%/Discord/most recent version) to run as Administrator and set Compatibility to Windows 7 or 8 (try both)</li>\n<li>Make sure that all instances of Discord, including the browser version, are closed out before attempting the steps.</li>\n</ul>\n<div class=\"form-box\">\n<strong>Note: </strong>If you are still running into issues installing Discord after trying all of the above, please reach out to our Support team through here: <a href=\"https://dis.gd/contact\" target=\"_blank\" rel=\"noopener noreferrer\">https://dis.gd/contact</a>\n</div>",
+  "body_hash": "fa85ee16293197b26805b09dace2f34a80dbc666f45c9000e9fc48d2a0a69f88",
+  "fetched_at": "2026-10-31T19:07:24.528Z",
+  "section_id": 360007770612,
+  "category_id": null,
+  "user_id": null,
+  "promoted": false,
+  "draft": false,
+  "labels": [
+    "answer-bot"
+  ]
+}

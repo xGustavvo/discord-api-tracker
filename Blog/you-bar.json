@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "source": "blog",
+  "id": "you-bar",
+  "title": "Introducing: You Bar",
+  "url": "https://discord.com/blog/you-bar",
+  "locale": "en-us",
+  "created_at": "2026-06-08T00:00:00.000Z",
+  "updated_at": "2026-06-08T00:00:00.000Z",
+  "author": null,
+  "summary": "Introducing the You Bar: an update to the Discord mobile app that celebrates your identity, simpler navigation, and a peek at what’s next.",
+  "thumbnail_url": "https://cdn.prod.website-files.com/5f9072399b2640f14d6a2bf4/6a2332d69dbeedfe7d0cbc92_image4.jpg",
+  "body": "<p>Hello there!</p><p>I'm Perry, one of the product designers here at Discord, and we've spent the last little while working on something we're calling the You Bar, which set out to do three big things:</p><ol role=\"list\"><li>Simplify how you navigate the mobile app</li><li>Celebrate your identity</li><li>Start to unify our desktop and mobile apps</li></ol><p>Now that it's starting to roll out to everyone on mobile, I wanted to share a bit about how we landed on its final design and a glimpse into what's next.</p>",
+  "body_hash": "caed42c648e3188e1e9396c24e546a76e691588b7903067375a655e0a38252a8",
+  "fetched_at": "2026-10-31T19:07:27.354Z",
+  "slug": "you-bar",
+  "published_at": "2026-06-08T00:00:00.000Z"
+}

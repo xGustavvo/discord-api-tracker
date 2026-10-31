@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "source": "blog",
+  "id": "measure-less-to-learn-more-using-fewer-higher-quality-metrics-to-capture-what-matters",
+  "title": "Measure Less to Learn More: Using Fewer, Higher-quality Metrics to Capture What Matters",
+  "url": "https://discord.com/blog/measure-less-to-learn-more-using-fewer-higher-quality-metrics-to-capture-what-matters",
+  "locale": "en-us",
+  "created_at": "2026-04-24T00:00:00.000Z",
+  "updated_at": "2026-04-24T00:00:00.000Z",
+  "author": null,
+  "summary": "Too many experiment metrics can make meaningful changes harder to detect. Learn how Discord used simulations and Principal Component Analysis to maximize signal and reduce noise.",
+  "thumbnail_url": "https://cdn.prod.website-files.com/5f9072399b2640f14d6a2bf4/6806ad72843df60c11e54f23_image4.png",
+  "body": "<p>If you’re reading this blog post, you’re likely familiar with the pull toward more metrics. As organizations grow, so too does the list of things people want to measure. Different metrics matter for different teams, and everyone has Metrics FOMO, worried that leaving one out could prevent us from reaching our Next Big Insight.&nbsp;</p><p>At Discord, this happened with our Default Metric List: a set of metrics that are automatically included in every experiment. Over time, that default list grew as teams added metrics they cared about, while few were removed. We took a step back and asked if we might be better off measuring <em>less</em>.&nbsp;</p><p>To data teams, suggesting we measure less feels like heresy. “Our job is to measure! Why would we, the organization’s shrewdest pattern finders, knowingly leave data on the table?” The encounter below might look familiar:</p><figure style=\"max-width:1432pxpx\" class=\"w-richtext-align-fullwidth w-richtext-figure-type-image\"><div><img alt=\"Person 1 asks for a short list of important experiment metrics. Person 2 replies, 'sending a few just to be safe,' next to a photo of a comically elongated phone displaying a massive wall of text.\" src=\"https://cdn.prod.website-files.com/5f9072399b2640f14d6a2bf4/69eab8bd2efa06e399eae546_fdb165df.png\" loading=\"lazy\"></div></figure><p>This urge is real, but having <em>too many</em> metrics brings a new set of issues. Beyond higher compute costs and a harder time navigating experiment readouts, having more metrics highlights an inherent tradeoff:</p><ul role=\"list\"><li><strong>Leaving </strong><a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC2895822/\"><strong>p-values</strong></a><strong> as-is</strong> has the potential for too many false positives. For example, if you have 100 metrics and set a 5% p-value threshold for statistical significance, 5 of your metrics are going to be statistically significant <em>just by random chance</em>.</li><li><strong>Adjusting p-values using a multiple hypothesis correction</strong> can result in fewer false positives, but worse recall in detecting real changes. In this situation, ”Recall” is defined as the proportion of true positives that we catch.</li></ul><p>In this article, we explore our journey to address this issue and show that there is no One Fancy Statistical Method™️ to get around this. <strong>The best solution is to use fewer, high-quality metrics that capture distinct concepts.</strong></p>",
+  "body_hash": "c0e92781d13ed68288365d6bf508a41149f7b91c977af2a7e8e048fc3d593095",
+  "fetched_at": "2026-10-31T19:07:28.434Z",
+  "slug": "measure-less-to-learn-more-using-fewer-higher-quality-metrics-to-capture-what-matters",
+  "published_at": "2026-04-24T00:00:00.000Z"
+}

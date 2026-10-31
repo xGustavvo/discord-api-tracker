@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "source": "support",
+  "id": "360002478332",
+  "title": "[iOS] What is happening with my game audio?",
+  "url": "https://support.discord.com/hc/en-us/articles/360002478332--iOS-What-is-happening-with-my-game-audio",
+  "locale": "en-us",
+  "created_at": "2018-04-06T18:31:22Z",
+  "updated_at": "2026-10-26T13:24:26Z",
+  "author": null,
+  "summary": null,
+  "thumbnail_url": null,
+  "body": "<p>Discord utilizes iPhone's built-in audio processing unit for echo cancellation and automatic gain control. As a result, you get higher quality voice with Discord on your device. Unfortunately, when you put Discord to the background to play a game, iOS reduces the audio output level of your game.</p>\n<p>For the best experience, we recommend to use a headset. iOS still reduces your game audio output level, but you can hear both the game and your Discord buddies.</p>\n<p>Occasionally, when joining a voice channel on Discord (your game is in the background), your game audio may get paused. If you restart the game, you should hear both Discord and the game.</p>\n<h3>Note: This is a feature that iOS has built into their system &amp; unfortunately there are currently no settings within iOS to disable it.</h3>",
+  "body_hash": "84145abf611d59cbd7343d2e38b018830749a225a4b14230bf528671f53009f1",
+  "fetched_at": "2026-10-31T19:07:24.528Z",
+  "section_id": 360007770612,
+  "category_id": null,
+  "user_id": null,
+  "promoted": false,
+  "draft": false,
+  "labels": [
+    "answer-bot"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "source": "support",
+  "id": "360004851252",
+  "title": "Instant Invite 102 - Group Invites",
+  "url": "https://support.discord.com/hc/en-us/articles/360004851252-Instant-Invite-102-Group-Invites",
+  "locale": "en-us",
+  "created_at": "2018-06-15T23:05:57Z",
+  "updated_at": "2026-10-27T19:41:56Z",
+  "author": null,
+  "summary": null,
+  "thumbnail_url": null,
+  "body": "<p>When you're not ready to start a server, but you still want to share goofy gifs with some friends... That's where group invites have you covered. </p>\n<h1>Group Invites</h1>\n<p>Your gif sharing group is ready to go, but it needs more members! Any group member who is currently on a computer will be able to create an invite link by clicking the <strong>Add Friends</strong> icon at the top of the screen.</p>\n<p class=\"wysiwyg-text-align-center\"><img src=\"https://support.discord.com/hc/article_attachments/360006242132\" alt=\"Invite_Member.png\" width=\"550\" height=\"387\"></p>\n<p>Once you have created your invite link - you're ready to share it with the world. It will appear very similar to a server invite.</p>\n<p class=\"wysiwyg-text-align-center\"><img src=\"https://support.discord.com/hc/article_attachments/360006283511\" alt=\"Invite_Link.PNG\" width=\"452\" height=\"109\"></p>\n<h3>Note: If your group fills up (10 members) the invite link will no longer work. </h3>\n<p>Even though you can only make group invites on a computer, you can use them to join a chat on any version of Discord!</p>\n<h1>Group Invite Management</h1>\n<p>Group DM owners, you have some special powers! As the owner of the DM you'll be able to help manage any invites that have been created. Right-click the icon for your group DM and select <strong>Instant Invite</strong>.</p>\n<p class=\"wysiwyg-text-align-center\"><img src=\"https://support.discord.com/hc/article_attachments/360006242632\" alt=\"Instant_Invites.png\"></p>\n<p>Instant invite links for group DMs will automatically <strong>expire after 48 hours</strong>, however, the owner will be able to click the X next to an invite to deactivate it.</p>\n<p class=\"wysiwyg-text-align-center\"><img src=\"https://support.discord.com/hc/article_attachments/360006283831\" alt=\"Revoke.png\" width=\"548\" height=\"362\"></p>\n<h3>Note: If an invitee is blocked by the inviter, they will not be able to use the Group DM invite link.</h3>",
+  "body_hash": "8d46e7154e02aa27225cc041106f85de6896dfd381eff1b2bb1be20d9baf7a64",
+  "fetched_at": "2026-10-31T19:07:24.222Z",
+  "section_id": 24452288971927,
+  "category_id": null,
+  "user_id": null,
+  "promoted": false,
+  "draft": false,
+  "labels": [
+    "answer-bot"
+  ]
+}

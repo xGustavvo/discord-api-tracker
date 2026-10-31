@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "source": "supportDev",
+  "id": "30209074764183",
+  "title": "How to Obtain Console Middleware for the Social SDK",
+  "url": "https://support-dev.discord.com/hc/en-us/articles/30209074764183-How-to-Obtain-Console-Middleware-for-the-Social-SDK",
+  "locale": "en-us",
+  "created_at": "2025-02-24T21:25:29Z",
+  "updated_at": "2026-10-01T02:47:37Z",
+  "author": null,
+  "summary": null,
+  "thumbnail_url": null,
+  "body": "<h2 id=\"h_01JP33C8GHYY2W5MT6SQM5MHER\">Contents</h2>\n<p><a href=\"#h_01JP33C8GH8DHDVMP0YBBBGH13\">Introduction</a></p>\n<p><a href=\"#h_01JP33DR398CK8ZP3H1MA63NQC\">Discord Social SDK for PlayStation™</a></p>\n<p><a href=\"#h_01JP33DYW142NNPPFTPSA2X57G\">Discord Social SDK for Xbox</a></p>\n<p><a href=\"#h_01JP33C8GJN1XX6ZVM9EHXXD9C\">What Next?</a></p>\n<h1 id=\"h_01JP33C8GH8DHDVMP0YBBBGH13\">Introduction</h1>\n<p>To obtain console binaries for the <a href=\"https://support-dev.discord.com/hc/en-us/articles/30127085446039\" target=\"_blank\" rel=\"noopener noreferrer\">Discord Social SDK</a>, you'll need proper credentials and must complete our console middleware request process. Start by requesting the Discord Social SDK middleware through your console's developer portal.</p>\n<h1 id=\"h_01JP33DR398CK8ZP3H1MA63NQC\">Discord Social SDK for PlayStation™</h1>\n<p><strong>Step 1.</strong> Sign in to your <a href=\"https://partners.playstation.net/\" target=\"_blank\" rel=\"noopener noreferrer\">PlayStation™ Partners</a> account.</p>\n<p><strong>Step 2.</strong> Select ‘<strong>Discord Social SDK’</strong> from the <strong>Tools &amp; Middleware</strong> directory to confirm developer status.</p>\n<p>After completing the request, proceed to the \"What Next?\" section below.</p>\n<h1 id=\"h_01JP33DYW142NNPPFTPSA2X57G\">Discord Social SDK for Xbox</h1>\n<p><strong>Step 1.</strong> Sign in to your <a href=\"https://developer.microsoft.com/en-us/games/publish?xr=footnav\" target=\"_blank\" rel=\"noopener noreferrer\">Xbox Game Dev Portal</a> account.</p>\n<p><strong>Step 2.</strong> Select ‘<strong>Discord Social SDK</strong>’ from the Middleware Partner dropdown <a href=\"https://developer.microsoft.com/en-us/games/support/request-gdkx-middleware\" target=\"_blank\" rel=\"noopener noreferrer\">here</a></p>\n<p><strong>Step 3.</strong> Click '<strong>Submit Request</strong>'.</p>\n<p>After completing the request, proceed to the \"What Next?\" section below.</p>\n<h1 id=\"h_01JP33C8GJN1XX6ZVM9EHXXD9C\">What Next?</h1>\n<p>After the applicable console platform contacts us about your request, we <span class=\"discussion-id-1aff46fd-48aa-8071-b465-001c64cc5c77 notion-enable-hover\" data-token-index=\"0\">may</span><!-- notionvc: a3e9814d-e2c6-4909-8fc8-19e184e36b0b --> contact you at the email address associated with your console developer portal account with a form link to gather more information from you.</p>\n<p>We may share this information with the console platform. Please note that you are <strong>not</strong> required to share confidential information about your game--providing temporary names, franchise names, or codenames will suffice where titles are requested.</p>\n<p>Once your form submission has been reviewed, if approved, we'll set up your application with the appropriate permissions to access the console binaries and notify you directly.</p>\n<p>Need more help? Join our <a href=\"https://discord.com/invite/discord-developers\" target=\"_blank\" rel=\"noopener noreferrer\">Discord Developers server</a> to connect with other developers in the <code>#social-sdk-dev-help</code> channel or reach out to our support team <a href=\"https://dis.gd/social-sdk\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>!</p>\n<p><!-- notionvc: d2bf8efa-4676-4cba-8f1e-f787e3ce8199 --></p>",
+  "body_hash": "080ee3a9a6d096737e030fa95c39c4a2b4729abf62e20537104d36dcdc08b536",
+  "fetched_at": "2026-10-31T19:07:22.283Z",
+  "section_id": 30608814750103,
+  "category_id": null,
+  "user_id": null,
+  "promoted": false,
+  "draft": false,
+  "labels": []
+}

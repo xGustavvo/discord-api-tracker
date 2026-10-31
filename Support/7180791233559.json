@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "source": "support",
+  "id": "7180791233559",
+  "title": "Using a Screen Reader on Discord",
+  "url": "https://support.discord.com/hc/en-us/articles/7180791233559-Using-a-Screen-Reader-on-Discord",
+  "locale": "en-us",
+  "created_at": "2022-07-02T00:29:59Z",
+  "updated_at": "2026-10-28T05:55:15Z",
+  "author": null,
+  "summary": null,
+  "thumbnail_url": null,
+  "body": "<h3><span style=\"font-weight: 400;\">This article is currently undergoing updates. Stay tuned for more soon!</span></h3>\n<p><span style=\"font-weight: 400;\">If you utilize a screen reader, you can use it on Discord to help you navigate the desktop and browser clients. </span></p>\n<p><span style=\"font-weight: 400;\">Screen readers are great for people who may be visually impaired and rely on screen readers to dictate the text on a screen and announce what features are currently being displayed.</span></p>",
+  "body_hash": "c4e669f2cddc286f5a53373e7d2529b19d3be707d8d6d83a2781da942d010288",
+  "fetched_at": "2026-10-31T19:07:24.223Z",
+  "section_id": 360007770612,
+  "category_id": null,
+  "user_id": null,
+  "promoted": false,
+  "draft": false,
+  "labels": [
+    "answer-bot",
+    "screen reader"
+  ]
+}

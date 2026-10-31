@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "source": "blog",
+  "id": "how-discord-indexes-trillions-of-messages",
+  "title": "How Discord Indexes Trillions of Messages",
+  "url": "https://discord.com/blog/how-discord-indexes-trillions-of-messages",
+  "locale": "en-us",
+  "created_at": "2025-04-24T00:00:00.000Z",
+  "updated_at": "2025-04-24T00:00:00.000Z",
+  "author": null,
+  "summary": "Learn how Discord scaled its search infrastructure to index trillions of messages and unlock new features.",
+  "thumbnail_url": "https://cdn.prod.website-files.com/5f9072399b2640f14d6a2bf4/6806ad72843df60c11e54f23_image4.png",
+  "body": "<p>Back in 2017, we shared how we built our message search system to<a href=\"https://discord.com/blog/how-discord-indexes-billions-of-messages\"> index billions of messages</a>. We designed our search infrastructure to be performant, cost-effective, scalable, and easy to operate. We chose to use Elasticsearch, with Discord messages sharded over<a href=\"https://www.elastic.co/blog/what-is-an-elasticsearch-index\"> indices</a>, the logical namespace for Elasticsearch messages, on two Elasticsearch clusters. Messages were sharded either by Discord server (which we’ll refer to as a guild from here on out) or direct message (DM). This allowed us to store all a guild’s messages together for fast querying and run smaller, more manageable clusters. Since not everyone uses search, messages were lazily indexed into Discord, and we built a message queue that allowed workers to pull chunks of messages for indexing to leverage Elasticsearch’s bulk-indexing capabilities.</p><p>But as Discord grew, our search infrastructure began to exhibit a few cracks…</p><p>‍</p>",
+  "body_hash": "784908ab282da173770a934dd2e1c72d3e6c58da5bba0528668a93e6ee4bb9db",
+  "fetched_at": "2026-10-31T19:07:34.032Z",
+  "slug": "how-discord-indexes-trillions-of-messages",
+  "published_at": "2025-04-24T00:00:00.000Z"
+}

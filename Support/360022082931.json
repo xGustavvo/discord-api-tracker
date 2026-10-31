@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "source": "support",
+  "id": "360022082931",
+  "title": "[macOS] Install and Updating Errors",
+  "url": "https://support.discord.com/hc/en-us/articles/360022082931--macOS-Install-and-Updating-Errors",
+  "locale": "en-us",
+  "created_at": "2019-01-17T03:50:28Z",
+  "updated_at": "2026-10-23T20:20:57Z",
+  "author": null,
+  "summary": null,
+  "thumbnail_url": null,
+  "body": "<p>Hey, listen! If you're having issues updating or installing Discord on your shiny Macintosh machine, we can help! Though not intentional, there are various issues that can cause the install or update process to fail. You'll see this as an endless update, or an unexplained install error! In cases like these, completely reinstalling Discord will often improve our updater's performance and clear out any issues. Follow these steps!</p>\n<h3>\n<strong>Note: Remember that Discord only supports MacOS 10.11 and up (El Capitan)</strong> <strong>or above! Also, if you're running macOS on a machine that wasn't produced by Apple (IE, a Hackintosh), you may run into unique issues!</strong>\n</h3>\n<h1>Reinstalling Discord</h1>\n<ul class=\"oldschool\">\n<li>Close Discord by using ⌘+Q or selecting the Quit option from the menubar, then make sure all Discord processes are terminated from within your Mac's <strong>Activity Monitor</strong>. (You can quickly launch the Activity Monitor by using Spotlight or Siri on your Mac!) <br><br>\n</li>\n<li>Delete the 2 following folders:</li>\n</ul>\n<ol>\n<ol>\n<li>~/Library/Application Support/Discord</li>\n<li>/Library/Application Support/Discord</li>\n</ol>\n</ol>\n<p class=\"wysiwyg-text-align-left\"><span class=\"wysiwyg-font-size-medium\"><em>To find those folders, open <strong>Finder</strong>, press <strong>⇧⌘+G </strong>(or <strong>Go &gt; Go to Folder</strong> in the menubar), and enter:</em></span></p>\n<p class=\"wysiwyg-text-align-left\"><em>~/Library/Application Support in the window and hit enter: </em></p>\n<p class=\"wysiwyg-text-align-left\"><img src=\"https://support.discord.com/hc/article_attachments/360018976612\" alt=\"Screen_Shot_2019-01-16_at_7.40.53_PM.png\"></p>\n<p> <em>Then /Library/Application Support in the run window and hit enter:</em></p>\n<p><em><br><img src=\"https://support.discord.com/hc/article_attachments/360018976652\" alt=\"Screen_Shot_2019-01-16_at_7.41.20_PM.png\"></em></p>\n<p>In both of these cases, find the Discord folders in these files and drag them to your Trash. <strong>Note:</strong> There may not be a Discord folder in the second file (/Library/Application Support). If there isn't, that's okay!<br><br>Next, open your <strong>Applications</strong> folder. Find Discord and drag it to your Trash. Finally, empty your Trash!</p>\n<p class=\"wysiwyg-text-align-left\"><span class=\"wysiwyg-font-size-medium\"><em>If your OS tells you that the file cannot be deleted because it's still in use. Open up the Activity Monitor and terminate all instances of Discord.</em></span></p>\n<ul class=\"oldschool\">\n<li>Restart your system.</li>\n<li>Reinstall via https://discord.com/api/download?platform=osx</li>\n</ul>\n<h3><strong>Note: Make sure that all instances of Discord are closed out before attempting these steps!</strong></h3>\n<h1>Diagnosing Network Issues</h1>\n<p>If reinstalling Discord doesn't do the trick, it's possible your network configuration is preventing our updater from doing its job! To clear up any networking issues, there's some basic troubleshooting steps you should try!</p>\n<p>First, try setting your DNS to Google Public DNS!</p>\n<ul class=\"oldschool\">\n<li>Open <strong>System Preferences </strong>from your Mac's Apple menu, then select <strong>Network</strong>. From there, choose the network you're currently using (for example, <strong>Wi-Fi</strong>)</li>\n<li>Select <strong>Advanced...</strong>, select the <strong>DNS</strong> tab in the top bar, then use the Plus button under <strong>DNS Servers</strong> to add the following DNS server options!\n<ul>\n<li>8.8.8.8</li>\n<li>8.8.4.4</li>\n<li>2001:4860:4860::8888</li>\n<li>2001:4860:4860::8844</li>\n</ul>\n</li>\n<li>Click <strong>OK</strong>, then close System Preferences and try relaunching Discord!</li>\n</ul>\n<p>If that doesn't do the trick, try renewing your Mac's IP address! </p>\n<ul>\n<li>Open <strong>System Preferences </strong>from your Mac's Apple menu, then select <strong>Network</strong>. From there, choose the network you're currently using (for example, <strong>Wi-Fi</strong>)</li>\n<li>Select <strong>Advanced...</strong>, then select the <strong>TCP/IP </strong>tab</li>\n<li>Click <strong>Renew DHCP Lease</strong>\n</li>\n<li>Select <strong>OK</strong>, close System Preferences, then try relaunching Discord once more!</li>\n</ul>\n<h3><strong>Note: If none of these steps do the trick, reach out to our Support Team at https://dis.gd/contact</strong></h3>\n<p> </p>",
+  "body_hash": "27726c35cfb0de0e26c7c009fdc02db79e7bdcd10a0d1705c20ee94002386d0c",
+  "fetched_at": "2026-10-31T19:07:24.527Z",
+  "section_id": 360007770612,
+  "category_id": null,
+  "user_id": null,
+  "promoted": false,
+  "draft": false,
+  "labels": [
+    "install",
+    "update failed",
+    "update fail",
+    "answer-bot",
+    "macos",
+    "mac os x",
+    "mac"
+  ]
+}

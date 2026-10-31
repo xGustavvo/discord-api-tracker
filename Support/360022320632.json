@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "source": "support",
+  "id": "360022320632",
+  "title": "Spoiler Tags! ",
+  "url": "https://support.discord.com/hc/en-us/articles/360022320632-Spoiler-Tags",
+  "locale": "en-us",
+  "created_at": "2019-01-27T02:15:15Z",
+  "updated_at": "2026-10-31T13:49:55Z",
+  "author": null,
+  "summary": null,
+  "thumbnail_url": null,
+  "body": "<p>Don't you just hate it when you have that one friend that tells you that Wumpus McWumperton dies in the next season of Discord High? </p>\n<p class=\"wysiwyg-text-align-left\">We now have a solution for you! Introducing <strong>Spoiler Tags</strong>! </p>\n<p class=\"wysiwyg-text-align-center\"><img src=\"https://support.discord.com/hc/article_attachments/360061456191\" alt=\"Screenshot__121_.png\"></p>\n<h1 class=\"wysiwyg-text-align-left\">How does it work?</h1>\n<p>With spoiler tags, you can mark individual parts of messages or the entire message as a spoiler. The easiest way to mark your message as a Spoiler is by highlighting the text, click on the eye icon. This will mark that portion of the message as a spoiler. </p>\n<p class=\"wysiwyg-text-align-center\"><img src=\"https://support.discord.com/hc/article_attachments/360061291032\" alt=\"Capture1.jpg\"></p>\n<h3 class=\"wysiwyg-text-align-center\">Please note that text marked as Spoiler within code blocks will not be hidden. </h3>\n<p>Once you mark it as a spoiler, <strong>you will see two bars in the front and back of the selected message</strong>. The spoiler text should look something like this: </p>\n<p class=\"wysiwyg-text-align-center\"><img src=\"https://support.discord.com/hc/article_attachments/360061456951\" alt=\"Screenshot__123_.jpg\"></p>\n<h3 class=\"wysiwyg-text-align-center\">You can also manually tag spoilers by using the <a href=\"https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-\" target=\"_self\">Markdown</a> syntax ||Insert spoilers here|| or typing /spoiler before your message. </h3>\n<h2>I need to see it!</h2>\n<p class=\"wysiwyg-text-align-left\">Once you made up your mind, and decide to peek into Pandora's box, go ahead and click on the spoiler box. </p>\n<h1 class=\"wysiwyg-text-align-left\">I made a mistake, please hide it from my eyes</h1>\n<p>You can re-hide all spoilers revealed by leaving the channel, but keep in mind, <strong>you can never unsee what you have seen</strong>. </p>\n<h2><span class=\"wysiwyg-font-size-large\">Image/Video/Link Spoilers</span></h2>\n<p data-pm-slice=\"1 1 []\">You can mark attachments as spoilers by adding the attachment to your message and then clicking the Mark as Spoiler \"eye\" icon (eye-con, if you will) before you send your message.</p>\n<p class=\"wysiwyg-text-align-center\" data-pm-slice=\"1 1 []\"><img src=\"https://support.discord.com/hc/article_attachments/4420878999447\" alt=\"spoiler-icon-attachments.png\"></p>\n<p class=\"wysiwyg-text-align-left\">You can mark a link as spoilers by simply adding the<strong> two bars in front and back of the link URL</strong>. </p>\n<p class=\"wysiwyg-text-align-center\"><img src=\"https://support.discord.com/hc/article_attachments/360019581191\" alt=\"7.png\"></p>\n<h3 class=\"wysiwyg-text-align-center\">Please note that Discord server invites embeds cannot be hidden via spoiler tags.</h3>\n<h1>Bold of you to assume I fear spoilers</h1>\n<p>For the brave souls who wish to journey into the spoiler territory: If you wish to turn off the spoiler tag feature, you may do so by going to <strong>User Settings &gt; Text &amp; Images:</strong></p>\n<p><strong>On click: </strong>Never mind, I want to go back. Please hide all spoilers.<br><br><strong>On servers I moderate: </strong>I am the Law, therefore I cannot have spoiler tags slowing me down.<br><em>(Moderate means you have a role with Manage Messages enabled)</em><br><br><strong>Always: </strong><em>As I walk through the valley of the shadow of death, I take a look at my life and realize there's nothing left to spoil.</em></p>\n<p class=\"wysiwyg-text-align-center\"><img src=\"https://support.discord.com/hc/article_attachments/360020153932\" alt=\"9.jpg\" width=\"808\" height=\"457\"></p>\n<h3 class=\"wysiwyg-text-align-center\">Currently, you can only disable the spoiler tag feature on the Desktop/Browser app</h3>\n<h2>Spoiler Tags on Mobile</h2>\n<p>You can mark text as spoilers on mobile using the same Markdown syntax as on desktop. Wrap your text in bars ||just like this|| and it'll show up as spoilers when you post it!</p>\n<p>This works for embedded links, too. If you want to make a link into a spoiler, just wrap your link in bars! <br><br>On iOS specifically, you can mark text as spoilers by selecting the text in the text box and tapping it to open the context menu. Once you have the text selected, you can tap <strong>Mark as Spoiler </strong>to wrap the selected text in bars. </p>\n<p class=\"wysiwyg-text-align-center\"><img src=\"https://support.discord.com/hc/article_attachments/360021711252\" alt=\"10.jpg\"></p>\n<p> </p>",
+  "body_hash": "91cab16d497c2853cef878d71f66794efb3b5badcb10961bae9f073fb58ecabf",
+  "fetched_at": "2026-10-31T19:07:24.223Z",
+  "section_id": 115000458672,
+  "category_id": null,
+  "user_id": null,
+  "promoted": false,
+  "draft": false,
+  "labels": [
+    "featured",
+    "chat",
+    "Server",
+    "answer-bot"
+  ]
+}

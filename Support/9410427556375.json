@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "source": "support",
+  "id": "9410427556375",
+  "title": "[Windows] Capturing Application Window for Screen Share and Go Live",
+  "url": "https://support.discord.com/hc/en-us/articles/9410427556375--Windows-Capturing-Application-Window-for-Screen-Share-and-Go-Live",
+  "locale": "en-us",
+  "created_at": "2022-10-07T20:59:41Z",
+  "updated_at": "2026-10-31T16:49:17Z",
+  "author": null,
+  "summary": null,
+  "thumbnail_url": null,
+  "body": "<p>Discord uses multiple techniques to capture an application window for Go Live and Screen Share. We are thrilled to introduce a new capture method for Windows user: <strong>Windows Graphics Capture</strong>.</p>\n<p><strong>Windows Graphics Capture</strong> is available on Windows 10 and above and is the latest Windows API to capture an application window.</p>\n<p>Discord uses multiple technologies to capture your screen. Our current default capture method uses similar technology to capture your screen that is used for overlay - \"<strong>Use our advanced technology to capture your screen</strong>\". Our signed DLL is injected into the application to extract rendered frames as they are being sent to Windows for display.</p>\n<p>On Windows 11 and higher, we will change the default capture method to Windows Graphics Capture. Unfortunately, it does not work for full screen exclusive (FSE) games.</p>\n<p>We use <code>SHQueryUserNotificationState</code> to determine whether the game is running in full screen exclusive mode. However, this method may give false positive and we fall back to other capture methods.</p>\n<h2>How do I check which capture method is used?</h2>\n<p>If you enable <strong>Developer Mode</strong> under Advanced User Settings, you can open Debug panel by clicking <strong>Voice/Video Connected</strong>.</p>\n<p>Under the <strong>Screen Share</strong> tab, Discord shows the number of frames captured for each screen share method.</p>\n<p class=\"wysiwyg-text-align-center\"><img src=\"https://support.discord.com/hc/article_attachments/9410923159831\" alt=\"stats.png\"></p>\n<h2>How do I check whether the game is running in full screen exclusive mode?</h2>\n<p>Open <strong>Xbox Game Bar (Windows + G)</strong>. If the game minimizes, it uses FSE. If Xbox Game Bar renders smoothly on top of your game, it uses borderless fullscreen.</p>\n<p>Certain games offer to use the <strong>Full Screen</strong> or <strong>Borderless</strong> option. If the Full Screen option is selected, we may misclassify the game as using FSE and disable Windows Graphics Capture.</p>\n<p>If you would like to get the best screen share performance, please select the <strong>Borderless</strong> option.</p>",
+  "body_hash": "0e7a8f9bf6ba1ad3478e323b073e30cd325739daaac526787f7bc8481ca445c3",
+  "fetched_at": "2026-10-31T19:07:24.222Z",
+  "section_id": 360007770612,
+  "category_id": null,
+  "user_id": null,
+  "promoted": false,
+  "draft": false,
+  "labels": [
+    "answer-bot"
+  ]
+}

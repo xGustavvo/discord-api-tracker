@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "source": "support",
+  "id": "211374998",
+  "title": "What do those colored dots next to my avatar mean?",
+  "url": "https://support.discord.com/hc/en-us/articles/211374998-What-do-those-colored-dots-next-to-my-avatar-mean",
+  "locale": "en-us",
+  "created_at": "2015-10-07T02:49:51Z",
+  "updated_at": "2026-10-27T18:11:27Z",
+  "author": null,
+  "summary": null,
+  "thumbnail_url": null,
+  "body": "<p>Discord has 5 <strong>status icons</strong> that are pretty simple representations of user status. They are as follows:</p>\n<p> </p>\n<p>Green = Online</p>\n<p><img src=\"https://support.discord.com/hc/article_attachments/1500010890901\" alt=\"online_status.png\"></p>\n<p>Yellow = Idle</p>\n<p><img src=\"https://support.discord.com/hc/article_attachments/1500010890801\" alt=\"idle_status.png\"></p>\n<p>Red = Do Not Disturb</p>\n<p><img src=\"https://support.discord.com/hc/article_attachments/1500010890821\" alt=\"do_not_disturb_status.png\"></p>\n<p>Purple = Streaming</p>\n<p><img src=\"https://support.discord.com/hc/article_attachments/1500010890921\" alt=\"streaming_status.png\"></p>\n<p>Gray = Invisible/Offline</p>\n<p><img src=\"https://support.discord.com/hc/article_attachments/1500010890861\" alt=\"invisible_status.png\"></p>\n<p>  </p>\n<p>Keep in mind that you only get put into idle status when you've been away from your device for a while- similar to being moved to an AFK (away from keyboard) voice channel. And while Offline doesn't have a dot, you'll see the user's name and avatar grayed out pretty thoroughly.</p>",
+  "body_hash": "046f491e4073ac376ecc38ed5b77b7d32b88401e97712b03bac3760d1c81f1b1",
+  "fetched_at": "2026-10-31T19:07:24.528Z",
+  "section_id": 24452694774551,
+  "category_id": null,
+  "user_id": null,
+  "promoted": false,
+  "draft": false,
+  "labels": [
+    "status",
+    "setting status",
+    "away",
+    "afk",
+    "idle",
+    "online",
+    "offline",
+    "answer-bot"
+  ]
+}

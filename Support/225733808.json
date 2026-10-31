@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "source": "support",
+  "id": "225733808",
+  "title": "Why does Discord have multiple processes?",
+  "url": "https://support.discord.com/hc/en-us/articles/225733808-Why-does-Discord-have-multiple-processes",
+  "locale": "en-us",
+  "created_at": "2016-08-18T04:52:46Z",
+  "updated_at": "2026-10-31T14:33:49Z",
+  "author": null,
+  "summary": null,
+  "thumbnail_url": null,
+  "body": "<p><span style=\"font-weight: 400;\">When you open your task manager you’ll notice a <strong>bunch of Discord processes</strong> running - don’t panic, this is normal! </span><span style=\"font-weight: 400;\"><br></span><span style=\"font-weight: 400;\"><br></span><span style=\"font-weight: 400;\">We’re based on chromium which has a <strong>multi-process model</strong>. These processes are; </span></p>\n<p><span style=\"font-weight: 400;\">- Main Process (handles restarting other processes if they die &amp; need res) </span></p>\n<p><span style=\"font-weight: 400;\">- Renderer </span></p>\n<p><span style=\"font-weight: 400;\">- Crash Reporter</span></p>\n<p><span style=\"font-weight: 400;\">- GPU Process (even with hardware acceleration turned off you’ll still see this process) <br></span></p>\n<h2>\n<span style=\"font-weight: 400;\"><br></span>+ Overlay</h2>\n<p><span style=\"font-weight: 400;\">Using the overlay will add a few more processes to the mix: <br></span></p>\n<p><span style=\"font-weight: 400;\">- Overlay host process</span></p>\n<p><span style=\"font-weight: 400;\">- Overlay GPU process</span></p>\n<p><span style=\"font-weight: 400;\">- An overlay renderer per game</span></p>\n<h3><span style=\"font-weight: 400;\">Note: Windows 7 users will see an extra process to render the notifications. </span></h3>",
+  "body_hash": "fc598973bbeab8d20a5e8fe467ce1b75157663a81dc882db3039a645bfd0c389",
+  "fetched_at": "2026-10-31T19:07:24.528Z",
+  "section_id": 360007770612,
+  "category_id": null,
+  "user_id": null,
+  "promoted": false,
+  "draft": false,
+  "labels": []
+}

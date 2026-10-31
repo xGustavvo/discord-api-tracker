@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "source": "support",
+  "id": "215253148",
+  "title": "How do I stop @everyone mentions from select servers?",
+  "url": "https://support.discord.com/hc/en-us/articles/215253148-How-do-I-stop-everyone-mentions-from-select-servers",
+  "locale": "en-us",
+  "created_at": "2015-12-23T00:25:50Z",
+  "updated_at": "2026-10-28T03:46:37Z",
+  "author": null,
+  "summary": null,
+  "thumbnail_url": null,
+  "body": "<p>Even if you <a href=\"https://support.discord.com/hc/en-us/articles/209791877\" target=\"_self\">mute a channel</a> or an entire server, @everyone mentions will still bring up notifications. If a server is being particularly spammy with these all-powerful attention-catchers, you can suppress them to regain a little bit of sanity and peace of mind. Step-by-step:</p>\n<p>1. Click the server name to bring down the server pull-down menu:</p>\n<p>            <img src=\"https://support.discord.com/hc/article_attachments/360094097134/Notification_settings.png\" alt=\"Notification_settings.png\"></p>\n<p> </p>\n<p>2. Click \"Notification Settings\", and check out the super spiffy channel notification settings list. When you're done with that, click the \"Suppress @everyone and @here\" option:</p>\n<p><img src=\"https://support.discord.com/hc/article_attachments/360096365993/notification_settings_suppress_toggle.png\" alt=\"notification_settings_suppress_toggle.png\"></p>\n<p> </p>\n<p>That simple. Remember, the \"Suppress @everyone and @here\" option functions on a <strong>per-server</strong> basis, so you can be selective about who you want to hear from depending on which server you're on. </p>\n<p> </p>\n<p> </p>",
+  "body_hash": "9721a6f06220cfcbff73b2faab55534e7b5c710bb41435df62af73a45276e48b",
+  "fetched_at": "2026-10-31T19:07:23.789Z",
+  "section_id": 360007875151,
+  "category_id": null,
+  "user_id": null,
+  "promoted": false,
+  "draft": false,
+  "labels": [
+    "pings",
+    "notification",
+    "mention",
+    "answer-bot"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "source": "support",
+  "id": "21865322754327",
+  "title": "Data Used to Personalize Discord",
+  "url": "https://support.discord.com/hc/en-us/articles/21865322754327-Data-Used-to-Personalize-Discord",
+  "locale": "en-us",
+  "created_at": "2024-03-06T19:53:27Z",
+  "updated_at": "2026-10-31T17:19:21Z",
+  "author": null,
+  "summary": null,
+  "thumbnail_url": null,
+  "body": "<p>We use certain information to <span style=\"color: #23272a;\"><span data-darkreader-inline-color=\"\">personalize our services. This includes features like customizing your experience on our discovery surfaces, highlighting activity on Discord that may interest you, and surfacing Discord features and promotions from us and our partners that may be of interest to you. </span></span>For example, we may use information about who you interact with to rank a Friend who you interact with often higher in the “Active Now” section of your Friends List.</p><p>The information used to power personalized features for you include: </p><ul>\n<li data-list-item-id=\"e413f9f9fb847fb1c9b9c50537925bea5\">The games you play</li>\n<li data-list-item-id=\"eb8f84dc19738cc6bdfaab2d164ef2d83\">Who you interact with</li>\n<li data-list-item-id=\"e69bf22a5e966f9e3c73bdd83fca74d25\">The way you use Discord</li>\n<li data-list-item-id=\"ef599b1c8b7c18d715e7944747bae6c5b\">Connections made between your Discord account and another service (e.g., Xbox or Steam)</li>\n<li data-list-item-id=\"e27b81a49717e63eb8859d5a081191f9a\">The servers you join</li>\n</ul><p>On desktop, head to <strong>User Setting &gt; Data &amp; Privacy</strong> and on mobile, head to <strong>Settings &gt; Data &amp; Privacy</strong> to disable the <strong>Use data to personalize my Discord experience </strong>toggle.<strong> </strong></p><p class=\"wysiwyg-text-align-center\"><span style=\"color: #2e3338;\"><img src=\"https://support.discord.com/hc/article_attachments/34671597943319\" width=\"824\" height=\"606\"></span></p><h4 class=\"wysiwyg-text-align-center\" id=\"h_01K4888RH0XM1CN4CJA62MMJ9R\"><span style=\"color: #2e3338;\">Use data to personalize my Discord experience toggle in Data &amp; Privacy on Desktop</span></h4><p><span style=\"color: #2e3338;\">Disabling the</span> <strong>Use data to personalize my Discord experience </strong>toggle means we will no longer use information specific to your account to power features that recommend content or promotions to you.</p><p>Your ability to access conversations, voice channels, or other spaces on Discord will not be impacted by this setting.</p>",
+  "body_hash": "869a67acd1d49d8692068e9f21fec7f925db45f3d53b04a6b29176ec34e440cf",
+  "fetched_at": "2026-10-31T19:07:24.221Z",
+  "section_id": 24453668939799,
+  "category_id": null,
+  "user_id": null,
+  "promoted": false,
+  "draft": false,
+  "labels": [
+    "answer-bot",
+    "data",
+    "privacy"
+  ]
+}

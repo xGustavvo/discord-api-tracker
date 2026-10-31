@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "source": "support",
+  "id": "209572128",
+  "title": "How do I log out?",
+  "url": "https://support.discord.com/hc/en-us/articles/209572128-How-do-I-log-out",
+  "locale": "en-us",
+  "created_at": "2015-09-17T04:10:57Z",
+  "updated_at": "2026-10-31T18:16:58Z",
+  "author": null,
+  "summary": null,
+  "thumbnail_url": null,
+  "body": "<p>When your Discord time comes to a close, here are the steps for logging out of your account. </p>\n<h2>Logging out is easy!</h2>\n<ol>\n<li>Click the settings cog next to your user name &amp; avatar. <br><br><img src=\"https://support.discord.com/hc/article_attachments/360058008212\" alt=\"Capture4.jpg\" width=\"295\" height=\"74\"><br><br>\n</li>\n<li>Press the red <strong>Log Out</strong> button<br><br>\n</li>\n</ol>\n<p><img src=\"https://support.discord.com/hc/article_attachments/360058008232\" alt=\"Capture5.jpg\"></p>\n<p>That's all it takes! We'll see you next time! </p>",
+  "body_hash": "e99baede8fe5125464f31e1b431ebb87fe0d2871e4ae129b4eb0c1cba4c5dd3a",
+  "fetched_at": "2026-10-31T19:07:24.222Z",
+  "section_id": 360007770532,
+  "category_id": null,
+  "user_id": null,
+  "promoted": false,
+  "draft": false,
+  "labels": [
+    "logout",
+    "leave",
+    "exit",
+    "leaving",
+    "left",
+    "exited",
+    "answer-bot"
+  ]
+}

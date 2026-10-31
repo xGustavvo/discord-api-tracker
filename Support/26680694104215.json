@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "source": "support",
+  "id": "26680694104215",
+  "title": "How to Fix Phone Errors on Discord",
+  "url": "https://support.discord.com/hc/en-us/articles/26680694104215-How-to-Fix-Phone-Errors-on-Discord",
+  "locale": "en-us",
+  "created_at": "2024-09-27T20:04:46Z",
+  "updated_at": "2026-10-31T19:07:11Z",
+  "author": null,
+  "summary": null,
+  "thumbnail_url": null,
+  "body": "<div class=\"toc-box\">\n<strong><span class=\"wysiwyg-font-size-x-large\">What this article covers:</span><br></strong>\n<ul>\n<li><a href=\"#h_01J9A421C6G29J7JMK198AZH87\">Phone is Already Registered</a></li>\n<li><strong><a href=\"#h_01J9A421C6V5WPJHPZKPHF44QR\">Invalid Phone Number</a></strong></li>\n<li><strong><a href=\"#h_01J9A421C666XPA3XP1VR07DP2\">Other Phone Errors</a></strong></li>\n</ul>\n</div>\n<p>There are some error messages that you might notice when trying to register with, add, or change the phone number on your account. Let’s go over those cases and what to do if you’re experiencing those specific errors.</p>\n<p>Before you begin the process of adding a phone number, please make sure you have access to that number and your mobile device.</p>\n<h1 id=\"h_01J9A421C6G29J7JMK198AZH87\">Phone is Already Registered</h1>\n<p class=\"wysiwyg-text-align-center\"><img src=\"https://support.discord.com/hc/article_attachments/26823326690967\" width=\"495\" height=\"405\"></p>\n<p>A phone can only be registered with one Discord account at a time. If you are encountering an error that states <strong>This phone number is unable to be associated with this account</strong>, this is because the phone number is already tied to another account. As you can only have one number per account, you would need to remove the number from the other account Discord in order to use it.</p>\n<div class=\"book-box\">\n<strong>Note:</strong> If you’re unable to remove the phone number yourself, please check out the <a href=\"https://support.discord.com/hc/en-us/articles/4413460214807\" target=\"_blank\" rel=\"noopener noreferrer\">How to Remove a Phone Number Help Center article</a> for steps.</div>\n<h1 id=\"h_01J9A421C6V5WPJHPZKPHF44QR\">Invalid Phone Number</h1>\n<p class=\"wysiwyg-text-align-center\"><img src=\"https://support.discord.com/hc/article_attachments/26823349974167\" width=\"552\" height=\"407\"></p>\n<p>Make sure that the phone number you are entering is properly formatted and is valid according to your country’s numbering plan. </p>\n<p>Also, make sure the phone number is not associated with a landline or VOIP device, and that the number you are trying to use is associated with a mobile device.</p>\n<h1 id=\"h_01J9A421C666XPA3XP1VR07DP2\">Other Errors</h1>\n<p>If you’re running into any other error messages, or you’re receiving one of the errors above and it’s still not working, please reach out to our Support team for further assistance: <a href=\"https://dis.gd/contact\" target=\"_blank\" rel=\"noopener noreferrer\">https://dis.gd/contact</a></p>",
+  "body_hash": "7a85d369e28de24e233e156c21dcd9610aef9efa126d2d85471e2ace495e5512",
+  "fetched_at": "2026-10-31T19:07:23.235Z",
+  "section_id": 360009072571,
+  "category_id": null,
+  "user_id": null,
+  "promoted": false,
+  "draft": false,
+  "labels": [
+    "phone",
+    "invalid phone number",
+    "phone registration",
+    "phone errors"
+  ]
+}

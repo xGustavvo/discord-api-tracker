@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "source": "blog",
+  "id": "cost-attribution-in-discords-api",
+  "title": "Cost Attribution in Discord’s API",
+  "url": "https://discord.com/blog/cost-attribution-in-discords-api",
+  "locale": "en-us",
+  "created_at": "2026-06-30T00:00:00.000Z",
+  "updated_at": "2026-06-30T00:00:00.000Z",
+  "author": null,
+  "summary": "Discord's API spans 1700+ endpoints across hundreds of Kubernetes deployments. The challenge: tracking per-feature hosting costs without restructuring. Jim Benton helps explain how Discord tackled the situation.",
+  "thumbnail_url": "https://cdn.prod.website-files.com/5f9072399b2640f14d6a2bf4/67f597ab8965032c232c7d4a_image4.png",
+  "body": "<p>Discord's API is powered by a unified Python codebase containing over 1700 API endpoints and around 700 background tasks. Engineers make changes to this shared code every day as it's continuously deployed to several hundred separate Kubernetes deployments through a phased rollout process.</p><p>That is a <em>lot</em> of code, engineers, endpoints, and deployments! It can be challenging to keep track of all of the changes made every single day, but we have good instrumentation that allows us to keep an eye on latency, throughput, and error rates to help detect regressions that may negatively impact users or our systems.</p><p>One observability gap that we wanted to improve last year was our understanding of how hosting costs were allocated across product features. For example, how much does it cost to operate the parts of API that are used to send and receive messages? Start a stream? Send a friend a Nitro gift? How do these values change over time? Did that change someone landed last week meaningfully affect a team’s spend on hosting? We’d like to know these answers for both a single endpoint (e.g. sending a message in a text channel) and for an entire feature (e.g. chat - more on these later).</p><p>Most cloud providers will happily split out your costs by Kubernetes deployment, which is helpful but is only the first step due to how we deploy the API. We run the same codebase in all of our Kubernetes deployments, each of which handles a specific subset of HTTP traffic or background tasks. Since we already have so many deployments, breaking them up further to facilitate cost tracking isn’t tenable. We needed to find a way to add better tracking to our existing system without changing our deployment topology.</p><p>An additional challenge is that each API worker process handles multiple tasks concurrently. At any moment, it will be juggling work related to any number of features (we do isolate certain traffic to particular deployments, but not in a way that helps us here). Ultimately, in order to understand the cost of serving the API traffic related to a given feature, we need to be able to allocate the cost for a deployment based on how much time it spent on code related to that feature. By extending our application’s profiling tooling, we were able to do exactly this.</p><p><em>Note: all numbers and code in this post are for illustrative purposes only.</em></p>",
+  "body_hash": "a4c1634be3fa13a4a47fbd5d390e1fb527619e1e8e14e6f769ea1264cfe06361",
+  "fetched_at": "2026-10-31T19:07:26.793Z",
+  "slug": "cost-attribution-in-discords-api",
+  "published_at": "2026-06-30T00:00:00.000Z"
+}

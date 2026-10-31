@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "source": "supportDev",
+  "id": "17708927296663",
+  "title": "Premium Apps Onboarding",
+  "url": "https://support-dev.discord.com/hc/en-us/articles/17708927296663-Premium-Apps-Onboarding",
+  "locale": "en-us",
+  "created_at": "2023-09-21T14:05:28Z",
+  "updated_at": "2026-10-12T17:01:09Z",
+  "author": null,
+  "summary": null,
+  "thumbnail_url": null,
+  "body": "<p>If your team owns a verified app or activity you will be ready to get started with the onboarding process for <a href=\"https://support-dev.discord.com/hc/en-us/articles/17709085688727\" target=\"_blank\" rel=\"noopener noreferrer\">Premium Apps</a>! If you have not yet met all those requirements, check out the <a href=\"https://support-dev.discord.com/hc/en-us/articles/17297949965079\" target=\"_blank\" rel=\"noopener noreferrer\">How Do I Monetize My App?</a> article for more information.</p>\n<h3 id=\"h_01HB8Y1W932GPS231Z612GT5X7\">Onboarding</h3>\n<p>The onboarding flow involves a series of steps and checks the team owner will need to ensure are completed. Onboarding checks will be made to ensure the following criteria are met:</p>\n<ul>\n<li>App must be verified</li>\n<li>App belongs to a Developer Team</li>\n<li>Team owner must be at least 18 years old</li>\n<li>Team must have verified emails and 2FA set up</li>\n<li>App uses slash commands, or has been approved for the Message Content privileged intent</li>\n<li>App has a link to Terms of Service\n<ul>\n<li>This document is an agreement between you and users governing the use of your app.</li>\n</ul>\n</li>\n<li>App has a link to Privacy Policy\n<ul>\n<li>This document should clearly and accurately describe to users of your app the user data you collect and how you use and share such data with us and third parties, consistent with our Developer Terms of Service and Developer Policy.</li>\n</ul>\n</li>\n<li>App must not contain any harmful or bad language in the name, description, commands, or role connection metadata.</li>\n<li>Payouts must be set up with a valid payment method\n<ul>\n<li>From the Developer Portal the Team → Payout Settings page can help you get started</li>\n</ul>\n</li>\n</ul>\n<ul>\n<li>Agreement to the <a href=\"https://support.discord.com/hc/en-us/articles/5330075836311\" target=\"_blank\" rel=\"noopener noreferrer\">Monetization Terms</a> and <a href=\"https://support.discord.com/hc/en-us/articles/10575066024983-Monetization-Policy\" target=\"_blank\" rel=\"noopener noreferrer\">Monetization Policy</a>.<br><img src=\"https://support-dev.discord.com/hc/article_attachments/17822813035415\" alt=\"Untitled (6).png\">\n</li>\n</ul>\n<p>Completed items in the Eligibility Requirements checklist will be reflected in real time. Once all the requirements are fulfilled, your app will be ready to begin monetizing!<!-- notionvc: 0bead11e-87c2-42c7-bbdb-f03ede3c7923 --></p>\n<h3 id=\"h_01HAW8RXS6Q8GQ5RJE4FM9DG6T\">Creating SKUs</h3>\n<p>Finally, once you have completed onboarding successfully, you are ready to start adding premium features. You can do this by adding SKUs (stock-keeping units) to your app. SKUs are products that users can purchase within your app.<!-- notionvc: 85f67692-7b67-49f8-9a29-6c5f7c834c08 --></p>\n<p><img src=\"https://support-dev.discord.com/hc/article_attachments/17713797140247\" alt=\"Untitled (3).png\"></p>\n<p>For more guidance on setting up SKUs review the <a href=\"https://support-dev.discord.com/hc/en-us/articles/17298449675927\" target=\"_blank\" rel=\"noopener noreferrer\">Premium Apps SKU and Store Setup</a> article or visit the <a href=\"https://discord.com/developers/docs/monetization/overview\" target=\"_blank\" rel=\"noopener noreferrer\">Monetization Overview</a> in the Discord Developer Documentation.</p>\n<p>After reviewing this and other linked articles, if you have any questions about Premium Apps onboarding, please <a href=\"https://dis.gd/developer-support/premium-apps\" target=\"_blank\" rel=\"noopener noreferrer\">reach out to our Developer Support team</a>!</p>",
+  "body_hash": "5fa37edeab738eb81ddeab1e57fca3b9061fceb487ea5737aa6aa54b341e12de",
+  "fetched_at": "2026-10-31T19:07:22.284Z",
+  "section_id": 17294380054935,
+  "category_id": null,
+  "user_id": null,
+  "promoted": false,
+  "draft": false,
+  "labels": [
+    "answer-bot"
+  ]
+}

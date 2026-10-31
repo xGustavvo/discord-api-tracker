@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "source": "support",
+  "id": "24580432868247",
+  "title": "[Resolved] Partially dropping Xbox statuses",
+  "url": "https://support.discord.com/hc/en-us/articles/24580432868247--Resolved-Partially-dropping-Xbox-statuses",
+  "locale": "en-us",
+  "created_at": "2024-07-01T22:32:44Z",
+  "updated_at": "2026-10-21T23:14:53Z",
+  "author": null,
+  "summary": null,
+  "thumbnail_url": null,
+  "body": "<h3 id=\"h_01J01Z7WRBERNWEVVETHAXY945\">\n<strong>Update as of July 01, 2024 (06:07PST): </strong><br>This outage is now <strong>resolved</strong>. Here's a link to our status page for more Information: <a href=\"https://discordstatus.com/\" target=\"_blank\" rel=\"noopener noreferrer\">https://discordstatus.com/</a>\n</h3>\n<p>As of <strong>July 1, 2024</strong>, we identified that r<span class=\"whitespace-pre-wrap\" style=\"box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; white-space: pre-wrap !important;\">oughly 1/3rd of Xbox statuses are being dropped. Our team is currently investigating and</span><span class=\"whitespace-pre-wrap\" style=\"box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; white-space: pre-wrap !important;\"> are working on a fix.</span></p>",
+  "body_hash": "80a47169372c2311b93a4480c30dea84c8d632c1901e63887cdc55c5957b559b",
+  "fetched_at": "2026-10-31T19:07:23.236Z",
+  "section_id": 115000352292,
+  "category_id": null,
+  "user_id": null,
+  "promoted": false,
+  "draft": false,
+  "labels": []
+}

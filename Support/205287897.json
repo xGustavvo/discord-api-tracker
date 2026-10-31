@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "source": "support",
+  "id": "205287897",
+  "title": "How do I adjust the volume level of individual users in my server?",
+  "url": "https://support.discord.com/hc/en-us/articles/205287897-How-do-I-adjust-the-volume-level-of-individual-users-in-my-server",
+  "locale": "en-us",
+  "created_at": "2015-03-31T20:12:21Z",
+  "updated_at": "2026-10-28T00:09:45Z",
+  "author": null,
+  "summary": null,
+  "thumbnail_url": null,
+  "body": "<p>You can adjust the individual volume level of users in your server to optimize your audio. </p>\n<p>On the right-hand side, right-click on the user whose volume you wish to adjust and a menu will popup.</p>\n<p>A volume slider will appear in this menu, and you can lower or raise as you please!</p>\n<p class=\"wysiwyg-text-align-center\"><img src=\"https://support.discord.com/hc/article_attachments/360058735672\" alt=\"Capture49.jpg\"><br><br></p>\n<p class=\"wysiwyg-text-align-left\">You can also make this volume adjustment inside a voice channel.</p>\n<p class=\"wysiwyg-text-align-center\"><img src=\"https://support.discord.com/hc/article_attachments/360058108972\" alt=\"Capture50.jpg\"></p>\n<p> </p>",
+  "body_hash": "c5009b244e899d14226ff1ea53d655da16f913f9d86db8f58e61f98b7d31ff37",
+  "fetched_at": "2026-10-31T19:07:24.528Z",
+  "section_id": 360007770612,
+  "category_id": null,
+  "user_id": null,
+  "promoted": false,
+  "draft": false,
+  "labels": [
+    "slider",
+    "sounds",
+    "answer-bot"
+  ]
+}

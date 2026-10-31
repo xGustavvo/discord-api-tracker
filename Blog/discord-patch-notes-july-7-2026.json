@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "source": "blog",
+  "id": "discord-patch-notes-july-7-2026",
+  "title": "Discord Patch Notes: July 7, 2026",
+  "url": "https://discord.com/blog/discord-patch-notes-july-7-2026",
+  "locale": "en-us",
+  "created_at": "2026-07-07T00:00:00.000Z",
+  "updated_at": "2026-07-07T00:00:00.000Z",
+  "author": null,
+  "summary": "Check out the finer details of the more technical fixes implemented into Discord recently.",
+  "thumbnail_url": "https://cdn.prod.website-files.com/5f9072399b2640f14d6a2bf4/683a385e31ae16bd173ee8d9_image2.png",
+  "body": "<p>Welcome to Patch Notes! In this series, we comb through the newest changes in performance, reliability, responsiveness, usability, and general bug-squishing we’ve done to make Discord better.&nbsp;</p><p>If you discover an issue of your own, check out our <a href=\"https://dis.gd/reddit-bug-megathread\">Bimonthly Bug Megathread</a> on the community-run r/DiscordApp subreddit. Tell us what’s been bothering you, and our Engineering team will be more than happy to check it out.&nbsp;</p><p>All fixes listed below have been committed and merged, but may still be rolling out to individual platforms at the time of this post.&nbsp;</p>",
+  "body_hash": "cd9c9890a4bc98c6b025be6be5b6509cb957637cbd95eb02a6cf603f74951bff",
+  "fetched_at": "2026-10-31T19:07:26.591Z",
+  "slug": "discord-patch-notes-july-7-2026",
+  "published_at": "2026-07-07T00:00:00.000Z"
+}

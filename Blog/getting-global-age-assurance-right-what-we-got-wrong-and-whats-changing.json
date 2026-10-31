@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "source": "blog",
+  "id": "getting-global-age-assurance-right-what-we-got-wrong-and-whats-changing",
+  "title": "Getting Global Age Assurance Right: What We Got Wrong and What's Changing",
+  "url": "https://discord.com/blog/getting-global-age-assurance-right-what-we-got-wrong-and-whats-changing",
+  "locale": "en-us",
+  "created_at": "2026-02-24T00:00:00.000Z",
+  "updated_at": "2026-02-24T00:00:00.000Z",
+  "author": null,
+  "summary": "Discord's CTO addresses community concerns about age assurance: no mass ID collection, new vendor transparency commitments, and a delayed global launch until second half of 2026.",
+  "thumbnail_url": "https://cdn.prod.website-files.com/5f9072399b2640f14d6a2bf4/67d0c4e0932bb59c7f6271e5_2024_10_DiscordBlog_UsingDiscord-1.png",
+  "body": "<p><strong>Editor’s Note: </strong>This post is out of date. Discord has since launched a new approach to age assurance where most users won't need to confirm their age group at all. Read the latest update here: <a href=\"https://discord.com/blog/safer-for-teens-same-discord-for-adults\">Safer for Teens, Same Discord for Adults</a>.</p><div class=\"w-embed\"><hr class=\"hr-style\"></div><p><strong>Update as of 3/9:&nbsp;</strong>Brazil's Digital Statute for Children and&nbsp;Adolescents (Digital ECA) goes into effect on&nbsp;March 17th.&nbsp;Learn more about how this impacts users in&nbsp;Brazil in our Help Center article <a href=\"https://support.discord.com/hc/en-us/articles/38860612202775-Age-Assurance-for-Brazilian-Users\">here</a>. </p><div class=\"w-embed\"><hr class=\"hr-style\"></div><p>I built Discord because I wanted an easier way to hang out with my friends online, the same way I did growing up. That's still true today. When I get off work, I hop on VC with friends, watch one of them spend hours raging at Baby Steps, or jump into Arc Raiders and befriend other players until something hilarious and memorable happens. These moments, the ones you can only get in games, are why Discord exists.</p><p>So when we announced our plans for global age assurance and I saw the reaction from our community, I didn't just read it as a CTO. I read it as someone who uses Discord every single day. And I want to talk to you directly about what we're doing, why we're doing it, and what we're changing based on your feedback.</p>",
+  "body_hash": "d307e4aec4a0bc19b2848733f5ef1ce71dcaedcf084d32d800e259b1b18b3615",
+  "fetched_at": "2026-10-31T19:07:29.450Z",
+  "slug": "getting-global-age-assurance-right-what-we-got-wrong-and-whats-changing",
+  "published_at": "2026-02-24T00:00:00.000Z"
+}

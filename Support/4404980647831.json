@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "source": "support",
+  "id": "4404980647831",
+  "title": "[iOS] Provisional Push Notifications",
+  "url": "https://support.discord.com/hc/en-us/articles/4404980647831--iOS-Provisional-Push-Notifications",
+  "locale": "en-us",
+  "created_at": "2021-07-26T09:44:16Z",
+  "updated_at": "2026-10-31T05:48:51Z",
+  "author": null,
+  "summary": null,
+  "thumbnail_url": null,
+  "body": "<h1>What is a Provisional Push Notification?</h1>\n<p>Provisional Push Notifications are a type of notification where apps can <span data-token-index=\"1\" data-reactroot=\"\">silently</span> push notifications to users (without sound or banner). They show up in the notification center.</p>\n<h4 class=\"wysiwyg-text-align-center\">\n<img src=\"https://support.discord.com/hc/article_attachments/4405001272983\" alt=\"Provisional_Push_Notification.png\"><br>Example provisional push notification</h4>\n<h3>Note: <br>- Only users that have opted into Discord notifications or have <span data-token-index=\"1\" data-reactroot=\"\">not opted out</span> can see a provisional notification from us. <br>- Some opt-in users can choose to turn their direct push notifications into silent provisional ones via iOS' notification center settings.</h3>\n<h2>What do we mean by not opted out?</h2>\n<p>During the iOS onboarding process, you may have selected \"Maybe Later\" and so are in a middle state of neither opt-in nor opt-out when it comes to notifications from Discord.</p>\n<p class=\"wysiwyg-text-align-center\"><img src=\"https://support.discord.com/hc/article_attachments/4405001289751\" alt=\"maybe_later_popup.png\"></p>\n<p class=\"wysiwyg-text-align-left\">Learn more about iOS notifications <a href=\"https://support.discord.com/hc/en-us/articles/218892547\" target=\"_blank\" rel=\"noopener\">here</a>.</p>\n<p> </p>",
+  "body_hash": "dd2bd786f1bcf50889e3a0b92282a2dd0b1e3ef38ba44214d40364b6d4c800ba",
+  "fetched_at": "2026-10-31T19:07:24.668Z",
+  "section_id": 360007875151,
+  "category_id": null,
+  "user_id": null,
+  "promoted": false,
+  "draft": false,
+  "labels": [
+    "push notifications",
+    "notification",
+    "notifications",
+    "ios",
+    "answer-bot"
+  ]
+}

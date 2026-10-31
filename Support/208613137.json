@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "source": "support",
+  "id": "208613137",
+  "title": "How can I disable Text-To-Speech?",
+  "url": "https://support.discord.com/hc/en-us/articles/208613137-How-can-I-disable-Text-To-Speech",
+  "locale": "en-us",
+  "created_at": "2015-08-27T01:18:47Z",
+  "updated_at": "2026-10-28T18:18:44Z",
+  "author": null,
+  "summary": null,
+  "thumbnail_url": null,
+  "body": "<p>You can disable Text-To-Speech by going into User Settings &gt; Accessibility &gt; Disable \"Allow playback and usage of /tts command.\"</p>\n<p class=\"wysiwyg-text-align-center\"><img src=\"https://support.discord.com/hc/article_attachments/7064211753111/disable-tts-in-accessibility-tab-demo.gif\" alt=\"disable-tts-in-accessibility-tab-demo.gif\"></p>\n<p>This will now make it so that any instance of /tts will not be played if you or someone else uses it. </p>\n<p>For more in-depth information on Discord's Text-To-Speech abilities, check out <a href=\"https://support.discord.com/hc/en-us/articles/212517297-Text-to-Speech-101\" target=\"_blank\" rel=\"noopener noreferrer\">Text-To-Speech 101</a></p>",
+  "body_hash": "067f1a5e4e58179c19138cb20ac623865e6982beb21bda606efe8b294a9455dd",
+  "fetched_at": "2026-10-31T19:07:24.528Z",
+  "section_id": 115000458672,
+  "category_id": null,
+  "user_id": null,
+  "promoted": false,
+  "draft": false,
+  "labels": [
+    "talking",
+    "voice",
+    "tts",
+    "answer-bot"
+  ]
+}

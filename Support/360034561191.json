@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "source": "support",
+  "id": "360034561191",
+  "title": "Desktop Installation Guide",
+  "url": "https://support.discord.com/hc/en-us/articles/360034561191-Desktop-Installation-Guide",
+  "locale": "en-us",
+  "created_at": "2019-09-27T22:38:15Z",
+  "updated_at": "2026-10-31T15:19:03Z",
+  "author": null,
+  "summary": null,
+  "thumbnail_url": null,
+  "body": "<p>When using Discord, we recommend using our desktop clients for the best experience. Here's how to install the Discord app on Windows, MacOS, and Linux. </p>\n<p><strong><span class=\"wysiwyg-font-size-large\">What this article covers:</span></strong></p>\n<ul>\n<li><a href=\"#h_01HD1PCA2S1V6J8M981210BZCS\">Windows</a></li>\n<li><a href=\"#h_01HD1PCA2SSG11NPMD4W1NY2Y6\">MacOS</a></li>\n<li><a href=\"#h_01HD1PCA2SYG455Z4B4E0HWRB1\">Linux</a></li>\n</ul>\n<h1 id=\"h_01HD1PCA2S1V6J8M981210BZCS\"><strong><span style=\"color: #2e3338;\" data-darkreader-inline-color=\"\">Windows</span></strong></h1>\n<p>To download the Desktop app for Windows, first head over to <a href=\"https://discord.com/download\" target=\"_blank\" rel=\"noopener noreferrer\">the Download Page</a> in your preferred browser.</p>\n<p>1. Tap on the <strong>Download for Windows</strong> button to download the app.</p>\n<p class=\"wysiwyg-text-align-center\"><img src=\"https://support.discord.com/hc/article_attachments/18368153374359\" alt=\"discord_windows.png\"></p>\n<p>2. Follow your browser's prompts to save and open the <strong>DiscordSetup.exe</strong> to start the installation process.</p>\n<p>3. Once installed, you can then open the Discord app and register an account or log into an existing account.</p>\n<h1 id=\"h_01HD1PCA2SSG11NPMD4W1NY2Y6\">MacOS</h1>\n<p>To download the Desktop app for MacOS, first head over to <a href=\"https://discord.com/download\" target=\"_blank\" rel=\"noopener noreferrer\">the Download Page</a> in your preferred browser.</p>\n<p>1. Tap on the <strong>Download for Mac</strong> button to download the app.</p>\n<p> </p>\n<p class=\"wysiwyg-text-align-center\"><img src=\"https://support.discord.com/hc/article_attachments/18368200112279\" alt=\"discord_macos.png\"></p>\n<p>2. Open the Discord.dmg file. </p>\n<p>3. Drag the Discord logo and drop it over the Applications folder in the pop-up window.</p>\n<p class=\"wysiwyg-text-align-center\"><img src=\"https://support.discord.com/hc/article_attachments/18368200129047\" alt=\"discord_macos_install.png\"></p>\n<h1 id=\"h_01HD1PCA2SYG455Z4B4E0HWRB1\">Linux</h1>\n<p>To download the Desktop app for Linux, first head over to <a href=\"https://discord.com/download\" target=\"_blank\" rel=\"noopener noreferrer\">the Download Page</a> in your preferred browser.</p>\n<p>1. Tap on the <strong>Download for Linux</strong> button to download the app.</p>\n<p class=\"wysiwyg-text-align-center\"><img src=\"https://support.discord.com/hc/article_attachments/18368200137879\" alt=\"discord_linux.png\"></p>\n<p>2. For manual installation on a Debian based distribution you can use the following commands: </p>\n<ul>\n<li>\n<pre>cd ~ /Downloads</pre>\n</li>\n<li>\n<pre>sudo dpkg -i package.deb or sudo apt install ./package.deb</pre>\n</li>\n</ul>\n<p>3. If you’re installing with a package manager, please follow the installation prompts.</p>\n<p>4. Now that the app is installed, you can register a Discord account or log into an existing one.</p>\n<p>Now that you have the app installed, it's time to <a href=\"https://support.discord.com/hc/en-us/articles/360033931551#accountcreation\" target=\"_blank\" rel=\"noopener noreferrer\">create your Discord account</a>. Already have an account? Check out these basic guide to get started:</p>\n<ul>\n<li><a href=\"https://support.discord.com/hc/en-us/articles/360034842871\" target=\"_blank\" rel=\"noopener noreferrer\">How do I join a server?</a></li>\n<li><a href=\"https://support.discord.com/hc/en-us/articles/360035491151\" target=\"_blank\" rel=\"noopener noreferrer\">Account Customization</a></li>\n<li><a href=\"https://support.discord.com/hc/en-us/articles/360034632292\" target=\"_blank\" rel=\"noopener noreferrer\">How do I send messages in a channel</a></li>\n</ul>",
+  "body_hash": "2b9daf00cc5d6e1eb6702968938ec3007fb94c7305152e6da39416faf16890c9",
+  "fetched_at": "2026-10-31T19:07:24.527Z",
+  "section_id": 360008206871,
+  "category_id": null,
+  "user_id": null,
+  "promoted": false,
+  "draft": false,
+  "labels": [
+    "answer-bot",
+    "macos",
+    "linux",
+    "windows",
+    "installation guide",
+    "desktop installation"
+  ]
+}

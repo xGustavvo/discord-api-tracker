@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "source": "support",
+  "id": "4978019693463",
+  "title": "AMD GPU/CPU RTC_CONNECTING Troubleshooting",
+  "url": "https://support.discord.com/hc/en-us/articles/4978019693463-AMD-GPU-CPU-RTC-CONNECTING-Troubleshooting",
+  "locale": "en-us",
+  "created_at": "2022-03-24T02:47:15Z",
+  "updated_at": "2026-10-26T22:27:33Z",
+  "author": null,
+  "summary": null,
+  "thumbnail_url": null,
+  "body": "<p data-pm-slice=\"1 1 []\"><strong>Symptoms:</strong> If you have <strong>AMD CPU </strong>or<strong> GPU</strong>, on rare occasions, Discord could stuck in <strong>RTC CONNECTING</strong> when trying to connect to a voice channel. We believe this issue mostly impacts older models. Discord in the browser has no issue connecting to voice channels.</p>\n<p><strong>Reason:</strong> Discord may get stuck in initializing/querying the AMD hardware video encoder.</p>\n<p><strong>Fixes:</strong></p>\n<ol class=\"ProsemirrorEditor-list\">\n<li class=\"ProsemirrorEditor-listItem\" data-list-indent=\"1\" data-list-type=\"numbered\">\n<p>Please make sure that Discord is installed properly. You may try to uninstall/re-install Discord.</p>\n</li>\n<li class=\"ProsemirrorEditor-listItem\" data-list-indent=\"1\" data-list-type=\"numbered\">\n<p>Please make sure that your GPU driver is up to date.</p>\n</li>\n<li class=\"ProsemirrorEditor-listItem\" data-list-indent=\"1\" data-list-type=\"numbered\">\n<p>Disable \"OpenH264 Video Codec provided by Cisco Systems, Inc.\" in Voice and Video Settings.</p>\n</li>\n</ol>\n<h2>How do I check my GPU driver version?</h2>\n<p>Run command DxDiag. Under Display tab, it should show your GPU information along driver version.</p>\n<p> </p>",
+  "body_hash": "8f1afd4f5ce77aa04e7ce1785a1f76648a3ef3e8c7a3dbef3cd1e46ab6ba72f4",
+  "fetched_at": "2026-10-31T19:07:24.223Z",
+  "section_id": 360007770612,
+  "category_id": null,
+  "user_id": null,
+  "promoted": false,
+  "draft": false,
+  "labels": [
+    "rtc connecting",
+    "answer-bot",
+    "gpu",
+    "rtc",
+    "amd",
+    "cpu"
+  ]
+}

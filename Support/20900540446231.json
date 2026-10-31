@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "source": "support",
+  "id": "20900540446231",
+  "title": "[Known Issue] Support for macOS 10.15",
+  "url": "https://support.discord.com/hc/en-us/articles/20900540446231--Known-Issue-Support-for-macOS-10-15",
+  "locale": "en-us",
+  "created_at": "2024-01-26T23:39:38Z",
+  "updated_at": "2026-10-24T03:20:07Z",
+  "author": null,
+  "summary": null,
+  "thumbnail_url": null,
+  "body": "<div class=\"tip-box\">\n<strong>NOTE: </strong>If you're on macOS 10.15 or lower and Discord no longer launches, it is recommended to install <a href=\"https://dl.discordapp.net/apps/osx/0.0.336/Discord.dmg\" target=\"_blank\" rel=\"noopener noreferrer\">this</a> version of the Discord app. This version will continue to work without updating, but installing any newer version will prevent Discord from launching.</div><p>As of <strong>January 21, 2025</strong>, Discord will no longer be supported on macOS 10.15.</p><p>To continue receiving updates and support for your Discord client, you must upgrade to at least macOS 12. Check out our OS/system requirements for Discord <a href=\"https://support.discord.com/hc/en-us/articles/213491697\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>.</p><p>You can find more information about upgrading your macOS from the following pages:</p><ul>\n<li data-list-item-id=\"e96eec386c3ea7fe3d1ebaa70e0cd7df5\"><a href=\"https://support.apple.com/en-us/HT201541\" target=\"_blank\" rel=\"noopener noreferrer\">Upgrade macOS on Mac</a></li>\n<li data-list-item-id=\"e81f0b451d1df0b9af09d6e0fc76af00b\"><a href=\"https://support.apple.com/en-us/111980\" target=\"_blank\" rel=\"noopener noreferrer\">macOS Big Sur - Technical Specifications</a></li>\n</ul><h1 id=\"h_01HN4508DJ5MRQPGDXD5TC0R6W\">Frequently Asked Questions</h1><p><strong>Q. Will the Discord client I currently have installed continue to work after January 21, 2025?</strong></p><p>A. Basic functionality may continue to work, however the functionality and stability is not guaranteed as the client will no longer receive updates.</p><p><strong>Q. If I cannot upgrade my computer right now, can I use the browser version of Discord?</strong></p><p>A. Yes, as long as your browser meets the minimum requirements found <a href=\"https://support.discord.com/hc/en-us/articles/213491697\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>, you can continue to use it.</p>",
+  "body_hash": "81f52d7b256b486fdcd1199ad9312e1c6d3923ea41333f3e4774c51da377d256",
+  "fetched_at": "2026-10-31T19:07:23.236Z",
+  "section_id": 115000352292,
+  "category_id": null,
+  "user_id": null,
+  "promoted": false,
+  "draft": false,
+  "labels": [
+    "support",
+    "answer-bot",
+    "mac",
+    "issue",
+    "os",
+    "10.14",
+    "macOS",
+    "known",
+    "10.13",
+    "10.15"
+  ]
+}

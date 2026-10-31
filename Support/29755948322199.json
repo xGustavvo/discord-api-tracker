@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "source": "support",
+  "id": "29755948322199",
+  "title": "[Known Issue] API Errors involving Messaging",
+  "url": "https://support.discord.com/hc/en-us/articles/29755948322199--Known-Issue-API-Errors-involving-Messaging",
+  "locale": "en-us",
+  "created_at": "2025-02-04T21:34:37Z",
+  "updated_at": "2026-10-07T14:47:31Z",
+  "author": null,
+  "summary": null,
+  "thumbnail_url": null,
+  "body": "<p id=\"h_01J01Z7WRBERNWEVVETHAXY945\"><strong>Update as of February 4, 2024 (1:25 PM PST): </strong><br>This outage is now <strong>resolved</strong>. Here's a link to our status page for more Information: <a href=\"https://discordstatus.com/\" target=\"_blank\" rel=\"noopener noreferrer\">https://discordstatus.com/</a></p>\n<p> </p>\n<p> </p>",
+  "body_hash": "fc3a0e3d01fe0f38cba903a7f52ecb58fdc0de9f4d09c353297554b983356e20",
+  "fetched_at": "2026-10-31T19:07:23.235Z",
+  "section_id": 115000352292,
+  "category_id": null,
+  "user_id": null,
+  "promoted": false,
+  "draft": false,
+  "labels": [
+    "outage"
+  ]
+}

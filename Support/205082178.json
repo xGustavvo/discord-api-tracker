@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "source": "support",
+  "id": "205082178",
+  "title": "How do I enable push-to-talk if I am running my game in administrator mode?",
+  "url": "https://support.discord.com/hc/en-us/articles/205082178-How-do-I-enable-push-to-talk-if-I-am-running-my-game-in-administrator-mode",
+  "locale": "en-us",
+  "created_at": "2015-04-30T01:09:34Z",
+  "updated_at": "2026-10-26T23:50:38Z",
+  "author": null,
+  "summary": null,
+  "thumbnail_url": null,
+  "body": "<p>Trying to talk to your friends in Discord while playing the latest game on Windows, but it doesn’t seem to be working? If you run your game in administrator mode and you’re using push-to-talk in Discord, you also need to be running Discord in administrator mode too. Here’s how to do that.</p>\n<p>1. First, fully make sure that all opened applications of Discord are fully closed.</p>\n<p class=\"wysiwyg-text-align-center\"><img src=\"https://support.discord.com/hc/article_attachments/14047800114071\" alt=\"push_to_talk_close_discord.gif\"></p>\n<p>2. Next, right-click on the Discord shortcut and click on “Run as administrator”.</p>\n<p class=\"wysiwyg-text-align-center\"><img src=\"https://support.discord.com/hc/article_attachments/14047841414039\" alt=\"push_to_talk_admin_mode.gif\"></p>\n<p>3. That’s it! Just open up Discord again and you should now be able to use push-to-talk.</p>\n<h3>\n<span style=\"color: #434343;\" data-darkreader-inline-color=\"\">If you’re still running into an issue, please reach out to Discord support at </span><a href=\"http://dis.gd/contact\"><span class=\"wysiwyg-underline\">Dis.gd/contact</span></a><span style=\"color: #434343;\" data-darkreader-inline-color=\"\"> and our support team will assist you further.</span>\n</h3>",
+  "body_hash": "34e51f563aec548033a576c2ab555f1f4e179c6fe711d51d8e0b540cc2872710",
+  "fetched_at": "2026-10-31T19:07:24.528Z",
+  "section_id": 360007770612,
+  "category_id": null,
+  "user_id": null,
+  "promoted": false,
+  "draft": false,
+  "labels": [
+    "admin",
+    "ptt",
+    "push to talk",
+    "answer-bot"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "source": "support",
+  "id": "204392448",
+  "title": "How do I enable my mic in Firefox?",
+  "url": "https://support.discord.com/hc/en-us/articles/204392448-How-do-I-enable-my-mic-in-Firefox",
+  "locale": "en-us",
+  "created_at": "2015-03-17T22:55:06Z",
+  "updated_at": "2026-10-31T13:33:05Z",
+  "author": null,
+  "summary": null,
+  "thumbnail_url": null,
+  "body": "<p>If you have previously disallowed Discord access to your mic in Firefox, you will need to enable it in the Firefox Permission Settings before being able to use it.</p>\n<p>To enable your mic in Firefox follow the following steps:</p>\n<p>1. Click on the Menu button in the upper right corner, and then select Preferences in the drop down menu!</p>\n<p class=\"wysiwyg-text-align-center\"><img src=\"https://support.discord.com/hc/article_attachments/360058765012/Screen_Shot_2020-06-04_at_4.12.09_PM.png\" alt=\"Screen_Shot_2020-06-04_at_4.12.09_PM.png\"></p>\n<p> 2. Select Privacy and Security in the left menu!</p>\n<p class=\"wysiwyg-text-align-center\"><img src=\"https://support.discord.com/hc/article_attachments/360058765092/Screen_Shot_2020-06-04_at_4.13.21_PM.png\" alt=\"Screen_Shot_2020-06-04_at_4.13.21_PM.png\"></p>\n<p>3. Scroll down the Privacy &amp; Security Options until you reach the Permissions Section! </p>\n<p>When you're there, select the Settings button for your Microphone Permissions </p>\n<p class=\"wysiwyg-text-align-center\"><img src=\"https://support.discord.com/hc/article_attachments/360058765112/Screen_Shot_2020-06-04_at_4.09.39_PM.png\" alt=\"Screen_Shot_2020-06-04_at_4.09.39_PM.png\"></p>\n<p> </p>\n<p>4. You can then enter the \"<strong><em>http://discord.com</em></strong>\" in the Search field and then switch the <strong>Block</strong> option to <strong>Allow</strong> instead! </p>\n<p>Lastly, press \"<strong>Save Changes</strong>\" to confirm your change! </p>\n<p><img src=\"https://support.discord.com/hc/article_attachments/360058765192/Screen_Shot_2020-06-04_at_3.42.26_PM.png\" alt=\"Screen_Shot_2020-06-04_at_3.42.26_PM.png\"></p>\n<p>5. Return to the Discord app and unmute your mic!</p>\n<p>Your mic should now be working correctly in the Firefox browser!</p>\n<p><img src=\"https://support.discord.com/hc/article_attachments/360058276831/Capture58.jpg\" alt=\"Capture58.jpg\"></p>\n<section class=\"article-info\">\n<div class=\"article-content\">\n<div class=\"article-body\">\n<h3 class=\"wysiwyg-text-align-left\">For more information, check out Firefox's official support page here: <a href=\"https://support.mozilla.org/en-US/kb/how-manage-your-camera-and-microphone-permissions\">https://support.mozilla.org/en-US/kb/how-manage-your-camera-and-microphone-permissions</a>\n</h3>\n</div>\n</div>\n</section>",
+  "body_hash": "1841d8f130e33e5623a3bb4d3e67afa0ec2334b5ba975726fc8011afc7b09a4c",
+  "fetched_at": "2026-10-31T19:07:24.528Z",
+  "section_id": 360007770612,
+  "category_id": null,
+  "user_id": null,
+  "promoted": false,
+  "draft": false,
+  "labels": [
+    "mic",
+    "microphone",
+    "enable",
+    "firefox",
+    "answer-bot"
+  ]
+}

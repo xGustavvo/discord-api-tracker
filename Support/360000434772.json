@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "source": "support",
+  "id": "360000434772",
+  "title": "Spotify FAQ",
+  "url": "https://support.discord.com/hc/en-us/articles/360000434772-Spotify-FAQ",
+  "locale": "en-us",
+  "created_at": "2018-01-31T01:43:42Z",
+  "updated_at": "2026-10-25T07:53:47Z",
+  "author": null,
+  "summary": null,
+  "thumbnail_url": null,
+  "body": "<p>There are a few things to be aware of when using Discord's Spotify Connection:</p>\n<ul>\n<li>Enabling cross fading causes an abrupt stop during song change for listeners.</li>\n<li>For mobile phones using listening along: the device cannot go to sleep + end a song, or the app will lose connection with Spotify, and the listen along session will end.</li>\n<li>If clicking play/listen along doesn't work, try selecting a device in your Spotify client or play a song on your Spotify client so Discord knows what Spotify device you're listening on!</li>\n<li>If you are playing a game that Discord detects, <strong>the game will take precedence</strong> and Spotify won't show as your status! </li>\n<li>If you are having odd delay issues, it's probably due to system time being not in sync with the real time! This can be either on the listener's end or the user that is being listened to!</li>\n</ul>",
+  "body_hash": "c67a02c88f1eb3e92e3a33379669620dc41a197aaca72acafb5c7886175798d1",
+  "fetched_at": "2026-10-31T19:07:23.788Z",
+  "section_id": 24453080763799,
+  "category_id": null,
+  "user_id": null,
+  "promoted": false,
+  "draft": false,
+  "labels": [
+    "answer-bot"
+  ]
+}

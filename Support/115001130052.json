@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "source": "support",
+  "id": "115001130052",
+  "title": "Stuck on  the Main Connecting Screen",
+  "url": "https://support.discord.com/hc/en-us/articles/115001130052-Stuck-on-the-Main-Connecting-Screen",
+  "locale": "en-us",
+  "created_at": "2017-08-15T16:30:14Z",
+  "updated_at": "2026-10-31T09:52:14Z",
+  "author": null,
+  "summary": null,
+  "thumbnail_url": null,
+  "body": "<p>If you're stuck on the connecting screen, there's a few things you should try to help!</p>\n<ul>\n<li>Double check to make sure your date/time are set automatically</li>\n<li>Scan your computer using <a href=\"https://www.malwarebytes.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Malwarebytes</a>\n<ul>\n<li>Clear threats, restart PC, relaunch Discord</li>\n</ul>\n</li>\n<li>Ensure your firewall settings are allowing Discord to connect</li>\n<li>Go to your proxy settings, and ensure that no proxies are enabled\n<ul>\n<li>Windows: Control Panel -&gt; Network and Internet -&gt; Internet Options -&gt; Connections -&gt; Lan Settings - <strong>Uncheck</strong> \"Use a Proxy\"</li>\n<li>Mac: System Preferences -&gt; Network -&gt; Advanced -&gt; Proxies - Make sure you have no Proxies enabled</li>\n</ul>\n</li>\n</ul>\n<p>If you're still having trouble connecting, press Ctrl+Shift+I (⌥+⌘+I on Mac) and check your console for errors. You can reference <a href=\"https://support.discord.com/hc/en-us/articles/115001239472\" target=\"_self\">this article</a> to try and diagnose your console errors.</p>",
+  "body_hash": "09ea4f8a5cf6b450612fce7cf8a736d4d0af3a16cfdf3c4626e59053c68f9bc3",
+  "fetched_at": "2026-10-31T19:07:24.528Z",
+  "section_id": 360007770612,
+  "category_id": null,
+  "user_id": null,
+  "promoted": false,
+  "draft": false,
+  "labels": [
+    "stuck",
+    "connecting",
+    "answer-bot"
+  ]
+}

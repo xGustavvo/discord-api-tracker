@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "source": "blog",
+  "id": "how-we-moved-discord-voice-to-the-edge",
+  "title": "How We Moved Discord Voice to the Edge",
+  "url": "https://discord.com/blog/how-we-moved-discord-voice-to-the-edge",
+  "locale": "en-us",
+  "created_at": "2026-06-09T00:00:00.000Z",
+  "updated_at": "2026-06-09T00:00:00.000Z",
+  "author": null,
+  "summary": "Moving Discord’s voice and video onto Cloudflare's edge network. Closer servers, lower ping in most regions, and a few real bugs getting there.",
+  "thumbnail_url": "https://cdn.prod.website-files.com/5f9072399b2640f14d6a2bf4/6a2840bb10082f32bf59f78a_2024_10_DiscordBlog_UsingDiscord-2.png",
+  "body": "<p>At Discord, the distance to a user's closest voice server matters. Every millisecond of network distance adds latency to every packet, and past a certain point calls stop feeling like your friend is in the same room as you.</p><p>For most of Discord's history, the closest voice server we could put you on was in one of about 30 cities worldwide, in places where the major cloud providers had data centers. That worked fine if you lived in the Bay Area or Frankfurt, and less well if you lived in Reykjavik, Auckland, or other places where hyperscaler coverage was thin.</p><p>Last year, we started migrating Discord voice and video traffic onto Cloudflare's edge network, which runs in over 300 cities. Today, more than 80% of our voice and video traffic runs there, and 70% of the regions show year-over-year quality improvements. Frankfurt leads the way, with ping averages down 34% and packet loss down 42% compared to the previous vendor.&nbsp;</p><p>This post is the story of how we got here: why we did it, what we had to build to make it work, and how we investigated quality issues in Europe earlier this year.</p>",
+  "body_hash": "4a47f12d4565d0818da0c1ce2083a8d08a5f7ba789975f8727d88053ef18283e",
+  "fetched_at": "2026-10-31T19:07:27.263Z",
+  "slug": "how-we-moved-discord-voice-to-the-edge",
+  "published_at": "2026-06-09T00:00:00.000Z"
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "source": "support",
+  "id": "9360429789463",
+  "title": "Computer Freeze while Screen Sharing or Go Live FAQ",
+  "url": "https://support.discord.com/hc/en-us/articles/9360429789463-Computer-Freeze-while-Screen-Sharing-or-Go-Live-FAQ",
+  "locale": "en-us",
+  "created_at": "2022-10-05T21:15:32Z",
+  "updated_at": "2026-10-28T05:55:24Z",
+  "author": null,
+  "summary": null,
+  "thumbnail_url": null,
+  "body": "<p>If you have AMD Ryzen CPU and NVIDIA GeForce RTX 3xxxx graphics card, you may experience system freeze, mouse lags and/or audio popping.</p>\n<p><strong>Troubleshooting Steps:</strong></p>\n<ol>\n<li>Try setting the video card slot to PCI-e 3.0. This resolved the issue for most users.</li>\n<li>Please ensure that you have the latest BIOS.</li>\n<li>Disable GeForce Experience.</li>\n</ol>\n<p><strong>How to Check your System:</strong></p>\n<ol>\n<li>Run the dxdiag command.</li>\n<li>Check your processor under System tab and graphics card under Display tab.</li>\n</ol>",
+  "body_hash": "b34c7c63bf6c3b43631f18cf4076332db4303e366e5be18b8cc5e9b9f9e738d7",
+  "fetched_at": "2026-10-31T19:07:24.222Z",
+  "section_id": 360007770612,
+  "category_id": null,
+  "user_id": null,
+  "promoted": false,
+  "draft": false,
+  "labels": [
+    "answer-bot"
+  ]
+}

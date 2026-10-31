@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "source": "creatorSupport",
+  "id": "15701300083095",
+  "title": "Discord x Influencers Club",
+  "url": "https://creator-support.discord.com/hc/en-us/articles/15701300083095-Discord-x-Influencers-Club",
+  "locale": "en-us",
+  "created_at": "2023-06-30T21:20:44Z",
+  "updated_at": "2026-10-20T06:45:03Z",
+  "author": null,
+  "summary": null,
+  "thumbnail_url": null,
+  "body": "<p id=\"docs-internal-guid-90abc51d-7fff-4bb4-c2c9-a18de0d90903\">Discord has partnered with <a href=\"https://influencers.club/\" target=\"_blank\" rel=\"noopener\">Influencers Club</a> to conduct outreach to creators who are not currently on Discord to discuss partnership opportunities. This could include creating a server for their existing fans, monetizing their community using our Server Subscriptions product, or other initiatives.</p>\n<p><strong>Influencers Club will send emails to creators on our behalf using an @influencers.club email address.</strong> If you receive an email and don’t want to be contacted by Influencers Club again, please reply to their email and ask them to remove you from future outreach.</p>\n<p>You can learn more about how Discord is working with creators here: <a href=\"https://discord.com/serversubscriptions\" target=\"_blank\" rel=\"noopener\">https://discord.com/serversubscriptions</a></p>",
+  "body_hash": "18e3dfcd90518f3d0be78c8fc8a0d94df67775cc0dbfa423c4e3051fce6a5cb5",
+  "fetched_at": "2026-10-31T19:07:21.668Z",
+  "section_id": 10245511657879,
+  "category_id": null,
+  "user_id": null,
+  "promoted": false,
+  "draft": false,
+  "labels": [
+    "answer-bot",
+    "server subscriptions",
+    "creators",
+    "partnership",
+    "Discord",
+    "Influencers Club"
+  ]
+}

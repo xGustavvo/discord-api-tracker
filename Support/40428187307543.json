@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "source": "support",
+  "id": "40428187307543",
+  "title": "[Known Issue] Desktop Client Crashing When Starting a Game on AMD Graphics Cards",
+  "url": "https://support.discord.com/hc/en-us/articles/40428187307543--Known-Issue-Desktop-Client-Crashing-When-Starting-a-Game-on-AMD-Graphics-Cards",
+  "locale": "en-us",
+  "created_at": "2026-05-13T00:11:17Z",
+  "updated_at": "2026-10-27T04:07:10Z",
+  "author": null,
+  "summary": null,
+  "thumbnail_url": null,
+  "body": "<p>On May 10, 2026, we identified an issue causing the Discord desktop client to crash, close, or refresh on its own when users start a game. The cause is a regression in AMD's 26.5.1 graphics driver release. We are working with AMD, who is actively investigating. </p><h1 id=\"h_01KRFAMG52KGZPHYK5Y514549E\">Frequently Asked Questions</h1><p><strong>Q: Who is affected by this issue?</strong></p><p><strong>A:</strong> Windows users running AMD graphics driver version 26.5.1 (also identified as 32.0.31007.1017) are affected.</p><p><strong>Q: When will this issue be fixed?</strong></p><p><strong>A:</strong> We do not have an ETA at this time. This article will be updated with any relevant information we receive from our partners at AMD. </p><p><strong>Q: What can I do in the meantime?</strong></p><p><strong>A:</strong> A clean driver reinstall may resolve the issue. For instructions, refer to <a href=\"https://www.amd.com/en/support\" target=\"_blank\" rel=\"noopener noreferrer\">AMD's official driver installation guidance</a>. AMD publishes driver updates through AMD Software: Adrenaline Edition, and a fixed release may be available there in the future.</p>",
+  "body_hash": "70636a431cdb004b587d01a824ca4e7e5966023affaa1a5c57bdbc322bb55388",
+  "fetched_at": "2026-10-31T19:07:22.663Z",
+  "section_id": 115000352292,
+  "category_id": null,
+  "user_id": null,
+  "promoted": false,
+  "draft": false,
+  "labels": []
+}

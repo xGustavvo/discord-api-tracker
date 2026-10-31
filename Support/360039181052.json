@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "source": "support",
+  "id": "360039181052",
+  "title": "Public Server Updates Channel ",
+  "url": "https://support.discord.com/hc/en-us/articles/360039181052-Public-Server-Updates-Channel",
+  "locale": "en-us",
+  "created_at": "2020-02-07T00:28:34Z",
+  "updated_at": "2026-10-30T20:12:20Z",
+  "author": null,
+  "summary": null,
+  "thumbnail_url": null,
+  "body": "<p>Public server owners and moderators, lend me your ears! Today we are rolling out Public Server Updates. </p>\n<h1>What are Public Server Updates?</h1>\n<p>Public Server Updates are official updates and messages from Discord that provides admins and moderators of a public server with information that pertains to Public Servers. </p>\n<h2>How do I set this up?</h2>\n<p>To set up Public Server Updates, a Server admin will need to go to <strong>Server Settings → Public → Overview → Moderators-Only Channel </strong></p>\n<p><img src=\"https://support.discord.com/hc/article_attachments/360049455071/1.png\" alt=\"1.png\"></p>\n<p>Choose a channel from the drop down menu to receive Public Server Updates. </p>\n<p><img src=\"https://support.discord.com/hc/article_attachments/360049455511/2.png\" alt=\"2.png\"></p>\n<h3>Note: We recommend that you select a private moderation channel, as sensitive information about your server may be disclosed in these announcements. </h3>\n<p>Once you have selected a channel, you will see a confirmation post in the selected channel. </p>\n<p><img src=\"https://support.discord.com/hc/article_attachments/360049327132/Screen_Shot_2020-02-10_at_2.01.28_PM.png\" alt=\"Screen_Shot_2020-02-10_at_2.01.28_PM.png\"></p>",
+  "body_hash": "2d56cae2bbd0ae25de2ecde06982d579fe639a3326b26d1b9e04b2ae96ae5a75",
+  "fetched_at": "2026-10-31T19:07:24.222Z",
+  "section_id": 360007770572,
+  "category_id": null,
+  "user_id": null,
+  "promoted": false,
+  "draft": false,
+  "labels": []
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "source": "support",
+  "id": "10952702911639",
+  "title": "Command Permissions Lockout",
+  "url": "https://support.discord.com/hc/en-us/articles/10952702911639-Command-Permissions-Lockout",
+  "locale": "en-us",
+  "created_at": "2022-12-14T14:47:29Z",
+  "updated_at": "2026-10-23T04:00:41Z",
+  "author": null,
+  "summary": null,
+  "thumbnail_url": null,
+  "body": "<p><span style=\"font-weight: 400;\">Individual command permissions act as overrides to application-wide permissions, which can result in a user accidentally locking themselves out of a command.</span></p>\n<p><span style=\"font-weight: 400;\">Server owners and administrators cannot lock themselves out of a command since they can access all commands in the server.</span></p>\n<h1>The Problem</h1>\n<p class=\"wysiwyg-text-align-center\"><span style=\"font-weight: 400;\">Graggle is a member of a server called Wumpus’ Study Corner. This server has an app called StudyBot, which can be used by everyone.</span><img src=\"https://support.discord.com/hc/article_attachments/10952617491351\" alt=\"mceclip0.png\"></p>\n<p><span style=\"font-weight: 400;\">Graggle wants only Student Leads to be able to use <strong>/notecards</strong>, so he goes to turn off the command for @everyone.</span></p>\n<p class=\"wysiwyg-text-align-center\"><img src=\"https://support.discord.com/hc/article_attachments/10952623791639\" alt=\"mceclip1.png\"></p>\n<p><span style=\"font-weight: 400;\">But, he forgot a key step!</span></p>\n<p class=\"wysiwyg-text-align-center\"><img src=\"https://support.discord.com/hc/article_attachments/10952624785175\" alt=\"mceclip2.png\"></p>\n<h1>The Solution</h1>\n<p><span style=\"font-weight: 400;\">Graggle needs to explicitly grant himself access to <strong>/study</strong> before denying it from @everyone, in order to not lock himself out. Graggle has the Student Lead role, so he can do so with the following steps.</span></p>\n<ol>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Explicitly allow \"Student Leads\" to use <strong>/notecards</strong></span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Then, deny @everyone the ability to use <strong>/notecards</strong></span></li>\n</ol>\n<p class=\"wysiwyg-text-align-center\"><img src=\"https://support.discord.com/hc/article_attachments/10952627048087\" alt=\"mceclip3.png\"></p>\n<p><span style=\"font-weight: 400;\">Now, only Student Leads can use notecards, and Graggle didn’t lock himself out of the command.</span></p>",
+  "body_hash": "b094ab896355e1d37d147bf8a290f5b6b60eb10c1a6481af093c07b110b0f755",
+  "fetched_at": "2026-10-31T19:07:23.787Z",
+  "section_id": 202856377,
+  "category_id": null,
+  "user_id": null,
+  "promoted": false,
+  "draft": false,
+  "labels": [
+    "answer-bot",
+    "commands",
+    "app",
+    "command",
+    "command application",
+    "command permissions",
+    "application commands",
+    "command lockout",
+    "command permissions lockout"
+  ]
+}

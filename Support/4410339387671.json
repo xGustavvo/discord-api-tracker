@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "source": "support",
+  "id": "4410339387671",
+  "title": "Data Request Reporting Metrics",
+  "url": "https://support.discord.com/hc/en-us/articles/4410339387671-Data-Request-Reporting-Metrics",
+  "locale": "en-us",
+  "created_at": "2021-10-08T19:26:39Z",
+  "updated_at": "2026-10-31T05:23:07Z",
+  "author": null,
+  "summary": null,
+  "thumbnail_url": null,
+  "body": "<p>In 2025, we received the following number of access requests (requests to know, unique users):</p><figure class=\"wysiwyg-table wysiwyg-table-align-left\" style=\"width: 66.29%;\"><table class=\"wysiwyg-table-resized\" style=\"border-collapse: collapse; border-style: solid; border-width: 1px;\">\n<colgroup>\n<col style=\"width: 65.37%;\">\n<col style=\"width: 34.63%;\">\n</colgroup>\n<tbody>\n<tr>\n<td><strong>Received</strong></td>\n<td>1,361,282</td>\n</tr>\n<tr>\n<td><strong>Completed</strong></td>\n<td>1,346,816</td>\n</tr>\n<tr>\n<td><strong>Incomplete</strong></td>\n<td>14,466</td>\n</tr>\n<tr>\n<td><strong>Average time to resolution</strong></td>\n<td>2.9 days</td>\n</tr>\n</tbody>\n</table></figure><p>In 2025, we received the following number of requests to delete (unique users):</p><figure class=\"wysiwyg-table wysiwyg-table-align-left\" style=\"height: 110px; width: 68.14%;\"><table class=\"wysiwyg-table-resized\" style=\"border-collapse: collapse; border-style: solid; border-width: 1px;\">\n<colgroup>\n<col style=\"width: 67.79%;\">\n<col style=\"width: 32.21%;\">\n</colgroup>\n<tbody>\n<tr style=\"height: 22px;\">\n<td><strong>Received</strong></td>\n<td>13,473,324</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td><strong>Completed</strong></td>\n<td>11,142,420</td>\n</tr>\n<tr>\n<td><strong>Canceled</strong></td>\n<td>1,891,743</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td><strong>Incomplete</strong></td>\n<td>439,161</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td><strong>Average time to resolution</strong></td>\n<td>14 days</td>\n</tr>\n</tbody>\n</table></figure><div>\n<p>Requests may be “incomplete” for a variety of reasons, including if we were unable to verify a user’s account, the user provided an invalid or no email address, or the request was pending and completed in the following calendar year.</p>\n<p>As described in our <a href=\"https://discord.com/privacy\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a>, Discord does not sell your personal information to third parties.</p>\n</div>",
+  "body_hash": "a8e659ea0285dd4dbe3b0e25acf9909719e8a672a4ea9177fd17eecf7d074ed1",
+  "fetched_at": "2026-10-31T19:07:24.223Z",
+  "section_id": 24453668939799,
+  "category_id": null,
+  "user_id": null,
+  "promoted": false,
+  "draft": false,
+  "labels": [
+    "Privacy",
+    "answer-bot",
+    "privacy policy",
+    "policy",
+    "data request report"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "source": "support",
+  "id": "9507780972951",
+  "title": "gg sans: Font Update FAQ",
+  "url": "https://support.discord.com/hc/en-us/articles/9507780972951-gg-sans-Font-Update-FAQ",
+  "locale": "en-us",
+  "created_at": "2022-10-12T18:46:54Z",
+  "updated_at": "2026-10-25T13:03:35Z",
+  "author": null,
+  "summary": null,
+  "thumbnail_url": null,
+  "body": "<h1><span style=\"font-weight: 400;\">gg sans: Discord’s New, Custom Font</span></h1>\n<p><span style=\"font-weight: 400;\">Starting <strong>December 1, 2022</strong>, Discord will begin updating the font across all of its surfaces to our new, custom font, gg sans. Everything from the Discord mobile and desktop apps to our website and blog will use gg sans as their typeface. This change gives Discord the flexibility to customize our font going forward so that we can continuously provide you with the best experience on Discord. </span></p>\n<h2><strong>The meaning behind gg sans</strong></h2>\n<p><span style=\"font-weight: 400;\"><strong>gg sans</strong> highlights one of our favorite characters in our new typeface, the lowercase “g”, and is an ode to our gaming origins. ‘gg’ is an abbreviation for ‘good game’ and is frequently used on our platform. It’s also baked into the foundation of our company, using discord.gg in any of our shared links.</span></p>\n<h1><strong>FAQ</strong></h1>\n<p><strong>Q: What do I need to do to get the new font?</strong></p>\n<p><strong>A: </strong><span style=\"font-weight: 400;\">Discord will start to change the font across its surfaces on <strong>December 1, 2022</strong>. You should see the new font across Discord in the weeks following this date. For the Discord desktop and mobile apps, you may need to refresh the app or make sure your app is updated to the latest version to see the change. For the website, no action is required on your part.</span></p>\n<p><strong>Q: Can I use the custom font for my own projects?</strong></p>\n<p><strong>A: gg sans</strong><span style=\"font-weight: 400;\"> is not currently an open-source font, so you are not able to use it at this time.</span></p>",
+  "body_hash": "6d041397774da43d41480f9194e6d37e913d20cccd03128c6d8ee398c5d61584",
+  "fetched_at": "2026-10-31T19:07:24.528Z",
+  "section_id": 115000457731,
+  "category_id": null,
+  "user_id": null,
+  "promoted": false,
+  "draft": false,
+  "labels": [
+    "answer-bot",
+    "new font",
+    "font update",
+    "font"
+  ]
+}

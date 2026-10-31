@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "source": "supportDev",
+  "id": "360028673812",
+  "title": "Access is denied. <os error 5> - Error",
+  "url": "https://support-dev.discord.com/hc/en-us/articles/360028673812-Access-is-denied-os-error-5-Error",
+  "locale": "en-us",
+  "created_at": "2019-05-30T23:54:50Z",
+  "updated_at": "2026-09-02T20:58:07Z",
+  "author": null,
+  "summary": null,
+  "thumbnail_url": null,
+  "body": "<p>We're noticing a few developers are running into an <strong>Access is denied. &lt;os error 5&gt;</strong> a lot when trying to push builds via dispatch. </p>\n<p class=\"wysiwyg-text-align-center\"><img src=\"https://support-dev.discord.com/hc/article_attachments/360029830551/Screen_Shot_2019-05-30_at_4.45.25_PM.png\" alt=\"Screen_Shot_2019-05-30_at_4.45.25_PM.png\"></p>\n<h3 class=\"wysiwyg-text-align-left\">Things to check</h3>\n<ul>\n<li>Not being signed into the correct Discord account in the <a href=\"https://discordapp.com/developers/applications/\" target=\"_self\">developer portal</a> </li>\n<li>This account you're signed in on is not apart of the team that's associated with this application </li>\n<li>Haven't yet run <strong>dispatch login</strong> to authorize your Discord account </li>\n</ul>\n<p>Double check these three steps if you're running into this error. Additionally, give this documentation <a href=\"https://discordapp.com/developers/docs/dispatch/branches-and-builds#authorizing-yourself-to-use-it\" target=\"_self\">here</a> a close look. </p>\n<p class=\"callout\">Keep our developer support team in mind if you run into other issues! <a href=\"dis.gd/devsupport.\" target=\"_self\">dis.gd/devsupport</a></p>",
+  "body_hash": "c6fc29945ae68cffcd15a0adb4b19409397697e9a04cb7799c2f1b0e7f6050af",
+  "fetched_at": "2026-10-31T19:07:22.283Z",
+  "section_id": 5325137378711,
+  "category_id": null,
+  "user_id": null,
+  "promoted": false,
+  "draft": false,
+  "labels": [
+    "answer-bot"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "source": "supportDev",
+  "id": "8852009977879",
+  "title": "App Directory Inclusion Guidelines",
+  "url": "https://support-dev.discord.com/hc/en-us/articles/8852009977879-App-Directory-Inclusion-Guidelines",
+  "locale": "en-us",
+  "created_at": "2022-09-13T20:34:55Z",
+  "updated_at": "2026-10-28T00:51:15Z",
+  "author": null,
+  "summary": null,
+  "thumbnail_url": null,
+  "body": "<p>We want to help connect people to the amazing things that developers create, and we want to make sure we do this in a safe manner.</p>\n<p>To help ensure that people are safe, we've created guidelines to help developers understand what the requirements are to making your app discoverable and being included in Discord's App Directory. Having the ability to reach more people on Discord is a big privilege, which means that there is some additional responsibility for each developer and their team.</p>\n<p><strong>1. Abide by the Developer Policy and Terms of Service.</strong> Apps that violate <strong><a href=\"https://discord.com/developers/docs/policies-and-agreements/developer-policy\" target=\"_blank\" rel=\"noopener noreferrer\">Discord's Developer Policy</a></strong> and <a href=\"https://discord.com/developers/docs/policies-and-agreements/terms-of-service\" target=\"_self\"><strong>Developer</strong> <strong>Terms of Service</strong></a> are ineligible for Discovery or the App Directory. We want Discord to be a safe, positive, and inclusive experience. Our team will investigate apps that are reported to us or that we proactively identify as likely in violation of our policies.</p>\n<p><strong>2. Ensure you meet all the requirements laid out in the Developer Portal.</strong> Our <a href=\"https://discord.com/developers/applications\" target=\"_self\">Developer Portal</a> is the one-stop shop for managing your application. If your app is eligible for discoverability, you can find a list of requirements under <strong>Your Application &gt; Discovery &gt; Discovery Status</strong>.</p>\n<p><strong>3. Do not host graphic or sexual content. </strong>Graphic violence, sexual content, or other age-restricted topics are not allowed in public spaces. Apps opting into discoverability should be appropriate for audiences of all ages 13+.</p>\n<p><strong>4. Respect people's intellectual property and other rights.</strong> Only incorporate content that you own or have a license to use. Do not invade anyone's privacy, libel them, or otherwise violate their rights.</p>\n<p>If you see an app violating these guidelines, please report it via the app's page on the directory.</p>",
+  "body_hash": "118264a19b04c48c61d89f591f86133524336c984cc391b3419fccc7a916bcc3",
+  "fetched_at": "2026-10-31T19:07:22.284Z",
+  "section_id": 360001637491,
+  "category_id": null,
+  "user_id": null,
+  "promoted": false,
+  "draft": false,
+  "labels": []
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "source": "blog",
+  "id": "how-to-set-up-your-servers-roles-for-members-mods-admins",
+  "title": "How to Set Up Your Server’s Roles for Members, Mods & Admins",
+  "url": "https://discord.com/blog/how-to-set-up-your-servers-roles-for-members-mods-admins",
+  "locale": "en-us",
+  "created_at": "2025-06-20T00:00:00.000Z",
+  "updated_at": "2025-06-20T00:00:00.000Z",
+  "author": null,
+  "summary": "There’s a LOT of Role permissions to comb through for your Discord server, and every community has its own needs. In this article, we’ll give some general guidance on each permission to help you decide what works best.",
+  "thumbnail_url": "https://cdn.prod.website-files.com/5f9072399b2640f14d6a2bf4/6853360f59d0d7fd18e594a6_image6.png",
+  "body": "<p>Setting up your server’s permissions can be the key difference between a hectic time in the wild west and building a welcoming community where your server members want to hang out with each other all the time!&nbsp;</p><p>There are a LOT of Role permissions to comb through and learn what they do, and every community is unique, each with its own different needs. Some are small spaces for your closest friends, while others are BIG and have hundreds, if not thousands, of members.&nbsp;</p><p><strong>In this blog, we’ll be organizing Role permissions by three recommended categories</strong>:&nbsp;</p><ul role=\"list\"><li>Role permissions for all members&nbsp;</li><li>Role permissions for your moderators</li><li>Role permissions for your superpowerful server admins&nbsp;</li></ul><p>All listed permissions are currently in-app as of June 6, 2025.&nbsp;</p>",
+  "body_hash": "16b0a4bab465df05f9a757d7b20bcd27a04e138513ad0652faaa45974fb27c22",
+  "fetched_at": "2026-10-31T19:07:32.918Z",
+  "slug": "how-to-set-up-your-servers-roles-for-members-mods-admins",
+  "published_at": "2025-06-20T00:00:00.000Z"
+}

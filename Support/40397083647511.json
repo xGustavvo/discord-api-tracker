@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "source": "support",
+  "id": "40397083647511",
+  "title": "[SOLVED] Audio Issues when Screensharing on Android",
+  "url": "https://support.discord.com/hc/en-us/articles/40397083647511--SOLVED-Audio-Issues-when-Screensharing-on-Android",
+  "locale": "en-us",
+  "created_at": "2026-05-11T21:39:11Z",
+  "updated_at": "2026-10-31T16:45:52Z",
+  "author": null,
+  "summary": null,
+  "thumbnail_url": null,
+  "body": "<p>From approximately April 7, 2026 to June 22, 2026, a bug existed in Android System WebView which could break the audio capture pipeline. This bug was triggered by in-app advertisements and would cause streams to suddenly go silent, and could only be temporarily resolved by rebooting the Android device.</p><p>Our partners at Google worked to roll out a fix for this in Android System WebView version 149, which became widely available on June 22, 2026. In the meantime, we advised users to uninstall updates to Android System WebView. Now that a fix is generally available, we recommend that any affected users update Android System WebView via the <a href=\"https://play.google.com/store/apps/details?id=com.google.android.webview\" target=\"_blank\" rel=\"noopener noreferrer\">Play Store</a>.<br> </p>",
+  "body_hash": "e944975bed1bbb21b7b14de6396e706a0bc6074c9122bb1e78210b983376a39b",
+  "fetched_at": "2026-10-31T19:07:22.663Z",
+  "section_id": 115000352292,
+  "category_id": null,
+  "user_id": null,
+  "promoted": false,
+  "draft": false,
+  "labels": []
+}

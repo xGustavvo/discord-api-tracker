@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "source": "support",
+  "id": "18621944634391",
+  "title": "Color Issues in Go Live/Screenshare for NVIDIA Graphics Card",
+  "url": "https://support.discord.com/hc/en-us/articles/18621944634391-Color-Issues-in-Go-Live-Screenshare-for-NVIDIA-Graphics-Card",
+  "locale": "en-us",
+  "created_at": "2023-10-28T00:19:35Z",
+  "updated_at": "2026-10-20T12:28:20Z",
+  "author": null,
+  "summary": null,
+  "thumbnail_url": null,
+  "body": "<p><span id=\"docs-internal-guid-e8e0ddc1-7fff-0d88-27b5-1c91b405cf72\">On October 20, 2023, we investigated a stream discoloration issue that occurred during screensharing in Discord for Windows users with the latest NVIDIA GPU driver, version 545.84. The outgoing stream can exhibit a loss in color values, creating a wash out image as you see below. This is a possible video encoder regression in NVIDIA’s 545.84 driver.</span></p>\n<p class=\"wysiwyg-text-align-center\"><img src=\"https://support.discord.com/hc/article_attachments/18621978181015\" alt=\"nvidia-graphics-color-issue-discord-go-live.png\"></p>\n<p>If you are impacted by this issue, <strong>we recommend upgrading to NVIDIA driver version 546.31 or later as that should resolve the discoloration in your Go Live stream</strong>.</p>\n<p>You can download 546.31 using the following link: <a href=\"https://nvidia.custhelp.com/app/answers/detail/a_id/5507\">https://nvidia.custhelp.com/app/answers/detail/a_id/5507</a></p>\n<p>To check if a newer driver exists for your system, you can search here: <a href=\"https://www.nvidia.com/download/find.aspx\">https://www.nvidia.com/download/find.aspx</a></p>\n<h1 id=\"docs-internal-guid-362803d9-7fff-89d5-1104-cef49c463326\">Frequently Asked Questions</h1>\n<p><strong>Q: How do I check my NVIDIA GPU driver version?</strong></p>\n<p>A: On your Windows device, you can run a DirectX Diagnostic or a DX Diag to find your GPU information along with the driver version under the Display tab of your DX Diag. You can check out this article <a href=\"https://support.discord.com/hc/articles/223276128\" target=\"_blank\" rel=\"noopener noreferrer\">here</a> for how to run a DX Diag.</p>",
+  "body_hash": "ab58117a0ae9183d420306de1d0013e0dabf93be9ec989c491588f79edebc000",
+  "fetched_at": "2026-10-31T19:07:24.221Z",
+  "section_id": 360007770612,
+  "category_id": null,
+  "user_id": null,
+  "promoted": false,
+  "draft": false,
+  "labels": [
+    "Go Live",
+    "color issues in stream",
+    "discoloration",
+    "nvidia graphics card",
+    "nvidia 545.84",
+    "nvidia 546.31"
+  ]
+}

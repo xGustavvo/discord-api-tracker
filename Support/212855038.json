@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "source": "support",
+  "id": "212855038",
+  "title": "I'm hearing Robotic and Distorted voices. How do I fix it?",
+  "url": "https://support.discord.com/hc/en-us/articles/212855038-I-m-hearing-Robotic-and-Distorted-voices-How-do-I-fix-it",
+  "locale": "en-us",
+  "created_at": "2015-11-03T07:32:12Z",
+  "updated_at": "2026-10-28T13:56:41Z",
+  "author": null,
+  "summary": null,
+  "thumbnail_url": null,
+  "body": "<p>If you're hearing distortion in voice chat it's typically a sign of a connection issue which can vary from your connection to hiccups with our servers. The most common fix to the distortion is to have your server owner/admin switch the server region, in server settings &gt; overview, to a server that is closest to your physical location. If you're already on a server closest to your physical location select the next closest one to see if the distortion persist.</p>\n<p>If the distortion subsides once you switch server regions. Hang out there for a bit and let the original server region resolve itself before switching back. </p>",
+  "body_hash": "f3c28b0f91a740d955b16602225288befd59ed3b5f88ab3d2a38fa1da1fe084d",
+  "fetched_at": "2026-10-31T19:07:24.528Z",
+  "section_id": 360007770612,
+  "category_id": null,
+  "user_id": null,
+  "promoted": false,
+  "draft": false,
+  "labels": [
+    "robo",
+    "robot",
+    "static",
+    "distort",
+    "answer-bot"
+  ]
+}

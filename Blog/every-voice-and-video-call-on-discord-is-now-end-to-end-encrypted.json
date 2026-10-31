@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "source": "blog",
+  "id": "every-voice-and-video-call-on-discord-is-now-end-to-end-encrypted",
+  "title": "Every Voice and Video Call on Discord Is Now End-to-End Encrypted",
+  "url": "https://discord.com/blog/every-voice-and-video-call-on-discord-is-now-end-to-end-encrypted",
+  "locale": "en-us",
+  "created_at": "2026-05-18T00:00:00.000Z",
+  "updated_at": "2026-05-18T00:00:00.000Z",
+  "author": null,
+  "summary": "As of March 2026, E2EE is now enforced for every voice and video call on Discord. This represents a multi-year commitment, and Discord’s VP of Engineering is here to talk about why it matters.",
+  "thumbnail_url": "https://cdn.prod.website-files.com/5f9072399b2640f14d6a2bf4/6a025bd747acaa792ad3ddad_image1.png",
+  "body": "<p>In August 2023, we<a href=\"https://discord.com/blog/encryption-for-voice-and-video-on-discord\"> shared</a> that we were experimenting with end-to-end encryption (E2EE) for voice and video on Discord. That post was short and deliberately understated. But it represented a real commitment, one we knew would take years to deliver on.</p><p>It's been quite a journey since then. In September 2024, Stephen Birarda<a href=\"https://discord.com/blog/meet-dave-e2ee-for-audio-video\"> introduced the DAVE protocol</a>: an open, audited end-to-end encryption protocol for audio and video. We began migrating calls on desktop and mobile and started proving that E2EE could operate at Discord's scale <em>without</em> compromising the experience people expect from us. In 2025, Clément Brisset<a href=\"https://discord.com/blog/bringing-dave-to-all-discord-platforms\"> extended DAVE to every remaining platform</a>, including web browsers, gaming consoles, support for Discord bots/apps, and our Social SDK, helping close the gaps that had kept some calls from being fully encrypted. And at the beginning of March 2026, we completed that migration.&nbsp;</p><p><strong>End-to-end Encryption is now standard for every voice and video call on Discord, outside of stage channels. No opt-in required.</strong></p><p>I'm proud of what our team has accomplished, and I want to talk about what it took and why it matters.</p>",
+  "body_hash": "f3c82939b64ae1788fc59b8149b781217ee3ff085879d60603bd727e18526aed",
+  "fetched_at": "2026-10-31T19:07:27.698Z",
+  "slug": "every-voice-and-video-call-on-discord-is-now-end-to-end-encrypted",
+  "published_at": "2026-05-18T00:00:00.000Z"
+}

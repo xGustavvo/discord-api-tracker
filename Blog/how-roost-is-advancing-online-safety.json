@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "source": "blog",
+  "id": "how-roost-is-advancing-online-safety",
+  "title": "How ROOST is Advancing Online Safety",
+  "url": "https://discord.com/blog/how-roost-is-advancing-online-safety",
+  "locale": "en-us",
+  "created_at": "2026-03-16T00:00:00.000Z",
+  "updated_at": "2026-03-16T00:00:00.000Z",
+  "author": null,
+  "summary": "The threat landscape online has shifted dramatically. Many online platforms are left to reinvent safety tools from scratch. That’s the gap ROOST was built to close — and it’s why open-sourcing battle-tested tools like Osprey matters so much.",
+  "thumbnail_url": "https://cdn.prod.website-files.com/5f9072399b2640f14d6a2bf4/68090f03d6cb868fab0af03c_2024_10_DiscordBlog_CompanyAnnoucements-1.png",
+  "body": "<p>Nearly 100 million people use Discord every day. Protecting a community that size means evaluating hundreds of millions of actions—logins, messages, account changes—to catch threats before they cause harm. Behind that protection is Osprey, a rules engine technology developed by Discord and donated to <a href=\"http://roost.tools\">ROOST</a> to help flag suspicious logins, catch harmful content, and stop bot attacks before they spread.&nbsp;</p><p>ROOST was founded to make safety tools open, shared, and auditable across platforms. A year ago, Discord helped launch this bold technology nonprofit with a clear vision: the best online safety tools shouldn’t be corporate secrets, smaller platforms shouldn’t have to reinvent what larger platforms like Discord have already built. The current moment demands that we radically accelerate the pace of innovation on safety technologies. As ROOST Board Chair, I’ve seen that vision become reality —and open-sourcing Osprey is just one of many proof points from ROOST’s first year.</p>",
+  "body_hash": "16a06eaff302c124ff5b025ec3d4b8f35dba6b87762081223d6b44d8c0838c43",
+  "fetched_at": "2026-10-31T19:07:29.027Z",
+  "slug": "how-roost-is-advancing-online-safety",
+  "published_at": "2026-03-16T00:00:00.000Z"
+}

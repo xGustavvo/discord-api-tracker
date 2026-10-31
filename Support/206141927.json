@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "source": "support",
+  "id": "206141927",
+  "title": "How is the permission hierarchy structured?",
+  "url": "https://support.discord.com/hc/en-us/articles/206141927-How-is-the-permission-hierarchy-structured",
+  "locale": "en-us",
+  "created_at": "2015-05-15T21:07:43Z",
+  "updated_at": "2026-10-27T20:46:06Z",
+  "author": null,
+  "summary": null,
+  "thumbnail_url": null,
+  "body": "<p>This helpdesk article details the Discord permission hierarchy.</p>\n<p>For a general overview of the permission system and instructions on where to access these settings <a href=\"https://support.discord.com/hc/en-us/articles/206029707\">click here</a>.</p>\n<p>You can also check out step-by-step instructions for the following popular permission settings:</p>\n<ul>\n<li><a href=\"https://support.discord.com/hc/en-us/articles/206143407\">How do I set up a private server?</a></li>\n<li><a href=\"https://support.discord.com/hc/en-us/articles/206143877\">How do I set up a leaders channel?</a></li>\n<li><a href=\"https://support.discord.com/hc/en-us/articles/205369668\">How do I set up an announcements channel?</a></li>\n</ul>\n<p> </p>\n<p><span class=\"wysiwyg-underline wysiwyg-font-size-large\">Server Permissions</span></p>\n<p>An individual's server-wide permissions are determined by adding up all the allows for roles assigned to that individual along with the allows for @everyone.</p>\n<p> </p>\n<p><span class=\"wysiwyg-underline wysiwyg-font-size-large\">Channel Permissions</span></p>\n<p>Channel permissions start with server permissions as a base. Then, the hierarchy is as follows:</p>\n<ul>\n<li>Apply denies of @everyone on channel</li>\n<li>Apply allows of @everyone on channel</li>\n<li>Sum up all the denies of a member's roles and apply them at once</li>\n<li>Sum up all the allows of a member's roles and apply them at once</li>\n<li>Apply denies for a specific member if they exist</li>\n<li>Apply allows for a specific member if they exist</li>\n</ul>\n<p> </p>",
+  "body_hash": "4f092aa64183125b997874e5b1c565ab424c0218795ea2fe28a48de74df3ffe6",
+  "fetched_at": "2026-10-31T19:07:24.222Z",
+  "section_id": 202856377,
+  "category_id": null,
+  "user_id": null,
+  "promoted": false,
+  "draft": false,
+  "labels": [
+    "safety",
+    "raid",
+    "tns",
+    "answer-bot"
+  ]
+}

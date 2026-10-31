@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "source": "support",
+  "id": "1500005933882",
+  "title": "Unsupported Bug Reports",
+  "url": "https://support.discord.com/hc/en-us/articles/1500005933882-Unsupported-Bug-Reports",
+  "locale": "en-us",
+  "created_at": "2021-04-03T01:46:00Z",
+  "updated_at": "2026-10-31T03:18:16Z",
+  "author": null,
+  "summary": null,
+  "thumbnail_url": null,
+  "body": "<p><strong><span class=\"wysiwyg-font-size-large\">What this article covers: </span></strong></p>\n<ul>\n<li><a href=\"https://support.discord.com/hc/en-us/articles/1500005933882#h_01HWDKEXGE3YB2QSYS3MZ7K8CF\">Non-Standard Bug Reports</a></li>\n<li><a href=\"https://support.discord.com/hc/en-us/articles/1500005933882#h_01HWDKEXGE0EPR3PQSDVRP4XCE\">Unsupported Reports</a></li>\n<li><a href=\"https://support.discord.com/hc/en-us/articles/1500005933882#h_01HWDKEXGE5MRGT00Q50W5BMAF\">Minor Reports</a></li>\n<li><a href=\"https://support.discord.com/hc/en-us/articles/1500005933882#h_01HWDKEXGE7RXBF4TM0C253MK6\">Unsupported Platforms</a></li>\n</ul>\n<h3 id=\"h_01HWDKEXGE9PH034Q43Z4FWGYF\">\n<span style=\"color: #434343;\">For more information on how to submit a bug, please check out this </span><a href=\"https://support.discord.com/hc/en-us/articles/360046057772\" target=\"_blank\" rel=\"noopener noreferrer\">Help Center article</a><span style=\"color: #434343;\">.</span>\n</h3>\n<h1 id=\"h_01HWDKEXGE3YB2QSYS3MZ7K8CF\">Non-Standard Bug Reports</h1>\n<p>These are issues that are not supported by standard Bug Reporting, but may be reported elsewhere:</p>\n<div>\n<table style=\"width: 100%;\">\n<colgroup><col></colgroup>\n<tbody>\n<tr>\n<td>Payment related issues (submit to <a href=\"https://dis.gd/billing\" target=\"_blank\" rel=\"noopener noreferrer\">Billing Support</a>)</td>\n</tr>\n<tr>\n<td>Security bugs</td>\n</tr>\n<tr>\n<td>Translation bugs that do not break functionality. These should be submitted to <a href=\"https://dis.gd/lang-feedback\" target=\"_blank\" rel=\"noopener noreferrer\">https://dis.gd/lang-feedback</a>\n</td>\n</tr>\n<tr>\n<td>API bugs. These should be reported on the <a href=\"https://github.com/discord/discord-api-docs/issues\" target=\"_blank\" rel=\"noopener noreferrer\">API Docs GitHub Repository</a>\n</td>\n</tr>\n<tr>\n<td>Feature Requests should be submitted to <a href=\"https://support.discord.com/hc/en-us/community/topics\" target=\"_blank\" rel=\"noopener noreferrer\">feedback.discord.com</a>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n<h1 id=\"h_01HWDKEXGE0EPR3PQSDVRP4XCE\">Unsupported Reports</h1>\n<p>This is a list of unsupported report topics, please check this list before you submit a bug.</p>\n<div>\n<table style=\"width: 100%;\">\n<colgroup><col></colgroup>\n<tbody>\n<tr>\n<td>Client modifications (BeautifulDiscord, BetterDiscord, etc.)</td>\n</tr>\n<tr>\n<td>Using multiple instances of Discord on the same device at the same time. <em>Example: Using Discord Stable, PTB, and Canary all at once.</em>\n</td>\n</tr>\n<tr>\n<td>Any bug that occurs only on virtual machines. If they can be reproduced on real hardware, it's valid</td>\n</tr>\n<tr>\n<td>Alpha, Nightly, or developer environment browsers. If a developer environment browser update causes Discord to stop working, when it previously worked, this should be reported to the browser developers.</td>\n</tr>\n</tbody>\n</table>\n</div>\n<h1 id=\"h_01HWDKEXGE5MRGT00Q50W5BMAF\">Minor Reports</h1>\n<div>\n<table style=\"width: 100%;\">\n<colgroup><col></colgroup>\n<tbody>\n<tr>\n<td>Visual bugs with a low pixel offset (\"Pixel-Bugs\")</td>\n</tr>\n<tr>\n<td>Bugs that involve spam-pressing buttons</td>\n</tr>\n<tr>\n<td>Bugs that only appear for about a second</td>\n</tr>\n<tr>\n<td>Reports that involve a high amount of steps to reproduce (Think if the Konami-Code resulted in a bug)</td>\n</tr>\n<tr>\n<td>Behavior that only happens by waiting for several minutes/hours</td>\n</tr>\n</tbody>\n</table>\n</div>\n<h1 id=\"h_01HWDKEXGE7RXBF4TM0C253MK6\">Unsupported Platforms</h1>\n<h3 id=\"h_01HWDKEXGE7JC26JD5ZYBH8QWD\">\n<span style=\"color: #434343;\">For a list of platforms and devices that we do support, please check out this </span><a href=\"https://support.discord.com/hc/articles/213491697\" target=\"_blank\" rel=\"noopener noreferrer\">Help Center article</a><span style=\"color: #434343;\">.</span>\n</h3>\n<p>These are the following platforms that are not supported by Discord.</p>\n<div>\n<table style=\"width: 100%;\">\n<colgroup><col></colgroup>\n<tbody>\n<tr>\n<td>Amazon Tablets (Kindle) </td>\n</tr>\n<tr>\n<td>ChromeOS</td>\n</tr>\n<tr>\n<td>Mobile browser</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p><br><br></p>",
+  "body_hash": "0129305c3c6bfe0a8d4fffa187745c3f7a37ae7f8905844067613cec8708c0e4",
+  "fetched_at": "2026-10-31T19:07:23.788Z",
+  "section_id": 360007875191,
+  "category_id": null,
+  "user_id": null,
+  "promoted": false,
+  "draft": false,
+  "labels": [
+    "bugs",
+    "bug",
+    "Bug Hunter",
+    "tester",
+    "bug reports"
+  ]
+}

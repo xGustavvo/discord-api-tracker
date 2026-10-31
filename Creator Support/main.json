@@ -1,0 +1,129 @@
+{
+  "schema_version": 1,
+  "source": "creatorSupport",
+  "generated_at": "2026-10-31T19:07:34.837Z",
+  "total": 11,
+  "articles": [
+    {
+      "id": "10421734758295",
+      "title": "Promo Pages",
+      "url": "https://creator-support.discord.com/hc/en-us/articles/10421734758295-Promo-Pages",
+      "locale": "en-us",
+      "created_at": "2022-11-22T23:15:45Z",
+      "updated_at": "2026-09-03T07:10:17Z",
+      "published_at": null,
+      "body_hash": "ca1148539e92e4f821ffc56bd22cf4cfd332b67995722afb277d3749e59d77f7",
+      "thumbnail_url": null
+    },
+    {
+      "id": "10423011974551",
+      "title": "Server Shop For Server Owners and Admins",
+      "url": "https://creator-support.discord.com/hc/en-us/articles/10423011974551-Server-Shop-For-Server-Owners-and-Admins",
+      "locale": "en-us",
+      "created_at": "2022-11-23T00:13:11Z",
+      "updated_at": "2026-10-09T19:59:41Z",
+      "published_at": null,
+      "body_hash": "60c8c711c0d60903b8926a11aa17eba23c655ca55cc172f58f58d221300d0eed",
+      "thumbnail_url": null
+    },
+    {
+      "id": "10424143128343",
+      "title": "Creator Revenue FAQ",
+      "url": "https://creator-support.discord.com/hc/en-us/articles/10424143128343-Creator-Revenue-FAQ",
+      "locale": "en-us",
+      "created_at": "2022-11-23T00:43:25Z",
+      "updated_at": "2025-08-28T01:47:56Z",
+      "published_at": null,
+      "body_hash": "d0d7c8228ba089cf96407212f97019fb3eefa333ef980f9a3406dbd2a985a075",
+      "thumbnail_url": null
+    },
+    {
+      "id": "10580820802711",
+      "title": "Creator Terms and Policies",
+      "url": "https://creator-support.discord.com/hc/en-us/articles/10580820802711-Creator-Terms-and-Policies",
+      "locale": "en-us",
+      "created_at": "2022-11-29T22:55:12Z",
+      "updated_at": "2026-10-27T01:23:01Z",
+      "published_at": null,
+      "body_hash": "effa71f5d41159cf4661048d52b4886ac18d24b8faf272051c88e363f1e0f6f1",
+      "thumbnail_url": null
+    },
+    {
+      "id": "10603367149975",
+      "title": "What's New: December 1, 2022",
+      "url": "https://creator-support.discord.com/hc/en-us/articles/10603367149975-What-s-New-December-1-2022",
+      "locale": "en-us",
+      "created_at": "2022-11-30T19:15:59Z",
+      "updated_at": "2026-10-19T08:04:48Z",
+      "published_at": null,
+      "body_hash": "7af4d3a17156dae89d810540f550b814f42381d8a511b2c605aa4ec9a6d5975b",
+      "thumbnail_url": null
+    },
+    {
+      "id": "10603682087703",
+      "title": "Change Log: December 1, 2022",
+      "url": "https://creator-support.discord.com/hc/en-us/articles/10603682087703-Change-Log-December-1-2022",
+      "locale": "en-us",
+      "created_at": "2022-11-30T19:24:20Z",
+      "updated_at": "2026-08-22T02:07:33Z",
+      "published_at": null,
+      "body_hash": "6376f71afc84896fbefe8cd8dcc8d72d525c636ff79a4169ddf130ff25274e41",
+      "thumbnail_url": null
+    },
+    {
+      "id": "12653663868823",
+      "title": "Ownership Transfer of Server with Server Subscriptions",
+      "url": "https://creator-support.discord.com/hc/en-us/articles/12653663868823-Ownership-Transfer-of-Server-with-Server-Subscriptions",
+      "locale": "en-us",
+      "created_at": "2023-02-24T10:57:55Z",
+      "updated_at": "2026-10-27T16:13:01Z",
+      "published_at": null,
+      "body_hash": "914667a7edfca82787a5413d3457f6955c9174cebd8604c6faa6109e30952be1",
+      "thumbnail_url": null
+    },
+    {
+      "id": "14346342766743",
+      "title": "Media Channels for Server Subscriptions [BETA]",
+      "url": "https://creator-support.discord.com/hc/en-us/articles/14346342766743-Media-Channels-for-Server-Subscriptions-BETA",
+      "locale": "en-us",
+      "created_at": "2023-05-03T23:48:35Z",
+      "updated_at": "2026-08-30T23:54:14Z",
+      "published_at": null,
+      "body_hash": "f3675ae0a2c90bce266695958ab4dac3c9976cfa2f8a532e3f7c872813e1b612",
+      "thumbnail_url": null
+    },
+    {
+      "id": "15701300083095",
+      "title": "Discord x Influencers Club",
+      "url": "https://creator-support.discord.com/hc/en-us/articles/15701300083095-Discord-x-Influencers-Club",
+      "locale": "en-us",
+      "created_at": "2023-06-30T21:20:44Z",
+      "updated_at": "2026-10-20T06:45:03Z",
+      "published_at": null,
+      "body_hash": "18e3dfcd90518f3d0be78c8fc8a0d94df67775cc0dbfa423c4e3051fce6a5cb5",
+      "thumbnail_url": null
+    },
+    {
+      "id": "20062773209751",
+      "title": "[Notice] Delayed Responses from our Support Team due to the Holiday Season",
+      "url": "https://creator-support.discord.com/hc/en-us/articles/20062773209751--Notice-Delayed-Responses-from-our-Support-Team-due-to-the-Holiday-Season",
+      "locale": "en-us",
+      "created_at": "2023-12-22T18:18:24Z",
+      "updated_at": "2026-09-23T20:01:54Z",
+      "published_at": null,
+      "body_hash": "614c8520cd8df84103a7538edd00d91b9b07d12dbecdc13bc7c44aef364070de",
+      "thumbnail_url": null
+    },
+    {
+      "id": "35312828680343",
+      "title": "Server Subs: Payout Onboarding Guide",
+      "url": "https://creator-support.discord.com/hc/en-us/articles/35312828680343-Server-Subs-Payout-Onboarding-Guide",
+      "locale": "en-us",
+      "created_at": "2025-09-30T21:44:22Z",
+      "updated_at": "2026-10-05T00:57:13Z",
+      "published_at": null,
+      "body_hash": "3266176ce019776e81c58a339a9061eb059fbdb03efd588658cd6c4178a65214",
+      "thumbnail_url": null
+    }
+  ]
+}

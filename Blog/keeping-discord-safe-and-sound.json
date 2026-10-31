@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "source": "blog",
+  "id": "keeping-discord-safe-and-sound",
+  "title": "How Multi-Factor Authentication Helps Keep Your Discord Account Safe",
+  "url": "https://discord.com/blog/keeping-discord-safe-and-sound",
+  "locale": "en-us",
+  "created_at": "2026-03-27T00:00:00.000Z",
+  "updated_at": "2026-03-27T00:00:00.000Z",
+  "author": null,
+  "summary": "A Discord account is more than just your username and avatar. That’s why it’s important to help keep your account safe and secure by using Multi-Factor Authentication, SMS Backup Authentication & QR Code Login. Learn how to keep your account more secure in the following blog post!",
+  "thumbnail_url": "https://cdn.prod.website-files.com/5f9072399b2640f14d6a2bf4/61f2eb202125983477455f6e_Discord-2FA-Blog-Header.png",
+  "body": "<p>A Discord account is more than just a username and avatar: it’s your key to talking the night away with your closest friends and favorite communities. It’s how your day can transform from just another Tuesday night to one of your most cherished memories.&nbsp;</p><p>That’s why it’s important to keep your Discord account secure, so you can always stay connected to the ones you care about the most. Over the years, bad actors on nearly every social platform have grown a bit more crafty when it comes to taking over accounts.&nbsp;</p><p>On Discord, you’ve got a few options at your disposal to help keep your account secure:</p><ul role=\"list\"><li><a href=\"https://discord.com/blog/keeping-discord-safe-and-sound#2\">Login Verification Emails</a></li><li><a href=\"https://discord.com/blog/keeping-discord-safe-and-sound#4\">Passkeys</a></li><li><a href=\"https://discord.com/blog/keeping-discord-safe-and-sound#5\">Authenticator Apps</a>&nbsp;</li><li><a href=\"https://discord.com/blog/keeping-discord-safe-and-sound#6\">SMS Authentication</a></li><li><a href=\"https://discord.com/blog/keeping-discord-safe-and-sound#8\">QR Code Login</a></li></ul><p><strong>To make your account’s defenses as strong as possible, you should absolutely enable Multi-Factor Authentication with one or more Passkeys, or use an Authenticator app if you aren’t able to use Passkeys.</strong></p><p>Read on for a quick explainer of how each of these features protects your account, plus some general security tips near the bottom of this post.<br></p>",
+  "body_hash": "990c193ffdb6f4f14868cc74bd556310727216444eb9d892f38c0c5b1ddbf894",
+  "fetched_at": "2026-10-31T19:07:28.835Z",
+  "slug": "keeping-discord-safe-and-sound",
+  "published_at": "2026-03-27T00:00:00.000Z"
+}

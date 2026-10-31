@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "source": "blog",
+  "id": "osprey-open-sourcing-our-rule-engine",
+  "title": "Osprey: Open Sourcing our Rule Engine",
+  "url": "https://discord.com/blog/osprey-open-sourcing-our-rule-engine",
+  "locale": "en-us",
+  "created_at": "2026-02-19T00:00:00.000Z",
+  "updated_at": "2026-02-19T00:00:00.000Z",
+  "author": null,
+  "summary": "Discord uses Osprey to quickly detect and remove new types of harm from putting our customers at risk. Now we’re open-sourcing this tool so others can do the same.",
+  "thumbnail_url": "https://cdn.prod.website-files.com/5f9072399b2640f14d6a2bf4/68c465a0050ca83bcc5934ef_image2.png",
+  "body": "<h5>This is a collaborative piece written by Jared Miller and Ayu.</h5><p>Despite virtually every online platform facing these sorts of challenges, many are left to reinvent tools from scratch, with varying degrees of success. We’d like to help our fellow companies get a head-start on their safety measures — that's why, in partnership with&nbsp; <a href=\"https://roost.tools/\">ROOST</a> and the <a href=\"https://internet.dev/\">internet.dev</a> team, we’re excited to open-source <a href=\"https://discord.com/press-releases/roost-announces-coop-and-osprey-free-open-source-trust-and-safety-infrastructure-for-the-ai-era\">Osprey</a>: our safety rules engine.</p><p>With Osprey, teams can investigate real-time activities across their platforms and quickly deploy dynamic rules to address emerging threats, all with minimal engineering overhead.</p><p>This post will walk you through what Osprey is, how it works, and how your team can start using it to build stronger safety measures.</p><div class=\"w-embed\"><div class=\"btn-wrapper\"><a data-track=\"https://github.com/roostorg/osprey\" href=\"https://github.com/roostorg/osprey\" class=\"btn-blog w-button\" target=\"_blank\">View the Osprey Github Repo</a></div></div>",
+  "body_hash": "73eaa1c6a7a396f9c2f3190e0f9f59ee949f7462b3a09adf0169cfb0ea153d30",
+  "fetched_at": "2026-10-31T19:07:29.527Z",
+  "slug": "osprey-open-sourcing-our-rule-engine",
+  "published_at": "2026-02-19T00:00:00.000Z"
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "source": "support",
+  "id": "28482878482583",
+  "title": "How to Cancel your Discord Subscription",
+  "url": "https://support.discord.com/hc/en-us/articles/28482878482583-How-to-Cancel-your-Discord-Subscription",
+  "locale": "en-us",
+  "created_at": "2024-12-12T18:38:26Z",
+  "updated_at": "2026-10-31T13:11:45Z",
+  "author": null,
+  "summary": null,
+  "thumbnail_url": null,
+  "body": "<p>Cancelling a subscription on Discord is always easy, but the steps to cancel depend on your subscription type. Please select the relevant Help Center article below for your specific subscription to learn how to cancel it:</p>\n<ul>\n<li><a href=\"https://support.discord.com/hc/en-us/articles/19580873036695-How-to-Cancel-your-Nitro-Subscription\" target=\"_blank\" rel=\"noopener noreferrer\">How to Cancel your Nitro Subscription</a></li>\n<li><a href=\"https://support.discord.com/hc/en-us/articles/26729525788695-How-to-Cancel-your-Server-Boost-Subscription\" target=\"_blank\" rel=\"noopener noreferrer\">How to Cancel your Server Boost Subscription</a></li>\n<li><a href=\"https://support.discord.com/hc/en-us/articles/26729692307351-How-to-Cancel-your-Premium-App-Subscription\" target=\"_blank\" rel=\"noopener noreferrer\">How to Cancel your Premium App Subscription</a></li>\n<li><a href=\"https://support.discord.com/hc/en-us/articles/26729967472279-How-to-Cancel-your-Server-Subscription\" target=\"_blank\" rel=\"noopener noreferrer\">How to Cancel your Server Subscription</a></li>\n</ul>\n<div class=\"tip-box\">\n<strong>Note: </strong><span style=\"color: #2e3338;\" data-darkreader-inline-color=\"\">If you want to request a refund for your subscription instead, please check out the </span><a href=\"https://support.discord.com/hc/en-us/articles/28332528969239\" target=\"_blank\" rel=\"noopener noreferrer\">How to Request a Refund from Discord article</a><span style=\"color: #2e3338;\" data-darkreader-inline-color=\"\">.</span>\n</div>",
+  "body_hash": "ba62fb6fb78b8eac99b6141fbe48822b32934ab71bbb994a8aedf3baef33e76f",
+  "fetched_at": "2026-10-31T19:07:23.235Z",
+  "section_id": 360002436411,
+  "category_id": null,
+  "user_id": null,
+  "promoted": false,
+  "draft": false,
+  "labels": [
+    "answer-bot",
+    "how to cancel",
+    "cancel",
+    "cancel subscription",
+    "cancel nitro",
+    "cancel premium",
+    "cancel server boost",
+    "cancel server subscription"
+  ]
+}

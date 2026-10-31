@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "source": "blog",
+  "id": "how-discord-automates-scylladb-clusters-at-scale",
+  "title": "How Discord Automates ScyllaDB Clusters at Scale",
+  "url": "https://discord.com/blog/how-discord-automates-scylladb-clusters-at-scale",
+  "locale": "en-us",
+  "created_at": "2026-05-08T00:00:00.000Z",
+  "updated_at": "2026-05-08T00:00:00.000Z",
+  "author": null,
+  "summary": "You've been asked to stand up a brand-new database cluster, meaning a whole day of configuring dozens of nodes, validating replication, wiring up dual-write pipelines… what if this whole ordeal took less than two hours? This is how we got ourselves into this exact mess, and how we made our way out of it.",
+  "thumbnail_url": "https://cdn.prod.website-files.com/5f9072399b2640f14d6a2bf4/69fb97b51217ebb66107035c_2024_10_DiscordBlog_DevandEngineers-5.png",
+  "body": "<p>You've been asked to stand up a brand-new database cluster — a full replica of production, running real traffic, so you can validate a new release before it touches actual data.&nbsp;</p><p>You're looking at the next day and a half, and it’s lookin’ stacked: provisioning and configuring dozens of nodes, joining them to the cluster one at a time, validating replication, wiring up dual-write pipelines, and babysitting the whole thing because <em>any</em> mistake on the ninth step means starting the whole thing over from scratch. While grinding through the whole process, you start to daydream: what if this whole ordeal took less than two hours?&nbsp;</p><p>We found ourselves in exactly this situation. This is the story of how we got ourselves into this mess and how we made our way out of it.</p>",
+  "body_hash": "2d0f5ec52ce12c8a211057657c5d8f02e953bf3baf072d8446dd564580ab926b",
+  "fetched_at": "2026-10-31T19:07:28.088Z",
+  "slug": "how-discord-automates-scylladb-clusters-at-scale",
+  "published_at": "2026-05-08T00:00:00.000Z"
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "source": "supportDev",
+  "id": "360025051072",
+  "title": "Beta Channel Toggle",
+  "url": "https://support-dev.discord.com/hc/en-us/articles/360025051072-Beta-Channel-Toggle",
+  "locale": "en-us",
+  "created_at": "2019-03-14T21:34:14Z",
+  "updated_at": "2026-09-27T09:09:24Z",
+  "author": null,
+  "summary": null,
+  "thumbnail_url": null,
+  "body": "<p><span style=\"font-weight: 400;\">After your game has made it through the approval process and is ready for commerce you're going to go ahead and create a store channel to start selling your game! </span></p>\n<p><span style=\"font-weight: 400;\">One very important toggle to be mindful of is the</span><strong> Beta Channel</strong><span style=\"font-weight: 400;\"> toggle.</span></p>\n<p><span style=\"font-weight: 400;\"><img src=\"https://support-dev.discord.com/hc/article_attachments/360023869691/toggle_.jpg\" alt=\"toggle_.jpg\" width=\"509\" height=\"758\"></span></p>\n<p><span style=\"font-weight: 400;\">When creating a channel this toggle will appear once an Application has been selected. </span></p>\n<p><span style=\"font-weight: 400;\"><strong>This toggle will make your game free despite having a price set in the developer portal.</strong> </span></p>\n<p><span style=\"font-weight: 400;\">If you accidentally select this toggle, you will have to remake this channel. Be sure to delete the old channel too. The way this toggle should be used is to give easy free access to your beta testers. When this channel is created we’d strongly recommend double-checking your store page to ensure everything looks right! <br></span></p>\n<p class=\"callout\"><span style=\"font-weight: 400;\">Reach out to our support team <a href=\"https://dis.gd/devsupport\" target=\"_self\">here</a> for any questions! </span></p>",
+  "body_hash": "7b8670dd8082619cb6c5832046e54c957aec54047fbccf62049a8db5dd5d8f1d",
+  "fetched_at": "2026-10-31T19:07:22.283Z",
+  "section_id": 5325137378711,
+  "category_id": null,
+  "user_id": null,
+  "promoted": false,
+  "draft": false,
+  "labels": []
+}
