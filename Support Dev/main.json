@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "supportDev",
-  "generated_at": "2026-10-31T19:07:34.861Z",
+  "generated_at": "2026-11-01T03:37:19.832Z",
   "total": 55,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "url": "https://support-dev.discord.com/hc/en-us/articles/10113997751447-Active-Developer-Badge",
       "locale": "en-us",
       "created_at": "2022-11-09T15:29:12Z",
-      "updated_at": "2026-10-31T10:04:31Z",
+      "updated_at": "2026-10-31T20:45:22Z",
       "published_at": null,
       "body_hash": "e389a671e4669317ffae7d4db887b227570c0e24243cb80ee7bc126e3c1cf572",
       "thumbnail_url": null
@@ -153,7 +153,7 @@
       "url": "https://support-dev.discord.com/hc/en-us/articles/23926564536471-How-Do-I-Get-My-App-Verified",
       "locale": "en-us",
       "created_at": "2024-06-03T21:53:09Z",
-      "updated_at": "2026-10-29T09:34:08Z",
+      "updated_at": "2026-11-01T03:01:45Z",
       "published_at": null,
       "body_hash": "296a9e00fbcab024997afba71065e12d14f7e33603eed3f43fe3bcb89043d1b5",
       "thumbnail_url": null
@@ -428,7 +428,7 @@
       "url": "https://support-dev.discord.com/hc/en-us/articles/6205754771351-How-do-I-get-Privileged-Intents-for-my-bot",
       "locale": "en-us",
       "created_at": "2022-05-19T23:14:40Z",
-      "updated_at": "2026-10-27T20:19:28Z",
+      "updated_at": "2026-10-31T20:15:08Z",
       "published_at": null,
       "body_hash": "45bd5e4f77d12b1142d7acfae8d9a504736a703906cda7ffacf22aea78a407d8",
       "thumbnail_url": null
@@ -560,7 +560,7 @@
       "url": "https://support-dev.discord.com/hc/en-us/articles/8562894815383-Discord-Developer-Terms-of-Service",
       "locale": "en-us",
       "created_at": "2022-08-31T19:47:33Z",
-      "updated_at": "2026-10-31T17:31:07Z",
+      "updated_at": "2026-11-01T00:50:03Z",
       "published_at": null,
       "body_hash": "3875016a9fe7436c130ede978246c0f24c5254be9f843432b005b9a95c4a8ef7",
       "thumbnail_url": null
@@ -571,7 +571,7 @@
       "url": "https://support-dev.discord.com/hc/en-us/articles/8563934450327-Discord-Developer-Policy",
       "locale": "en-us",
       "created_at": "2022-08-31T20:21:26Z",
-      "updated_at": "2026-10-31T16:14:20Z",
+      "updated_at": "2026-11-01T03:34:41Z",
       "published_at": null,
       "body_hash": "93322192b4a35a07921b1a40a2163fcc6b949405616d152d6dda59a86a3b721e",
       "thumbnail_url": null

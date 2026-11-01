@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "support",
-  "generated_at": "2026-10-31T19:07:34.903Z",
+  "generated_at": "2026-11-01T03:37:20.052Z",
   "total": 523,
   "articles": [
     {
@@ -21,7 +21,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/10123937946007-Age-Restricted-Commands",
       "locale": "en-us",
       "created_at": "2022-11-09T21:24:14Z",
-      "updated_at": "2026-10-31T13:33:51Z",
+      "updated_at": "2026-10-31T19:19:59Z",
       "published_at": null,
       "body_hash": "f2e5e7be579d6ac9050bbf40804992a797e6e399bf74a17ae86c4c6eae64b0e3",
       "thumbnail_url": null
@@ -43,7 +43,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/10394859532823-Community-Onboarding-Examples",
       "locale": "en-us",
       "created_at": "2022-11-22T01:03:39Z",
-      "updated_at": "2026-10-31T18:33:25Z",
+      "updated_at": "2026-10-31T21:35:44Z",
       "published_at": null,
       "body_hash": "c3e098f58aa57144a9b97fdf8fe7d998f12c8a6c722b6b7f6c558cb631d80722",
       "thumbnail_url": null
@@ -87,7 +87,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/10989121220631-How-to-Protect-Your-Server-from-Raids-101",
       "locale": "en-us",
       "created_at": "2022-12-15T19:59:56Z",
-      "updated_at": "2026-10-31T18:04:29Z",
+      "updated_at": "2026-10-31T20:52:24Z",
       "published_at": null,
       "body_hash": "6d3156296ac52a5ef029ed347ee51fcafb4e4ccf9d5d16c196987d59387f5cfb",
       "thumbnail_url": null
@@ -109,7 +109,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/115000068672-Safer-Messaging-on-Discord",
       "locale": "en-us",
       "created_at": "2017-03-28T17:07:02Z",
-      "updated_at": "2026-10-31T10:07:11Z",
+      "updated_at": "2026-10-31T23:25:08Z",
       "published_at": null,
       "body_hash": "7874e32684b846b0ed001de8debe0f9aa74fbd90acc984131179443ad17d2db6",
       "thumbnail_url": null
@@ -120,7 +120,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/115000070311-Quick-Switcher",
       "locale": "en-us",
       "created_at": "2017-03-30T00:56:14Z",
-      "updated_at": "2026-10-31T11:20:54Z",
+      "updated_at": "2026-10-31T23:16:20Z",
       "published_at": null,
       "body_hash": "1be2a59a1b7decd6aa55f2786ead6ba4d1737df2a8f7962ed86c03fb78baa5a8",
       "thumbnail_url": null
@@ -131,7 +131,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/115000084051-Age-Restricted-Channels-and-Content",
       "locale": "en-us",
       "created_at": "2017-04-18T19:35:55Z",
-      "updated_at": "2026-10-31T18:13:00Z",
+      "updated_at": "2026-11-01T01:29:54Z",
       "published_at": null,
       "body_hash": "32d4b4de33e2f7b80aa5d60400605a12c0ffec7c714f546035e1464144efb773",
       "thumbnail_url": null
@@ -142,7 +142,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/115000435108-What-are-Nitro-Nitro-Basic",
       "locale": "en-us",
       "created_at": "2016-12-22T08:07:06Z",
-      "updated_at": "2026-10-31T14:49:22Z",
+      "updated_at": "2026-11-01T03:07:33Z",
       "published_at": null,
       "body_hash": "2f16a8499af4d58441f9adeb7a886c7514d4b3389193a8724f9c29263ddaaa47",
       "thumbnail_url": null
@@ -153,7 +153,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/115000468588-How-to-Use-Search-on-Discord",
       "locale": "en-us",
       "created_at": "2016-12-23T02:34:20Z",
-      "updated_at": "2026-10-30T23:28:33Z",
+      "updated_at": "2026-11-01T03:23:39Z",
       "published_at": null,
       "body_hash": "2750636d5628a4167a3e41cbc94219cc3052c580011c5b9a4b6349eaed821cd4",
       "thumbnail_url": null
@@ -186,7 +186,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/115001221072-How-to-Recover-Your-Discord-Account-When-Locked-Out-of-Multi-Factor-Authentication-MFA",
       "locale": "en-us",
       "created_at": "2017-08-22T01:07:34Z",
-      "updated_at": "2026-10-31T18:15:26Z",
+      "updated_at": "2026-11-01T02:16:11Z",
       "published_at": null,
       "body_hash": "da7c738e53bd674dd1ffee9482ddf25e6a132eab9091a28e5d137d61a81b97aa",
       "thumbnail_url": null
@@ -208,7 +208,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/115001310031-Voice-Connection-Errors",
       "locale": "en-us",
       "created_at": "2017-08-28T21:08:04Z",
-      "updated_at": "2026-10-31T18:00:59Z",
+      "updated_at": "2026-11-01T02:49:11Z",
       "published_at": null,
       "body_hash": "9b9cf9f8f6cbbcc768ffd91e2fedcb17937eb6659eb7cf5ebac312f6b2645777",
       "thumbnail_url": null
@@ -252,7 +252,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/115001657287-How-can-I-stop-email-notifications-from-Discord",
       "locale": "en-us",
       "created_at": "2017-01-21T01:25:05Z",
-      "updated_at": "2026-10-31T15:44:25Z",
+      "updated_at": "2026-11-01T01:18:40Z",
       "published_at": null,
       "body_hash": "80585acb8064514e61c86c2268e48b1e49689dc13f0e7fb4966a2eb95299d8b2",
       "thumbnail_url": null
@@ -274,7 +274,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/115002192352-Automated-User-Accounts-Self-Bots",
       "locale": "en-us",
       "created_at": "2017-10-17T19:35:16Z",
-      "updated_at": "2026-10-31T08:34:32Z",
+      "updated_at": "2026-10-31T21:07:41Z",
       "published_at": null,
       "body_hash": "e3a5dac0b51165d54a8b6dabbd7f5e5b89c34b5979473680636678772f61965a",
       "thumbnail_url": null
@@ -285,7 +285,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/115002872212-Spotify-Auto-Pause",
       "locale": "en-us",
       "created_at": "2017-11-20T21:16:48Z",
-      "updated_at": "2026-10-31T18:58:06Z",
+      "updated_at": "2026-11-01T03:14:25Z",
       "published_at": null,
       "body_hash": "39042354daaf7126c668ad87bc1256f041b02d8bb5c81912f30d584031abf325",
       "thumbnail_url": null
@@ -296,7 +296,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/115003114091-How-to-Restore-Your-Deleted-Discord-Account",
       "locale": "en-us",
       "created_at": "2017-11-30T21:39:29Z",
-      "updated_at": "2026-10-31T14:15:06Z",
+      "updated_at": "2026-11-01T01:34:00Z",
       "published_at": null,
       "body_hash": "1ed9918148bccd1d627e3488daae4c1cc30d8d6a7e94e48927a40dd45d9ca6ae",
       "thumbnail_url": null
@@ -318,7 +318,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/115004307527--Windows-Corrupt-Installation",
       "locale": "en-us",
       "created_at": "2017-03-13T22:06:03Z",
-      "updated_at": "2026-10-31T11:45:19Z",
+      "updated_at": "2026-11-01T02:58:22Z",
       "published_at": null,
       "body_hash": "85668f30e7d8cf21e46a2d365b3dc27ba547508a9b82e4122ecade3a9d6cb821",
       "thumbnail_url": null
@@ -351,7 +351,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/12102061808663-Reactions-and-Super-Reactions-FAQ",
       "locale": "en-us",
       "created_at": "2023-02-01T19:04:37Z",
-      "updated_at": "2026-10-25T06:11:28Z",
+      "updated_at": "2026-10-31T21:41:01Z",
       "published_at": null,
       "body_hash": "857ebe34ed3aaaf918b7659be482048ea405b4dc59a993b5afe4be73b3a5decb",
       "thumbnail_url": null
@@ -373,7 +373,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/12612888127767-Discord-Soundboard-Guide-Using-Adding-and-Managing-Sounds",
       "locale": "en-us",
       "created_at": "2023-02-22T20:35:05Z",
-      "updated_at": "2026-10-31T15:15:30Z",
+      "updated_at": "2026-11-01T03:24:54Z",
       "published_at": null,
       "body_hash": "3da0758fc9ffd51225eb910e7bbf5fababc46d41c3612567cbbae13a2d8ad1db",
       "thumbnail_url": null
@@ -461,7 +461,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/14078261239831-Clarifying-Server-Types",
       "locale": "en-us",
       "created_at": "2023-04-21T20:49:36Z",
-      "updated_at": "2026-10-31T14:55:05Z",
+      "updated_at": "2026-10-31T23:02:19Z",
       "published_at": null,
       "body_hash": "1ec19d39cd9604b7ae37b1b093792c361cef7b8607a54b1e2a8ed578b11ed70a",
       "thumbnail_url": null
@@ -505,7 +505,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/14286636704919-Discord-X-Support-Account-discord-support-FAQ",
       "locale": "en-us",
       "created_at": "2023-05-01T20:06:55Z",
-      "updated_at": "2026-10-31T18:40:13Z",
+      "updated_at": "2026-11-01T02:00:45Z",
       "published_at": null,
       "body_hash": "0377b92e82fbf5dbeecda58ce75c1064b86f8ea9d2971ead71246c62076f8f31",
       "thumbnail_url": null
@@ -527,7 +527,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/1500000466882-Rules-Screening-FAQ",
       "locale": "en-us",
       "created_at": "2020-12-17T07:08:48Z",
-      "updated_at": "2026-10-31T17:19:04Z",
+      "updated_at": "2026-11-01T02:37:11Z",
       "published_at": null,
       "body_hash": "32d02cf0d9d3d0cb3b1edaaa657c9007548fc3925f1d00d93cf2a6e0ba014d6e",
       "thumbnail_url": null
@@ -560,7 +560,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/1500005292701-How-to-Access-an-Age-Restricted-Server-FAQ",
       "locale": "en-us",
       "created_at": "2021-03-29T22:55:05Z",
-      "updated_at": "2026-10-31T19:00:45Z",
+      "updated_at": "2026-11-01T03:36:24Z",
       "published_at": null,
       "body_hash": "600ab258b94792bc877c12b0ae7b0827c5e63bc7383aa0a01e944de3fca17c20",
       "thumbnail_url": null
@@ -571,7 +571,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/1500005389362-What-are-Age-Restricted-Servers-on-Discord",
       "locale": "en-us",
       "created_at": "2021-03-29T22:30:37Z",
-      "updated_at": "2026-10-31T16:42:59Z",
+      "updated_at": "2026-11-01T02:19:45Z",
       "published_at": null,
       "body_hash": "5ab054220df5e28f31dc763f3cbc14d48fba16682d0de050071a1535dc872e47",
       "thumbnail_url": null
@@ -615,7 +615,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/1500006052822-How-to-Report-a-Bug",
       "locale": "en-us",
       "created_at": "2021-04-05T18:21:43Z",
-      "updated_at": "2026-10-31T17:19:02Z",
+      "updated_at": "2026-10-31T20:28:22Z",
       "published_at": null,
       "body_hash": "b5676fe5affa4af25e34b5c7ad8a895c41673129b93a5f7a4b1f1f4f7fc3e148",
       "thumbnail_url": null
@@ -703,7 +703,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/16000885744791-Master-Sweepstakes-Rules",
       "locale": "en-us",
       "created_at": "2023-07-13T16:32:21Z",
-      "updated_at": "2026-10-27T10:09:34Z",
+      "updated_at": "2026-11-01T02:05:54Z",
       "published_at": null,
       "body_hash": "10eb3d92885269071dc302bf9c67aff04d1e4be5b040e35e02bb1de0e792103a",
       "thumbnail_url": null
@@ -813,7 +813,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/18210965981847-Discord-Warning-System",
       "locale": "en-us",
       "created_at": "2023-10-12T01:36:18Z",
-      "updated_at": "2026-10-31T19:03:06Z",
+      "updated_at": "2026-11-01T03:31:45Z",
       "published_at": null,
       "body_hash": "85f82ee2f081af6809cca0c9958d0a88e57729ff1c0ad4c20e419bf088138d18",
       "thumbnail_url": null
@@ -824,7 +824,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/18210977897239-Discord-Safety-Alerts",
       "locale": "en-us",
       "created_at": "2023-10-12T01:38:10Z",
-      "updated_at": "2026-10-31T12:16:47Z",
+      "updated_at": "2026-11-01T03:30:39Z",
       "published_at": null,
       "body_hash": "e63ced0652254ee282d2dc468f35bc67837462ef9c667be0230c707ed30f106e",
       "thumbnail_url": null
@@ -835,7 +835,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/18210995019671-Discord-Sensitive-Content-Filters",
       "locale": "en-us",
       "created_at": "2023-10-12T01:40:51Z",
-      "updated_at": "2026-10-31T17:06:01Z",
+      "updated_at": "2026-11-01T02:41:09Z",
       "published_at": null,
       "body_hash": "11f2342767fcb174e3f84c36afbfeb6456e82c98704e79476c308e12ed4d52c0",
       "thumbnail_url": null
@@ -857,7 +857,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/18902971553303--Notice-Emails-from-Discord",
       "locale": "en-us",
       "created_at": "2023-11-08T00:43:10Z",
-      "updated_at": "2026-10-31T16:45:35Z",
+      "updated_at": "2026-11-01T01:39:49Z",
       "published_at": null,
       "body_hash": "2e1ae1b3437c11105c21f8c7c9ca91b1685af1590120b189e63c69377b573449",
       "thumbnail_url": null
@@ -879,7 +879,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/19580873036695-How-to-Cancel-your-Nitro-Subscription",
       "locale": "en-us",
       "created_at": "2023-12-05T17:07:59Z",
-      "updated_at": "2026-10-31T18:56:26Z",
+      "updated_at": "2026-11-01T03:07:25Z",
       "published_at": null,
       "body_hash": "f0b3869154d8cf996f0333258cb6a593bf5c777f27d400d9bef41ec45e1643ac",
       "thumbnail_url": null
@@ -901,7 +901,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/19850083499159--Known-Issue-Audio-Quality-Drops-When-Joining-A-Call",
       "locale": "en-us",
       "created_at": "2023-12-14T19:11:55Z",
-      "updated_at": "2026-10-30T20:44:44Z",
+      "updated_at": "2026-11-01T02:46:26Z",
       "published_at": null,
       "body_hash": "27a0ff14b38c5ba5aa9df50d77510da6759182da03675876c61028b5cb3716d9",
       "thumbnail_url": null
@@ -945,7 +945,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/204392448-How-do-I-enable-my-mic-in-Firefox",
       "locale": "en-us",
       "created_at": "2015-03-17T22:55:06Z",
-      "updated_at": "2026-10-31T13:33:05Z",
+      "updated_at": "2026-11-01T02:23:52Z",
       "published_at": null,
       "body_hash": "1841d8f130e33e5623a3bb4d3e67afa0ec2334b5ba975726fc8011afc7b09a4c",
       "thumbnail_url": null
@@ -1000,7 +1000,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/205093487-How-do-I-enable-my-mic-in-Chrome",
       "locale": "en-us",
       "created_at": "2015-03-17T20:07:59Z",
-      "updated_at": "2026-10-31T19:03:56Z",
+      "updated_at": "2026-11-01T03:29:59Z",
       "published_at": null,
       "body_hash": "58d135e5008eca277f083446e484c6562739d6219001c24986eb7fb7ed182b9e",
       "thumbnail_url": null
@@ -1033,7 +1033,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/206029707-Setting-Up-Permissions-FAQ",
       "locale": "en-us",
       "created_at": "2015-05-07T21:49:01Z",
-      "updated_at": "2026-10-31T16:45:33Z",
+      "updated_at": "2026-11-01T01:33:44Z",
       "published_at": null,
       "body_hash": "12ca1a08667c419eae44214d65d721adfe4f2a21c469d81c183aa7361fe60fa9",
       "thumbnail_url": null
@@ -1110,7 +1110,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID",
       "locale": "en-us",
       "created_at": "2015-07-24T00:23:19Z",
-      "updated_at": "2026-10-31T14:43:56Z",
+      "updated_at": "2026-10-31T22:50:30Z",
       "published_at": null,
       "body_hash": "81e938ff9026c753e6e17dee658b524e8023b5e84cda25d2bad183458feb172c",
       "thumbnail_url": null
@@ -1121,7 +1121,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/207260127-How-to-Change-Discord-Color-Themes-and-Customize-Appearance-Settings",
       "locale": "en-us",
       "created_at": "2015-08-06T22:35:50Z",
-      "updated_at": "2026-10-27T06:13:41Z",
+      "updated_at": "2026-10-31T19:50:41Z",
       "published_at": null,
       "body_hash": "927680f78f61e42ea2e21b2e8ea33d9ebea4280a2b5e2a5533a43ac58020407e",
       "thumbnail_url": null
@@ -1154,7 +1154,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/208866998-Invites-101",
       "locale": "en-us",
       "created_at": "2015-09-10T01:01:59Z",
-      "updated_at": "2026-10-31T02:03:01Z",
+      "updated_at": "2026-10-31T22:08:07Z",
       "published_at": null,
       "body_hash": "b5949027e71bb5bbc4a0822712eae2556b1fd8535c94e0c9fd4dcbceae065d80",
       "thumbnail_url": null
@@ -1198,7 +1198,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/209572128-How-do-I-log-out",
       "locale": "en-us",
       "created_at": "2015-09-17T04:10:57Z",
-      "updated_at": "2026-10-31T18:16:58Z",
+      "updated_at": "2026-11-01T03:14:38Z",
       "published_at": null,
       "body_hash": "e99baede8fe5125464f31e1b431ebb87fe0d2871e4ae129b4eb0c1cba4c5dd3a",
       "thumbnail_url": null
@@ -1220,7 +1220,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/209813978-How-do-I-enable-disable-Push-to-talk-activation-noise",
       "locale": "en-us",
       "created_at": "2015-09-19T05:54:15Z",
-      "updated_at": "2026-10-31T14:25:47Z",
+      "updated_at": "2026-11-01T02:03:19Z",
       "published_at": null,
       "body_hash": "99fd055a4df796070368806bacca05de8addbcad4c2f30369462712a6878c02c",
       "thumbnail_url": null
@@ -1231,7 +1231,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline",
       "locale": "en-us",
       "created_at": "2015-09-17T03:38:26Z",
-      "updated_at": "2026-10-31T18:39:55Z",
+      "updated_at": "2026-11-01T03:35:13Z",
       "published_at": null,
       "body_hash": "56c5dba140319e28186fe966054414ba1c1a380141dca11f80ef61f0caa4a0d0",
       "thumbnail_url": null
@@ -1242,7 +1242,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/211339918-How-do-I-disable-auto-start-on-launch",
       "locale": "en-us",
       "created_at": "2015-10-06T03:49:25Z",
-      "updated_at": "2026-10-31T18:18:30Z",
+      "updated_at": "2026-11-01T03:17:38Z",
       "published_at": null,
       "body_hash": "fa1709ec6b215207ec0e01feba232e229a706a3b48debfc4eb0770ca478ed284",
       "thumbnail_url": null
@@ -1253,7 +1253,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/211374998-What-do-those-colored-dots-next-to-my-avatar-mean",
       "locale": "en-us",
       "created_at": "2015-10-07T02:49:51Z",
-      "updated_at": "2026-10-27T18:11:27Z",
+      "updated_at": "2026-11-01T02:45:29Z",
       "published_at": null,
       "body_hash": "046f491e4073ac376ecc38ed5b77b7d32b88401e97712b03bac3760d1c81f1b1",
       "thumbnail_url": null
@@ -1264,7 +1264,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/211376518-Voice-Input-Modes-101-Push-to-Talk-Voice-Activated",
       "locale": "en-us",
       "created_at": "2015-10-07T03:27:05Z",
-      "updated_at": "2026-10-28T23:56:51Z",
+      "updated_at": "2026-11-01T01:37:58Z",
       "published_at": null,
       "body_hash": "3cd6f32e7fac00581457a8079a7ae4ec44d0ee6ccab8543d9290cb22b021fe2f",
       "thumbnail_url": null
@@ -1275,7 +1275,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/211866427-How-do-I-upload-images-and-GIFs",
       "locale": "en-us",
       "created_at": "2015-10-03T23:55:05Z",
-      "updated_at": "2026-10-29T08:28:27Z",
+      "updated_at": "2026-11-01T02:22:25Z",
       "published_at": null,
       "body_hash": "72b3d9ea11ba18d5165757dabf38c3e68aef6fad1a612131e41e941dadc50d7f",
       "thumbnail_url": null
@@ -1297,7 +1297,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/212500837-How-to-Delete-your-Discord-Account",
       "locale": "en-us",
       "created_at": "2015-10-12T20:12:31Z",
-      "updated_at": "2026-10-31T18:45:11Z",
+      "updated_at": "2026-11-01T00:40:25Z",
       "published_at": null,
       "body_hash": "eed25586e43c1ab39c5a0a8eda8a4035274b8096ed38123706eb180416bf4e7e",
       "thumbnail_url": null
@@ -1319,7 +1319,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/212855038-I-m-hearing-Robotic-and-Distorted-voices-How-do-I-fix-it",
       "locale": "en-us",
       "created_at": "2015-11-03T07:32:12Z",
-      "updated_at": "2026-10-28T13:56:41Z",
+      "updated_at": "2026-10-31T22:53:08Z",
       "published_at": null,
       "body_hash": "f3c28b0f91a740d955b16602225288befd59ed3b5f88ab3d2a38fa1da1fe084d",
       "thumbnail_url": null
@@ -1330,7 +1330,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/213219267-Resending-Verification-Email",
       "locale": "en-us",
       "created_at": "2015-10-28T15:20:15Z",
-      "updated_at": "2026-10-31T19:00:05Z",
+      "updated_at": "2026-11-01T02:14:54Z",
       "published_at": null,
       "body_hash": "88037b45af2cdea3621d76f3d9bf0f0a1b3e3473c3d5cd30ee5070eda5e2f1f5",
       "thumbnail_url": null
@@ -1352,7 +1352,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/213480948-How-do-I-change-my-Username",
       "locale": "en-us",
       "created_at": "2015-11-12T02:18:59Z",
-      "updated_at": "2026-10-31T17:54:51Z",
+      "updated_at": "2026-11-01T02:35:41Z",
       "published_at": null,
       "body_hash": "d8f4a8ee4f5f72eea871e0efd2bf55d6cdb5080221b5d79c14cc13cd020308d3",
       "thumbnail_url": null
@@ -1363,7 +1363,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/213490807-Where-can-I-submit-Feature-Requests-Feedback-and-Suggestions",
       "locale": "en-us",
       "created_at": "2015-11-03T23:04:52Z",
-      "updated_at": "2026-10-31T08:33:48Z",
+      "updated_at": "2026-10-31T23:27:56Z",
       "published_at": null,
       "body_hash": "986595d50f4df280a509c9e2a5255dffaab5acc1bd0d34ea08be265324781b42",
       "thumbnail_url": null
@@ -1418,7 +1418,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/213599277-How-do-I-hide-muted-channels",
       "locale": "en-us",
       "created_at": "2015-11-05T21:49:05Z",
-      "updated_at": "2026-10-31T17:15:34Z",
+      "updated_at": "2026-10-31T19:53:51Z",
       "published_at": null,
       "body_hash": "e9e35d6ed751dd4c83019e3e6e84e9c6316fdaf4b6ec67e6ec117b8c6a5bf39c",
       "thumbnail_url": null
@@ -1440,7 +1440,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/214925018-Where-d-my-Audio-Input-go-Various-Voice-Issues",
       "locale": "en-us",
       "created_at": "2015-12-11T04:55:42Z",
-      "updated_at": "2026-10-31T18:12:32Z",
+      "updated_at": "2026-11-01T02:39:01Z",
       "published_at": null,
       "body_hash": "c96aac0f1ef89cbc26b14b04d48b280e48798068ccb40d7dad9b59e8d7c7bb33",
       "thumbnail_url": null
@@ -1484,7 +1484,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/216273938-How-to-Transfer-Ownership-of-a-Discord-Server",
       "locale": "en-us",
       "created_at": "2016-02-02T23:58:55Z",
-      "updated_at": "2026-10-31T14:42:27Z",
+      "updated_at": "2026-10-31T21:09:32Z",
       "published_at": null,
       "body_hash": "26ec81acbf88231c3349d4dc570f167b95604716cdb8189f3312445f910ad10d",
       "thumbnail_url": null
@@ -1495,7 +1495,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/216406447-How-can-I-change-Discord-s-Language",
       "locale": "en-us",
       "created_at": "2016-01-16T19:10:03Z",
-      "updated_at": "2026-10-29T09:02:00Z",
+      "updated_at": "2026-11-01T03:03:12Z",
       "published_at": null,
       "body_hash": "a7e0d0e89f1179f6999299253e1450cced4bd94a838e0350f8baef4b0f64793d",
       "thumbnail_url": null
@@ -1506,7 +1506,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/216679607-Verification-Levels",
       "locale": "en-us",
       "created_at": "2016-01-27T23:10:05Z",
-      "updated_at": "2026-10-31T14:42:13Z",
+      "updated_at": "2026-11-01T02:32:16Z",
       "published_at": null,
       "body_hash": "f3c33768df1133efa4780c158a2b8b56822dddee7193285293a090e044cc688c",
       "thumbnail_url": null
@@ -1572,7 +1572,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/217916488-Blocking-Privacy-Settings",
       "locale": "en-us",
       "created_at": "2016-03-30T21:06:01Z",
-      "updated_at": "2026-10-31T17:12:23Z",
+      "updated_at": "2026-10-31T20:48:51Z",
       "published_at": null,
       "body_hash": "3a7b4215d23adadd4e02b9d8cd8e516a7ecffd1646ab4229cd0369d5a1c11200",
       "thumbnail_url": null
@@ -1594,7 +1594,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/218410947-How-to-Reset-or-Change-Your-Forgotten-Password-on-Discord",
       "locale": "en-us",
       "created_at": "2016-03-29T22:39:24Z",
-      "updated_at": "2026-10-31T18:40:21Z",
+      "updated_at": "2026-11-01T02:45:22Z",
       "published_at": null,
       "body_hash": "b06682b3d9ea779eea38776e3612d5fa7bab1e109dfd33e66d733d5ddf0509aa",
       "thumbnail_url": null
@@ -1605,7 +1605,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/218485407-Streamer-Mode-101",
       "locale": "en-us",
       "created_at": "2016-04-04T23:21:52Z",
-      "updated_at": "2026-10-26T00:12:16Z",
+      "updated_at": "2026-11-01T00:54:37Z",
       "published_at": null,
       "body_hash": "e5654eac0e0ff0cb3daaff4925f62c08a9a1ff9488926c78e9c7c7297d87b7c9",
       "thumbnail_url": null
@@ -1627,7 +1627,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/21865322754327-Data-Used-to-Personalize-Discord",
       "locale": "en-us",
       "created_at": "2024-03-06T19:53:27Z",
-      "updated_at": "2026-10-31T17:19:21Z",
+      "updated_at": "2026-11-01T01:48:11Z",
       "published_at": null,
       "body_hash": "869a67acd1d49d8692068e9f21fec7f925db45f3d53b04a6b29176ec34e440cf",
       "thumbnail_url": null
@@ -1660,7 +1660,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/219576828-Setting-up-Multi-Factor-Authentication",
       "locale": "en-us",
       "created_at": "2016-05-26T17:18:00Z",
-      "updated_at": "2026-10-31T18:39:16Z",
+      "updated_at": "2026-11-01T03:28:02Z",
       "published_at": null,
       "body_hash": "7827fd46ad5c91aa8a3fc7999bb734bde1304360348d86f4d7b9bec6601294bb",
       "thumbnail_url": null
@@ -1704,7 +1704,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/22225542459415-Data-Used-for-Sponsored-Content-on-Discord",
       "locale": "en-us",
       "created_at": "2024-03-20T22:41:58Z",
-      "updated_at": "2026-10-31T16:44:32Z",
+      "updated_at": "2026-10-31T19:29:47Z",
       "published_at": null,
       "body_hash": "83a69d24003b63b6e2caa1902f73cb1d61fc2920274947699be6a6e9fc8530d9",
       "thumbnail_url": null
@@ -1715,7 +1715,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/22225719947543-Discord-Quests-FAQ",
       "locale": "en-us",
       "created_at": "2024-03-20T22:55:33Z",
-      "updated_at": "2026-10-31T15:27:58Z",
+      "updated_at": "2026-10-31T23:55:54Z",
       "published_at": null,
       "body_hash": "e099d6854a304160bc8693afbcf1957b5eafe32568c564f972d1bd8d186ce017",
       "thumbnail_url": null
@@ -1781,7 +1781,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/22567595858327-Share-Nitro",
       "locale": "en-us",
       "created_at": "2024-04-04T17:25:57Z",
-      "updated_at": "2026-10-31T18:42:08Z",
+      "updated_at": "2026-11-01T03:31:47Z",
       "published_at": null,
       "body_hash": "5955d9da16cfada2158ecebcce9dd7ac43cef25ea8bff9d8a0c4980410b0b1cd",
       "thumbnail_url": null
@@ -1836,7 +1836,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/227779547-Changing-Online-Status",
       "locale": "en-us",
       "created_at": "2016-09-21T23:07:56Z",
-      "updated_at": "2026-10-31T05:06:08Z",
+      "updated_at": "2026-10-31T22:49:41Z",
       "published_at": null,
       "body_hash": "031e575d59456115278fadf2e1da89b5c6c9b3b847ec5260530104311da9361f",
       "thumbnail_url": null
@@ -1847,7 +1847,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks",
       "locale": "en-us",
       "created_at": "2016-09-28T21:31:25Z",
-      "updated_at": "2026-10-31T15:48:37Z",
+      "updated_at": "2026-11-01T03:14:18Z",
       "published_at": null,
       "body_hash": "63610e57969fd11947e1131ec77da5f2282364d93e26ad55d946a515fd5456f6",
       "thumbnail_url": null
@@ -1858,7 +1858,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/23082866222871-Why-is-My-Subscription-Showing-as-Past-Due",
       "locale": "en-us",
       "created_at": "2024-04-26T17:19:33Z",
-      "updated_at": "2026-10-31T13:58:12Z",
+      "updated_at": "2026-10-31T22:16:29Z",
       "published_at": null,
       "body_hash": "0878ea2b5d71c2aca460d800ef792539abe395695b4b032057c2659a32cc35ac",
       "thumbnail_url": null
@@ -1880,7 +1880,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/24160905919511-My-Discord-Account-was-Hacked-or-Compromised",
       "locale": "en-us",
       "created_at": "2024-06-13T16:51:09Z",
-      "updated_at": "2026-10-31T18:56:51Z",
+      "updated_at": "2026-11-01T03:25:56Z",
       "published_at": null,
       "body_hash": "a86262ca41fd4522633cff60cb724f8a6fd626e182a9435014ef8ee3db771094",
       "thumbnail_url": null
@@ -2056,7 +2056,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/25966860846231-Security-Keys-Passkeys-and-Passwordless-Login-on-Discord",
       "locale": "en-us",
       "created_at": "2024-08-28T14:36:55Z",
-      "updated_at": "2026-10-31T18:56:12Z",
+      "updated_at": "2026-11-01T03:00:19Z",
       "published_at": null,
       "body_hash": "dd5915995790b9ca3a0db0422ca7ce2636a969df6239d08466d913e698cf54f7",
       "thumbnail_url": null
@@ -2089,7 +2089,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/26286635870359-Requesting-a-Transfer-of-Server-Ownership",
       "locale": "en-us",
       "created_at": "2024-09-11T00:40:15Z",
-      "updated_at": "2026-10-29T05:34:08Z",
+      "updated_at": "2026-11-01T02:07:17Z",
       "published_at": null,
       "body_hash": "17fd467e98acb13d2914af9483da6abb2b74a4323c2eba0b152c4ec5196802d9",
       "thumbnail_url": null
@@ -2100,7 +2100,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/26304482627095-Using-an-Authenticator-App-on-Discord",
       "locale": "en-us",
       "created_at": "2024-09-11T18:22:42Z",
-      "updated_at": "2026-10-31T17:18:45Z",
+      "updated_at": "2026-10-31T19:42:01Z",
       "published_at": null,
       "body_hash": "88816b3717f849e98b0c8c8130c7ef7f5e67cab0e930339346a0c6cd5a7eb6c2",
       "thumbnail_url": null
@@ -2111,7 +2111,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/26362805097623-Nitro-Credits-FAQ",
       "locale": "en-us",
       "created_at": "2024-09-13T21:51:05Z",
-      "updated_at": "2026-10-31T18:39:41Z",
+      "updated_at": "2026-10-31T19:47:13Z",
       "published_at": null,
       "body_hash": "57151304e106a5da4683def92f725addcc84519f3c5f495176ab3d477828775b",
       "thumbnail_url": null
@@ -2166,7 +2166,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/26680694104215-How-to-Fix-Phone-Errors-on-Discord",
       "locale": "en-us",
       "created_at": "2024-09-27T20:04:46Z",
-      "updated_at": "2026-10-31T19:07:11Z",
+      "updated_at": "2026-11-01T03:33:18Z",
       "published_at": null,
       "body_hash": "7a85d369e28de24e233e156c21dcd9610aef9efa126d2d85471e2ace495e5512",
       "thumbnail_url": null
@@ -2221,7 +2221,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/27299669812375-My-Discord-Email-was-Changed-and-I-Want-to-Undo-It",
       "locale": "en-us",
       "created_at": "2024-10-24T13:55:32Z",
-      "updated_at": "2026-10-31T11:01:51Z",
+      "updated_at": "2026-10-31T23:32:22Z",
       "published_at": null,
       "body_hash": "72f50b62420b0c143b9fbc9e1bea0067e881609830cd33aa132b334ea69637e9",
       "thumbnail_url": null
@@ -2265,7 +2265,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/27893392334359-How-Games-Integrate-Discord-Powered-Features",
       "locale": "en-us",
       "created_at": "2024-11-18T21:48:12Z",
-      "updated_at": "2026-10-31T18:32:11Z",
+      "updated_at": "2026-11-01T03:07:48Z",
       "published_at": null,
       "body_hash": "590b01b8f8901b2a328225773ad21fe426b41f3e03d4bc6334e51f8e195f506e",
       "thumbnail_url": null
@@ -2276,7 +2276,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/28084948873623-How-to-Ignore-Users-on-Discord",
       "locale": "en-us",
       "created_at": "2024-11-26T17:52:13Z",
-      "updated_at": "2026-10-31T15:59:03Z",
+      "updated_at": "2026-11-01T00:44:58Z",
       "published_at": null,
       "body_hash": "b5e963ae31672e5e0755b6e49fed167833516b619a9361bde7ea3076346cefed",
       "thumbnail_url": null
@@ -2430,7 +2430,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/29667419799063-Provisional-Discord-Accounts-FAQ",
       "locale": "en-us",
       "created_at": "2025-01-31T21:47:12Z",
-      "updated_at": "2026-10-31T04:19:32Z",
+      "updated_at": "2026-11-01T00:55:44Z",
       "published_at": null,
       "body_hash": "1968b5fa1a502ff62af6b528a7dc54fe6ca16170dc47c8f8e6c5803b3857148d",
       "thumbnail_url": null
@@ -2474,7 +2474,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/30152512891543-How-to-Use-Voice-Filters-on-Discord",
       "locale": "en-us",
       "created_at": "2025-02-21T19:44:37Z",
-      "updated_at": "2026-10-31T10:17:54Z",
+      "updated_at": "2026-10-31T20:48:41Z",
       "published_at": null,
       "body_hash": "2e814d40a4e03024fb1651ecb15314f9b544acf1d42830e696715b9c5ac1a8e8",
       "thumbnail_url": null
@@ -2485,7 +2485,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/30326565624343-How-to-Confirm-Your-Age-Group-on-Discord",
       "locale": "en-us",
       "created_at": "2025-02-28T23:11:37Z",
-      "updated_at": "2026-10-31T19:06:24Z",
+      "updated_at": "2026-11-01T03:27:31Z",
       "published_at": null,
       "body_hash": "472f8613073122d7300a3d311e94d99ac7ef2992e9171ed668a951fa958b214c",
       "thumbnail_url": null
@@ -2496,7 +2496,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/30408457944215-Nameplates-FAQ",
       "locale": "en-us",
       "created_at": "2025-03-04T23:05:46Z",
-      "updated_at": "2026-10-21T17:03:24Z",
+      "updated_at": "2026-10-31T22:40:34Z",
       "published_at": null,
       "body_hash": "ebdb68c54f6cc6d55adcbc9cc5fe5962868a4fae05a87031fd8842345b99d484",
       "thumbnail_url": null
@@ -2507,7 +2507,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/30593690165783-Discord-Orbs-FAQ",
       "locale": "en-us",
       "created_at": "2025-03-12T15:54:22Z",
-      "updated_at": "2026-10-31T18:37:11Z",
+      "updated_at": "2026-10-31T23:25:22Z",
       "published_at": null,
       "body_hash": "df23180a70369431b4f5daa280c30d39c6d17b22582ce7796db158b1b96bda53",
       "thumbnail_url": null
@@ -2529,7 +2529,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/30952914470807-Discord-Audio-and-Video-Error-Codes-Troubleshooting-Guide",
       "locale": "en-us",
       "created_at": "2025-03-26T22:02:36Z",
-      "updated_at": "2026-10-31T16:43:39Z",
+      "updated_at": "2026-10-31T22:09:50Z",
       "published_at": null,
       "body_hash": "e0237c494c9321ee1f8715c0cfa60bd5d5f5d81747dfd12d30a948fe7318726b",
       "thumbnail_url": null
@@ -2540,7 +2540,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/31232432266647-Discord-Commands-Shortcuts-and-Navigation-Guide",
       "locale": "en-us",
       "created_at": "2025-04-07T17:49:50Z",
-      "updated_at": "2026-10-31T11:14:05Z",
+      "updated_at": "2026-10-31T22:42:14Z",
       "published_at": null,
       "body_hash": "0e8219a250a3a9081394a57635efe64a54562efd542b2c0ba8e997d1c1a5ca19",
       "thumbnail_url": null
@@ -2606,7 +2606,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/31676852332439-Discord-Sign-Up-and-Registration-Guide",
       "locale": "en-us",
       "created_at": "2025-04-25T21:54:33Z",
-      "updated_at": "2026-10-31T18:19:36Z",
+      "updated_at": "2026-11-01T03:16:21Z",
       "published_at": null,
       "body_hash": "12d383e9cd18b1737fc85cef503e45708cc277d1040b5d62e791832eedbcc7ef",
       "thumbnail_url": null
@@ -2705,7 +2705,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/32557375603479-Discord-Login-Email-Troubleshooting-Guide",
       "locale": "en-us",
       "created_at": "2025-06-03T16:38:08Z",
-      "updated_at": "2026-10-31T18:59:48Z",
+      "updated_at": "2026-11-01T02:56:07Z",
       "published_at": null,
       "body_hash": "89993a67fd4b38d79ae9890ba6bd65a12c8cd8114b8662c98b25929d830bb663",
       "thumbnail_url": null
@@ -2727,7 +2727,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/32855931901719-How-to-Upgrade-Your-Nitro-Subscription",
       "locale": "en-us",
       "created_at": "2025-06-16T20:53:57Z",
-      "updated_at": "2026-10-30T20:10:43Z",
+      "updated_at": "2026-10-31T20:29:20Z",
       "published_at": null,
       "body_hash": "4e3c84444a93298bb948076a2fbf65191d550a6ad24dc0216f8a73ff473e3463",
       "thumbnail_url": null
@@ -2760,7 +2760,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/33023827550359-Discord-Server-Setup-Guide",
       "locale": "en-us",
       "created_at": "2025-06-24T17:58:20Z",
-      "updated_at": "2026-10-31T03:51:55Z",
+      "updated_at": "2026-10-31T19:08:19Z",
       "published_at": null,
       "body_hash": "55e24e95ac61e3e4fc8fb160b31db74803c28dba5023dba979c6a061f43bf620",
       "thumbnail_url": null
@@ -2771,7 +2771,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/33024730106775-How-to-Reset-Your-Discord-Password-Video-Tutorial",
       "locale": "en-us",
       "created_at": "2025-06-24T18:21:50Z",
-      "updated_at": "2026-10-31T16:24:18Z",
+      "updated_at": "2026-11-01T01:03:01Z",
       "published_at": null,
       "body_hash": "919df883e4b9949d2e43d29ced2ff69ff56c42ac5649f9948146aa2f3593eef9",
       "thumbnail_url": null
@@ -2782,7 +2782,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/33024836562839-How-to-Sign-Up-for-a-Discord-Account-Video-Tutorial",
       "locale": "en-us",
       "created_at": "2025-06-24T18:25:06Z",
-      "updated_at": "2026-10-31T16:07:14Z",
+      "updated_at": "2026-10-31T21:35:46Z",
       "published_at": null,
       "body_hash": "6e750b28092099cb0626ee978fab55d011642758a2fa5ba41fd59c2c3107c9b8",
       "thumbnail_url": null
@@ -2793,7 +2793,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/33024895144983-How-to-Log-Into-Your-Discord-Account-Video-Tutorial",
       "locale": "en-us",
       "created_at": "2025-06-24T18:27:00Z",
-      "updated_at": "2026-10-31T08:04:57Z",
+      "updated_at": "2026-10-31T23:20:27Z",
       "published_at": null,
       "body_hash": "f4c44f50dfd6dd7ef651ad67d449505802def70e0cec45f6cad4f3fb33206e70",
       "thumbnail_url": null
@@ -2815,7 +2815,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/33024973688855-How-to-Recover-Your-Discord-Account-with-MFA-Video-Tutorial",
       "locale": "en-us",
       "created_at": "2025-06-24T18:29:11Z",
-      "updated_at": "2026-10-31T06:13:36Z",
+      "updated_at": "2026-10-31T20:38:06Z",
       "published_at": null,
       "body_hash": "19bf3c0d35440e725f250a425582df55dbb9457ecefa7d3137fffa700c293321",
       "thumbnail_url": null
@@ -2826,7 +2826,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/33030151293079-Discord-Voice-Video-Streaming-Guide",
       "locale": "en-us",
       "created_at": "2025-06-24T20:53:31Z",
-      "updated_at": "2026-10-31T14:06:32Z",
+      "updated_at": "2026-10-31T21:35:07Z",
       "published_at": null,
       "body_hash": "467721a7de8927116d2ba6d8cceafe8b48b7e0086fb199d11c6101b3bed8a238",
       "thumbnail_url": null
@@ -2892,7 +2892,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/33547631914135-How-to-Report-Unauthorized-Discord-Charges-Made-by-Someone-You-Know",
       "locale": "en-us",
       "created_at": "2025-07-17T22:07:17Z",
-      "updated_at": "2026-10-12T08:59:15Z",
+      "updated_at": "2026-11-01T03:24:52Z",
       "published_at": null,
       "body_hash": "af4a40eabf43e09e7363d84fe7de97fd85f5ed44523d0641a01a21718fa267f8",
       "thumbnail_url": null
@@ -2936,7 +2936,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/33694251638295-Discord-Account-Caps-Server-Caps-and-More",
       "locale": "en-us",
       "created_at": "2025-07-24T17:56:21Z",
-      "updated_at": "2026-10-29T08:28:10Z",
+      "updated_at": "2026-10-31T20:33:57Z",
       "published_at": null,
       "body_hash": "cac0973d8c670cde5527c31cb30d74c8aaf38cffb3fb59278c0503070254d541",
       "thumbnail_url": null
@@ -3046,7 +3046,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/35344672307607-Profile-Widgets-FAQ",
       "locale": "en-us",
       "created_at": "2025-10-01T22:41:09Z",
-      "updated_at": "2026-10-31T17:51:02Z",
+      "updated_at": "2026-10-31T21:42:35Z",
       "published_at": null,
       "body_hash": "e10d6c8c933618419c80ad66fbe852167ee541ed573f91edba4a004d5bfa8ed5",
       "thumbnail_url": null
@@ -3101,7 +3101,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/35714463749015-How-to-Submit-a-Support-Ticket-to-Discord",
       "locale": "en-us",
       "created_at": "2025-10-17T21:29:26Z",
-      "updated_at": "2026-10-31T18:50:41Z",
+      "updated_at": "2026-11-01T02:30:18Z",
       "published_at": null,
       "body_hash": "62165349f9a3052408a1804fbda36f4193732e52a0cfb4be2328e662ad2c5af9",
       "thumbnail_url": null
@@ -3123,7 +3123,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/360000167212-Discord-Spotify-Connection",
       "locale": "en-us",
       "created_at": "2018-01-19T21:39:40Z",
-      "updated_at": "2026-10-31T16:51:32Z",
+      "updated_at": "2026-11-01T03:24:17Z",
       "published_at": null,
       "body_hash": "d0323fe25afa846bb82f8b037b230e9806c43a488ea022d72193cdd9b3af3285",
       "thumbnail_url": null
@@ -3134,7 +3134,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/360000291932-How-to-Contact-Discord-Safety-for-Parents-and-Guardians",
       "locale": "en-us",
       "created_at": "2018-01-25T22:33:41Z",
-      "updated_at": "2026-10-31T06:11:55Z",
+      "updated_at": "2026-11-01T01:20:27Z",
       "published_at": null,
       "body_hash": "9fb5f426f0efc2afde3a10c26760bce6ddd30a0aa6e239678c0bf9ff4e878c63",
       "thumbnail_url": null
@@ -3167,7 +3167,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/360000877191-Spellcheck-in-Discord",
       "locale": "en-us",
       "created_at": "2018-02-12T16:44:19Z",
-      "updated_at": "2026-10-31T18:51:17Z",
+      "updated_at": "2026-10-31T22:14:13Z",
       "published_at": null,
       "body_hash": "cff0856f0f24e476138bfd228bef53e8e1619bad8e2580e1e46b4f420cdf2ea5",
       "thumbnail_url": null
@@ -3189,7 +3189,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/360001556852-Invalid-Invite-Links",
       "locale": "en-us",
       "created_at": "2018-03-08T19:29:03Z",
-      "updated_at": "2026-10-31T19:02:40Z",
+      "updated_at": "2026-11-01T03:20:14Z",
       "published_at": null,
       "body_hash": "f0cf2042df78789fc77c2f17b3a668b07b7fa024f4c9a79eb36855d29a12ab02",
       "thumbnail_url": null
@@ -3200,7 +3200,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/360002478332--iOS-What-is-happening-with-my-game-audio",
       "locale": "en-us",
       "created_at": "2018-04-06T18:31:22Z",
-      "updated_at": "2026-10-26T13:24:26Z",
+      "updated_at": "2026-11-01T01:19:51Z",
       "published_at": null,
       "body_hash": "84145abf611d59cbd7343d2e38b018830749a225a4b14230bf528671f53009f1",
       "thumbnail_url": null
@@ -3211,7 +3211,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/360003953831-Discord-and-Xbox-Connection-FAQ",
       "locale": "en-us",
       "created_at": "2018-05-16T21:35:58Z",
-      "updated_at": "2026-10-31T14:23:44Z",
+      "updated_at": "2026-10-31T20:11:03Z",
       "published_at": null,
       "body_hash": "c98a4019009932c12b042bfe1bb795a63f5b49485117fcced31112e8497fb4f0",
       "thumbnail_url": null
@@ -3222,7 +3222,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/360004027692-Requesting-a-Copy-of-your-Data",
       "locale": "en-us",
       "created_at": "2018-05-19T00:50:36Z",
-      "updated_at": "2026-10-31T18:42:41Z",
+      "updated_at": "2026-10-31T22:31:10Z",
       "published_at": null,
       "body_hash": "9808b92bf260b144f25f30794d1e873dfea2373c70984ff467795fcbac46e688",
       "thumbnail_url": null
@@ -3233,7 +3233,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/360004066391-How-Do-I-Disable-My-Account",
       "locale": "en-us",
       "created_at": "2018-05-19T01:37:35Z",
-      "updated_at": "2026-10-31T10:32:33Z",
+      "updated_at": "2026-10-31T21:01:57Z",
       "published_at": null,
       "body_hash": "7d1a4c4208bd555f92d440415e882294f450f727be296d120229af6ede8bf4a2",
       "thumbnail_url": null
@@ -3244,7 +3244,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/360004109911-Data-Privacy-Controls",
       "locale": "en-us",
       "created_at": "2018-05-22T00:26:12Z",
-      "updated_at": "2026-10-31T18:43:40Z",
+      "updated_at": "2026-11-01T02:15:37Z",
       "published_at": null,
       "body_hash": "ea26cb5a096476fbddbc8c9b9355d798662d6ed75488f320e0751c18e0b22636",
       "thumbnail_url": null
@@ -3288,7 +3288,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/360007553672-HypeSquad-House-Breakdown",
       "locale": "en-us",
       "created_at": "2018-07-19T23:41:04Z",
-      "updated_at": "2026-10-30T02:03:04Z",
+      "updated_at": "2026-10-31T21:53:31Z",
       "published_at": null,
       "body_hash": "5b5b0c3b762b96f964da22b9c721b2125a99e27c8fbdedc31b42909e259a5ae1",
       "thumbnail_url": null
@@ -3310,7 +3310,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/360012668071-Refund-Policy",
       "locale": "en-us",
       "created_at": "2018-08-07T19:39:13Z",
-      "updated_at": "2026-10-31T18:43:45Z",
+      "updated_at": "2026-11-01T02:52:13Z",
       "published_at": null,
       "body_hash": "3e8176ef5e10c090e562e66ef03fc3df167146106535b7eb9a7471ef1dfcd401",
       "thumbnail_url": null
@@ -3343,7 +3343,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/360017693772-Managing-Subscriptions-and-Billing-FAQ",
       "locale": "en-us",
       "created_at": "2018-10-11T20:08:14Z",
-      "updated_at": "2026-10-31T15:01:37Z",
+      "updated_at": "2026-11-01T03:10:06Z",
       "published_at": null,
       "body_hash": "40e65a86840a881f6228ba65118561589e908ebc332827878852e36a6567b762",
       "thumbnail_url": null
@@ -3354,7 +3354,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/360020564851-Redeeming-Codes",
       "locale": "en-us",
       "created_at": "2018-12-04T19:59:08Z",
-      "updated_at": "2026-10-31T18:07:38Z",
+      "updated_at": "2026-11-01T03:16:54Z",
       "published_at": null,
       "body_hash": "38bfcc4270776f70c09b89c7abcee7e6c63118bf55bb16df4ddd119afd49318f",
       "thumbnail_url": null
@@ -3365,7 +3365,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/360020641332-Mic-Testing",
       "locale": "en-us",
       "created_at": "2018-12-12T23:57:06Z",
-      "updated_at": "2026-10-28T07:40:23Z",
+      "updated_at": "2026-10-31T22:29:15Z",
       "published_at": null,
       "body_hash": "bd15a8f75f0420486e55b02eb6d4f9a9851165484571b0cdac5a33b34562c6d2",
       "thumbnail_url": null
@@ -3431,7 +3431,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/360023968311-Server-Discovery",
       "locale": "en-us",
       "created_at": "2019-02-17T02:31:44Z",
-      "updated_at": "2026-10-31T10:01:00Z",
+      "updated_at": "2026-11-01T03:31:53Z",
       "published_at": null,
       "body_hash": "747c0bdd138d56b693425a2ef254595e1377ee99e64935030635a3fc0e4ece96",
       "thumbnail_url": null
@@ -3453,7 +3453,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/360028038352-Server-Boosting-FAQ",
       "locale": "en-us",
       "created_at": "2019-05-13T18:40:29Z",
-      "updated_at": "2026-10-28T22:04:05Z",
+      "updated_at": "2026-11-01T03:08:57Z",
       "published_at": null,
       "body_hash": "7ada28ae1f9aba2e593ce2bd26b441055f7501927957dde4142bf121fd985632",
       "thumbnail_url": null
@@ -3530,7 +3530,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/360032008192-Announcement-Channel-FAQ",
       "locale": "en-us",
       "created_at": "2019-08-14T23:18:56Z",
-      "updated_at": "2026-10-31T02:55:49Z",
+      "updated_at": "2026-10-31T21:57:19Z",
       "published_at": null,
       "body_hash": "ef9b81d425b894be1f3e8b746e6468fca84954dad162fb7b7d4aee26c76fa840",
       "thumbnail_url": null
@@ -3563,7 +3563,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/360033930671-Images-Not-Loading-and-Other-Connection-Errors",
       "locale": "en-us",
       "created_at": "2019-09-19T22:55:19Z",
-      "updated_at": "2026-10-29T05:14:22Z",
+      "updated_at": "2026-10-31T22:15:00Z",
       "published_at": null,
       "body_hash": "7c2fe0dc11225f72dd294abc725ac26a7f3d33c14c07e588a6d41c22d7a7461a",
       "thumbnail_url": null
@@ -3574,7 +3574,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/360033931551-Getting-Started",
       "locale": "en-us",
       "created_at": "2019-09-19T23:46:52Z",
-      "updated_at": "2026-10-31T18:50:53Z",
+      "updated_at": "2026-11-01T03:32:18Z",
       "published_at": null,
       "body_hash": "ce8f7baf4089c776a1f32c98ac2ad3d3a6fb3c61b7df14e82120af928f8c096d",
       "thumbnail_url": null
@@ -3596,7 +3596,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/360034561191-Desktop-Installation-Guide",
       "locale": "en-us",
       "created_at": "2019-09-27T22:38:15Z",
-      "updated_at": "2026-10-31T15:19:03Z",
+      "updated_at": "2026-10-31T23:06:14Z",
       "published_at": null,
       "body_hash": "2b9daf00cc5d6e1eb6702968938ec3007fb94c7305152e6da39416faf16890c9",
       "thumbnail_url": null
@@ -3618,7 +3618,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/360034842871-How-do-I-join-a-Server",
       "locale": "en-us",
       "created_at": "2019-10-04T22:34:00Z",
-      "updated_at": "2026-10-31T13:46:54Z",
+      "updated_at": "2026-10-31T21:51:49Z",
       "published_at": null,
       "body_hash": "b047a3eebc9d19e3e1f151b3fe9c200aa8ecae2cbb5764bdb243436214f01e96",
       "thumbnail_url": null
@@ -3651,7 +3651,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/360035969312-Community-Server-Guidelines",
       "locale": "en-us",
       "created_at": "2019-11-15T22:36:54Z",
-      "updated_at": "2026-10-31T17:42:01Z",
+      "updated_at": "2026-11-01T03:32:20Z",
       "published_at": null,
       "body_hash": "0d78aa2f60f3643e9bb771778bd41fa1ccbc3ae768243ab921223c67541968ed",
       "thumbnail_url": null
@@ -3662,7 +3662,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/360036118732-Discord-Official-Messages",
       "locale": "en-us",
       "created_at": "2019-11-21T01:14:35Z",
-      "updated_at": "2026-10-31T18:54:24Z",
+      "updated_at": "2026-11-01T00:58:28Z",
       "published_at": null,
       "body_hash": "361167fc85db676112a9dc7dfe04afdfacc6c973cc0ff8870b979f27272a5af9",
       "thumbnail_url": null
@@ -3728,7 +3728,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/360039213771-QR-Code-Login-FAQ",
       "locale": "en-us",
       "created_at": "2020-01-25T04:24:38Z",
-      "updated_at": "2026-10-31T14:54:27Z",
+      "updated_at": "2026-10-31T23:12:43Z",
       "published_at": null,
       "body_hash": "4e337a888e331cbb0f3050cbf3cc44e351ed9cce3d885e96e5555df8ca71de1e",
       "thumbnail_url": null
@@ -3783,7 +3783,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/360040724612-Why-is-Discord-asking-for-my-birthday",
       "locale": "en-us",
       "created_at": "2020-03-19T00:18:15Z",
-      "updated_at": "2026-10-31T19:03:09Z",
+      "updated_at": "2026-11-01T03:37:08Z",
       "published_at": null,
       "body_hash": "cc4ca42bdb1a8b9a1ac21477872d70c2459a6bb821c4ae5c6ba9b7eeb8d8828f",
       "thumbnail_url": null
@@ -3794,7 +3794,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/360040816151-Go-Live-and-Screen-Share",
       "locale": "en-us",
       "created_at": "2020-03-11T01:32:19Z",
-      "updated_at": "2026-10-31T17:00:10Z",
+      "updated_at": "2026-11-01T03:01:30Z",
       "published_at": null,
       "body_hash": "5d3921949571a84f1eaf6d4ff616eaf0fd86229046945d2a574e295947419bfd",
       "thumbnail_url": null
@@ -3805,7 +3805,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/360040843952-Krisp-FAQ",
       "locale": "en-us",
       "created_at": "2020-03-20T21:46:15Z",
-      "updated_at": "2026-10-31T17:30:18Z",
+      "updated_at": "2026-11-01T02:16:27Z",
       "published_at": null,
       "body_hash": "4a5942ee75d06a3d094e4f1315a712c43524c7c1db460b23fa5704bd8f4e1619",
       "thumbnail_url": null
@@ -3816,7 +3816,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/360041033511-Server-Templates",
       "locale": "en-us",
       "created_at": "2020-03-16T20:11:35Z",
-      "updated_at": "2026-10-31T17:18:16Z",
+      "updated_at": "2026-10-31T19:15:25Z",
       "published_at": null,
       "body_hash": "79106dc9304049a75490ea46fb0fefd3348f12496f671ca7f02fd9af9db0f2f5",
       "thumbnail_url": null
@@ -3860,7 +3860,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/360041820932-Help-I-m-old-enough-to-use-Discord-in-my-country-but-I-got-locked-out",
       "locale": "en-us",
       "created_at": "2020-04-13T20:57:25Z",
-      "updated_at": "2026-10-31T18:59:20Z",
+      "updated_at": "2026-11-01T03:28:24Z",
       "published_at": null,
       "body_hash": "2b6b7347a34476cbbf7e710542edea18078d8f823eadd2f356ffc55ee6e1acac",
       "thumbnail_url": null
@@ -3871,7 +3871,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/360042410272-Nitro-Free-Trial-Offer-FAQ",
       "locale": "en-us",
       "created_at": "2020-04-28T01:51:54Z",
-      "updated_at": "2026-10-31T18:56:09Z",
+      "updated_at": "2026-11-01T03:36:47Z",
       "published_at": null,
       "body_hash": "9972202e60fa735a007cf2686c5b7514d410b84ac102e144c26a96f0809e900b",
       "thumbnail_url": null
@@ -3915,7 +3915,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/360043677651--Email-is-Already-Registered-Errors",
       "locale": "en-us",
       "created_at": "2020-05-15T21:07:49Z",
-      "updated_at": "2026-10-31T18:38:34Z",
+      "updated_at": "2026-11-01T00:53:21Z",
       "published_at": null,
       "body_hash": "283b1072bce82f0a7b0daef518fcc685fa478f1773ad5e447030d2dbf982d8fa",
       "thumbnail_url": null
@@ -3970,7 +3970,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/360045138471-Discord-Voice-and-Video-Troubleshooting-Guide",
       "locale": "en-us",
       "created_at": "2020-06-17T23:07:39Z",
-      "updated_at": "2026-10-31T18:34:17Z",
+      "updated_at": "2026-11-01T03:19:55Z",
       "published_at": null,
       "body_hash": "f88b334cef64076d141539c926b575eb765c627b2b46894835c251f9dc9338a6",
       "thumbnail_url": null
@@ -3981,7 +3981,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord",
       "locale": "en-us",
       "created_at": "2020-06-17T23:10:19Z",
-      "updated_at": "2026-10-31T19:02:51Z",
+      "updated_at": "2026-11-01T03:30:15Z",
       "published_at": null,
       "body_hash": "773abe95081e99591f40172f0b5eedc8a5fc4e1ee9ef09a96593b6822b13f8a4",
       "thumbnail_url": null
@@ -4025,7 +4025,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/360046057772-Discord-Bugs",
       "locale": "en-us",
       "created_at": "2020-07-19T23:46:39Z",
-      "updated_at": "2026-10-31T18:53:43Z",
+      "updated_at": "2026-11-01T03:33:44Z",
       "published_at": null,
       "body_hash": "91dc4d46894b5e5d51963fd8cda01898131fd78ae8d9d9393f422655ede883b6",
       "thumbnail_url": null
@@ -4069,7 +4069,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/360052735334-How-do-I-find-my-client-info",
       "locale": "en-us",
       "created_at": "2020-08-26T00:19:01Z",
-      "updated_at": "2026-10-27T14:12:24Z",
+      "updated_at": "2026-10-31T23:26:22Z",
       "published_at": null,
       "body_hash": "7b54bd0bd0e07e014e5a5b300f58b5e4ae0826a9a81bc39f293c29099e0c0f06",
       "thumbnail_url": null
@@ -4113,7 +4113,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/360057027354-How-to-Log-In-to-your-Discord-Account",
       "locale": "en-us",
       "created_at": "2020-11-10T01:47:53Z",
-      "updated_at": "2026-10-31T17:58:30Z",
+      "updated_at": "2026-11-01T03:23:46Z",
       "published_at": null,
       "body_hash": "5acd88a584629aae6c757bb5a9997e02057b959ca95634772cc6aee9f7bde404",
       "thumbnail_url": null
@@ -4157,7 +4157,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/360060145013-Why-isn-t-my-DM-going-through",
       "locale": "en-us",
       "created_at": "2020-11-30T20:42:12Z",
-      "updated_at": "2026-10-31T19:04:11Z",
+      "updated_at": "2026-11-01T03:34:39Z",
       "published_at": null,
       "body_hash": "2248ddb05ee625e377f8a31906e73c95b97405bdd0a827e68a0ebcc9ca4730db",
       "thumbnail_url": null
@@ -4168,7 +4168,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/360061878534-Find-Your-Friends-FAQ",
       "locale": "en-us",
       "created_at": "2021-03-04T22:41:16Z",
-      "updated_at": "2026-10-31T19:01:20Z",
+      "updated_at": "2026-11-01T01:40:50Z",
       "published_at": null,
       "body_hash": "b34938fd1faf921265aa9068043001975997a72c5f4b8da78ca0800d6625d5e1",
       "thumbnail_url": null
@@ -4267,7 +4267,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/37127619588375-Nitro-2-Week-Trial-Offer",
       "locale": "en-us",
       "created_at": "2025-12-18T19:38:00Z",
-      "updated_at": "2026-10-28T03:18:59Z",
+      "updated_at": "2026-11-01T03:23:17Z",
       "published_at": null,
       "body_hash": "ebddaa0dffba95db4b7638abc69cae39053469036d8c94b30c80b8d1523b381f",
       "thumbnail_url": null
@@ -4344,7 +4344,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/37976093740695-Installing-a-Windows-Media-Feature-Pack-for-Discord",
       "locale": "en-us",
       "created_at": "2026-01-27T20:44:49Z",
-      "updated_at": "2026-10-27T08:17:05Z",
+      "updated_at": "2026-10-31T19:55:03Z",
       "published_at": null,
       "body_hash": "e38872dfbca73a2f5b97545e9a3cc67b8eddc847c6eade51cf4df5bfad3f14b7",
       "thumbnail_url": null
@@ -4388,7 +4388,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/38512923241623--RESOLVED-Age-Verification-Not-Completing-Successfully",
       "locale": "en-us",
       "created_at": "2026-02-19T21:51:04Z",
-      "updated_at": "2026-10-31T17:52:27Z",
+      "updated_at": "2026-11-01T01:31:05Z",
       "published_at": null,
       "body_hash": "fc37595823ce98fc1e369eb3d77ae2472a96bb5f8cf9d9e5df7635d6b9f5768e",
       "thumbnail_url": null
@@ -4443,7 +4443,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/38859942749463-Profile-Privacy-Setting-on-Discord",
       "locale": "en-us",
       "created_at": "2026-03-06T18:32:48Z",
-      "updated_at": "2026-10-31T05:41:07Z",
+      "updated_at": "2026-10-31T20:49:08Z",
       "published_at": null,
       "body_hash": "689fb446f1d65804f4a50584d4cc8c44edd4c1f7ba376506857568ae6f21dbc8",
       "thumbnail_url": null
@@ -4476,7 +4476,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/39188406147479-Nitro-Rewards",
       "locale": "en-us",
       "created_at": "2026-03-20T18:55:02Z",
-      "updated_at": "2026-10-30T19:44:23Z",
+      "updated_at": "2026-10-31T20:49:31Z",
       "published_at": null,
       "body_hash": "49f4532b61980772bc7a860fdb685a0dda6abb3d2c0c368fbd114f8b5443173c",
       "thumbnail_url": null
@@ -4729,7 +4729,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/42015072654231--Known-Issue-Small-Videos-Won-t-Play-in-the-Desktop-App",
       "locale": "en-us",
       "created_at": "2026-07-16T22:24:08Z",
-      "updated_at": "2026-10-31T05:13:42Z",
+      "updated_at": "2026-10-31T20:17:31Z",
       "published_at": null,
       "body_hash": "2fe04a6332db17bee2c99a65a15b94141fbbea50a6b47308d88309051808c286",
       "thumbnail_url": null
@@ -4740,7 +4740,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/42178056096663-What-Protections-Do-You-Get-in-the-Teen-Age-Group",
       "locale": "en-us",
       "created_at": "2026-07-23T20:12:04Z",
-      "updated_at": "2026-10-31T18:59:24Z",
+      "updated_at": "2026-11-01T02:01:54Z",
       "published_at": null,
       "body_hash": "c05567912d3ff7d99bf329d0320ebe2278ece838ce1b198407b2bfb24b2ed1d7",
       "thumbnail_url": null
@@ -4762,7 +4762,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/42344057369623-Discord-Nitro-Offers-Promotions-Eligibility-Guide",
       "locale": "en-us",
       "created_at": "2026-07-30T15:57:18Z",
-      "updated_at": "2026-10-31T18:40:27Z",
+      "updated_at": "2026-11-01T01:44:08Z",
       "published_at": null,
       "body_hash": "035d10a2c1283e0fc902012aa994adda989639eda5d7fb80557ca9b7ce5354a3",
       "thumbnail_url": null
@@ -4806,7 +4806,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/42653320919447-Getting-the-Right-Experience-for-Your-Age-Group-Find-Your-Region",
       "locale": "en-us",
       "created_at": "2026-08-12T00:49:03Z",
-      "updated_at": "2026-10-31T16:21:54Z",
+      "updated_at": "2026-11-01T03:08:36Z",
       "published_at": null,
       "body_hash": "4f2167833f629f87e87a92af5886c29434b229827f8f46b23349efd117c0e73c",
       "thumbnail_url": null
@@ -4817,7 +4817,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/42704051358359-Why-video-features-are-currently-unavailable-in-Brazil",
       "locale": "en-us",
       "created_at": "2026-08-13T20:30:50Z",
-      "updated_at": "2026-10-31T16:02:45Z",
+      "updated_at": "2026-11-01T00:46:36Z",
       "published_at": null,
       "body_hash": "fedd2912894a7e767f8a510d3bab1e1d9c76d261cce8b2d916845480d2d5d7ea",
       "thumbnail_url": null
@@ -4828,7 +4828,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/42846930613783--Known-Issue-Support-for-macOS-12",
       "locale": "en-us",
       "created_at": "2026-08-19T19:35:31Z",
-      "updated_at": "2026-10-31T18:03:57Z",
+      "updated_at": "2026-11-01T01:50:10Z",
       "published_at": null,
       "body_hash": "ac0a6b2ea9f497007620423206b49e611dc0b2ec6e5a8c6584a0ac5a08174c2c",
       "thumbnail_url": null
@@ -4850,7 +4850,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/42962943077271-Custom-Typing-Indicator-FAQ",
       "locale": "en-us",
       "created_at": "2026-08-24T19:37:48Z",
-      "updated_at": "2026-10-31T18:19:54Z",
+      "updated_at": "2026-11-01T03:23:05Z",
       "published_at": null,
       "body_hash": "63ccfa44ef895be4d4cee3f84d4d61a2f8df4599d4c3e4ccd49796b84811de87",
       "thumbnail_url": null
@@ -4883,7 +4883,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/43599516624407-Nitro-Halloween-Gifting-2026-Earn-a-Free-Familiar-Avatar-Decoration",
       "locale": "en-us",
       "created_at": "2026-09-18T20:18:34Z",
-      "updated_at": "2026-10-29T08:22:01Z",
+      "updated_at": "2026-10-31T20:30:41Z",
       "published_at": null,
       "body_hash": "37edd422d0649a78a7b12dc53244fc625d181f18f5286892035a6a5b78a62f53",
       "thumbnail_url": null
@@ -4927,7 +4927,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/43819652702871-What-is-Decree-No-12-976-2026",
       "locale": "en-us",
       "created_at": "2026-09-28T16:14:04Z",
-      "updated_at": "2026-10-27T13:43:25Z",
+      "updated_at": "2026-11-01T03:20:21Z",
       "published_at": null,
       "body_hash": "5ee229c56b0201371c337abc287552b4b85ddc98cbdfd637aa4347c9b156f027",
       "thumbnail_url": null
@@ -4949,7 +4949,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/4402712000663-Why-do-I-see-a-Temporary-Hold-Charged-to-my-Account",
       "locale": "en-us",
       "created_at": "2021-06-15T20:13:38Z",
-      "updated_at": "2026-10-31T15:07:51Z",
+      "updated_at": "2026-10-31T22:33:41Z",
       "published_at": null,
       "body_hash": "5b268580c3563a1045073b8d80df80cb0a7b7a056e2c5ead080014e533601336",
       "thumbnail_url": null
@@ -4960,7 +4960,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/4403089981975-Custom-Stickers-FAQ",
       "locale": "en-us",
       "created_at": "2021-06-22T22:04:38Z",
-      "updated_at": "2026-10-28T21:48:02Z",
+      "updated_at": "2026-11-01T00:22:22Z",
       "published_at": null,
       "body_hash": "ee902fe43fda006ba75f54c491e4d5fc555fea61a5ef2bf1024dfdd57f66a2cc",
       "thumbnail_url": null
@@ -4993,7 +4993,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/4403205878423-Threads-FAQ",
       "locale": "en-us",
       "created_at": "2021-06-25T05:53:13Z",
-      "updated_at": "2026-10-19T07:49:44Z",
+      "updated_at": "2026-10-31T20:40:46Z",
       "published_at": null,
       "body_hash": "90a236accf7335fd012ea8fb77af8b40e7bb7a99d394225afa5392cb9a819b8b",
       "thumbnail_url": null
@@ -5026,7 +5026,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/44049845164823-Discoverable-Server-Web-Presence",
       "locale": "en-us",
       "created_at": "2026-10-06T22:35:48Z",
-      "updated_at": "2026-10-29T00:05:27Z",
+      "updated_at": "2026-10-31T23:25:02Z",
       "published_at": null,
       "body_hash": "134a23cd9861490e15b74537e9bcec0aaa1d51fce21c675c7f253a5fb45ed229",
       "thumbnail_url": null
@@ -5202,7 +5202,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/4412732047127-Discord-Account-Switcher-FAQ",
       "locale": "en-us",
       "created_at": "2021-11-10T03:01:15Z",
-      "updated_at": "2026-10-31T16:54:17Z",
+      "updated_at": "2026-11-01T01:40:45Z",
       "published_at": null,
       "body_hash": "f66f34f96d15af4719ac4a61998f64a67bacd6d4b9144231a0c352c28e7302d2",
       "thumbnail_url": null
@@ -5224,7 +5224,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/4413305239191-Time-Out-FAQ",
       "locale": "en-us",
       "created_at": "2021-11-16T18:53:10Z",
-      "updated_at": "2026-10-31T18:48:45Z",
+      "updated_at": "2026-11-01T03:29:04Z",
       "published_at": null,
       "body_hash": "8455537b468046ca4e20465a14e14a2429cf6b86a6e7a85607be4b7908b2776a",
       "thumbnail_url": null
@@ -5235,7 +5235,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/4413460214807-How-to-Remove-a-Phone-Number-From-a-Discord-Account",
       "locale": "en-us",
       "created_at": "2021-11-17T22:03:01Z",
-      "updated_at": "2026-10-31T17:49:35Z",
+      "updated_at": "2026-11-01T03:37:03Z",
       "published_at": null,
       "body_hash": "8d1cd8efaf1fa8de91c96adad30508ea3d790edbc2634bce865a7fa6ddbbff0f",
       "thumbnail_url": null
@@ -5268,7 +5268,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/4415841146391-Server-Invite-Background",
       "locale": "en-us",
       "created_at": "2021-12-13T23:41:59Z",
-      "updated_at": "2026-10-31T03:17:11Z",
+      "updated_at": "2026-10-31T19:22:05Z",
       "published_at": null,
       "body_hash": "af1d19532ef3fcdd928360716a143e351c3f74556d1abec96e5087b97ce09af1",
       "thumbnail_url": null
@@ -5290,7 +5290,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/4419534960919-Discord-and-PlayStation-Network-Connection-FAQ",
       "locale": "en-us",
       "created_at": "2022-01-18T23:38:54Z",
-      "updated_at": "2026-10-31T17:06:25Z",
+      "updated_at": "2026-10-31T23:40:37Z",
       "published_at": null,
       "body_hash": "4a6bc480a355d54464cc55b6d9e88743dc8073e00171c88a7bec5299f09e55a1",
       "thumbnail_url": null
@@ -5312,7 +5312,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/4420431861399-Blog-PlayStation-x-Discord-Connect-Your-Account-and-Show-What-You-re-Playing",
       "locale": "en-us",
       "created_at": "2022-01-27T01:49:05Z",
-      "updated_at": "2026-10-23T02:28:33Z",
+      "updated_at": "2026-10-31T21:50:45Z",
       "published_at": null,
       "body_hash": "a70d0bce160c9627412b536da02c776c1f3660c22f0da0581c10b6711b98014a",
       "thumbnail_url": null
@@ -5323,7 +5323,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/4421269296535-AutoMod-FAQ",
       "locale": "en-us",
       "created_at": "2022-02-02T18:05:55Z",
-      "updated_at": "2026-10-31T11:43:36Z",
+      "updated_at": "2026-10-31T23:12:16Z",
       "published_at": null,
       "body_hash": "0c1ca2076d36e88a217aa0369626fe62601963ddc44c940fd3dc30dda06def88",
       "thumbnail_url": null
@@ -5334,7 +5334,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/4423385681175-How-to-Change-your-Discord-Account-s-Email",
       "locale": "en-us",
       "created_at": "2022-02-10T23:26:28Z",
-      "updated_at": "2026-10-31T16:45:56Z",
+      "updated_at": "2026-11-01T01:21:46Z",
       "published_at": null,
       "body_hash": "659ff7856fa40cc7f86b5d009cfd6066413ff4a19c6b4747d183010e095181b5",
       "thumbnail_url": null
@@ -5345,7 +5345,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/44302319454359-Discoverable-Content-on-the-Web",
       "locale": "en-us",
       "created_at": "2026-10-16T16:50:44Z",
-      "updated_at": "2026-10-31T13:08:26Z",
+      "updated_at": "2026-10-31T21:21:04Z",
       "published_at": null,
       "body_hash": "0d78298d7fd5ee8c794b77ec42abedc6bfc9e19feef21baa62251c0fb58d0176",
       "thumbnail_url": null
@@ -5367,7 +5367,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/44393096706583-How-to-Manage-Your-Discord-Profile-Badges",
       "locale": "en-us",
       "created_at": "2026-10-20T18:44:17Z",
-      "updated_at": "2026-10-30T21:21:43Z",
+      "updated_at": "2026-11-01T01:36:09Z",
       "published_at": null,
       "body_hash": "37605f36d142c94ba27c3409a7a0f1aaafbdf1a645106addaec014bd35c9a6c5",
       "thumbnail_url": null
@@ -5433,7 +5433,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/4673515000983-Discord-Server-Web-Pages",
       "locale": "en-us",
       "created_at": "2022-03-10T10:04:37Z",
-      "updated_at": "2026-10-31T18:23:40Z",
+      "updated_at": "2026-11-01T03:33:55Z",
       "published_at": null,
       "body_hash": "70c0a8c5c8e04a28cc3272ab7dd37d34aa8c22c8dbdab97ec2c0ded6cc795abb",
       "thumbnail_url": null
@@ -5444,7 +5444,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/4708041338391-Update-on-Premium-Services-in-Russia",
       "locale": "en-us",
       "created_at": "2022-03-11T18:53:09Z",
-      "updated_at": "2026-10-31T18:56:39Z",
+      "updated_at": "2026-11-01T00:39:44Z",
       "published_at": null,
       "body_hash": "32cbc1273381c1452ae75cecd04db20b2ad79c9b024cdfbb588e0ac6fc0dc72a",
       "thumbnail_url": null
@@ -5466,7 +5466,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/5106714856215-Inactive-Account-Deletion",
       "locale": "en-us",
       "created_at": "2022-03-29T20:57:58Z",
-      "updated_at": "2026-10-31T16:07:17Z",
+      "updated_at": "2026-11-01T01:59:40Z",
       "published_at": null,
       "body_hash": "f241296ba383ed3b7346fc25deb24faac29dba227a3d99f30698a7a9c8489c9c",
       "thumbnail_url": null
@@ -5532,7 +5532,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/5431812448791-How-long-Discord-keeps-your-information",
       "locale": "en-us",
       "created_at": "2022-04-13T18:51:28Z",
-      "updated_at": "2026-10-31T00:46:22Z",
+      "updated_at": "2026-10-31T20:28:26Z",
       "published_at": null,
       "body_hash": "a50d165365228fc544a8f049ecfbde19bccbdc2a0bb6aa321a4b18b01c1ea238",
       "thumbnail_url": null
@@ -5554,7 +5554,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/6181726888215-How-to-Verify-Your-Discord-Account",
       "locale": "en-us",
       "created_at": "2022-05-18T23:56:20Z",
-      "updated_at": "2026-10-31T19:05:44Z",
+      "updated_at": "2026-11-01T03:32:33Z",
       "published_at": null,
       "body_hash": "e2551eeed3a28799127a655ee83ccb0f9f7bcfbe6a977f4f0c0458e328b2be17",
       "thumbnail_url": null
@@ -5576,7 +5576,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/6461420677527-Limited-Access-FAQ",
       "locale": "en-us",
       "created_at": "2022-06-01T02:51:53Z",
-      "updated_at": "2026-10-31T18:51:06Z",
+      "updated_at": "2026-11-01T02:44:46Z",
       "published_at": null,
       "body_hash": "256724a531b4a6ff8b90e5a1e8df9e239f9801640b40e18d8d73b2b71f4d353e",
       "thumbnail_url": null
@@ -5598,7 +5598,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/7326747355159-Why-was-my-message-not-delivered",
       "locale": "en-us",
       "created_at": "2022-07-08T17:24:32Z",
-      "updated_at": "2026-10-31T11:21:15Z",
+      "updated_at": "2026-11-01T01:28:28Z",
       "published_at": null,
       "body_hash": "c39e0f126745ef46997300aae4ad56137bdb69dee6dabb64faa4db03b4ea9bf3",
       "thumbnail_url": null
@@ -5609,7 +5609,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/7924992471191-Message-Requests",
       "locale": "en-us",
       "created_at": "2022-08-03T18:01:58Z",
-      "updated_at": "2026-10-31T14:29:02Z",
+      "updated_at": "2026-10-31T21:33:45Z",
       "published_at": null,
       "body_hash": "66d342ce4e6b6178141ecc3a237d4260a2b480553a0917b77eb129868b7eae5b",
       "thumbnail_url": null
@@ -5631,7 +5631,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/7931156448919-Activity-Sharing-on-Discord-FAQ",
       "locale": "en-us",
       "created_at": "2022-08-03T23:55:33Z",
-      "updated_at": "2026-10-31T19:04:46Z",
+      "updated_at": "2026-11-01T00:13:47Z",
       "published_at": null,
       "body_hash": "be33e2a67b31f5759056b1a345a9242af0fb64fd0c55dece951858cf2a8c9c5e",
       "thumbnail_url": null
@@ -5664,7 +5664,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/8458903738647-Pause-Invites-FAQ",
       "locale": "en-us",
       "created_at": "2022-08-27T00:06:59Z",
-      "updated_at": "2026-10-31T17:16:31Z",
+      "updated_at": "2026-10-31T19:26:33Z",
       "published_at": null,
       "body_hash": "223b5cca280ab4bff41f66c03fe72588aa87967efbd00f22d535d47cc6c20361",
       "thumbnail_url": null
@@ -5697,7 +5697,7 @@
       "url": "https://support.discord.com/hc/en-us/articles/9074940276503-Authorize-Payments-for-Discord-Client-FAQ",
       "locale": "en-us",
       "created_at": "2022-09-22T22:21:41Z",
-      "updated_at": "2026-10-27T14:07:36Z",
+      "updated_at": "2026-10-31T23:24:53Z",
       "published_at": null,
       "body_hash": "cbd4878b46e212439853e21a4efa095875c78bf9c4f2a3e54efe329063119e30",
       "thumbnail_url": null
