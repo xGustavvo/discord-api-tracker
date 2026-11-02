@@ -2935,18 +2935,46 @@
     "variants": [
       {
         "variant": 0,
-        "from": 0,
-        "to": 1,
+        "from": 1,
+        "to": 25,
         "ranges": [
-          "0 - 100"
+          "0 - 100",
+          "200 - 1600",
+          "3000 - 4000"
         ]
       },
       {
         "variant": 1,
-        "from": 0,
-        "to": 1,
+        "from": 1,
+        "to": 25,
         "ranges": [
-          "100 - 200"
+          "100 - 200",
+          "1600 - 3000",
+          "4000 - 5000"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-09-single-cpu-copy",
+    "title": "Single cpu copy",
+    "hash_key": null,
+    "platforms": [
+      "android"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 49.95,
+        "to": 0,
+        "ranges": []
+      },
+      {
+        "variant": 1,
+        "from": 50.05,
+        "to": 100,
+        "ranges": [
+          "0 - 10000"
         ]
       }
     ]
