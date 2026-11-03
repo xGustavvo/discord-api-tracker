@@ -3137,6 +3137,14 @@
     ],
     "variants": [
       {
+        "variant": 2,
+        "from": 30,
+        "to": 50,
+        "ranges": [
+          "0 - 5000"
+        ]
+      },
+      {
         "variant": 0,
         "from": 10,
         "to": 0,
@@ -3147,14 +3155,6 @@
         "from": 10,
         "to": 0,
         "ranges": []
-      },
-      {
-        "variant": 2,
-        "from": 10,
-        "to": 30,
-        "ranges": [
-          "0 - 3000"
-        ]
       }
     ]
   }
