@@ -1792,10 +1792,10 @@
     "variants": [
       {
         "variant": 1,
-        "from": 0,
-        "to": 30,
+        "from": 30,
+        "to": 100,
         "ranges": [
-          "0 - 3000"
+          "0 - 10000"
         ]
       }
     ]
@@ -2180,22 +2180,24 @@
     "variants": [
       {
         "variant": 0,
-        "from": 2.5,
-        "to": 25,
+        "from": 25,
+        "to": 50,
         "ranges": [
           "0 - 250",
           "500 - 1750",
-          "3000 - 4000"
+          "3000 - 4000",
+          "5000 - 7500"
         ]
       },
       {
         "variant": 1,
-        "from": 2.5,
-        "to": 25,
+        "from": 25,
+        "to": 50,
         "ranges": [
           "250 - 500",
           "1750 - 3000",
-          "4000 - 5000"
+          "4000 - 5000",
+          "7500 - 10000"
         ]
       }
     ]
@@ -3048,6 +3050,110 @@
         "to": 2.5,
         "ranges": [
           "250 - 500"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-10-request-to-stream-non-games",
+    "title": "Request to stream non games",
+    "hash_key": null,
+    "platforms": [
+      "bot"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 1,
+        "ranges": [
+          "0 - 100"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 1,
+        "ranges": [
+          "100 - 200"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-10-fractional-nitro-pricing",
+    "title": "Fractional nitro pricing",
+    "hash_key": null,
+    "platforms": [
+      "android",
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 3.33,
+        "to": 10,
+        "ranges": [
+          "0 - 66",
+          "198 - 299",
+          "501 - 567",
+          "699 - 799",
+          "999 - 1666"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 3.33,
+        "to": 10,
+        "ranges": [
+          "66 - 132",
+          "299 - 400",
+          "567 - 633",
+          "799 - 899",
+          "1666 - 2333"
+        ]
+      },
+      {
+        "variant": 2,
+        "from": 3.33,
+        "to": 10,
+        "ranges": [
+          "132 - 198",
+          "400 - 501",
+          "633 - 699",
+          "899 - 999",
+          "2333 - 3000"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-08-scheduled-messages",
+    "title": "Scheduled messages",
+    "hash_key": null,
+    "platforms": [
+      "android",
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 10,
+        "to": 0,
+        "ranges": []
+      },
+      {
+        "variant": 1,
+        "from": 10,
+        "to": 0,
+        "ranges": []
+      },
+      {
+        "variant": 2,
+        "from": 10,
+        "to": 30,
+        "ranges": [
+          "0 - 3000"
         ]
       }
     ]
