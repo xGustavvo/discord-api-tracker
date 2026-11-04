@@ -3136,10 +3136,10 @@
     "variants": [
       {
         "variant": 2,
-        "from": 50,
-        "to": 60,
+        "from": 60,
+        "to": 70,
         "ranges": [
-          "0 - 6000"
+          "0 - 7000"
         ]
       },
       {
@@ -3182,6 +3182,125 @@
           "500 - 1000",
           "2000 - 3000",
           "4000 - 5000"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-10-nitro-home-badge-directory",
+    "title": "Nitro home badge directory",
+    "hash_key": null,
+    "platforms": [
+      "android",
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 50,
+        "ranges": [
+          "0 - 1500",
+          "3000 - 4000",
+          "5000 - 7500"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 50,
+        "ranges": [
+          "1500 - 3000",
+          "4000 - 5000",
+          "7500 - 10000"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-10-maple-syrup-3",
+    "title": "Maple syrup 3",
+    "hash_key": null,
+    "platforms": [
+      "android"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 15,
+        "ranges": [
+          "0 - 1500"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 15,
+        "ranges": [
+          "1500 - 3000"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-10-maple-syrup-1",
+    "title": "Maple syrup 1",
+    "hash_key": null,
+    "platforms": [
+      "android"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 25,
+        "ranges": [
+          "0 - 1500",
+          "3000 - 4000"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 25,
+        "ranges": [
+          "1500 - 3000",
+          "4000 - 5000"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-10-maple-syrup-2",
+    "title": "Maple syrup 2",
+    "hash_key": null,
+    "platforms": [
+      "android"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 10,
+        "ranges": [
+          "0 - 1000"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 10,
+        "ranges": [
+          "1000 - 2000"
+        ]
+      },
+      {
+        "variant": 2,
+        "from": 0,
+        "to": 10,
+        "ranges": [
+          "2000 - 3000"
         ]
       }
     ]
