@@ -3549,5 +3549,37 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-voice-server-update-immediate-mobile",
+    "title": "Voice server update immediate mobile",
+    "hash_key": null,
+    "platforms": [
+      "android"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 10,
+        "to": 50,
+        "ranges": [
+          "0 - 100",
+          "200 - 600",
+          "1000 - 1500",
+          "2000 - 6000"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 10,
+        "to": 50,
+        "ranges": [
+          "100 - 200",
+          "600 - 1000",
+          "1500 - 2000",
+          "6000 - 10000"
+        ]
+      }
+    ]
   }
 ]
