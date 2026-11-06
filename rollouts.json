@@ -1647,10 +1647,10 @@
     "variants": [
       {
         "variant": 1,
-        "from": 100,
-        "to": 99,
+        "from": 99,
+        "to": 100,
         "ranges": [
-          "100 - 10000"
+          "0 - 10000"
         ]
       }
     ]
@@ -3496,6 +3496,43 @@
         "from": 95,
         "to": 0,
         "ranges": []
+      }
+    ]
+  },
+  {
+    "id": "2026-08-dont-close-chat",
+    "title": "Dont close chat",
+    "hash_key": null,
+    "platforms": [
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 1,
+        "from": 99,
+        "to": 100,
+        "ranges": [
+          "0 - 10000"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-04-browser-transceiver-padding-removal",
+    "title": "Browser transceiver padding removal",
+    "hash_key": null,
+    "platforms": [
+      "android",
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 100,
+        "ranges": [
+          "0 - 10000"
+        ]
       }
     ]
   }
