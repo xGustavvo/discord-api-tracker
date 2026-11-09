@@ -25670,5 +25670,373 @@
       "button_label": "View More",
       "subtitle": "New heist drama 12 12 12 on Apple TV Nov 13"
     }
+  },
+  {
+    "id": "1553899592100085760",
+    "config_version": 2,
+    "starts_at": "2026-11-09T18:00:00+00:00",
+    "expires_at": "2027-01-01T01:00:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://www.microsoft.com/en-us/windows/rtx-spark-laptops?OCID=AIDcmmxvafc3ot_OLA_%ebuy!_%25epid!_%ecid!&siteID=%25esid!",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "quests/1553899592100085760/1559995467696312320.jpg",
+      "hero_video": "quests/1553899592100085760/1559990969636749312_720.mp4",
+      "quest_bar_hero_blurhash": "ltcFFIIgZUVcVXh3hJlgfAX3WQ==",
+      "quest_bar_hero": "quests/1553899592100085760/1559995467696312320.jpg",
+      "quest_bar_hero_video": "quests/1553899592100085760/1559990969636749312_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1553899592100085760/1562168943844663336.png",
+      "game_tile_dark": "quests/1553899592100085760/1560026866599854192.png",
+      "logotype_light": "quests/1553899592100085760/1562168246273179679.png",
+      "logotype_dark": "quests/1553899592100085760/1559987758192136294.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Windows Power",
+      "game_title": "What will you do with all this power?",
+      "game_publisher": "Microsoft"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 29,
+          "assets": {
+            "video": {
+              "url": "quests/1553899592100085760/1559981566472749126_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1553899592100085760/1562270438061776927.png"
+            },
+            "video_low_res": {
+              "url": "quests/1553899592100085760/1559981566472749126_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1553899592100085760/1562270438061776927.png"
+            },
+            "video_hls": {
+              "url": "quests/1553899592100085760/1559981566472749126.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1553899592100085760/1562270438061776927.png"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
+        },
+        "WATCH_VIDEO_ON_MOBILE": {
+          "type": "WATCH_VIDEO_ON_MOBILE",
+          "target": 29,
+          "assets": {
+            "video": {
+              "url": "quests/1553899592100085760/1559981566472749126_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1553899592100085760/1562270438061776927.png"
+            },
+            "video_low_res": {
+              "url": "quests/1553899592100085760/1559981566472749126_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1553899592100085760/1562270438061776927.png"
+            },
+            "video_hls": {
+              "url": "quests/1553899592100085760/1559981566472749126.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1553899592100085760/1562270438061776927.png"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "200 Orbs",
+            "name_with_article": "200 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 200,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2027-01-31T01:00:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.microsoft.com/en-us/windows/rtx-spark-laptops?OCID=AIDcmmxvafc3ot_OLA_%ebuy!_%25epid!_%ecid!&siteID=%25esid!",
+      "button_label": "Learn More",
+      "subtitle": "What will you do with all this power?"
+    }
+  },
+  {
+    "id": "1554639238346178640",
+    "config_version": 2,
+    "starts_at": "2026-11-09T18:00:00+00:00",
+    "expires_at": "2026-11-19T07:59:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://www.violentnightmovie.com",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "quests/1554639238346178640/1567613597348266145.jpg",
+      "quest_bar_hero_blurhash": "SOcFFII4doeId4hgmXVqZ89F9A==",
+      "quest_bar_hero": "quests/1554639238346178640/1568021232018792598.jpg",
+      "quest_bar_hero_video": "quests/1554639238346178640/1568021653496275044_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1554639238346178640/1567613426744696975.png",
+      "game_tile_dark": "quests/1554639238346178640/1567613426891497655.png",
+      "logotype_light": "quests/1554639238346178640/1567613516242747524.png",
+      "logotype_dark": "quests/1554639238346178640/1567613515626188801.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Violent Night 2",
+      "game_title": "In Theaters December 4",
+      "game_publisher": "Universal Pictures"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 59,
+          "assets": {
+            "video": {
+              "url": "quests/1554639238346178640/1567613836607881286_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1554639238346178640/1567613563667878008.png"
+            },
+            "video_low_res": {
+              "url": "quests/1554639238346178640/1567613836607881286_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1554639238346178640/1567613563667878008.png"
+            },
+            "video_hls": {
+              "url": "quests/1554639238346178640/1567613836607881286.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1554639238346178640/1567613563667878008.png"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
+        },
+        "WATCH_VIDEO_ON_MOBILE": {
+          "type": "WATCH_VIDEO_ON_MOBILE",
+          "target": 59,
+          "assets": {
+            "video": {
+              "url": "quests/1554639238346178640/1567960017674698762_1080.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1554639238346178640/1567613563667878008.png"
+            },
+            "video_low_res": {
+              "url": "quests/1554639238346178640/1567960017674698762_720.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1554639238346178640/1567613563667878008.png"
+            },
+            "video_hls": {
+              "url": "quests/1554639238346178640/1567960017674698762.m3u8",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1554639238346178640/1567613563667878008.png"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "200 Orbs",
+            "name_with_article": "200 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 200,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2026-12-19T07:59:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.violentnightmovie.com",
+      "button_label": "Learn More",
+      "subtitle": "In Theaters December 4"
+    }
+  },
+  {
+    "id": "1568037498372886608",
+    "config_version": 2,
+    "starts_at": "2026-11-09T18:00:00+00:00",
+    "expires_at": "2026-11-15T04:59:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://www.tntdrama.com/the-fight",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "quests/1562883818254508073/1567935020394487958.jpg",
+      "hero_video": "quests/1562883818254508073/1568006605675565128_720.mp4",
+      "quest_bar_hero_blurhash": "TwkKJIJoh2Z9iHdgiZYImJC7Bw==",
+      "quest_bar_hero": "quests/1562883818254508073/1567934967193804991.jpg",
+      "quest_bar_hero_video": "quests/1562883818254508073/1568006605675565128_720.mp4",
+      "game_tile": "1521147152557019178.png",
+      "logotype": "1521165018358349984.png",
+      "game_tile_light": "quests/1562883818254508073/1567934740919619706.png",
+      "game_tile_dark": "quests/1562883818254508073/1567934740919619706.png",
+      "logotype_light": "quests/1562883818254508073/1567935640325324962.png",
+      "logotype_dark": "quests/1562883818254508073/1567934741007835280.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "TNT The Fight",
+      "game_title": "The Fight returns Saturday as Diego Pacheco takes on Darius Fulghum with the WBC Silver Super Middleweight Championship on the line! Catch all the action on TNT, truTV and DAZN.",
+      "game_publisher": "TNT Sports"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 62,
+          "assets": {
+            "video": {
+              "url": "quests/1562883818254508073/1568372935796850760_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1562883818254508073/1567934967193804991.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1562883818254508073/1568372935796850760_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1562883818254508073/1567934967193804991.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1562883818254508073/1568372935796850760.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1562883818254508073/1567934967193804991.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
+        },
+        "WATCH_VIDEO_ON_MOBILE": {
+          "type": "WATCH_VIDEO_ON_MOBILE",
+          "target": 62,
+          "assets": {
+            "video": {
+              "url": "quests/1562883818254508073/1568372871330406510_1080.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1562883818254508073/1567934967193804991.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1562883818254508073/1568372871330406510_720.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1562883818254508073/1567934967193804991.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1562883818254508073/1568372871330406510.m3u8",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1562883818254508073/1567934967193804991.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "200 Orbs",
+            "name_with_article": "200 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 200,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2026-12-15T04:59:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.tntdrama.com/the-fight",
+      "button_label": "Learn More",
+      "subtitle": "The Fight returns Saturday as Diego Pacheco takes on Darius Fulghum with the WBC Silver Super Middleweight Championship on the line! Catch all the action on TNT, truTV and DAZN."
+    }
   }
 ]
