@@ -3346,22 +3346,26 @@
     "variants": [
       {
         "variant": 0,
-        "from": 15,
-        "to": 25,
+        "from": 37.5,
+        "to": 50,
         "ranges": [
           "0 - 100",
           "200 - 1600",
-          "3000 - 4000"
+          "3000 - 4000",
+          "5000 - 6250",
+          "7500 - 8750"
         ]
       },
       {
         "variant": 1,
-        "from": 15,
-        "to": 25,
+        "from": 37.5,
+        "to": 50,
         "ranges": [
           "100 - 200",
           "1600 - 3000",
-          "4000 - 5000"
+          "4000 - 5000",
+          "6250 - 7500",
+          "8750 - 10000"
         ]
       }
     ]
@@ -3627,6 +3631,171 @@
           "725 - 1300",
           "2950 - 3950",
           "7450 - 10000"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-07-quest-home-default-banner-removal",
+    "title": "Quest home default banner removal",
+    "hash_key": null,
+    "platforms": [
+      "android",
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 10,
+        "to": 30,
+        "ranges": [
+          "0 - 1000",
+          "3000 - 5000"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 10,
+        "to": 0,
+        "ranges": []
+      },
+      {
+        "variant": 2,
+        "from": 10,
+        "to": 0,
+        "ranges": []
+      }
+    ]
+  },
+  {
+    "id": "2026-11-return-full-quest-status-in-decision",
+    "title": "Return full quest status in decision",
+    "hash_key": null,
+    "platforms": [
+      "android",
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 1,
+        "ranges": [
+          "0 - 100"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-10-media-viewer-video-perf-android",
+    "title": "Media viewer video perf android",
+    "hash_key": null,
+    "platforms": [
+      "android",
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 1,
+        "ranges": [
+          "0 - 100"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 1,
+        "ranges": [
+          "100 - 200"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-10-media-viewer-entrance-jank",
+    "title": "Media viewer entrance jank",
+    "hash_key": null,
+    "platforms": [
+      "android",
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 1,
+        "ranges": [
+          "0 - 100"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 1,
+        "ranges": [
+          "100 - 200"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-10-sfp-bloons-orb-split-tender",
+    "title": "Sfp bloons orb split tender",
+    "hash_key": null,
+    "platforms": [
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 1,
+        "ranges": [
+          "0 - 100"
+        ]
+      },
+      {
+        "variant": 2,
+        "from": 0,
+        "to": 2,
+        "ranges": [
+          "100 - 300"
+        ]
+      },
+      {
+        "variant": 3,
+        "from": 0,
+        "to": 2,
+        "ranges": [
+          "300 - 500"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-10-express-checkout",
+    "title": "Express checkout",
+    "hash_key": null,
+    "platforms": [
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 1,
+        "ranges": [
+          "0 - 100"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 1,
+        "ranges": [
+          "100 - 200"
         ]
       }
     ]
