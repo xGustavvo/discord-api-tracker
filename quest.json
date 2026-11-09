@@ -25478,5 +25478,197 @@
       "button_label": "Learn More",
       "subtitle": "Find The Thing You Never Knew You Needed"
     }
+  },
+  {
+    "id": "1556298947713179718",
+    "config_version": 2,
+    "starts_at": "2026-11-09T17:00:00+00:00",
+    "expires_at": "2026-11-13T01:59:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://tv.apple.com/us/show/12-12-12/umc.cmc.2xeasogpeiwbaegczytrdg1uh?itscg=MC_50000&itsct=atvp_brand_omd&mttn3pid=Discord&mttnagencyid=a5e&mttncc=US&mttnsiteid=143238&mttnsubad=07533067",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "quests/1556298947713179718/1563300045149970442.jpg",
+      "hero_video": "quests/1556298947713179718/1564312290403164171_720.mp4",
+      "quest_bar_hero_blurhash": "c7cNAoLbgE2HeHiIIk4wsEY=",
+      "quest_bar_hero": "quests/1556298947713179718/1563300045149970442.jpg",
+      "quest_bar_hero_video": "quests/1556298947713179718/1564312290403164171_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1556298947713179718/1563300043430043709.png",
+      "game_tile_dark": "quests/1556298947713179718/1563300043430043709.png",
+      "logotype_light": "quests/1556298947713179718/1563300043522576597.png",
+      "logotype_dark": "quests/1556298947713179718/1563300043522576597.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "12 12 12",
+      "game_title": "New heist drama 12 12 12 on Apple TV Nov 13",
+      "game_publisher": "Apple TV"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO_ON_MOBILE": {
+          "type": "WATCH_VIDEO_ON_MOBILE",
+          "target": 194,
+          "assets": {
+            "video": {
+              "url": "quests/1556298947713179718/1567397595670904952_1080.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1556298947713179718/1563300047527874651.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1556298947713179718/1567397595670904952_720.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1556298947713179718/1563300047527874651.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1556298947713179718/1567397595670904952.m3u8",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1556298947713179718/1563300047527874651.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "200 Orbs",
+            "name_with_article": "200 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 200,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2026-12-13T01:59:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "not_shareable",
+    "cta_config": {
+      "link": "https://tv.apple.com/us/show/12-12-12/umc.cmc.2xeasogpeiwbaegczytrdg1uh?itscg=MC_50000&itsct=atvp_brand_omd&mttn3pid=Discord&mttnagencyid=a5e&mttncc=US&mttnsiteid=143238&mttnsubad=07533067",
+      "button_label": "View More",
+      "subtitle": "New heist drama 12 12 12 on Apple TV Nov 13"
+    }
+  },
+  {
+    "id": "1565847146605838466",
+    "config_version": 2,
+    "starts_at": "2026-11-09T17:00:00+00:00",
+    "expires_at": "2026-11-13T01:59:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://tv.apple.com/us/show/12-12-12/umc.cmc.2xeasogpeiwbaegczytrdg1uh?itscg=MC_50000&itsct=atvp_brand_omd&mttn3pid=Discord&mttnagencyid=a5e&mttncc=US&mttnsiteid=143238&mttnsubad=07533068",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "quests/1556298947713179718/1563300045149970442.jpg",
+      "hero_video": "quests/1556298947713179718/1564312290403164171_720.mp4",
+      "quest_bar_hero_blurhash": "c7cNAoLbgE2HeHiIIk4wsEY=",
+      "quest_bar_hero": "quests/1556298947713179718/1563300045149970442.jpg",
+      "quest_bar_hero_video": "quests/1556298947713179718/1564312308602114151_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1556298947713179718/1563300043430043709.png",
+      "game_tile_dark": "quests/1556298947713179718/1563300043430043709.png",
+      "logotype_light": "quests/1556298947713179718/1563300043522576597.png",
+      "logotype_dark": "quests/1556298947713179718/1563300043522576597.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "12 12 12",
+      "game_title": "New heist drama 12 12 12 on Apple TV Nov 13",
+      "game_publisher": "Apple TV"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO_ON_MOBILE": {
+          "type": "WATCH_VIDEO_ON_MOBILE",
+          "target": 194,
+          "assets": {
+            "video": {
+              "url": "quests/1556298947713179718/1567397595670904952_1080.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1556298947713179718/1563300047527874651.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1556298947713179718/1567397595670904952_720.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1556298947713179718/1563300047527874651.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1556298947713179718/1567397595670904952.m3u8",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1556298947713179718/1563300047527874651.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "200 Orbs",
+            "name_with_article": "200 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 200,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2026-12-13T01:59:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "not_shareable",
+    "cta_config": {
+      "link": "https://tv.apple.com/us/show/12-12-12/umc.cmc.2xeasogpeiwbaegczytrdg1uh?itscg=MC_50000&itsct=atvp_brand_omd&mttn3pid=Discord&mttnagencyid=a5e&mttncc=US&mttnsiteid=143238&mttnsubad=07533068",
+      "button_label": "View More",
+      "subtitle": "New heist drama 12 12 12 on Apple TV Nov 13"
+    }
   }
 ]
