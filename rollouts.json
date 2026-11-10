@@ -3678,12 +3678,16 @@
     ],
     "variants": [
       {
+        "variant": 0,
+        "from": 1,
+        "to": 0,
+        "ranges": []
+      },
+      {
         "variant": 1,
-        "from": 0,
-        "to": 1,
-        "ranges": [
-          "0 - 100"
-        ]
+        "from": 1,
+        "to": 0,
+        "ranges": []
       }
     ]
   },
@@ -4001,6 +4005,33 @@
         "to": 11.5,
         "ranges": [
           "1150 - 2300"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-09-default-emojis",
+    "title": "Default emojis",
+    "hash_key": null,
+    "platforms": [
+      "android",
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 1,
+        "ranges": [
+          "0 - 100"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 1,
+        "ranges": [
+          "100 - 200"
         ]
       }
     ]
