@@ -26286,5 +26286,98 @@
       "button_label": "Learn More",
       "subtitle": "The Fight returns Saturday as Diego Pacheco takes on Darius Fulghum with the WBC Silver Super Middleweight Championship on the line! Catch all the action on TNT, truTV and DAZN."
     }
+  },
+  {
+    "id": "1565599842900643881",
+    "config_version": 2,
+    "starts_at": "2026-11-11T03:00:00+00:00",
+    "expires_at": "2026-12-02T02:59:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://hsr.onelink.me/LXRY?pid=OPT_SNS&c=v47HSRDiscordQuest&af_adset=OPTv47&af_dp=honkaistarrail%3A%2F%2F&af_ios_url=https%3A%2F%2Foig.hoyoverse.com%2Fhkrpgoversea%2F&af_android_url=https%3A%2F%2Foig.hoyoverse.com%2Fhsr_android%2F&af_web_dp=https%3A%2F%2Fhsr.hoyoverse.com%3Futm_source%3DOPT%26utm_medium%3DOPT_Discord%26utm_campaign%3Dv47HSRDiscordQuest&is_retargeting=true&af_reengagement_window=lifetime",
+      "id": "1121201675240210523",
+      "name": "Honkai: Star Rail"
+    },
+    "assets": {
+      "hero": "quests/1565599842900643881/1567259873735876678.jpg",
+      "hero_video": "quests/1565599842900643881/1567259903473492088_720.mp4",
+      "quest_bar_hero_blurhash": "WUcOFIYfdoh2eIhSZodZTPBTJQ==",
+      "quest_bar_hero": "quests/1565599842900643881/1567259577567682570.jpg",
+      "quest_bar_hero_video": "quests/1565599842900643881/1567259602930901134_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1565599842900643881/1567259292774572233.png",
+      "game_tile_dark": "quests/1565599842900643881/1567259292774572233.png",
+      "logotype_light": "quests/1565599842900643881/1567259376677290064.png",
+      "logotype_dark": "quests/1565599842900643881/1567259376677290064.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Honkai: Star Rail",
+      "game_title": "Honkai: Star Rail",
+      "game_publisher": "COGNOSPHERE PTE. LTD."
+    },
+    "task_config_v2": {
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "type": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1121201675240210523"
+            }
+          ]
+        },
+        "PLAY_ON_PLAYSTATION": {
+          "type": "PLAY_ON_PLAYSTATION",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1121201675240210523"
+            }
+          ],
+          "external_ids": [
+            "PPSA08457_00",
+            "PPSA08458_00",
+            "PPSA08459_00"
+          ]
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 1,
+          "sku_id": "1565599842900643882",
+          "asset": "quests/1565599842900643881/1567667195654316084.png",
+          "asset_video": null,
+          "messages": {
+            "name": "V4.7 Quest Bundle",
+            "name_with_article": "a V4.7 Quest Bundle",
+            "redemption_instructions_by_platform": {
+              "0": "\"How to Redeem:\nVisit the official Honkai: Star Rail website's redemption page (https://hsr.hoyoverse.com/gift), log in to your game account, and follow the instructions to enter the code. Once redeemed, the rewards will be sent via in-game mail.\n\nReward Contents: Stellar Jade ×30, Credit ×20,000, Lost Gold Fragment ×4, Condensed Aether ×5, Traveler's Guide ×3.\n\nNote: Rewards are limited. Rewards will be distributed in the order that the redemption codes are claimed after completing the quest, on a first-come, first-served basis.\n\n* The redemption code will expire on 2026/12/21 11:00:00 (UTC+8). We highly recommend redeeming it as soon as possible.\""
+            }
+          },
+          "approximate_count": null,
+          "redemption_link": null
+        }
+      ],
+      "rewards_expire_at": "2027-01-01T02:59:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://hsr.onelink.me/LXRY?pid=OPT_SNS&c=v47HSRDiscordQuest&af_adset=OPTv47&af_dp=honkaistarrail%3A%2F%2F&af_ios_url=https%3A%2F%2Foig.hoyoverse.com%2Fhkrpgoversea%2F&af_android_url=https%3A%2F%2Foig.hoyoverse.com%2Fhsr_android%2F&af_web_dp=https%3A%2F%2Fhsr.hoyoverse.com%3Futm_source%3DOPT%26utm_medium%3DOPT_Discord%26utm_campaign%3Dv47HSRDiscordQuest&is_retargeting=true&af_reengagement_window=lifetime",
+      "button_label": "Play Now"
+    }
   }
 ]
