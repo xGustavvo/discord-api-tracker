@@ -4060,5 +4060,83 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-10-shop-sku-nitro-upsell-refresh",
+    "title": "Shop sku nitro upsell refresh",
+    "hash_key": null,
+    "platforms": [
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 5,
+        "ranges": [
+          "0 - 500"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 5,
+        "ranges": [
+          "500 - 1000"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-10-profile-nitro-upsell-refresh",
+    "title": "Profile nitro upsell refresh",
+    "hash_key": null,
+    "platforms": [
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 5,
+        "ranges": [
+          "0 - 500"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 5,
+        "ranges": [
+          "500 - 1000"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-11-soundboard-upsells-brand-refresh",
+    "title": "Soundboard upsells brand refresh",
+    "hash_key": null,
+    "platforms": [
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 5,
+        "ranges": [
+          "0 - 500"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 5,
+        "ranges": [
+          "500 - 1000"
+        ]
+      }
+    ]
   }
 ]
