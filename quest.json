@@ -26602,5 +26602,128 @@
       "link": "https://www.asphaltgame.com/",
       "button_label": "Play Now"
     }
+  },
+  {
+    "id": "1567922849824636928",
+    "config_version": 2,
+    "starts_at": "2026-11-12T18:00:00+00:00",
+    "expires_at": "2026-12-26T01:00:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://www.apple.com/store/?cid=wwa-us-div-hol-holb26-dpre-discord-nspf-vidquest-cpm-aos-mobdsk-adevt-gnt-broa-strlp-attnbb-usen-dr2mer-video-169ar-3m50s-montn-na-na-na-na-na-na-07619549",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "quests/1567922849824636928/1567923366696980550.jpg",
+      "hero_video": "quests/1567922849824636928/1567923553909874779.mp4",
+      "quest_bar_hero_blurhash": "XrgFIoRwuEcYaXi6BoczLgg=",
+      "quest_bar_hero": "quests/1567922849824636928/1567923366696980550.jpg",
+      "quest_bar_hero_video": "quests/1567922849824636928/1567923553909874779.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1567922849824636928/1567923366764220536.png",
+      "game_tile_dark": "quests/1567922849824636928/1567923366760022106.png",
+      "logotype_light": "quests/1567922849824636928/1568021716226281472.png",
+      "logotype_dark": "quests/1567922849824636928/1568021255255359519.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Gifts They'll Love",
+      "game_title": "Apple Holiday ",
+      "game_publisher": "Apple "
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 226,
+          "assets": {
+            "video": {
+              "url": "quests/1567922849824636928/1567923898371014666_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1567922849824636928/1567923366239666216.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1567922849824636928/1567923898371014666_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1567922849824636928/1567923366239666216.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1567922849824636928/1567923898371014666.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1567922849824636928/1567923366239666216.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
+        },
+        "WATCH_VIDEO_ON_MOBILE": {
+          "type": "WATCH_VIDEO_ON_MOBILE",
+          "target": 226,
+          "assets": {
+            "video": {
+              "url": "quests/1567922849824636928/1567923898371014666_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1567922849824636928/1567923366239666216.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1567922849824636928/1567923898371014666_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1567922849824636928/1567923366239666216.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1567922849824636928/1567923898371014666.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1567922849824636928/1567923366239666216.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "200 Orbs",
+            "name_with_article": "200 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 200,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2027-01-25T01:00:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.apple.com/store/?cid=wwa-us-div-hol-holb26-dpre-discord-nspf-vidquest-cpm-aos-mobdsk-adevt-gnt-broa-strlp-attnbb-usen-dr2mer-video-169ar-3m50s-montn-na-na-na-na-na-na-07619549",
+      "button_label": "Learn More",
+      "subtitle": "Apple Holiday"
+    }
   }
 ]
