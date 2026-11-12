@@ -26379,5 +26379,228 @@
       "link": "https://hsr.onelink.me/LXRY?pid=OPT_SNS&c=v47HSRDiscordQuest&af_adset=OPTv47&af_dp=honkaistarrail%3A%2F%2F&af_ios_url=https%3A%2F%2Foig.hoyoverse.com%2Fhkrpgoversea%2F&af_android_url=https%3A%2F%2Foig.hoyoverse.com%2Fhsr_android%2F&af_web_dp=https%3A%2F%2Fhsr.hoyoverse.com%3Futm_source%3DOPT%26utm_medium%3DOPT_Discord%26utm_campaign%3Dv47HSRDiscordQuest&is_retargeting=true&af_reengagement_window=lifetime",
       "button_label": "Play Now"
     }
+  },
+  {
+    "id": "1554638309505110076",
+    "config_version": 2,
+    "starts_at": "2026-11-12T18:00:00+00:00",
+    "expires_at": "2026-11-19T07:59:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://www.violentnightmovie.ca/",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "quests/1554638309505110076/1569807416181260288.jpg",
+      "quest_bar_hero_blurhash": "SOcFFII4doeId4hgmXVqZ89F9A==",
+      "quest_bar_hero": "quests/1554638309505110076/1569807551220941074.jpg",
+      "quest_bar_hero_video": "quests/1554638309505110076/1569807665847205960_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1554638309505110076/1569807298862522368.png",
+      "game_tile_dark": "quests/1554638309505110076/1569807298917040168.png",
+      "logotype_light": "quests/1554638309505110076/1569807332789985310.png",
+      "logotype_dark": "quests/1554638309505110076/1569807333377187882.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Violent Night 2",
+      "game_title": "In Theatres December 4",
+      "game_publisher": "Universal Pictures"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 59,
+          "assets": {
+            "video": {
+              "url": "quests/1554638309505110076/1569446078078779513_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1554638309505110076/1570476724960100503.png"
+            },
+            "video_low_res": {
+              "url": "quests/1554638309505110076/1569446078078779513_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1554638309505110076/1570476724960100503.png"
+            },
+            "video_hls": {
+              "url": "quests/1554638309505110076/1569446078078779513.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1554638309505110076/1570476724960100503.png"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
+        },
+        "WATCH_VIDEO_ON_MOBILE": {
+          "type": "WATCH_VIDEO_ON_MOBILE",
+          "target": 59,
+          "assets": {
+            "video": {
+              "url": "quests/1554638309505110076/1569806758162210897_1080.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1554638309505110076/1570476724960100503.png"
+            },
+            "video_low_res": {
+              "url": "quests/1554638309505110076/1569806758162210897_720.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1554638309505110076/1570476724960100503.png"
+            },
+            "video_hls": {
+              "url": "quests/1554638309505110076/1569806758162210897.m3u8",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1554638309505110076/1570476724960100503.png"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "200 Orbs",
+            "name_with_article": "200 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 200,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2026-12-19T07:59:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.violentnightmovie.ca/",
+      "button_label": "Get Tickets",
+      "subtitle": "In Theatres December 4"
+    }
+  },
+  {
+    "id": "1565687912203288706",
+    "config_version": 2,
+    "starts_at": "2026-11-12T18:00:00+00:00",
+    "expires_at": "2026-11-19T07:59:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://www.asphaltgame.com/",
+      "id": "1124351901702570034",
+      "name": "Asphalt Legends"
+    },
+    "assets": {
+      "hero": "quests/1565687912203288706/1565693296326480012.jpg",
+      "quest_bar_hero_blurhash": "0AgKHIBwZYmnZohmeWmQpwrFiQ==",
+      "quest_bar_hero": "quests/1565687912203288706/1565693212977275020.jpg",
+      "quest_bar_hero_video": "quests/1565687912203288706/1565693477025611807_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1565687912203288706/1565693025143881769.png",
+      "game_tile_dark": "quests/1565687912203288706/1565693025143881769.png",
+      "logotype_light": "quests/1565687912203288706/1565693108111544330.png",
+      "logotype_dark": "quests/1565687912203288706/1565693108019134604.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Asphalt Legends",
+      "game_title": "Asphalt Legends",
+      "game_publisher": "Gameloft"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "type": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1124351901702570034"
+            }
+          ]
+        },
+        "PLAY_ON_XBOX": {
+          "type": "PLAY_ON_XBOX",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1124351901702570034"
+            }
+          ],
+          "external_ids": [
+            "1715349030"
+          ]
+        },
+        "PLAY_ON_PLAYSTATION": {
+          "type": "PLAY_ON_PLAYSTATION",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1124351901702570034"
+            }
+          ],
+          "external_ids": [
+            "CUSA44116_00",
+            "PPSA17296_00"
+          ]
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 Orbs",
+            "name_with_article": "700 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 700,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2026-12-19T07:59:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.asphaltgame.com/",
+      "button_label": "Play Now"
+    }
   }
 ]
