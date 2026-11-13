@@ -4214,5 +4214,33 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-guild-spaces",
+    "title": "Guild spaces",
+    "hash_key": null,
+    "platforms": [
+      "bot"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0.5,
+        "to": 1.5,
+        "ranges": [
+          "0 - 50",
+          "200 - 300"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 1.5,
+        "to": 2.5,
+        "ranges": [
+          "50 - 200",
+          "300 - 400"
+        ]
+      }
+    ]
   }
 ]
