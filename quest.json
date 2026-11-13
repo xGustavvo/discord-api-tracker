@@ -27470,5 +27470,89 @@
       "link": "https://akendfield.gryphline.com/d27t/V1D6DPQ",
       "button_label": "Play Now"
     }
+  },
+  {
+    "id": "1564734990418444441",
+    "config_version": 2,
+    "starts_at": "2026-11-13T17:00:00+00:00",
+    "expires_at": "2026-11-22T01:00:00+00:00",
+    "features": [
+      27,
+      36,
+      15
+    ],
+    "application": {
+      "link": "https://www.audible.com/pd/Exoplanet-Audiobook/B0HDFGKSTL",
+      "id": "1557799582732124221",
+      "name": "[Prod] Astronaut"
+    },
+    "assets": {
+      "hero": "quests/1564734990418444441/1570464676440182896.jpg",
+      "quest_bar_hero_blurhash": "WBgKCoIGl3x3cquYCJOqAqo=",
+      "quest_bar_hero": "quests/1564734990418444441/1570464676440182896.jpg",
+      "quest_bar_hero_video": "quests/1564734990418444441/1570464571251097740_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1564734990418444441/1570464317151911956.png",
+      "game_tile_dark": "quests/1564734990418444441/1570464317151911956.png",
+      "logotype_light": "quests/1564734990418444441/1570465763087880282.png",
+      "logotype_dark": "quests/1564734990418444441/1570465762681036841.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Audible's Exoplanet",
+      "game_title": "Listen to 'Exoplanet' now on Audible",
+      "game_publisher": "Audible"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "ACHIEVEMENT_IN_ACTIVITY": {
+          "type": "ACHIEVEMENT_IN_ACTIVITY",
+          "target": 4,
+          "applications": [
+            {
+              "id": "1557799582732124221"
+            }
+          ],
+          "event_name": "progress",
+          "messages": {
+            "task_title": "Astronaut",
+            "task_description": "Send a transmission across time and collect 700 orbs!"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 Orbs",
+            "name_with_article": "700 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 700,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2026-12-22T01:00:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.audible.com/pd/Exoplanet-Audiobook/B0HDFGKSTL",
+      "button_label": "Listen Now",
+      "subtitle": "Listen to 'Exoplanet' now on Audible"
+    }
   }
 ]
