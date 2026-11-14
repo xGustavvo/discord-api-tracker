@@ -4307,5 +4307,32 @@
         "ranges": []
       }
     ]
+  },
+  {
+    "id": "2026-10-game-profiles-server-preview",
+    "title": "Game profiles server preview",
+    "hash_key": null,
+    "platforms": [
+      "android",
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 10,
+        "ranges": [
+          "0 - 1000"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 10,
+        "ranges": [
+          "1000 - 2000"
+        ]
+      }
+    ]
   }
 ]
