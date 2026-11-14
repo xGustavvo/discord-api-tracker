@@ -2698,21 +2698,15 @@
     "variants": [
       {
         "variant": 0,
-        "from": 10,
-        "to": 25,
-        "ranges": [
-          "0 - 1000",
-          "2000 - 3500"
-        ]
+        "from": 50,
+        "to": 0,
+        "ranges": []
       },
       {
         "variant": 1,
-        "from": 10,
-        "to": 25,
-        "ranges": [
-          "1000 - 2000",
-          "3500 - 5000"
-        ]
+        "from": 50,
+        "to": 0,
+        "ranges": []
       }
     ]
   },
@@ -3229,25 +3223,15 @@
     "variants": [
       {
         "variant": 0,
-        "from": 15,
-        "to": 50,
-        "ranges": [
-          "0 - 1500",
-          "3000 - 4000",
-          "5000 - 6250",
-          "7500 - 8750"
-        ]
+        "from": 50,
+        "to": 0,
+        "ranges": []
       },
       {
         "variant": 1,
-        "from": 15,
-        "to": 50,
-        "ranges": [
-          "1500 - 3000",
-          "4000 - 5000",
-          "6250 - 7500",
-          "8750 - 10000"
-        ]
+        "from": 50,
+        "to": 0,
+        "ranges": []
       }
     ]
   },
@@ -3293,36 +3277,21 @@
     "variants": [
       {
         "variant": 0,
-        "from": 10,
-        "to": 32.75,
-        "ranges": [
-          "0 - 1000",
-          "3000 - 3600",
-          "4900 - 5750",
-          "7500 - 8325"
-        ]
+        "from": 33.33,
+        "to": 0,
+        "ranges": []
       },
       {
         "variant": 1,
-        "from": 10,
-        "to": 34,
-        "ranges": [
-          "1000 - 2000",
-          "3600 - 4275",
-          "5750 - 6650",
-          "8325 - 9150"
-        ]
+        "from": 33.33,
+        "to": 0,
+        "ranges": []
       },
       {
         "variant": 2,
-        "from": 10,
-        "to": 33.25,
-        "ranges": [
-          "2000 - 3000",
-          "4275 - 4900",
-          "6650 - 7500",
-          "9150 - 10000"
-        ]
+        "from": 33.33,
+        "to": 0,
+        "ranges": []
       }
     ]
   },
@@ -3418,19 +3387,15 @@
     "variants": [
       {
         "variant": 0,
-        "from": 0,
-        "to": 20,
-        "ranges": [
-          "0 - 2000"
-        ]
+        "from": 20,
+        "to": 0,
+        "ranges": []
       },
       {
         "variant": 1,
-        "from": 0,
-        "to": 20,
-        "ranges": [
-          "2000 - 4000"
-        ]
+        "from": 20,
+        "to": 0,
+        "ranges": []
       }
     ]
   },
@@ -4300,6 +4265,44 @@
         "ranges": [
           "0 - 10000"
         ]
+      }
+    ]
+  },
+  {
+    "id": "2026-10-android-mobile-onboarding-friction-negative-test",
+    "title": "Android mobile onboarding friction negative test",
+    "hash_key": null,
+    "platforms": [
+      "android"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 5,
+        "to": 0,
+        "ranges": []
+      },
+      {
+        "variant": 1,
+        "from": 5,
+        "to": 0,
+        "ranges": []
+      }
+    ]
+  },
+  {
+    "id": "2025-12-shadow-node-spike",
+    "title": "Shadow node spike",
+    "hash_key": null,
+    "platforms": [
+      "android"
+    ],
+    "variants": [
+      {
+        "variant": 1,
+        "from": 100,
+        "to": 0,
+        "ranges": []
       }
     ]
   }
