@@ -2224,23 +2224,15 @@
     "variants": [
       {
         "variant": 0,
-        "from": 5,
-        "to": 10,
-        "ranges": [
-          "0 - 250",
-          "500 - 750",
-          "1000 - 1500"
-        ]
+        "from": 10,
+        "to": 0,
+        "ranges": []
       },
       {
         "variant": 1,
-        "from": 5,
-        "to": 10,
-        "ranges": [
-          "250 - 500",
-          "750 - 1000",
-          "1500 - 2000"
-        ]
+        "from": 10,
+        "to": 0,
+        "ranges": []
       }
     ]
   },
@@ -4005,18 +3997,20 @@
     "variants": [
       {
         "variant": 0,
-        "from": 0,
-        "to": 1,
+        "from": 1,
+        "to": 5,
         "ranges": [
-          "0 - 100"
+          "0 - 100",
+          "200 - 600"
         ]
       },
       {
         "variant": 1,
-        "from": 0,
-        "to": 1,
+        "from": 1,
+        "to": 5,
         "ranges": [
-          "100 - 200"
+          "100 - 200",
+          "600 - 1000"
         ]
       }
     ]
@@ -4400,18 +4394,70 @@
     "variants": [
       {
         "variant": 1,
-        "from": 10,
-        "to": 50,
+        "from": 50,
+        "to": 100,
         "ranges": [
-          "5000 - 10000"
+          "0 - 10000"
         ]
       },
       {
         "variant": 2,
-        "from": 90,
-        "to": 50,
+        "from": 50,
+        "to": 0,
+        "ranges": []
+      }
+    ]
+  },
+  {
+    "id": "2026-08-find-coded-links-regex",
+    "title": "Find coded links regex",
+    "hash_key": null,
+    "platforms": [
+      "android"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 10,
+        "to": 0,
+        "ranges": []
+      },
+      {
+        "variant": 1,
+        "from": 10,
+        "to": 100,
         "ranges": [
-          "0 - 5000"
+          "0 - 10000"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-10-guilds-render-experiment",
+    "title": "Guilds render experiment",
+    "hash_key": null,
+    "platforms": [
+      "android"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 5,
+        "to": 10,
+        "ranges": [
+          "0 - 100",
+          "200 - 600",
+          "1000 - 1500"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 5,
+        "to": 10,
+        "ranges": [
+          "100 - 200",
+          "600 - 1000",
+          "1500 - 2000"
         ]
       }
     ]
