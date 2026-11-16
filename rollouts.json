@@ -4334,5 +4334,24 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-11-mobile-orb-redemption-thru-orders",
+    "title": "Mobile orb redemption thru orders",
+    "hash_key": null,
+    "platforms": [
+      "android",
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 5,
+        "ranges": [
+          "0 - 500"
+        ]
+      }
+    ]
   }
 ]
