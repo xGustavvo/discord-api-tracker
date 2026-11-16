@@ -3530,10 +3530,10 @@
     "variants": [
       {
         "variant": 1,
-        "from": 5,
-        "to": 10,
+        "from": 50,
+        "to": 100,
         "ranges": [
-          "0 - 1000"
+          "0 - 10000"
         ]
       }
     ]
@@ -4385,6 +4385,35 @@
         "to": 10,
         "ranges": [
           "1000 - 2000"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-09-hexagon-campaign-client",
+    "title": "Hexagon campaign client",
+    "hash_key": null,
+    "platforms": [
+      "android",
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 10,
+        "ranges": [
+          "8250 - 9150",
+          "9900 - 10000"
+        ]
+      },
+      {
+        "variant": 2,
+        "from": 0,
+        "to": 90,
+        "ranges": [
+          "0 - 8250",
+          "9150 - 9900"
         ]
       }
     ]
