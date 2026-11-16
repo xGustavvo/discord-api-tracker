@@ -4281,14 +4281,22 @@
       {
         "variant": 0,
         "from": 5,
-        "to": 0,
-        "ranges": []
+        "to": 10,
+        "ranges": [
+          "0 - 100",
+          "200 - 600",
+          "1000 - 1500"
+        ]
       },
       {
         "variant": 1,
         "from": 5,
-        "to": 0,
-        "ranges": []
+        "to": 10,
+        "ranges": [
+          "100 - 200",
+          "600 - 1000",
+          "1500 - 2000"
+        ]
       }
     ]
   },
@@ -4350,6 +4358,33 @@
         "to": 5,
         "ranges": [
           "0 - 500"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-11-payment-element-accordion-layout",
+    "title": "Payment element accordion layout",
+    "hash_key": null,
+    "platforms": [
+      "android",
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 10,
+        "ranges": [
+          "0 - 1000"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 10,
+        "ranges": [
+          "1000 - 2000"
         ]
       }
     ]
