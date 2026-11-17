@@ -4574,5 +4574,35 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-09-profile-widget-empty-state-suggestions",
+    "title": "Profile widget empty state suggestions",
+    "hash_key": null,
+    "platforms": [
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 33.33,
+        "to": 0,
+        "ranges": []
+      },
+      {
+        "variant": 1,
+        "from": 33.33,
+        "to": 0,
+        "ranges": []
+      },
+      {
+        "variant": 2,
+        "from": 33.33,
+        "to": 100,
+        "ranges": [
+          "0 - 10000"
+        ]
+      }
+    ]
   }
 ]
