@@ -30495,5 +30495,128 @@
       "button_label": "Learn More",
       "subtitle": "『GTAVI』11月19日登場。今すぐプレオーダー＆プリロードしよう"
     }
+  },
+  {
+    "id": "1569888628618952904",
+    "config_version": 2,
+    "starts_at": "2026-11-17T18:00:00+00:00",
+    "expires_at": "2026-11-23T01:00:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://www.hulu.com/series/9b7eb48e-e6a1-429a-a5af-6f7202b540d4",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "quests/1569888628618952904/1571321076925993041.jpg",
+      "hero_video": "quests/1569888628618952904/1571321037071712317_720.mp4",
+      "quest_bar_hero_blurhash": "0RgGHIYzdXdUqXdwd5hAkgRHmg==",
+      "quest_bar_hero": "quests/1569888628618952904/1571321136921321574.jpg",
+      "quest_bar_hero_video": "quests/1569888628618952904/1571321037071712317_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1569888628618952904/1571318317761957888.png",
+      "game_tile_dark": "quests/1569888628618952904/1571318317761957888.png",
+      "logotype_light": "quests/1569888628618952904/1571322352153665688.png",
+      "logotype_dark": "quests/1569888628618952904/1571322352250130473.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "The Circle on Hulu",
+      "game_title": "The Circle is back for a new era. Stream on Hulu and with Hulu on Disney+",
+      "game_publisher": "Hulu"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 29,
+          "assets": {
+            "video": {
+              "url": "quests/1569888628618952904/1571318332873777182_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1569888628618952904/1571321136921321574.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1569888628618952904/1571318332873777182_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1569888628618952904/1571321136921321574.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1569888628618952904/1571318332873777182.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1569888628618952904/1571321136921321574.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
+        },
+        "WATCH_VIDEO_ON_MOBILE": {
+          "type": "WATCH_VIDEO_ON_MOBILE",
+          "target": 29,
+          "assets": {
+            "video": {
+              "url": "quests/1569888628618952904/1571318330265042974_1080.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1569888628618952904/1571321136921321574.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1569888628618952904/1571318330265042974_720.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1569888628618952904/1571321136921321574.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1569888628618952904/1571318330265042974.m3u8",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1569888628618952904/1571321136921321574.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "200 Orbs",
+            "name_with_article": "200 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 200,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2026-12-23T01:00:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.hulu.com/series/9b7eb48e-e6a1-429a-a5af-6f7202b540d4",
+      "button_label": "Stream Now",
+      "subtitle": "The Circle is back for a new era. Stream on Hulu and with Hulu on Disney+"
+    }
   }
 ]
