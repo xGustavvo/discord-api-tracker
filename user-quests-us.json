@@ -1,112 +1,6 @@
 {
   "quests": [
     {
-      "id": "1547647018090893312",
-      "config": {
-        "id": "1547647018090893312",
-        "config_version": 2,
-        "starts_at": "2026-10-08T17:00:00+00:00",
-        "expires_at": "2026-10-18T00:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://store.steampowered.com/app/3055670/Risk_of_Rain_2_Hallowed_Concepts/",
-          "id": "1402418087793528862",
-          "name": "Risk of Rain 2"
-        },
-        "assets": {
-          "hero": "quests/1547647018090893312/1557073684320227349.jpg",
-          "quest_bar_hero_blurhash": "zvcFBIJ0iYiAhoifeHVadJ/3Rw==",
-          "quest_bar_hero": "quests/1547647018090893312/1557073499854471278.jpg",
-          "quest_bar_hero_video": "quests/1547647018090893312/1557073514840727562_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1547647018090893312/1557073259529375774.png",
-          "game_tile_dark": "quests/1547647018090893312/1557073259529375774.png",
-          "logotype_light": "quests/1547647018090893312/1557424676245082202.png",
-          "logotype_dark": "quests/1547647018090893312/1557424676517576844.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "ROR2 Hallowed Concepts",
-          "game_title": "Risk of Rain 2: Hallowed Concepts",
-          "game_publisher": "2K Games"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1402418087793528862"
-                }
-              ]
-            },
-            "PLAY_ON_XBOX": {
-              "type": "PLAY_ON_XBOX",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1402418087793528862"
-                }
-              ]
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1402418087793528862"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 3,
-              "sku_id": "1556767647742558309",
-              "asset": "quests/1547647018090893312/1556767764813844480.mp4",
-              "asset_video": null,
-              "messages": {
-                "name": "Acolyte Survivor Avatar Decoration",
-                "name_with_article": "an Acolyte Survivor Avatar Decoration",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "expires_at": "2026-12-17T00:00:00+00:00",
-              "expires_at_premium": null,
-              "expiration_mode": 3
-            }
-          ],
-          "rewards_expire_at": "2026-11-17T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://store.steampowered.com/app/3055670/Risk_of_Rain_2_Hallowed_Concepts/",
-          "button_label": "Play Now"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "ad_context": null,
-      "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKd0V5SFBIQy9Nbms4YmdpYUtRS0txSGU5d1JENkFEeHZMQWdrOS9jV0Jyd3FiT2lOb2VUaVUwRkFBRlM5SWZVYWlUZ0loWjVqQ3UzdkNGMXROTlJ1VGppck5Oa0tOOG9WRytxL2ljUXpFUzkzUXdzSytKWHVtaTRMK2I1VVVrenIxaE1JY2VoajBSK2N4N1M5SjNOZWhKUnRubFh5dmo2eGgzTFF2azFuc2tTZ294bWZzWExVUWR4REMwUWVOd3duWk8yND0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJWGhaVWtISG5lRjF4RXZYTzNxd0ZCTE9INjVHWHJBcXhDODBnS0F1ektsSTJmWnR3RU5lMVFjZWxGSTJ5L3RHTEFWQVdnUnJWTVhRcUJmbDhmZDFqV0tycERmdW1kZzlEb09Eb05yNTdQYmgxTFZDcWsveVhNU3dlTHI2VFJ0aUF2YnZIV05FQXNrdUFXTC9DWkt0bnhvNWxHVkFaTVUwcGRzZlg0TjFNVlA5TElOSzlQIn0="
-    },
-    {
       "id": "1553154139435835392",
       "config": {
         "id": "1553154139435835392",
@@ -241,8 +135,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKd0V5SFBIQy9Nbms4YmdpYUtRS0txSGU5d1JENkFEeHZMQWdrOS9jV0Jyd3FiT2lOb2VUaVUwRkFBRlM5SWZVYWlUZ0loWjVqQ3UzdkNGMXROTlJ1VGppck5Oa0tOOG9WRytxL2ljUXpFUzkzUXdzSytKWHVtaTRMK2I1VVVrenIxaE1JY2VoajBSK2N4N1M5SjNOZWhKUnRubFh5dmo2eGgzTFF2azFuc2tTZ294bWZzWExVUWR4REMwUWVOd3duWk8yND0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJcnUyb2dvQy9rbzA1YWVHdHY4cGpKRFJtUGc1VThHUzFIejhwZWlpTWg0amFPNkNoY2lKWllnYWh4RUEzdXErNkZPREdtK3VKcDA0V1Vla1MwNUk0VHZOZmViRGt6RlpFRGt2aHY1OWpHU3dTbXBQeHE0VEplOWxzcWp4WmlPUkZzUkNGSWNSNjFMLy9DZk5CZnVYTForS2ZTZUlSaXpaVzQrVXkzSThZYytJOFZwNU5QIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKUUtVTEFwWFd3NUFJUk9ZYnhzQWJJME1uOS8vZXpvM0VWNFA3bm1zMkVNeUZ2MVFXWnhNWEFTRnp2cmwvbHRZT0tmc2hyUE5ISmU0OXVVZ2NFb1JUOTA1Q1lxd202OW5nR1NBZmdnOTMzZ0hHeFpYbktDQy9McXVEOXVoc0FGaFlHMEhjUysrQ1poK3kxTlVGVjdmTldMNE0rSGYrZXl6ZzhCQVFzTGtvRmNaUFIyNjFPbFdIM1pJMDZidDVnZGhzaGhzYz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKZmVuZTRpZzlLUmVwM1p5ejhBUmg1SlZlRlRncVlvT1lmMHBYM3BEUS9RYW9XZnh1YkovYS81dHRCTXEzSVowL2tvenlic1hPYVdmcys3S3IvRFltTGJnT3lkbVc3UWpIdkl4TlQzWHBzOG8wTmlwNlJmWEV3elV4TEFIUUhJQVBsRldSRTl0clhxVnY4YTZuS2lnbEZ2RmF1VEdoMG5PUWhzNjI3dkZ1K0pUYnRuU283In0="
     },
     {
       "id": "1553899592100085760",
@@ -373,8 +267,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKd0V5SFBIQy9Nbms4YmdpYUtRS0txSGU5d1JENkFEeHZMQWdrOS9jV0Jyd3FiT2lOb2VUaVUwRkFBRlM5SWZVYWlUZ0loWjVqQ3UzdkNGMXROTlJ1VGppck5Oa0tOOG9WRytxL2ljUXpFUzkzUXdzSytKWHVtaTRMK2I1VVVrenIxaE1JY2VoajBSK2N4N1M5SjNOZWhKUnRubFh5dmo2eGgzTFF2azFuc2tTZ294bWZzWExVUWR4REMwUWVOd3duWk8yND0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKUjFHTWp2dTRlTVJuUGlxb1J6K0dNYmFUR0F0ZzZQUHE2Qjhlcyt5a2UyVzJXN29CamNKMjFocHdONW8vSDBwRnhxVWZvL2xSbGxrSEV2NWJrSVM1QXZzQmtKOGh0NU5heGViOE0rSkNPdHNrVzk3Rm5MNWk4TjE2ZU5Uai94QmNlcHF4OS9ZT2dUd1ZycnVNQW84ZERsOEJ4TFVTdmtPWnIrSnBoNUxvRVpkT2V2c3VEIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKUUtVTEFwWFd3NUFJUk9ZYnhzQWJJME1uOS8vZXpvM0VWNFA3bm1zMkVNeUZ2MVFXWnhNWEFTRnp2cmwvbHRZT0tmc2hyUE5ISmU0OXVVZ2NFb1JUOTA1Q1lxd202OW5nR1NBZmdnOTMzZ0hHeFpYbktDQy9McXVEOXVoc0FGaFlHMEhjUysrQ1poK3kxTlVGVjdmTldMNE0rSGYrZXl6ZzhCQVFzTGtvRmNaUFIyNjFPbFdIM1pJMDZidDVnZGhzaGhzYz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKdEVudUlOZm9jUzB2TjRHVU1mQWp4bGVmcjZIb2dnZ01vc3czeTRuUVVHU28xMFBYT1FyUlFtSjhUb2t3dUNuNFIzR01GRG5NdFJ3dFg3dnhyWWFFYmY3WkxFZnBtSlg0M25oZUdLZFVSUytpY2JsdC9KK2JQR3k1OGhyU2lWbGlrcyt4dHNrOXpmczlkcS9weThuV3hNOW81RkRnUUp4ckk5VmpteEJYczljQ1pCUmZLIn0="
     },
     {
       "id": "1565687912203288706",
@@ -476,8 +370,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKd0V5SFBIQy9Nbms4YmdpYUtRS0txSGU5d1JENkFEeHZMQWdrOS9jV0Jyd3FiT2lOb2VUaVUwRkFBRlM5SWZVYWlUZ0loWjVqQ3UzdkNGMXROTlJ1VGppck5Oa0tOOG9WRytxL2ljUXpFUzkzUXdzSytKWHVtaTRMK2I1VVVrenIxaE1JY2VoajBSK2N4N1M5SjNOZWhKUnRubFh5dmo2eGgzTFF2azFuc2tTZ294bWZzWExVUWR4REMwUWVOd3duWk8yND0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLUnZiVDNRcVdPRy9tQjJQMThwRDJsbng4RjNYZUM0ZUhtRkl2blVQTkZieFY0Ym1FL0tyQUtndjhFbDJ5aTRyR3U4RnVYQUlFN2FRaG15dkRqc0lUakEyVm91VUlHdk5IN2JNRnBjSjhoTytPUjFsNVhjMXpMVUlNRmlscWdPL1M1NFFtWUdWZ1Fjd1EzODZQSmF6bjZBNlQ2MW5QOU5DT3RUcC9aY2hSYTBOcmc1bmFzIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKUUtVTEFwWFd3NUFJUk9ZYnhzQWJJME1uOS8vZXpvM0VWNFA3bm1zMkVNeUZ2MVFXWnhNWEFTRnp2cmwvbHRZT0tmc2hyUE5ISmU0OXVVZ2NFb1JUOTA1Q1lxd202OW5nR1NBZmdnOTMzZ0hHeFpYbktDQy9McXVEOXVoc0FGaFlHMEhjUysrQ1poK3kxTlVGVjdmTldMNE0rSGYrZXl6ZzhCQVFzTGtvRmNaUFIyNjFPbFdIM1pJMDZidDVnZGhzaGhzYz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJWVNrN1R3aHdhSHNGOWlWV0Nub1lEK0lQeENocGUrTnlKM3F3aDk0dEovczNGczB4TktsUUJ2OEYyRXRzVmhQelBQRWk1VnNTUU9RWHlmRDdTV2VYcCtEQ3A5NU5DUEd3WnJ6UTF5dHJ5Z01RTllGUHlweGFKMTNFd0hrbmNvbm9JM0NGMm9PbjErTitOREtPNk1jaWVtaVJWYXc2Zkl2QzRhUmZ2WVFuWE9Gc082ckRoIn0="
     },
     {
       "id": "1552735480024531076",
@@ -607,8 +501,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKd0V5SFBIQy9Nbms4YmdpYUtRS0txSGU5d1JENkFEeHZMQWdrOS9jV0Jyd3FiT2lOb2VUaVUwRkFBRlM5SWZVYWlUZ0loWjVqQ3UzdkNGMXROTlJ1VGppck5Oa0tOOG9WRytxL2ljUXpFUzkzUXdzSytKWHVtaTRMK2I1VVVrenIxaE1JY2VoajBSK2N4N1M5SjNOZWhKUnRubFh5dmo2eGgzTFF2azFuc2tTZ294bWZzWExVUWR4REMwUWVOd3duWk8yND0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKR0d0VE56Sm0yeThDdFZPOWd6SHRFZjJ2dFRBOURyYWpsTzFTT2M4d3M0bnFWSGcrM21ta243cGdxWm8zdml1QzkzcVJtRHJMMDdqM3VNNDAvc2VsWnlxdjlSZXMyZkpuSEVaWUtrUkJuaDh2RmFSNHR6aTMrZDNLOWdMTFVMUGlERDR0eVBJL2pCQjl5c1ZDazBmbGxoOFU5SVJWMHRndTl0NGZPR2s3bWxhTlFCbVFKIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKUUtVTEFwWFd3NUFJUk9ZYnhzQWJJME1uOS8vZXpvM0VWNFA3bm1zMkVNeUZ2MVFXWnhNWEFTRnp2cmwvbHRZT0tmc2hyUE5ISmU0OXVVZ2NFb1JUOTA1Q1lxd202OW5nR1NBZmdnOTMzZ0hHeFpYbktDQy9McXVEOXVoc0FGaFlHMEhjUysrQ1poK3kxTlVGVjdmTldMNE0rSGYrZXl6ZzhCQVFzTGtvRmNaUFIyNjFPbFdIM1pJMDZidDVnZGhzaGhzYz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMNmhVd3VCbjIvdjJqTmMyYnlQUXVDZ2crZHQ4RVNiVnFOdTgzSURKellaa1ZvL05CRjJEdHZXQWRUZHI5ekR4dmZhanNBV0l5TGFKbURlcHV0emtCbFNLK2UwcE5DYUY5RGZha1VCS2YveUZySDFkY1o0WC90VHl6c0hGcTR4WWIrRzhGSzlhV1dUOTRLbEZuN3M2aFRLVjVxRGtWcmtXa2NDSDUrbUVFYUd1dmxZYkpzIn0="
     },
     {
       "id": "1556778857481113610",
@@ -693,8 +587,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKd0V5SFBIQy9Nbms4YmdpYUtRS0txSGU5d1JENkFEeHZMQWdrOS9jV0Jyd3FiT2lOb2VUaVUwRkFBRlM5SWZVYWlUZ0loWjVqQ3UzdkNGMXROTlJ1VGppck5Oa0tOOG9WRytxL2ljUXpFUzkzUXdzSytKWHVtaTRMK2I1VVVrenIxaE1JY2VoajBSK2N4N1M5SjNOZWhKUnRubFh5dmo2eGgzTFF2azFuc2tTZ294bWZzWExVUWR4REMwUWVOd3duWk8yND0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJanRDaFdJOUtxaVBvOTZxTE54VGw0UVpPaXNkNWxDUnIzNElzQ1dmaFNrNWlacmJSc3VXTzlNMmNwMlRjb2U1T0hyRkJQdG9rRHdkc3Y0dlRvNVFkWGtuS2J5SHlMV0dscjZzNGVJR3E3NzRTdFFuRk1qS2lNYmloNmhSbjR6Zm4ycGlFeDMvN29WVXFXc2NxRTR2bnJDRzZwTVJvVjJndjlFQWZxb0Vha2Q4THhLLytXIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKUUtVTEFwWFd3NUFJUk9ZYnhzQWJJME1uOS8vZXpvM0VWNFA3bm1zMkVNeUZ2MVFXWnhNWEFTRnp2cmwvbHRZT0tmc2hyUE5ISmU0OXVVZ2NFb1JUOTA1Q1lxd202OW5nR1NBZmdnOTMzZ0hHeFpYbktDQy9McXVEOXVoc0FGaFlHMEhjUysrQ1poK3kxTlVGVjdmTldMNE0rSGYrZXl6ZzhCQVFzTGtvRmNaUFIyNjFPbFdIM1pJMDZidDVnZGhzaGhzYz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMdFVEd3NQV3dwSXAyaWF4dldQc0ZPRFRNTTdvdU5mNVNRYUJQcmgwK1o4eC9yaUpCRnVFaStCb3NmdXcvS2xOdmtmR2Fzb3hxYmpEZHVJUnd0QjdsOGZkRytJc01HR0VrdWFYOWZjUzR0OEpyVkMzeDFDbmw5M3V3b1J6THMyZDJNMlMveFU1UVFnSWJnOFRNOGE3K3gycHh3dVNzRjZ6Y3hxRjVuanNCVDNiQmhpcUNCIn0="
     },
     {
       "id": "1557935197906010122",
@@ -824,8 +718,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKd0V5SFBIQy9Nbms4YmdpYUtRS0txSGU5d1JENkFEeHZMQWdrOS9jV0Jyd3FiT2lOb2VUaVUwRkFBRlM5SWZVYWlUZ0loWjVqQ3UzdkNGMXROTlJ1VGppck5Oa0tOOG9WRytxL2ljUXpFUzkzUXdzSytKWHVtaTRMK2I1VVVrenIxaE1JY2VoajBSK2N4N1M5SjNOZWhKUnRubFh5dmo2eGgzTFF2azFuc2tTZ294bWZzWExVUWR4REMwUWVOd3duWk8yND0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKanNkTmExbXFWS2hrZjFXb085WkZ5T0ExdWlraXNPb0ZTQ2ZabmppQ2FTOGVYa1doN1hTN1VUdXBoSWNxaXk1TlFQbDlwM0xOQnFwVFlFVU1kYngvc0tJNjZqUEZ6cDRDdUtMVTAvZ1VyZ21vSVJRR25OMEx6eFp1OE1URjBxLzdneUJwbkxXZFAzNjZNckxIRWZKWC9rbTdZL2hBZ2haTHlFN211WVFJbThleVZhTWRqIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKUUtVTEFwWFd3NUFJUk9ZYnhzQWJJME1uOS8vZXpvM0VWNFA3bm1zMkVNeUZ2MVFXWnhNWEFTRnp2cmwvbHRZT0tmc2hyUE5ISmU0OXVVZ2NFb1JUOTA1Q1lxd202OW5nR1NBZmdnOTMzZ0hHeFpYbktDQy9McXVEOXVoc0FGaFlHMEhjUysrQ1poK3kxTlVGVjdmTldMNE0rSGYrZXl6ZzhCQVFzTGtvRmNaUFIyNjFPbFdIM1pJMDZidDVnZGhzaGhzYz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMb3Jqay9EeTBOam9oQ2dFNUdoRWxzeHN1S3lvU1l1TS9LaUk4OFVPVzh0UFBIVmUrWlpGU1FCcS9aTkRZTzJXdi9IZXJod2NIb0FheE9uL3I2anp3NEh4aHh3WWMxRXZoU1VlN3RRMnB6dnlaUkp3WXZuOHNsNHpiVjNiRkdZczUyeldKOEM5VWtFT1RjWFcrV1hjeGNXN3VyNXZqUWRLMUE1akYvN0lsaXA5VmIyLzRjIn0="
     },
     {
       "id": "1554696065704529930",
@@ -928,8 +822,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKd0V5SFBIQy9Nbms4YmdpYUtRS0txSGU5d1JENkFEeHZMQWdrOS9jV0Jyd3FiT2lOb2VUaVUwRkFBRlM5SWZVYWlUZ0loWjVqQ3UzdkNGMXROTlJ1VGppck5Oa0tOOG9WRytxL2ljUXpFUzkzUXdzSytKWHVtaTRMK2I1VVVrenIxaE1JY2VoajBSK2N4N1M5SjNOZWhKUnRubFh5dmo2eGgzTFF2azFuc2tTZ294bWZzWExVUWR4REMwUWVOd3duWk8yND0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJMkh2RXJwS0lEYUdaSFdCT3doQXE0aHB3ZlpVSUhyM3JmaE9ZNHlkd2k5bFhkQ1NsVm5qUFpUZ0M4YnJtS3dXOEVPTkFESGgwQ0RyOXo0Yy9CcW1wOGFHbjFlRThjRHpyLzliTkt4NnJWQjA5ZEpNSWJiWmhoNzFLZE41ZXRKcm9SSnY3d2MrYnY0Y29hcUcvUzAvNFN4Ny8yek44Z2hzbUNqcEtBeHZuRks1YmNRZXJpIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKUUtVTEFwWFd3NUFJUk9ZYnhzQWJJME1uOS8vZXpvM0VWNFA3bm1zMkVNeUZ2MVFXWnhNWEFTRnp2cmwvbHRZT0tmc2hyUE5ISmU0OXVVZ2NFb1JUOTA1Q1lxd202OW5nR1NBZmdnOTMzZ0hHeFpYbktDQy9McXVEOXVoc0FGaFlHMEhjUysrQ1poK3kxTlVGVjdmTldMNE0rSGYrZXl6ZzhCQVFzTGtvRmNaUFIyNjFPbFdIM1pJMDZidDVnZGhzaGhzYz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKbXJTV09sSGlBRHEvZ3IwTzUzenhJVFJRZmtxRENUZDM1Ry9vOHl1aDV0aTE4NHh0TUU1SmVZZEJTMFhMU29uOW5aaDFVZmNuN0wyQnNtbjFJWk0zVHV2RDQ4TVNrYlhYNDRLVkgzN1Y0Rys2NUZ4TDJrR1hCdE1WbndMTWxxQWxrbzV3a3NpQkhaZHQ0WjE5bkx1R096TCtmbU1CN0JwNjlQYSt0dDhGMS9qd0RMRzBEIn0="
     },
     {
       "id": "1560392603877249036",
@@ -1032,8 +926,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKd0V5SFBIQy9Nbms4YmdpYUtRS0txSGU5d1JENkFEeHZMQWdrOS9jV0Jyd3FiT2lOb2VUaVUwRkFBRlM5SWZVYWlUZ0loWjVqQ3UzdkNGMXROTlJ1VGppck5Oa0tOOG9WRytxL2ljUXpFUzkzUXdzSytKWHVtaTRMK2I1VVVrenIxaE1JY2VoajBSK2N4N1M5SjNOZWhKUnRubFh5dmo2eGgzTFF2azFuc2tTZ294bWZzWExVUWR4REMwUWVOd3duWk8yND0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJZFZZSERXVXVjdEpNSzZUdTN5VkxhZTNlNzhrRWNZVk1PZlVSQlMrdFVMR3NyS2NTS3Z4N0M2OEF1clpzTGMzS05NWm5KbmZZeUpZbld1UU5nQmhWSHdVSmVhTll2UGxPR0Q4akp0R0tyb0RrYWc5UlFVaGlIUHRzbXJGV2RLTTRzd3ZrT2N0cEhTZjM0RFhwTVJKUjJxdjgvcjZKYUI3TTI3VWdvcnE3RFVHenNmTElYIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKUUtVTEFwWFd3NUFJUk9ZYnhzQWJJME1uOS8vZXpvM0VWNFA3bm1zMkVNeUZ2MVFXWnhNWEFTRnp2cmwvbHRZT0tmc2hyUE5ISmU0OXVVZ2NFb1JUOTA1Q1lxd202OW5nR1NBZmdnOTMzZ0hHeFpYbktDQy9McXVEOXVoc0FGaFlHMEhjUysrQ1poK3kxTlVGVjdmTldMNE0rSGYrZXl6ZzhCQVFzTGtvRmNaUFIyNjFPbFdIM1pJMDZidDVnZGhzaGhzYz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLQWNNTFRzNitNazkzaFF4anBJcHNVcTQzWUl2Z0IvblRyUVcvQyt2KzJsUTRaQ2wrbEE1aWJaOVR6NmpZYSs4OHJ4MXFxcU5zRkdmaWNVZWR6a3NUdnJaeTdFZDIxV21ISFRCSXl4b2dNREhCdDllN2V1SUJyVC9JL0x1Z2xGYjVXbElPbjZ1SWV5MERsUzAzWDNMNDZLejR2ZGhUVnVHc2VHbExiNGZrMm9vRHMva09FIn0="
     },
     {
       "id": "1553157223117496330",
@@ -1120,140 +1014,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKd0V5SFBIQy9Nbms4YmdpYUtRS0txSGU5d1JENkFEeHZMQWdrOS9jV0Jyd3FiT2lOb2VUaVUwRkFBRlM5SWZVYWlUZ0loWjVqQ3UzdkNGMXROTlJ1VGppck5Oa0tOOG9WRytxL2ljUXpFUzkzUXdzSytKWHVtaTRMK2I1VVVrenIxaE1JY2VoajBSK2N4N1M5SjNOZWhKUnRubFh5dmo2eGgzTFF2azFuc2tTZ294bWZzWExVUWR4REMwUWVOd3duWk8yND0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLUzg4bEpGRjRrMXVzL0srZnYyVWRJRFRlckVSZjNsZEJmTm55OWFpYlIvVjJnVGZkdS9TSTZuR29XL3I3UFVmTERHMXlKTnl1SXVaeVNNcFo0VjBTTjBYNkl4cHZHOWh4Y2xGNHJyUWViYUpKZElrUHhON3JQSzJpZDl4Mm9vY2NSSy8vMC9ZQXAzSFhPYVZyQXpqRmxWR1k1eDNTWXFERnJKek1qZUZYNCt4dkJ1MHhIIn0="
-    },
-    {
-      "id": "1554989250322235533",
-      "config": {
-        "id": "1554989250322235533",
-        "config_version": 2,
-        "starts_at": "2026-10-08T00:00:00+00:00",
-        "expires_at": "2026-10-18T00:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://discord.com/safety-wellbeing",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1554989250322235533/1557543727516356608.jpg",
-          "hero_video": "quests/1554989250322235533/1555007525131259985_720.mp4",
-          "quest_bar_hero_blurhash": "zfUJHYAnqGd6eHiAe6Z3eLiDj074",
-          "quest_bar_hero": "quests/1554989250322235533/1557543727516356608.jpg",
-          "quest_bar_hero_video": "quests/1554989250322235533/1555007508236603412_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1554989250322235533/1555007101913268314.png",
-          "game_tile_dark": "quests/1554989250322235533/1555007101913268314.png",
-          "logotype_light": "quests/1554989250322235533/1555006847726002206.png",
-          "logotype_dark": "quests/1554989250322235533/1555006847772270682.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "World Mental Health Day",
-          "game_title": "World Mental Health Day",
-          "game_publisher": "Discord"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 24,
-              "assets": {
-                "video": {
-                  "url": "quests/1554989250322235533/1554990705502588958_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1554989250322235533/1555006612618481836.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1554989250322235533/1554990705502588958_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1554989250322235533/1555006612618481836.png"
-                },
-                "video_hls": {
-                  "url": "quests/1554989250322235533/1554990705502588958.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1554989250322235533/1555006612618481836.png"
-                }
-              },
-              "messages": {
-                "video_title": ""
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 24,
-              "assets": {
-                "video": {
-                  "url": "quests/1554989250322235533/1554990738956226661_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1554989250322235533/1555006612618481836.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1554989250322235533/1554990738956226661_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1554989250322235533/1555006612618481836.png"
-                },
-                "video_hls": {
-                  "url": "quests/1554989250322235533/1554990738956226661.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1554989250322235533/1555006612618481836.png"
-                }
-              },
-              "messages": {
-                "video_title": ""
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": 240
-            }
-          ],
-          "rewards_expire_at": "2026-11-17T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://discord.com/safety-wellbeing",
-          "button_label": "Learn More",
-          "subtitle": "Explore support options around the world"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "ad_context": null,
-      "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKd0V5SFBIQy9Nbms4YmdpYUtRS0txSGU5d1JENkFEeHZMQWdrOS9jV0Jyd3FiT2lOb2VUaVUwRkFBRlM5SWZVYWlUZ0loWjVqQ3UzdkNGMXROTlJ1VGppck5Oa0tOOG9WRytxL2ljUXpFUzkzUXdzSytKWHVtaTRMK2I1VVVrenIxaE1JY2VoajBSK2N4N1M5SjNOZWhKUnRubFh5dmo2eGgzTFF2azFuc2tTZ294bWZzWExVUWR4REMwUWVOd3duWk8yND0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKYU4rOUZzS3ppS1gyd1kvdXRqcVUvaXNoMzcwc1oyVmIzbnUxTmloMXdkRU9yZEZHMXFnZElhbUhrRHhNYnQybkVBcU1ISE1iTTQ0L2RSVHN2Zkl6V0ltWnZiYkJ5SEdXTjlta1BYUkx6czRYZFozYnJiMFFoQTVBdHd5YXhWb2ZzMHNpRFdyOVNtVTJ6YjR6UVFUMk5rbE0relMwbEdoVWNJQmxCRkhsMlAyRlBuZDFRIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKUUtVTEFwWFd3NUFJUk9ZYnhzQWJJME1uOS8vZXpvM0VWNFA3bm1zMkVNeUZ2MVFXWnhNWEFTRnp2cmwvbHRZT0tmc2hyUE5ISmU0OXVVZ2NFb1JUOTA1Q1lxd202OW5nR1NBZmdnOTMzZ0hHeFpYbktDQy9McXVEOXVoc0FGaFlHMEhjUysrQ1poK3kxTlVGVjdmTldMNE0rSGYrZXl6ZzhCQVFzTGtvRmNaUFIyNjFPbFdIM1pJMDZidDVnZGhzaGhzYz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMaHZiS0h4NUhLSEZXclB3eWl6Ni9WbXQwVFRhakd1WHJHY2dXQXRDOHpkZnh4TEVneTZsdy8yZEN2QVl2cklFV0RSaEZQNUJ3THBrcytsMTRuWCtHWllFZHpwc1VHKzBzZmQ5RG56aU9aUVZ4K1d2eTRIeVlCQXRWa1dzYWlEbXlvTm44UUd1Yml5ZEI1RThFM3dUVGdOS1V1dUxERVZlamd0TWN6UEo1UXhNTEpjYUdZIn0="
     },
     {
       "id": "1554689886835966094",
@@ -1348,8 +1110,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKd0V5SFBIQy9Nbms4YmdpYUtRS0txSGU5d1JENkFEeHZMQWdrOS9jV0Jyd3FiT2lOb2VUaVUwRkFBRlM5SWZVYWlUZ0loWjVqQ3UzdkNGMXROTlJ1VGppck5Oa0tOOG9WRytxL2ljUXpFUzkzUXdzSytKWHVtaTRMK2I1VVVrenIxaE1JY2VoajBSK2N4N1M5SjNOZWhKUnRubFh5dmo2eGgzTFF2azFuc2tTZ294bWZzWExVUWR4REMwUWVOd3duWk8yND0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJYTZHSUhtR3hvQzllNmdwaHA3eGdRZ1BJSUtiWW9UNjJjT0hmb0VFV2xiK3hoRTZtQnRzSTRlbUMyZXRIZXhvOGRWWW1BSjlNc1lIM0xReXZwRUxaaHpWOVRMOFJYeEtQeldyK0FvOW12K013MmtRNWxGb0tIOUx5Rk0rbTd2cHVjMnlaK3RDWWFMZ2YyY0FXVlUyeU5TVVpqT0RzbEE3Y0hpYXJrQ0g4ZURUNzdPdHM5In0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKUUtVTEFwWFd3NUFJUk9ZYnhzQWJJME1uOS8vZXpvM0VWNFA3bm1zMkVNeUZ2MVFXWnhNWEFTRnp2cmwvbHRZT0tmc2hyUE5ISmU0OXVVZ2NFb1JUOTA1Q1lxd202OW5nR1NBZmdnOTMzZ0hHeFpYbktDQy9McXVEOXVoc0FGaFlHMEhjUysrQ1poK3kxTlVGVjdmTldMNE0rSGYrZXl6ZzhCQVFzTGtvRmNaUFIyNjFPbFdIM1pJMDZidDVnZGhzaGhzYz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMZ08zUUFUV3U3YVpVOVRJNURmNFBROEJIVGtNNURUK2pHaEVFZElkcFUxTWNOSGVCYm93bHBNMWhkeVNKL2UxLytWc2g5bDh5TCs2M3M5NktQRy9ycFZSK295MHRzTkFaaFRkaXpIYnpHVnJxcG5ic0FyRXJiR0JBMW1XM3Q2UTRkMWRCSUFtcFRId1FVM3p6SjZPcVpyQnlYV29sV0Rwbmc3RE15N3N1YmZCalFSdHBwIn0="
     },
     {
       "id": "1562249301252645008",
@@ -1479,8 +1241,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKd0V5SFBIQy9Nbms4YmdpYUtRS0txSGU5d1JENkFEeHZMQWdrOS9jV0Jyd3FiT2lOb2VUaVUwRkFBRlM5SWZVYWlUZ0loWjVqQ3UzdkNGMXROTlJ1VGppck5Oa0tOOG9WRytxL2ljUXpFUzkzUXdzSytKWHVtaTRMK2I1VVVrenIxaE1JY2VoajBSK2N4N1M5SjNOZWhKUnRubFh5dmo2eGgzTFF2azFuc2tTZ294bWZzWExVUWR4REMwUWVOd3duWk8yND0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJNHQwYlZBRERBRW1zZmJFeGk3NC96aFhVS3M5ZFFnUGZCN3crazIvbktzWkZMamErQzZTcVgwV0FiL3FiRzdDbEcybjEwYlA2TE5Xdk4yQzcvR1ZaRGNjZzlGc290WHZGWXkvRUZqLzVqWjZBcG1POVQ3ZmtiRXZIOS9kemtFcythYjM1N3RYY1JsMGg1ckF4R1dUVDA0VFlQaGpqSnNaQlR2cDBmUDNJODR3R3R0RE5GIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKUUtVTEFwWFd3NUFJUk9ZYnhzQWJJME1uOS8vZXpvM0VWNFA3bm1zMkVNeUZ2MVFXWnhNWEFTRnp2cmwvbHRZT0tmc2hyUE5ISmU0OXVVZ2NFb1JUOTA1Q1lxd202OW5nR1NBZmdnOTMzZ0hHeFpYbktDQy9McXVEOXVoc0FGaFlHMEhjUysrQ1poK3kxTlVGVjdmTldMNE0rSGYrZXl6ZzhCQVFzTGtvRmNaUFIyNjFPbFdIM1pJMDZidDVnZGhzaGhzYz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJTkpWNExJNUlLMWFlblIvQW15NFBGdjRHa3M5Vk1ib2lBQldRZ3FZczd0bThQQW1lczg0bVNwTXhGelZheGZVck8xL0NzQlZPM2p5bXlvVkJqZmZGUXZrWW1FQTRnOU81RzVSZnRkTHd3UDVtUkN3VitMbC8yendQcXVqNEp1NzVoTktVOHJyaU1NZERsOWgvSmN2d25aWWZ4NmZBTmFDbEVkWFpBUm53RWRJbHRKejVJIn0="
     },
     {
       "id": "1567679380166156430",
@@ -1565,8 +1327,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKd0V5SFBIQy9Nbms4YmdpYUtRS0txSGU5d1JENkFEeHZMQWdrOS9jV0Jyd3FiT2lOb2VUaVUwRkFBRlM5SWZVYWlUZ0loWjVqQ3UzdkNGMXROTlJ1VGppck5Oa0tOOG9WRytxL2ljUXpFUzkzUXdzSytKWHVtaTRMK2I1VVVrenIxaE1JY2VoajBSK2N4N1M5SjNOZWhKUnRubFh5dmo2eGgzTFF2azFuc2tTZ294bWZzWExVUWR4REMwUWVOd3duWk8yND0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMZ2VmQ3dJNXBTSzVscEhKY2dRMkFpNS9qVjVTYStMeDZpaXpFOUg1ZlRkVGtUdDIzYml1eW5md3RFOUlzM1RWeFFvbUFxOW5wb3loMk5kL1hWcWNNRldDT2FRRk50Q1J4Rm55THBjYjZnbmMxSUJ1Qm4yclAvRUhWSlo2ZXdhOThjSEQ0ek1Pc3lmL2JXTGFJVGowa2hOK3luM2xWaEhWT3c3U1NTaDNMcmthS2g2WU02In0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKUUtVTEFwWFd3NUFJUk9ZYnhzQWJJME1uOS8vZXpvM0VWNFA3bm1zMkVNeUZ2MVFXWnhNWEFTRnp2cmwvbHRZT0tmc2hyUE5ISmU0OXVVZ2NFb1JUOTA1Q1lxd202OW5nR1NBZmdnOTMzZ0hHeFpYbktDQy9McXVEOXVoc0FGaFlHMEhjUysrQ1poK3kxTlVGVjdmTldMNE0rSGYrZXl6ZzhCQVFzTGtvRmNaUFIyNjFPbFdIM1pJMDZidDVnZGhzaGhzYz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdVVkQUgvTlhkMWlYc3UwS0QzNURLMnd6TDUvUlBQNENzbGpweWZ4RitON082NjI0dVBoNng5RnloaEcvUWlkMjM5dG01cGNvM2ZjYzRQS21HYlFLWnBOYnNaZ0c2T3pzaG53QU9jbzlDZGdPMDQvZ01YUUpPUjcycDJ5TTNJeWxBMVdETzdiNVNIYlhFQitKY3BoWVcwaloxSGxpV2c4VDhJZFo4dWRnVnJxYzh1ZUNiIn0="
     },
     {
       "id": "1569633416654094356",
@@ -1669,8 +1431,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKd0V5SFBIQy9Nbms4YmdpYUtRS0txSGU5d1JENkFEeHZMQWdrOS9jV0Jyd3FiT2lOb2VUaVUwRkFBRlM5SWZVYWlUZ0loWjVqQ3UzdkNGMXROTlJ1VGppck5Oa0tOOG9WRytxL2ljUXpFUzkzUXdzSytKWHVtaTRMK2I1VVVrenIxaE1JY2VoajBSK2N4N1M5SjNOZWhKUnRubFh5dmo2eGgzTFF2azFuc2tTZ294bWZzWExVUWR4REMwUWVOd3duWk8yND0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKcXRYRWhucUIwLzMwM3VSWEVFaWp2NGlXeUZyK2wwR1ltcWpHWElUMHAvSHR3RzhqNWJsNlh3K3hrYWtHRzBFTTJBeDBRcnJmRisxUjVRMHNhTlcrMmdJa1RqTk44dGZVYWZjZDA3cFFLTXFUaHR0ZWc5Ymk1ODFEbWpnVS80SjBKa213TDh3bHJDVHViVHVMNXNUY1hrSEhDbFJsK3JtU1NjeW9HdmJscWRJSjl3OXBvIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKUUtVTEFwWFd3NUFJUk9ZYnhzQWJJME1uOS8vZXpvM0VWNFA3bm1zMkVNeUZ2MVFXWnhNWEFTRnp2cmwvbHRZT0tmc2hyUE5ISmU0OXVVZ2NFb1JUOTA1Q1lxd202OW5nR1NBZmdnOTMzZ0hHeFpYbktDQy9McXVEOXVoc0FGaFlHMEhjUysrQ1poK3kxTlVGVjdmTldMNE0rSGYrZXl6ZzhCQVFzTGtvRmNaUFIyNjFPbFdIM1pJMDZidDVnZGhzaGhzYz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMemF4dHJBSEFOb2llblpGRXJ3RVRwSXpGMGRVYUorQlllS0VQYTE0N0JMQTJkVHlWN2J2a00xSy9LYnpXZXhtb0FmQmJ5ZWFpS1lPMjh4d3diWm1TRFV0Ulp0U1NRQUJUUk15YzF6UFMxbk13T2p6eVpCdjZpa1dwWGJ1RXdPT1UzSk1CQ2dwdzhFeWEzQ3ducGhPZVZCck1uM01LcXNycUM0VXp3UGx1blE4ZWNRK25NIn0="
     },
     {
       "id": "1562915304299044884",
@@ -1755,8 +1517,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKd0V5SFBIQy9Nbms4YmdpYUtRS0txSGU5d1JENkFEeHZMQWdrOS9jV0Jyd3FiT2lOb2VUaVUwRkFBRlM5SWZVYWlUZ0loWjVqQ3UzdkNGMXROTlJ1VGppck5Oa0tOOG9WRytxL2ljUXpFUzkzUXdzSytKWHVtaTRMK2I1VVVrenIxaE1JY2VoajBSK2N4N1M5SjNOZWhKUnRubFh5dmo2eGgzTFF2azFuc2tTZ294bWZzWExVUWR4REMwUWVOd3duWk8yND0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKMUtqWldLWGJrNWMwaHhHWVJoMUpZdlh6YXhWcUQ3b3huTEtxcEs2Y05HOVBqNHgrNDZDR0F3VWNJSXJnNzVyVUZWR1FmSFNJcDErSkFSRE5RNmkydC9xT3BrWnRDQ011cThGZ3VUNWE3djJwVndBVzFwdlNzSklmVkVSVCsxQTI5d2dqZUU4Y1UyRDlaSFFzTnZZbDdqekZqeWR1anZhR3p0WE9aRTVYSWdRQ2FTWm1JIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKUUtVTEFwWFd3NUFJUk9ZYnhzQWJJME1uOS8vZXpvM0VWNFA3bm1zMkVNeUZ2MVFXWnhNWEFTRnp2cmwvbHRZT0tmc2hyUE5ISmU0OXVVZ2NFb1JUOTA1Q1lxd202OW5nR1NBZmdnOTMzZ0hHeFpYbktDQy9McXVEOXVoc0FGaFlHMEhjUysrQ1poK3kxTlVGVjdmTldMNE0rSGYrZXl6ZzhCQVFzTGtvRmNaUFIyNjFPbFdIM1pJMDZidDVnZGhzaGhzYz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJbzZyVnA5OGsxSklHanRjbXFUYUpUeC9BTWZ6QXFocU5POE9oZDhISzhRYTNvQzdoTzhHYUdOZHk2aWVjUjErdk43a2J4cXY2TXp6V2RNSElTRG5ycm1EMEd6WFBvRGpDNW5JM3V3TFRFV096OXp5aGN0cmJCaFQxd3Y4dFRPdE1mWkpyazFoQkdmeDZadUUyMkpqSHozYWcxRjNRR3pIdFIzdGQ3ZDlsRkhYdTZhU0FUIn0="
     },
     {
       "id": "1565598409891651604",
@@ -1886,8 +1648,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKd0V5SFBIQy9Nbms4YmdpYUtRS0txSGU5d1JENkFEeHZMQWdrOS9jV0Jyd3FiT2lOb2VUaVUwRkFBRlM5SWZVYWlUZ0loWjVqQ3UzdkNGMXROTlJ1VGppck5Oa0tOOG9WRytxL2ljUXpFUzkzUXdzSytKWHVtaTRMK2I1VVVrenIxaE1JY2VoajBSK2N4N1M5SjNOZWhKUnRubFh5dmo2eGgzTFF2azFuc2tTZ294bWZzWExVUWR4REMwUWVOd3duWk8yND0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLaGJmTk9sckNZdXA1eGFGQ0t0bTlHbVRzNFdmZlNnVS9qeWpkMUFPU09yZldOZXpxVlJROG53d2hOUnZiWEZnQ1k0ZzIxekhVOHpQMktCL01lOVdYVHBXZHIzbnRqSWNnUnZiclVLUzZKUUc1OTFhMFpBSW1ZdXZ6aVMyWTc3RER0STRLb1Fpb25aMEhqMTVCY1RFeXJ2bWhvS0c1bnk5OCtlL2ptSWJsNE9WNy9lUHBVIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKUUtVTEFwWFd3NUFJUk9ZYnhzQWJJME1uOS8vZXpvM0VWNFA3bm1zMkVNeUZ2MVFXWnhNWEFTRnp2cmwvbHRZT0tmc2hyUE5ISmU0OXVVZ2NFb1JUOTA1Q1lxd202OW5nR1NBZmdnOTMzZ0hHeFpYbktDQy9McXVEOXVoc0FGaFlHMEhjUysrQ1poK3kxTlVGVjdmTldMNE0rSGYrZXl6ZzhCQVFzTGtvRmNaUFIyNjFPbFdIM1pJMDZidDVnZGhzaGhzYz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMVGFSN040bFpDaXMramFWMktaWWVaNG9udFhQMTlqazdqVEx6Nk5WbFV0SG1BQmRNNDhlaWJ3KzlPUWZzN2cwNy9sTEZPMGI0TThGWnNHd2VJMGV2V2t4SXpkQmtBM3p6RHdvQzZUUGFrSHRVbHFOSEhaMnhjYUo4cTFUakpUd3RLelZPWHBWMkQwQ2dRbDZNSlU0RFRlbnlYcjZDU0JBZDhQS09rdWJ1WDlwamM1VXRrIn0="
     },
     {
       "id": "1549142163487592600",
@@ -1993,8 +1755,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKd0V5SFBIQy9Nbms4YmdpYUtRS0txSGU5d1JENkFEeHZMQWdrOS9jV0Jyd3FiT2lOb2VUaVUwRkFBRlM5SWZVYWlUZ0loWjVqQ3UzdkNGMXROTlJ1VGppck5Oa0tOOG9WRytxL2ljUXpFUzkzUXdzSytKWHVtaTRMK2I1VVVrenIxaE1JY2VoajBSK2N4N1M5SjNOZWhKUnRubFh5dmo2eGgzTFF2azFuc2tTZ294bWZzWExVUWR4REMwUWVOd3duWk8yND0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJYmVSTGZLY2dIa3ZRQjRoQVkrMzQ3Y2EvWG1KNmM5Nk5jRy85VjhmaWc5bU1yYUtSOVA4NEJCeGJrNHNkdThMQ0ZFTnlPSGYzUmRPUFR2RElVS0kyTlVTeGpQZ0ZhUkRQZ01RU0x4b2FmVVpiRE01SXoremFqWGF4V3FKeW5OZjIydmU1MkdMNzlzQ0p3RTZtZ2o2Qlh5d2gyVUhkdnE3UGRWUDZxMlh6WUhkNUl3eVRZIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKUUtVTEFwWFd3NUFJUk9ZYnhzQWJJME1uOS8vZXpvM0VWNFA3bm1zMkVNeUZ2MVFXWnhNWEFTRnp2cmwvbHRZT0tmc2hyUE5ISmU0OXVVZ2NFb1JUOTA1Q1lxd202OW5nR1NBZmdnOTMzZ0hHeFpYbktDQy9McXVEOXVoc0FGaFlHMEhjUysrQ1poK3kxTlVGVjdmTldMNE0rSGYrZXl6ZzhCQVFzTGtvRmNaUFIyNjFPbFdIM1pJMDZidDVnZGhzaGhzYz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMVnZjb0tnbVFOUzZmd0Yyb3lPc1QxNGRiWkpDZkMyd0tPVVdQdVNZZVRVZ0xSQkpObjN5NDNKU1hyNGFhOGFEdnpFRGxDSWJObzVYQnYzQ1N1TjIwcE1YQnluYUJUMnJSWTFpNG9KbGcxaDRPbTdaTi83K1VYV202NjVORnFWenM1d1NpTS9jdXRZZXN5dFhTZExwOXZZMXBJRGhoUU5jNjAvV0VnOVRkSnFCMXVxM2wvIn0="
     },
     {
       "id": "1564651257845780511",
@@ -2079,8 +1841,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKd0V5SFBIQy9Nbms4YmdpYUtRS0txSGU5d1JENkFEeHZMQWdrOS9jV0Jyd3FiT2lOb2VUaVUwRkFBRlM5SWZVYWlUZ0loWjVqQ3UzdkNGMXROTlJ1VGppck5Oa0tOOG9WRytxL2ljUXpFUzkzUXdzSytKWHVtaTRMK2I1VVVrenIxaE1JY2VoajBSK2N4N1M5SjNOZWhKUnRubFh5dmo2eGgzTFF2azFuc2tTZ294bWZzWExVUWR4REMwUWVOd3duWk8yND0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLc2JNVG12YUhGWGcrajFOVkswcXJnQzBkSkw1eFNvWElDWnRJK1JaMFF6WGszeEJOUjF0MUN0MktoZmZ6U1QvZ0ovcnV6RzFsOG4xcG5DUUd2L0o1MEJ6M2pMZzNRaVdhNVluNjRkT1ZlR1RpclltVHNSMTRMWGR6WElkZjhGZ1doMFg2aHlLa3pVMkJZQ0VadGo3ZmQ1dCt4czY0TEZic3diRVFjOENFK1BQT00wWDZ5In0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKUUtVTEFwWFd3NUFJUk9ZYnhzQWJJME1uOS8vZXpvM0VWNFA3bm1zMkVNeUZ2MVFXWnhNWEFTRnp2cmwvbHRZT0tmc2hyUE5ISmU0OXVVZ2NFb1JUOTA1Q1lxd202OW5nR1NBZmdnOTMzZ0hHeFpYbktDQy9McXVEOXVoc0FGaFlHMEhjUysrQ1poK3kxTlVGVjdmTldMNE0rSGYrZXl6ZzhCQVFzTGtvRmNaUFIyNjFPbFdIM1pJMDZidDVnZGhzaGhzYz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdnFIazE5U2k2UXVJU2hHZ1dZcC9TL2tuejF5WHhKQUNMTUxuT2NoRkhSeExIbGVzNjJkR2EzMFdwcWhKYkh0SHZZeDhYOGpJTXpaRnNoVmJHU0IydGd2eFhVelQvMElpcGVIYnkzY1ZxKzk1QkNrTXdhemZzZE1PdXpwUVFLcnhSeVBEbkJqTWp5L1NPVDVNUkZBb3RtSXZYRElpTDM0WFJiQlRrTUYyWmdhWWhJSFV3In0="
     },
     {
       "id": "1552202240339611688",
@@ -2211,8 +1973,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKd0V5SFBIQy9Nbms4YmdpYUtRS0txSGU5d1JENkFEeHZMQWdrOS9jV0Jyd3FiT2lOb2VUaVUwRkFBRlM5SWZVYWlUZ0loWjVqQ3UzdkNGMXROTlJ1VGppck5Oa0tOOG9WRytxL2ljUXpFUzkzUXdzSytKWHVtaTRMK2I1VVVrenIxaE1JY2VoajBSK2N4N1M5SjNOZWhKUnRubFh5dmo2eGgzTFF2azFuc2tTZ294bWZzWExVUWR4REMwUWVOd3duWk8yND0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKdUxuVWcycm9NckViK3dTbGUxK0QyUngxR0Q1eWVnck9abU5kMndDMy9JdUdBMmRyUHI2OUt6bEN1YlBJUDZLYlVQMjR1RC9nYUltS0lBem5tZ1VEck1icWhrallTYlJ0WWRIeUs3OEphRmNUd1daaTIzb0ViZmVVaFVyWlhwdDZFZjlwb2dZTHJMSlV4RWlFNFFoaFRMbXphVDJiNktaSU4vMDJPVEZiMHYxR0MvTVJiIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKUUtVTEFwWFd3NUFJUk9ZYnhzQWJJME1uOS8vZXpvM0VWNFA3bm1zMkVNeUZ2MVFXWnhNWEFTRnp2cmwvbHRZT0tmc2hyUE5ISmU0OXVVZ2NFb1JUOTA1Q1lxd202OW5nR1NBZmdnOTMzZ0hHeFpYbktDQy9McXVEOXVoc0FGaFlHMEhjUysrQ1poK3kxTlVGVjdmTldMNE0rSGYrZXl6ZzhCQVFzTGtvRmNaUFIyNjFPbFdIM1pJMDZidDVnZGhzaGhzYz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLa2lyT0pMYVRLbWlkNjN2SEFPSXZ4TE13SERMcG1hWVF4MkdpSWJKVjRhTk5YWDVWMWpiR1VwRy9vYjE2RndiVFJPOTZhekZIYzdqcUU0ejNrSUhkRkYrMnAvT1hqVGxtWnRjOTdQZC9INU5tVWowNzNTdldpcTdDck40L3F4OThSNzVEUmdSdDlzRFFwZ29hZXlLTjR0a0tFREZpN1JWdzhQOGUzeUtScmdETnlXQTV6In0="
     },
     {
       "id": "1567288099795374120",
@@ -2342,8 +2104,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKd0V5SFBIQy9Nbms4YmdpYUtRS0txSGU5d1JENkFEeHZMQWdrOS9jV0Jyd3FiT2lOb2VUaVUwRkFBRlM5SWZVYWlUZ0loWjVqQ3UzdkNGMXROTlJ1VGppck5Oa0tOOG9WRytxL2ljUXpFUzkzUXdzSytKWHVtaTRMK2I1VVVrenIxaE1JY2VoajBSK2N4N1M5SjNOZWhKUnRubFh5dmo2eGgzTFF2azFuc2tTZ294bWZzWExVUWR4REMwUWVOd3duWk8yND0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMYmZIY0JaVDNTbUpFWUJSTFl0bXBOYW9IVlcxNzNSU3JrSHJ3MldDQ2dnWU1rSCtKOGRVR1ZvUDRselRZT2kxOW1UMXBnandsc1phcTRKbVhPZldzRjBpWWMwYlJsUnBWK2g5VGE5WWpxRTh2c1htOXVzdXhDVlpWY0l4R0pUOWdhTGpqTTEzRzZJQWdPN04vQUw2eXRqR21ObmhqZ2w2Tko4NGtFYVJ2SjZ4T2ZvK3lHIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKUUtVTEFwWFd3NUFJUk9ZYnhzQWJJME1uOS8vZXpvM0VWNFA3bm1zMkVNeUZ2MVFXWnhNWEFTRnp2cmwvbHRZT0tmc2hyUE5ISmU0OXVVZ2NFb1JUOTA1Q1lxd202OW5nR1NBZmdnOTMzZ0hHeFpYbktDQy9McXVEOXVoc0FGaFlHMEhjUysrQ1poK3kxTlVGVjdmTldMNE0rSGYrZXl6ZzhCQVFzTGtvRmNaUFIyNjFPbFdIM1pJMDZidDVnZGhzaGhzYz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMMnhtYXFoMTBpVWRlN1dScTgwTThxcXE4Ui9rRHlNTktuYWRvMVZmd3lVQlU3NHNPdHlJbW11ejdVcDQ3M1pMZ3pLUGJFSU1JS29STWU0VE1IaGFVMDBUNitXUzdhRitwTEV0alZzNk5iUHU2ODRaZGVjSC9WWVhDTEZnZ0x4dFR5Yml1Mi90WjVrUGRXeGZwZ2RhdFpTUVowN09lNU9RQUlCZFVleCtrYlRiN0hERFBjIn0="
     },
     {
       "id": "1565599842900643881",
@@ -2439,8 +2201,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKd0V5SFBIQy9Nbms4YmdpYUtRS0txSGU5d1JENkFEeHZMQWdrOS9jV0Jyd3FiT2lOb2VUaVUwRkFBRlM5SWZVYWlUZ0loWjVqQ3UzdkNGMXROTlJ1VGppck5Oa0tOOG9WRytxL2ljUXpFUzkzUXdzSytKWHVtaTRMK2I1VVVrenIxaE1JY2VoajBSK2N4N1M5SjNOZWhKUnRubFh5dmo2eGgzTFF2azFuc2tTZ294bWZzWExVUWR4REMwUWVOd3duWk8yND0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJOFF2N1IrNVFld3ZLb0tUbTNVUTBtdXNLOUFpcm1EWnp1ODlFOFVrR3A1N1owSFlpT2pqbGRRQ1ZNQ3FrR1o4R0QxS29vbW54U0dEaTdOaHJqUFRlSFRHNkoxUkYwNTZKM3B6R3N4L0pSd3V1YVJVeGpOZkJSRkQreWVydyszcjFyYndocHdYQzVremlOUTVETWViMTVGaVBVMWlGZ2dxMzdDK1B0bGI2KzI2RzIzaCttIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKUUtVTEFwWFd3NUFJUk9ZYnhzQWJJME1uOS8vZXpvM0VWNFA3bm1zMkVNeUZ2MVFXWnhNWEFTRnp2cmwvbHRZT0tmc2hyUE5ISmU0OXVVZ2NFb1JUOTA1Q1lxd202OW5nR1NBZmdnOTMzZ0hHeFpYbktDQy9McXVEOXVoc0FGaFlHMEhjUysrQ1poK3kxTlVGVjdmTldMNE0rSGYrZXl6ZzhCQVFzTGtvRmNaUFIyNjFPbFdIM1pJMDZidDVnZGhzaGhzYz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKUmpsU2hWZmpjQ3EvRHIrNjJXZ0VMQTlGTkVvTDYzZnNwaG5DWllrWjNOWktDT0EvdGFCZ3l6WEpTekdiUkk0cTBrL282a3c1ODZGcitub2ZETXZkb08xTGtXNkJZNXo2anI4dkRUdTk2ckhkU2VMbGtseU9WY3ZiRXlVVlFKSTQ0ZGFZZlBYcDFkcTJUSlJpVVpMNCsvaGlRREFab3c2QmpuTTIvYm5LTmZNYzlLNlNnIn0="
     },
     {
       "id": "1549143645842841640",
@@ -2546,8 +2308,142 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKd0V5SFBIQy9Nbms4YmdpYUtRS0txSGU5d1JENkFEeHZMQWdrOS9jV0Jyd3FiT2lOb2VUaVUwRkFBRlM5SWZVYWlUZ0loWjVqQ3UzdkNGMXROTlJ1VGppck5Oa0tOOG9WRytxL2ljUXpFUzkzUXdzSytKWHVtaTRMK2I1VVVrenIxaE1JY2VoajBSK2N4N1M5SjNOZWhKUnRubFh5dmo2eGgzTFF2azFuc2tTZ294bWZzWExVUWR4REMwUWVOd3duWk8yND0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLZ3c1V09ZMk02dVJXaXZxeDFvdTV2anRISmxNclI3U2syck9ZalVQQVp1Q2tFQUlvNWFMbVhnODduOVlPb24vcUpDLzZpS0tDODNOWTdnVlc4N2pjZ1oxMHROVFJGY2ZTNjAzRlRRZXg2eVNCdzdpOFlmSGFKSEMxUEQzVU4wS3lqVVdKZGdlRmJmcFYyVmV5YmhGaitqMU5zUkRvZUZvcGQ1WnZWMFYxWkVHTVNFcjRjIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKUUtVTEFwWFd3NUFJUk9ZYnhzQWJJME1uOS8vZXpvM0VWNFA3bm1zMkVNeUZ2MVFXWnhNWEFTRnp2cmwvbHRZT0tmc2hyUE5ISmU0OXVVZ2NFb1JUOTA1Q1lxd202OW5nR1NBZmdnOTMzZ0hHeFpYbktDQy9McXVEOXVoc0FGaFlHMEhjUysrQ1poK3kxTlVGVjdmTldMNE0rSGYrZXl6ZzhCQVFzTGtvRmNaUFIyNjFPbFdIM1pJMDZidDVnZGhzaGhzYz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKdXgrSTh6Y1EwYXhubE5oS0tvOE8xQzNOQXJJVjBqL2QzNHRycnJQL1Y4QnR4c0dvQy9IbmF1VFpQRzVtQkpnWDl2YUI1MnFQRldiNk4yQVZ1M3hvb0hNSGZLUkxHbENvNnZKOWp4d051NFJsMjFqT05RN0pQOCtOb0xmZ0o2bHpvR2s0c1VnZWxFcms0U2MxTlp2clRmR1lVTTVKcnppVXlhbnQvcTRkTUJ5TDBvSkhMIn0="
+    },
+    {
+      "id": "1552724802249433261",
+      "config": {
+        "id": "1552724802249433261",
+        "config_version": 2,
+        "starts_at": "2026-11-16T18:00:00+00:00",
+        "expires_at": "2026-11-26T01:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://2kgam.es/3RuZ5v9",
+          "id": "1531874750249566429",
+          "name": "NBA 2K"
+        },
+        "assets": {
+          "hero": "quests/1552724802249433261/1571933514872393888.jpg",
+          "quest_bar_hero_blurhash": "ZlcGJITHSZZwhXp0hXl3gIMIFw==",
+          "quest_bar_hero": "quests/1552724802249433261/1571933976057225336.jpg",
+          "quest_bar_hero_video": "quests/1552724802249433261/1571933290250768446_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1552724802249433261/1571931302582681812.png",
+          "game_tile_dark": "quests/1552724802249433261/1571931302582681812.png",
+          "logotype_light": "quests/1552724802249433261/1571932132769538129.png",
+          "logotype_dark": "quests/1552724802249433261/1571932166546264075.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "NBA 2K27 Vice City Edition",
+          "game_title": "It's a Vice City takeover during S3 of NBA 2K27.",
+          "game_publisher": "NBA 2K27"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 84,
+              "assets": {
+                "video": {
+                  "url": "quests/1552724802249433261/1571932366643925134_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1552724802249433261/1571932230027059322.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1552724802249433261/1571932366643925134_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1552724802249433261/1571932230027059322.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1552724802249433261/1571932366643925134.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1552724802249433261/1571932230027059322.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 84,
+              "assets": {
+                "video": {
+                  "url": "quests/1552724802249433261/1571932366643925134_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1552724802249433261/1571932230027059322.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1552724802249433261/1571932366643925134_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1552724802249433261/1571932230027059322.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1552724802249433261/1571932366643925134.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1552724802249433261/1571932230027059322.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 3,
+              "sku_id": "1570925242799497256",
+              "asset": "quests/1552724802249433261/1571256507062817071.mp4",
+              "asset_video": null,
+              "messages": {
+                "name": "NBA 2K27 Expert Player Medal",
+                "name_with_article": "a NBA 2K27 Expert Player Medal",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "expires_at": "2027-01-26T01:00:00+00:00",
+              "expires_at_premium": null,
+              "expiration_mode": 3
+            }
+          ],
+          "rewards_expire_at": "2026-12-26T01:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://2kgam.es/3RuZ5v9",
+          "button_label": "Learn More",
+          "subtitle": "It's a Vice City takeover during S3 of NBA 2K27."
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "ad_context": null,
+      "preview": false,
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKUUtVTEFwWFd3NUFJUk9ZYnhzQWJJME1uOS8vZXpvM0VWNFA3bm1zMkVNeUZ2MVFXWnhNWEFTRnp2cmwvbHRZT0tmc2hyUE5ISmU0OXVVZ2NFb1JUOTA1Q1lxd202OW5nR1NBZmdnOTMzZ0hHeFpYbktDQy9McXVEOXVoc0FGaFlHMEhjUysrQ1poK3kxTlVGVjdmTldMNE0rSGYrZXl6ZzhCQVFzTGtvRmNaUFIyNjFPbFdIM1pJMDZidDVnZGhzaGhzYz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLc0FsZjNzRHVncmg0a2p6RjRKV3YvcCt3cnZvajZzWWZCQlNBbnc5WWIzWXFnS29kbENxOXpNL2dOMGFYSFE5amxLdWp1eUd5ekRpenF4R2FHdkdpOWZ2alh1UFZDYjBpNTEyeDg1MEFjL0RWcHNMeXVub0lkVTBoVVV0NUszdUFYQjhYbG5TZ2hVcXJZRjljU1FYV1RGUWJEaHpMV1pwSWg0UnVBQ0VxcU5BbUlSMkswIn0="
     },
     {
       "id": "1552381793074675762",
@@ -2632,8 +2528,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKd0V5SFBIQy9Nbms4YmdpYUtRS0txSGU5d1JENkFEeHZMQWdrOS9jV0Jyd3FiT2lOb2VUaVUwRkFBRlM5SWZVYWlUZ0loWjVqQ3UzdkNGMXROTlJ1VGppck5Oa0tOOG9WRytxL2ljUXpFUzkzUXdzSytKWHVtaTRMK2I1VVVrenIxaE1JY2VoajBSK2N4N1M5SjNOZWhKUnRubFh5dmo2eGgzTFF2azFuc2tTZ294bWZzWExVUWR4REMwUWVOd3duWk8yND0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKb2lzSVQ1eS9sVW9CWkZHRklORFppQTZuaEE3cTBGeHNJSmFtbTVpOGN1d3d1WDVWSHl6KzMwaVlpbXczbmpkRlFuTnM1S3paemdUcWZvUGZtNFRaZjZDWFdFZjBlQjZsUTlId0U4dEdwa2ZBRzVGTGJvSFo2SEpDSVQrNGtJTkxYTjlFaXRRT0ZteFc4VDBseXBZUHlWRGlGQUdpQkFCZmRFaE5GOWhyOXRPdzdzWjR6In0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKUUtVTEFwWFd3NUFJUk9ZYnhzQWJJME1uOS8vZXpvM0VWNFA3bm1zMkVNeUZ2MVFXWnhNWEFTRnp2cmwvbHRZT0tmc2hyUE5ISmU0OXVVZ2NFb1JUOTA1Q1lxd202OW5nR1NBZmdnOTMzZ0hHeFpYbktDQy9McXVEOXVoc0FGaFlHMEhjUysrQ1poK3kxTlVGVjdmTldMNE0rSGYrZXl6ZzhCQVFzTGtvRmNaUFIyNjFPbFdIM1pJMDZidDVnZGhzaGhzYz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKWjN2WkhkN1QxZGxMTlp1QmJCUHJyUmdrSXZFbnluVGV2dGx5ZUY2SjFSQzRnZFltM20vQ3RYUzhCcCsxeS9KZUpVS2E4WFlodGpTaFBiMDhtRUdSdE9nK202TTRMeCtiQ0FYS1p2aGl4RE55VHdwU0drcVhhTGt4MG9ob2xudE5qNE1ybW4yNFhOa2NxL3R4K2tjRWZhQnNxWmh2eUJ6WUxXU0xBRXBJVXdnZVZVejhtIn0="
     },
     {
       "id": "1555080843502813245",
@@ -2727,8 +2623,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKd0V5SFBIQy9Nbms4YmdpYUtRS0txSGU5d1JENkFEeHZMQWdrOS9jV0Jyd3FiT2lOb2VUaVUwRkFBRlM5SWZVYWlUZ0loWjVqQ3UzdkNGMXROTlJ1VGppck5Oa0tOOG9WRytxL2ljUXpFUzkzUXdzSytKWHVtaTRMK2I1VVVrenIxaE1JY2VoajBSK2N4N1M5SjNOZWhKUnRubFh5dmo2eGgzTFF2azFuc2tTZ294bWZzWExVUWR4REMwUWVOd3duWk8yND0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKeVJKc1VIS2E3d3FDSTYyUGV4SWdTYTJUR0FYUkFYQ0kxUlBWb2w2VEtyYXRMOWVrTlA3b1lhVHVDTXVTcEtnTE1LZExBY2lVNytmUFMwY28yelIwckd4UmxVSER3Qng4aFlYUVUyOHdUOUhERGRQTjBoalNoWFpHMTk2YXQ0Qmw3cFJYUzRpUGs1ZlJValpMN3c5N0NNUUZKVGJyUWRXb1FJN2VCdmtIVlZCVkZnTHh0In0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKUUtVTEFwWFd3NUFJUk9ZYnhzQWJJME1uOS8vZXpvM0VWNFA3bm1zMkVNeUZ2MVFXWnhNWEFTRnp2cmwvbHRZT0tmc2hyUE5ISmU0OXVVZ2NFb1JUOTA1Q1lxd202OW5nR1NBZmdnOTMzZ0hHeFpYbktDQy9McXVEOXVoc0FGaFlHMEhjUysrQ1poK3kxTlVGVjdmTldMNE0rSGYrZXl6ZzhCQVFzTGtvRmNaUFIyNjFPbFdIM1pJMDZidDVnZGhzaGhzYz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKMkIxZXR1V3ZsZ2dDZ3NDaWo0TmZUOVhhaHJIRFZKYmVucVRDYmRXYWtyK01VdkE3aDR0REtScVduSXZjQVJZUTFEQXA5d0pISkFxcVhVKzZvMGVxbENueXZXWFMvQ0tXSEZIdHRFV0xZRVJrVXBHVXorbGxjd3hMU2xxY2l4ZzE4ZTZRMGx1dzlUU1NrS0hHT0Zjd2VoQjZ0OWdtZ0JmQTVma1pmYVBJdGZyalQwbEo2In0="
     },
     {
       "id": "1563257378751782974",
@@ -2858,8 +2754,94 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKd0V5SFBIQy9Nbms4YmdpYUtRS0txSGU5d1JENkFEeHZMQWdrOS9jV0Jyd3FiT2lOb2VUaVUwRkFBRlM5SWZVYWlUZ0loWjVqQ3UzdkNGMXROTlJ1VGppck5Oa0tOOG9WRytxL2ljUXpFUzkzUXdzSytKWHVtaTRMK2I1VVVrenIxaE1JY2VoajBSK2N4N1M5SjNOZWhKUnRubFh5dmo2eGgzTFF2azFuc2tTZ294bWZzWExVUWR4REMwUWVOd3duWk8yND0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMaE53TjdsRGVYOEp1ZkdIK05wazFFYmg2a0xvbHdqOHExb3RZS2tJNDhZVFI2ZWQrMzBFbDJpbWd2RFkxaytpMG1rS1d6LzMyQS96VXFmQVppampKdWdjMnhvSUt6WTUwMW9wbC82SVlYWktMd01XQVZGMWVhZlpwcDEzcUFGMjRRRmgydXc1TXg3V0QyQzNtcitkc3hTa3I5bk9vbW5WaC96b004OStQTHV2SnhCdm5TIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKUUtVTEFwWFd3NUFJUk9ZYnhzQWJJME1uOS8vZXpvM0VWNFA3bm1zMkVNeUZ2MVFXWnhNWEFTRnp2cmwvbHRZT0tmc2hyUE5ISmU0OXVVZ2NFb1JUOTA1Q1lxd202OW5nR1NBZmdnOTMzZ0hHeFpYbktDQy9McXVEOXVoc0FGaFlHMEhjUysrQ1poK3kxTlVGVjdmTldMNE0rSGYrZXl6ZzhCQVFzTGtvRmNaUFIyNjFPbFdIM1pJMDZidDVnZGhzaGhzYz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLakI0NGtZTVd3QXBLN2VUTE1uSFJnNElDeWRyTEJOU3NvK2RGMmdHL3p5VGQ1eWFJTjVqMkVVOGoyYmxKNlVKZ2htT1BwSTNKRklPeDlOM2Nvc1pKOFZrMTRkT050TXRvMGhFRFdjcXpqanJwUFlKUDJKWm9ESk15eTgxS3E3U1NTeHZVTHBxZVh4YXNYUWpzbnM3VWZHWDhCYnkway8wSXkzU2NLWTR0b0huWmtOVDlQIn0="
+    },
+    {
+      "id": "1570911530306773063",
+      "config": {
+        "id": "1570911530306773063",
+        "config_version": 2,
+        "starts_at": "2026-11-16T18:00:00+00:00",
+        "expires_at": "2026-11-26T01:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.roblox.com/games/126987974021910/Illegal-Soccer?gsrbx=1&ad_name=JQHLA154",
+          "id": "363445589247131668",
+          "name": "Roblox"
+        },
+        "assets": {
+          "hero": "quests/1570911530306773063/1570913270427160677.jpg",
+          "hero_video": "quests/1570911530306773063/1570913292560633919_720.mp4",
+          "quest_bar_hero_blurhash": "odYJOogHdIWUhlinFTCFBHU=",
+          "quest_bar_hero": "quests/1570911530306773063/1570913270427160677.jpg",
+          "quest_bar_hero_video": "quests/1570911530306773063/1570913292560633919_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1562915304299044884/1562916601886670980.png",
+          "game_tile_dark": "quests/1562915304299044884/1562916601861243000.png",
+          "logotype_light": "quests/1570911530306773063/1570913087559700590.png",
+          "logotype_dark": "quests/1570911530306773063/1570913087559700590.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Illegal Soccer",
+          "game_title": "Illegal Soccer on Roblox",
+          "game_publisher": "ROBLOX"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "363445589247131668"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": 840
+            }
+          ],
+          "rewards_expire_at": "2026-12-26T01:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.roblox.com/games/126987974021910/Illegal-Soccer?gsrbx=1&ad_name=JQHLA154",
+          "button_label": "Play Now"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "ad_context": null,
+      "preview": false,
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKUUtVTEFwWFd3NUFJUk9ZYnhzQWJJME1uOS8vZXpvM0VWNFA3bm1zMkVNeUZ2MVFXWnhNWEFTRnp2cmwvbHRZT0tmc2hyUE5ISmU0OXVVZ2NFb1JUOTA1Q1lxd202OW5nR1NBZmdnOTMzZ0hHeFpYbktDQy9McXVEOXVoc0FGaFlHMEhjUysrQ1poK3kxTlVGVjdmTldMNE0rSGYrZXl6ZzhCQVFzTGtvRmNaUFIyNjFPbFdIM1pJMDZidDVnZGhzaGhzYz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKM3ppd3VsV1RheDU2R0RMM2ZnWnNvUmxYZXdyRzNhcnp2bXp2R2RQNWxsR2c1OGcrNU1NOXo0Uk9rbUdtRHZFa1Y5d3ZKYkxyUVVHRTZFZlRINWxaclpUNlBjZTlCV2JPRG1JOHg5UTM3Y2VzbFhMUE9SYmpiajVGZ0pweFc2KzM5bWZjMVY0UE1DS1JSd0xpVVNkb1BrSVFEUkw2eTNWci9Cd0ZqYW1hNFBINTZCN1BLIn0="
     },
     {
       "id": "1565572924973518929",
@@ -2996,8 +2978,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKd0V5SFBIQy9Nbms4YmdpYUtRS0txSGU5d1JENkFEeHZMQWdrOS9jV0Jyd3FiT2lOb2VUaVUwRkFBRlM5SWZVYWlUZ0loWjVqQ3UzdkNGMXROTlJ1VGppck5Oa0tOOG9WRytxL2ljUXpFUzkzUXdzSytKWHVtaTRMK2I1VVVrenIxaE1JY2VoajBSK2N4N1M5SjNOZWhKUnRubFh5dmo2eGgzTFF2azFuc2tTZ294bWZzWExVUWR4REMwUWVOd3duWk8yND0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJWjlsMWdYTWtRRXc3RzlpdmUyblN5eUNDQ2RHVk5vaElQUzY3L2szV2FFSG13ZTVVZ3hoMGZYaGFlczJEa3pwVWw3RUVNS2NxUjNCVnl2L0FYVWtFR0llTEh6TGRkUmo2Qzk0Q2ZtNFNUWlhyVFNKV0U5S084NHhYZ21iRmRZWTZ1TVdRTlNHYlNqT1Fpbm1kOWJlR1dyNWtxQWw3RkcwRmpXZjFkaHBxd1h4eGdUZ2VWIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKUUtVTEFwWFd3NUFJUk9ZYnhzQWJJME1uOS8vZXpvM0VWNFA3bm1zMkVNeUZ2MVFXWnhNWEFTRnp2cmwvbHRZT0tmc2hyUE5ISmU0OXVVZ2NFb1JUOTA1Q1lxd202OW5nR1NBZmdnOTMzZ0hHeFpYbktDQy9McXVEOXVoc0FGaFlHMEhjUysrQ1poK3kxTlVGVjdmTldMNE0rSGYrZXl6ZzhCQVFzTGtvRmNaUFIyNjFPbFdIM1pJMDZidDVnZGhzaGhzYz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcUd5d0h4aG05ajM1bi9kaUQ4K0xuQnVjVTYrSVNaZnlSSTR4RVllV2lxL0xGcForVkZtblVwRGd1RE5sdU1WditCbldveStNYk1pOEVKV2ZUQ25ua1FpcUJVMHBWWVV0SCtNSkhBSHJQMDc5YVQ2akdpSWJEOXVDQU9wQnFHZXo4RDJLSnNOdWNQeURWaEtQZUE4WG1wK0NOeDFJeERINDV0S3ZIVElQaGxNeWMyRmxaIn0="
     },
     {
       "id": "1554683719422316636",
@@ -3091,8 +3073,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKd0V5SFBIQy9Nbms4YmdpYUtRS0txSGU5d1JENkFEeHZMQWdrOS9jV0Jyd3FiT2lOb2VUaVUwRkFBRlM5SWZVYWlUZ0loWjVqQ3UzdkNGMXROTlJ1VGppck5Oa0tOOG9WRytxL2ljUXpFUzkzUXdzSytKWHVtaTRMK2I1VVVrenIxaE1JY2VoajBSK2N4N1M5SjNOZWhKUnRubFh5dmo2eGgzTFF2azFuc2tTZ294bWZzWExVUWR4REMwUWVOd3duWk8yND0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJVlhIMUh2dUFpWlFYNG5RMlU4d3hUVEtkR09OUzNBK0J1TkNhRDBNL0ZuSFNVYVNaclF1SHFLTGhOa1lnTTN3bklFNXVJSW53cy9BZFFtelVNZ2MwWTRYbll2NHUvZmlVZjVjdWQ5WHNiTStlOCtGdVVTREhPaEZJaG5HU1hieXZHMjhQc3hmUjNSdzNIampLd3FGRVVxa2NQaDBsT1JYSnY4YzlKUmdkT1lZQW9SOUlnIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKUUtVTEFwWFd3NUFJUk9ZYnhzQWJJME1uOS8vZXpvM0VWNFA3bm1zMkVNeUZ2MVFXWnhNWEFTRnp2cmwvbHRZT0tmc2hyUE5ISmU0OXVVZ2NFb1JUOTA1Q1lxd202OW5nR1NBZmdnOTMzZ0hHeFpYbktDQy9McXVEOXVoc0FGaFlHMEhjUysrQ1poK3kxTlVGVjdmTldMNE0rSGYrZXl6ZzhCQVFzTGtvRmNaUFIyNjFPbFdIM1pJMDZidDVnZGhzaGhzYz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMUjNwMmVPdVcvUDZTMkZBSHBCK2FCY3IzOFQ1d1pkYmVCcm5NOUdoeit2dVg0d0ljYWhia2t0akhZZjBua3UrNEhlQlZyc3BlQUt5U1didHA5WXA2MDNEcHRqdXR6aUl6MTRtbTdqVEQ0MjVTTjVEUEcxbDRUaE55blV6dk5JWjlFOUl4SVRsT0JINEs0MjZpZzl4ZDg3bTRXK3JvVWxCL0daWGlOb0UvM3phOWFaY2Q2In0="
     },
     {
       "id": "1569534684185239673",
@@ -3222,8 +3204,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKd0V5SFBIQy9Nbms4YmdpYUtRS0txSGU5d1JENkFEeHZMQWdrOS9jV0Jyd3FiT2lOb2VUaVUwRkFBRlM5SWZVYWlUZ0loWjVqQ3UzdkNGMXROTlJ1VGppck5Oa0tOOG9WRytxL2ljUXpFUzkzUXdzSytKWHVtaTRMK2I1VVVrenIxaE1JY2VoajBSK2N4N1M5SjNOZWhKUnRubFh5dmo2eGgzTFF2azFuc2tTZ294bWZzWExVUWR4REMwUWVOd3duWk8yND0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMMEhuWW9WQkZlSmVqdlZINkNuZkU5VFNKTHlCb0JwWjl4cnNxZ0R6L3I2WGN5d2V4VUZjZGlkamF1K3FHdnIrNDI3QVQ1SitxclJlNGZPRlNHVTBFWVNuaDJTODFxRWpkNTRSak1ESURFVE93WWpjUFdBdm44K1h6SHMxNWtYRnlxcG03bXBwZENSS1VGMFpnUWd6bWlkMXJYVk9qeXJ3WVlQNEhhTVBtTUlTWWo3S0dsIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKUUtVTEFwWFd3NUFJUk9ZYnhzQWJJME1uOS8vZXpvM0VWNFA3bm1zMkVNeUZ2MVFXWnhNWEFTRnp2cmwvbHRZT0tmc2hyUE5ISmU0OXVVZ2NFb1JUOTA1Q1lxd202OW5nR1NBZmdnOTMzZ0hHeFpYbktDQy9McXVEOXVoc0FGaFlHMEhjUysrQ1poK3kxTlVGVjdmTldMNE0rSGYrZXl6ZzhCQVFzTGtvRmNaUFIyNjFPbFdIM1pJMDZidDVnZGhzaGhzYz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLYkRQQmNOb3dFOUFNSFhpQVpQV3UvVVlkNm9qZUpzbS80RUk4VnFGdlBBM0JJM1BjNGZYRDh3WWZTN1BTUWhPdllIVzlTNUlhb2ZHdWVKSEowcmFCSzRQRGNBRms5Mld1YlBEWHFpK050T0x3bzdQVVJhNkYvV1BiVjVYSVFGYUVldFhSRmp5K2o0am1yK25TT0pwUUhIbCtQaHNjUk1pMUliSjlramMxVVA2NkhPaWI0In0="
     },
     {
       "id": "1567441774820065380",
@@ -3258,7 +3240,7 @@
         },
         "messages": {
           "quest_name": "The Hunger Games Video",
-          "game_title": "IN THEATERS AND IMAX NOV 20",
+          "game_title": "IN THEATERS FRIDAY",
           "game_publisher": "Lionsgate"
         },
         "task_config_v2": {
@@ -3271,19 +3253,19 @@
                   "url": "quests/1567441774820065380/1567448750396280842_1080.mp4",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1567441774820065380/1567443299718004766.png"
+                  "thumbnail": "quests/1567441774820065380/1567443299923660800.png"
                 },
                 "video_low_res": {
                   "url": "quests/1567441774820065380/1567448750396280842_720.mp4",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1567441774820065380/1567443299718004766.png"
+                  "thumbnail": "quests/1567441774820065380/1567443299923660800.png"
                 },
                 "video_hls": {
                   "url": "quests/1567441774820065380/1567448750396280842.m3u8",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1567441774820065380/1567443299718004766.png"
+                  "thumbnail": "quests/1567441774820065380/1567443299923660800.png"
                 }
               },
               "messages": {
@@ -3349,15 +3331,15 @@
         "cta_config": {
           "link": "https://www.fandango.com/the-hunger-games-sunrise-on-the-reaping-2026-240138/movie-overview?cmp=ST_Lionsgate:HungerGamesSOTR:Discord",
           "button_label": "Get Tickets",
-          "subtitle": "IN THEATERS AND IMAX NOV 20"
+          "subtitle": "IN THEATERS FRIDAY"
         }
       },
       "user_status": null,
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKd0V5SFBIQy9Nbms4YmdpYUtRS0txSGU5d1JENkFEeHZMQWdrOS9jV0Jyd3FiT2lOb2VUaVUwRkFBRlM5SWZVYWlUZ0loWjVqQ3UzdkNGMXROTlJ1VGppck5Oa0tOOG9WRytxL2ljUXpFUzkzUXdzSytKWHVtaTRMK2I1VVVrenIxaE1JY2VoajBSK2N4N1M5SjNOZWhKUnRubFh5dmo2eGgzTFF2azFuc2tTZ294bWZzWExVUWR4REMwUWVOd3duWk8yND0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKUUhiZlNNcVM1WlJPTUNxaWdOb1luRTRXVVpYQnVlekk2c3lWSmE5Q1JaZHdaM0tVcm9UQ3ArOGtWaFZzV1Q4c1o4U1RRNCt3QXNXOCsvZnk0UzV2ck51WWZtMjRRa3AvcXdzdjIyenVrL2ozRmtGZ0RHYU5OVzhGbUpXTUZiRGRtUUFnenBBbUlRdHczVlJxbWJwaUhhMlkvWlF3S0E0NkpXMTJiKzNzOEZRTFF6em5JIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKUUtVTEFwWFd3NUFJUk9ZYnhzQWJJME1uOS8vZXpvM0VWNFA3bm1zMkVNeUZ2MVFXWnhNWEFTRnp2cmwvbHRZT0tmc2hyUE5ISmU0OXVVZ2NFb1JUOTA1Q1lxd202OW5nR1NBZmdnOTMzZ0hHeFpYbktDQy9McXVEOXVoc0FGaFlHMEhjUysrQ1poK3kxTlVGVjdmTldMNE0rSGYrZXl6ZzhCQVFzTGtvRmNaUFIyNjFPbFdIM1pJMDZidDVnZGhzaGhzYz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLZldqaGF6VGZHdEsrc1VIc1FYckVpSENQemZLS1dOK3BpY2lWVzhBRVNHWDVZL0d5NzRCeWIvSTgzeFVja1lEWnV2c3huRTJOakZteVFvbnV6aHhuUElkcWs5RloxUmR2VitBeGpKSHp1U1FRRW1DUm1MZ24xZ1d0akM4dDcyU0NPYXg5YmZkckdwQUUxNkZOUGI5dEJSRkNkSkFNd0pxSk9ZUmoxazFSZkVMZnczZHFQIn0="
     },
     {
       "id": "1552381063475499109",
@@ -3488,8 +3470,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKd0V5SFBIQy9Nbms4YmdpYUtRS0txSGU5d1JENkFEeHZMQWdrOS9jV0Jyd3FiT2lOb2VUaVUwRkFBRlM5SWZVYWlUZ0loWjVqQ3UzdkNGMXROTlJ1VGppck5Oa0tOOG9WRytxL2ljUXpFUzkzUXdzSytKWHVtaTRMK2I1VVVrenIxaE1JY2VoajBSK2N4N1M5SjNOZWhKUnRubFh5dmo2eGgzTFF2azFuc2tTZ294bWZzWExVUWR4REMwUWVOd3duWk8yND0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKTHFsOGRKZklYdm85OGtTek1MWHgrYkxtZEhBUmx3cmFCcHZiQnA0eVZrVWJSUXNPY1FuOThvb0JxdEpveCt5cHp0SzAwTkoydWJIRzVYREZOY0pSU21Td0VjeUl3akJGZGZGa3FEMFdqNm8xUnVQRG1iM1BRY202d0ZyQkJoRklqTExBWGdGQ3hoNVp2Q0dFblNzNTVnTGdCS3I4MXdMcWRKNUlRam5JU2NJb1UrSlBTIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKUUtVTEFwWFd3NUFJUk9ZYnhzQWJJME1uOS8vZXpvM0VWNFA3bm1zMkVNeUZ2MVFXWnhNWEFTRnp2cmwvbHRZT0tmc2hyUE5ISmU0OXVVZ2NFb1JUOTA1Q1lxd202OW5nR1NBZmdnOTMzZ0hHeFpYbktDQy9McXVEOXVoc0FGaFlHMEhjUysrQ1poK3kxTlVGVjdmTldMNE0rSGYrZXl6ZzhCQVFzTGtvRmNaUFIyNjFPbFdIM1pJMDZidDVnZGhzaGhzYz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLQXJVUFlJYmUweWV3SWFGM0UxN05DVjVVZlJGYjhTWm9Pem5YL3VjNTBnQ3M3VTNIRDQ2aVdTS1RTQjE0L290SEQvVVplYmNVWUVZSG1pUldBS0htaWJ2M0tFem9vREdPNmFvMFh2M3YyZk5ZNFZSN29XSmQxTlFCOVJwU282aktzbUFBYmpBRmI0a21jd2VXY0toUXZENnBWeTgxQ3paRjlKa3hqc1ZXSWRid0VOZW5aIn0="
     },
     {
       "id": "1564479754147594341",
@@ -3620,8 +3602,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKd0V5SFBIQy9Nbms4YmdpYUtRS0txSGU5d1JENkFEeHZMQWdrOS9jV0Jyd3FiT2lOb2VUaVUwRkFBRlM5SWZVYWlUZ0loWjVqQ3UzdkNGMXROTlJ1VGppck5Oa0tOOG9WRytxL2ljUXpFUzkzUXdzSytKWHVtaTRMK2I1VVVrenIxaE1JY2VoajBSK2N4N1M5SjNOZWhKUnRubFh5dmo2eGgzTFF2azFuc2tTZ294bWZzWExVUWR4REMwUWVOd3duWk8yND0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMSXZHV0tmQUhQdzJpbGRieDRRY01sZGYvZjNoU3B3WFRORlVub0tEZU5RSDFJTDZRM0FMTC9IYWQxZ01LT3FTZTdqVGlFKzIrSHBPTEZJclRpaWowaTJBYlR0Rm9QQTlabnBnNmVSNC84c0hYdWgxREZqWVd0Z1IzSktmc3I3cENtTTNyeGF1aEMrMU54NzhsdklUSUM5bW5XaW9JUFNJMXVLYkVqVjc4d2JkcHBXNEszIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKUUtVTEFwWFd3NUFJUk9ZYnhzQWJJME1uOS8vZXpvM0VWNFA3bm1zMkVNeUZ2MVFXWnhNWEFTRnp2cmwvbHRZT0tmc2hyUE5ISmU0OXVVZ2NFb1JUOTA1Q1lxd202OW5nR1NBZmdnOTMzZ0hHeFpYbktDQy9McXVEOXVoc0FGaFlHMEhjUysrQ1poK3kxTlVGVjdmTldMNE0rSGYrZXl6ZzhCQVFzTGtvRmNaUFIyNjFPbFdIM1pJMDZidDVnZGhzaGhzYz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLTE55Y3Z0S1BSY1hUbDIxZVQ3WkVJWlA4NFRLYTAreFZxOERIaUlLN2lBeDJqeDdONUtRdVZtRGlrUVFWeWEwb0U4TURtZWNoRjU3ZjdLTVhKZUkrdXBjQnRIYi9KcGVIY1hMWThJM0g1WFZGQkxCSFhaTEpueGcwam8veHBsSnN2bXJRaDFBaHlMQjBCK1pGZU1OY3hQbDJ5SnVGSTRFQ3FMdDQ3NkJFeEl3djB5bEVKIn0="
     },
     {
       "id": "1569637063341379687",
@@ -3715,8 +3697,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKd0V5SFBIQy9Nbms4YmdpYUtRS0txSGU5d1JENkFEeHZMQWdrOS9jV0Jyd3FiT2lOb2VUaVUwRkFBRlM5SWZVYWlUZ0loWjVqQ3UzdkNGMXROTlJ1VGppck5Oa0tOOG9WRytxL2ljUXpFUzkzUXdzSytKWHVtaTRMK2I1VVVrenIxaE1JY2VoajBSK2N4N1M5SjNOZWhKUnRubFh5dmo2eGgzTFF2azFuc2tTZ294bWZzWExVUWR4REMwUWVOd3duWk8yND0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLSlZrUWtJUHlQaEs5a05jNEN3Ui93cWxPTkYrUGhiVmhkVFRpQmlHT2QzV0t5cVZJQVcveFpWR2lDZVpwaUsrRmdZWGZOVGF6MHZJWmx0QWtmL2ZTWkNhNjVVZmxGcHFBOGRTVEM5ZVJEcnVuelNEa1FCQUpER0tuWi8zSThGWXA0Nm11czF5eXZ6eFd1MWRrTXUyUUUyelBvVll2TG1SbDdLdm5pSm9UZU04Und0SE82In0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKUUtVTEFwWFd3NUFJUk9ZYnhzQWJJME1uOS8vZXpvM0VWNFA3bm1zMkVNeUZ2MVFXWnhNWEFTRnp2cmwvbHRZT0tmc2hyUE5ISmU0OXVVZ2NFb1JUOTA1Q1lxd202OW5nR1NBZmdnOTMzZ0hHeFpYbktDQy9McXVEOXVoc0FGaFlHMEhjUysrQ1poK3kxTlVGVjdmTldMNE0rSGYrZXl6ZzhCQVFzTGtvRmNaUFIyNjFPbFdIM1pJMDZidDVnZGhzaGhzYz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKQm1FZmVmSjJGamNYbnJPd3MzRzljOWl3Sm1BOTAwU3RzQW1GcDcyRTNlQVlrczBpZUQyS2VYZHdtMEdITythZTA3MjhuaUJwSUQ0S09pcHEyRnU5eVJ5YkQvZ0dNOFhKWDI1eU5teDNzSU5nTkwzM0FsWk1lcmVtRVhWWnBaYmQwcGtzVjJkODJQK04vcHI2ZnlvNUd2Y0ZDV2NLc1FodFpNaUs3dDFDWThHamdVd0RQIn0="
     },
     {
       "id": "1559699706798407791",
@@ -3801,8 +3783,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKd0V5SFBIQy9Nbms4YmdpYUtRS0txSGU5d1JENkFEeHZMQWdrOS9jV0Jyd3FiT2lOb2VUaVUwRkFBRlM5SWZVYWlUZ0loWjVqQ3UzdkNGMXROTlJ1VGppck5Oa0tOOG9WRytxL2ljUXpFUzkzUXdzSytKWHVtaTRMK2I1VVVrenIxaE1JY2VoajBSK2N4N1M5SjNOZWhKUnRubFh5dmo2eGgzTFF2azFuc2tTZ294bWZzWExVUWR4REMwUWVOd3duWk8yND0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLWVcxa25sUHVJYVNrUXl0RTR0d1prRUtZMGdFMHpFc3BGS1dhL0N4K3d3NWY5WVk2OEZ0dDRmVXBuRDV4S1hxcUNZRkF3TjA4RDdhaUZ3V1krc2V4VXd2RjQyTFBQalJ3RWY4MDI0elBCYkN0a0VTdE93MnBJOVZYbkcyOW16RkhHOXhsQVc3U2YzY0ZOQ21iT1JYTzhIVHJTb1d4amcyVENkTTUvdEpsUFFQQ2NtMVI1In0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKUUtVTEFwWFd3NUFJUk9ZYnhzQWJJME1uOS8vZXpvM0VWNFA3bm1zMkVNeUZ2MVFXWnhNWEFTRnp2cmwvbHRZT0tmc2hyUE5ISmU0OXVVZ2NFb1JUOTA1Q1lxd202OW5nR1NBZmdnOTMzZ0hHeFpYbktDQy9McXVEOXVoc0FGaFlHMEhjUysrQ1poK3kxTlVGVjdmTldMNE0rSGYrZXl6ZzhCQVFzTGtvRmNaUFIyNjFPbFdIM1pJMDZidDVnZGhzaGhzYz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLVUpHUXUwVkRSb250dFIyOEE1T0I1c1N3SUNITGhtV0Y1a1FZR29BY2NFRG5GZzJ4MnpqbU8rU1RSd0FFV1dQczJyQ0cyNVNOOVBOWEtmOXBsR3pIL3BvTWQ2MW9NS05kUDh4THJVVjgzVGdUdGRkZFo0elJSalpPMzJMZkZ2RFJrcmhia2VtWTZwR1djamQwcFplRm5nRFZpbUlxTEJ6WE9iYWJBeE5XNUVBdUgrM01VIn0="
     },
     {
       "id": "1565590271301779568",
@@ -3894,8 +3876,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKd0V5SFBIQy9Nbms4YmdpYUtRS0txSGU5d1JENkFEeHZMQWdrOS9jV0Jyd3FiT2lOb2VUaVUwRkFBRlM5SWZVYWlUZ0loWjVqQ3UzdkNGMXROTlJ1VGppck5Oa0tOOG9WRytxL2ljUXpFUzkzUXdzSytKWHVtaTRMK2I1VVVrenIxaE1JY2VoajBSK2N4N1M5SjNOZWhKUnRubFh5dmo2eGgzTFF2azFuc2tTZ294bWZzWExVUWR4REMwUWVOd3duWk8yND0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLOVl1WmR4VFVqN0c5OUVsV05YUTQvVU5VVXNhK2dHUjdkbkY3VDQ5QTV1aVJSM1pxbWdsalJubVhDaUJtRmJud3QyN1grM3FKNm5GMVJCckp2SUtsSVo2VGo4SFNnekNzaGQ3ZUtsRWx4djZtZkZJaUtzTk9kcFZhTCtEenFlOUpmNy95SHFLdjNvYWtDTUFGQnhXcEtmUTlNZnJqLzlDRWNHdTRmQm5rTlQ5azJ5VTl3In0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKUUtVTEFwWFd3NUFJUk9ZYnhzQWJJME1uOS8vZXpvM0VWNFA3bm1zMkVNeUZ2MVFXWnhNWEFTRnp2cmwvbHRZT0tmc2hyUE5ISmU0OXVVZ2NFb1JUOTA1Q1lxd202OW5nR1NBZmdnOTMzZ0hHeFpYbktDQy9McXVEOXVoc0FGaFlHMEhjUysrQ1poK3kxTlVGVjdmTldMNE0rSGYrZXl6ZzhCQVFzTGtvRmNaUFIyNjFPbFdIM1pJMDZidDVnZGhzaGhzYz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLQThYNk9LWllQKytmLzlLREx4RTFnRWdFS2tVVFowRXNYTDl4TVNwMEtIOUdDMVZja0FwdnVBTGFMZHh1L1Ezcm5TbW0yL2pxaThrU2lLUlAwSUwwc1N2RWVWWUdQT1IvdW1qbTZOT3k4Y01XTU1CTzYxM0hiNUJ1STM4TXhGZ2NjdGVYQncxSGhDdHZJaDhLMWNqRlJqbTNxL2hoaTBiQVRhZUhMSVdBeCswbTRueFBqIn0="
     },
     {
       "id": "1555669093204500591",
@@ -4026,8 +4008,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKd0V5SFBIQy9Nbms4YmdpYUtRS0txSGU5d1JENkFEeHZMQWdrOS9jV0Jyd3FiT2lOb2VUaVUwRkFBRlM5SWZVYWlUZ0loWjVqQ3UzdkNGMXROTlJ1VGppck5Oa0tOOG9WRytxL2ljUXpFUzkzUXdzSytKWHVtaTRMK2I1VVVrenIxaE1JY2VoajBSK2N4N1M5SjNOZWhKUnRubFh5dmo2eGgzTFF2azFuc2tTZ294bWZzWExVUWR4REMwUWVOd3duWk8yND0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMVGZjSXp3WnhjY28yTHdLdm56eHFGWGtsekwrZldPQlVQeFN0VTY3OVlKNXRrTkMzcmpNMmZwM0E1eEN3R3BNb0crREwvL1F2dFB4bFo4dWFla3VOYm81ZGNQSDgraEtTSWZBVDJFOFRyK1pESVlPZW5yTGJCVUtUdkRFVTRqcjlkVG8yL1BJUkZUM0R2QzV1b3JyVUIzbGdadUdUS0NaZjdBS0dhY0RPQ2ZKT1JKZDRSIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKUUtVTEFwWFd3NUFJUk9ZYnhzQWJJME1uOS8vZXpvM0VWNFA3bm1zMkVNeUZ2MVFXWnhNWEFTRnp2cmwvbHRZT0tmc2hyUE5ISmU0OXVVZ2NFb1JUOTA1Q1lxd202OW5nR1NBZmdnOTMzZ0hHeFpYbktDQy9McXVEOXVoc0FGaFlHMEhjUysrQ1poK3kxTlVGVjdmTldMNE0rSGYrZXl6ZzhCQVFzTGtvRmNaUFIyNjFPbFdIM1pJMDZidDVnZGhzaGhzYz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLSEFOMGlsS0t2alc5MlFNemwyU3loS1FraTAyZTVrOHBCS3g1cmJZV3c3T3hmR1poVW5uUnh6ZDUyTjA0eFdmV1NtRU1QTnJTZzdOd1RxcW5aVlVOejFyZUk4MnY0QnFpWEFvRWRUbUlBZXhrdEJEQlAzdkNRdTdlRVpMbTJseVZZM2xjWm5NeDNwelNJa0FOUjI1Z0FtQzlLdklXNDZWQ3NqNURUS2JlbzlRejA5cG1GIn0="
     },
     {
       "id": "1563322864659202169",
@@ -4130,8 +4112,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKd0V5SFBIQy9Nbms4YmdpYUtRS0txSGU5d1JENkFEeHZMQWdrOS9jV0Jyd3FiT2lOb2VUaVUwRkFBRlM5SWZVYWlUZ0loWjVqQ3UzdkNGMXROTlJ1VGppck5Oa0tOOG9WRytxL2ljUXpFUzkzUXdzSytKWHVtaTRMK2I1VVVrenIxaE1JY2VoajBSK2N4N1M5SjNOZWhKUnRubFh5dmo2eGgzTFF2azFuc2tTZ294bWZzWExVUWR4REMwUWVOd3duWk8yND0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLSEdaTFhrU3JNeW9iVFFCL1VCSDhSMEhoN01sK2ZrR0ZTcHhrMEJldkxzSFVFZHVhMEx3WGc4R1M2c0ZIeGZLM0xwSjhIbTRBMWJSdVBVOExOTnVmemFxL3pVWlMvZ0ppbkJPTmhvZUZGSWxYbWlBeU9sbG9UTDlwQmlIWldkMktmM2k4K0IzaktKYzBCdUdZR21oSE1zWUxlQk1HT2lBSTlEU095L0ExdDBGQlplZldrIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKUUtVTEFwWFd3NUFJUk9ZYnhzQWJJME1uOS8vZXpvM0VWNFA3bm1zMkVNeUZ2MVFXWnhNWEFTRnp2cmwvbHRZT0tmc2hyUE5ISmU0OXVVZ2NFb1JUOTA1Q1lxd202OW5nR1NBZmdnOTMzZ0hHeFpYbktDQy9McXVEOXVoc0FGaFlHMEhjUysrQ1poK3kxTlVGVjdmTldMNE0rSGYrZXl6ZzhCQVFzTGtvRmNaUFIyNjFPbFdIM1pJMDZidDVnZGhzaGhzYz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJWTEwWFhvSkNZcEYxemMxZllXSlJJeVRMczdDckhwRW5aWWlHUXFwSnVxcTFBVld0OW5seHJUM3hGTnR6WnVlK1JHNTE0WDZQenp5MXc2NzFCNU1Ldk11cXhad2lDUDZtc3d5M3B3dzVKbVprME1TUjBSSlZ4Z245WjFCUkdDVkxUS3lZVHBkZ0xKS1pEMEx3ZkdJemhsYk5qTnNISExHMVBDM25pRDN1UDA2Z0lPSTRiIn0="
     },
     {
       "id": "1560184130673840250",
@@ -4226,8 +4208,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKd0V5SFBIQy9Nbms4YmdpYUtRS0txSGU5d1JENkFEeHZMQWdrOS9jV0Jyd3FiT2lOb2VUaVUwRkFBRlM5SWZVYWlUZ0loWjVqQ3UzdkNGMXROTlJ1VGppck5Oa0tOOG9WRytxL2ljUXpFUzkzUXdzSytKWHVtaTRMK2I1VVVrenIxaE1JY2VoajBSK2N4N1M5SjNOZWhKUnRubFh5dmo2eGgzTFF2azFuc2tTZ294bWZzWExVUWR4REMwUWVOd3duWk8yND0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKRmRCM2cvZGw0ZjdEa0wvV3NNdUFzdkdGL3Y2S3pGODZ1cU4vNXM4WUxXRXAzVFUvendFQ1VzRFdHV3NLT0h5ejZ1QndpSm1aWGx0UXhWTVFSc2trQ2xZQTFVbGlGL0xUY2pldEhTMzBMb3Z2VlYveDVZa2hSYm9QZy96OUNNMGJqNy9LVUg3RWhCYmcrNnlXREdoOUUrS0pySWFiTmV0RUNxY1lnYWdZR3dTYWJTd3JhIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKUUtVTEFwWFd3NUFJUk9ZYnhzQWJJME1uOS8vZXpvM0VWNFA3bm1zMkVNeUZ2MVFXWnhNWEFTRnp2cmwvbHRZT0tmc2hyUE5ISmU0OXVVZ2NFb1JUOTA1Q1lxd202OW5nR1NBZmdnOTMzZ0hHeFpYbktDQy9McXVEOXVoc0FGaFlHMEhjUysrQ1poK3kxTlVGVjdmTldMNE0rSGYrZXl6ZzhCQVFzTGtvRmNaUFIyNjFPbFdIM1pJMDZidDVnZGhzaGhzYz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLSDVvN3d4dWVSUVl4VGN3S1RZejVhM2dDK0lWNE50QjQvKzNRRUQzRGRBYWdvcEZ0MDJZamNkcHdFK1FVbzV6VjFMRllGZDJNc3BPMVd5ZXhNMlB1dzhiMjFZd3NZQ3lDVG1KcUljRGRuMjdxYXExVXF0VVZ6ZmRKNTV5UlpqMHVpUFBaSVNEQXZETzBkaDN5Wmk1KzZYZ0RjNXhsQmFTajZlWmJHWmxnVXd0cjlqampjIn0="
     }
   ],
   "excluded_quests": [
@@ -4259,10 +4241,19 @@
       "id": "1560389333956034571"
     },
     {
+      "id": "1570895926313095179"
+    },
+    {
       "id": "1552895954753945620"
     },
     {
       "id": "1552895020724527125"
+    },
+    {
+      "id": "1568040462269288469"
+    },
+    {
+      "id": "1568040711310282773"
     },
     {
       "id": "1555710921614163989"
@@ -4271,22 +4262,16 @@
       "id": "1558182573270634517"
     },
     {
-      "id": "1559695150228443156"
+      "id": "1568040941644816405"
     },
     {
-      "id": "1555718811208912917"
+      "id": "1559695150228443156"
     },
     {
       "id": "1552876032875560980"
     },
     {
       "id": "1562406097615323156"
-    },
-    {
-      "id": "1552769263335514132"
-    },
-    {
-      "id": "1562882129065410582"
     },
     {
       "id": "1539343821782126622"
@@ -4296,6 +4281,9 @@
     },
     {
       "id": "1555688599184211998"
+    },
+    {
+      "id": "1570892956238352417"
     },
     {
       "id": "1556758186453770271"
@@ -4325,6 +4313,9 @@
       "id": "1553913530225262633"
     },
     {
+      "id": "1567611163867619369"
+    },
+    {
       "id": "1565214355706875945"
     },
     {
@@ -4340,9 +4331,6 @@
       "id": "1552904206590156840"
     },
     {
-      "id": "1562883818254508073"
-    },
-    {
       "id": "1552771565991759922"
     },
     {
@@ -4352,13 +4340,13 @@
       "id": "1552891135125622834"
     },
     {
+      "id": "1552772780553011253"
+    },
+    {
       "id": "1560042472560787507"
     },
     {
       "id": "1555627291764330547"
-    },
-    {
-      "id": "1552772780553011253"
     },
     {
       "id": "1555718375492161596"
@@ -4403,13 +4391,16 @@
       "id": "1554639238346178640"
     },
     {
+      "id": "1570843893824618577"
+    },
+    {
       "id": "1565684623369838673"
     },
     {
-      "id": "1568037498372886608"
+      "id": "1565687563925196883"
     },
     {
-      "id": "1565687563925196883"
+      "id": "1568037498372886608"
     },
     {
       "id": "1562260965687300186"
@@ -4424,7 +4415,13 @@
       "id": "1568036992837484636"
     },
     {
+      "id": "1570882982095622235"
+    },
+    {
       "id": "1565684908595355741"
+    },
+    {
+      "id": "1568040098199511132"
     },
     {
       "id": "1568037471114240091"
@@ -4433,19 +4430,25 @@
       "id": "1568015615690678364"
     },
     {
+      "id": "1552769263335514132"
+    },
+    {
       "id": "1562173737434882150"
     },
     {
       "id": "1562305244216430702"
     },
     {
-      "id": "1567609063297130518"
+      "id": "1562882129065410582"
     },
     {
       "id": "1552869482471358576"
     },
     {
       "id": "1557974434269364336"
+    },
+    {
+      "id": "1567609063297130518"
     },
     {
       "id": "1565824572396277880"
@@ -4466,19 +4469,19 @@
       "id": "1568038338764611705"
     },
     {
-      "id": "1565847146605838466"
+      "id": "1553085045168939138"
     },
     {
       "id": "1565687137360416899"
+    },
+    {
+      "id": "1565847146605838466"
     },
     {
       "id": "1565688527361020035"
     },
     {
       "id": "1556300747434500227"
-    },
-    {
-      "id": "1553085045168939138"
     },
     {
       "id": "1562135550385852551"
@@ -4493,6 +4496,12 @@
       "id": "1562333156105789580"
     },
     {
+      "id": "1570888962699034767"
+    },
+    {
+      "id": "1570886049071235213"
+    },
+    {
       "id": "1556768172961570966"
     },
     {
@@ -4502,16 +4511,28 @@
       "id": "1562174323802898584"
     },
     {
+      "id": "1565839524045521056"
+    },
+    {
       "id": "1562169044583448737"
     },
     {
       "id": "1560042382072742050"
     },
     {
+      "id": "1567611962655772834"
+    },
+    {
+      "id": "1570866907249115307"
+    },
+    {
       "id": "1556757575213781163"
     },
     {
       "id": "1569829854499705004"
+    },
+    {
+      "id": "1570814059626889397"
     },
     {
       "id": "1567672330342240438"
@@ -4529,7 +4550,13 @@
       "id": "1553084092290171081"
     },
     {
+      "id": "1562883818254508073"
+    },
+    {
       "id": "1556747190242779347"
+    },
+    {
+      "id": "1555718811208912917"
     }
   ],
   "quest_enrollment_blocked_until": null,
