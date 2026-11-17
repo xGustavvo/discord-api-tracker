@@ -2985,19 +2985,38 @@
     "title": "Improved mobile shop loading",
     "hash_key": null,
     "platforms": [
-      "android",
-      "desktop"
+      "android"
     ],
     "variants": [
       {
         "variant": 0,
-        "from": 10,
+        "from": 0,
+        "to": 10,
+        "ranges": [
+          "0 - 250",
+          "500 - 750",
+          "1000 - 1500"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 10,
+        "ranges": [
+          "250 - 500",
+          "750 - 1000",
+          "1500 - 2000"
+        ]
+      },
+      {
+        "variant": 0,
+        "from": 5,
         "to": 0,
         "ranges": []
       },
       {
         "variant": 1,
-        "from": 10,
+        "from": 5,
         "to": 0,
         "ranges": []
       }
