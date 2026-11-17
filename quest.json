@@ -30618,5 +30618,128 @@
       "button_label": "Stream Now",
       "subtitle": "The Circle is back for a new era. Stream on Hulu and with Hulu on Disney+"
     }
+  },
+  {
+    "id": "1568025226791493682",
+    "config_version": 2,
+    "starts_at": "2026-11-17T19:00:00+00:00",
+    "expires_at": "2026-12-28T01:00:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://www.dominos.com/minecraft-dungeons-ii",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "quests/1568025226791493682/1569525618826022982.jpg",
+      "hero_video": "quests/1568025226791493682/1568406366048231434_720.mp4",
+      "quest_bar_hero_blurhash": "kAgKGogGfZZmmWiIA1AESJc=",
+      "quest_bar_hero": "quests/1568025226791493682/1569525618826022982.jpg",
+      "quest_bar_hero_video": "quests/1568025226791493682/1568406366048231434_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1568025226791493682/1568405937046298687.png",
+      "game_tile_dark": "quests/1568025226791493682/1568405936471678986.png",
+      "logotype_light": "quests/1568025226791493682/1568405982856482866.png",
+      "logotype_dark": "quests/1568025226791493682/1568405982860808343.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Domino's x Minecraft Dungeons II",
+      "game_title": "Domino's x Minecraft Dungeons II",
+      "game_publisher": "Domino's"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 14,
+          "assets": {
+            "video": {
+              "url": "quests/1568025226791493682/1568405883426316308_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1568025226791493682/1569525689525207142.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1568025226791493682/1568405883426316308_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1568025226791493682/1569525689525207142.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1568025226791493682/1568405883426316308.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1568025226791493682/1569525689525207142.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
+        },
+        "WATCH_VIDEO_ON_MOBILE": {
+          "type": "WATCH_VIDEO_ON_MOBILE",
+          "target": 14,
+          "assets": {
+            "video": {
+              "url": "quests/1568025226791493682/1568405883514527795_1080.mp4",
+              "width": 2160,
+              "height": 3840,
+              "thumbnail": "quests/1568025226791493682/1569525689525207142.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1568025226791493682/1568405883514527795_720.mp4",
+              "width": 2160,
+              "height": 3840,
+              "thumbnail": "quests/1568025226791493682/1569525689525207142.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1568025226791493682/1568405883514527795.m3u8",
+              "width": 2160,
+              "height": 3840,
+              "thumbnail": "quests/1568025226791493682/1569525689525207142.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "200 Orbs",
+            "name_with_article": "200 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 200,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2027-01-27T01:00:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.dominos.com/minecraft-dungeons-ii",
+      "button_label": "Learn More",
+      "subtitle": "Your perfect gaming companion"
+    }
   }
 ]
