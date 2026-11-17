@@ -2760,20 +2760,16 @@
     "variants": [
       {
         "variant": 0,
-        "from": 10,
-        "to": 25,
-        "ranges": [
-          "0 - 1000",
-          "2000 - 3500"
-        ]
+        "from": 50,
+        "to": 0,
+        "ranges": []
       },
       {
         "variant": 1,
-        "from": 10,
-        "to": 25,
+        "from": 50,
+        "to": 100,
         "ranges": [
-          "1000 - 2000",
-          "3500 - 5000"
+          "0 - 10000"
         ]
       }
     ]
@@ -2835,20 +2831,16 @@
     "variants": [
       {
         "variant": 0,
-        "from": 10,
-        "to": 25,
-        "ranges": [
-          "0 - 1000",
-          "2000 - 3500"
-        ]
+        "from": 50,
+        "to": 0,
+        "ranges": []
       },
       {
         "variant": 1,
-        "from": 10,
-        "to": 25,
+        "from": 50,
+        "to": 100,
         "ranges": [
-          "1000 - 2000",
-          "3500 - 5000"
+          "0 - 10000"
         ]
       }
     ]
@@ -4602,6 +4594,62 @@
         "ranges": [
           "0 - 10000"
         ]
+      }
+    ]
+  },
+  {
+    "id": "2026-10-media-viewer-improvements",
+    "title": "Media viewer improvements",
+    "hash_key": null,
+    "platforms": [
+      "android",
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 50,
+        "to": 25,
+        "ranges": [
+          "0 - 2500"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 25,
+        "ranges": [
+          "2500 - 5000"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-07-personal-widget",
+    "title": "Personal widget",
+    "hash_key": null,
+    "platforms": [
+      "android",
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 4.95,
+        "to": 0,
+        "ranges": []
+      },
+      {
+        "variant": 1,
+        "from": 4.95,
+        "to": 0,
+        "ranges": []
+      },
+      {
+        "variant": 2,
+        "from": 4.95,
+        "to": 0,
+        "ranges": []
       }
     ]
   }
