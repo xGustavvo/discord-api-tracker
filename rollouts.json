@@ -664,19 +664,15 @@
     "variants": [
       {
         "variant": 0,
-        "from": 10,
-        "to": 20,
-        "ranges": [
-          "0 - 2000"
-        ]
+        "from": 20,
+        "to": 0,
+        "ranges": []
       },
       {
         "variant": 1,
-        "from": 10,
-        "to": 20,
-        "ranges": [
-          "5000 - 7000"
-        ]
+        "from": 20,
+        "to": 0,
+        "ranges": []
       }
     ]
   },
@@ -3879,18 +3875,20 @@
     "variants": [
       {
         "variant": 0,
-        "from": 0,
-        "to": 15,
+        "from": 15,
+        "to": 25,
         "ranges": [
-          "0 - 1500"
+          "0 - 1500",
+          "3000 - 4000"
         ]
       },
       {
         "variant": 2,
-        "from": 0,
-        "to": 15,
+        "from": 15,
+        "to": 25,
         "ranges": [
-          "1500 - 3000"
+          "1500 - 3000",
+          "4000 - 5000"
         ]
       }
     ]
@@ -4561,10 +4559,10 @@
     "variants": [
       {
         "variant": 1,
-        "from": 0,
-        "to": 30,
+        "from": 30,
+        "to": 50,
         "ranges": [
-          "0 - 3000"
+          "0 - 5000"
         ]
       }
     ]
@@ -4678,6 +4676,53 @@
         "to": 1,
         "ranges": [
           "100 - 200"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-10-clips-default-on-geo",
+    "title": "Clips default on geo",
+    "hash_key": null,
+    "platforms": [
+      "android",
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 30,
+        "ranges": [
+          "0 - 3000"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-05-mobile-request-review-no-tti",
+    "title": "Mobile request review no tti",
+    "hash_key": null,
+    "platforms": [
+      "android"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 50.5,
+        "to": 50,
+        "ranges": [
+          "0 - 1000",
+          "2000 - 6000"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 49.5,
+        "to": 50,
+        "ranges": [
+          "1000 - 2000",
+          "6000 - 10000"
         ]
       }
     ]
