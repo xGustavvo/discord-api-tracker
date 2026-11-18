@@ -3574,13 +3574,13 @@
       },
       {
         "variant": 1,
-        "from": 42.5,
-        "to": 42,
+        "from": 41.4,
+        "to": 41.19,
         "ranges": [
           "25 - 100",
           "725 - 1300",
           "2950 - 3950",
-          "7450 - 10000"
+          "7450 - 9919"
         ]
       }
     ]
@@ -4482,24 +4482,24 @@
     "id": "2026-09-mobile-request-to-stream",
     "title": "Mobile request to stream",
     "hash_key": null,
-    "platforms": [
-      "bot"
-    ],
+    "platforms": [],
     "variants": [
       {
         "variant": 0,
-        "from": 0,
-        "to": 1,
+        "from": 1,
+        "to": 10,
         "ranges": [
-          "0 - 100"
+          "0 - 100",
+          "200 - 1100"
         ]
       },
       {
         "variant": 1,
-        "from": 0,
-        "to": 1,
+        "from": 1,
+        "to": 10,
         "ranges": [
-          "100 - 200"
+          "100 - 200",
+          "1100 - 2000"
         ]
       }
     ]
