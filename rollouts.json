@@ -4724,5 +4724,45 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-10-mobile-rtc-v2",
+    "title": "Mobile rtc v2",
+    "hash_key": null,
+    "platforms": [
+      "android"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 1,
+        "ranges": [
+          "0 - 100"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 1,
+        "ranges": [
+          "1000 - 1100"
+        ]
+      },
+      {
+        "variant": 2,
+        "from": 0,
+        "to": 1,
+        "ranges": [
+          "2000 - 2100"
+        ]
+      },
+      {
+        "variant": 0,
+        "from": 45,
+        "to": 0,
+        "ranges": []
+      }
+    ]
   }
 ]
