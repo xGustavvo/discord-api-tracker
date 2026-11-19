@@ -4666,18 +4666,20 @@
     "variants": [
       {
         "variant": 0,
-        "from": 0,
-        "to": 1,
+        "from": 1,
+        "to": 10,
         "ranges": [
-          "0 - 100"
+          "0 - 100",
+          "200 - 1100"
         ]
       },
       {
         "variant": 1,
-        "from": 0,
-        "to": 1,
+        "from": 1,
+        "to": 10,
         "ranges": [
-          "100 - 200"
+          "100 - 200",
+          "1100 - 2000"
         ]
       }
     ]
@@ -4693,10 +4695,10 @@
     "variants": [
       {
         "variant": 1,
-        "from": 0,
-        "to": 30,
+        "from": 30,
+        "to": 50,
         "ranges": [
-          "0 - 3000"
+          "0 - 5000"
         ]
       }
     ]
@@ -4766,6 +4768,46 @@
         "from": 45,
         "to": 0,
         "ranges": []
+      }
+    ]
+  },
+  {
+    "id": "2026-10-android-nitro-fetch",
+    "title": "Android nitro fetch",
+    "hash_key": null,
+    "platforms": [
+      "android"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 3,
+        "to": 5,
+        "ranges": [
+          "0 - 100",
+          "300 - 500",
+          "900 - 1100"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 3,
+        "to": 5,
+        "ranges": [
+          "100 - 200",
+          "500 - 700",
+          "1100 - 1300"
+        ]
+      },
+      {
+        "variant": 2,
+        "from": 3,
+        "to": 5,
+        "ranges": [
+          "200 - 300",
+          "700 - 900",
+          "1300 - 1500"
+        ]
       }
     ]
   }
