@@ -4841,5 +4841,31 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-11-mobile-did-background-app-native",
+    "title": "Mobile did background app native",
+    "hash_key": null,
+    "platforms": [
+      "android"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 1,
+        "ranges": [
+          "0 - 100"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 1,
+        "ranges": [
+          "100 - 200"
+        ]
+      }
+    ]
   }
 ]
