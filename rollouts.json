@@ -878,18 +878,16 @@
     ],
     "variants": [
       {
-        "variant": 1,
+        "variant": 2,
         "from": 100,
         "to": 0,
         "ranges": []
       },
       {
-        "variant": 2,
-        "from": 0,
-        "to": 100,
-        "ranges": [
-          "0 - 10000"
-        ]
+        "variant": 1,
+        "from": 100,
+        "to": 0,
+        "ranges": []
       }
     ]
   },
@@ -4521,18 +4519,20 @@
     "variants": [
       {
         "variant": 0,
-        "from": 0,
-        "to": 5,
+        "from": 5,
+        "to": 50,
         "ranges": [
-          "0 - 500"
+          "0 - 500",
+          "1000 - 5500"
         ]
       },
       {
         "variant": 1,
-        "from": 0,
-        "to": 5,
+        "from": 5,
+        "to": 50,
         "ranges": [
-          "500 - 1000"
+          "500 - 1000",
+          "5500 - 10000"
         ]
       }
     ]
@@ -4885,6 +4885,22 @@
         "to": 1,
         "ranges": [
           "0 - 100"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-10-guild-bulk-role-actions",
+    "title": "Guild bulk role actions",
+    "hash_key": null,
+    "platforms": [],
+    "variants": [
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 10,
+        "ranges": [
+          "0 - 1000"
         ]
       }
     ]
