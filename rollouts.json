@@ -5050,19 +5050,15 @@
     "variants": [
       {
         "variant": 0,
-        "from": 0,
-        "to": 0.01,
-        "ranges": [
-          "0 - 1"
-        ]
+        "from": 0.01,
+        "to": 0,
+        "ranges": []
       },
       {
         "variant": 1,
-        "from": 0,
-        "to": 0.01,
-        "ranges": [
-          "1 - 2"
-        ]
+        "from": 0.01,
+        "to": 0,
+        "ranges": []
       }
     ]
   },
@@ -5076,19 +5072,15 @@
     "variants": [
       {
         "variant": 0,
-        "from": 0,
-        "to": 0.01,
-        "ranges": [
-          "0 - 1"
-        ]
+        "from": 0.01,
+        "to": 0,
+        "ranges": []
       },
       {
         "variant": 1,
-        "from": 0,
-        "to": 0.01,
-        "ranges": [
-          "1 - 2"
-        ]
+        "from": 0.01,
+        "to": 0,
+        "ranges": []
       }
     ]
   }
