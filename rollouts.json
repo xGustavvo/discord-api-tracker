@@ -5039,5 +5039,57 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-11-phoenix-rollout",
+    "title": "Phoenix rollout",
+    "hash_key": null,
+    "platforms": [
+      "android"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 0.01,
+        "ranges": [
+          "0 - 1"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 0.01,
+        "ranges": [
+          "1 - 2"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-11-phoenix-switch-entrypoint",
+    "title": "Phoenix switch entrypoint",
+    "hash_key": null,
+    "platforms": [
+      "android"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 0.01,
+        "ranges": [
+          "0 - 1"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 0.01,
+        "ranges": [
+          "1 - 2"
+        ]
+      }
+    ]
   }
 ]
