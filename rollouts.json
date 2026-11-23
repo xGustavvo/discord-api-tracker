@@ -2317,22 +2317,16 @@
     "variants": [
       {
         "variant": 0,
-        "from": 15,
-        "to": 30,
-        "ranges": [
-          "0 - 1500",
-          "3000 - 4000",
-          "5000 - 5500"
-        ]
+        "from": 30,
+        "to": 0,
+        "ranges": []
       },
       {
         "variant": 1,
-        "from": 15,
-        "to": 30,
+        "from": 30,
+        "to": 100,
         "ranges": [
-          "1500 - 3000",
-          "4000 - 5000",
-          "5500 - 6000"
+          "0 - 10000"
         ]
       }
     ]
@@ -4533,10 +4527,10 @@
     "variants": [
       {
         "variant": 1,
-        "from": 0,
-        "to": 20,
+        "from": 20,
+        "to": 80,
         "ranges": [
-          "0 - 2000"
+          "0 - 8000"
         ]
       }
     ]
@@ -5139,6 +5133,62 @@
         "to": 100,
         "ranges": [
           "0 - 10000"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2025-10-desktop-communication-notifications-emoji",
+    "title": "Desktop communication notifications emoji",
+    "hash_key": null,
+    "platforms": [
+      "android",
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 12.5,
+        "to": 50,
+        "ranges": [
+          "0 - 1250",
+          "2500 - 6250"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 12.5,
+        "to": 50,
+        "ranges": [
+          "1250 - 2500",
+          "6250 - 10000"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-11-three-month-nitro-gifting-no-copy-change",
+    "title": "Three month nitro gifting no copy change",
+    "hash_key": null,
+    "platforms": [
+      "android",
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 5,
+        "ranges": [
+          "0 - 500"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 5,
+        "ranges": [
+          "500 - 1000"
         ]
       }
     ]
