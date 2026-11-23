@@ -4760,33 +4760,21 @@
     "variants": [
       {
         "variant": 0,
-        "from": 3,
-        "to": 5,
-        "ranges": [
-          "0 - 100",
-          "300 - 500",
-          "900 - 1100"
-        ]
+        "from": 5,
+        "to": 0,
+        "ranges": []
       },
       {
         "variant": 1,
-        "from": 3,
-        "to": 5,
-        "ranges": [
-          "100 - 200",
-          "500 - 700",
-          "1100 - 1300"
-        ]
+        "from": 5,
+        "to": 0,
+        "ranges": []
       },
       {
         "variant": 2,
-        "from": 3,
-        "to": 5,
-        "ranges": [
-          "200 - 300",
-          "700 - 900",
-          "1300 - 1500"
-        ]
+        "from": 5,
+        "to": 0,
+        "ranges": []
       }
     ]
   },
@@ -5183,6 +5171,33 @@
         "to": 5,
         "ranges": [
           "500 - 1000"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-11-game-stats-widget-skip-connect-modal",
+    "title": "Game stats widget skip connect modal",
+    "hash_key": null,
+    "platforms": [
+      "android",
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 10,
+        "ranges": [
+          "0 - 1000"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 10,
+        "ranges": [
+          "1000 - 2000"
         ]
       }
     ]
