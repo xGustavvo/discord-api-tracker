@@ -4874,18 +4874,18 @@
     "variants": [
       {
         "variant": 0,
-        "from": 5,
-        "to": 15,
+        "from": 15,
+        "to": 24.5,
         "ranges": [
-          "0 - 1500"
+          "0 - 2450"
         ]
       },
       {
         "variant": 1,
-        "from": 5,
-        "to": 15,
+        "from": 15,
+        "to": 25,
         "ranges": [
-          "5000 - 6500"
+          "5000 - 7500"
         ]
       }
     ]
@@ -5084,11 +5084,21 @@
     ],
     "variants": [
       {
-        "variant": 2,
+        "variant": 0,
         "from": 0,
         "to": 1,
         "ranges": [
-          "0 - 100"
+          "0 - 50",
+          "100 - 150"
+        ]
+      },
+      {
+        "variant": 2,
+        "from": 1,
+        "to": 9,
+        "ranges": [
+          "50 - 100",
+          "150 - 1000"
         ]
       }
     ]
@@ -5269,6 +5279,32 @@
         "to": 1,
         "ranges": [
           "100 - 200"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-11-norbs",
+    "title": "Norbs",
+    "hash_key": null,
+    "platforms": [
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 0.1,
+        "ranges": [
+          "500 - 510"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 14.9,
+        "ranges": [
+          "510 - 1500"
         ]
       }
     ]
