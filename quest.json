@@ -31237,2038 +31237,2779 @@
     }
   },
   {
-  "id": "1570893798513442817",
-  "config_version": 2,
-  "starts_at": "2026-11-18T04:00:00+00:00",
-  "expires_at": "2026-11-19T09:59:59+00:00",
-  "features": [15],
-  "application": {
-    "link": "https://discord.com/quest-home",
-    "id": "1445160676522856458",
-    "name": "Grand Theft Auto VI"
-  },
-  "assets": {
-    "hero": "quests/1570814059626889397/1570830415944487155.jpg",
-    "quest_bar_hero_blurhash": "lmgOJI5YmXd+VnaQenfPlveKWA==",
-    "quest_bar_hero": "quests/1570814059626889397/1570830339255828603.jpg",
-    "quest_bar_hero_video": "quests/1570814059626889397/1570830370616909844.mp4",
-    "game_tile": "PLACEHOLDER",
-    "logotype": "PLACEHOLDER",
-    "game_tile_light": "quests/1570814059626889397/1570830057226641468.png",
-    "game_tile_dark": "quests/1570814059626889397/1570829985915084882.png",
-    "logotype_light": "quests/1570814059626889397/1570830167713259540.png",
-    "logotype_dark": "quests/1570814059626889397/1570830126180999288.png"
-  },
-  "colors": {
-    "primary": "#4752C4",
-    "secondary": "#000000"
-  },
-  "messages": {
-    "quest_name": "Grand Theft Auto VI: Pre-Load",
-    "game_title": "GTAVI Coming Nov. 19. Pre-Order Now and Pre-Load.",
-    "game_publisher": "Rockstar Games"
-  },
-  "task_config_v2": {
-    "tasks": {
-      "WATCH_VIDEO": {
-        "type": "WATCH_VIDEO",
-        "target": 29,
-        "assets": {
-          "video": {
-            "url": "quests/1570814059626889397/1570828229709799584_1080.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1570814059626889397/1570828617800355870.jpg"
+    "id": "1570893798513442817",
+    "config_version": 2,
+    "starts_at": "2026-11-18T04:00:00+00:00",
+    "expires_at": "2026-11-19T09:59:59+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://discord.com/quest-home",
+      "id": "1445160676522856458",
+      "name": "Grand Theft Auto VI"
+    },
+    "assets": {
+      "hero": "quests/1570814059626889397/1570830415944487155.jpg",
+      "quest_bar_hero_blurhash": "lmgOJI5YmXd+VnaQenfPlveKWA==",
+      "quest_bar_hero": "quests/1570814059626889397/1570830339255828603.jpg",
+      "quest_bar_hero_video": "quests/1570814059626889397/1570830370616909844.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1570814059626889397/1570830057226641468.png",
+      "game_tile_dark": "quests/1570814059626889397/1570829985915084882.png",
+      "logotype_light": "quests/1570814059626889397/1570830167713259540.png",
+      "logotype_dark": "quests/1570814059626889397/1570830126180999288.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Grand Theft Auto VI: Pre-Load",
+      "game_title": "GTAVI Coming Nov. 19. Pre-Order Now and Pre-Load.",
+      "game_publisher": "Rockstar Games"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 29,
+          "assets": {
+            "video": {
+              "url": "quests/1570814059626889397/1570828229709799584_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1570814059626889397/1570828617800355870.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1570814059626889397/1570828229709799584_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1570814059626889397/1570828617800355870.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1570814059626889397/1570828229709799584.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1570814059626889397/1570828617800355870.jpg"
+            }
           },
-          "video_low_res": {
-            "url": "quests/1570814059626889397/1570828229709799584_720.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1570814059626889397/1570828617800355870.jpg"
-          },
-          "video_hls": {
-            "url": "quests/1570814059626889397/1570828229709799584.m3u8",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1570814059626889397/1570828617800355870.jpg"
+          "messages": {
+            "video_title": ""
           }
         },
-        "messages": {
-          "video_title": ""
+        "WATCH_VIDEO_ON_MOBILE": {
+          "type": "WATCH_VIDEO_ON_MOBILE",
+          "target": 29,
+          "assets": {
+            "video": {
+              "url": "quests/1570814059626889397/1570828229709799584_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1570814059626889397/1570828617800355870.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1570814059626889397/1570828229709799584_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1570814059626889397/1570828617800355870.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1570814059626889397/1570828229709799584.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1570814059626889397/1570828617800355870.jpg"
+            }
+          },
+          "messages": {
+            "video_title": ""
+          }
         }
       },
-      "WATCH_VIDEO_ON_MOBILE": {
-        "type": "WATCH_VIDEO_ON_MOBILE",
-        "target": 29,
-        "assets": {
-          "video": {
-            "url": "quests/1570814059626889397/1570828229709799584_1080.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1570814059626889397/1570828617800355870.jpg"
-          },
-          "video_low_res": {
-            "url": "quests/1570814059626889397/1570828229709799584_720.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1570814059626889397/1570828617800355870.jpg"
-          },
-          "video_hls": {
-            "url": "quests/1570814059626889397/1570828229709799584.m3u8",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1570814059626889397/1570828617800355870.jpg"
-          }
-        },
-        "messages": {
-          "video_title": ""
-        }
-      }
+      "join_operator": "or"
     },
-    "join_operator": "or"
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "200 Orbs",
+            "name_with_article": "200 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 200,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2026-12-19T09:59:59+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://discord.com/quest-home",
+      "button_label": "Learn More",
+      "subtitle": "GTAVI Coming Nov. 19. Pre-Order Now and Pre-Load."
+    }
   },
-  "rewards_config": {
-    "assignment_method": 1,
-    "rewards": [
-      {
-        "type": 4,
-        "sku_id": "1287881739531976815",
-        "messages": {
-          "name": "200 Orbs",
-          "name_with_article": "200 Orbs",
-          "redemption_instructions_by_platform": {
-            "0": "PLACEHOLDER"
-          }
-        },
-        "orb_quantity": 200,
-        "premium_orb_quantity": null
-      }
-    ],
-    "rewards_expire_at": "2026-12-19T09:59:59+00:00",
-    "platforms": [0]
-  },
-  "share_policy": "shareable_everywhere",
-  "cta_config": {
-    "link": "https://discord.com/quest-home",
-    "button_label": "Learn More",
-    "subtitle": "GTAVI Coming Nov. 19. Pre-Order Now and Pre-Load."
-  }
-},
   {
-  "id": "1569427099574468719",
-  "config_version": 2,
-  "starts_at": "2026-11-18T18:00:00+00:00",
-  "expires_at": "2026-11-25T23:59:00+00:00",
-  "features": [15],
-  "application": {
-    "link": "https://www.universalpictures.co.uk/movies/violent-night-2/",
-    "id": "545364944258990091",
-    "name": "Discord"
-  },
-  "assets": {
-    "hero": "quests/1569427099574468719/1570863487909892146.jpg",
-    "hero_video": "quests/1569427099574468719/1570866494605361252_720.mp4",
-    "quest_bar_hero_blurhash": "DucJCoIFs2poVpl4B8aXQIk=",
-    "quest_bar_hero": "quests/1569427099574468719/1570863487909892146.jpg",
-    "quest_bar_hero_video": "quests/1569427099574468719/1570866494605361252_720.mp4",
-    "game_tile": "PLACEHOLDER",
-    "logotype": "PLACEHOLDER",
-    "game_tile_light": "quests/1569427099574468719/1570908022195224677.png",
-    "game_tile_dark": "quests/1569427099574468719/1570908022195224677.png",
-    "logotype_light": "quests/1569427099574468719/1570863487922475028.png",
-    "logotype_dark": "quests/1569427099574468719/1570863487876472922.png"
-  },
-  "colors": {
-    "primary": "#4752C4",
-    "secondary": "#000000"
-  },
-  "messages": {
-    "quest_name": "Violent Night 2",
-    "game_title": "In Cinemas December 4",
-    "game_publisher": "Universal Pictures"
-  },
-  "task_config_v2": {
-    "tasks": {
-      "WATCH_VIDEO": {
-        "type": "WATCH_VIDEO",
-        "target": 29,
-        "assets": {
-          "video": {
-            "url": "quests/1569427099574468719/1570863548773433384_1080.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1569427099574468719/1570863488514007140.jpg"
+    "id": "1569427099574468719",
+    "config_version": 2,
+    "starts_at": "2026-11-18T18:00:00+00:00",
+    "expires_at": "2026-11-25T23:59:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://www.universalpictures.co.uk/movies/violent-night-2/",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "quests/1569427099574468719/1570863487909892146.jpg",
+      "hero_video": "quests/1569427099574468719/1570866494605361252_720.mp4",
+      "quest_bar_hero_blurhash": "DucJCoIFs2poVpl4B8aXQIk=",
+      "quest_bar_hero": "quests/1569427099574468719/1570863487909892146.jpg",
+      "quest_bar_hero_video": "quests/1569427099574468719/1570866494605361252_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1569427099574468719/1570908022195224677.png",
+      "game_tile_dark": "quests/1569427099574468719/1570908022195224677.png",
+      "logotype_light": "quests/1569427099574468719/1570863487922475028.png",
+      "logotype_dark": "quests/1569427099574468719/1570863487876472922.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Violent Night 2",
+      "game_title": "In Cinemas December 4",
+      "game_publisher": "Universal Pictures"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 29,
+          "assets": {
+            "video": {
+              "url": "quests/1569427099574468719/1570863548773433384_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1569427099574468719/1570863488514007140.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1569427099574468719/1570863548773433384_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1569427099574468719/1570863488514007140.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1569427099574468719/1570863548773433384.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1569427099574468719/1570863488514007140.jpg"
+            }
           },
-          "video_low_res": {
-            "url": "quests/1569427099574468719/1570863548773433384_720.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1569427099574468719/1570863488514007140.jpg"
-          },
-          "video_hls": {
-            "url": "quests/1569427099574468719/1570863548773433384.m3u8",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1569427099574468719/1570863488514007140.jpg"
+          "messages": {
+            "video_title": "PLACEHOLDER"
           }
         },
-        "messages": {
-          "video_title": "PLACEHOLDER"
+        "WATCH_VIDEO_ON_MOBILE": {
+          "type": "WATCH_VIDEO_ON_MOBILE",
+          "target": 29,
+          "assets": {
+            "video": {
+              "url": "quests/1569427099574468719/1570863548589015050_1080.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1569427099574468719/1570863488514007140.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1569427099574468719/1570863548589015050_720.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1569427099574468719/1570863488514007140.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1569427099574468719/1570863548589015050.m3u8",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1569427099574468719/1570863488514007140.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
         }
       },
-      "WATCH_VIDEO_ON_MOBILE": {
-        "type": "WATCH_VIDEO_ON_MOBILE",
-        "target": 29,
-        "assets": {
-          "video": {
-            "url": "quests/1569427099574468719/1570863548589015050_1080.mp4",
-            "width": 1080,
-            "height": 1920,
-            "thumbnail": "quests/1569427099574468719/1570863488514007140.jpg"
-          },
-          "video_low_res": {
-            "url": "quests/1569427099574468719/1570863548589015050_720.mp4",
-            "width": 1080,
-            "height": 1920,
-            "thumbnail": "quests/1569427099574468719/1570863488514007140.jpg"
-          },
-          "video_hls": {
-            "url": "quests/1569427099574468719/1570863548589015050.m3u8",
-            "width": 1080,
-            "height": 1920,
-            "thumbnail": "quests/1569427099574468719/1570863488514007140.jpg"
-          }
-        },
-        "messages": {
-          "video_title": "PLACEHOLDER"
-        }
-      }
+      "join_operator": "or"
     },
-    "join_operator": "or"
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "200 Orbs",
+            "name_with_article": "200 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 200,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2026-12-25T23:59:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.universalpictures.co.uk/movies/violent-night-2/",
+      "button_label": "Learn More",
+      "subtitle": "In Cinemas December 4"
+    }
   },
-  "rewards_config": {
-    "assignment_method": 1,
-    "rewards": [
-      {
-        "type": 4,
-        "sku_id": "1287881739531976815",
-        "messages": {
-          "name": "200 Orbs",
-          "name_with_article": "200 Orbs",
-          "redemption_instructions_by_platform": {
-            "0": "PLACEHOLDER"
-          }
-        },
-        "orb_quantity": 200,
-        "premium_orb_quantity": null
-      }
-    ],
-    "rewards_expire_at": "2026-12-25T23:59:00+00:00",
-    "platforms": [0]
-  },
-  "share_policy": "shareable_everywhere",
-  "cta_config": {
-    "link": "https://www.universalpictures.co.uk/movies/violent-night-2/",
-    "button_label": "Learn More",
-    "subtitle": "In Cinemas December 4"
-  }
-},
   {
-  "id": "1572087680496574517",
-  "config_version": 2,
-  "starts_at": "2026-11-18T23:50:00+00:00",
-  "expires_at": "2026-12-07T04:59:00+00:00",
-  "features": [15],
-  "application": {
-    "link": "https://www.rockstargames.com/VI/PS5/editions",
-    "id": "1445160676522856458",
-    "name": "Grand Theft Auto VI"
-  },
-  "assets": {
-    "hero": "quests/1572087680496574517/1572290716447670352.jpg",
-    "quest_bar_hero_blurhash": "lmgOJI5YmXd+VnaQenfPlveKWA==",
-    "quest_bar_hero": "quests/1572087680496574517/1572297403179077782.jpg",
-    "quest_bar_hero_video": "quests/1572087680496574517/1572660254078931004_720.mp4",
-    "game_tile": "PLACEHOLDER",
-    "logotype": "PLACEHOLDER",
-    "game_tile_light": "quests/1572087680496574517/1572290694079582301.png",
-    "game_tile_dark": "quests/1572087680496574517/1572290694159015947.png",
-    "logotype_light": "quests/1572087680496574517/1572290694419058778.png",
-    "logotype_dark": "quests/1572087680496574517/1572290694196891769.png"
-  },
-  "colors": {
-    "primary": "#4752C4",
-    "secondary": "#000000"
-  },
-  "messages": {
-    "quest_name": "Grand Theft Auto VI: Out Now",
-    "game_title": "GTAVI — Now Available",
-    "game_publisher": "Rockstar Games"
-  },
-  "task_config_v2": {
-    "tasks": {
-      "WATCH_VIDEO": {
-        "type": "WATCH_VIDEO",
-        "target": 29,
-        "assets": {
-          "video": {
-            "url": "quests/1572087680496574517/1572372870187847690_1080.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1572087680496574517/1572290766682853517.jpg"
+    "id": "1572087680496574517",
+    "config_version": 2,
+    "starts_at": "2026-11-18T23:50:00+00:00",
+    "expires_at": "2026-12-07T04:59:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://www.rockstargames.com/VI/PS5/editions",
+      "id": "1445160676522856458",
+      "name": "Grand Theft Auto VI"
+    },
+    "assets": {
+      "hero": "quests/1572087680496574517/1572290716447670352.jpg",
+      "quest_bar_hero_blurhash": "lmgOJI5YmXd+VnaQenfPlveKWA==",
+      "quest_bar_hero": "quests/1572087680496574517/1572297403179077782.jpg",
+      "quest_bar_hero_video": "quests/1572087680496574517/1572660254078931004_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1572087680496574517/1572290694079582301.png",
+      "game_tile_dark": "quests/1572087680496574517/1572290694159015947.png",
+      "logotype_light": "quests/1572087680496574517/1572290694419058778.png",
+      "logotype_dark": "quests/1572087680496574517/1572290694196891769.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Grand Theft Auto VI: Out Now",
+      "game_title": "GTAVI — Now Available",
+      "game_publisher": "Rockstar Games"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 29,
+          "assets": {
+            "video": {
+              "url": "quests/1572087680496574517/1572372870187847690_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1572087680496574517/1572290766682853517.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1572087680496574517/1572372870187847690_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1572087680496574517/1572290766682853517.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1572087680496574517/1572372870187847690.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1572087680496574517/1572290766682853517.jpg"
+            }
           },
-          "video_low_res": {
-            "url": "quests/1572087680496574517/1572372870187847690_720.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1572087680496574517/1572290766682853517.jpg"
-          },
-          "video_hls": {
-            "url": "quests/1572087680496574517/1572372870187847690.m3u8",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1572087680496574517/1572290766682853517.jpg"
+          "messages": {
+            "video_title": "PLACEHOLDER"
           }
         },
-        "messages": {
-          "video_title": "PLACEHOLDER"
+        "WATCH_VIDEO_ON_MOBILE": {
+          "type": "WATCH_VIDEO_ON_MOBILE",
+          "target": 29,
+          "assets": {
+            "video": {
+              "url": "quests/1572087680496574517/1572372870187847690_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1572087680496574517/1572290766682853517.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1572087680496574517/1572372870187847690_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1572087680496574517/1572290766682853517.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1572087680496574517/1572372870187847690.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1572087680496574517/1572290766682853517.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
         }
       },
-      "WATCH_VIDEO_ON_MOBILE": {
-        "type": "WATCH_VIDEO_ON_MOBILE",
-        "target": 29,
-        "assets": {
-          "video": {
-            "url": "quests/1572087680496574517/1572372870187847690_1080.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1572087680496574517/1572290766682853517.jpg"
-          },
-          "video_low_res": {
-            "url": "quests/1572087680496574517/1572372870187847690_720.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1572087680496574517/1572290766682853517.jpg"
-          },
-          "video_hls": {
-            "url": "quests/1572087680496574517/1572372870187847690.m3u8",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1572087680496574517/1572290766682853517.jpg"
-          }
-        },
-        "messages": {
-          "video_title": "PLACEHOLDER"
-        }
-      }
+      "join_operator": "or"
     },
-    "join_operator": "or"
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 3,
+          "sku_id": "1572317684375232582",
+          "asset": "quests/1572087680496574517/1572318972727009390.mp4",
+          "asset_video": null,
+          "messages": {
+            "name": "I HEART VICE CITY Avatar",
+            "name_with_article": "the I HEART VICE CITY Avatar",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "expires_at": "2027-02-05T01:00:00+00:00",
+          "expires_at_premium": null,
+          "expiration_mode": 3
+        }
+      ],
+      "rewards_expire_at": "2027-01-06T04:59:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.rockstargames.com/VI/PS5/editions",
+      "button_label": "Buy Now",
+      "subtitle": "GTAVI — Now Available"
+    }
   },
-  "rewards_config": {
-    "assignment_method": 1,
-    "rewards": [
-      {
-        "type": 3,
-        "sku_id": "1572317684375232582",
-        "asset": "quests/1572087680496574517/1572318972727009390.mp4",
-        "asset_video": null,
-        "messages": {
-          "name": "I HEART VICE CITY Avatar",
-          "name_with_article": "the I HEART VICE CITY Avatar",
-          "redemption_instructions_by_platform": {
-            "0": "PLACEHOLDER"
-          }
-        },
-        "expires_at": "2027-02-05T01:00:00+00:00",
-        "expires_at_premium": null,
-        "expiration_mode": 3
-      }
-    ],
-    "rewards_expire_at": "2027-01-06T04:59:00+00:00",
-    "platforms": [0]
-  },
-  "share_policy": "shareable_everywhere",
-  "cta_config": {
-    "link": "https://www.rockstargames.com/VI/PS5/editions",
-    "button_label": "Buy Now",
-    "subtitle": "GTAVI — Now Available"
-  }
-},
   {
-  "id": "1572086779056496692",
-  "config_version": 2,
-  "starts_at": "2026-11-18T23:50:00+00:00",
-  "expires_at": "2026-12-07T04:59:00+00:00",
-  "features": [15],
-  "application": {
-    "link": "https://www.rockstargames.com/VI/PS5/editions",
-    "id": "1445160676522856458",
-    "name": "Grand Theft Auto VI"
-  },
-  "assets": {
-    "hero": "quests/1572086779056496692/1572291697361166377.jpg",
-    "quest_bar_hero_blurhash": "lmgOJI5YmXd+VnaQenfPlveKWA==",
-    "quest_bar_hero": "quests/1572086779056496692/1572297379619676181.jpg",
-    "quest_bar_hero_video": "quests/1572086779056496692/1572660247619829901_720.mp4",
-    "game_tile": "PLACEHOLDER",
-    "logotype": "PLACEHOLDER",
-    "game_tile_light": "quests/1572086779056496692/1572291697310961804.png",
-    "game_tile_dark": "quests/1572086779056496692/1572291697491058698.png",
-    "logotype_light": "quests/1572086779056496692/1572291697361293422.png",
-    "logotype_dark": "quests/1572086779056496692/1572291697411493898.png"
-  },
-  "colors": {
-    "primary": "#4752C4",
-    "secondary": "#000000"
-  },
-  "messages": {
-    "quest_name": "Grand Theft Auto VI: Out Now",
-    "game_title": "GTAVI — Now Available",
-    "game_publisher": "Rockstar Games"
-  },
-  "task_config_v2": {
-    "tasks": {
-      "WATCH_VIDEO": {
-        "type": "WATCH_VIDEO",
-        "target": 29,
-        "assets": {
-          "video": {
-            "url": "quests/1572086779056496692/1572396455920935002_1080.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1572086779056496692/1572295317716734122.jpg"
+    "id": "1572086779056496692",
+    "config_version": 2,
+    "starts_at": "2026-11-18T23:50:00+00:00",
+    "expires_at": "2026-12-07T04:59:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://www.rockstargames.com/VI/PS5/editions",
+      "id": "1445160676522856458",
+      "name": "Grand Theft Auto VI"
+    },
+    "assets": {
+      "hero": "quests/1572086779056496692/1572291697361166377.jpg",
+      "quest_bar_hero_blurhash": "lmgOJI5YmXd+VnaQenfPlveKWA==",
+      "quest_bar_hero": "quests/1572086779056496692/1572297379619676181.jpg",
+      "quest_bar_hero_video": "quests/1572086779056496692/1572660247619829901_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1572086779056496692/1572291697310961804.png",
+      "game_tile_dark": "quests/1572086779056496692/1572291697491058698.png",
+      "logotype_light": "quests/1572086779056496692/1572291697361293422.png",
+      "logotype_dark": "quests/1572086779056496692/1572291697411493898.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Grand Theft Auto VI: Out Now",
+      "game_title": "GTAVI — Now Available",
+      "game_publisher": "Rockstar Games"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 29,
+          "assets": {
+            "video": {
+              "url": "quests/1572086779056496692/1572396455920935002_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1572086779056496692/1572295317716734122.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1572086779056496692/1572396455920935002_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1572086779056496692/1572295317716734122.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1572086779056496692/1572396455920935002.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1572086779056496692/1572295317716734122.jpg"
+            }
           },
-          "video_low_res": {
-            "url": "quests/1572086779056496692/1572396455920935002_720.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1572086779056496692/1572295317716734122.jpg"
-          },
-          "video_hls": {
-            "url": "quests/1572086779056496692/1572396455920935002.m3u8",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1572086779056496692/1572295317716734122.jpg"
+          "messages": {
+            "video_title": "PLACEHOLDER"
           }
         },
-        "messages": {
-          "video_title": "PLACEHOLDER"
+        "WATCH_VIDEO_ON_MOBILE": {
+          "type": "WATCH_VIDEO_ON_MOBILE",
+          "target": 29,
+          "assets": {
+            "video": {
+              "url": "quests/1572086779056496692/1572396455920935002_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1572086779056496692/1572295317716734122.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1572086779056496692/1572396455920935002_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1572086779056496692/1572295317716734122.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1572086779056496692/1572396455920935002.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1572086779056496692/1572295317716734122.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
         }
       },
-      "WATCH_VIDEO_ON_MOBILE": {
-        "type": "WATCH_VIDEO_ON_MOBILE",
-        "target": 29,
-        "assets": {
-          "video": {
-            "url": "quests/1572086779056496692/1572396455920935002_1080.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1572086779056496692/1572295317716734122.jpg"
-          },
-          "video_low_res": {
-            "url": "quests/1572086779056496692/1572396455920935002_720.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1572086779056496692/1572295317716734122.jpg"
-          },
-          "video_hls": {
-            "url": "quests/1572086779056496692/1572396455920935002.m3u8",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1572086779056496692/1572295317716734122.jpg"
-          }
-        },
-        "messages": {
-          "video_title": "PLACEHOLDER"
-        }
-      }
+      "join_operator": "or"
     },
-    "join_operator": "or"
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 3,
+          "sku_id": "1572317684375232582",
+          "asset": "quests/1572086779056496692/1572318849271857162.mp4",
+          "asset_video": null,
+          "messages": {
+            "name": "I HEART VICE CITY Avatar",
+            "name_with_article": "the I HEART VICE CITY Avatar",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "expires_at": "2027-02-05T01:00:00+00:00",
+          "expires_at_premium": null,
+          "expiration_mode": 3
+        }
+      ],
+      "rewards_expire_at": "2027-01-06T04:59:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.rockstargames.com/VI/PS5/editions",
+      "button_label": "Buy Now",
+      "subtitle": "GTAVI — Now Available"
+    }
   },
-  "rewards_config": {
-    "assignment_method": 1,
-    "rewards": [
-      {
-        "type": 3,
-        "sku_id": "1572317684375232582",
-        "asset": "quests/1572086779056496692/1572318849271857162.mp4",
-        "asset_video": null,
-        "messages": {
-          "name": "I HEART VICE CITY Avatar",
-          "name_with_article": "the I HEART VICE CITY Avatar",
-          "redemption_instructions_by_platform": {
-            "0": "PLACEHOLDER"
-          }
-        },
-        "expires_at": "2027-02-05T01:00:00+00:00",
-        "expires_at_premium": null,
-        "expiration_mode": 3
-      }
-    ],
-    "rewards_expire_at": "2027-01-06T04:59:00+00:00",
-    "platforms": [0]
-  },
-  "share_policy": "shareable_everywhere",
-  "cta_config": {
-    "link": "https://www.rockstargames.com/VI/PS5/editions",
-    "button_label": "Buy Now",
-    "subtitle": "GTAVI — Now Available"
-  }
-},
   {
-  "id": "1572379631632515254",
-  "config_version": 2,
-  "starts_at": "2026-11-18T23:50:00+00:00",
-  "expires_at": "2026-12-07T04:59:00+00:00",
-  "features": [15],
-  "application": {
-    "link": "https://www.rockstargames.com/VI/PS5/editions",
-    "id": "1445160676522856458",
-    "name": "Grand Theft Auto VI"
-  },
-  "assets": {
-    "hero": "quests/1572085565795471514/1572295634860380341.jpg",
-    "quest_bar_hero_blurhash": "lmgOJI5YmXd+VnaQenfPlveKWA==",
-    "quest_bar_hero": "quests/1572085565795471514/1572297459420373082.jpg",
-    "quest_bar_hero_video": "quests/1572379631632515254/1572660259665879200_720.mp4",
-    "game_tile": "PLACEHOLDER",
-    "logotype": "PLACEHOLDER",
-    "game_tile_light": "quests/1572085565795471514/1572295635032481863.png",
-    "game_tile_dark": "quests/1572085565795471514/1572295634902585416.png",
-    "logotype_light": "quests/1572085565795471514/1572295634977947698.png",
-    "logotype_dark": "quests/1572085565795471514/1572295634982277211.png"
-  },
-  "colors": {
-    "primary": "#4752C4",
-    "secondary": "#000000"
-  },
-  "messages": {
-    "quest_name": "Grand Theft Auto VI: Out Now",
-    "game_title": "GTAVI — Now Available",
-    "game_publisher": "Rockstar Games"
-  },
-  "task_config_v2": {
-    "tasks": {
-      "WATCH_VIDEO": {
-        "type": "WATCH_VIDEO",
-        "target": 29,
-        "assets": {
-          "video": {
-            "url": "quests/1572379631632515254/1572380453137023138_1080.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1572379631632515254/1572380545214845018.jpg"
+    "id": "1572379631632515254",
+    "config_version": 2,
+    "starts_at": "2026-11-18T23:50:00+00:00",
+    "expires_at": "2026-12-07T04:59:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://www.rockstargames.com/VI/PS5/editions",
+      "id": "1445160676522856458",
+      "name": "Grand Theft Auto VI"
+    },
+    "assets": {
+      "hero": "quests/1572085565795471514/1572295634860380341.jpg",
+      "quest_bar_hero_blurhash": "lmgOJI5YmXd+VnaQenfPlveKWA==",
+      "quest_bar_hero": "quests/1572085565795471514/1572297459420373082.jpg",
+      "quest_bar_hero_video": "quests/1572379631632515254/1572660259665879200_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1572085565795471514/1572295635032481863.png",
+      "game_tile_dark": "quests/1572085565795471514/1572295634902585416.png",
+      "logotype_light": "quests/1572085565795471514/1572295634977947698.png",
+      "logotype_dark": "quests/1572085565795471514/1572295634982277211.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Grand Theft Auto VI: Out Now",
+      "game_title": "GTAVI — Now Available",
+      "game_publisher": "Rockstar Games"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 29,
+          "assets": {
+            "video": {
+              "url": "quests/1572379631632515254/1572380453137023138_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1572379631632515254/1572380545214845018.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1572379631632515254/1572380453137023138_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1572379631632515254/1572380545214845018.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1572379631632515254/1572380453137023138.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1572379631632515254/1572380545214845018.jpg"
+            }
           },
-          "video_low_res": {
-            "url": "quests/1572379631632515254/1572380453137023138_720.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1572379631632515254/1572380545214845018.jpg"
-          },
-          "video_hls": {
-            "url": "quests/1572379631632515254/1572380453137023138.m3u8",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1572379631632515254/1572380545214845018.jpg"
+          "messages": {
+            "video_title": "PLACEHOLDER"
           }
         },
-        "messages": {
-          "video_title": "PLACEHOLDER"
+        "WATCH_VIDEO_ON_MOBILE": {
+          "type": "WATCH_VIDEO_ON_MOBILE",
+          "target": 29,
+          "assets": {
+            "video": {
+              "url": "quests/1572379631632515254/1572380453137023138_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1572379631632515254/1572380545214845018.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1572379631632515254/1572380453137023138_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1572379631632515254/1572380545214845018.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1572379631632515254/1572380453137023138.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1572379631632515254/1572380545214845018.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
         }
       },
-      "WATCH_VIDEO_ON_MOBILE": {
-        "type": "WATCH_VIDEO_ON_MOBILE",
-        "target": 29,
-        "assets": {
-          "video": {
-            "url": "quests/1572379631632515254/1572380453137023138_1080.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1572379631632515254/1572380545214845018.jpg"
-          },
-          "video_low_res": {
-            "url": "quests/1572379631632515254/1572380453137023138_720.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1572379631632515254/1572380545214845018.jpg"
-          },
-          "video_hls": {
-            "url": "quests/1572379631632515254/1572380453137023138.m3u8",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1572379631632515254/1572380545214845018.jpg"
-          }
-        },
-        "messages": {
-          "video_title": "PLACEHOLDER"
-        }
-      }
+      "join_operator": "or"
     },
-    "join_operator": "or"
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 3,
+          "sku_id": "1572317684375232582",
+          "asset": "quests/1572085565795471514/1572318700189786202.mp4",
+          "asset_video": null,
+          "messages": {
+            "name": "I HEART VICE CITY Avatar",
+            "name_with_article": "the I HEART VICE CITY Avatar",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "expires_at": "2027-02-05T01:00:00+00:00",
+          "expires_at_premium": null,
+          "expiration_mode": 3
+        }
+      ],
+      "rewards_expire_at": "2027-01-06T04:59:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.rockstargames.com/VI/PS5/editions",
+      "button_label": "Buy Now",
+      "subtitle": "GTAVI — Now Available"
+    }
   },
-  "rewards_config": {
-    "assignment_method": 1,
-    "rewards": [
-      {
-        "type": 3,
-        "sku_id": "1572317684375232582",
-        "asset": "quests/1572085565795471514/1572318700189786202.mp4",
-        "asset_video": null,
-        "messages": {
-          "name": "I HEART VICE CITY Avatar",
-          "name_with_article": "the I HEART VICE CITY Avatar",
-          "redemption_instructions_by_platform": {
-            "0": "PLACEHOLDER"
-          }
-        },
-        "expires_at": "2027-02-05T01:00:00+00:00",
-        "expires_at_premium": null,
-        "expiration_mode": 3
-      }
-    ],
-    "rewards_expire_at": "2027-01-06T04:59:00+00:00",
-    "platforms": [0]
-  },
-  "share_policy": "shareable_everywhere",
-  "cta_config": {
-    "link": "https://www.rockstargames.com/VI/PS5/editions",
-    "button_label": "Buy Now",
-    "subtitle": "GTAVI — Now Available"
-  }
-},
   {
-  "id": "1572384460580589671",
-  "config_version": 2,
-  "starts_at": "2026-11-18T23:50:00+00:00",
-  "expires_at": "2026-12-07T04:59:00+00:00",
-  "features": [15],
-  "application": {
-    "link": "https://www.rockstargames.com/VI/PS5/editions",
-    "id": "1445160676522856458",
-    "name": "Grand Theft Auto VI"
-  },
-  "assets": {
-    "hero": "quests/1572085565795471514/1572295634860380341.jpg",
-    "quest_bar_hero_blurhash": "lmgOJI5YmXd+VnaQenfPlveKWA==",
-    "quest_bar_hero": "quests/1572085565795471514/1572297459420373082.jpg",
-    "quest_bar_hero_video": "quests/1572384460580589671/1572660266821357619_720.mp4",
-    "game_tile": "PLACEHOLDER",
-    "logotype": "PLACEHOLDER",
-    "game_tile_light": "quests/1572085565795471514/1572295635032481863.png",
-    "game_tile_dark": "quests/1572085565795471514/1572295634902585416.png",
-    "logotype_light": "quests/1572085565795471514/1572295634977947698.png",
-    "logotype_dark": "quests/1572085565795471514/1572295634982277211.png"
-  },
-  "colors": {
-    "primary": "#4752C4",
-    "secondary": "#000000"
-  },
-  "messages": {
-    "quest_name": "Grand Theft Auto VI: Out Now",
-    "game_title": "GTAVI — Now Available",
-    "game_publisher": "Rockstar Games"
-  },
-  "task_config_v2": {
-    "tasks": {
-      "WATCH_VIDEO": {
-        "type": "WATCH_VIDEO",
-        "target": 29,
-        "assets": {
-          "video": {
-            "url": "quests/1572384460580589671/1572385981921755238_1080.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1572384460580589671/1572386036451905738.jpg"
+    "id": "1572384460580589671",
+    "config_version": 2,
+    "starts_at": "2026-11-18T23:50:00+00:00",
+    "expires_at": "2026-12-07T04:59:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://www.rockstargames.com/VI/PS5/editions",
+      "id": "1445160676522856458",
+      "name": "Grand Theft Auto VI"
+    },
+    "assets": {
+      "hero": "quests/1572085565795471514/1572295634860380341.jpg",
+      "quest_bar_hero_blurhash": "lmgOJI5YmXd+VnaQenfPlveKWA==",
+      "quest_bar_hero": "quests/1572085565795471514/1572297459420373082.jpg",
+      "quest_bar_hero_video": "quests/1572384460580589671/1572660266821357619_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1572085565795471514/1572295635032481863.png",
+      "game_tile_dark": "quests/1572085565795471514/1572295634902585416.png",
+      "logotype_light": "quests/1572085565795471514/1572295634977947698.png",
+      "logotype_dark": "quests/1572085565795471514/1572295634982277211.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Grand Theft Auto VI: Out Now",
+      "game_title": "GTAVI — Now Available",
+      "game_publisher": "Rockstar Games"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 29,
+          "assets": {
+            "video": {
+              "url": "quests/1572384460580589671/1572385981921755238_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1572384460580589671/1572386036451905738.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1572384460580589671/1572385981921755238_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1572384460580589671/1572386036451905738.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1572384460580589671/1572385981921755238.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1572384460580589671/1572386036451905738.jpg"
+            }
           },
-          "video_low_res": {
-            "url": "quests/1572384460580589671/1572385981921755238_720.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1572384460580589671/1572386036451905738.jpg"
-          },
-          "video_hls": {
-            "url": "quests/1572384460580589671/1572385981921755238.m3u8",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1572384460580589671/1572386036451905738.jpg"
+          "messages": {
+            "video_title": "PLACEHOLDER"
           }
         },
-        "messages": {
-          "video_title": "PLACEHOLDER"
+        "WATCH_VIDEO_ON_MOBILE": {
+          "type": "WATCH_VIDEO_ON_MOBILE",
+          "target": 29,
+          "assets": {
+            "video": {
+              "url": "quests/1572384460580589671/1572385981921755238_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1572384460580589671/1572386036451905738.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1572384460580589671/1572385981921755238_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1572384460580589671/1572386036451905738.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1572384460580589671/1572385981921755238.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1572384460580589671/1572386036451905738.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
         }
       },
-      "WATCH_VIDEO_ON_MOBILE": {
-        "type": "WATCH_VIDEO_ON_MOBILE",
-        "target": 29,
-        "assets": {
-          "video": {
-            "url": "quests/1572384460580589671/1572385981921755238_1080.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1572384460580589671/1572386036451905738.jpg"
-          },
-          "video_low_res": {
-            "url": "quests/1572384460580589671/1572385981921755238_720.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1572384460580589671/1572386036451905738.jpg"
-          },
-          "video_hls": {
-            "url": "quests/1572384460580589671/1572385981921755238.m3u8",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1572384460580589671/1572386036451905738.jpg"
-          }
-        },
-        "messages": {
-          "video_title": "PLACEHOLDER"
-        }
-      }
+      "join_operator": "or"
     },
-    "join_operator": "or"
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 3,
+          "sku_id": "1572317684375232582",
+          "asset": "quests/1572085565795471514/1572318700189786202.mp4",
+          "asset_video": null,
+          "messages": {
+            "name": "I HEART VICE CITY Avatar",
+            "name_with_article": "the I HEART VICE CITY Avatar",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "expires_at": "2027-02-05T01:00:00+00:00",
+          "expires_at_premium": null,
+          "expiration_mode": 3
+        }
+      ],
+      "rewards_expire_at": "2027-01-06T04:59:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.rockstargames.com/VI/PS5/editions",
+      "button_label": "Buy Now",
+      "subtitle": "GTAVI — Now Available"
+    }
   },
-  "rewards_config": {
-    "assignment_method": 1,
-    "rewards": [
-      {
-        "type": 3,
-        "sku_id": "1572317684375232582",
-        "asset": "quests/1572085565795471514/1572318700189786202.mp4",
-        "asset_video": null,
-        "messages": {
-          "name": "I HEART VICE CITY Avatar",
-          "name_with_article": "the I HEART VICE CITY Avatar",
-          "redemption_instructions_by_platform": {
-            "0": "PLACEHOLDER"
-          }
-        },
-        "expires_at": "2027-02-05T01:00:00+00:00",
-        "expires_at_premium": null,
-        "expiration_mode": 3
-      }
-    ],
-    "rewards_expire_at": "2027-01-06T04:59:00+00:00",
-    "platforms": [0]
-  },
-  "share_policy": "shareable_everywhere",
-  "cta_config": {
-    "link": "https://www.rockstargames.com/VI/PS5/editions",
-    "button_label": "Buy Now",
-    "subtitle": "GTAVI — Now Available"
-  }
-},
   {
-  "id": "1556760769062903880",
-  "config_version": 2,
-  "starts_at": "2026-11-19T08:00:00+00:00",
-  "expires_at": "2026-12-07T01:00:00+00:00",
-  "features": [15],
-  "application": {
-    "link": "https://www.rockstargames.com/VI/PS5/editions",
-    "id": "1445160676522856458",
-    "name": "Grand Theft Auto VI"
-  },
-  "assets": {
-    "hero": "quests/1556760769062903880/1572107417548750859.jpg",
-    "quest_bar_hero_blurhash": "lmgOJI5YmXd+VnaQenfPlveKWA==",
-    "quest_bar_hero": "quests/1556760769062903880/1572297486511505587.jpg",
-    "quest_bar_hero_video": "quests/1556760769062903880/1572660230792282232_720.mp4",
-    "game_tile": "PLACEHOLDER",
-    "logotype": "PLACEHOLDER",
-    "game_tile_light": "quests/1556760769062903880/1572107259276820530.png",
-    "game_tile_dark": "quests/1556760769062903880/1572107259117576212.png",
-    "logotype_light": "quests/1556760769062903880/1572107259163709520.png",
-    "logotype_dark": "quests/1556760769062903880/1572107259109048350.png"
-  },
-  "colors": {
-    "primary": "#4752C4",
-    "secondary": "#000000"
-  },
-  "messages": {
-    "quest_name": "Grand Theft Auto VI: Out Now",
-    "game_title": "GTAVI — Now Available",
-    "game_publisher": "Rockstar Games"
-  },
-  "task_config_v2": {
-    "tasks": {
-      "WATCH_VIDEO": {
-        "type": "WATCH_VIDEO",
-        "target": 29,
-        "assets": {
-          "video": {
-            "url": "quests/1556760769062903880/1572377265382359110_1080.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1556760769062903880/1572111519574007818.jpg"
+    "id": "1556760769062903880",
+    "config_version": 2,
+    "starts_at": "2026-11-19T08:00:00+00:00",
+    "expires_at": "2026-12-07T01:00:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://www.rockstargames.com/VI/PS5/editions",
+      "id": "1445160676522856458",
+      "name": "Grand Theft Auto VI"
+    },
+    "assets": {
+      "hero": "quests/1556760769062903880/1572107417548750859.jpg",
+      "quest_bar_hero_blurhash": "lmgOJI5YmXd+VnaQenfPlveKWA==",
+      "quest_bar_hero": "quests/1556760769062903880/1572297486511505587.jpg",
+      "quest_bar_hero_video": "quests/1556760769062903880/1572660230792282232_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1556760769062903880/1572107259276820530.png",
+      "game_tile_dark": "quests/1556760769062903880/1572107259117576212.png",
+      "logotype_light": "quests/1556760769062903880/1572107259163709520.png",
+      "logotype_dark": "quests/1556760769062903880/1572107259109048350.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Grand Theft Auto VI: Out Now",
+      "game_title": "GTAVI — Now Available",
+      "game_publisher": "Rockstar Games"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 29,
+          "assets": {
+            "video": {
+              "url": "quests/1556760769062903880/1572377265382359110_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1556760769062903880/1572111519574007818.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1556760769062903880/1572377265382359110_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1556760769062903880/1572111519574007818.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1556760769062903880/1572377265382359110.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1556760769062903880/1572111519574007818.jpg"
+            }
           },
-          "video_low_res": {
-            "url": "quests/1556760769062903880/1572377265382359110_720.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1556760769062903880/1572111519574007818.jpg"
-          },
-          "video_hls": {
-            "url": "quests/1556760769062903880/1572377265382359110.m3u8",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1556760769062903880/1572111519574007818.jpg"
+          "messages": {
+            "video_title": "PLACEHOLDER"
           }
         },
-        "messages": {
-          "video_title": "PLACEHOLDER"
+        "WATCH_VIDEO_ON_MOBILE": {
+          "type": "WATCH_VIDEO_ON_MOBILE",
+          "target": 29,
+          "assets": {
+            "video": {
+              "url": "quests/1556760769062903880/1572377265382359110_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1556760769062903880/1572111519574007818.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1556760769062903880/1572377265382359110_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1556760769062903880/1572111519574007818.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1556760769062903880/1572377265382359110.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1556760769062903880/1572111519574007818.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
         }
       },
-      "WATCH_VIDEO_ON_MOBILE": {
-        "type": "WATCH_VIDEO_ON_MOBILE",
-        "target": 29,
-        "assets": {
-          "video": {
-            "url": "quests/1556760769062903880/1572377265382359110_1080.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1556760769062903880/1572111519574007818.jpg"
-          },
-          "video_low_res": {
-            "url": "quests/1556760769062903880/1572377265382359110_720.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1556760769062903880/1572111519574007818.jpg"
-          },
-          "video_hls": {
-            "url": "quests/1556760769062903880/1572377265382359110.m3u8",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1556760769062903880/1572111519574007818.jpg"
-          }
-        },
-        "messages": {
-          "video_title": "PLACEHOLDER"
-        }
-      }
+      "join_operator": "or"
     },
-    "join_operator": "or"
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 3,
+          "sku_id": "1572317684375232582",
+          "asset": "quests/1556760769062903880/1572318335964545105.mp4",
+          "asset_video": null,
+          "messages": {
+            "name": "I HEART VICE CITY Avatar",
+            "name_with_article": "the I HEART VICE CITY Avatar",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "expires_at": "2027-02-05T01:00:00+00:00",
+          "expires_at_premium": null,
+          "expiration_mode": 3
+        }
+      ],
+      "rewards_expire_at": "2027-01-06T01:00:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.rockstargames.com/VI/PS5/editions",
+      "button_label": "Buy Now",
+      "subtitle": "GTAVI — Now Available"
+    }
   },
-  "rewards_config": {
-    "assignment_method": 1,
-    "rewards": [
-      {
-        "type": 3,
-        "sku_id": "1572317684375232582",
-        "asset": "quests/1556760769062903880/1572318335964545105.mp4",
-        "asset_video": null,
-        "messages": {
-          "name": "I HEART VICE CITY Avatar",
-          "name_with_article": "the I HEART VICE CITY Avatar",
-          "redemption_instructions_by_platform": {
-            "0": "PLACEHOLDER"
-          }
-        },
-        "expires_at": "2027-02-05T01:00:00+00:00",
-        "expires_at_premium": null,
-        "expiration_mode": 3
-      }
-    ],
-    "rewards_expire_at": "2027-01-06T01:00:00+00:00",
-    "platforms": [0]
-  },
-  "share_policy": "shareable_everywhere",
-  "cta_config": {
-    "link": "https://www.rockstargames.com/VI/PS5/editions",
-    "button_label": "Buy Now",
-    "subtitle": "GTAVI — Now Available"
-  }
-},
   {
-  "id": "1572384885283233885",
-  "config_version": 2,
-  "starts_at": "2026-11-19T08:00:00+00:00",
-  "expires_at": "2026-12-07T04:59:00+00:00",
-  "features": [15],
-  "application": {
-    "link": "https://www.rockstargames.com/VI/PS5/editions",
-    "id": "1445160676522856458",
-    "name": "Grand Theft Auto VI"
-  },
-  "assets": {
-    "hero": "quests/1572085565795471514/1572295634860380341.jpg",
-    "quest_bar_hero_blurhash": "lmgOJI5YmXd+VnaQenfPlveKWA==",
-    "quest_bar_hero": "quests/1572085565795471514/1572297459420373082.jpg",
-    "quest_bar_hero_video": "quests/1572384885283233885/1572660274014457967_720.mp4",
-    "game_tile": "PLACEHOLDER",
-    "logotype": "PLACEHOLDER",
-    "game_tile_light": "quests/1572085565795471514/1572295635032481863.png",
-    "game_tile_dark": "quests/1572085565795471514/1572295634902585416.png",
-    "logotype_light": "quests/1572085565795471514/1572295634977947698.png",
-    "logotype_dark": "quests/1572085565795471514/1572295634982277211.png"
-  },
-  "colors": {
-    "primary": "#4752C4",
-    "secondary": "#000000"
-  },
-  "messages": {
-    "quest_name": "Grand Theft Auto VI: Jetzt verfügbar",
-    "game_title": "GTAVI – Jetzt erhältlich",
-    "game_publisher": "Rockstar Games"
-  },
-  "task_config_v2": {
-    "tasks": {
-      "WATCH_VIDEO": {
-        "type": "WATCH_VIDEO",
-        "target": 29,
-        "assets": {
-          "video": {
-            "url": "quests/1572384885283233885/1572386133684387891_1080.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1572384885283233885/1572386116923826289.jpg"
+    "id": "1572384885283233885",
+    "config_version": 2,
+    "starts_at": "2026-11-19T08:00:00+00:00",
+    "expires_at": "2026-12-07T04:59:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://www.rockstargames.com/VI/PS5/editions",
+      "id": "1445160676522856458",
+      "name": "Grand Theft Auto VI"
+    },
+    "assets": {
+      "hero": "quests/1572085565795471514/1572295634860380341.jpg",
+      "quest_bar_hero_blurhash": "lmgOJI5YmXd+VnaQenfPlveKWA==",
+      "quest_bar_hero": "quests/1572085565795471514/1572297459420373082.jpg",
+      "quest_bar_hero_video": "quests/1572384885283233885/1572660274014457967_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1572085565795471514/1572295635032481863.png",
+      "game_tile_dark": "quests/1572085565795471514/1572295634902585416.png",
+      "logotype_light": "quests/1572085565795471514/1572295634977947698.png",
+      "logotype_dark": "quests/1572085565795471514/1572295634982277211.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Grand Theft Auto VI: Jetzt verfügbar",
+      "game_title": "GTAVI – Jetzt erhältlich",
+      "game_publisher": "Rockstar Games"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 29,
+          "assets": {
+            "video": {
+              "url": "quests/1572384885283233885/1572386133684387891_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1572384885283233885/1572386116923826289.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1572384885283233885/1572386133684387891_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1572384885283233885/1572386116923826289.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1572384885283233885/1572386133684387891.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1572384885283233885/1572386116923826289.jpg"
+            }
           },
-          "video_low_res": {
-            "url": "quests/1572384885283233885/1572386133684387891_720.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1572384885283233885/1572386116923826289.jpg"
-          },
-          "video_hls": {
-            "url": "quests/1572384885283233885/1572386133684387891.m3u8",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1572384885283233885/1572386116923826289.jpg"
+          "messages": {
+            "video_title": "PLACEHOLDER"
           }
         },
-        "messages": {
-          "video_title": "PLACEHOLDER"
+        "WATCH_VIDEO_ON_MOBILE": {
+          "type": "WATCH_VIDEO_ON_MOBILE",
+          "target": 29,
+          "assets": {
+            "video": {
+              "url": "quests/1572384885283233885/1572386133684387891_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1572384885283233885/1572386116923826289.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1572384885283233885/1572386133684387891_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1572384885283233885/1572386116923826289.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1572384885283233885/1572386133684387891.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1572384885283233885/1572386116923826289.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
         }
       },
-      "WATCH_VIDEO_ON_MOBILE": {
-        "type": "WATCH_VIDEO_ON_MOBILE",
-        "target": 29,
-        "assets": {
-          "video": {
-            "url": "quests/1572384885283233885/1572386133684387891_1080.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1572384885283233885/1572386116923826289.jpg"
-          },
-          "video_low_res": {
-            "url": "quests/1572384885283233885/1572386133684387891_720.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1572384885283233885/1572386116923826289.jpg"
-          },
-          "video_hls": {
-            "url": "quests/1572384885283233885/1572386133684387891.m3u8",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1572384885283233885/1572386116923826289.jpg"
-          }
-        },
-        "messages": {
-          "video_title": "PLACEHOLDER"
-        }
-      }
+      "join_operator": "or"
     },
-    "join_operator": "or"
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 3,
+          "sku_id": "1572317684375232582",
+          "asset": "quests/1572085565795471514/1572318700189786202.mp4",
+          "asset_video": null,
+          "messages": {
+            "name": "I HEART VICE CITY Avatar",
+            "name_with_article": "the I HEART VICE CITY Avatar",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "expires_at": "2027-02-05T01:00:00+00:00",
+          "expires_at_premium": null,
+          "expiration_mode": 3
+        }
+      ],
+      "rewards_expire_at": "2027-01-06T04:59:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.rockstargames.com/VI/PS5/editions",
+      "button_label": "Buy Now",
+      "subtitle": "GTAVI – Jetzt erhältlich"
+    }
   },
-  "rewards_config": {
-    "assignment_method": 1,
-    "rewards": [
-      {
-        "type": 3,
-        "sku_id": "1572317684375232582",
-        "asset": "quests/1572085565795471514/1572318700189786202.mp4",
-        "asset_video": null,
-        "messages": {
-          "name": "I HEART VICE CITY Avatar",
-          "name_with_article": "the I HEART VICE CITY Avatar",
-          "redemption_instructions_by_platform": {
-            "0": "PLACEHOLDER"
-          }
-        },
-        "expires_at": "2027-02-05T01:00:00+00:00",
-        "expires_at_premium": null,
-        "expiration_mode": 3
-      }
-    ],
-    "rewards_expire_at": "2027-01-06T04:59:00+00:00",
-    "platforms": [0]
-  },
-  "share_policy": "shareable_everywhere",
-  "cta_config": {
-    "link": "https://www.rockstargames.com/VI/PS5/editions",
-    "button_label": "Buy Now",
-    "subtitle": "GTAVI – Jetzt erhältlich"
-  }
-},
   {
-  "id": "1553081116678819980",
-  "config_version": 2,
-  "starts_at": "2026-11-19T08:00:00+00:00",
-  "expires_at": "2026-12-07T04:59:00+00:00",
-  "features": [15],
-  "application": {
-    "link": "https://www.rockstargames.com/VI/PS5/editions",
-    "id": "1445160676522856458",
-    "name": "Grand Theft Auto VI"
-  },
-  "assets": {
-    "hero": "quests/1553081116678819980/1572299036508295168.jpg",
-    "quest_bar_hero_blurhash": "lmgOJI5YmXd+VnaQenfPlveKWA==",
-    "quest_bar_hero": "quests/1553081116678819980/1572299122453651476.jpg",
-    "quest_bar_hero_video": "quests/1553081116678819980/1572360786448351382_720.mp4",
-    "game_tile": "PLACEHOLDER",
-    "logotype": "PLACEHOLDER",
-    "game_tile_light": "quests/1553081116678819980/1572299037313466530.png",
-    "game_tile_dark": "quests/1553081116678819980/1572299036218888353.png",
-    "logotype_light": "quests/1553081116678819980/1572299036302647316.png",
-    "logotype_dark": "quests/1553081116678819980/1572299036273148087.png"
-  },
-  "colors": {
-    "primary": "#4752C4",
-    "secondary": "#000000"
-  },
-  "messages": {
-    "quest_name": "Grand Theft Auto VI: Out Now",
-    "game_title": "GTAVI — Now Available",
-    "game_publisher": "Rockstar Games"
-  },
-  "task_config_v2": {
-    "tasks": {
-      "WATCH_VIDEO": {
-        "type": "WATCH_VIDEO",
-        "target": 29,
-        "assets": {
-          "video": {
-            "url": "quests/1553081116678819980/1572341087996219572_1080.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1553081116678819980/1572397260866846731.jpg"
+    "id": "1553081116678819980",
+    "config_version": 2,
+    "starts_at": "2026-11-19T08:00:00+00:00",
+    "expires_at": "2026-12-07T04:59:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://www.rockstargames.com/VI/PS5/editions",
+      "id": "1445160676522856458",
+      "name": "Grand Theft Auto VI"
+    },
+    "assets": {
+      "hero": "quests/1553081116678819980/1572299036508295168.jpg",
+      "quest_bar_hero_blurhash": "lmgOJI5YmXd+VnaQenfPlveKWA==",
+      "quest_bar_hero": "quests/1553081116678819980/1572299122453651476.jpg",
+      "quest_bar_hero_video": "quests/1553081116678819980/1572360786448351382_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1553081116678819980/1572299037313466530.png",
+      "game_tile_dark": "quests/1553081116678819980/1572299036218888353.png",
+      "logotype_light": "quests/1553081116678819980/1572299036302647316.png",
+      "logotype_dark": "quests/1553081116678819980/1572299036273148087.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Grand Theft Auto VI: Out Now",
+      "game_title": "GTAVI — Now Available",
+      "game_publisher": "Rockstar Games"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 29,
+          "assets": {
+            "video": {
+              "url": "quests/1553081116678819980/1572341087996219572_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1553081116678819980/1572397260866846731.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1553081116678819980/1572341087996219572_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1553081116678819980/1572397260866846731.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1553081116678819980/1572341087996219572.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1553081116678819980/1572397260866846731.jpg"
+            }
           },
-          "video_low_res": {
-            "url": "quests/1553081116678819980/1572341087996219572_720.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1553081116678819980/1572397260866846731.jpg"
-          },
-          "video_hls": {
-            "url": "quests/1553081116678819980/1572341087996219572.m3u8",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1553081116678819980/1572397260866846731.jpg"
+          "messages": {
+            "video_title": "PLACEHOLDER"
           }
         },
-        "messages": {
-          "video_title": "PLACEHOLDER"
+        "WATCH_VIDEO_ON_MOBILE": {
+          "type": "WATCH_VIDEO_ON_MOBILE",
+          "target": 29,
+          "assets": {
+            "video": {
+              "url": "quests/1553081116678819980/1572341087996219572_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1553081116678819980/1572397260866846731.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1553081116678819980/1572341087996219572_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1553081116678819980/1572397260866846731.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1553081116678819980/1572341087996219572.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1553081116678819980/1572397260866846731.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
         }
       },
-      "WATCH_VIDEO_ON_MOBILE": {
-        "type": "WATCH_VIDEO_ON_MOBILE",
-        "target": 29,
-        "assets": {
-          "video": {
-            "url": "quests/1553081116678819980/1572341087996219572_1080.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1553081116678819980/1572397260866846731.jpg"
-          },
-          "video_low_res": {
-            "url": "quests/1553081116678819980/1572341087996219572_720.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1553081116678819980/1572397260866846731.jpg"
-          },
-          "video_hls": {
-            "url": "quests/1553081116678819980/1572341087996219572.m3u8",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1553081116678819980/1572397260866846731.jpg"
-          }
-        },
-        "messages": {
-          "video_title": "PLACEHOLDER"
-        }
-      }
+      "join_operator": "or"
     },
-    "join_operator": "or"
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 3,
+          "sku_id": "1572317684375232582",
+          "asset": "quests/1553081116678819980/1572318109107355678.mp4",
+          "asset_video": null,
+          "messages": {
+            "name": "I HEART VICE CITY Avatar",
+            "name_with_article": "the I HEART VICE CITY Avatar",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "expires_at": "2027-02-05T01:00:00+00:00",
+          "expires_at_premium": null,
+          "expiration_mode": 3
+        }
+      ],
+      "rewards_expire_at": "2027-01-06T04:59:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.rockstargames.com/VI/PS5/editions",
+      "button_label": "Buy Now",
+      "subtitle": "GTAVI — Now Available"
+    }
   },
-  "rewards_config": {
-    "assignment_method": 1,
-    "rewards": [
-      {
-        "type": 3,
-        "sku_id": "1572317684375232582",
-        "asset": "quests/1553081116678819980/1572318109107355678.mp4",
-        "asset_video": null,
-        "messages": {
-          "name": "I HEART VICE CITY Avatar",
-          "name_with_article": "the I HEART VICE CITY Avatar",
-          "redemption_instructions_by_platform": {
-            "0": "PLACEHOLDER"
-          }
-        },
-        "expires_at": "2027-02-05T01:00:00+00:00",
-        "expires_at_premium": null,
-        "expiration_mode": 3
-      }
-    ],
-    "rewards_expire_at": "2027-01-06T04:59:00+00:00",
-    "platforms": [0]
-  },
-  "share_policy": "shareable_everywhere",
-  "cta_config": {
-    "link": "https://www.rockstargames.com/VI/PS5/editions",
-    "button_label": "Buy Now",
-    "subtitle": "GTAVI — Now Available"
-  }
-},
   {
-  "id": "1572085565795471514",
-  "config_version": 2,
-  "starts_at": "2026-11-19T08:00:00+00:00",
-  "expires_at": "2026-12-07T04:59:00+00:00",
-  "features": [15],
-  "application": {
-    "link": "https://www.rockstargames.com/VI/PS5/editions",
-    "id": "1445160676522856458",
-    "name": "Grand Theft Auto VI"
-  },
-  "assets": {
-    "hero": "quests/1572085565795471514/1572295634860380341.jpg",
-    "quest_bar_hero_blurhash": "lmgOJI5YmXd+VnaQenfPlveKWA==",
-    "quest_bar_hero": "quests/1572085565795471514/1572297459420373082.jpg",
-    "quest_bar_hero_video": "quests/1572085565795471514/1572660241458532474_720.mp4",
-    "game_tile": "PLACEHOLDER",
-    "logotype": "PLACEHOLDER",
-    "game_tile_light": "quests/1572085565795471514/1572295635032481863.png",
-    "game_tile_dark": "quests/1572085565795471514/1572295634902585416.png",
-    "logotype_light": "quests/1572085565795471514/1572295634977947698.png",
-    "logotype_dark": "quests/1572085565795471514/1572295634982277211.png"
-  },
-  "colors": {
-    "primary": "#4752C4",
-    "secondary": "#000000"
-  },
-  "messages": {
-    "quest_name": "Grand Theft Auto VI: Out Now",
-    "game_title": "GTAVI — Now Available",
-    "game_publisher": "Rockstar Games"
-  },
-  "task_config_v2": {
-    "tasks": {
-      "WATCH_VIDEO": {
-        "type": "WATCH_VIDEO",
-        "target": 29,
-        "assets": {
-          "video": {
-            "url": "quests/1572085565795471514/1572372914076917903_1080.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1572085565795471514/1572295746445901985.jpg"
+    "id": "1572085565795471514",
+    "config_version": 2,
+    "starts_at": "2026-11-19T08:00:00+00:00",
+    "expires_at": "2026-12-07T04:59:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://www.rockstargames.com/VI/PS5/editions",
+      "id": "1445160676522856458",
+      "name": "Grand Theft Auto VI"
+    },
+    "assets": {
+      "hero": "quests/1572085565795471514/1572295634860380341.jpg",
+      "quest_bar_hero_blurhash": "lmgOJI5YmXd+VnaQenfPlveKWA==",
+      "quest_bar_hero": "quests/1572085565795471514/1572297459420373082.jpg",
+      "quest_bar_hero_video": "quests/1572085565795471514/1572660241458532474_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1572085565795471514/1572295635032481863.png",
+      "game_tile_dark": "quests/1572085565795471514/1572295634902585416.png",
+      "logotype_light": "quests/1572085565795471514/1572295634977947698.png",
+      "logotype_dark": "quests/1572085565795471514/1572295634982277211.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Grand Theft Auto VI: Out Now",
+      "game_title": "GTAVI — Now Available",
+      "game_publisher": "Rockstar Games"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 29,
+          "assets": {
+            "video": {
+              "url": "quests/1572085565795471514/1572372914076917903_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1572085565795471514/1572295746445901985.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1572085565795471514/1572372914076917903_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1572085565795471514/1572295746445901985.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1572085565795471514/1572372914076917903.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1572085565795471514/1572295746445901985.jpg"
+            }
           },
-          "video_low_res": {
-            "url": "quests/1572085565795471514/1572372914076917903_720.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1572085565795471514/1572295746445901985.jpg"
-          },
-          "video_hls": {
-            "url": "quests/1572085565795471514/1572372914076917903.m3u8",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1572085565795471514/1572295746445901985.jpg"
+          "messages": {
+            "video_title": "PLACEHOLDER"
           }
         },
-        "messages": {
-          "video_title": "PLACEHOLDER"
+        "WATCH_VIDEO_ON_MOBILE": {
+          "type": "WATCH_VIDEO_ON_MOBILE",
+          "target": 29,
+          "assets": {
+            "video": {
+              "url": "quests/1572085565795471514/1572372914076917903_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1572085565795471514/1572295746445901985.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1572085565795471514/1572372914076917903_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1572085565795471514/1572295746445901985.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1572085565795471514/1572372914076917903.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1572085565795471514/1572295746445901985.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
         }
       },
-      "WATCH_VIDEO_ON_MOBILE": {
-        "type": "WATCH_VIDEO_ON_MOBILE",
-        "target": 29,
-        "assets": {
-          "video": {
-            "url": "quests/1572085565795471514/1572372914076917903_1080.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1572085565795471514/1572295746445901985.jpg"
-          },
-          "video_low_res": {
-            "url": "quests/1572085565795471514/1572372914076917903_720.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1572085565795471514/1572295746445901985.jpg"
-          },
-          "video_hls": {
-            "url": "quests/1572085565795471514/1572372914076917903.m3u8",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1572085565795471514/1572295746445901985.jpg"
-          }
-        },
-        "messages": {
-          "video_title": "PLACEHOLDER"
-        }
-      }
+      "join_operator": "or"
     },
-    "join_operator": "or"
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 3,
+          "sku_id": "1572317684375232582",
+          "asset": "quests/1572085565795471514/1572318700189786202.mp4",
+          "asset_video": null,
+          "messages": {
+            "name": "I HEART VICE CITY Avatar",
+            "name_with_article": "the I HEART VICE CITY Avatar",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "expires_at": "2027-02-05T01:00:00+00:00",
+          "expires_at_premium": null,
+          "expiration_mode": 3
+        }
+      ],
+      "rewards_expire_at": "2027-01-06T04:59:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.rockstargames.com/VI/PS5/editions",
+      "button_label": "Buy Now",
+      "subtitle": "GTAVI — Now Available"
+    }
   },
-  "rewards_config": {
-    "assignment_method": 1,
-    "rewards": [
-      {
-        "type": 3,
-        "sku_id": "1572317684375232582",
-        "asset": "quests/1572085565795471514/1572318700189786202.mp4",
-        "asset_video": null,
-        "messages": {
-          "name": "I HEART VICE CITY Avatar",
-          "name_with_article": "the I HEART VICE CITY Avatar",
-          "redemption_instructions_by_platform": {
-            "0": "PLACEHOLDER"
-          }
-        },
-        "expires_at": "2027-02-05T01:00:00+00:00",
-        "expires_at_premium": null,
-        "expiration_mode": 3
-      }
-    ],
-    "rewards_expire_at": "2027-01-06T04:59:00+00:00",
-    "platforms": [0]
-  },
-  "share_policy": "shareable_everywhere",
-  "cta_config": {
-    "link": "https://www.rockstargames.com/VI/PS5/editions",
-    "button_label": "Buy Now",
-    "subtitle": "GTAVI — Now Available"
-  }
-},
   {
-  "id": "1552773375133221027",
-  "config_version": 2,
-  "starts_at": "2026-11-19T08:00:00+00:00",
-  "expires_at": "2026-11-23T07:59:00+00:00",
-  "features": [15],
-  "application": {
-    "link": "https://www.netflix.com/tudum/features/what-to-watch-next-on-netflix-2026?utm_source=discord&utm_medium=paid&utm_campaign=us_whattowatch2026&utm_content=what-to-watch-next-on-netflix-2026",
-    "id": "545364944258990091",
-    "name": "Discord"
-  },
-  "assets": {
-    "hero": "quests/1552773375133221027/1570567702752272464.jpg",
-    "quest_bar_hero_blurhash": "E+gFDIQjh4iveHeYeXcHucmiBg==",
-    "quest_bar_hero": "quests/1552773375133221027/1570546321369206804.jpg",
-    "quest_bar_hero_video": "quests/1552773375133221027/1570567810353070142_720.mp4",
-    "game_tile": "PLACEHOLDER",
-    "logotype": "PLACEHOLDER",
-    "game_tile_light": "quests/1552773375133221027/1572060118479142982.png",
-    "game_tile_dark": "quests/1552773375133221027/1572060118479142982.png",
-    "logotype_light": "quests/1552773375133221027/1570567747090382858.png",
-    "logotype_dark": "quests/1552773375133221027/1570567596405694494.png"
-  },
-  "colors": {
-    "primary": "#4752C4",
-    "secondary": "#000000"
-  },
-  "messages": {
-    "quest_name": "Netflix | What Next?",
-    "game_title": "Find The Thing You Never Knew You Needed",
-    "game_publisher": "Netflix"
-  },
-  "task_config_v2": {
-    "tasks": {
-      "WATCH_VIDEO": {
-        "type": "WATCH_VIDEO",
-        "target": 59,
-        "assets": {
-          "video": {
-            "url": "quests/1552773375133221027/1570567315878060042_1080.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1552773375133221027/1570567333120843856.jpg"
+    "id": "1552773375133221027",
+    "config_version": 2,
+    "starts_at": "2026-11-19T08:00:00+00:00",
+    "expires_at": "2026-11-23T07:59:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://www.netflix.com/tudum/features/what-to-watch-next-on-netflix-2026?utm_source=discord&utm_medium=paid&utm_campaign=us_whattowatch2026&utm_content=what-to-watch-next-on-netflix-2026",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "quests/1552773375133221027/1570567702752272464.jpg",
+      "quest_bar_hero_blurhash": "E+gFDIQjh4iveHeYeXcHucmiBg==",
+      "quest_bar_hero": "quests/1552773375133221027/1570546321369206804.jpg",
+      "quest_bar_hero_video": "quests/1552773375133221027/1570567810353070142_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1552773375133221027/1572060118479142982.png",
+      "game_tile_dark": "quests/1552773375133221027/1572060118479142982.png",
+      "logotype_light": "quests/1552773375133221027/1570567747090382858.png",
+      "logotype_dark": "quests/1552773375133221027/1570567596405694494.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Netflix | What Next?",
+      "game_title": "Find The Thing You Never Knew You Needed",
+      "game_publisher": "Netflix"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 59,
+          "assets": {
+            "video": {
+              "url": "quests/1552773375133221027/1570567315878060042_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1552773375133221027/1570567333120843856.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1552773375133221027/1570567315878060042_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1552773375133221027/1570567333120843856.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1552773375133221027/1570567315878060042.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1552773375133221027/1570567333120843856.jpg"
+            }
           },
-          "video_low_res": {
-            "url": "quests/1552773375133221027/1570567315878060042_720.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1552773375133221027/1570567333120843856.jpg"
-          },
-          "video_hls": {
-            "url": "quests/1552773375133221027/1570567315878060042.m3u8",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1552773375133221027/1570567333120843856.jpg"
+          "messages": {
+            "video_title": "PLACEHOLDER"
           }
         },
-        "messages": {
-          "video_title": "PLACEHOLDER"
+        "WATCH_VIDEO_ON_MOBILE": {
+          "type": "WATCH_VIDEO_ON_MOBILE",
+          "target": 59,
+          "assets": {
+            "video": {
+              "url": "quests/1552773375133221027/1570567296651628615_1080.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1552773375133221027/1570567333120843856.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1552773375133221027/1570567296651628615_720.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1552773375133221027/1570567333120843856.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1552773375133221027/1570567296651628615.m3u8",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1552773375133221027/1570567333120843856.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
         }
       },
-      "WATCH_VIDEO_ON_MOBILE": {
-        "type": "WATCH_VIDEO_ON_MOBILE",
-        "target": 59,
-        "assets": {
-          "video": {
-            "url": "quests/1552773375133221027/1570567296651628615_1080.mp4",
-            "width": 1080,
-            "height": 1920,
-            "thumbnail": "quests/1552773375133221027/1570567333120843856.jpg"
-          },
-          "video_low_res": {
-            "url": "quests/1552773375133221027/1570567296651628615_720.mp4",
-            "width": 1080,
-            "height": 1920,
-            "thumbnail": "quests/1552773375133221027/1570567333120843856.jpg"
-          },
-          "video_hls": {
-            "url": "quests/1552773375133221027/1570567296651628615.m3u8",
-            "width": 1080,
-            "height": 1920,
-            "thumbnail": "quests/1552773375133221027/1570567333120843856.jpg"
-          }
-        },
-        "messages": {
-          "video_title": "PLACEHOLDER"
-        }
-      }
+      "join_operator": "or"
     },
-    "join_operator": "or"
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "200 Orbs",
+            "name_with_article": "200 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 200,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2026-12-23T07:59:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.netflix.com/tudum/features/what-to-watch-next-on-netflix-2026?utm_source=discord&utm_medium=paid&utm_campaign=us_whattowatch2026&utm_content=what-to-watch-next-on-netflix-2026",
+      "button_label": "Learn More",
+      "subtitle": "Find The Thing You Never Knew You Needed"
+    }
   },
-  "rewards_config": {
-    "assignment_method": 1,
-    "rewards": [
-      {
-        "type": 4,
-        "sku_id": "1287881739531976815",
-        "messages": {
-          "name": "200 Orbs",
-          "name_with_article": "200 Orbs",
-          "redemption_instructions_by_platform": {
-            "0": "PLACEHOLDER"
-          }
-        },
-        "orb_quantity": 200,
-        "premium_orb_quantity": null
-      }
-    ],
-    "rewards_expire_at": "2026-12-23T07:59:00+00:00",
-    "platforms": [0]
-  },
-  "share_policy": "shareable_everywhere",
-  "cta_config": {
-    "link": "https://www.netflix.com/tudum/features/what-to-watch-next-on-netflix-2026?utm_source=discord&utm_medium=paid&utm_campaign=us_whattowatch2026&utm_content=what-to-watch-next-on-netflix-2026",
-    "button_label": "Learn More",
-    "subtitle": "Find The Thing You Never Knew You Needed"
-  }
-},
   {
-  "id": "1572420606723362858",
-  "config_version": 2,
-  "starts_at": "2026-11-19T08:00:00+00:00",
-  "expires_at": "2026-12-07T04:59:00+00:00",
-  "features": [44, 15],
-  "application": {
-    "link": "https://www.rockstargames.com/VI/PS5/editions",
-    "id": "1445160676522856458",
-    "name": "Grand Theft Auto VI"
-  },
-  "assets": {
-    "hero": "quests/1553081116678819980/1572299036508295168.jpg",
-    "quest_bar_hero_blurhash": "lmgOJI5YmXd+VnaQenfPlveKWA==",
-    "quest_bar_hero": "quests/1553081116678819980/1572299122453651476.jpg",
-    "quest_bar_hero_video": "quests/1553081116678819980/1572360786448351382_720.mp4",
-    "game_tile": "PLACEHOLDER",
-    "logotype": "PLACEHOLDER",
-    "game_tile_light": "quests/1553081116678819980/1572299037313466530.png",
-    "game_tile_dark": "quests/1553081116678819980/1572299036218888353.png",
-    "logotype_light": "quests/1553081116678819980/1572299036302647316.png",
-    "logotype_dark": "quests/1553081116678819980/1572299036273148087.png"
-  },
-  "colors": {
-    "primary": "#4752C4",
-    "secondary": "#000000"
-  },
-  "messages": {
-    "quest_name": "Grand Theft Auto VI: Out Now",
-    "game_title": "GTAVI — Now Available",
-    "game_publisher": "Rockstar Games"
-  },
-  "task_config_v2": {
-    "tasks": {
-      "WATCH_VIDEO": {
-        "type": "WATCH_VIDEO",
-        "target": 29,
-        "assets": {
-          "video": {
-            "url": "quests/1553081116678819980/1572341087996219572_1080.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1553081116678819980/1572299006154113184.jpg"
+    "id": "1572420606723362858",
+    "config_version": 2,
+    "starts_at": "2026-11-19T08:00:00+00:00",
+    "expires_at": "2026-12-07T04:59:00+00:00",
+    "features": [
+      44,
+      15
+    ],
+    "application": {
+      "link": "https://www.rockstargames.com/VI/PS5/editions",
+      "id": "1445160676522856458",
+      "name": "Grand Theft Auto VI"
+    },
+    "assets": {
+      "hero": "quests/1553081116678819980/1572299036508295168.jpg",
+      "quest_bar_hero_blurhash": "lmgOJI5YmXd+VnaQenfPlveKWA==",
+      "quest_bar_hero": "quests/1553081116678819980/1572299122453651476.jpg",
+      "quest_bar_hero_video": "quests/1553081116678819980/1572360786448351382_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1553081116678819980/1572299037313466530.png",
+      "game_tile_dark": "quests/1553081116678819980/1572299036218888353.png",
+      "logotype_light": "quests/1553081116678819980/1572299036302647316.png",
+      "logotype_dark": "quests/1553081116678819980/1572299036273148087.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Grand Theft Auto VI: Out Now",
+      "game_title": "GTAVI — Now Available",
+      "game_publisher": "Rockstar Games"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 29,
+          "assets": {
+            "video": {
+              "url": "quests/1553081116678819980/1572341087996219572_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1553081116678819980/1572299006154113184.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1553081116678819980/1572341087996219572_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1553081116678819980/1572299006154113184.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1553081116678819980/1572341087996219572.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1553081116678819980/1572299006154113184.jpg"
+            }
           },
-          "video_low_res": {
-            "url": "quests/1553081116678819980/1572341087996219572_720.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1553081116678819980/1572299006154113184.jpg"
-          },
-          "video_hls": {
-            "url": "quests/1553081116678819980/1572341087996219572.m3u8",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1553081116678819980/1572299006154113184.jpg"
+          "messages": {
+            "video_title": "PLACEHOLDER"
           }
         },
-        "messages": {
-          "video_title": "PLACEHOLDER"
+        "WATCH_VIDEO_ON_MOBILE": {
+          "type": "WATCH_VIDEO_ON_MOBILE",
+          "target": 29,
+          "assets": {
+            "video": {
+              "url": "quests/1553081116678819980/1572341087996219572_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1553081116678819980/1572299006154113184.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1553081116678819980/1572341087996219572_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1553081116678819980/1572299006154113184.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1553081116678819980/1572341087996219572.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1553081116678819980/1572299006154113184.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
         }
       },
-      "WATCH_VIDEO_ON_MOBILE": {
-        "type": "WATCH_VIDEO_ON_MOBILE",
-        "target": 29,
-        "assets": {
-          "video": {
-            "url": "quests/1553081116678819980/1572341087996219572_1080.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1553081116678819980/1572299006154113184.jpg"
-          },
-          "video_low_res": {
-            "url": "quests/1553081116678819980/1572341087996219572_720.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1553081116678819980/1572299006154113184.jpg"
-          },
-          "video_hls": {
-            "url": "quests/1553081116678819980/1572341087996219572.m3u8",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1553081116678819980/1572299006154113184.jpg"
-          }
-        },
-        "messages": {
-          "video_title": "PLACEHOLDER"
-        }
-      }
+      "join_operator": "or"
     },
-    "join_operator": "or"
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 3,
+          "sku_id": "1572317684375232582",
+          "asset": "quests/1553081116678819980/1572318109107355678.mp4",
+          "asset_video": null,
+          "messages": {
+            "name": "I HEART VICE CITY Avatar",
+            "name_with_article": "the I HEART VICE CITY Avatar",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "expires_at": "2027-02-05T01:00:00+00:00",
+          "expires_at_premium": null,
+          "expiration_mode": 3
+        }
+      ],
+      "rewards_expire_at": "2027-01-06T04:59:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.rockstargames.com/VI/PS5/editions",
+      "button_label": "Buy Now",
+      "subtitle": "GTAVI — Now Available"
+    }
   },
-  "rewards_config": {
-    "assignment_method": 1,
-    "rewards": [
-      {
-        "type": 3,
-        "sku_id": "1572317684375232582",
-        "asset": "quests/1553081116678819980/1572318109107355678.mp4",
-        "asset_video": null,
-        "messages": {
-          "name": "I HEART VICE CITY Avatar",
-          "name_with_article": "the I HEART VICE CITY Avatar",
-          "redemption_instructions_by_platform": {
-            "0": "PLACEHOLDER"
-          }
-        },
-        "expires_at": "2027-02-05T01:00:00+00:00",
-        "expires_at_premium": null,
-        "expiration_mode": 3
-      }
-    ],
-    "rewards_expire_at": "2027-01-06T04:59:00+00:00",
-    "platforms": [0]
-  },
-  "share_policy": "shareable_everywhere",
-  "cta_config": {
-    "link": "https://www.rockstargames.com/VI/PS5/editions",
-    "button_label": "Buy Now",
-    "subtitle": "GTAVI — Now Available"
-  }
-},
   {
-  "id": "1554267506372255815",
-  "config_version": 2,
-  "starts_at": "2026-11-19T18:00:00+00:00",
-  "expires_at": "2026-11-27T07:59:00+00:00",
-  "features": [15],
-  "application": {
-    "link": "https://discord.gg/dunemovie",
-    "id": "545364944258990091",
-    "name": "Discord"
-  },
-  "assets": {
-    "hero": "quests/1554267506372255815/1570924470158237948.jpg",
-    "quest_bar_hero_blurhash": "HBgODIJgyWqIqXiRiHdQiAV1GQ==",
-    "quest_bar_hero": "quests/1554267506372255815/1570925037337317406.jpg",
-    "quest_bar_hero_video": "quests/1554267506372255815/1570925172876255293_720.mp4",
-    "game_tile": "PLACEHOLDER",
-    "logotype": "PLACEHOLDER",
-    "game_tile_light": "quests/1554267506372255815/1570924356022833203.png",
-    "game_tile_dark": "quests/1554267506372255815/1570924356022833203.png",
-    "logotype_light": "quests/1554267506372255815/1570927458511888425.png",
-    "logotype_dark": "quests/1554267506372255815/1570927458511888425.png"
-  },
-  "colors": {
-    "primary": "#4752C4",
-    "secondary": "#000000"
-  },
-  "messages": {
-    "quest_name": "Dune: Part Three",
-    "game_title": "Only in Theaters 12.18 Filmed for IMAX",
-    "game_publisher": "Warner Bros. Pictures"
-  },
-  "task_config_v2": {
-    "tasks": {
-      "WATCH_VIDEO": {
-        "type": "WATCH_VIDEO",
-        "target": 157,
-        "assets": {
-          "video": {
-            "url": "quests/1554267506372255815/1572691663913091082_1080.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1554267506372255815/1572062421579726939.jpg"
+    "id": "1554267506372255815",
+    "config_version": 2,
+    "starts_at": "2026-11-19T18:00:00+00:00",
+    "expires_at": "2026-11-27T07:59:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://discord.gg/dunemovie",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "quests/1554267506372255815/1570924470158237948.jpg",
+      "quest_bar_hero_blurhash": "HBgODIJgyWqIqXiRiHdQiAV1GQ==",
+      "quest_bar_hero": "quests/1554267506372255815/1570925037337317406.jpg",
+      "quest_bar_hero_video": "quests/1554267506372255815/1570925172876255293_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1554267506372255815/1570924356022833203.png",
+      "game_tile_dark": "quests/1554267506372255815/1570924356022833203.png",
+      "logotype_light": "quests/1554267506372255815/1570927458511888425.png",
+      "logotype_dark": "quests/1554267506372255815/1570927458511888425.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Dune: Part Three",
+      "game_title": "Only in Theaters 12.18 Filmed for IMAX",
+      "game_publisher": "Warner Bros. Pictures"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 157,
+          "assets": {
+            "video": {
+              "url": "quests/1554267506372255815/1572691663913091082_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1554267506372255815/1572062421579726939.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1554267506372255815/1572691663913091082_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1554267506372255815/1572062421579726939.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1554267506372255815/1572691663913091082.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1554267506372255815/1572062421579726939.jpg"
+            }
           },
-          "video_low_res": {
-            "url": "quests/1554267506372255815/1572691663913091082_720.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1554267506372255815/1572062421579726939.jpg"
-          },
-          "video_hls": {
-            "url": "quests/1554267506372255815/1572691663913091082.m3u8",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1554267506372255815/1572062421579726939.jpg"
+          "messages": {
+            "video_title": "PLACEHOLDER"
           }
         },
-        "messages": {
-          "video_title": "PLACEHOLDER"
+        "WATCH_VIDEO_ON_MOBILE": {
+          "type": "WATCH_VIDEO_ON_MOBILE",
+          "target": 157,
+          "assets": {
+            "video": {
+              "url": "quests/1554267506372255815/1572691640051572756_1080.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1554267506372255815/1572062421579726939.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1554267506372255815/1572691640051572756_720.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1554267506372255815/1572062421579726939.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1554267506372255815/1572691640051572756.m3u8",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1554267506372255815/1572062421579726939.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
         }
       },
-      "WATCH_VIDEO_ON_MOBILE": {
-        "type": "WATCH_VIDEO_ON_MOBILE",
-        "target": 157,
-        "assets": {
-          "video": {
-            "url": "quests/1554267506372255815/1572691640051572756_1080.mp4",
-            "width": 1080,
-            "height": 1920,
-            "thumbnail": "quests/1554267506372255815/1572062421579726939.jpg"
-          },
-          "video_low_res": {
-            "url": "quests/1554267506372255815/1572691640051572756_720.mp4",
-            "width": 1080,
-            "height": 1920,
-            "thumbnail": "quests/1554267506372255815/1572062421579726939.jpg"
-          },
-          "video_hls": {
-            "url": "quests/1554267506372255815/1572691640051572756.m3u8",
-            "width": 1080,
-            "height": 1920,
-            "thumbnail": "quests/1554267506372255815/1572062421579726939.jpg"
-          }
-        },
-        "messages": {
-          "video_title": "PLACEHOLDER"
-        }
-      }
+      "join_operator": "or"
     },
-    "join_operator": "or"
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "200 Orbs",
+            "name_with_article": "200 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 200,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2026-12-27T07:59:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://discord.gg/dunemovie",
+      "button_label": "Join Server",
+      "subtitle": "Only in Theaters 12.18 Filmed for IMAX"
+    }
   },
-  "rewards_config": {
-    "assignment_method": 1,
-    "rewards": [
-      {
-        "type": 4,
-        "sku_id": "1287881739531976815",
-        "messages": {
-          "name": "200 Orbs",
-          "name_with_article": "200 Orbs",
-          "redemption_instructions_by_platform": {
-            "0": "PLACEHOLDER"
-          }
-        },
-        "orb_quantity": 200,
-        "premium_orb_quantity": null
-      }
-    ],
-    "rewards_expire_at": "2026-12-27T07:59:00+00:00",
-    "platforms": [0]
-  },
-  "share_policy": "shareable_everywhere",
-  "cta_config": {
-    "link": "https://discord.gg/dunemovie",
-    "button_label": "Join Server",
-    "subtitle": "Only in Theaters 12.18 Filmed for IMAX"
-  }
-},
   {
-  "id": "1559615920190529706",
-  "config_version": 2,
-  "starts_at": "2026-11-19T18:00:00+00:00",
-  "expires_at": "2026-11-30T07:59:00+00:00",
-  "features": [15],
-  "application": {
-    "link": "https://www.universalpicturesathome.com/movies/the-odyssey-2026?utm_source=paid&utm_medium=site-direct&utm_campaign=tradhe-theodyssey&utm_content=discord",
-    "id": "545364944258990091",
-    "name": "Discord"
-  },
-  "assets": {
-    "hero": "quests/1559615920190529706/1572012927391895702.jpg",
-    "quest_bar_hero_blurhash": "y/cJDIJ3d4h/d4iDeHBZd5929w==",
-    "quest_bar_hero": "quests/1559615920190529706/1570532267179245568.jpg",
-    "quest_bar_hero_video": "quests/1559615920190529706/1570532291489304759_720.mp4",
-    "game_tile": "PLACEHOLDER",
-    "logotype": "PLACEHOLDER",
-    "game_tile_light": "quests/1559615920190529706/1572750651165773934.png",
-    "game_tile_dark": "quests/1559615920190529706/1572750651165773934.png",
-    "logotype_light": "quests/1559615920190529706/1572750650612125746.png",
-    "logotype_dark": "quests/1559615920190529706/1570530656440819722.png"
-  },
-  "colors": {
-    "primary": "#4752C4",
-    "secondary": "#000000"
-  },
-  "messages": {
-    "quest_name": "The Odyssey",
-    "game_title": "Watch The Odyssey at home now",
-    "game_publisher": "Universal Pictures"
-  },
-  "task_config_v2": {
-    "tasks": {
-      "WATCH_VIDEO": {
-        "type": "WATCH_VIDEO",
-        "target": 29,
-        "assets": {
-          "video": {
-            "url": "quests/1559615920190529706/1570532478064529408_1080.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1559615920190529706/1572013049445884074.jpg"
+    "id": "1559615920190529706",
+    "config_version": 2,
+    "starts_at": "2026-11-19T18:00:00+00:00",
+    "expires_at": "2026-11-30T07:59:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://www.universalpicturesathome.com/movies/the-odyssey-2026?utm_source=paid&utm_medium=site-direct&utm_campaign=tradhe-theodyssey&utm_content=discord",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "quests/1559615920190529706/1572012927391895702.jpg",
+      "quest_bar_hero_blurhash": "y/cJDIJ3d4h/d4iDeHBZd5929w==",
+      "quest_bar_hero": "quests/1559615920190529706/1570532267179245568.jpg",
+      "quest_bar_hero_video": "quests/1559615920190529706/1570532291489304759_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1559615920190529706/1572750651165773934.png",
+      "game_tile_dark": "quests/1559615920190529706/1572750651165773934.png",
+      "logotype_light": "quests/1559615920190529706/1572750650612125746.png",
+      "logotype_dark": "quests/1559615920190529706/1570530656440819722.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "The Odyssey",
+      "game_title": "Watch The Odyssey at home now",
+      "game_publisher": "Universal Pictures"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 29,
+          "assets": {
+            "video": {
+              "url": "quests/1559615920190529706/1570532478064529408_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1559615920190529706/1572013049445884074.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1559615920190529706/1570532478064529408_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1559615920190529706/1572013049445884074.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1559615920190529706/1570532478064529408.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1559615920190529706/1572013049445884074.jpg"
+            }
           },
-          "video_low_res": {
-            "url": "quests/1559615920190529706/1570532478064529408_720.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1559615920190529706/1572013049445884074.jpg"
-          },
-          "video_hls": {
-            "url": "quests/1559615920190529706/1570532478064529408.m3u8",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1559615920190529706/1572013049445884074.jpg"
+          "messages": {
+            "video_title": "PLACEHOLDER"
           }
         },
-        "messages": {
-          "video_title": "PLACEHOLDER"
+        "WATCH_VIDEO_ON_MOBILE": {
+          "type": "WATCH_VIDEO_ON_MOBILE",
+          "target": 29,
+          "assets": {
+            "video": {
+              "url": "quests/1559615920190529706/1570532478064529408_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1559615920190529706/1572013049445884074.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1559615920190529706/1570532478064529408_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1559615920190529706/1572013049445884074.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1559615920190529706/1570532478064529408.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1559615920190529706/1572013049445884074.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
         }
       },
-      "WATCH_VIDEO_ON_MOBILE": {
-        "type": "WATCH_VIDEO_ON_MOBILE",
-        "target": 29,
-        "assets": {
-          "video": {
-            "url": "quests/1559615920190529706/1570532478064529408_1080.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1559615920190529706/1572013049445884074.jpg"
-          },
-          "video_low_res": {
-            "url": "quests/1559615920190529706/1570532478064529408_720.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1559615920190529706/1572013049445884074.jpg"
-          },
-          "video_hls": {
-            "url": "quests/1559615920190529706/1570532478064529408.m3u8",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1559615920190529706/1572013049445884074.jpg"
-          }
-        },
-        "messages": {
-          "video_title": "PLACEHOLDER"
-        }
-      }
+      "join_operator": "or"
     },
-    "join_operator": "or"
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "200 Orbs",
+            "name_with_article": "200 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 200,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2026-12-30T07:59:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.universalpicturesathome.com/movies/the-odyssey-2026?utm_source=paid&utm_medium=site-direct&utm_campaign=tradhe-theodyssey&utm_content=discord",
+      "button_label": "Watch Now",
+      "subtitle": "Watch The Odyssey at home now"
+    }
   },
-  "rewards_config": {
-    "assignment_method": 1,
-    "rewards": [
-      {
-        "type": 4,
-        "sku_id": "1287881739531976815",
-        "messages": {
-          "name": "200 Orbs",
-          "name_with_article": "200 Orbs",
-          "redemption_instructions_by_platform": {
-            "0": "PLACEHOLDER"
-          }
-        },
-        "orb_quantity": 200,
-        "premium_orb_quantity": null
-      }
-    ],
-    "rewards_expire_at": "2026-12-30T07:59:00+00:00",
-    "platforms": [0]
-  },
-  "share_policy": "shareable_everywhere",
-  "cta_config": {
-    "link": "https://www.universalpicturesathome.com/movies/the-odyssey-2026?utm_source=paid&utm_medium=site-direct&utm_campaign=tradhe-theodyssey&utm_content=discord",
-    "button_label": "Watch Now",
-    "subtitle": "Watch The Odyssey at home now"
-  }
-},
   {
-  "id": "1554596155680100372",
-  "config_version": 2,
-  "starts_at": "2026-11-19T20:10:00+00:00",
-  "expires_at": "2026-12-07T01:00:00+00:00",
-  "features": [15],
-  "application": {
-    "link": "https://www.amazon.com/dp/B0H8MGR6PV",
-    "id": "545364944258990091",
-    "name": "Discord"
-  },
-  "assets": {
-    "hero": "quests/1554596155680100372/1570544357692678226.jpg",
-    "quest_bar_hero_blurhash": "TQgGJIhAaMkui3d1mHtAOwezcw==",
-    "quest_bar_hero": "quests/1554596155680100372/1570544375396704366.jpg",
-    "quest_bar_hero_video": "quests/1554596155680100372/1572382228304892045_720.mp4",
-    "game_tile": "PLACEHOLDER",
-    "logotype": "PLACEHOLDER",
-    "game_tile_light": "quests/1554596155680100372/1570544415741845535.png",
-    "game_tile_dark": "quests/1554596155680100372/1570544415741845535.png",
-    "logotype_light": "quests/1554596155680100372/1570544334636454058.png",
-    "logotype_dark": "quests/1554596155680100372/1570544334636454058.png"
-  },
-  "colors": {
-    "primary": "#4752C4",
-    "secondary": "#000000"
-  },
-  "messages": {
-    "quest_name": "Blade Runner 2099",
-    "game_title": "Blade Runner 2099, a new limited series, premieres November 25 only on Prime.",
-    "game_publisher": "Amazon Prime Video"
-  },
-  "task_config_v2": {
-    "tasks": {
-      "WATCH_VIDEO": {
-        "type": "WATCH_VIDEO",
-        "target": 29,
-        "assets": {
-          "video": {
-            "url": "quests/1554596155680100372/1573039773981876374_1080.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1554596155680100372/1570544392249286767.jpg"
+    "id": "1554596155680100372",
+    "config_version": 2,
+    "starts_at": "2026-11-19T20:10:00+00:00",
+    "expires_at": "2026-12-07T01:00:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://www.amazon.com/dp/B0H8MGR6PV",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "quests/1554596155680100372/1570544357692678226.jpg",
+      "quest_bar_hero_blurhash": "TQgGJIhAaMkui3d1mHtAOwezcw==",
+      "quest_bar_hero": "quests/1554596155680100372/1570544375396704366.jpg",
+      "quest_bar_hero_video": "quests/1554596155680100372/1572382228304892045_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1554596155680100372/1570544415741845535.png",
+      "game_tile_dark": "quests/1554596155680100372/1570544415741845535.png",
+      "logotype_light": "quests/1554596155680100372/1570544334636454058.png",
+      "logotype_dark": "quests/1554596155680100372/1570544334636454058.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Blade Runner 2099",
+      "game_title": "Blade Runner 2099, a new limited series, premieres November 25 only on Prime.",
+      "game_publisher": "Amazon Prime Video"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 29,
+          "assets": {
+            "video": {
+              "url": "quests/1554596155680100372/1573039773981876374_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1554596155680100372/1570544392249286767.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1554596155680100372/1573039773981876374_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1554596155680100372/1570544392249286767.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1554596155680100372/1573039773981876374.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1554596155680100372/1570544392249286767.jpg"
+            }
           },
-          "video_low_res": {
-            "url": "quests/1554596155680100372/1573039773981876374_720.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1554596155680100372/1570544392249286767.jpg"
-          },
-          "video_hls": {
-            "url": "quests/1554596155680100372/1573039773981876374.m3u8",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1554596155680100372/1570544392249286767.jpg"
+          "messages": {
+            "video_title": "PLACEHOLDER"
           }
         },
-        "messages": {
-          "video_title": "PLACEHOLDER"
+        "WATCH_VIDEO_ON_MOBILE": {
+          "type": "WATCH_VIDEO_ON_MOBILE",
+          "target": 29,
+          "assets": {
+            "video": {
+              "url": "quests/1554596155680100372/1573039773994586264_1080.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1554596155680100372/1570544392249286767.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1554596155680100372/1573039773994586264_720.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1554596155680100372/1570544392249286767.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1554596155680100372/1573039773994586264.m3u8",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1554596155680100372/1570544392249286767.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
         }
       },
-      "WATCH_VIDEO_ON_MOBILE": {
-        "type": "WATCH_VIDEO_ON_MOBILE",
-        "target": 29,
-        "assets": {
-          "video": {
-            "url": "quests/1554596155680100372/1573039773994586264_1080.mp4",
-            "width": 1080,
-            "height": 1920,
-            "thumbnail": "quests/1554596155680100372/1570544392249286767.jpg"
-          },
-          "video_low_res": {
-            "url": "quests/1554596155680100372/1573039773994586264_720.mp4",
-            "width": 1080,
-            "height": 1920,
-            "thumbnail": "quests/1554596155680100372/1570544392249286767.jpg"
-          },
-          "video_hls": {
-            "url": "quests/1554596155680100372/1573039773994586264.m3u8",
-            "width": 1080,
-            "height": 1920,
-            "thumbnail": "quests/1554596155680100372/1570544392249286767.jpg"
-          }
-        },
-        "messages": {
-          "video_title": "PLACEHOLDER"
-        }
-      }
+      "join_operator": "or"
     },
-    "join_operator": "or"
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "200 Orbs",
+            "name_with_article": "200 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 200,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2027-01-06T01:00:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.amazon.com/dp/B0H8MGR6PV",
+      "button_label": "Watch More",
+      "subtitle": "Blade Runner 2099, a new limited series, premieres November 25 only on Prime Video."
+    }
   },
-  "rewards_config": {
-    "assignment_method": 1,
-    "rewards": [
-      {
-        "type": 4,
-        "sku_id": "1287881739531976815",
-        "messages": {
-          "name": "200 Orbs",
-          "name_with_article": "200 Orbs",
-          "redemption_instructions_by_platform": {
-            "0": "PLACEHOLDER"
-          }
-        },
-        "orb_quantity": 200,
-        "premium_orb_quantity": null
-      }
-    ],
-    "rewards_expire_at": "2027-01-06T01:00:00+00:00",
-    "platforms": [0]
-  },
-  "share_policy": "shareable_everywhere",
-  "cta_config": {
-    "link": "https://www.amazon.com/dp/B0H8MGR6PV",
-    "button_label": "Watch More",
-    "subtitle": "Blade Runner 2099, a new limited series, premieres November 25 only on Prime Video."
-  }
-},
   {
-  "id": "1564286233356542054",
-  "config_version": 2,
-  "starts_at": "2026-11-20T08:00:00+00:00",
-  "expires_at": "2026-11-30T01:00:00+00:00",
-  "features": [15],
-  "application": {
-    "link": "http://peacocktv.com/collections/originals",
-    "id": "545364944258990091",
-    "name": "Discord"
-  },
-  "assets": {
-    "hero": "quests/1564286233356542054/1573045225562177546.jpg",
-    "hero_video": "quests/1564286233356542054/1570206627095773395_720.mp4",
-    "quest_bar_hero_blurhash": "0gcGFIIaSZVxaJlgi4xKoPchPg==",
-    "quest_bar_hero": "quests/1564286233356542054/1570206589825196164.jpg",
-    "quest_bar_hero_video": "quests/1564286233356542054/1570206627095773395_720.mp4",
-    "game_tile": "PLACEHOLDER",
-    "logotype": "PLACEHOLDER",
-    "game_tile_light": "quests/1564286233356542054/1570206374997266594.png",
-    "game_tile_dark": "quests/1564286233356542054/1570206375131226252.png",
-    "logotype_light": "quests/1564286233356542054/1570206436208672809.png",
-    "logotype_dark": "quests/1564286233356542054/1570206436120592464.png"
-  },
-  "colors": {
-    "primary": "#4752C4",
-    "secondary": "#000000"
-  },
-  "messages": {
-    "quest_name": "Ted: The Animated Series",
-    "game_title": "Streaming Dec 17 only on Peacock",
-    "game_publisher": "Peacock"
-  },
-  "task_config_v2": {
-    "tasks": {
-      "WATCH_VIDEO": {
-        "type": "WATCH_VIDEO",
-        "target": 29,
-        "assets": {
-          "video": {
-            "url": "quests/1564286233356542054/1570906378002759841_1080.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1564286233356542054/1573045251101302814.png"
+    "id": "1564286233356542054",
+    "config_version": 2,
+    "starts_at": "2026-11-20T08:00:00+00:00",
+    "expires_at": "2026-11-30T01:00:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "http://peacocktv.com/collections/originals",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "quests/1564286233356542054/1573045225562177546.jpg",
+      "hero_video": "quests/1564286233356542054/1570206627095773395_720.mp4",
+      "quest_bar_hero_blurhash": "0gcGFIIaSZVxaJlgi4xKoPchPg==",
+      "quest_bar_hero": "quests/1564286233356542054/1570206589825196164.jpg",
+      "quest_bar_hero_video": "quests/1564286233356542054/1570206627095773395_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1564286233356542054/1570206374997266594.png",
+      "game_tile_dark": "quests/1564286233356542054/1570206375131226252.png",
+      "logotype_light": "quests/1564286233356542054/1570206436208672809.png",
+      "logotype_dark": "quests/1564286233356542054/1570206436120592464.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Ted: The Animated Series",
+      "game_title": "Streaming Dec 17 only on Peacock",
+      "game_publisher": "Peacock"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 29,
+          "assets": {
+            "video": {
+              "url": "quests/1564286233356542054/1570906378002759841_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1564286233356542054/1573045251101302814.png"
+            },
+            "video_low_res": {
+              "url": "quests/1564286233356542054/1570906378002759841_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1564286233356542054/1573045251101302814.png"
+            },
+            "video_hls": {
+              "url": "quests/1564286233356542054/1570906378002759841.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1564286233356542054/1573045251101302814.png"
+            }
           },
-          "video_low_res": {
-            "url": "quests/1564286233356542054/1570906378002759841_720.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1564286233356542054/1573045251101302814.png"
-          },
-          "video_hls": {
-            "url": "quests/1564286233356542054/1570906378002759841.m3u8",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1564286233356542054/1573045251101302814.png"
+          "messages": {
+            "video_title": "PLACEHOLDER"
           }
         },
-        "messages": {
-          "video_title": "PLACEHOLDER"
+        "WATCH_VIDEO_ON_MOBILE": {
+          "type": "WATCH_VIDEO_ON_MOBILE",
+          "target": 29,
+          "assets": {
+            "video": {
+              "url": "quests/1564286233356542054/1570906377969336402_1080.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1564286233356542054/1573045251101302814.png"
+            },
+            "video_low_res": {
+              "url": "quests/1564286233356542054/1570906377969336402_720.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1564286233356542054/1573045251101302814.png"
+            },
+            "video_hls": {
+              "url": "quests/1564286233356542054/1570906377969336402.m3u8",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1564286233356542054/1573045251101302814.png"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
         }
       },
-      "WATCH_VIDEO_ON_MOBILE": {
-        "type": "WATCH_VIDEO_ON_MOBILE",
-        "target": 29,
-        "assets": {
-          "video": {
-            "url": "quests/1564286233356542054/1570906377969336402_1080.mp4",
-            "width": 1080,
-            "height": 1920,
-            "thumbnail": "quests/1564286233356542054/1573045251101302814.png"
-          },
-          "video_low_res": {
-            "url": "quests/1564286233356542054/1570906377969336402_720.mp4",
-            "width": 1080,
-            "height": 1920,
-            "thumbnail": "quests/1564286233356542054/1573045251101302814.png"
-          },
-          "video_hls": {
-            "url": "quests/1564286233356542054/1570906377969336402.m3u8",
-            "width": 1080,
-            "height": 1920,
-            "thumbnail": "quests/1564286233356542054/1573045251101302814.png"
-          }
-        },
-        "messages": {
-          "video_title": "PLACEHOLDER"
-        }
-      }
+      "join_operator": "or"
     },
-    "join_operator": "or"
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "200 Orbs",
+            "name_with_article": "200 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 200,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2026-12-30T01:00:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "http://peacocktv.com/collections/originals",
+      "button_label": "Learn More",
+      "subtitle": "Streaming Dec 17 only on Peacock"
+    }
   },
-  "rewards_config": {
-    "assignment_method": 1,
-    "rewards": [
-      {
-        "type": 4,
-        "sku_id": "1287881739531976815",
-        "messages": {
-          "name": "200 Orbs",
-          "name_with_article": "200 Orbs",
-          "redemption_instructions_by_platform": {
-            "0": "PLACEHOLDER"
-          }
-        },
-        "orb_quantity": 200,
-        "premium_orb_quantity": null
-      }
-    ],
-    "rewards_expire_at": "2026-12-30T01:00:00+00:00",
-    "platforms": [0]
-  },
-  "share_policy": "shareable_everywhere",
-  "cta_config": {
-    "link": "http://peacocktv.com/collections/originals",
-    "button_label": "Learn More",
-    "subtitle": "Streaming Dec 17 only on Peacock"
-  }
-},
   {
-  "id": "1570608924418121829",
-  "config_version": 2,
-  "starts_at": "2026-11-20T18:00:00+00:00",
-  "expires_at": "2026-11-30T01:00:00+00:00",
-  "features": [15],
-  "application": {
-    "link": "https://www.primevideo.com/detail/gti/amzn1.dv.gti.67f9dbb8-4667-4040-8fec-3b786be5c60b",
-    "id": "545364944258990091",
-    "name": "Discord"
-  },
-  "assets": {
-    "hero": "quests/1554596155680100372/1570544357692678226.jpg",
-    "quest_bar_hero_blurhash": "TQgGJIhAaMkui3d1mHtAOwezcw==",
-    "quest_bar_hero": "quests/1554596155680100372/1570544375396704366.jpg",
-    "quest_bar_hero_video": "quests/1570608924418121829/1572381557044543558_720.mp4",
-    "game_tile": "PLACEHOLDER",
-    "logotype": "PLACEHOLDER",
-    "game_tile_light": "quests/1554596155680100372/1570544415741845535.png",
-    "game_tile_dark": "quests/1554596155680100372/1570544415741845535.png",
-    "logotype_light": "quests/1554596155680100372/1570544334636454058.png",
-    "logotype_dark": "quests/1554596155680100372/1570544334636454058.png"
-  },
-  "colors": {
-    "primary": "#4752C4",
-    "secondary": "#000000"
-  },
-  "messages": {
-    "quest_name": "Blade Runner 2099",
-    "game_title": "Blade Runner 2099, a new limited series, premieres November 25 only on Prime Video.",
-    "game_publisher": "Amazon Prime Video"
-  },
-  "task_config_v2": {
-    "tasks": {
-      "WATCH_VIDEO": {
-        "type": "WATCH_VIDEO",
-        "target": 29,
-        "assets": {
-          "video": {
-            "url": "quests/1570608924418121829/1573040417602019358_1080.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1554596155680100372/1570544392249286767.jpg"
+    "id": "1570608924418121829",
+    "config_version": 2,
+    "starts_at": "2026-11-20T18:00:00+00:00",
+    "expires_at": "2026-11-30T01:00:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://www.primevideo.com/detail/gti/amzn1.dv.gti.67f9dbb8-4667-4040-8fec-3b786be5c60b",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "quests/1554596155680100372/1570544357692678226.jpg",
+      "quest_bar_hero_blurhash": "TQgGJIhAaMkui3d1mHtAOwezcw==",
+      "quest_bar_hero": "quests/1554596155680100372/1570544375396704366.jpg",
+      "quest_bar_hero_video": "quests/1570608924418121829/1572381557044543558_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1554596155680100372/1570544415741845535.png",
+      "game_tile_dark": "quests/1554596155680100372/1570544415741845535.png",
+      "logotype_light": "quests/1554596155680100372/1570544334636454058.png",
+      "logotype_dark": "quests/1554596155680100372/1570544334636454058.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Blade Runner 2099",
+      "game_title": "Blade Runner 2099, a new limited series, premieres November 25 only on Prime Video.",
+      "game_publisher": "Amazon Prime Video"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 29,
+          "assets": {
+            "video": {
+              "url": "quests/1570608924418121829/1573040417602019358_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1554596155680100372/1570544392249286767.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1570608924418121829/1573040417602019358_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1554596155680100372/1570544392249286767.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1570608924418121829/1573040417602019358.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1554596155680100372/1570544392249286767.jpg"
+            }
           },
-          "video_low_res": {
-            "url": "quests/1570608924418121829/1573040417602019358_720.mp4",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1554596155680100372/1570544392249286767.jpg"
-          },
-          "video_hls": {
-            "url": "quests/1570608924418121829/1573040417602019358.m3u8",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": "quests/1554596155680100372/1570544392249286767.jpg"
+          "messages": {
+            "video_title": "PLACEHOLDER"
           }
         },
-        "messages": {
-          "video_title": "PLACEHOLDER"
+        "WATCH_VIDEO_ON_MOBILE": {
+          "type": "WATCH_VIDEO_ON_MOBILE",
+          "target": 29,
+          "assets": {
+            "video": {
+              "url": "quests/1570608924418121829/1573040417463603441_1080.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1554596155680100372/1570544392249286767.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1570608924418121829/1573040417463603441_720.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1554596155680100372/1570544392249286767.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1570608924418121829/1573040417463603441.m3u8",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1554596155680100372/1570544392249286767.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
         }
       },
-      "WATCH_VIDEO_ON_MOBILE": {
-        "type": "WATCH_VIDEO_ON_MOBILE",
-        "target": 29,
-        "assets": {
-          "video": {
-            "url": "quests/1570608924418121829/1573040417463603441_1080.mp4",
-            "width": 1080,
-            "height": 1920,
-            "thumbnail": "quests/1554596155680100372/1570544392249286767.jpg"
-          },
-          "video_low_res": {
-            "url": "quests/1570608924418121829/1573040417463603441_720.mp4",
-            "width": 1080,
-            "height": 1920,
-            "thumbnail": "quests/1554596155680100372/1570544392249286767.jpg"
-          },
-          "video_hls": {
-            "url": "quests/1570608924418121829/1573040417463603441.m3u8",
-            "width": 1080,
-            "height": 1920,
-            "thumbnail": "quests/1554596155680100372/1570544392249286767.jpg"
-          }
-        },
-        "messages": {
-          "video_title": "PLACEHOLDER"
-        }
-      }
+      "join_operator": "or"
     },
-    "join_operator": "or"
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "200 Orbs",
+            "name_with_article": "200 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 200,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2026-12-30T01:00:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.primevideo.com/detail/gti/amzn1.dv.gti.67f9dbb8-4667-4040-8fec-3b786be5c60b",
+      "button_label": "Watch More",
+      "subtitle": "Blade Runner 2099, a new limited series, premieres November 25 only on Prime Video."
+    }
   },
-  "rewards_config": {
-    "assignment_method": 1,
-    "rewards": [
-      {
-        "type": 4,
-        "sku_id": "1287881739531976815",
-        "messages": {
-          "name": "200 Orbs",
-          "name_with_article": "200 Orbs",
-          "redemption_instructions_by_platform": {
-            "0": "PLACEHOLDER"
-          }
-        },
-        "orb_quantity": 200,
-        "premium_orb_quantity": null
-      }
+  {
+    "id": "1554214770670829588",
+    "config_version": 2,
+    "starts_at": "2026-11-24T17:45:00+00:00",
+    "expires_at": "2026-12-08T07:59:00+00:00",
+    "features": [
+      27,
+      36,
+      15
     ],
-    "rewards_expire_at": "2026-12-30T01:00:00+00:00",
-    "platforms": [0]
+    "application": {
+      "link": "https://www.universalpictures.de/micro/werwulf",
+      "id": "1550095387505860719",
+      "name": "[Prod] Full-moon"
+    },
+    "assets": {
+      "hero": "quests/1554214770670829588/1574498574346100877.jpg",
+      "quest_bar_hero_blurhash": "TucJFIJIVneAiYl6hoiXf3X5SA==",
+      "quest_bar_hero": "quests/1554214770670829588/1574498543534866502.jpg",
+      "quest_bar_hero_video": "quests/1554214770670829588/1574498960486170624_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1554214770670829588/1574498543610363964.png",
+      "game_tile_dark": "quests/1554214770670829588/1574498543610363964.png",
+      "logotype_light": "quests/1554214770670829588/1574498572685025380.png",
+      "logotype_dark": "quests/1554214770670829588/1574498572655796284.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "WERWULF",
+      "game_title": "Ab 7. Januar nur im Kino!",
+      "game_publisher": "Focus Features"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "ACHIEVEMENT_IN_ACTIVITY": {
+          "type": "ACHIEVEMENT_IN_ACTIVITY",
+          "target": 5,
+          "applications": [
+            {
+              "id": "1550095387505860719"
+            }
+          ],
+          "event_name": "progress",
+          "messages": {
+            "task_title": "[Prod] Full-moon",
+            "task_description": "Finde Beweise für den Werwulf und sichere dir 700 Discord Orbs!"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 Orbs",
+            "name_with_article": "700 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 700,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2027-01-07T07:59:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.universalpictures.de/micro/werwulf",
+      "button_label": "Learn More",
+      "subtitle": "Ab 7. Januar nur im Kino!"
+    }
   },
-  "share_policy": "shareable_everywhere",
-  "cta_config": {
-    "link": "https://www.primevideo.com/detail/gti/amzn1.dv.gti.67f9dbb8-4667-4040-8fec-3b786be5c60b",
-    "button_label": "Watch More",
-    "subtitle": "Blade Runner 2099, a new limited series, premieres November 25 only on Prime Video."
+  {
+    "id": "1554262075298160671",
+    "config_version": 2,
+    "starts_at": "2026-11-24T17:45:00+00:00",
+    "expires_at": "2026-12-08T07:59:00+00:00",
+    "features": [
+      27,
+      36,
+      15
+    ],
+    "application": {
+      "link": "https://www.universalpictures.it/micro/werwulf#iframe1",
+      "id": "1550095387505860719",
+      "name": "[Prod] Full-moon"
+    },
+    "assets": {
+      "hero": "quests/1554262075298160671/1574500834434220134.jpg",
+      "quest_bar_hero_blurhash": "TucJFIJIVneAiYl6hoiXf3X5SA==",
+      "quest_bar_hero": "quests/1554262075298160671/1574500469924175922.jpg",
+      "quest_bar_hero_video": "quests/1554262075298160671/1574501062641979493_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1554262075298160671/1574500469940813864.png",
+      "game_tile_dark": "quests/1554262075298160671/1574500469940813864.png",
+      "logotype_light": "quests/1554262075298160671/1574500835138736200.png",
+      "logotype_dark": "quests/1554262075298160671/1574500835256438824.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Werwulf",
+      "game_title": "Dal 1° gennaio al cinema.",
+      "game_publisher": "Focus Features"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "ACHIEVEMENT_IN_ACTIVITY": {
+          "type": "ACHIEVEMENT_IN_ACTIVITY",
+          "target": 5,
+          "applications": [
+            {
+              "id": "1550095387505860719"
+            }
+          ],
+          "event_name": "progress",
+          "messages": {
+            "task_title": "[Prod] Full-moon",
+            "task_description": "Trova le prove di Werwulf per vincere 700 Discord Orbs!"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 Orbs",
+            "name_with_article": "700 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 700,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2027-01-07T07:59:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.universalpictures.it/micro/werwulf#iframe1",
+      "button_label": "Watch More",
+      "subtitle": "Dal 1° gennaio al cinema."
+    }
+  },
+  {
+    "id": "1557482279519920238",
+    "config_version": 2,
+    "starts_at": "2026-11-24T17:45:00+00:00",
+    "expires_at": "2026-12-08T07:59:00+00:00",
+    "features": [
+      27,
+      36,
+      15
+    ],
+    "application": {
+      "link": "https://www.universalpictures.fr/micro/werwulf#iframe1",
+      "id": "1550095387505860719",
+      "name": "[Prod] Full-moon"
+    },
+    "assets": {
+      "hero": "quests/1557482279519920238/1574501361561636935.jpg",
+      "quest_bar_hero_blurhash": "TucJFIJIVneAiYl6hoiXf3X5SA==",
+      "quest_bar_hero": "quests/1557482279519920238/1574501361226223666.jpg",
+      "quest_bar_hero_video": "quests/1557482279519920238/1574501424929439784_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1557482279519920238/1574501361238671483.png",
+      "game_tile_dark": "quests/1557482279519920238/1574501361238671483.png",
+      "logotype_light": "quests/1557482279519920238/1574501361221898362.png",
+      "logotype_dark": "quests/1557482279519920238/1574501361259774282.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "WERWULF : LA BÊTE MAUDITE",
+      "game_title": "Le 6 janvier au cinéma.",
+      "game_publisher": "Focus Features"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "ACHIEVEMENT_IN_ACTIVITY": {
+          "type": "ACHIEVEMENT_IN_ACTIVITY",
+          "target": 5,
+          "applications": [
+            {
+              "id": "1550095387505860719"
+            }
+          ],
+          "event_name": "progress",
+          "messages": {
+            "task_title": "[Prod] Full-moon",
+            "task_description": "Trouvez des preuves de son existence pour gagner 700 Discord orbs !"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 Orbs",
+            "name_with_article": "700 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 700,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2027-01-07T07:59:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.universalpictures.fr/micro/werwulf#iframe1",
+      "button_label": "Learn More",
+      "subtitle": "Le 6 janvier au cinéma."
+    }
+  },
+  {
+    "id": "1554259671248797826",
+    "config_version": 2,
+    "starts_at": "2026-11-24T17:45:00+00:00",
+    "expires_at": "2026-12-08T07:59:00+00:00",
+    "features": [
+      27,
+      36,
+      15
+    ],
+    "application": {
+      "link": "https://www.universalpictures.com.mx/micro/werwulf#iframe1",
+      "id": "1550095387505860719",
+      "name": "[Prod] Full-moon"
+    },
+    "assets": {
+      "hero": "quests/1554259671248797826/1574499557948002344.jpg",
+      "quest_bar_hero_blurhash": "TucJFIJIVneAiYl6hoiXf3X5SA==",
+      "quest_bar_hero": "quests/1554259671248797826/1574499557889548288.jpg",
+      "quest_bar_hero_video": "quests/1554259671248797826/1574499619822502079_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1554259671248797826/1574499557973303458.png",
+      "game_tile_dark": "quests/1554259671248797826/1574499557973303458.png",
+      "logotype_light": "quests/1554259671248797826/1574499558287867945.png",
+      "logotype_dark": "quests/1554259671248797826/1574499558078152796.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "WERWULF",
+      "game_title": "Solo en cines 31 de diciembre.",
+      "game_publisher": "Focus Features"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "ACHIEVEMENT_IN_ACTIVITY": {
+          "type": "ACHIEVEMENT_IN_ACTIVITY",
+          "target": 5,
+          "applications": [
+            {
+              "id": "1550095387505860719"
+            }
+          ],
+          "event_name": "progress",
+          "messages": {
+            "task_title": "[Prod] Full-moon",
+            "task_description": "Encuentra pruebas de que el hombre lobo existe para ganar 700 Discord Orbs!"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 Orbs",
+            "name_with_article": "700 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 700,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2027-01-07T07:59:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.universalpictures.com.mx/micro/werwulf#iframe1",
+      "button_label": "Learn More",
+      "subtitle": "Solo en cines 31 de diciembre."
+    }
+  },
+  {
+    "id": "1572830707561275532",
+    "config_version": 2,
+    "starts_at": "2026-11-24T17:45:00+00:00",
+    "expires_at": "2026-12-08T07:59:00+00:00",
+    "features": [
+      27,
+      36,
+      15
+    ],
+    "application": {
+      "link": "https://www.werwulfmovie.ca/",
+      "id": "1550095387505860719",
+      "name": "[Prod] Full-moon"
+    },
+    "assets": {
+      "hero": "quests/1572830707561275532/1574493905108475936.jpg",
+      "quest_bar_hero_blurhash": "TucJFIJIVneAiYl6hoiXf3X5SA==",
+      "quest_bar_hero": "quests/1572830707561275532/1574502109272084540.jpg",
+      "quest_bar_hero_video": "quests/1572830707561275532/1574502128871800852_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1572830707561275532/1574493878734819438.png",
+      "game_tile_dark": "quests/1572830707561275532/1574493878734819438.png",
+      "logotype_light": "quests/1572830707561275532/1574502033719951450.png",
+      "logotype_dark": "quests/1572830707561275532/1574493905431433287.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Werwulf",
+      "game_title": "In Theatres December 25",
+      "game_publisher": "Focus Features"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "ACHIEVEMENT_IN_ACTIVITY": {
+          "type": "ACHIEVEMENT_IN_ACTIVITY",
+          "target": 5,
+          "applications": [
+            {
+              "id": "1550095387505860719"
+            }
+          ],
+          "event_name": "progress",
+          "messages": {
+            "task_title": "[Prod] Full-moon",
+            "task_description": "Find evidence of the Werwulf to earn 700 Discord Orbs!"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 Orbs",
+            "name_with_article": "700 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 700,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2027-01-07T07:59:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.werwulfmovie.ca/",
+      "button_label": "Get Tickets",
+      "subtitle": "In Theatres December 25"
+    }
+  },
+  {
+    "id": "1554210488559075468",
+    "config_version": 2,
+    "starts_at": "2026-11-24T17:45:00+00:00",
+    "expires_at": "2026-12-08T07:59:00+00:00",
+    "features": [
+      27,
+      36,
+      15
+    ],
+    "application": {
+      "link": "https://www.focusfeaturesfilms.co.uk/films/werwulf/",
+      "id": "1550095387505860719",
+      "name": "[Prod] Full-moon"
+    },
+    "assets": {
+      "hero": "quests/1554210488559075468/1574498121394946220.jpg",
+      "quest_bar_hero_blurhash": "TucJFIJIVneAiYl6hoiXf3X5SA==",
+      "quest_bar_hero": "quests/1554210488559075468/1574498143549132810.jpg",
+      "quest_bar_hero_video": "quests/1554210488559075468/1574498221303140473_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1554210488559075468/1574498143309930666.png",
+      "game_tile_dark": "quests/1554210488559075468/1574498143309930666.png",
+      "logotype_light": "quests/1554210488559075468/1574498121256538122.png",
+      "logotype_dark": "quests/1554210488559075468/1574498121445277716.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Werwulf",
+      "game_title": "In Cinemas January 1",
+      "game_publisher": "Focus Features"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "ACHIEVEMENT_IN_ACTIVITY": {
+          "type": "ACHIEVEMENT_IN_ACTIVITY",
+          "target": 5,
+          "applications": [
+            {
+              "id": "1550095387505860719"
+            }
+          ],
+          "event_name": "progress",
+          "messages": {
+            "task_title": "[Prod] Full-moon",
+            "task_description": "Find evidence of the Werwulf to earn 700 Discord Orbs!"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 Orbs",
+            "name_with_article": "700 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 700,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2027-01-07T07:59:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.focusfeaturesfilms.co.uk/films/werwulf/",
+      "button_label": "Learn More",
+      "subtitle": "In Cinemas January 1"
+    }
+  },
+  {
+    "id": "1552776617640722593",
+    "config_version": 2,
+    "starts_at": "2026-11-24T17:45:00+00:00",
+    "expires_at": "2026-12-08T07:59:00+00:00",
+    "features": [
+      27,
+      36,
+      15
+    ],
+    "application": {
+      "link": "https://www.focusfeatures.com/werwulf",
+      "id": "1550095387505860719",
+      "name": "[Prod] Full-moon"
+    },
+    "assets": {
+      "hero": "quests/1552776617640722593/1574496991793127434.jpg",
+      "quest_bar_hero_blurhash": "TucJFIJIVneAiYl6hoiXf3X5SA==",
+      "quest_bar_hero": "quests/1552776617640722593/1574496991403311134.jpg",
+      "quest_bar_hero_video": "quests/1552776617640722593/1574497609610035290_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1552776617640722593/1574496974885888121.png",
+      "game_tile_dark": "quests/1552776617640722593/1574496974885888121.png",
+      "logotype_light": "quests/1552776617640722593/1574497546427044020.png",
+      "logotype_dark": "quests/1552776617640722593/1574496991310909440.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Werwulf",
+      "game_title": "In Theaters December 25",
+      "game_publisher": "Focus Features"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "ACHIEVEMENT_IN_ACTIVITY": {
+          "type": "ACHIEVEMENT_IN_ACTIVITY",
+          "target": 5,
+          "applications": [
+            {
+              "id": "1550095387505860719"
+            }
+          ],
+          "event_name": "progress",
+          "messages": {
+            "task_title": "[Prod] Full-moon",
+            "task_description": "Find evidence of the Werwulf to earn 700 Discord Orbs!"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 Orbs",
+            "name_with_article": "700 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 700,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2027-01-07T07:59:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.focusfeatures.com/werwulf",
+      "button_label": "Get Tickets",
+      "subtitle": "In Theaters December 25"
+    }
+  },
+  {
+    "id": "1554219417762664488",
+    "config_version": 2,
+    "starts_at": "2026-11-24T17:45:00+00:00",
+    "expires_at": "2026-12-08T07:59:00+00:00",
+    "features": [
+      27,
+      36,
+      15
+    ],
+    "application": {
+      "link": "https://www.universalpictures.es/micro/licantropo#iframe1",
+      "id": "1550095387505860719",
+      "name": "[Prod] Full-moon"
+    },
+    "assets": {
+      "hero": "quests/1554219417762664488/1574499187222118471.jpg",
+      "quest_bar_hero_blurhash": "TucJFIJIVneAiYl6hoiXf3X5SA==",
+      "quest_bar_hero": "quests/1554219417762664488/1574499142493937674.jpg",
+      "quest_bar_hero_video": "quests/1554219417762664488/1574499250635800736_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1554219417762664488/1574499142582145114.png",
+      "game_tile_dark": "quests/1554219417762664488/1574499142582145114.png",
+      "logotype_light": "quests/1554219417762664488/1574499187209277540.png",
+      "logotype_dark": "quests/1554219417762664488/1574499187662528655.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Licántropo",
+      "game_title": "¡6 de enero exclusivamente en cines!",
+      "game_publisher": "Universal Pictures"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "ACHIEVEMENT_IN_ACTIVITY": {
+          "type": "ACHIEVEMENT_IN_ACTIVITY",
+          "target": 5,
+          "applications": [
+            {
+              "id": "1550095387505860719"
+            }
+          ],
+          "event_name": "progress",
+          "messages": {
+            "task_title": "[Prod] Full-moon",
+            "task_description": "¡Encuentra pruebas de que el licántropo existe y gana 700 Discord Orbs!"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 Orbs",
+            "name_with_article": "700 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 700,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2027-01-07T07:59:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.universalpictures.es/micro/licantropo#iframe1",
+      "button_label": "Learn More",
+      "subtitle": "¡6 de enero exclusivamente en cines!"
+    }
   }
-}
 ]
