@@ -135,8 +135,140 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeUhIZHdOQk9jeGF5SGEzeWRQQ1Z2eHVlVU1kckhLTGtoTThLZDFtdnR1RVJRMnZpOGtKOUdrKzY0NzNTSmRHeEp1M0hZNnNTcUplQWRxVlBqUXVkcC9TTGN5UjhvRUFIQW05OHkrUldGVVVsNmZpVmhwOEh1eFlJeHNFVllLSGpKcit2bWt0Q3cyYXdJQStlaWo5eXdWUWRJWjljN3RQTnkvc21NbXNEOS83VmFyMDJSUDJtUEdtZHUwNzBLYzErdjhpOD0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMUlo4SjFNbC9LYmNjZVplZVdLVCtJbHFTTnNBMnlyYkVTY2FDeEZWVDJ4NHZwODU2Ny9XMzA4VDFJY2o5d2E1L2dFTjB1TFppY0JraFJudkJrUmhJWTlrN0ErY3ZGT1pkVHlMT1hSK1hSbUJUYURyZWUzQUg5TWVxR0cvWEFYbFFGbGg0cUNxN3B2K1BER2tpeWJXVnZZbi8zODFYei85K29BcnBNS0xEZFE2YStmWEVkIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMZURxaG56ell2eEpFa2lsdHQrSWt2d005OGlaSExoaDJrdDlxL01kOVh1NjhNS0F1WXZ0d0VIYnhRb3dJcGtkeituZW9SaXhPdlcvQ3gyODEvVXRlT3RWbTVUQklWcG95ZWlJWFlDUHgzVllEN1RCeEM2bzNvL3FwRHk1Z0IyMGJ6UmtWUDl4VjhHdDVyZ3VOZVZGclBybEVhb01SM1BITW0zK3NZTkRob1llT1FNMG9LcFpPZUdxRTV4Z1psTjAyd1Rrbz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKWTlOZVNkTXc4djFLckxUT3d6enNyaEZoU1M4REg0SUxrejNORzJudlVON0MxRUJ0YzYvbVFLS0dEWTBjWGMvT0Myam1oanlsdTBnSXFXbHc5WG4xTyswSnBHQmVqOFVoeHhDcTg4N0swOW5CekpLZy9aQXYwaW9XWTloVnlZVXBOWFNZdWN2Tlkrb0UvLzBPanE0VkY2Tmd2aE5kd2FRUnR6UmZhNkZOeURmSlBXUWhFIn0="
+    },
+    {
+      "id": "1553899592100085760",
+      "config": {
+        "id": "1553899592100085760",
+        "config_version": 2,
+        "starts_at": "2026-11-09T18:00:00+00:00",
+        "expires_at": "2027-01-01T01:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.microsoft.com/en-us/windows/rtx-spark-laptops?OCID=AIDcmmxvafc3ot_OLA_%ebuy!_%25epid!_%ecid!&siteID=%25esid!",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1553899592100085760/1559995467696312320.jpg",
+          "hero_video": "quests/1553899592100085760/1559990969636749312_720.mp4",
+          "quest_bar_hero_blurhash": "ltcFFIIgZUVcVXh3hJlgfAX3WQ==",
+          "quest_bar_hero": "quests/1553899592100085760/1559995467696312320.jpg",
+          "quest_bar_hero_video": "quests/1553899592100085760/1559990969636749312_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1553899592100085760/1562168943844663336.png",
+          "game_tile_dark": "quests/1553899592100085760/1560026866599854192.png",
+          "logotype_light": "quests/1553899592100085760/1562168246273179679.png",
+          "logotype_dark": "quests/1553899592100085760/1559987758192136294.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Windows Power",
+          "game_title": "What will you do with all this power?",
+          "game_publisher": "Microsoft"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1553899592100085760/1559981566472749126_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1553899592100085760/1562270438061776927.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1553899592100085760/1559981566472749126_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1553899592100085760/1562270438061776927.png"
+                },
+                "video_hls": {
+                  "url": "quests/1553899592100085760/1559981566472749126.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1553899592100085760/1562270438061776927.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1553899592100085760/1559981566472749126_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1553899592100085760/1562270438061776927.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1553899592100085760/1559981566472749126_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1553899592100085760/1562270438061776927.png"
+                },
+                "video_hls": {
+                  "url": "quests/1553899592100085760/1559981566472749126.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1553899592100085760/1562270438061776927.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": 240
+            }
+          ],
+          "rewards_expire_at": "2027-01-31T01:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.microsoft.com/en-us/windows/rtx-spark-laptops?OCID=AIDcmmxvafc3ot_OLA_%ebuy!_%25epid!_%ecid!&siteID=%25esid!",
+          "button_label": "Learn More",
+          "subtitle": "What will you do with all this power?"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "ad_context": null,
+      "preview": false,
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMZURxaG56ell2eEpFa2lsdHQrSWt2d005OGlaSExoaDJrdDlxL01kOVh1NjhNS0F1WXZ0d0VIYnhRb3dJcGtkeituZW9SaXhPdlcvQ3gyODEvVXRlT3RWbTVUQklWcG95ZWlJWFlDUHgzVllEN1RCeEM2bzNvL3FwRHk1Z0IyMGJ6UmtWUDl4VjhHdDVyZ3VOZVZGclBybEVhb01SM1BITW0zK3NZTkRob1llT1FNMG9LcFpPZUdxRTV4Z1psTjAyd1Rrbz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJRFNUUmxIMUoxcXlBWjQyazlUYVdETjNwYytpR1h0NjgyOGY0bmVUdVNGclp3QSttUS9SK3ZRd0ZiSmh2TEtacjBEWkhHWDZBVC84Q1BSWWw0bmZCbU9TdzQyWDMxTnQ5RHdPQ01kSTVNV3ZrRmM1THRDbDNJOVVRZ0wrZFhxNHdlamFQbVpPRDdvNm1aQ2wxY1l3U000R3FqeHBPMmtzVll3THRtL3NTa0JaWEFoclpLIn0="
     },
     {
       "id": "1565687912203288706",
@@ -238,8 +370,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeUhIZHdOQk9jeGF5SGEzeWRQQ1Z2eHVlVU1kckhLTGtoTThLZDFtdnR1RVJRMnZpOGtKOUdrKzY0NzNTSmRHeEp1M0hZNnNTcUplQWRxVlBqUXVkcC9TTGN5UjhvRUFIQW05OHkrUldGVVVsNmZpVmhwOEh1eFlJeHNFVllLSGpKcit2bWt0Q3cyYXdJQStlaWo5eXdWUWRJWjljN3RQTnkvc21NbXNEOS83VmFyMDJSUDJtUEdtZHUwNzBLYzErdjhpOD0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJc09vM1k0THNQZ3hXZno5bDJlSXBlOWxKUnFBVVF6Q0Q1Tkw1c0lvZXFyQjBrVm8rT0ExSDUzajJZV2swSys5RUZEY2FGQUY1bDF5MFJMY1B4WDhyZXJ4cng2TlZDRk81RU5CMTZ2UXI4cU1XbVdQS0thQjNyRkdrL2R4ZkVnaU5abUhjYk1yT1dacDI3YXpJL0l5aGpkVWhCaFQzWHZha3h3eU92VUhxK1VLNytKQjVkIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMZURxaG56ell2eEpFa2lsdHQrSWt2d005OGlaSExoaDJrdDlxL01kOVh1NjhNS0F1WXZ0d0VIYnhRb3dJcGtkeituZW9SaXhPdlcvQ3gyODEvVXRlT3RWbTVUQklWcG95ZWlJWFlDUHgzVllEN1RCeEM2bzNvL3FwRHk1Z0IyMGJ6UmtWUDl4VjhHdDVyZ3VOZVZGclBybEVhb01SM1BITW0zK3NZTkRob1llT1FNMG9LcFpPZUdxRTV4Z1psTjAyd1Rrbz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKZS9haEN5YzFsUlQ5MEFmY2FHTmhvSWVtNjhVQ2FQd3ZXdStjakhON3VPaEVCRUE5Z1ZKd1h5SGhWT1NTSmQ3MUJjVGRrbWdDcWtYTEZtS045M2plVjRVcjBuMVI2YUFsaTNVdXg1YmVrVVRJVHMrdStzUU4zWkFKeXhUMkg2b0toSTdtRndaUlNXdHNNRHNaMjlub2x6czN4bGNRWGFKS3A4MWtFMmtHUGwxUm8zb1NHIn0="
     },
     {
       "id": "1571722578827939971",
@@ -375,8 +507,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeUhIZHdOQk9jeGF5SGEzeWRQQ1Z2eHVlVU1kckhLTGtoTThLZDFtdnR1RVJRMnZpOGtKOUdrKzY0NzNTSmRHeEp1M0hZNnNTcUplQWRxVlBqUXVkcC9TTGN5UjhvRUFIQW05OHkrUldGVVVsNmZpVmhwOEh1eFlJeHNFVllLSGpKcit2bWt0Q3cyYXdJQStlaWo5eXdWUWRJWjljN3RQTnkvc21NbXNEOS83VmFyMDJSUDJtUEdtZHUwNzBLYzErdjhpOD0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKZkRHZ0FQTytMclExYmtMbGxRaFQwdTdDWUdxZFNzRUxYSHFrbldMVTlhVzRuQ2o5YjdESWk3MUUrZllpano1bElBbmFyU0dydS9HTlgvcGN0R283WU4xZk9lTGRGaDJ3RUF1VHFubUZsZmtsTmtMNHhHc0pmSkQ4Zm9ESzNNcC90NExDOVlTTklxT1RKMHNHYkpNdzdJSmhGVDFGRWRkSTg4a0RnK2hYNnJ2ZTd5UmlBIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMZURxaG56ell2eEpFa2lsdHQrSWt2d005OGlaSExoaDJrdDlxL01kOVh1NjhNS0F1WXZ0d0VIYnhRb3dJcGtkeituZW9SaXhPdlcvQ3gyODEvVXRlT3RWbTVUQklWcG95ZWlJWFlDUHgzVllEN1RCeEM2bzNvL3FwRHk1Z0IyMGJ6UmtWUDl4VjhHdDVyZ3VOZVZGclBybEVhb01SM1BITW0zK3NZTkRob1llT1FNMG9LcFpPZUdxRTV4Z1psTjAyd1Rrbz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLd3I1a0NOazNISkZsVGZtMkk4dU92NHFaeDJEQzVNNlk3dUNySWNEZDU3K2ZFYnQ1T0Qxd0FJcEx2VTdZNG5RNVZuTDhZRWZQaVc3c3VPQWxnRmU1dGw4ZUFDQnYzc1ZOdGg3azlFU213ckYyVTRSV0NwMHRaN2t4R25URnhZL0cyS09WRmNqUHA5ZnpNbTVTT1g5bVI4T1dLaFJETkpzNUw2MXNjSy9LdUp3MzVjNktsIn0="
     },
     {
       "id": "1552735480024531076",
@@ -506,96 +638,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeUhIZHdOQk9jeGF5SGEzeWRQQ1Z2eHVlVU1kckhLTGtoTThLZDFtdnR1RVJRMnZpOGtKOUdrKzY0NzNTSmRHeEp1M0hZNnNTcUplQWRxVlBqUXVkcC9TTGN5UjhvRUFIQW05OHkrUldGVVVsNmZpVmhwOEh1eFlJeHNFVllLSGpKcit2bWt0Q3cyYXdJQStlaWo5eXdWUWRJWjljN3RQTnkvc21NbXNEOS83VmFyMDJSUDJtUEdtZHUwNzBLYzErdjhpOD0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMZVYwa2dNUDVYb2g1ZzlRcllmVC9uVy9mdGxPN21EMEVESG5kSEpwOU1TUGFJdXBsWFR4OGl5V1c4RGZlb2R2WTJpcnU0RC85WjRITjM2K2RtK0Q2VjBRYVJkeE1BemczaXB1d0dnSVJFczBtanZrYldhZUpWMjB6WnRtNzRRek9hdUp1YkZ0OEVYQlhrdlRyTzRQamdzcVlTNVh5QUErSmZaRlJjbC9ubnpVVHdzcWJhIn0="
-    },
-    {
-      "id": "1553157223117496330",
-      "config": {
-        "id": "1553157223117496330",
-        "config_version": 2,
-        "starts_at": "2026-10-22T17:00:00+00:00",
-        "expires_at": "2026-11-08T01:00:00+00:00",
-        "features": [
-          26,
-          15
-        ],
-        "application": {
-          "link": "https://www.firefox.com/?utm_medium=paidvideo&utm_source=discord&utm_campaign=nova&utm_content=playquest",
-          "id": "1491208267928703226",
-          "name": "Firefox"
-        },
-        "assets": {
-          "hero": "quests/1553157223117496330/1560448151926734868.jpg",
-          "hero_video": "quests/1553157223117496330/1560448170260172800_720.mp4",
-          "quest_bar_hero_blurhash": "WzcSCoT2eGh2iIl4ep5Af2Y=",
-          "quest_bar_hero": "quests/1553157223117496330/1560448151926734868.jpg",
-          "quest_bar_hero_video": "quests/1553157223117496330/1560448170260172800_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1553157223117496330/1559690577132654612.png",
-          "game_tile_dark": "quests/1553157223117496330/1559690577132654612.png",
-          "logotype_light": "quests/1553157223117496330/1559690602961182780.png",
-          "logotype_dark": "quests/1553157223117496330/1559690603443257415.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Firefox Browser",
-          "game_title": "the latest Firefox Browser",
-          "game_publisher": "Mozilla"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1491208267928703226"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700,
-              "premium_orb_quantity": 840
-            }
-          ],
-          "rewards_expire_at": "2026-12-08T01:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.firefox.com/?utm_medium=paidvideo&utm_source=discord&utm_campaign=nova&utm_content=playquest",
-          "button_label": "Download",
-          "subtitle": "Try Firefox today"
-        }
-      },
-      "user_status": null,
-      "targeted_content": [],
-      "ad_context": null,
-      "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeUhIZHdOQk9jeGF5SGEzeWRQQ1Z2eHVlVU1kckhLTGtoTThLZDFtdnR1RVJRMnZpOGtKOUdrKzY0NzNTSmRHeEp1M0hZNnNTcUplQWRxVlBqUXVkcC9TTGN5UjhvRUFIQW05OHkrUldGVVVsNmZpVmhwOEh1eFlJeHNFVllLSGpKcit2bWt0Q3cyYXdJQStlaWo5eXdWUWRJWjljN3RQTnkvc21NbXNEOS83VmFyMDJSUDJtUEdtZHUwNzBLYzErdjhpOD0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMU2pxb2tvZHhSUGdhajZNOTNYQzEvanBPQUtpT0FibkJwSDdhdTJJQ204TGFrSjFENXVldjcxdko3UFdFdkRwT1A5YThNWnAzODNUaFZuZWVtcmlZVk1ZZzNUL0p2a3ZUaklGbTBBSittTzBNL1RaU01wblRydTdIMVNhUW9ORUQ2K0hSMHRyZk9hRVRzM1pONVFMVzdtUy9zTEJHN0xxeDBFanIwUHdMZW9ZT2RYRHV1In0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMZURxaG56ell2eEpFa2lsdHQrSWt2d005OGlaSExoaDJrdDlxL01kOVh1NjhNS0F1WXZ0d0VIYnhRb3dJcGtkeituZW9SaXhPdlcvQ3gyODEvVXRlT3RWbTVUQklWcG95ZWlJWFlDUHgzVllEN1RCeEM2bzNvL3FwRHk1Z0IyMGJ6UmtWUDl4VjhHdDVyZ3VOZVZGclBybEVhb01SM1BITW0zK3NZTkRob1llT1FNMG9LcFpPZUdxRTV4Z1psTjAyd1Rrbz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMSVN5N3lpdGQxZmcvdFlCajdJMVNhekZMVGVEVVhjMUpvZEJvdTlOemZadWk4cHJ2L2gwbUZZbU53WWZmYWdQdE01aEtHTkRkbjc0N3RCa1dMb1lTSVIySjlsSXNDK2EwSVhwbGt2N2VSWWRuTCt6YU9PME5hbUlVZFgrenpNR2ZaR09OV0ZzRW1sbGR2Y3lTc21xd0pHRXUvbE9EeW00S09UZVhPTWhHYmk4M2V4Vm1MIn0="
     },
     {
       "id": "1557935197906010122",
@@ -725,8 +769,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeUhIZHdOQk9jeGF5SGEzeWRQQ1Z2eHVlVU1kckhLTGtoTThLZDFtdnR1RVJRMnZpOGtKOUdrKzY0NzNTSmRHeEp1M0hZNnNTcUplQWRxVlBqUXVkcC9TTGN5UjhvRUFIQW05OHkrUldGVVVsNmZpVmhwOEh1eFlJeHNFVllLSGpKcit2bWt0Q3cyYXdJQStlaWo5eXdWUWRJWjljN3RQTnkvc21NbXNEOS83VmFyMDJSUDJtUEdtZHUwNzBLYzErdjhpOD0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJQzJDeWNBOUpOTHhNZUFHOUUzTXlQNUtXOHh6Y25EaXlDRkhGa2VrdzVHN0VweWlFMzR6clBWSnhyKzduY1dlWmVHTWgzd09rVjJQU2s3NUpQVTdjNFRIUjVMRmg3cjcyMG1KWDdSMHVCck5OL05MUjdFZzljSEVabnZIV2dTRnAyUm55RU9JZXpPYUZYTWtyN09ZcWxoZ29KdjN0cmVvL2l4MmRKTHJSS2xYRTY4N3dCIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMZURxaG56ell2eEpFa2lsdHQrSWt2d005OGlaSExoaDJrdDlxL01kOVh1NjhNS0F1WXZ0d0VIYnhRb3dJcGtkeituZW9SaXhPdlcvQ3gyODEvVXRlT3RWbTVUQklWcG95ZWlJWFlDUHgzVllEN1RCeEM2bzNvL3FwRHk1Z0IyMGJ6UmtWUDl4VjhHdDVyZ3VOZVZGclBybEVhb01SM1BITW0zK3NZTkRob1llT1FNMG9LcFpPZUdxRTV4Z1psTjAyd1Rrbz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLU2wrakh6YjQ2WTNzMmhydHppMnNPYkZHNWpSK1EwWUZQQ1RGWFF2K0hTQkluNzJUVG9kcUFlYnhtRVFRdlNVV0RQWDU0TUtzanNUVzVQM1dUcUd4b3JzYm1DcUN6Sm55SkZTSkwwZ2FFNWVZbVlUbUxiR1dPSmhBK0RiWlhHUkM3OTNSUys3SGZDWk1QM2p4VGhaai84SUR0eFhsQk5XakI1UFEzQmZRWk1RM2lUeHltIn0="
     },
     {
       "id": "1554696065704529930",
@@ -829,8 +873,96 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeUhIZHdOQk9jeGF5SGEzeWRQQ1Z2eHVlVU1kckhLTGtoTThLZDFtdnR1RVJRMnZpOGtKOUdrKzY0NzNTSmRHeEp1M0hZNnNTcUplQWRxVlBqUXVkcC9TTGN5UjhvRUFIQW05OHkrUldGVVVsNmZpVmhwOEh1eFlJeHNFVllLSGpKcit2bWt0Q3cyYXdJQStlaWo5eXdWUWRJWjljN3RQTnkvc21NbXNEOS83VmFyMDJSUDJtUEdtZHUwNzBLYzErdjhpOD0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLcVFWU256Z0dwcGVpYjNkeGFSaWpQM21HTVBzcFcyaHluTGYxcTZZZXBjQ2h1eWlqaVFnVVJ1SGpsa2o0VlVNdEZvRTVkemJJemdNdi9zSE1UejJtekZMcXg2Wks1LzVzeVJCb0xadXJHSW92UnhwRlBsMitPVGlOVXlTUmJBeWRvU1pSZnlEZkpWcDJaSUtJS1haQ3pURmMrN3h6dVc3LzBNeXFOUjZTVGZ5TlRnUXZLIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMZURxaG56ell2eEpFa2lsdHQrSWt2d005OGlaSExoaDJrdDlxL01kOVh1NjhNS0F1WXZ0d0VIYnhRb3dJcGtkeituZW9SaXhPdlcvQ3gyODEvVXRlT3RWbTVUQklWcG95ZWlJWFlDUHgzVllEN1RCeEM2bzNvL3FwRHk1Z0IyMGJ6UmtWUDl4VjhHdDVyZ3VOZVZGclBybEVhb01SM1BITW0zK3NZTkRob1llT1FNMG9LcFpPZUdxRTV4Z1psTjAyd1Rrbz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJTm9qY2JlMTVrSHRFOXFNeWUxVXFFN3hFUlBncTk2dVdmT2ExbWE4Yjc4RDdJb3RCT0F4Vk1YdFV6RnJOaWxsSUtRZkVJWjI5b0R6VEMzMFZFT1BCeEcwdFVCM1RvYTMydUcyNDVEck5vS1AweGZCL0l1RTNzWHFvVm9JVkZtNzlVL1pGZ0d5czd2QmJmZG1WODRhYnkrdTZNd1BkOUIwM01uMSt0RUpYNUs1UXVDVFlzIn0="
+    },
+    {
+      "id": "1553157223117496330",
+      "config": {
+        "id": "1553157223117496330",
+        "config_version": 2,
+        "starts_at": "2026-10-22T17:00:00+00:00",
+        "expires_at": "2026-11-08T01:00:00+00:00",
+        "features": [
+          26,
+          15
+        ],
+        "application": {
+          "link": "https://www.firefox.com/?utm_medium=paidvideo&utm_source=discord&utm_campaign=nova&utm_content=playquest",
+          "id": "1491208267928703226",
+          "name": "Firefox"
+        },
+        "assets": {
+          "hero": "quests/1553157223117496330/1560448151926734868.jpg",
+          "hero_video": "quests/1553157223117496330/1560448170260172800_720.mp4",
+          "quest_bar_hero_blurhash": "WzcSCoT2eGh2iIl4ep5Af2Y=",
+          "quest_bar_hero": "quests/1553157223117496330/1560448151926734868.jpg",
+          "quest_bar_hero_video": "quests/1553157223117496330/1560448170260172800_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1553157223117496330/1559690577132654612.png",
+          "game_tile_dark": "quests/1553157223117496330/1559690577132654612.png",
+          "logotype_light": "quests/1553157223117496330/1559690602961182780.png",
+          "logotype_dark": "quests/1553157223117496330/1559690603443257415.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Firefox Browser",
+          "game_title": "the latest Firefox Browser",
+          "game_publisher": "Mozilla"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1491208267928703226"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": 840
+            }
+          ],
+          "rewards_expire_at": "2026-12-08T01:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.firefox.com/?utm_medium=paidvideo&utm_source=discord&utm_campaign=nova&utm_content=playquest",
+          "button_label": "Download",
+          "subtitle": "Try Firefox today"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "ad_context": null,
+      "preview": false,
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMZURxaG56ell2eEpFa2lsdHQrSWt2d005OGlaSExoaDJrdDlxL01kOVh1NjhNS0F1WXZ0d0VIYnhRb3dJcGtkeituZW9SaXhPdlcvQ3gyODEvVXRlT3RWbTVUQklWcG95ZWlJWFlDUHgzVllEN1RCeEM2bzNvL3FwRHk1Z0IyMGJ6UmtWUDl4VjhHdDVyZ3VOZVZGclBybEVhb01SM1BITW0zK3NZTkRob1llT1FNMG9LcFpPZUdxRTV4Z1psTjAyd1Rrbz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKbzBrTU8rUGR4eFhINythb1JJdEgzS1BOUkpFVmM2QStGYzFaTnF3QjlSa0NMaFlzazBwS3h3THlSTkpSeGpLcis2SWd4R2tBNlpuVG9uUWNJYU14cEtsOENjTGNybjFlVG1uSFZZZTFDWDF1N0hpcDJ3WU83TzNub2VibmkzYkxGT0Mwdm1ZaTJiWlJUbUxHSjIxenBVSTNOSDB6a0ZMSHJEMmZKTS9Tb2o0ajA0UFBXIn0="
     },
     {
       "id": "1554689886835966094",
@@ -925,8 +1057,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeUhIZHdOQk9jeGF5SGEzeWRQQ1Z2eHVlVU1kckhLTGtoTThLZDFtdnR1RVJRMnZpOGtKOUdrKzY0NzNTSmRHeEp1M0hZNnNTcUplQWRxVlBqUXVkcC9TTGN5UjhvRUFIQW05OHkrUldGVVVsNmZpVmhwOEh1eFlJeHNFVllLSGpKcit2bWt0Q3cyYXdJQStlaWo5eXdWUWRJWjljN3RQTnkvc21NbXNEOS83VmFyMDJSUDJtUEdtZHUwNzBLYzErdjhpOD0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKRkpFcDFvaitQZ1E5V1ZoenE0QTBNUXM5T1M2eXcySU5aWU5KUWw4MWNxLzNzYndoT1lBQWtwcnBmZ0UxREpycDN2eGlvVTgzbEo5NW8xR1FNZk82T1phSU9JYjc2b3F3QU1IRWNsajZnTXRNUEhtSW1QZmRtYW4veVFrMVBkWkpzMVJSenhyd1g4alFUWm9ZUEpDWTNDOTIzUzhYeC9GY3Z2NDd4ejV4TWhzSlJEb0x1In0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMZURxaG56ell2eEpFa2lsdHQrSWt2d005OGlaSExoaDJrdDlxL01kOVh1NjhNS0F1WXZ0d0VIYnhRb3dJcGtkeituZW9SaXhPdlcvQ3gyODEvVXRlT3RWbTVUQklWcG95ZWlJWFlDUHgzVllEN1RCeEM2bzNvL3FwRHk1Z0IyMGJ6UmtWUDl4VjhHdDVyZ3VOZVZGclBybEVhb01SM1BITW0zK3NZTkRob1llT1FNMG9LcFpPZUdxRTV4Z1psTjAyd1Rrbz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLQ3B3WW1ERVFwUGVJQXVCS3FXaHZ1WVdVN0pCTEdaNjhueWx3TlV2ZUttbGhQMkxWYzRLdUdSSERPeEJ5V3ZaSFlOK3RLOUk3dFZGeGRtb3VBRkhialNYY1BLNmxHN0I0R2hLdDNNeG1nb2dvdlovZDdzQ3czSXBnUkVyV3lZTUxIOWZCcm5VQkc4anE3VE13ZHA0bzcyNXExek5udXBQYUVIM0ZmZ3lDTXZ5ZlVKSEYvIn0="
     },
     {
       "id": "1567679380166156430",
@@ -1011,8 +1143,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeUhIZHdOQk9jeGF5SGEzeWRQQ1Z2eHVlVU1kckhLTGtoTThLZDFtdnR1RVJRMnZpOGtKOUdrKzY0NzNTSmRHeEp1M0hZNnNTcUplQWRxVlBqUXVkcC9TTGN5UjhvRUFIQW05OHkrUldGVVVsNmZpVmhwOEh1eFlJeHNFVllLSGpKcit2bWt0Q3cyYXdJQStlaWo5eXdWUWRJWjljN3RQTnkvc21NbXNEOS83VmFyMDJSUDJtUEdtZHUwNzBLYzErdjhpOD0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJVkFmdGUyWFFLQmRpVmdveDYvTVFEU2FWeWIvNkhla2RQVGNkbjZIVTRHL29MSlhTWDU1MVZvQXFBeDRUVDJmZzFUQW1JQmhzUGxFeFV4TW5WM2FOV1hIUWxjc1B4OE5hR3lYQnhHTmc2amlSNlZVaWw4amg2U2g1ek91R2FUQTRBTXBkN0EydEdjYUplMThyN0xEYWJzVVFFQ0ExQUVaNmh0bWpPaUx1U2I2QjB4b3oyIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMZURxaG56ell2eEpFa2lsdHQrSWt2d005OGlaSExoaDJrdDlxL01kOVh1NjhNS0F1WXZ0d0VIYnhRb3dJcGtkeituZW9SaXhPdlcvQ3gyODEvVXRlT3RWbTVUQklWcG95ZWlJWFlDUHgzVllEN1RCeEM2bzNvL3FwRHk1Z0IyMGJ6UmtWUDl4VjhHdDVyZ3VOZVZGclBybEVhb01SM1BITW0zK3NZTkRob1llT1FNMG9LcFpPZUdxRTV4Z1psTjAyd1Rrbz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLUG00VmdaR0FiUlhsRHJqZ1h0bHlJanNPZnp4WXZtWFdqYmo3YlU1MDNBeWpCQzVWNndkdCswWURySGlQRzJXV0c2VDg3dXhVdEJqTHJQQTl1aE50blQrcWR4VmJSczg4Uml4Q3RveC9iajFKUjY3SmdnWm05NDA5bmplZldaRUdGK29vUjAxWEhKUCtRL2dvSEhsTFkzcm1wM3RxSU9NYzFtOXRxdGQ2WExwSVBZVlpFIn0="
     },
     {
       "id": "1562249301252645008",
@@ -1142,8 +1274,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeUhIZHdOQk9jeGF5SGEzeWRQQ1Z2eHVlVU1kckhLTGtoTThLZDFtdnR1RVJRMnZpOGtKOUdrKzY0NzNTSmRHeEp1M0hZNnNTcUplQWRxVlBqUXVkcC9TTGN5UjhvRUFIQW05OHkrUldGVVVsNmZpVmhwOEh1eFlJeHNFVllLSGpKcit2bWt0Q3cyYXdJQStlaWo5eXdWUWRJWjljN3RQTnkvc21NbXNEOS83VmFyMDJSUDJtUEdtZHUwNzBLYzErdjhpOD0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMclVrWVp1dDVlVm5NRVJWWUlhK3VqZUZXeC9nbUM3QytscW9sUGdudDdJTU1ZOS9vby9IdDdQUkU0ZGZtTnFPN1pLcXU0MEY3Y090cGt1Z0ZzSTRhZEduSStqaGJGNFROMTNyV1FEdmhob0R0ME1Gb3hNd0oxUTROaHNUcXBBVjhuRmkvZjRkdjN2QUM2aDZtVmJiTGhVZk91WTl0ck85K3hPRWJXR1dsVVZ4QWZMT1pCIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMZURxaG56ell2eEpFa2lsdHQrSWt2d005OGlaSExoaDJrdDlxL01kOVh1NjhNS0F1WXZ0d0VIYnhRb3dJcGtkeituZW9SaXhPdlcvQ3gyODEvVXRlT3RWbTVUQklWcG95ZWlJWFlDUHgzVllEN1RCeEM2bzNvL3FwRHk1Z0IyMGJ6UmtWUDl4VjhHdDVyZ3VOZVZGclBybEVhb01SM1BITW0zK3NZTkRob1llT1FNMG9LcFpPZUdxRTV4Z1psTjAyd1Rrbz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLVlhYaFRNVFJzUmtsS0V3V1Mzd1lwdzIyUlR5R3IyQmRkMUZFVlYrV3JHR0VESUQwbUxDMHVBUlNFUVVEbkNtQjlKWmlDRk9ETzhFZ0diSG4xWlQ2Nmd1ZHhMVXZaRUhQOWFSK3hmd3gydUliNGJTZ2o0aXlheW1HOTZyVmhIb3hTRGRJWmtUYzZhSEJQakZQSy9OMkRRWXE4anEwczRoaXNab0FqbVI4dm41VVB1Y1FuIn0="
     },
     {
       "id": "1562915304299044884",
@@ -1228,8 +1360,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeUhIZHdOQk9jeGF5SGEzeWRQQ1Z2eHVlVU1kckhLTGtoTThLZDFtdnR1RVJRMnZpOGtKOUdrKzY0NzNTSmRHeEp1M0hZNnNTcUplQWRxVlBqUXVkcC9TTGN5UjhvRUFIQW05OHkrUldGVVVsNmZpVmhwOEh1eFlJeHNFVllLSGpKcit2bWt0Q3cyYXdJQStlaWo5eXdWUWRJWjljN3RQTnkvc21NbXNEOS83VmFyMDJSUDJtUEdtZHUwNzBLYzErdjhpOD0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKaXdxRUUzT0hKVXJtZi9IZHhtWnZMWVFwYisxTGZiZUlSQ2hkZ3NWenhGTmlNc0lXNzRjUXNIeDQ2RlF5cG9OM1BqZGdnbHZ4ZXdxMEJ4eG1TZzZCQTdJT3ZaQ2k5ZFFXRGI5bFdiaW9WTi9jL1hlM0Y0T2I2MHFMaFEwNVArOVdwc0VpSTNraTgrcXFXRTVyOTY1cXV2WjFXTFpQblgwMFZXemNFcDVjYkJXWXl6b3RhIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMZURxaG56ell2eEpFa2lsdHQrSWt2d005OGlaSExoaDJrdDlxL01kOVh1NjhNS0F1WXZ0d0VIYnhRb3dJcGtkeituZW9SaXhPdlcvQ3gyODEvVXRlT3RWbTVUQklWcG95ZWlJWFlDUHgzVllEN1RCeEM2bzNvL3FwRHk1Z0IyMGJ6UmtWUDl4VjhHdDVyZ3VOZVZGclBybEVhb01SM1BITW0zK3NZTkRob1llT1FNMG9LcFpPZUdxRTV4Z1psTjAyd1Rrbz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMQTM5cVVmS1NaUEptRnVXbit3MkVhVVJmb2tlbEExbG1qamY0RE1ucUczRXFib0dBcDBaaUpSVm9TRnZIMEpUWlk5YmpyYmxvK21NekozbzF4eDdleUQ3TlhUME1CN3hlOU55ZHZCRCt3YTdONzQvaUFRVnhKcHpQcUZDTU83TERDdVVjZ1RzSVJMUG4rd0wvcWFnQk1VREdkMWJITHdZcUZvRit0UUZYMjhVZy9OWjlNIn0="
     },
     {
       "id": "1565598409891651604",
@@ -1359,8 +1491,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeUhIZHdOQk9jeGF5SGEzeWRQQ1Z2eHVlVU1kckhLTGtoTThLZDFtdnR1RVJRMnZpOGtKOUdrKzY0NzNTSmRHeEp1M0hZNnNTcUplQWRxVlBqUXVkcC9TTGN5UjhvRUFIQW05OHkrUldGVVVsNmZpVmhwOEh1eFlJeHNFVllLSGpKcit2bWt0Q3cyYXdJQStlaWo5eXdWUWRJWjljN3RQTnkvc21NbXNEOS83VmFyMDJSUDJtUEdtZHUwNzBLYzErdjhpOD0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJa0N5MWVqaFZ4U0srWkNXVENza0FpNlRGRDJlNTg0TTFPeEVRT1p1eDhpbVN5ajJ0UnpvWG9vT3MzUlBQdWl4RlFPQ2hGUFNxWm1Pby9ONlNCVmJ5VU0vT2NCZVZpMU5qSnBVN1R3ZUFIMkg0cXNUMUt2WHVESGNiekdlRSttb3dpVXRQbExwMWhLQmF4N0lzNWd0cG4rRTdmSkIyZVI0L0sxMDNOdnZSc1BLNkRHclpxIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMZURxaG56ell2eEpFa2lsdHQrSWt2d005OGlaSExoaDJrdDlxL01kOVh1NjhNS0F1WXZ0d0VIYnhRb3dJcGtkeituZW9SaXhPdlcvQ3gyODEvVXRlT3RWbTVUQklWcG95ZWlJWFlDUHgzVllEN1RCeEM2bzNvL3FwRHk1Z0IyMGJ6UmtWUDl4VjhHdDVyZ3VOZVZGclBybEVhb01SM1BITW0zK3NZTkRob1llT1FNMG9LcFpPZUdxRTV4Z1psTjAyd1Rrbz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKT2hCeTR2WGxtazdHQjhrU1BlT1BSSEROZ2lxUFlSTnlGYlBnVHJXQStpTXFOaWV1aC9JQXZ2WkxBQnJCV0RxN1R5cWh4dUZtODFHQWJCZ3g4V1p5WmtrQW4ydWFoKzdIL3lXL09kT3ZxRC9rVXJnN1lJNW9iTXcwN0tjenBobE14QkxaeXBCYmE5Q0ppeks3RlVtbDR5bVJ6RUg2QTlpMHE2Y0NrclVKdE5QNnFnblpXIn0="
     },
     {
       "id": "1569633416654094356",
@@ -1463,8 +1595,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeUhIZHdOQk9jeGF5SGEzeWRQQ1Z2eHVlVU1kckhLTGtoTThLZDFtdnR1RVJRMnZpOGtKOUdrKzY0NzNTSmRHeEp1M0hZNnNTcUplQWRxVlBqUXVkcC9TTGN5UjhvRUFIQW05OHkrUldGVVVsNmZpVmhwOEh1eFlJeHNFVllLSGpKcit2bWt0Q3cyYXdJQStlaWo5eXdWUWRJWjljN3RQTnkvc21NbXNEOS83VmFyMDJSUDJtUEdtZHUwNzBLYzErdjhpOD0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJZENnVDZUT0N4R2lUODNnampWdVBtTXlIdEFURG9NVU1hc21EZUd0eFBSOEIwYy9BQThjY0l3UmVaQlZPR2FSRkZhSTdmNTg0UjdzbTFVSHYxTmxEdStjR2tTRTNSYWJ3elBpenpnNGtNWEFUT1JPS0xhL29SWE1tSVJ4TjJVM1hlUEZKN1BJQUoyRGQyVjk1NDloWnZWaW9qNU5MZTJMZ1BhTUJoMldxQ1VXTmtGWGlYIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMZURxaG56ell2eEpFa2lsdHQrSWt2d005OGlaSExoaDJrdDlxL01kOVh1NjhNS0F1WXZ0d0VIYnhRb3dJcGtkeituZW9SaXhPdlcvQ3gyODEvVXRlT3RWbTVUQklWcG95ZWlJWFlDUHgzVllEN1RCeEM2bzNvL3FwRHk1Z0IyMGJ6UmtWUDl4VjhHdDVyZ3VOZVZGclBybEVhb01SM1BITW0zK3NZTkRob1llT1FNMG9LcFpPZUdxRTV4Z1psTjAyd1Rrbz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLckVycEs0TjJoSzVkc3l0T1h3UWVtNjZCb1h6M3NyUWtvUzFHVHBGOWxteExoZzJlWlJhT09kYkVndUZlR2Fkc3EwdXhsTWVwckZCUTVxNnRQejFBUUZaQ0N1N1d4MHdwb0ZOQ21VVkJuVWRkNHZGbzBxQUVrczR1blhteDNPMXFmWFVmSHV1cG1QUVBZVjd4Rlk1KzFQQUI0S0ZpMWg2MzZFSVpJVk5LNTFXSFlkYTY5In0="
     },
     {
       "id": "1564651257845780511",
@@ -1549,8 +1681,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeUhIZHdOQk9jeGF5SGEzeWRQQ1Z2eHVlVU1kckhLTGtoTThLZDFtdnR1RVJRMnZpOGtKOUdrKzY0NzNTSmRHeEp1M0hZNnNTcUplQWRxVlBqUXVkcC9TTGN5UjhvRUFIQW05OHkrUldGVVVsNmZpVmhwOEh1eFlJeHNFVllLSGpKcit2bWt0Q3cyYXdJQStlaWo5eXdWUWRJWjljN3RQTnkvc21NbXNEOS83VmFyMDJSUDJtUEdtZHUwNzBLYzErdjhpOD0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMWjYxUElxZTdJSDZZOW12Zll1aGZ3aGEyYlV4cG11T1VOdXpoVTVucEFiOVdwVWVEN013OG5pLy9EeW4yd3BwdnJOdjdBZHJRRFhuY2lLM2pTTWFIWlB3Sm9ZdTdoamNVVEhyZGJYSWVFRDVzc1ZjSExoSlQvR3lQRUQxU3pjc2I5VHo5eEVRNGpOMVR2TVJqMEw2dTJ0bENQSWQ0OHg4dm4ybUJrVHptL3g5Y3NQVGhtIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMZURxaG56ell2eEpFa2lsdHQrSWt2d005OGlaSExoaDJrdDlxL01kOVh1NjhNS0F1WXZ0d0VIYnhRb3dJcGtkeituZW9SaXhPdlcvQ3gyODEvVXRlT3RWbTVUQklWcG95ZWlJWFlDUHgzVllEN1RCeEM2bzNvL3FwRHk1Z0IyMGJ6UmtWUDl4VjhHdDVyZ3VOZVZGclBybEVhb01SM1BITW0zK3NZTkRob1llT1FNMG9LcFpPZUdxRTV4Z1psTjAyd1Rrbz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLc05xb1JzeElXVGt2SitNOEVzbVVnbWRiV21GRGc4RG9HSTdRWVErVWJOR25TK0lqc2h0VWU4T1h2SEkxS2RGVU5xRmRkb0VKaXNrWXh1SUpEckpSSlovVHU1cGFJcGlTTkY4YVJSekt4aFRkV2tpdHFmTlUzazgxek0ydzJGVC9aeURqbDkxanphN1RtUVo5bTFCN2RwNTJGVWs2SGdOb3dXbm11OGNzNVlZTDFPc2gwIn0="
     },
     {
       "id": "1552202240339611688",
@@ -1681,8 +1813,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeUhIZHdOQk9jeGF5SGEzeWRQQ1Z2eHVlVU1kckhLTGtoTThLZDFtdnR1RVJRMnZpOGtKOUdrKzY0NzNTSmRHeEp1M0hZNnNTcUplQWRxVlBqUXVkcC9TTGN5UjhvRUFIQW05OHkrUldGVVVsNmZpVmhwOEh1eFlJeHNFVllLSGpKcit2bWt0Q3cyYXdJQStlaWo5eXdWUWRJWjljN3RQTnkvc21NbXNEOS83VmFyMDJSUDJtUEdtZHUwNzBLYzErdjhpOD0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMNU9wZFd6VjA0OW9TaGttQ1UrTFh3RTl4OFNrOGRVMDRpQ0VORzRORXlCQklZSWVyaWREdS9yY3NuN21EM1hTZ1R5TW53NjJjNEtyZ3lGblZmeWpFM1NTV0UxMVZmaHFOcjdpZkNFNTFHbHBDWkxJUE5qdGtVT1o1dno0b1R1WlN4c3VDWkdhMVZaMmxGNkhoVWg5RjBESjZ0bWs2TU1IMVlycjFuQmNSeWdFeW5EUmdQIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMZURxaG56ell2eEpFa2lsdHQrSWt2d005OGlaSExoaDJrdDlxL01kOVh1NjhNS0F1WXZ0d0VIYnhRb3dJcGtkeituZW9SaXhPdlcvQ3gyODEvVXRlT3RWbTVUQklWcG95ZWlJWFlDUHgzVllEN1RCeEM2bzNvL3FwRHk1Z0IyMGJ6UmtWUDl4VjhHdDVyZ3VOZVZGclBybEVhb01SM1BITW0zK3NZTkRob1llT1FNMG9LcFpPZUdxRTV4Z1psTjAyd1Rrbz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMdkJPbUM3N1pZZjArUjFaZFhObHJremllVDA2Q2RqV1gxN0sxakI3U1JKVVp0aXFNK0F2bk1xdlFYL29mTEJhT2xiWVFFMXpDT3J2RmU5OUMxYU1sam9GeGZ3SUxsZzNHOFZnSk9vdEhyMzlwdTlhMENZOG1oTDlCU2J6ODgzTzZGc05iT2kxYjFoZzYrVFAvS2UxYllBOHJMejF0WGg3NDhQaHJRcHNpNnJVK3pGRkV4In0="
     },
     {
       "id": "1567288099795374120",
@@ -1812,8 +1944,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeUhIZHdOQk9jeGF5SGEzeWRQQ1Z2eHVlVU1kckhLTGtoTThLZDFtdnR1RVJRMnZpOGtKOUdrKzY0NzNTSmRHeEp1M0hZNnNTcUplQWRxVlBqUXVkcC9TTGN5UjhvRUFIQW05OHkrUldGVVVsNmZpVmhwOEh1eFlJeHNFVllLSGpKcit2bWt0Q3cyYXdJQStlaWo5eXdWUWRJWjljN3RQTnkvc21NbXNEOS83VmFyMDJSUDJtUEdtZHUwNzBLYzErdjhpOD0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJSHhzbTFSS1REb3pNLzRPRG5DRzRVeHpnZmMyR0ViQ2dTblZJeUtJSXYyUU8wQW5Ta1JZSXNUejE2dDJlZUtKY0tzWTZVL2puTDU0Wm04N29BVU5vT3ViVENyTENYcWhWZi9lcWtRM2xRdy90UnZTM0t5YnMydkNhLzNkcXVEZmlLclZzOGNOdTlaMHVVa0w0M3BBZTFZSkhYZUd3K3l6NWsrTi9pRy81TGU5SFJnNVhSIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMZURxaG56ell2eEpFa2lsdHQrSWt2d005OGlaSExoaDJrdDlxL01kOVh1NjhNS0F1WXZ0d0VIYnhRb3dJcGtkeituZW9SaXhPdlcvQ3gyODEvVXRlT3RWbTVUQklWcG95ZWlJWFlDUHgzVllEN1RCeEM2bzNvL3FwRHk1Z0IyMGJ6UmtWUDl4VjhHdDVyZ3VOZVZGclBybEVhb01SM1BITW0zK3NZTkRob1llT1FNMG9LcFpPZUdxRTV4Z1psTjAyd1Rrbz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMT0NpS29UaUI1TDBwQWxVbWtZTFJ6RklKeTYwS2Z6cVZ2V2FsVHJxa3VtNG5uZW1RL2pHQ3VxdCtTTG13RHNPNjZkYU02RTQ3NzBhaU5XYVVsaG5ldDROOCs3czN3Uy9kaUxaQXJwcEExUUt3NFJmS3dpKzNCWC8welAxWGZVQWV6UGNsSy9oMkt6NDFrQlJrajE2Z2g5SEhhOHhxeTYrSG5ML1pjWkRtc0xoUFI4d0FyIn0="
     },
     {
       "id": "1565599842900643881",
@@ -1909,8 +2041,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeUhIZHdOQk9jeGF5SGEzeWRQQ1Z2eHVlVU1kckhLTGtoTThLZDFtdnR1RVJRMnZpOGtKOUdrKzY0NzNTSmRHeEp1M0hZNnNTcUplQWRxVlBqUXVkcC9TTGN5UjhvRUFIQW05OHkrUldGVVVsNmZpVmhwOEh1eFlJeHNFVllLSGpKcit2bWt0Q3cyYXdJQStlaWo5eXdWUWRJWjljN3RQTnkvc21NbXNEOS83VmFyMDJSUDJtUEdtZHUwNzBLYzErdjhpOD0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJN2hkdnBVVC81TldZbEp4NWsyYUFsS0wzRXVFN2UxVVIzaW81bExFQTNjdndxZ2dmZmhJa3hDMUxLcjI2M0g0WlAyV2JaRXc2REcvVW5kenVlQjQ5cytKY29Pa2pBUmZZMGkzbi9hbHpVRnpuRDB1K3JCOHl5RFNiRFRmTUVML2ZlaHJ3b3BkWWp0eTdBaWV4cUIzV0dWM1Z4YnVmY1R3TzZzaGNQdExsL3E2SnpQVlZpIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMZURxaG56ell2eEpFa2lsdHQrSWt2d005OGlaSExoaDJrdDlxL01kOVh1NjhNS0F1WXZ0d0VIYnhRb3dJcGtkeituZW9SaXhPdlcvQ3gyODEvVXRlT3RWbTVUQklWcG95ZWlJWFlDUHgzVllEN1RCeEM2bzNvL3FwRHk1Z0IyMGJ6UmtWUDl4VjhHdDVyZ3VOZVZGclBybEVhb01SM1BITW0zK3NZTkRob1llT1FNMG9LcFpPZUdxRTV4Z1psTjAyd1Rrbz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJbGFhcC9LNTAwY2VUZkZnSjFaQ2M4cmRCQkFJcHFUNmxpblZ5WGd5NzBLUWVwdG5iMjBmOFVNdVJXTkhGblg5azN1WEdyWEJwTlRCOUJGRHJ4QUE0WWUvZERnUWxkRTdGeS9vZm1uM3EwZE9nRE5oVFc0SmJTcGJNUzN0T3lXQ0hGb2xaUlFnM1ZWcE1ya28wVTRUbGhKY3ZwSEs1dVdmektMRU1mWGhrSFd4dlRWQzh4In0="
     },
     {
       "id": "1549143645842841640",
@@ -2016,8 +2148,94 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeUhIZHdOQk9jeGF5SGEzeWRQQ1Z2eHVlVU1kckhLTGtoTThLZDFtdnR1RVJRMnZpOGtKOUdrKzY0NzNTSmRHeEp1M0hZNnNTcUplQWRxVlBqUXVkcC9TTGN5UjhvRUFIQW05OHkrUldGVVVsNmZpVmhwOEh1eFlJeHNFVllLSGpKcit2bWt0Q3cyYXdJQStlaWo5eXdWUWRJWjljN3RQTnkvc21NbXNEOS83VmFyMDJSUDJtUEdtZHUwNzBLYzErdjhpOD0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJTVpEL1BhYzRXeUJBWldiM1I0dEVkdDR1bU5LK0ZLQ1h1VFpwZzFsUGlyY3lHL1ZQSTZBeDk1SlNlanhvaVBPbURLVUdta0xJZmhhWTF5T2RmRm9VbGI0THQzbG9xaXVFR3dHeUZLSWVtSVBkVEZtTzQybmNGN2JyMTFLc1lRL1ZuV3ZtTDJZd3NEUWYzUlYzMWxhUEljY3dJdkJoVktKbWVxZ2F4RkNPeGUxc3Y1ejcrIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMZURxaG56ell2eEpFa2lsdHQrSWt2d005OGlaSExoaDJrdDlxL01kOVh1NjhNS0F1WXZ0d0VIYnhRb3dJcGtkeituZW9SaXhPdlcvQ3gyODEvVXRlT3RWbTVUQklWcG95ZWlJWFlDUHgzVllEN1RCeEM2bzNvL3FwRHk1Z0IyMGJ6UmtWUDl4VjhHdDVyZ3VOZVZGclBybEVhb01SM1BITW0zK3NZTkRob1llT1FNMG9LcFpPZUdxRTV4Z1psTjAyd1Rrbz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdExWOC9UWjRBYmhQeWw4eGFBejRTUHBlUmxpUFJSckVTcWlNRlFYY05rdDZjc1Z6YXFNZHl6UHFqOCs3UnNZZTVHMW95Y2hHZ0RzenlMN1g1Ry9KNDVWbmFvcG9sdXlWRTRYaGdjWHZDTTA2YjdOTWtYTndOTEtUUmtTYnQvNmNteWkyVlJSTmRpalQwWFhORko3L2YraUpHOWNNSThValgvU2xzTG0xQWsxRDBWeHN0In0="
+    },
+    {
+      "id": "1574926639333122220",
+      "config": {
+        "id": "1574926639333122220",
+        "config_version": 2,
+        "starts_at": "2026-11-26T18:00:00+00:00",
+        "expires_at": "2026-12-06T01:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.roblox.com/games/13621938427/untitled-boxing-game?gsrbx=1&ad_name=UPRNC4CJ\t",
+          "id": "363445589247131668",
+          "name": "Roblox"
+        },
+        "assets": {
+          "hero": "quests/1574926639333122220/1574927088794865875.jpg",
+          "hero_video": "quests/1574926639333122220/1574927155245092976_720.mp4",
+          "quest_bar_hero_blurhash": "2RcOEobQVppbeTeHCYHWEFg=",
+          "quest_bar_hero": "quests/1574926639333122220/1574927088794865875.jpg",
+          "quest_bar_hero_video": "quests/1574926639333122220/1574927155245092976_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1562915304299044884/1562916601886670980.png",
+          "game_tile_dark": "quests/1562915304299044884/1562916601861243000.png",
+          "logotype_light": "quests/1574926639333122220/1574927089352839260.png",
+          "logotype_dark": "quests/1574926639333122220/1574927089352839260.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Untitled Boxing Game",
+          "game_title": "Untitled Boxing Game on Roblox",
+          "game_publisher": "ROBLOX"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "363445589247131668"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": 840
+            }
+          ],
+          "rewards_expire_at": "2027-01-05T01:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.roblox.com/games/13621938427/untitled-boxing-game?gsrbx=1&ad_name=UPRNC4CJ\t",
+          "button_label": "Play Now"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "ad_context": null,
+      "preview": false,
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMZURxaG56ell2eEpFa2lsdHQrSWt2d005OGlaSExoaDJrdDlxL01kOVh1NjhNS0F1WXZ0d0VIYnhRb3dJcGtkeituZW9SaXhPdlcvQ3gyODEvVXRlT3RWbTVUQklWcG95ZWlJWFlDUHgzVllEN1RCeEM2bzNvL3FwRHk1Z0IyMGJ6UmtWUDl4VjhHdDVyZ3VOZVZGclBybEVhb01SM1BITW0zK3NZTkRob1llT1FNMG9LcFpPZUdxRTV4Z1psTjAyd1Rrbz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJOHpWSG4vVEtZYnlESXo2SlNaVnk1QXVZRitMVWdEaDFndVd5MVMyczd2SkJvSERmMGdYaWJ5b3daU1hOTXZDRytpTlpkSlFlSXBWVVlWQ1FISXcxaU83eWNrVHZvbUhObnBuMjV6QWREV1BNV1hsNFBoUWxiVmRqVHFUcjJUV2thNWJxZGFhcjdKL0ZaK2UxRXFMcHQxckNCYUNPN0p3a1lCOCt3RmN1ZWZ6N3hFb2tQIn0="
     },
     {
       "id": "1552724802249433261",
@@ -2150,8 +2368,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeUhIZHdOQk9jeGF5SGEzeWRQQ1Z2eHVlVU1kckhLTGtoTThLZDFtdnR1RVJRMnZpOGtKOUdrKzY0NzNTSmRHeEp1M0hZNnNTcUplQWRxVlBqUXVkcC9TTGN5UjhvRUFIQW05OHkrUldGVVVsNmZpVmhwOEh1eFlJeHNFVllLSGpKcit2bWt0Q3cyYXdJQStlaWo5eXdWUWRJWjljN3RQTnkvc21NbXNEOS83VmFyMDJSUDJtUEdtZHUwNzBLYzErdjhpOD0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJcXh6KzFUaDR4RkVTOWhRb2tOa3diZDI0ekhlblQ4OWYvcnFYZ29ub1NyRUtWU2VvZ0xta2NGK2N3djVuMURiNVV4Y0t4TG1nWDVxYUtnbFl5RnlDbDZZcEpiUVRseWh4Q2NFM090alJGdkpVdldKaE1pQVhZdSt5TTF5dTNDcHBvbHF0My95SFZsb0I0TWl0dUlwYS8xaUhvN2lGLzhUektzSzg3MjZqZEJzQmZnU3gxIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMZURxaG56ell2eEpFa2lsdHQrSWt2d005OGlaSExoaDJrdDlxL01kOVh1NjhNS0F1WXZ0d0VIYnhRb3dJcGtkeituZW9SaXhPdlcvQ3gyODEvVXRlT3RWbTVUQklWcG95ZWlJWFlDUHgzVllEN1RCeEM2bzNvL3FwRHk1Z0IyMGJ6UmtWUDl4VjhHdDVyZ3VOZVZGclBybEVhb01SM1BITW0zK3NZTkRob1llT1FNMG9LcFpPZUdxRTV4Z1psTjAyd1Rrbz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJOWJrcHRYVFNERS9XcWJnN1Y5djc2NENXdEhoODl0SnM1UEhhNkEzQ25USnhGNjcxYzBHNUczUUI5MVhvWGU2eWVTL0tlMXdIcXJGNnZtUGZ1VGJjQ2gzTU05cHVMeU5SQTRaQ3FWc284R2VpN1M3RnF1clFEbE1rT1Rra1Y1ZTQyU2N0QWJtZzQ5TXI4a3FKa2NOU2pmcHFOSmc0OG01S09lbG90U1lkN0NxaGs1Y3JXIn0="
     },
     {
       "id": "1552381793074675762",
@@ -2236,8 +2454,140 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeUhIZHdOQk9jeGF5SGEzeWRQQ1Z2eHVlVU1kckhLTGtoTThLZDFtdnR1RVJRMnZpOGtKOUdrKzY0NzNTSmRHeEp1M0hZNnNTcUplQWRxVlBqUXVkcC9TTGN5UjhvRUFIQW05OHkrUldGVVVsNmZpVmhwOEh1eFlJeHNFVllLSGpKcit2bWt0Q3cyYXdJQStlaWo5eXdWUWRJWjljN3RQTnkvc21NbXNEOS83VmFyMDJSUDJtUEdtZHUwNzBLYzErdjhpOD0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeVZHRllZa3hEOWkyODdkVGFQdTJaR2Rjbk9CT0o3Q2R6dWdzSVVmVWZhaXVMSldUWHlpNUIyM3k2a0gwSlA4S2hubm9sa05jMjZoaEpFd1VmT0o2S2RvQk1jMWF1WGZ6QUxEOC9wa3hDYTJzT2s3b1VQTzhzUnBYQjRUdlpNeVZCZXg5UDJadUtTOWdZMXlKbWExYklrT3ZGRVlodWdLV21oQk5tVDZCUFY3VTQ4a0lWIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMZURxaG56ell2eEpFa2lsdHQrSWt2d005OGlaSExoaDJrdDlxL01kOVh1NjhNS0F1WXZ0d0VIYnhRb3dJcGtkeituZW9SaXhPdlcvQ3gyODEvVXRlT3RWbTVUQklWcG95ZWlJWFlDUHgzVllEN1RCeEM2bzNvL3FwRHk1Z0IyMGJ6UmtWUDl4VjhHdDVyZ3VOZVZGclBybEVhb01SM1BITW0zK3NZTkRob1llT1FNMG9LcFpPZUdxRTV4Z1psTjAyd1Rrbz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKRklrNXZYOWMwTytOWkpMek1mT0t4UjJBc0RscmhwdkRzSHdEZ2lSREN5T2ZwNWYxUDNHb2QzU2FRdUhMUFRCeWdPREZMNHlSdVlwSzM4WG1FY0JHQ1RoM1BkTkNXTTJiRkxheVRxcTRUS0wvRmJpZG80YkNCT1JqUDFKZno4N3lITTFTZGkyOFhheVdLeUVkajlPNnhwN3QzcHZQL0NhM084R3FiZnJnYm5qRXZIOXdlIn0="
+    },
+    {
+      "id": "1568025226791493682",
+      "config": {
+        "id": "1568025226791493682",
+        "config_version": 2,
+        "starts_at": "2026-11-17T19:00:00+00:00",
+        "expires_at": "2026-12-28T01:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.dominos.com/minecraft-dungeons-ii",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1568025226791493682/1569525618826022982.jpg",
+          "hero_video": "quests/1568025226791493682/1568406366048231434_720.mp4",
+          "quest_bar_hero_blurhash": "kAgKGogGfZZmmWiIA1AESJc=",
+          "quest_bar_hero": "quests/1568025226791493682/1569525618826022982.jpg",
+          "quest_bar_hero_video": "quests/1568025226791493682/1568406366048231434_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1568025226791493682/1568405937046298687.png",
+          "game_tile_dark": "quests/1568025226791493682/1568405936471678986.png",
+          "logotype_light": "quests/1568025226791493682/1568405982856482866.png",
+          "logotype_dark": "quests/1568025226791493682/1568405982860808343.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Domino's x Minecraft Dungeons II",
+          "game_title": "Domino's x Minecraft Dungeons II",
+          "game_publisher": "Domino's"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 14,
+              "assets": {
+                "video": {
+                  "url": "quests/1568025226791493682/1568405883426316308_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1568025226791493682/1569525689525207142.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1568025226791493682/1568405883426316308_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1568025226791493682/1569525689525207142.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1568025226791493682/1568405883426316308.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1568025226791493682/1569525689525207142.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 14,
+              "assets": {
+                "video": {
+                  "url": "quests/1568025226791493682/1568405883514527795_1080.mp4",
+                  "width": 2160,
+                  "height": 3840,
+                  "thumbnail": "quests/1568025226791493682/1569525689525207142.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1568025226791493682/1568405883514527795_720.mp4",
+                  "width": 2160,
+                  "height": 3840,
+                  "thumbnail": "quests/1568025226791493682/1569525689525207142.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1568025226791493682/1568405883514527795.m3u8",
+                  "width": 2160,
+                  "height": 3840,
+                  "thumbnail": "quests/1568025226791493682/1569525689525207142.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": 240
+            }
+          ],
+          "rewards_expire_at": "2027-01-27T01:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.dominos.com/minecraft-dungeons-ii",
+          "button_label": "Learn More",
+          "subtitle": "Your perfect gaming companion"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "ad_context": null,
+      "preview": false,
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMZURxaG56ell2eEpFa2lsdHQrSWt2d005OGlaSExoaDJrdDlxL01kOVh1NjhNS0F1WXZ0d0VIYnhRb3dJcGtkeituZW9SaXhPdlcvQ3gyODEvVXRlT3RWbTVUQklWcG95ZWlJWFlDUHgzVllEN1RCeEM2bzNvL3FwRHk1Z0IyMGJ6UmtWUDl4VjhHdDVyZ3VOZVZGclBybEVhb01SM1BITW0zK3NZTkRob1llT1FNMG9LcFpPZUdxRTV4Z1psTjAyd1Rrbz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMOWEzZlN2RGVJQlZBaW1Pc1hJRTdkRTlPWVR6Y0g2K0NVVE96aTRINXErRk82UVhFWkxlcFhNa2lkRE4yenRucSs1dzdTdzZYVUsyVmhqZTJvQVdsUzBCNW1zaUVaSWtyUWhGRmd3UXBkTDd4L3FvLzdFU3RBOFpqcHI1dUhSdEwrRUhsS1ZweUduUy82eTNCMk15eERyL0tsVFZhdi8vcTBMNjRUYURFTHFQQXp5THFZIn0="
     },
     {
       "id": "1560192198614458419",
@@ -2332,8 +2682,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeUhIZHdOQk9jeGF5SGEzeWRQQ1Z2eHVlVU1kckhLTGtoTThLZDFtdnR1RVJRMnZpOGtKOUdrKzY0NzNTSmRHeEp1M0hZNnNTcUplQWRxVlBqUXVkcC9TTGN5UjhvRUFIQW05OHkrUldGVVVsNmZpVmhwOEh1eFlJeHNFVllLSGpKcit2bWt0Q3cyYXdJQStlaWo5eXdWUWRJWjljN3RQTnkvc21NbXNEOS83VmFyMDJSUDJtUEdtZHUwNzBLYzErdjhpOD0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLNVg5UzNobFFIWXV0SmRiRS9rS240dFEyL3pZUVZKZnVDUmwzWHUrWjJZYnZFbTJLb01pVjRIT24yaDJBdWdPZ2hXMjFYSG94MWNiU0VncUc1bWhaR2xjVWdwL05zZnJkYi8xS1ViRVlEbkd4QlZkTmMyWUtsS1hsbnFFRmcrc01wbGlsbWFkNW5Yb3FwaW85blI5WHhmaHZROFFCQjkwY2RwSmM5ODdqV0lCUjhSK296In0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMZURxaG56ell2eEpFa2lsdHQrSWt2d005OGlaSExoaDJrdDlxL01kOVh1NjhNS0F1WXZ0d0VIYnhRb3dJcGtkeituZW9SaXhPdlcvQ3gyODEvVXRlT3RWbTVUQklWcG95ZWlJWFlDUHgzVllEN1RCeEM2bzNvL3FwRHk1Z0IyMGJ6UmtWUDl4VjhHdDVyZ3VOZVZGclBybEVhb01SM1BITW0zK3NZTkRob1llT1FNMG9LcFpPZUdxRTV4Z1psTjAyd1Rrbz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLdzR3b0NKTzJMbnh1bXZrVElhUjVOQ2s4cVFDb0VRdko2MGp6RWJTdkJXREZUbGhKKzN3M3dxZGt1V0o2M1VNV045eHVzdGhyc0hPeEYyVGVPc1FtUERXbmw3Z0xhdzFiUTNZNWVPMU42aEJBbGhBWFBqOElSNkhISTYzVzlnT0FOS0VjWE5CUG1mZkovT2ZkS09YNWJoMlJ6RVpack1oSE9EcGV2Z0ljMXUzOUNwTW1OIn0="
     },
     {
       "id": "1555080843502813245",
@@ -2427,8 +2777,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeUhIZHdOQk9jeGF5SGEzeWRQQ1Z2eHVlVU1kckhLTGtoTThLZDFtdnR1RVJRMnZpOGtKOUdrKzY0NzNTSmRHeEp1M0hZNnNTcUplQWRxVlBqUXVkcC9TTGN5UjhvRUFIQW05OHkrUldGVVVsNmZpVmhwOEh1eFlJeHNFVllLSGpKcit2bWt0Q3cyYXdJQStlaWo5eXdWUWRJWjljN3RQTnkvc21NbXNEOS83VmFyMDJSUDJtUEdtZHUwNzBLYzErdjhpOD0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKbGc5SVB6Y25OMm1rakN6UGxCUWdDZDZhZndJcEF2MHA5ZHRmZzkyaU1lclVVZ1NkeUplUjllWmNlandIVk1hQXByOFBHdDgxKzJ3SkM3MTNORkRkTWE3SlMxR0pPU1NRTnIreEgyWVEvWTZ1YzdVN0I4V1Rsam9wSVR6VTNVdmZ5Tml3ZDVTQ3ZFYkY1Mm5mMG9SL1hrZHB6RFZRR1ZYQkZhV3VWeWF1L2NwaVhQblU1In0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMZURxaG56ell2eEpFa2lsdHQrSWt2d005OGlaSExoaDJrdDlxL01kOVh1NjhNS0F1WXZ0d0VIYnhRb3dJcGtkeituZW9SaXhPdlcvQ3gyODEvVXRlT3RWbTVUQklWcG95ZWlJWFlDUHgzVllEN1RCeEM2bzNvL3FwRHk1Z0IyMGJ6UmtWUDl4VjhHdDVyZ3VOZVZGclBybEVhb01SM1BITW0zK3NZTkRob1llT1FNMG9LcFpPZUdxRTV4Z1psTjAyd1Rrbz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJbFZ3VEpQTHFMVjl3dzZCVFZOTll4SGZMMWpPU1E5VnFwYXNpVG16K1dWRllxMlUraU9FR3JtNS8xYTIrdWNVSEZBWTJCVFl1LzNvR25tRVhNcWR0eTdiOVBnUUdJeGRQZVQ4NWtrbjlMUnY3YWxleTg5RmlKNDM5ZHlEQUM1U0VFMTRnL2c4L0JnVFV2WGJTVWJ2S3lkekd1K3U4WksrSjlRQzRoMm9aRUloL3E4OVdKIn0="
     },
     {
       "id": "1563257378751782974",
@@ -2558,8 +2908,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeUhIZHdOQk9jeGF5SGEzeWRQQ1Z2eHVlVU1kckhLTGtoTThLZDFtdnR1RVJRMnZpOGtKOUdrKzY0NzNTSmRHeEp1M0hZNnNTcUplQWRxVlBqUXVkcC9TTGN5UjhvRUFIQW05OHkrUldGVVVsNmZpVmhwOEh1eFlJeHNFVllLSGpKcit2bWt0Q3cyYXdJQStlaWo5eXdWUWRJWjljN3RQTnkvc21NbXNEOS83VmFyMDJSUDJtUEdtZHUwNzBLYzErdjhpOD0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJdUVSa0tjME9GSXFuVTArV1RnZlJlVm1RZzRSVjcycUkxRW5jZ1dnOStId1cvMTBnTzBlUWkwUVdQTWJXck1sQ1NwbFRvTW11VWhISVhJaUZWNEg1aDV2b3NTbG40YkFnNlNyN1VCTllUdTI0KzlTaVB0NW9mR1R3bTdnQlB4YVNnKzZ6NzdLVStBMEZoZzk5MGR3OG5RczNhMFZvRGU2Y0dMUXNTREg0QU1SSkQyTEltIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMZURxaG56ell2eEpFa2lsdHQrSWt2d005OGlaSExoaDJrdDlxL01kOVh1NjhNS0F1WXZ0d0VIYnhRb3dJcGtkeituZW9SaXhPdlcvQ3gyODEvVXRlT3RWbTVUQklWcG95ZWlJWFlDUHgzVllEN1RCeEM2bzNvL3FwRHk1Z0IyMGJ6UmtWUDl4VjhHdDVyZ3VOZVZGclBybEVhb01SM1BITW0zK3NZTkRob1llT1FNMG9LcFpPZUdxRTV4Z1psTjAyd1Rrbz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMYWtBdHQvSXpHbk4wTEkvSG5qR0szTndsbjBlL1FsNTN6NTRNTmZBdmFzR2JHUGR6dGxoODNHc1hPb01FVkxyeG5CVkpYZU4rUGprM2sxamZTK2ZCTFcwejFCa3hCTXo1L0tjRDlOenRXK1J1ZGNIS1dvaU1rOVBLRVJKcm9mTzRiZ3pycEp5M1VmYzBzQjF2ME9PUXcrTGtjREZDcGRYLzJ6VFM4Q1hrZkN4cnZiK3E0In0="
     },
     {
       "id": "1554267506372255815",
@@ -2689,8 +3039,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeUhIZHdOQk9jeGF5SGEzeWRQQ1Z2eHVlVU1kckhLTGtoTThLZDFtdnR1RVJRMnZpOGtKOUdrKzY0NzNTSmRHeEp1M0hZNnNTcUplQWRxVlBqUXVkcC9TTGN5UjhvRUFIQW05OHkrUldGVVVsNmZpVmhwOEh1eFlJeHNFVllLSGpKcit2bWt0Q3cyYXdJQStlaWo5eXdWUWRJWjljN3RQTnkvc21NbXNEOS83VmFyMDJSUDJtUEdtZHUwNzBLYzErdjhpOD0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMcm1sT3huVi9Fczl5RG15YVV6KzM0azlCSjRTRURmTWR4RFgvc0FYblJZR25TOU5jT1N4TjBQZXRyQU4rdE84eHNVWm85ZVdQVFBZOTcyZDNPZWFjMDhvdmp4T0c1TTFNU2JpcGpudVIzZEYza1FlbnFCRkM4cGVVOWY2MXl4ZGxaenlzY1RCNWNFWkY3RVAyWnVUNm90NjN1VnNBbFVGY2N5bmUxaEppR3pUbzJ5N25aIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMZURxaG56ell2eEpFa2lsdHQrSWt2d005OGlaSExoaDJrdDlxL01kOVh1NjhNS0F1WXZ0d0VIYnhRb3dJcGtkeituZW9SaXhPdlcvQ3gyODEvVXRlT3RWbTVUQklWcG95ZWlJWFlDUHgzVllEN1RCeEM2bzNvL3FwRHk1Z0IyMGJ6UmtWUDl4VjhHdDVyZ3VOZVZGclBybEVhb01SM1BITW0zK3NZTkRob1llT1FNMG9LcFpPZUdxRTV4Z1psTjAyd1Rrbz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMMS9MZEs4KzRGTWVOQ2NrVmU4SDVUZndjOFEzVVJKdEJMaHBvUTZpQW5tTWZ3T29QT1V1bWMvTkoxTlUrMXpyMnlFOFRhWDRGVWdPOFBWeEMzQk5WWFdxa0tkUjZyb3l5WHpVaTZXbi9mOThnMHhtQ3NyUVNVY0taZmN4bFRhcEVrb2xIZUdCTVlyd1RzdmxDZDU5amUrdDJQRld5Um9vdE9Sc1ZKQ0NuTnJ2QjllMUt2In0="
     },
     {
       "id": "1570911530306773063",
@@ -2775,8 +3125,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeUhIZHdOQk9jeGF5SGEzeWRQQ1Z2eHVlVU1kckhLTGtoTThLZDFtdnR1RVJRMnZpOGtKOUdrKzY0NzNTSmRHeEp1M0hZNnNTcUplQWRxVlBqUXVkcC9TTGN5UjhvRUFIQW05OHkrUldGVVVsNmZpVmhwOEh1eFlJeHNFVllLSGpKcit2bWt0Q3cyYXdJQStlaWo5eXdWUWRJWjljN3RQTnkvc21NbXNEOS83VmFyMDJSUDJtUEdtZHUwNzBLYzErdjhpOD0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKdG84ZzlpajVYcm13azhLZjVxVFNKNkJaQW54U21MaXg5QTZ6d3BLSUtHRDBjR0ExWVdzTGhKdlJiSFY1RDBNWGV0N3pYNTZzM01zbjNUaVZUck1OMjdYNG9BbmZDeHYrSHNnZzFtYnR2RUdxMzMvVi9uVlBjWnRBazg2aGN4bWdOV2hNRnhPazl1UU1GSnZHanMzTlRZY1ZPM0RwSWxrT3pLbXdyRjBCZmhyb1JlVVJuIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMZURxaG56ell2eEpFa2lsdHQrSWt2d005OGlaSExoaDJrdDlxL01kOVh1NjhNS0F1WXZ0d0VIYnhRb3dJcGtkeituZW9SaXhPdlcvQ3gyODEvVXRlT3RWbTVUQklWcG95ZWlJWFlDUHgzVllEN1RCeEM2bzNvL3FwRHk1Z0IyMGJ6UmtWUDl4VjhHdDVyZ3VOZVZGclBybEVhb01SM1BITW0zK3NZTkRob1llT1FNMG9LcFpPZUdxRTV4Z1psTjAyd1Rrbz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKbFo2THpxbWlMVlFNMmxYK0ZQOHVSaml6OEdzNklxRVhYNkxpS1VrNTkxdVQvMjF0S0hZcmx0NHF0MFhPdmg0RTBRMEUwVHRqS1llamlGSDZsU05iWXR3OFZTRkRmRXZoVU4zTHNXa1c4QkFaN1lrK3M2bzBUbXZmbk5mVmlxcGdiNzd1NGVBUnFxcElWaGJDOGViZS83Y2hiNHZ1eUNLak1kTkxLYlNQUTBPcVhmYVc1In0="
     },
     {
       "id": "1565572924973518929",
@@ -2913,8 +3263,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeUhIZHdOQk9jeGF5SGEzeWRQQ1Z2eHVlVU1kckhLTGtoTThLZDFtdnR1RVJRMnZpOGtKOUdrKzY0NzNTSmRHeEp1M0hZNnNTcUplQWRxVlBqUXVkcC9TTGN5UjhvRUFIQW05OHkrUldGVVVsNmZpVmhwOEh1eFlJeHNFVllLSGpKcit2bWt0Q3cyYXdJQStlaWo5eXdWUWRJWjljN3RQTnkvc21NbXNEOS83VmFyMDJSUDJtUEdtZHUwNzBLYzErdjhpOD0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMRVJjTmFWTjJDL3lCOHpQclpuUTY5RitpdEM0UnRxUGxkeTlXTjdCdkxYSkI5QjNndEhOQXU0Uy9zd04vb3kwampseGtPNE5PWTFBVVRRUHVYeEdrL3BxUlp6REdweVRjUnBlZ2pwcEFOcVJJMnpuUVM3ZDE2VW9HMzBNbDBIZXRwa2ppSXpGRFRQOFcvRjhKR09yVU13aHcvblduNzJ4ZUZHMDN3VnhDQlRtejNiaXhvIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMZURxaG56ell2eEpFa2lsdHQrSWt2d005OGlaSExoaDJrdDlxL01kOVh1NjhNS0F1WXZ0d0VIYnhRb3dJcGtkeituZW9SaXhPdlcvQ3gyODEvVXRlT3RWbTVUQklWcG95ZWlJWFlDUHgzVllEN1RCeEM2bzNvL3FwRHk1Z0IyMGJ6UmtWUDl4VjhHdDVyZ3VOZVZGclBybEVhb01SM1BITW0zK3NZTkRob1llT1FNMG9LcFpPZUdxRTV4Z1psTjAyd1Rrbz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKa2h2M2VpZlMrWE9UL2I0ZFhmY2pQMnExaURBRm5zekFQMlFseGxhbThPcGdIYjdYNmEzTUJ3QzExUmpkNk9ROStHZ0wxaEhLb2NBcmEyZ1MwTC9vdXFaNzJ5OUt1V2gyY0xoaDB4MWlXSDdCcEJpdWM5T0J5NWxaLzNnM2xicXQxZU0wWXZWVm1xQ0xmbDZnNzgrWWlRTHFsZllnTmlUQkNoZmx1QmZEcVVLcWhOdG1XIn0="
     },
     {
       "id": "1569534684185239673",
@@ -3044,8 +3394,142 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeUhIZHdOQk9jeGF5SGEzeWRQQ1Z2eHVlVU1kckhLTGtoTThLZDFtdnR1RVJRMnZpOGtKOUdrKzY0NzNTSmRHeEp1M0hZNnNTcUplQWRxVlBqUXVkcC9TTGN5UjhvRUFIQW05OHkrUldGVVVsNmZpVmhwOEh1eFlJeHNFVllLSGpKcit2bWt0Q3cyYXdJQStlaWo5eXdWUWRJWjljN3RQTnkvc21NbXNEOS83VmFyMDJSUDJtUEdtZHUwNzBLYzErdjhpOD0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKcGM0cjFndVFZa3Z6SlhkaXlzV01CK3hPU1I4M3B5QXpLN0dlYjNvMHFiTGJCeFdTc3hKYXQxbktiYjNJdDUweVJCQnloQzBDME93cVpNN1c0UEwweTFIU3JrdHlmT2hrS005SkNqdDh2TWJReGZKTnRCZmZsSllCTnkyQVhCZjZYQy80V3h3eFNaTStScnNHYnZ3TDkyK0tVYTN2WHo2ajZpMXp5ZXRHOFU3eERNWDFnIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMZURxaG56ell2eEpFa2lsdHQrSWt2d005OGlaSExoaDJrdDlxL01kOVh1NjhNS0F1WXZ0d0VIYnhRb3dJcGtkeituZW9SaXhPdlcvQ3gyODEvVXRlT3RWbTVUQklWcG95ZWlJWFlDUHgzVllEN1RCeEM2bzNvL3FwRHk1Z0IyMGJ6UmtWUDl4VjhHdDVyZ3VOZVZGclBybEVhb01SM1BITW0zK3NZTkRob1llT1FNMG9LcFpPZUdxRTV4Z1psTjAyd1Rrbz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKK2ZMcVJEMVNkNUgrVkxIazJ1ZGdzQTUxcUN5aEpCRk5hWlNJU3BFWHJsU2xOKzVhd3RWRXllS0xJeG5TeHY1ZW82aHQrV0xGZUs0cFJMZllUaG9mZGoxbVJkbWtSSWZaVFBsUEdvUmJwcDRWdlBJSmpmaFhyNXJWajhFUDcwazhORmNlYWlwcVpoMnRYYUkvWldVNG0wQ2h5ci90NXhWY2pWYWJoMElXclYwRGlLcXlmIn0="
+    },
+    {
+      "id": "1567441774820065380",
+      "config": {
+        "id": "1567441774820065380",
+        "config_version": 2,
+        "starts_at": "2026-11-09T18:00:00+00:00",
+        "expires_at": "2026-11-23T01:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.fandango.com/the-hunger-games-sunrise-on-the-reaping-2026-240138/movie-overview?cmp=ST_Lionsgate:HungerGamesSOTR:Discord",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1567441774820065380/1567443278289313932.jpg",
+          "quest_bar_hero_blurhash": "GTgKCoQ1dsZfeIZ2MIQCdmo=",
+          "quest_bar_hero": "quests/1567441774820065380/1567443278289313932.jpg",
+          "quest_bar_hero_video": "quests/1567441774820065380/1568319510967095417_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1567441774820065380/1567443432710864946.png",
+          "game_tile_dark": "quests/1567441774820065380/1567443432681771028.png",
+          "logotype_light": "quests/1567441774820065380/1567443367418138775.png",
+          "logotype_dark": "quests/1567441774820065380/1567443367489568778.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "The Hunger Games Video",
+          "game_title": "NOW PLAYING IN THEATERS GET TICKETS",
+          "game_publisher": "Lionsgate"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 143,
+              "assets": {
+                "video": {
+                  "url": "quests/1567441774820065380/1567448750396280842_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1567441774820065380/1567443299784990861.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1567441774820065380/1567448750396280842_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1567441774820065380/1567443299784990861.png"
+                },
+                "video_hls": {
+                  "url": "quests/1567441774820065380/1567448750396280842.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1567441774820065380/1567443299784990861.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 143,
+              "assets": {
+                "video": {
+                  "url": "quests/1567441774820065380/1570882628377251842_1080.mp4",
+                  "width": 607,
+                  "height": 1080,
+                  "thumbnail": "quests/1567441774820065380/1567443299784990861.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1567441774820065380/1570882628377251842_720.mp4",
+                  "width": 607,
+                  "height": 1080,
+                  "thumbnail": "quests/1567441774820065380/1567443299784990861.png"
+                },
+                "video_hls": {
+                  "url": "quests/1567441774820065380/1570882628377251842.m3u8",
+                  "width": 607,
+                  "height": 1080,
+                  "thumbnail": "quests/1567441774820065380/1567443299784990861.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 3,
+              "sku_id": "1568352578654310410",
+              "asset": "quests/1567441774820065380/1568352690139045888.mp4",
+              "asset_video": null,
+              "messages": {
+                "name": "Hunger Games Avatar Decoration",
+                "name_with_article": "a Hunger Games Avatar Decoration",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "expires_at": "2027-01-23T01:00:00+00:00",
+              "expires_at_premium": null,
+              "expiration_mode": 3
+            }
+          ],
+          "rewards_expire_at": "2026-12-23T01:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.fandango.com/the-hunger-games-sunrise-on-the-reaping-2026-240138/movie-overview?cmp=ST_Lionsgate:HungerGamesSOTR:Discord",
+          "button_label": "Get Tickets",
+          "subtitle": "NOW PLAYING IN THEATERS GET TICKETS"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "ad_context": null,
+      "preview": false,
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMZURxaG56ell2eEpFa2lsdHQrSWt2d005OGlaSExoaDJrdDlxL01kOVh1NjhNS0F1WXZ0d0VIYnhRb3dJcGtkeituZW9SaXhPdlcvQ3gyODEvVXRlT3RWbTVUQklWcG95ZWlJWFlDUHgzVllEN1RCeEM2bzNvL3FwRHk1Z0IyMGJ6UmtWUDl4VjhHdDVyZ3VOZVZGclBybEVhb01SM1BITW0zK3NZTkRob1llT1FNMG9LcFpPZUdxRTV4Z1psTjAyd1Rrbz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJbk5namU3VkU4Yjh1bnp3Z1NCT1hVZE1LRzJGUjBaM09VOEdQTUEvNVMydWF3NldmMlZhOCtSS2U3bEt2R3pmNFh6SHdEOFhGamhqdGxxb0ZTUXJCL0lRK1FBRTcyM3BIenJHcnZKZDM5U3dZdHNtUzcvSUtpNnlsS2g3SEUwZ0tmaEdCcW9FNHIvNit3Wkptb29rVFRPc0RRNkFLSG01OHVlZFFsUm5EbE81bTNmcytZIn0="
     },
     {
       "id": "1552381063475499109",
@@ -3176,8 +3660,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeUhIZHdOQk9jeGF5SGEzeWRQQ1Z2eHVlVU1kckhLTGtoTThLZDFtdnR1RVJRMnZpOGtKOUdrKzY0NzNTSmRHeEp1M0hZNnNTcUplQWRxVlBqUXVkcC9TTGN5UjhvRUFIQW05OHkrUldGVVVsNmZpVmhwOEh1eFlJeHNFVllLSGpKcit2bWt0Q3cyYXdJQStlaWo5eXdWUWRJWjljN3RQTnkvc21NbXNEOS83VmFyMDJSUDJtUEdtZHUwNzBLYzErdjhpOD0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJcy9qbHc3TGk5eGlDcXRRQ3ZCSE0ydHNaNVlramlPSGxnQnFSdFBiNWhuTlVVK0E1anNvMXJHYWJaeDZ2MTJiRUUrVjdzeUNJeHB3eDBmdHljRFJsdlFqRDZiNXlBTTdTd2ZTNkFhU0RiWUpHekRsa1ZpR3F6ejcwTk11RUlWdzBQaDI0NW1xSFRXOWl5SG5vR1BQVFFlQjRzRkZIaUJ2dGRkNGNQcHR3UUJwemFVVkd6In0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMZURxaG56ell2eEpFa2lsdHQrSWt2d005OGlaSExoaDJrdDlxL01kOVh1NjhNS0F1WXZ0d0VIYnhRb3dJcGtkeituZW9SaXhPdlcvQ3gyODEvVXRlT3RWbTVUQklWcG95ZWlJWFlDUHgzVllEN1RCeEM2bzNvL3FwRHk1Z0IyMGJ6UmtWUDl4VjhHdDVyZ3VOZVZGclBybEVhb01SM1BITW0zK3NZTkRob1llT1FNMG9LcFpPZUdxRTV4Z1psTjAyd1Rrbz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKWU9EcmRNNWFIT3ZMMVdhSm95RjV5Q1lFU2tKbFpsR0l1NlpTalZCWDRxV0dENFh3WURRVldyWm1wUUU5MzdwaGNKdlZzODV0cGNEa1d3dDMxSUNqT2RKUmM0WU4rT0xoMWtzQTdhUm5uUThrRjNkN3lLYko1empsWHpBYlRxRFYxKzJXSk1GMC9kZlAwRW5oT1pvaTVNaVBFUzBFTlhEaFYwM0lFYTAzUW9JRVAyQTcrIn0="
     },
     {
       "id": "1569875293647143013",
@@ -3308,8 +3792,140 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeUhIZHdOQk9jeGF5SGEzeWRQQ1Z2eHVlVU1kckhLTGtoTThLZDFtdnR1RVJRMnZpOGtKOUdrKzY0NzNTSmRHeEp1M0hZNnNTcUplQWRxVlBqUXVkcC9TTGN5UjhvRUFIQW05OHkrUldGVVVsNmZpVmhwOEh1eFlJeHNFVllLSGpKcit2bWt0Q3cyYXdJQStlaWo5eXdWUWRJWjljN3RQTnkvc21NbXNEOS83VmFyMDJSUDJtUEdtZHUwNzBLYzErdjhpOD0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLVGN3aDl1Q2xnYitiSE5RRkZGUFFvQ0p3Q2xSY3VVcXNmT0g3WExhSkNvdGFFQWF4di8wNzJ4VnQvTXA1WC9NZ2tFQi9sYUs4ODIxSGtqYk1HZ0YzZ2R3R1BPOGs0VDc4aXI1N0ZRZ1FHbkcvRHBtSGFBcWNBMGpTM1Mvdk11amFEczVkQjBIN1lzZG1lNGVnRTNJMElaTFd0ZkM5TlBEWDErS3NWUDN0T0JrSjRCK2dGIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMZURxaG56ell2eEpFa2lsdHQrSWt2d005OGlaSExoaDJrdDlxL01kOVh1NjhNS0F1WXZ0d0VIYnhRb3dJcGtkeituZW9SaXhPdlcvQ3gyODEvVXRlT3RWbTVUQklWcG95ZWlJWFlDUHgzVllEN1RCeEM2bzNvL3FwRHk1Z0IyMGJ6UmtWUDl4VjhHdDVyZ3VOZVZGclBybEVhb01SM1BITW0zK3NZTkRob1llT1FNMG9LcFpPZUdxRTV4Z1psTjAyd1Rrbz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKeFpmdHVldXFnNC9HQXJ5RzdoQzZtdDNIVTA4dmpPN1hKNzA2N3pvUFFUbkdleU1UT2pQWUZLVTRnOHlRTUtTUVdkOHY5NG5KZTBTQUpNSDNOdWlOd0hpT0tBb2RJWDFxalhQTU9NblRNb1k2SllIQ0tjLytiUlZyNk1Hcit1akVmekl4VkdUc3VoM3pnZ2UrK1FTY2p0UTRrUnU1a09zM3NkK29pR2E1ZHpnSW90Q0pYIn0="
+    },
+    {
+      "id": "1564479754147594341",
+      "config": {
+        "id": "1564479754147594341",
+        "config_version": 2,
+        "starts_at": "2026-11-05T18:00:00+00:00",
+        "expires_at": "2026-11-13T01:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.audible.com/pd/Exoplanet-Audiobook/B0HDFGKSTL",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1564479754147594341/1564484000674873436.jpg",
+          "hero_video": "quests/1564479754147594341/1567292653089857546_720.mp4",
+          "quest_bar_hero_blurhash": "GfgFEoQKOIhPhkZzSW+m9GY=",
+          "quest_bar_hero": "quests/1564479754147594341/1564484000674873436.jpg",
+          "quest_bar_hero_video": "quests/1564479754147594341/1567292480070754365_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1564479754147594341/1564483497849004052.jpg",
+          "game_tile_dark": "quests/1564479754147594341/1564483497849004052.jpg",
+          "logotype_light": "quests/1564479754147594341/1564483552077283389.png",
+          "logotype_dark": "quests/1564479754147594341/1564483607295426640.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Audible Exoplanet",
+          "game_title": "'Exoplanet' coming to Audible on November 5",
+          "game_publisher": "Audible"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1564479754147594341/1564484000930725898_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1564479754147594341/1564484000842780692.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1564479754147594341/1564484000930725898_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1564479754147594341/1564484000842780692.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1564479754147594341/1564484000930725898.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1564479754147594341/1564484000842780692.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1564479754147594341/1564484000809226341_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1564479754147594341/1564484000842780692.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1564479754147594341/1564484000809226341_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1564479754147594341/1564484000842780692.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1564479754147594341/1564484000809226341.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1564479754147594341/1564484000842780692.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": 240
+            }
+          ],
+          "rewards_expire_at": "2026-12-13T01:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.audible.com/pd/Exoplanet-Audiobook/B0HDFGKSTL",
+          "button_label": "Listen Now",
+          "subtitle": "Listen Now on Audible"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "ad_context": null,
+      "preview": false,
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMZURxaG56ell2eEpFa2lsdHQrSWt2d005OGlaSExoaDJrdDlxL01kOVh1NjhNS0F1WXZ0d0VIYnhRb3dJcGtkeituZW9SaXhPdlcvQ3gyODEvVXRlT3RWbTVUQklWcG95ZWlJWFlDUHgzVllEN1RCeEM2bzNvL3FwRHk1Z0IyMGJ6UmtWUDl4VjhHdDVyZ3VOZVZGclBybEVhb01SM1BITW0zK3NZTkRob1llT1FNMG9LcFpPZUdxRTV4Z1psTjAyd1Rrbz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKLzk2RXhQWFJiZS9vNk8yMGt1NlpxaDBiL0xKNnF2dFJtL1lTZlBBNTlkQjg3QVcwdDRhRnJRdms5eVp6VXdKTC9CU2VNditVaXRuaGgxK1EwaW4zTzNISWxraXA4dU8rZ1BuOU15VU96eFg3RzNOUU0yUmNOa1RTMWE4SGY2aVlFelpDWGlaWW9UekF1dmhQRGhKTnY2UEc4WUpyL1ZxNVozbFlPeW1scjBnWFB1VGhuIn0="
     },
     {
       "id": "1569637063341379687",
@@ -3403,8 +4019,139 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeUhIZHdOQk9jeGF5SGEzeWRQQ1Z2eHVlVU1kckhLTGtoTThLZDFtdnR1RVJRMnZpOGtKOUdrKzY0NzNTSmRHeEp1M0hZNnNTcUplQWRxVlBqUXVkcC9TTGN5UjhvRUFIQW05OHkrUldGVVVsNmZpVmhwOEh1eFlJeHNFVllLSGpKcit2bWt0Q3cyYXdJQStlaWo5eXdWUWRJWjljN3RQTnkvc21NbXNEOS83VmFyMDJSUDJtUEdtZHUwNzBLYzErdjhpOD0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLN0p0d3VQTS9KdzVaR0pXOER1bmY2cnJkNmdLbXRHMElTN2ZsdzdLSTZaK0hEa0cwR0cyd2hkT2UwUEYxZ2VkZ3J3T1haSTdRM3R5bXhkN0lkRkpRU3RZTm1BZHc5ODFWMDNoVDA5bVJCMWZPNUFrYmpDaXc1YzQ0aXZ3TkpaSndNT3dsUzQ5UnlDcVE4TWJ6djUvTkdIYlU5U1NkQnRISlhWNTVKSkd6c3g4YjFhN3l3In0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMZURxaG56ell2eEpFa2lsdHQrSWt2d005OGlaSExoaDJrdDlxL01kOVh1NjhNS0F1WXZ0d0VIYnhRb3dJcGtkeituZW9SaXhPdlcvQ3gyODEvVXRlT3RWbTVUQklWcG95ZWlJWFlDUHgzVllEN1RCeEM2bzNvL3FwRHk1Z0IyMGJ6UmtWUDl4VjhHdDVyZ3VOZVZGclBybEVhb01SM1BITW0zK3NZTkRob1llT1FNMG9LcFpPZUdxRTV4Z1psTjAyd1Rrbz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJSUpaekc2RCtlM2tQVW5IVWFPazdCd0UwQ2g4c0hCY1ZDL0NyYTJTM0VURmlJM2psZWZPZ0NKbWFSWnI0b2dleTZiZlNnM2xjMERuREpzeE5lelN3a2phUU1wZTY1QWowZEdHZEpzb0FnbGpPMEovZWIzQ2dITkxLQWdaL2ozbHdadWVBS1IzYjJHY1ZoN1ZuT2Y4Y0NNanlXYTdZL202ZklqZHkvMnlaeTZjRDNBeG5CIn0="
+    },
+    {
+      "id": "1573128124378390630",
+      "config": {
+        "id": "1573128124378390630",
+        "config_version": 2,
+        "starts_at": "2026-11-24T20:00:00+00:00",
+        "expires_at": "2026-12-07T01:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.fandango.com/the-hunger-games-sunrise-on-the-reaping-2026-240138/movie-overview?cmp=ST_Lionsgate:HungerGamesSOTR:Discord",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1567441774820065380/1567443278289313932.jpg",
+          "quest_bar_hero_blurhash": "GTgKCoQ1dsZfeIZ2MIQCdmo=",
+          "quest_bar_hero": "quests/1567441774820065380/1567443278289313932.jpg",
+          "quest_bar_hero_video": "quests/1573128124378390630/1574862741846360195_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1567441774820065380/1567443432710864946.png",
+          "game_tile_dark": "quests/1567441774820065380/1567443432681771028.png",
+          "logotype_light": "quests/1567441774820065380/1567443367418138775.png",
+          "logotype_dark": "quests/1567441774820065380/1567443367489568778.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "The Hunger Games",
+          "game_title": "IN THEATERS NOW",
+          "game_publisher": "Lionsgate"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 14,
+              "assets": {
+                "video": {
+                  "url": "quests/1573128124378390630/1574511257476661312_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1567441774820065380/1567443299784990861.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1573128124378390630/1574511257476661312_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1567441774820065380/1567443299784990861.png"
+                },
+                "video_hls": {
+                  "url": "quests/1573128124378390630/1574511257476661312.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1567441774820065380/1567443299784990861.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 14,
+              "assets": {
+                "video": {
+                  "url": "quests/1573128124378390630/1574511257166413916_1080.mp4",
+                  "width": 607,
+                  "height": 1080,
+                  "thumbnail": "quests/1567441774820065380/1567443299784990861.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1573128124378390630/1574511257166413916_720.mp4",
+                  "width": 607,
+                  "height": 1080,
+                  "thumbnail": "quests/1567441774820065380/1567443299784990861.png"
+                },
+                "video_hls": {
+                  "url": "quests/1573128124378390630/1574511257166413916.m3u8",
+                  "width": 607,
+                  "height": 1080,
+                  "thumbnail": "quests/1567441774820065380/1567443299784990861.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": 240
+            }
+          ],
+          "rewards_expire_at": "2027-01-06T01:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.fandango.com/the-hunger-games-sunrise-on-the-reaping-2026-240138/movie-overview?cmp=ST_Lionsgate:HungerGamesSOTR:Discord",
+          "button_label": "Get Tickets",
+          "subtitle": "IN THEATERS NOW"
+        }
+      },
+      "user_status": null,
+      "targeted_content": [],
+      "ad_context": null,
+      "preview": false,
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMZURxaG56ell2eEpFa2lsdHQrSWt2d005OGlaSExoaDJrdDlxL01kOVh1NjhNS0F1WXZ0d0VIYnhRb3dJcGtkeituZW9SaXhPdlcvQ3gyODEvVXRlT3RWbTVUQklWcG95ZWlJWFlDUHgzVllEN1RCeEM2bzNvL3FwRHk1Z0IyMGJ6UmtWUDl4VjhHdDVyZ3VOZVZGclBybEVhb01SM1BITW0zK3NZTkRob1llT1FNMG9LcFpPZUdxRTV4Z1psTjAyd1Rrbz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLK0JobkR4b3BIQmJETmV2M0hkWnpzNWwwd0s4MXB1Q2dsLy9WWk9RSWRFbmNGWFhDYnh6MDM3YWhwTzZLZ0x2Zlo2Tnp6bHZqSS9DZERyczRZSlNuejl2dXM0REJXdGY3ZFI4YmJpKzU3cUNzWVNTbTZlbVJ6dUpPRUNVN0NnWHBBMzFvMmNLbk1lSE9jUFd3bkVKTmJTb2pZZW1oeFZJZG9OQ0dQMFk5cGdNK0ZoV3lFIn0="
     },
     {
       "id": "1562498875032473711",
@@ -3489,8 +4236,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeUhIZHdOQk9jeGF5SGEzeWRQQ1Z2eHVlVU1kckhLTGtoTThLZDFtdnR1RVJRMnZpOGtKOUdrKzY0NzNTSmRHeEp1M0hZNnNTcUplQWRxVlBqUXVkcC9TTGN5UjhvRUFIQW05OHkrUldGVVVsNmZpVmhwOEh1eFlJeHNFVllLSGpKcit2bWt0Q3cyYXdJQStlaWo5eXdWUWRJWjljN3RQTnkvc21NbXNEOS83VmFyMDJSUDJtUEdtZHUwNzBLYzErdjhpOD0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMRnFYMGdnSHQyQWZtSm1uUlVzZFF2TVV4VktBWXhJNDNscWR0dDRPQ05mTGloWUIwam14aTM5T1BqWHBnc2Rwbk9pdnZ1VjRjSG13alJFKzA0cFBDTGxPSGhTdnVOZjdyWlNKOHR1ck41Y1FBYXRUemtYZ3ZHRytUSHhRMkp2aElCblIycnAwRkdaRjBNNVA3dVFpRERMMTNITnNJbEhndmxDbllwRzhuN0JxM0VDZkFpIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMZURxaG56ell2eEpFa2lsdHQrSWt2d005OGlaSExoaDJrdDlxL01kOVh1NjhNS0F1WXZ0d0VIYnhRb3dJcGtkeituZW9SaXhPdlcvQ3gyODEvVXRlT3RWbTVUQklWcG95ZWlJWFlDUHgzVllEN1RCeEM2bzNvL3FwRHk1Z0IyMGJ6UmtWUDl4VjhHdDVyZ3VOZVZGclBybEVhb01SM1BITW0zK3NZTkRob1llT1FNMG9LcFpPZUdxRTV4Z1psTjAyd1Rrbz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKQ3BsWEdLMnFRWGtuWXI5YmkzSGo5K2VYSE9GZHc2S0dZajFSZUVtTUM3UFl2eHRieHNjRWRHRHRESElNbG04NVZBbk51QVdmSjUyaE5HVEhmaG1aS25nNS9uaFQ0ZzBnT2s5Tkk2VHFGQXorZXZUc1BFTVJZdjBNY3liYU5VUXIxVmlVV0VwRThFQ0lza2piQ1lkYTcvMVpzMXJGUGhjVzU2YjQzM1R1N01XMjZLemtXIn0="
     },
     {
       "id": "1565590271301779568",
@@ -3582,8 +4329,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeUhIZHdOQk9jeGF5SGEzeWRQQ1Z2eHVlVU1kckhLTGtoTThLZDFtdnR1RVJRMnZpOGtKOUdrKzY0NzNTSmRHeEp1M0hZNnNTcUplQWRxVlBqUXVkcC9TTGN5UjhvRUFIQW05OHkrUldGVVVsNmZpVmhwOEh1eFlJeHNFVllLSGpKcit2bWt0Q3cyYXdJQStlaWo5eXdWUWRJWjljN3RQTnkvc21NbXNEOS83VmFyMDJSUDJtUEdtZHUwNzBLYzErdjhpOD0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLKzR4Uit2ZWJtSVJqSk8zY3JZdHJuSnZWSlcvRVcreWU0cy9Henl3RjBxcVMvOFpVVXVsVURlZXV3NmM1bVVLLy9vVFE4Q2NUeDNYUFNFYmxOTE1JMlR4Q3NzN3Z4WHdwbGwxSEpacldQNk5tYWlHY0dGQm1YTlMrYktua0dUU09xejJ6eExEZnN3MGw0bVpkT3dCNUZQUXB6MFlQOHVjWnVRY091NXZJVFV1OWhKRTkyIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMZURxaG56ell2eEpFa2lsdHQrSWt2d005OGlaSExoaDJrdDlxL01kOVh1NjhNS0F1WXZ0d0VIYnhRb3dJcGtkeituZW9SaXhPdlcvQ3gyODEvVXRlT3RWbTVUQklWcG95ZWlJWFlDUHgzVllEN1RCeEM2bzNvL3FwRHk1Z0IyMGJ6UmtWUDl4VjhHdDVyZ3VOZVZGclBybEVhb01SM1BITW0zK3NZTkRob1llT1FNMG9LcFpPZUdxRTV4Z1psTjAyd1Rrbz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLYXFPODhOYzlNQnpCRUxXZVd5V3JidnRaK1MrWlBBYlVmcjRCUjlTbzNTQmRZZXZHNXV0Q3hXTmtuSGg5UklEaDNWZ3dqRDRpNDZwWHNpQ3MydnJZZHJONXRQODZwcnFGSjZyMEtKMkVNc0lJaEsrYnFZV1pCd3Q4aE96OEhyY3c1T3kyMXgxK0t0ZEl1OTBCWk5sUmk1dS9Ia01rNFNqTEhvLzhIS3Z1VUtxTDl6S0FxIn0="
     },
     {
       "id": "1555669093204500591",
@@ -3714,8 +4461,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeUhIZHdOQk9jeGF5SGEzeWRQQ1Z2eHVlVU1kckhLTGtoTThLZDFtdnR1RVJRMnZpOGtKOUdrKzY0NzNTSmRHeEp1M0hZNnNTcUplQWRxVlBqUXVkcC9TTGN5UjhvRUFIQW05OHkrUldGVVVsNmZpVmhwOEh1eFlJeHNFVllLSGpKcit2bWt0Q3cyYXdJQStlaWo5eXdWUWRJWjljN3RQTnkvc21NbXNEOS83VmFyMDJSUDJtUEdtZHUwNzBLYzErdjhpOD0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMRVI5L0pydFBSTm5hNGlkbWxyNHUzOEJsQi93M1JKcHkzNFMvZXBJbDgzVTJMK2w5aVFtcmtMQTc2cU1RdXVRdTJoM3hSd0tvWWFGQ0V5MXJuNzFROTRCb1Z6QW1Xd0d4WFBuT2tSSUZiRmxzWVdHWTlPdTBZM1h4VWUvNnp4Z090em5vanZqR2Q0eWdPUmdiWUM1a05yQ1BmTDRLcFZHY3R5L1hHMmdweWlIbDloQnJVIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMZURxaG56ell2eEpFa2lsdHQrSWt2d005OGlaSExoaDJrdDlxL01kOVh1NjhNS0F1WXZ0d0VIYnhRb3dJcGtkeituZW9SaXhPdlcvQ3gyODEvVXRlT3RWbTVUQklWcG95ZWlJWFlDUHgzVllEN1RCeEM2bzNvL3FwRHk1Z0IyMGJ6UmtWUDl4VjhHdDVyZ3VOZVZGclBybEVhb01SM1BITW0zK3NZTkRob1llT1FNMG9LcFpPZUdxRTV4Z1psTjAyd1Rrbz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMVEJ3aUNTeUo3dWpzUjM5dE9rMTM1M2N2ZWZ2MHN5OHJMRU4rNVMxTjhnaUpRaXYwMXdiZ0xXTXlxSGxYNit5cXM3d3hXODhGUXkvUlpuektsc1UxUXdDL2NENDQremt5MVhkbGRsVEhJdUVJRTNKQTZnZ1VHMlBtRFJqSzlmZlhjR1E4M2p2VEwweEZZdlUrY3UvWDdiQkdNei9OeGpSRDRBeDBpK3h3bXpKeHRmL3AwIn0="
     },
     {
       "id": "1550194203613462641",
@@ -3845,8 +4592,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeUhIZHdOQk9jeGF5SGEzeWRQQ1Z2eHVlVU1kckhLTGtoTThLZDFtdnR1RVJRMnZpOGtKOUdrKzY0NzNTSmRHeEp1M0hZNnNTcUplQWRxVlBqUXVkcC9TTGN5UjhvRUFIQW05OHkrUldGVVVsNmZpVmhwOEh1eFlJeHNFVllLSGpKcit2bWt0Q3cyYXdJQStlaWo5eXdWUWRJWjljN3RQTnkvc21NbXNEOS83VmFyMDJSUDJtUEdtZHUwNzBLYzErdjhpOD0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLUENQb1I5cHpKYklEQTBwc0dkOUVKaVNIOGl6czdWZzZ1b0lzcjJiTEV6M2U5K1Q0d2FsUkRVZWxIMXZGYy9CcXhvWEN5MzU3YThLTWFsZFZKM1hnQS9YL2JzTnpOZEVnK0k4SWlhUTAyRXF1TEdxdWV0czY5RlNRYVM3UHVrc25Vb1JHeUVwL3JIYXBqNVN5Zk50RVBtWFhIT0x5S1huamliYmFnZXRPeWhnOHFMaTRJIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMZURxaG56ell2eEpFa2lsdHQrSWt2d005OGlaSExoaDJrdDlxL01kOVh1NjhNS0F1WXZ0d0VIYnhRb3dJcGtkeituZW9SaXhPdlcvQ3gyODEvVXRlT3RWbTVUQklWcG95ZWlJWFlDUHgzVllEN1RCeEM2bzNvL3FwRHk1Z0IyMGJ6UmtWUDl4VjhHdDVyZ3VOZVZGclBybEVhb01SM1BITW0zK3NZTkRob1llT1FNMG9LcFpPZUdxRTV4Z1psTjAyd1Rrbz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dLbytrWTNGQXdGK0FVOWdDOE0vMDJVQzYyaWhlTU1kSmxiT2Z5ZGlwRlhub1lIVmE5b1lYRnFzb1pocS8xK01kdWtubUprUVZxdkswQVpSMzl4MTVXWW51aUpsczBDOWJIcitmMmZyOHdZRHZsZXpRSGdkWEE5anVBcmM3bkdJaDZvK2NFZ3R2V25VODRzWGwyYTdJWFFQenVkcnRLNy96V3dVYko5cTdTcFR1S2V4bTdZIn0="
     },
     {
       "id": "1573283495755645048",
@@ -3940,8 +4687,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeUhIZHdOQk9jeGF5SGEzeWRQQ1Z2eHVlVU1kckhLTGtoTThLZDFtdnR1RVJRMnZpOGtKOUdrKzY0NzNTSmRHeEp1M0hZNnNTcUplQWRxVlBqUXVkcC9TTGN5UjhvRUFIQW05OHkrUldGVVVsNmZpVmhwOEh1eFlJeHNFVllLSGpKcit2bWt0Q3cyYXdJQStlaWo5eXdWUWRJWjljN3RQTnkvc21NbXNEOS83VmFyMDJSUDJtUEdtZHUwNzBLYzErdjhpOD0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKV0RraHhDU241SWNiOW9KN3ZSZEphd25Jenl3Umc5UTB3dnB2WU9JVk1IdFZnUmpUUVc0RTMzTTRaUDJaZGF0SzBXbjN6djVRcGI1Y1hRTWVXNkxNWW8vaVF6OUpqY1BKb3RrbjhrRVBRU0h6MDNCeEpDazlLUWNwTWhzNHJ2RXdPTk5ORDJhbjJ2Z2YvdVBFM3FyNnZ5UDBqZHk3UU9NNktSY1BqU2RSd3JLSnJRVTBHIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMZURxaG56ell2eEpFa2lsdHQrSWt2d005OGlaSExoaDJrdDlxL01kOVh1NjhNS0F1WXZ0d0VIYnhRb3dJcGtkeituZW9SaXhPdlcvQ3gyODEvVXRlT3RWbTVUQklWcG95ZWlJWFlDUHgzVllEN1RCeEM2bzNvL3FwRHk1Z0IyMGJ6UmtWUDl4VjhHdDVyZ3VOZVZGclBybEVhb01SM1BITW0zK3NZTkRob1llT1FNMG9LcFpPZUdxRTV4Z1psTjAyd1Rrbz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKUG5aS2hkUEdxalM0cHAxaDNvZ0paMkd0cE1VQWRFcVhvOVh1a2FKcmhTbk1CWmRFOCtNalZXS2twOHQ5TFplU1VUUWdqQTM1Y3hzY1hQRTNYL0R5cS8yZ3N1NjhyR3ZpRERldzNjb2Z6Z3BkaktFQWRuSHpteUtjbmhLcXo2am11RndVZmdVd242TkQxdEsyL0dLOUltcDM4a1JManhDa0x0ejU4b1hGckxvSUNHUjVtIn0="
     },
     {
       "id": "1563322864659202169",
@@ -4044,8 +4791,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeUhIZHdOQk9jeGF5SGEzeWRQQ1Z2eHVlVU1kckhLTGtoTThLZDFtdnR1RVJRMnZpOGtKOUdrKzY0NzNTSmRHeEp1M0hZNnNTcUplQWRxVlBqUXVkcC9TTGN5UjhvRUFIQW05OHkrUldGVVVsNmZpVmhwOEh1eFlJeHNFVllLSGpKcit2bWt0Q3cyYXdJQStlaWo5eXdWUWRJWjljN3RQTnkvc21NbXNEOS83VmFyMDJSUDJtUEdtZHUwNzBLYzErdjhpOD0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dKSW4yUTVWV3Z3ck5KTi9hR2k0RlBIQVJzMlpsWlFnMmpXSUFtczdmQ3EwSlU4d0hOVVFTWFNyR1RpMjFFZ2xmR24yVmJjaGVrWHpyQzhoR1ZxdE1KcElpTXV1ZDdXMmVXaFY0cEprRDRTQWtPbytYQ040S2Z3dFc2MHhkcXc1M2VFZFN1QVB2T3pkcmg2SkFNL2sxSVRINy8vdTNCbVF1N0hyMnhtTHczMWFLNkpQZ216In0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMZURxaG56ell2eEpFa2lsdHQrSWt2d005OGlaSExoaDJrdDlxL01kOVh1NjhNS0F1WXZ0d0VIYnhRb3dJcGtkeituZW9SaXhPdlcvQ3gyODEvVXRlT3RWbTVUQklWcG95ZWlJWFlDUHgzVllEN1RCeEM2bzNvL3FwRHk1Z0IyMGJ6UmtWUDl4VjhHdDVyZ3VOZVZGclBybEVhb01SM1BITW0zK3NZTkRob1llT1FNMG9LcFpPZUdxRTV4Z1psTjAyd1Rrbz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJNE0yd0VxOU0xNEV0SUh6WS9YT1FpZ21jbEpmWDdyZHFvQVdoTzh6YUZKdkQwWlhNaTUxRlJqeERzOStSVWxDeXFtYmFtOFRmRVFFSEJuQjNZbjU3TmdVbUFJN1cyQ1BlM1lHRUUwUUtwSXpJbFhaVURuaFFZUHZ2b3UxNFBVZnd3VExqaTZFdnFTWG9peks0OWNDYTJpMU16eGdsUk5GbENkNEpHS0JnTFRCbVdmZHl6In0="
     },
     {
       "id": "1560184130673840250",
@@ -4140,8 +4887,8 @@
       "targeted_content": [],
       "ad_context": null,
       "preview": false,
-      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dJeUhIZHdOQk9jeGF5SGEzeWRQQ1Z2eHVlVU1kckhLTGtoTThLZDFtdnR1RVJRMnZpOGtKOUdrKzY0NzNTSmRHeEp1M0hZNnNTcUplQWRxVlBqUXVkcC9TTGN5UjhvRUFIQW05OHkrUldGVVVsNmZpVmhwOEh1eFlJeHNFVllLSGpKcit2bWt0Q3cyYXdJQStlaWo5eXdWUWRJWjljN3RQTnkvc21NbXNEOS83VmFyMDJSUDJtUEdtZHUwNzBLYzErdjhpOD0ifQ==",
-      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMU0FJNVpwT1AyVEJIWi9MaDdLVW84UGFhR3dXb1lUSFZDeXVOTGdnNWp3Tk9aYndLV3NLOTQ0clArMThEU3VlKzNhaVNISnZCTHlWQ2hjL3BMY21aZXd4M29VWDZrZ3dxSlFGOVkxa3hYTld2bS9ZTDdjWmZsZ0RDeE1VcU5abFpnWXQ2V21LY0hVcVJkcFprYVFYTCswUElnWU9FSy9qdXU4VXJJS3c2MWI1ZlNOVndPIn0="
+      "traffic_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMZURxaG56ell2eEpFa2lsdHQrSWt2d005OGlaSExoaDJrdDlxL01kOVh1NjhNS0F1WXZ0d0VIYnhRb3dJcGtkeituZW9SaXhPdlcvQ3gyODEvVXRlT3RWbTVUQklWcG95ZWlJWFlDUHgzVllEN1RCeEM2bzNvL3FwRHk1Z0IyMGJ6UmtWUDl4VjhHdDVyZ3VOZVZGclBybEVhb01SM1BITW0zK3NZTkRob1llT1FNMG9LcFpPZUdxRTV4Z1psTjAyd1Rrbz0ifQ==",
+      "provenance_metadata_sealed": "eyJrZXlfZmluZ2VycHJpbnQiOiI4ZGUwNzVmMiIsInBheWxvYWQiOiJBWHdMd2dMRFBObzloVFRXdFNrZURSTkprWEpYMVNnK21SRnlUZW5nb1Q4R0cxZ0xYYzdKM1p3K3BnSi9iL1lvbWRTU0hKcURKdmZtdWV2WEk0RFdFeUJ6VkhZUXBLcWpMTzNJTlRsWjM2UXZIODlXZ2xNVmgvU1lnMEIwNy9UZU5TaTE4RE5tL21Edy9QVmh5QnFvcHZGSzZDVXBld1lDODhzWDd0S1JSVVZrZnhlc3VHOWhCME4zIn0="
     }
   ],
   "excluded_quests": [
@@ -4153,9 +4900,6 @@
     },
     {
       "id": "1555328744665911297"
-    },
-    {
-      "id": "1553899592100085760"
     },
     {
       "id": "1567922849824636928"
@@ -4203,10 +4947,10 @@
       "id": "1562882129065410582"
     },
     {
-      "id": "1552769263335514132"
+      "id": "1567609063297130518"
     },
     {
-      "id": "1567609063297130518"
+      "id": "1552769263335514132"
     },
     {
       "id": "1554596155680100372"
@@ -4257,9 +5001,6 @@
       "id": "1572420606723362858"
     },
     {
-      "id": "1568025226791493682"
-    },
-    {
       "id": "1554264699301007411"
     },
     {
@@ -4282,6 +5023,9 @@
     },
     {
       "id": "1554638309505110076"
+    },
+    {
+      "id": "1568041238115131453"
     },
     {
       "id": "1555737927445782598"
@@ -4341,10 +5085,7 @@
       "id": "1568015615690678364"
     },
     {
-      "id": "1567441774820065380"
-    },
-    {
-      "id": "1564479754147594341"
+      "id": "1570608924418121829"
     },
     {
       "id": "1564286233356542054"
@@ -4353,16 +5094,13 @@
       "id": "1562173737434882150"
     },
     {
-      "id": "1570608924418121829"
-    },
-    {
       "id": "1574951539280445460"
     },
     {
-      "id": "1572384460580589671"
+      "id": "1568040234019586149"
     },
     {
-      "id": "1573128124378390630"
+      "id": "1572384460580589671"
     },
     {
       "id": "1570893293712179301"
@@ -4443,6 +5181,9 @@
       "id": "1562174323802898584"
     },
     {
+      "id": "1568040819804348570"
+    },
+    {
       "id": "1572085565795471514"
     },
     {
@@ -4459,6 +5200,9 @@
     },
     {
       "id": "1567611962655772834"
+    },
+    {
+      "id": "1567613747357417633"
     },
     {
       "id": "1559615920190529706"
@@ -4498,6 +5242,12 @@
     },
     {
       "id": "1556747190242779347"
+    },
+    {
+      "id": "1567612471408328915"
+    },
+    {
+      "id": "1568040565919056114"
     }
   ],
   "quest_enrollment_blocked_until": null,
