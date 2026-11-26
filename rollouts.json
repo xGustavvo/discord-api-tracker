@@ -5301,5 +5301,31 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2026-11-mana-global-banner",
+    "title": "Mana global banner",
+    "hash_key": null,
+    "platforms": [
+      "desktop"
+    ],
+    "variants": [
+      {
+        "variant": 0,
+        "from": 0,
+        "to": 15,
+        "ranges": [
+          "0 - 1500"
+        ]
+      },
+      {
+        "variant": 1,
+        "from": 0,
+        "to": 15,
+        "ranges": [
+          "1500 - 3000"
+        ]
+      }
+    ]
   }
 ]
